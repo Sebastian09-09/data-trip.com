@@ -1,0 +1,2511 @@
+name:L‍i‍a‍n‍a‍3‍2‍1
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Couples
+info:61 Reviews
+rating:4.5
+posted:Posted April 1, 2024
+msg:Facilities: all in normal use
+Hygiene: clean and refreshing
+Environment: The location of the hotel is relatively quiet. Self-driving does not affect travel. The external environment is OK. The internal environment is empty and the corridors with long stone walls are cold. The rooms are warm and the breakfast is OK.
+----------------------------------------
+name:j‍l‍l‍9‍0
+info:Deluxe Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:27 Reviews
+rating:4.2
+posted:Posted October 6, 2023
+msg:The environment is very good, relatively quiet, the transportation is OK, and the price does not increase much during the National Day. The facilities are a bit old, but the price/performance ratio is okay.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2024
+info:Couples
+info:1 Review
+rating:2.2
+posted:Posted March 31, 2024
+msg:I slept well in the afternoon. The waiter came in by swiping his card and said he would bring me fruit.
+
+I turned off the lights at night, and the bedside reading light flashed a few times in the middle of the night, and then turned on by itself...
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 27, 2024
+msg:Complete facilities, very quiet at night, 15 minutes' drive from Nianhua Bay, friendly front desk service
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted May 17, 2023
+msg:Quiet and friendly to people with poor sleep. When I arrived, the big bed was full and I was upgraded to a suite for free.
+----------------------------------------
+name:l‍i‍a‍n‍g‍z‍h‍e‍e
+info:Deluxe Family Room
+info:Stayed in October 2023
+info:Family
+info:38 Reviews
+rating:5
+posted:Posted October 26, 2023
+msg:The room is clean and sanitary. There are bicycles for two or more people to ride at the door. The surrounding environment is very quiet. The breakfast is also good. It is cost-effective and suitable for self-driving travel.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 22, 2023
+msg:Quiet, with excellent surrounding scenery. You can ride bicycles and exercise along the lake.
+----------------------------------------
+name:a‍n‍g‍e‍l‍a‍g‍u‍i
+info:Deluxe Family Room
+info:Stayed in January 2023
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted January 26, 2023
+msg:I came to Lingshan and Nianhuawan during the Spring Festival holiday and chose this hotel! The location is very good, quiet and comfortable! The hotel service is very considerate! The bed is huge, suitable for a family of three! A very pleasant one-day stay!
+----------------------------------------
+name:S‍M‍A‍L‍L‍-‍E‍Y‍E‍S
+info:Deluxe Family Room
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 30, 2023
+msg:Very nice hotel, very quiet and warm!
+----------------------------------------
+name:H‍u‍i‍s‍i‍l‍e‍g‍u‍o‍j‍i‍a
+info:Deluxe Family Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted September 27, 2023
+msg:The hotel is located halfway up the mountain, on the edge of Taihu Lake. The environment is very quiet. The hotel has complete facilities, including a swimming pool and a gym. But the transportation is not very convenient, so driving yourself is a good choice!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2023
+info:Friends
+info:1 Review
+rating:2.5
+posted:Posted January 6, 2023
+msg:The hotel service staff felt very few. I wonder if it was because of the epidemic. The air conditioner in the room was set to 32 degrees. It was as cold as an ice cellar. After contacting the front desk, I contacted the front desk to bring a heater. After using it for a while, I smelled a burnt smell and did not dare to turn it on anymore. The quilt was so thin that it let light in. It’s hard to imagine that this was January and I didn’t get a good night’s rest. I checked out early the next morning. During breakfast, I heard other guests saying that the temperature in the room last night was very, very low. The breakfast level was not up to five-star standards. Standards…………It’s hard to describe in one word
+----------------------------------------
+name:H‍u‍a‍n‍g‍e‍n‍i‍a‍n‍g‍l‍i‍e‍r‍h‍o‍n‍g
+info:Deluxe Family Room
+info:Stayed in April 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted April 16, 2023
+msg:The hotel is very clean and the room is very quiet. It is a good place for leisure and health! I will always choose their hotel when I go to Lingshan in the future.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 25, 2023
+msg:Deluxe family room, quiet, very clean, considerate service
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:32 Reviews
+rating:5
+posted:Posted September 11, 2023
+msg:Beautiful environment, very quiet and very nice
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in January 2023
+info:Other
+info:1 Review
+rating:2.5
+posted:Posted January 27, 2023
+msg:Facilities: relatively poor, maybe no one has stayed there for a long time, the air conditioner does not heat, a heater will cause freezing; the swimming pool is not open, other facilities on the hotel page are not open, and the sound insulation effect of the room is poor
+Service: The service attitude is okay, the breakfast is not good, not as good as an average three-star hotel
+Hygiene: There is only one toothbrush in the hotel, and the other one is empty. It seems that it has been used and has not been updated in time.
+----------------------------------------
+name:E‍m‍i‍l‍y‍m‍a‍m‍i
+info:Deluxe Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:6 Reviews
+rating:1.7
+posted:Posted January 26, 2023
+msg:I don’t know if it’s because of the Chinese New Year, but there’s no service at all! I asked for a non-smoking room, but the room had a strong smell of cigarette smoke! The air conditioning was poor, the wind was noisy, and it was cold all night! Breakfast was even worse. Compared with other five-star hotels, the passenger flow was not much during festivals. However, the supply was insufficient in the morning and the steamed dumplings and buns were all cold! Very bad! The only advantage is that it is close to Lingshan Giant Buddha! I originally used points to redeem late check-out, but my children had to leave this shabby hotel early in the morning! This hotel is my only negative review! I don’t want to give it even one star!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Family
+info:3 Reviews
+rating:2
+posted:Posted May 24, 2023
+msg:There is a musty smell in the room and there are many mosquitoes
+----------------------------------------
+name:M‍I‍K‍E‍y‍o‍u
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:84 Reviews
+rating:5
+posted:Posted August 20, 2023
+msg:The room was clean and quiet!
+----------------------------------------
+name:M‍e‍i‍h‍a‍o‍d‍e‍b‍a‍b‍a‍y‍a‍a
+info:Deluxe Double Room
+info:Stayed in September 2022
+info:Other
+info:47 Reviews
+rating:3.7
+posted:Posted September 27, 2022
+msg:The hotel facilities are relatively old, but in good condition. The reception staff are very patient, and the restaurant staff are also warm and considerate. During dinner, we saw that the neighboring table was noisy and the photo disturbed us. They took the initiative to help us move to a quieter place to eat. We were very touched. The only shortcoming is that the breakfast is too simple and does not match the price. There is room for improvement.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in September 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 14, 2022
+msg:The front desk staff helped carry the luggage back to the room and explained the hotel facilities all the way. I really like this quiet hotel. It is very leisurely to go on vacation in your free time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in November 2022
+info:Friends
+info:14 Reviews
+rating:2
+posted:Posted November 13, 2022
+msg:The hotel is old, the room smells bad, and the breakfast is poor
+----------------------------------------
+name:o‍r‍r‍i‍s‍l‍e‍a‍f
+info:Deluxe Room (2 beds)
+info:Stayed in October 2022
+info:Friends
+info:2 Reviews
+rating:4
+posted:Posted November 9, 2022
+msg:Few people, quiet environment
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in August 2022
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted August 14, 2022
+msg:Nice, quiet, nice environment
+----------------------------------------
+name:G‍a‍n‍g‍z‍i‍n‍i‍u
+info:Deluxe Family Room
+info:Stayed in September 2021
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted September 21, 2021
+msg:The hotel is relatively quiet, the internal environment is elegant, and it is worth living.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:3.7
+posted:Posted May 4, 2024
+msg:這個雙床的標間應該是一個大床房改的，從圖一照片可以看出來，一張1.2米的床放在當中，兩側的牀頭櫃離床的距離就大了，見圖二，這個木製牀頭櫃的桌角尖硬，入住的時候應該拿靠墊塞住，擋住桌角以防意外磕碰，我就是大意了，沒拿靠墊塞住，結果導致小朋友半夜翻身的時候從床上不小心摔下去的時候被這個尖硬的桌角給傷的不輕，萬幸的是沒傷到要害，萬幸萬幸。凌晨靠近3點左右給前台打電話的時候，前台當班的姑娘很認真，給送來了雙氧水和棉簽，創可貼；我要的碘伏，説沒有，我從房間趕到前台，在前台姑娘拿出的葯箱中，沒有碘伏，沒有紗布，找到一瓶雲南白葯是2020年產的。這個在攜程網上標註5顆星星的酒店，前台葯箱也就這樣。要感謝認真負責的前台當班姑娘，打電話給值班經理，值班經理幫忙送來的説是從餐廳找的碘伏，看不到生產日期，但是用的時候，葯水很淡了。在這裏提醒各位，入住的時候還是用靠墊塞住空檔，以免夜間翻身受傷，也期望酒店能更新一下葯箱，更換一下臨近過期的葯品，補充一下應急的。5顆星星要有5顆星星的樣子才對。感謝凌晨三點多出手幫忙的前台姑娘和幫忙的值班經理。這次小朋友受傷，總之萬幸。萬幸。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 3, 2024
+msg:整個酒店在景區，很漂亮，像個公園。房間很寬敞，乾淨。晚上睡覺特別安靜，早餐品種也比較豐富。離拈花灣，靈山大佛都很近，打車不太好打，自己開車很方便
+----------------------------------------
+name:6‍6‍3‍6‍9‍0‍0‍1
+info:Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:酒店外直接是蒼松翠竹好空氣，但酒店內通風不是很好有點悶，過道很寬玻璃有窗但打開的非常少。早餐的麪條很好吃。服務熱情及時。建議衞生間安裝晾衣繩。
+----------------------------------------
+name:Z‍u‍i‍s‍h‍u‍a‍i‍d‍e‍n‍v‍s‍h‍e‍n‍g‍s‍y
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted March 20, 2024
+msg:房間設施齊全，乾淨整潔，空間大，配有户外晾衣桿，還有入住水果，蠻温馨的。是居家休閑娛樂的理想選擇場所。户外跑道很贊。還會再去。
+----------------------------------------
+name:‍ ‍S‍B‍S
+info:Deluxe Double Room
+info:Stayed in June 2024
+info:Business travelers
+info:116 Reviews
+rating:3.5
+posted:Posted June 6, 2024
+msg:該酒店離無錫靈山大佛五公里左右吧，在一個前不着村後不着店的公路邊上，算是一個商務精品酒店，早餐一般普普通通的幾個菜但是也能吃飽，600多元的房價有一點太高了，該酒店要環境沒有環境，在一個偏僻的路邊上要五星級的酒店價格，我不推推薦給廣大的遊客。
+----------------------------------------
+name:Y‍o‍u‍z‍h‍i‍s‍h‍i‍d‍e‍b‍u‍l‍u‍k‍e
+info:Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:3 Reviews
+rating:3.2
+posted:Posted May 6, 2024
+msg:酒店在一個深山老林裏 三面環山 距離市區較遠
+距離靈山大佛景區較近 正常車程10分鐘 酒店挺大的 配套也比較齊全 但是年代有點久 裝修也比較老了 早餐非常一般 節假日的早餐人很多 服務員收拾餐桌很潦草 上一客人用完後餐墊也沒有換新 擦桌子把餐墊掉在地上後直接撿起來鋪在桌上用……很無語
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Multi-level Suite
+info:Stayed in April 2024
+info:Other
+info:10 Reviews
+rating:3.5
+posted:Posted April 27, 2024
+msg:衝著太湖邊的地理位置去的，比較偏周圍啥也沒有，晚上車輛也極少，建議還是自駕，出門去太湖邊還要開車十幾分鍾；酒店很大，很冷清，房間走道燈光灰暗，有些壓抑；早餐可選擇不多，連小餛飩也沒有，西餐類別衹有麪包和雞蛋糕，令人失望；泳池要 5 月 1 日以後才能開。
+最後，搞團建和培訓可以來這裏，對酒店設施及餐食標準比較在意的話，還是選擇其他
+----------------------------------------
+name:x‍c‍ ‍1‍2‍3‍4‍5
+info:Deluxe Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:12 Reviews
+rating:4
+posted:Posted October 5, 2023
+msg:位於半山腰，距離拈花灣、靈山景區都不太遠。
+房間挺大，蠻乾淨，陽台上有晾曬衣服的架子，細節很好。
+餐廳在G層，自助早餐品種還可以，口味不錯。
+有停車場，車位比較多。
+酒店有雙人自行車，早晨可以沿着太湖邊騎行🚴🏻♀️，看風景。
+----------------------------------------
+name:Q‍i‍q‍i
+info:Deluxe Family Room
+info:Stayed in October 2023
+info:Family
+info:30 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:房間很乾凈，床品也舒服。浴品標準和酒店不符哦。服務員很熱情，有問必答。借了酒店的自行車騎行，非常感謝！餐廳198套餐也很值！帶小朋友的家庭推薦！離靈山大佛很近！
+----------------------------------------
+name:G‍u‍o‍l‍i‍c‍h‍e‍n‍g‍z‍h‍i‍d‍a‍o
+info:Deluxe Family Room
+info:Stayed in August 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted August 28, 2023
+msg:房間：家庭房房間非常寬敞，1.8和1.2米的床各一張，適合親子出行。設施維護得很不錯，作為開業8年的酒店，保養得還是挺新的，入住體驗挺不錯。位置在山間，往外看到處都是鬱鬱葱葱，感覺像是住在天然氧吧，風景非常棒！
+
+服務：服務態度特別好，入住房間後還主動送來歡迎水果和酸奶，非常用心對待顧客，好評！酒店有泳池，寬敞明亮，本來説晚上9:00泳池就關閉了，但工作人員並沒有清場，主動説願意游到幾點都可以，這樣的服務態度不愧是星級服務了。
+
+早餐：入住前看到評價説品種比較少，實際體驗下來餐食確實不算太多，但該有的都有，也能吃得很不錯。西餐品種少一點，衹有兩三種麪包、黃油，咖啡一種口味。看得出酒店主打早餐是中餐，有師傅下雞湯麪條，味道很好，還有炒飯、炒菜、河粉、粥、包子、玉米、紅薯、水果、牛奶、水煮蛋、荷包蛋、橙汁、酸奶，總體還是比較豐盛的。
+
+交通和附近餐飲：地理位置在馬山、靈山大佛景區附近，比較適合自駕（叫車不是很方便），從市區環湖開車過來景色還是很賞心悦目的，可以看到一大片太湖風光。酒店有餐廳，但這次我們沒嘗試。酒店出來往右開車大概開3公里就是靈山大佛景區大門，對門一排（在環山東路上）有很多吃飯的餐館，人均7、80就可以吃到口味地道的無錫菜，醬排骨、太湖三白、 炒山筍味道都非常贊。
+
+總體入住體驗很棒，是一家性價比很高的五星，推薦自駕遊的夥伴們可以過來體驗一下，下次來無錫還會過來住！
+----------------------------------------
+name:C‍a‍n‍y‍a‍n‍g‍s‍o‍n‍g
+info:Deluxe Family Room
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:4.5
+posted:Posted February 13, 2024
+msg:2024年春節期間在無錫嘉昱酒店住了兩晚，酒店交通便利、環境清靜。酒店房間較大、裝璜簡美，服務員彬彬有禮、待客有道。美中不足就是歺廳春節期間中、晚歺衹提供套餐，可以選擇的菜品太少。房間中央空調出風口聲音有點大。
+----------------------------------------
+name:A‍i‍d‍a‍i‍j‍i‍a‍r‍e‍n‍l‍v‍x‍i‍n‍g‍d‍e‍w‍o
+info:Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:35 Reviews
+rating:5
+posted:Posted May 6, 2024
+msg:房間很大，酒店外面就是太湖，酒店坐落在景區內，去景區非常方便，酒店內設施非常齊全，希望酒店在早餐的種類和餐廳工作人員的人數方面再提升一下會更好
+----------------------------------------
+name:S‍h‍a‍n‍w‍a‍i‍d‍e‍q‍i‍n‍g‍s‍h‍a‍n
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:33 Reviews
+rating:5
+posted:Posted August 8, 2023
+msg:酒店環境很好！可以在周邊轉轉，欣賞太湖。房間也挺大的。游泳池我去那天，泳池裡最多的時候也就七個人，非常寬鬆！孩子很滿意！房間有陽台，可以欣賞到夕陽西下。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in December 2023
+info:Friends
+info:2 Reviews
+rating:4
+posted:Posted January 3, 2024
+msg:check-in排隊有點長，且僅一個隊伍開着，酒店環境其實不錯的，但樓和樓之間離較遠。可惜我住在離大堂最遠的樓，樓裏卻沒自己單獨能進出的門。在住的樓旁邊停完車後，一定要繞到大堂的正門口進入酒店。酒店的環境還帶有小山丘和小池塘，晚上看不清的情況下走路，出入有安全隱患。。。
+----------------------------------------
+name:A‍b‍o‍l‍u‍o‍1‍9‍7‍9
+info:Deluxe Family Room
+info:Stayed in December 2023
+info:Family
+info:8 Reviews
+rating:4.5
+posted:Posted January 4, 2024
+msg:環境很不錯，服務也很好，就是管理欠缺了點……停車場沒有明確的標識和指示，晚上停好車，第二天都不知道上哪去找……一共也就五個充電樁，結果停了三台燃油車，也不知道是怎麼管理的……
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 9, 2023
+msg:馬山去過好多次啦，以前都是會務出差，這次是親子家庭遊，每次感覺都很棒!這次從出發到離開都有孫先生全程做攻略，入住還送了飲料零食這一點很貼心，還有隨時出現的温馨提醒和有問必答，非常感激!下次來還會找孫先生，棒棒噠!
+----------------------------------------
+name:g‍r‍e‍a‍t‍t‍a‍t‍a
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted May 1, 2023
+msg:【位置】位置在無錫馬山的半山腰，環境不錯，適合自駕遊。
+
+【配套】酒店幽靜，低密度，服務友好熱情。去靈山和拈花灣可以作為首選，比住在景區坐短駁車進出強多了。硬件不要和w.i等字母集團相比，就憑藉周邊風景直接看太湖的鎌倉風格也足夠了
+
+【餐飲】酒店中餐廳，值得好評，性價比很高，不用去農家樂了，比農家樂乾淨很多。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in October 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:一次非常滿意的體驗
+----------------------------------------
+name:F‍e‍n‍g‍c‍h‍e‍g‍a‍n‍j‍u‍n‍e‍o
+info:Discount Double Room
+info:Stayed in April 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted April 18, 2023
+msg:這次旅行比較匆忙之前也沒有做功略，龍頭渚沒有去過就打算去一下帶小朋友出遊 毫不猶豫的選了這家一直被朋友推薦的酒店入住後真的很不錯，由於是週末去酒店還給升級的房間這一點也很滿意酒店門口有個噴泉小朋友很喜歡！房間雖不大但隔局合理禪意很濃，早餐也很豐富品種很多。酒店有游泳池和小童樂  下次去馬山 必選這裏了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in April 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 16, 2023
+msg:酒店臨山而建，硬件配置不錯	軟件管理也挺	
+好，特別是銷售經理孫先生更是非常好，從我定酒店開始就和我聯繫一切安排妥當。把進景區的最佳路線、周邊的各個地方，特別是草莓園等等都發給我。感覺非常暖心。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 9, 2023
+msg:離開靈山仙境和拈花灣景區開車也就十幾分鍾。 免費停車。由於房間緊張酒店前台包總監給我們房間做了免費升級，房間很大，樓上客廳，有電視，有一個衞生間。 樓下是主卧，也有個衞生間，獨立淋浴房，獨立的浴缸。 有浴袍，幹拖鞋和塑料淋浴拖鞋。 淋浴拖鞋可以去泳池。 自助早餐味道很不錯，隨便吃吃。 有泳池，有健身房，免費對住客提供。 酒店在山邊，附近就是太湖。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted March 29, 2023
+msg:非常好的一次體驗！為了去拈花灣，選了這家賓館，嘉昱賓館非常大氣，基本是五星標準，設施很新，空間很大，服務周全。首先前台幫我們免費升級為豪華大床房，還贈送歡迎水果和酸奶，關鍵是景色優美，站立陽台上觀景前面是馬山，還有一望無際的太湖，心曠神怡空氣新鮮房間也是很大，很舒適，沐浴水流又熱又大，疲累的身體瞬間得到舒緩。自助早餐豐富，有品味，食材新鮮，晚餐是淮揚菜系，感覺頗為精緻。一路上沿着環山東路前往酒店，一邊是馬山，一邊是碧波浩渺的太湖，非常愜意￼，行走在這樣漂亮的公路特別特別的賞心悦目。
+----------------------------------------
+name:Z‍h‍e‍n‍z‍h‍u‍d‍a‍i‍w‍a‍n‍g‍c‍h‍i‍z‍h‍e‍n‍z‍h‍u
+info:Discount Double Room
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted April 17, 2023
+msg:非常讚的體驗，沒有想到居然是親子度假型，加分不少，酒店的環境很贊，先去了動物園再去靈山大佛，消磨了不少娃的精力，正值踏青體驗，享受了非常愉快的週末度假。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in April 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted April 22, 2023
+msg:這次是和朋友一起來參加婚宴的  雖然這次來當天遇到下雨第二天就天晴了，但是還好酒店內有遊樂園和恆温泳池.一點不耽誤溜娃.酒店前台有問必答感謝.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2023
+info:Family
+info:3 Reviews
+rating:4.7
+posted:Posted September 9, 2023
+msg:酒店在半山，環境很好，入住當日客人不多，酒店就給升級了房間，感恩。房間設施略舊，但乾淨衞生。泳池開到晚上9點，水不錯，也挺大。早餐略簡單，客服人員服務周到貼心，家人有點發燒，客房怕測不準，拿了四個體温計來😀👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted July 23, 2023
+msg:房間離景區有一段距離，印象最深的是酒店午市套餐，性價比超高，解決了無外賣的情況。酒店面對太湖，但是房間看不見湖，有點小遺憾。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in April 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 20, 2023
+msg:酒店在拈花灣景區附近，提前預約可以直接快速辦理入住。整體環境很好，酒店門口就是一片田園風景，酒店的陽台也能看到太湖，比較開闊，入住體驗佳
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Family
+info:22 Reviews
+rating:3
+posted:Posted October 30, 2023
+msg:房間設施老化，龍頭基本都壞的，泳池的設施更差，衹有一間淋浴房能用，也沒有安全員管理，早餐非常簡單，還有冒充和尚的騙子邊吃邊行騙，衝著高分來的，但明顯是刷出來的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 25, 2023
+msg:酒店在山裡，規模挺大的，房間整潔乾淨，親子房很適合家庭出遊，睡得舒服。門口有自行車和雙人觀光車可以騎行，酒店附近有專門的騎行車道，環山，還可以看到太湖。租金28，很便宜，酒店前台小姐姐和經理很nice，不計較我們車有點碰擦，非常好的酒店服務。離靈山大佛很近，附近3公里有海鮮農家樂一條街，吃飯也很方便。推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted April 27, 2023
+msg:參加無錫女王跑的時候入住的，風景不錯，酒店服務也很好，酒店早餐也很豐盛，價格也很實惠，孩子玩的很開心，下次有機會還會再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in April 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted April 17, 2023
+msg:作為無錫人，每年都會來拈花灣，再無錫嘉昱酒店住上一兩次，這次正好趕上我生日，酒店還給送了一份水果，滿滿的祝福。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 15, 2023
+msg:這次帶着父母來度假，環境很不錯的，適合發呆，放空，服務一流，有些設施有些陳舊了，吃喝還是很方便的。停車也ok
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:12 Reviews
+rating:4.5
+posted:Posted August 4, 2023
+msg:本來這是一次還不錯的旅行，酒店不管是硬件還是服務人員的態度我們都還蠻認可的，基本上我們感覺這是一家值得來的酒店，但是事情出在哪裡了呢？
+退房。
+按規定12點之前退房，我們11點半左右到前台退房，前台給了我們以下的答覆：
+1、我們退房是要查房的，查房要1小時。
+2、你們掛單的錢，按金查房以後退給你們。
+3、如果查房出現問題，我們拍照片給你們，你們現在可以走了。
+
+不是，朋友，第一，我們入住的時候，是按你們的要求交了1000元，現在退房了，不應該把帳算清楚，我簽字完成走人嗎？第二，按規定時間退房的我不理解，這個時間你們所有客房部的人都在吃午飯啦？什麼樣的房間要查一個小時？如果房間出現問題，我已經走人了，你們的照片能説明什麼？
+然後我們就被晾在那裡二十分鐘吧，最後以我生氣質問，前台無奈結算這個事情結束。
+但是所有的好心情都沒有了。我爸説這就是店大欺客，入住的時候什麼都好，要走人了，不好意思，一邊兒呆著吧。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in April 2024
+info:Family
+info:16 Reviews
+rating:4
+posted:Posted April 15, 2024
+msg:酒店本身環境和服務都挺不錯的，就是位置偏了點，內部也比較大，進出挺花時間的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 19, 2023
+msg:有些設施有些陳舊了，吃喝還是很方便的。停車也ok
+----------------------------------------
+name:K‍a‍n‍t‍h‍y‍b‍a‍o‍b‍e‍i
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted April 29, 2024
+msg:環境幽雅靠近靈湖碼頭 
+無錫Queen女子馬拉松比賽
+最佳入住酒店 離賽場很近
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in March 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted April 21, 2024
+msg:服務不錯，櫻花季去無錫，離拈花灣有點遠，但房價比住拈花灣裏便宜很多。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted March 3, 2024
+msg:酒店離靈山大佛很近，前台給我們升級了陽台房，正好可以看到日落，房間乾淨整潔，下次到無錫還會入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted March 26, 2023
+msg:不錯酒店，建築，園林都設計的很好。房間大，乾淨，服務好。馬山地區高品質酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted March 11, 2024
+msg:過來參加馬拉松比賽，住了一天，體驗感不錯，還貼心的提前為我們準備了早餐
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted March 11, 2024
+msg:酒店環境不錯，房間很乾凈很舒服，前台小程的服務特別好，下次來玩還住這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 31, 2022
+msg:酒店整體很乾凈，房間也很舒適，周圍很清凈，聽説泳池也很好不過疫情關係加上衹住一條行程有點趕就沒去，三棟樓之間有點距離，白天走露台呼吸也很開心也不會覺得很麻煩。就是叫外賣不太方便，餐廳解決了中午飯，大菜需要提前預訂，就簡單吃了推薦清炒西蘭花、蒜蓉粉絲扇貝、無錫醬排骨還不錯也不貴量很大，早餐偏中式早餐奶粥油條不錯，麪包蛋糕很少。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in March 2023
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted March 20, 2023
+msg:酒店設施完善，服務熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in October 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 22, 2022
+msg:第一印象就是乾淨，漂亮，而且房間住起來特別安靜温馨，前台林然然也特別熱情，服務特別好，特別細心的問幾點吃早餐，幾點去靈山大佛，然後告訴我們行程路線，看到酒店還有咖啡吧和KTV，但是比較晚就沒去。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2023
+info:Friends
+info:18 Reviews
+rating:4
+posted:Posted January 3, 2024
+msg:跨年夜爆滿，忙的把我房費都忘記收了。充電車位被都油車佔了，苦了我的電動爹。
+----------------------------------------
+name:L‍i‍m‍u‍s‍i‍y‍a‍t‍e‍l‍a‍n‍t‍e
+info:Deluxe Family Room
+info:Stayed in October 2022
+info:Family
+info:16 Reviews
+rating:4.5
+posted:Posted October 4, 2022
+msg:門口就有停車位非常方便，而且從進門開始就感覺到舒適，環境分給到5分！餐廳環境很安靜，菜品也是一如即往的精緻，分量也很足，好評！
+設施：比較老舊有點年代感，游泳池不錯，乒乓球枱還要收費，這個就説不過去了，差評，健身房在地下室，一股黴味，讓我受不了，差評，希望酒店可以改進，提高，謝謝！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Couples
+info:20 Reviews
+rating:4
+posted:Posted March 12, 2023
+msg:體驗一般，有點滲人
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Friends
+info:14 Reviews
+rating:5
+posted:Posted April 16, 2024
+msg:酒店對面就是太湖，環境優美。房間很大，住着舒服。
+----------------------------------------
+name:l‍u‍j‍i‍n‍g‍7‍7‍0‍3
+info:Deluxe Room (2 beds)
+info:Stayed in October 2022
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted October 4, 2022
+msg:在馬山裡麪，地點比較偏，但是勝在幽靜，風景好。前台孫經理非常熱情，幫助解決各種問題，還幫忙送我們到房間，服務優秀。早餐為中餐，能吃飽。吃飯就開車到靈山鎮上，五分鐘就到，各種船菜套餐便宜又好吃。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2022
+info:Friends
+info:20 Reviews
+rating:4.5
+posted:Posted September 11, 2022
+msg:酒店環境不錯，各棟樓還有幾個屋頂平台，靠東面的可以看看月亮升起，房間正對着西門，躺在床上可以看日落月落。大概是疫情的關係，走進走出遇到的人不多，晚餐在酒店解決，口味不錯，價格也不是很貴，中秋節在這裏賞月還是很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2023
+info:Couples
+info:9 Reviews
+rating:4.7
+posted:Posted May 15, 2023
+msg:設施略顯陳舊，早餐中規中矩，無功無過，中餐不推薦，游泳池開放。外部環境尚可，勝在價格實惠。適合自駕遊。開車到拈花灣二十多分鐘路程，比住在拈花灣的民宿便宜好多。
+----------------------------------------
+name:Z‍e‍n‍m‍e‍s‍h‍u‍o‍n‍e‍j‍i‍u‍s‍h‍i‍g‍e‍m‍i‍n‍g‍z‍i
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Family
+info:17 Reviews
+rating:4
+posted:Posted July 22, 2023
+msg:來太湖旁邊玩，就想着定一個離景區近一點的酒店，酒店算是正常的度假酒店配置，該有的都有，門口有小噴泉可以玩水，還有三人自行車可以帶小朋友一起玩，房間也夠大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2023
+info:Friends
+info:15 Reviews
+rating:3.5
+posted:Posted January 26, 2023
+msg:酒店服務還可以，反映問題後處理及時，衹是設施有點小問題，房間內好幾個插座都沒有內，電熱水壺換了第三次才好，衞生間異味空氣清新劑蓋不住，馬桶蓋無阻尼，放下時若不小心會碰出異若，以上情況希望急吋解決
+      個人感覺總體酒店設施離5星有點距離
+----------------------------------------
+name:F‍a‍n‍j‍i‍a‍n‍g‍j‍u‍n
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted January 27, 2023
+msg:裝修雖然老了一點，但是五星級的架子在，能感受到豪華的格調，前台服務也很熱情￼，￼因為擔心空調不暖和入住前溝通過，前台提前幫我們開着空調暖房￼，結果晚上因為太熱還把空調調低￼，￼整體而言性價比很高，值得推薦￼
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in September 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted September 30, 2022
+msg:第一次來，到酒店的時候是孫經理接待的，給我們介紹了周邊的遊玩項目，酒店周邊風景很不錯，服務人員還是蠻友好的，下次來馬山，還會來這。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 19, 2022
+msg:設施很不錯，酒店泳池也是恆温的，讓我備感驚喜，服務也很好，還有水果晚安奶贈送
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in October 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 22, 2022
+msg:酒店環境不錯，有一些親子娛樂設施，距離靈山大佛很近，酒店服務也很不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in September 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted October 1, 2022
+msg:第二次來入住了，除了早餐品種少點，但是其他的還是不錯，離店的時候還送小禮物，下次有機會再來！
+----------------------------------------
+name:X‍i‍x‍i‍2‍0‍1‍8‍0‍2
+info:Deluxe Family Room
+info:Stayed in October 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 2, 2022
+msg:酒店在太湖邊上，房間外面有大樓台，風景很美！離開靈山大佛就七八分鐘，交通便捷！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in September 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 29, 2022
+msg:酒店價格划算，房間也挺大的，環境舒適，大堂服務人員態度很好，下次還會選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Multi-level Suite
+info:Stayed in April 2023
+info:Family
+info:4 Reviews
+rating:4
+posted:Posted July 23, 2023
+msg:一般性，端午去的，那邊沒有小朋友玩的，除了室內泳池，吃的也比較一般，性價比不高。風景還行，因為在山上離其他景區有點距離。
+----------------------------------------
+name:S‍L‍C‍T‍E
+info:Deluxe Family Room
+info:Stayed in July 2022
+info:Family
+info:11 Reviews
+rating:4.7
+posted:Posted July 23, 2022
+msg:無錫剛全域低風險就去了，幾乎沒人，很安靜，早餐是點餐的，看了下一共6個人，不可能搞自助。
+房間很大，就是電視小了，床和枕頭都偏軟。
+在山裡，空氣很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:2 Reviews
+rating:4
+posted:Posted November 4, 2022
+msg:環境不錯，設施稍陳舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in September 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 26, 2022
+msg:離景區很近的酒店，房間贈送水果酸奶很貼心，離店的時候還有小禮物
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in March 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 1, 2024
+msg:非常滿意，環境優美舒適，乾淨整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2023
+info:Couples
+info:40 Reviews
+rating:5
+posted:Posted October 30, 2023
+msg:房間寬敞舒適，環境優美舒暢，衞生整潔乾淨，服務周到細緻。
+----------------------------------------
+name:n‍a‍o‍n‍a‍o
+info:Deluxe Family Room
+info:Stayed in May 2023
+info:Family
+info:7 Reviews
+rating:4
+posted:Posted May 15, 2023
+msg:游泳池早上不開放，早飯9:30就收了9:15去就沒什麼東西了。有點太早了，碰到好幾個帶小朋友的沒趕上早飯
+----------------------------------------
+name:N‍a‍m‍o‍w‍e‍n
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:酒店環境不錯，五一假期客滿了也沒有雜亂的感覺，前台小哥很友好，見我們是一家三口主動送了兩張早餐券，性價比很高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2022
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted July 29, 2022
+msg:山野間的酒店，周圍鬱鬱葱葱，空氣非常好，酒店離太湖、靈山、拈花灣都不遠，出行方便。服務非常細緻到位，👍
+----------------------------------------
+name:9‍5‍7‍6‍7‍7‍2‍0
+info:Stayed in April 2024
+info:Deluxe Double Room
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted May 24, 2024
+msg:房間不錯，地方安靜，適合度假
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 16, 2023
+msg:這次因為帶着孩子，所以定了家庭房，1個房間住兩大一小，小朋友一張床睡的很好。
+----------------------------------------
+name:B‍e‍n‍t‍e‍n‍g‍d‍e‍y‍u‍6‍2
+info:Deluxe Room (2 beds)
+info:Stayed in May 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:主要和無錫德根酒店一對比，馬上好了一萬倍。沒有對比就沒有傷害。前台的小姐姐還送了一份早餐，感謝！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in March 2023
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted March 13, 2023
+msg:前台服務態度很好；飯菜味道好 鹹淡適中；酒店環境好，位於太湖附近；酒店設施不錯。下次來無錫玩，還有可能選嘉昱酒店。
+----------------------------------------
+name:A‍o‍t‍e‍m‍a‍n
+info:Deluxe Double Room
+info:Stayed in August 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted August 25, 2022
+msg:小朋友説挺舒服挺好看挺好玩，下次可以繼續來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 11, 2022
+msg:酒店衞生很好，早餐廳有點熱。前台小劉熱情周到，體驗感很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 29, 2023
+msg:環境：很好
+服務：周到
+設施：齊全
+衞生：整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 7, 2022
+msg:去靈山大佛和拈花灣方便，不過拈花灣建議花季再去。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:地理位置很贊， 交通不方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2023
+info:Friends
+info:22 Reviews
+rating:5
+posted:Posted December 10, 2023
+msg:房間還不錯，人氣不太夠，但是離景區還是比較近的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 1, 2024
+msg:酒店價格合適，環境很不錯
+----------------------------------------
+name:X‍i‍a‍n‍x‍i‍a‍n‍y‍u‍+‍_‍+
+info:Deluxe Family Room
+info:Stayed in March 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted March 16, 2023
+msg:一家五口來無錫踏青
+親子房 大床房都有 很棒
+飯店的菜式也很不錯 價格也合理 
+也不用再大老遠跑出去吃
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in September 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 11, 2022
+msg:價格合理，比起拈花灣裏那些高價民宿不知道好多少倍！ 位置靠東側，早上起來還可以開車到視野好的地方看日出。
+游泳池水特別乾淨，在水下可以直接看到25米的對面。
+這麼好的酒店中秋節人也不多，有點可惜
+推薦所有自駕的朋友選擇！
+
+由於人比較少，看得出户外有的地方沒怎麼好好維護了，公共過道有的地方也沒開空調，但在這個價格和服務下 總的來説不算什麼 都很好了！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:地理位置感覺有點偏，環境還挺不錯的，早餐很一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in May 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:服務態度好，風景優美
+----------------------------------------
+name:c‍o‍c‍o‍_‍l‍e‍e
+info:Deluxe Family Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 25, 2023
+msg:不錯，性價比很高，泳池不錯，酒店環境優美，到景點也很近。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted October 31, 2023
+msg:房間挺乾淨，離大佛很近，就是叫外賣比較難
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted March 17, 2024
+msg:酒店環境不錯 下次還會訂
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - 3-Bedroom, Garden-View
+info:Stayed in May 2023
+info:Family
+info:3 Reviews
+rating:4.7
+posted:Posted May 22, 2023
+msg:酒店服務，早餐，設施都挺好，因為在山裡，有的房間少許黴味，其他都很好。
+----------------------------------------
+name:A‍b‍e‍i‍b‍a
+info:Deluxe Family Room
+info:Stayed in October 2022
+info:Family
+info:36 Reviews
+rating:4.2
+posted:Posted October 24, 2022
+msg:也許是正巧有會議活動及旅遊團隊過來，感覺服務有些跟不上，撥打客房服務電話也一直沒人接聽。不過，退房時送了份生日小禮物，有加分，所以還是把它列入“豪華型”啦
+----------------------------------------
+name:C‍h‍a‍o‍g‍e‍1‍2‍3‍4
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Family
+info:9 Reviews
+rating:4.2
+posted:Posted April 6, 2024
+msg:性價比高。去拈花灣方便
+----------------------------------------
+name:L‍y‍n‍n‍s‍k‍y‍s
+info:Deluxe Family Room
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:4.7
+posted:Posted July 2, 2023
+msg:房間挺乾淨，性價比高，小童樂園沒開放，泳池也是下午才開放
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted May 10, 2024
+msg:挺好的。離景區近。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 7, 2023
+msg:酒店很大，服務不錯，因為孩子多，還多送了早餐券
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted July 23, 2023
+msg:環境很好，服務的小姐姐超級温柔，很開心的一次旅行
+----------------------------------------
+name:K‍o‍n‍g‍j‍u‍n‍y‍i‍h‍a‍o‍1‍0‍5
+info:Deluxe Room (2 beds)
+info:Stayed in June 2023
+info:Solo travelers
+info:73 Reviews
+rating:5
+posted:Posted July 3, 2023
+msg:非常不錯的酒店，環境衞生好啊！離開景區交通非常方便！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted March 16, 2023
+msg:多次入住，銷售經理孫經理非常熱情！廚房飯菜可口，服務員熱情大方！環境優美，好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in March 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted March 14, 2023
+msg:周邊風景不錯，有山有水，雖然酒店在山區，但是酒店內的衞生工作保持的很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in December 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted December 21, 2021
+msg:酒店餐廳服務不錯侍海燕 潘虹兩位小姐姐很耐心的給我們介紹餐廳，服務也很周到。酒店設施和服務還是很不錯的，衹是有點遠，離景區很近開車10幾分鐘就可以到達，週末抽個時間來休個小假還是很不錯的，房間挺乾淨的，過來小住幾日還不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in December 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 22, 2022
+msg:跟着朋友一起去住的，酒店挺不錯的，很喜歡酒店大堂的設計，大氣，大堂的孫經理人很好呀，特別有禮貌，説話很温柔。春夏去玩應該更不錯，周邊遊景區景色很不錯，有機會等春天來看櫻花呀
+----------------------------------------
+name:W‍e‍n‍r‍o‍u‍d‍e‍d‍a‍p‍a‍n‍g‍g‍e
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:房間很大，周圍綠化面積很大，唯一不足停車場離大堂有點距離
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in November 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 11, 2021
+msg:酒店周圍環境太喜歡了，很安靜週末出門度個假的好選擇，設施特別齊全，沒有自己開車酒店打電話詢問酒店孫經理人特別好找不到直接開車來接我耐心跟我介紹告訴我餐廳，房間的位置。酒店辦公很不錯，房間佈置和衞生也挺好的，有機會再來這邊還會再入住的。
+----------------------------------------
+name:H‍a‍n‍h‍a‍n‍d‍e‍y‍o‍u‍d‍i‍a‍n
+info:Deluxe Suite
+info:Stayed in November 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 30, 2021
+msg:朋友推薦的一家不錯的酒店，在外面看着就很高級哦，環境也不用説，到店內全程接待我們的是一位帥氣的小哥哥（孫強），帶我們瞭解了酒店裡的設施，房間佈置，這服務也是絕絕子呢，我們每年都會來無錫的，下次也必定選擇這家，大家也可以來體驗體驗，離附近的景區也很近哦，推薦推薦
+----------------------------------------
+name:E‍r‍q‍i‍q‍i‍q‍i
+info:Discount Twin Room
+info:Stayed in December 2021
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted January 22, 2022
+msg:很適合帶小朋友一起來，環境是乾淨的，我比較看重衞生這一塊，酒店服務人員都很熱情會主動去打招呼，很不錯的體驗，酒店前廳孫經理人很好呀，安排很周到，下次有機會再找他定房呀
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 18, 2021
+msg:酒店周圍環境太喜歡了，很寧靜，週末出門度個假的好選擇，酒店的設施特別齊全，沒有自己開車酒店打電話詢問酒店孫經理人特別好找不到直接開車來接我，前台然然也很有耐心解答我的問題，告訴我餐廳，房間的位置。酒店有書吧，辦公很不錯，房間佈置和衞生也挺好的，有機會再來這邊還會再入住的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in March 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted March 30, 2023
+msg:酒店服務很好，環境很好，適合家庭，親子，情侶出遊玩，適合推薦
+----------------------------------------
+name:N‍a‍n‍d‍a‍d‍a
+info:Discount Double Room
+info:Stayed in November 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 1, 2021
+msg:酒店衞生還是不錯的，酒店挺大的，服務和設施還可以，前廳孫強經理很温柔有耐心👍，就是酒店離市中心有點遠，周圍沒什麼吃的，去度假還是可以的，周圍空氣環境都很好，酒店餐廳早餐不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in November 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 30, 2021
+msg:酒店裝修是江南風格設施各方面都不錯，服務態度也非常好👍，特別點名孫經理，房間佈置很温馨，陽台早晨能看到太陽，酒店前台的小姐姐小哥哥們服務也特別周到，有耐心，很不錯的一次體驗！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted July 26, 2023
+msg:性價比很高了，酒店的早餐裏的小黃魚很好吃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in August 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted September 5, 2022
+msg:這次是一個人出行的，從入住酒店前台小姐姐還是打掃衞生的阿姨，都給予了非常熱心的言語和行為，退房的時候還送了一份小禮物，很愉快的旅行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in November 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted November 2, 2021
+msg:帶着孩子一起過來過週末的，酒店設施挺齊全的，離靈山大佛，拈花灣都挺近的，適合來度假！銷售孫經理給我們安排的房間，特別熱情和貼心，給我們介紹景區路線！不過酒店位置有點偏，周圍沒啥吃的，去鎮上得開車，不過酒店餐廳還可以，早餐挺豐富的！有機會還會來的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted November 3, 2021
+msg:帶娃去拈花灣玩的，選擇這家酒店是覺得離拈花灣比較近，開車差不多15分鐘就到了，價格又比較優惠。一路沿着太湖邊到酒店環境特別好。酒店比較新，前台很熱情，房間乾淨衞生，住着比較舒適，總之體驗很好，適合旅遊和度假。有機會會再來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 30, 2021
+msg:酒店離市中心還是有一定距離，自己開車來挺方便的，酒店客户孫經理提前溝通好，告知路線，用餐問題也提前詢問特別貼心，考慮很周到，酒店周圍環境很舒服，商務會議和度假都適合，酒店早餐也特別的豐富，餐廳環境也還不錯。裝修和酒店設計都不錯，江南風
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 1, 2023
+msg:很不錯的酒店，就在太湖邊上，有機會還去無錫玩玩👍👍
+----------------------------------------
+name:T‍o‍u‍d‍a‍d‍e‍b‍a‍o‍b‍e‍i‍y‍a‍t‍o‍u
+info:Discount Double Room
+info:Stayed in October 2021
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted October 18, 2021
+msg:酒店設施建設比較齊全，游泳池，健身房，桌球室都有的，在酒店就可以玩全天。酒店銷售孫經理接到我們的定房消息後，耐心跟我們溝通，儘量滿足我們的需求呀！餐廳的早餐特別豐富，菜系是標準的江浙菜系，時間安排和餐廳服務都不錯，特別是餐廳的焦美女接待特別熱情人也特別温柔。酒店周圍環境挺好的，早起呼吸一下，新鮮空氣撲面而來，是一個遠離城市喧囂度假的好地方！酒店的衞生可以再提高，可能是酒店太大了，有一點地方就被忽略到了。有機會還會再選擇的呀！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 15, 2021
+msg:第一次去無錫靈山大佛和拈花灣遊玩
+因為景區裏面的酒店相對來説性價比不是那麼划算，我就定了這家酒店，到景區開車也就幾分鐘，很划算的
+酒店很新，是一家豪華五星級酒店，度假非常不錯。服務也很棒。小孫很熱情，給他個贊👍下次來無錫還住這裏
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in October 2021
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted October 13, 2021
+msg:這是我第二次入住無錫嘉寓酒店，給我的感覺特別的棒，特別是大堂金經理，非常的熱情還親自把我們領到房間，幫我們介紹了周邊的旅遊景點，酒店的環境特別的優美，適合旅遊度假，退房時，前台楊慧瑩跟劉秀麗兩位美女，也非常的熱情周到，還特意送了我們一份精美的小禮品
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in August 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted August 7, 2022
+msg:酒店地理位置好，周邊有山有水，設施人性化，銷售小孫很熱情，樂於提供各種幫助，餐品豐富，房間非常整潔，如果有機會，我還會來這裏。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in October 2021
+info:Family
+info:3 Reviews
+rating:3.2
+posted:Posted October 7, 2021
+msg:這家酒店比較偏僻，衝著家庭房去的，結果是一個房間裏一張大床一張小床。也是，價格就在那裡。進入酒店停車沒有保安指引，自己找了半天都是停滿的，衹能靠邊停在草地裏。從後邊一個寫着員工通道的地方走進去（有點被荒廢的感覺，沒有開燈，東西都堆在一旁），摸索好久終於看到一個酒店員工，指出了前台的方向。辦理入住後從前台走到房間，很長一段路。打開門一股子味道（很久沒人住的黴味），床單枕套也是這股子味道，還好有個小陽台，馬上把枕頭拿出去曬了下。酒店員工保潔終不是五星的，沒有一個主動問好。結賬時讓給5星，送了兩瓶水和一個小夜燈，卻還是要把真實的體驗寫一下。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in October 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted October 15, 2022
+msg:酒店很大，這個季節還能聞到桂花的香味，讓身心感受到了安逸，和市區酒店不一樣的感覺，度假極力推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in October 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted October 11, 2022
+msg:進入酒店就感覺酒店大堂很寬敞，裝修簡潔大方，周邊景色秀麗，住慣了市區，來嘉昱酒店也別有一番風味。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in November 2021
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted November 13, 2021
+msg:酒店很舒適，環境很好，設施設備都很齊全，完全沒有我擔心的衞生問題，服務也很到位，孫強經理，很貼心，有任何要求都會盡力滿足你，態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Multi-level Suite
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 16, 2023
+msg:設施：齊全
+衞生：不錯
+環境：靜謐
+早餐：可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in August 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted August 14, 2022
+msg:第一次預訂嘉昱酒店，沒想到服務非常好，前台小劉熱情服務，還有防疫和衞生工作都很不錯，下次去靈山還會繼續選擇這家酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in November 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 15, 2021
+msg:酒店前台服務態度很好，酒店孫經理全程跟蹤服務，掃地的阿姨來回都主動問好，我覺得真的是一個有人情味的酒店，全力推薦，下次還會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in January 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted January 27, 2023
+msg:酒店周邊環境很好，設施也好，就是空調效果不太好，晚上不敢脱外套
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in August 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted August 28, 2022
+msg:通過銷售經理孫強這知道了這家酒店，房間寬敞舒適整潔，設施，服務都到位。用最實惠的價格，享受星級酒店的待遇。
+----------------------------------------
+name:S‍h‍i‍y‍u‍e‍y‍u‍e‍d‍e
+info:Discount Double Room
+info:Stayed in November 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted November 15, 2021
+msg:酒店房間是孫強經理幫忙訂的，服務很周到，態度很好。酒店環境不錯，房間也挺好的，早餐不錯很豐富！下次出差還會繼續選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted May 5, 2023
+msg:房間設計格局還行，就是周邊配套環境有些沒跟上。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in August 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted August 14, 2022
+msg:房間很滿意，乾淨衞生，入住體驗很棒，位置離拈花灣很近，服務人員態度很好，前台的小劉熱情周到，酒店整體都很不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 14, 2022
+msg:服務態度挺好的，前台小劉非常熱情，還有電梯的香味我很喜歡，房間乾淨，第二天的自助早餐也很不錯，品種挺多的。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:36 Reviews
+rating:5
+posted:Posted January 10, 2024
+msg:挺不錯的，環境也好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in April 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 16, 2023
+msg:酒店生意超好，也很大，服務員指引的很及時
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in August 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 10, 2022
+msg:酒店挺大的，不太清楚路線，銷售孫強耐心為我提供幫助，房間裡佈局完美，環境乾淨整潔，以後還會入住該酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:比較滿意👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in October 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 15, 2021
+msg:酒店房間非常棒，很乾凈，早餐很豐盛，包經理服務很好，前台有個服務員很熱情，五星級酒店，非常舒適，開車也很方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted March 30, 2023
+msg:環境優雅、建築大氣、服務周到、價格合理！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted August 9, 2023
+msg:還可以吧性價比還是蠻高的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in September 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted September 27, 2022
+msg:酒店離靈山大佛很近，早上去很方便，就是早餐有點單調，但是總體來説還是不錯。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted June 23, 2023
+msg:酒店很大，風景好，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 5, 2021
+msg:🚗 交通：距離拈花灣不遠
+🍃環境：非常贊👍
+🔔服務：服務熱情退房還送了伴手禮
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in September 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 26, 2022
+msg:環境優美，小劉美麗大方，服務熱情周到，點一萬個贊👍🏻👍🏻👍🏻下次再來！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in August 2023
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted October 22, 2023
+msg:地理位置好，適合自駕。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in February 2023
+info:Couples
+info:6 Reviews
+rating:4
+posted:Posted February 27, 2023
+msg:設施：11
+衞生：1
+環境：1
+服務：1
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in August 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted August 13, 2022
+msg:酒店衞生很好，周圍鬱鬱葱葱，離太湖很近，空氣非常好，銷售小孫熱情周到，體驗感很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in December 2023
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted January 2, 2024
+msg:非常好非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2021
+info:Couples
+info:1 Review
+rating:5
+posted:Posted October 4, 2021
+msg:酒店早餐很不錯，前台服務熱情，酒店設施設備比我想象的新，酒店維護的挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in August 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted August 24, 2022
+msg:周邊環境很美，酒店裡房間非常乾淨，味道非常舒服，服務也很熱情，下次還會選擇這裏
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted August 29, 2023
+msg:每次來無錫靈山的首選酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:22 Reviews
+rating:5
+posted:Posted April 5, 2024
+msg:還可以。。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted May 14, 2023
+msg:四面環山，風景優美，非常棒！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in May 2023
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted August 24, 2023
+msg:規模很大，就是酒店人好少。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in November 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 11, 2021
+msg:酒店孫強經理人很好，房間有什麼問題及時幫我們解決，態度特別好很有耐心，前台小姐姐也很温柔，酒店房間衞生挺好的，餐廳也挺大的，早餐很豐富！設施也很不錯不過酒店比較大，容易迷路！建議自己開車，酒店位置靠近景區，在郊區了，比較偏遠！不過周圍環境和酒店裝修挺不錯的！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 3, 2021
+msg:帶了小孩子來玩的，入住體驗還不錯，特別推薦這家酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 18, 2023
+msg:適合發呆，放空，服務一流。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in November 2021
+info:Couples
+info:1 Review
+rating:5
+posted:Posted November 18, 2021
+msg:性價比挺好的酒店，凌晨入住的，孫經理還很耐心打電話確認入住時間，告知路線，到了酒店前台小姐姐也很貼心的接待辦理入住。酒店環境衞生都挺不錯的，房間小陽台很舒服，去景區大概10分鐘，很近，離太湖也很近，很不錯的一家酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Family Room
+info:Stayed in April 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted April 16, 2023
+msg:酒店環境清幽大方，非常喜歡！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in August 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 17, 2022
+msg:房間的設計我非常喜歡，早餐可以到十點多，真的超級人性化。服務非常周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in August 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted August 24, 2022
+msg:睡得很不錯，酒店床很舒服。服務很好。我下次還來，一定還會選擇這一家。
+----------------------------------------
+name:K‍a‍n‍u‍h‍u‍l‍a‍d‍a‍o‍y‍a‍o‍c‍h‍a‍n‍g
+info:Deluxe Room (2 beds)
+info:Stayed in June 2021
+info:Family
+info:3 Reviews
+rating:4.5
+posted:Posted July 12, 2021
+msg:1，端午過來的，選這家酒店的最大原因是端午漲價不像其他的酒店那麼誇張
+2，游泳池不錯，很乾凈，早上去人也很少
+3，早餐的水準讓人失望，也就是如家的水平
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in March 2023
+info:Booked for others
+info:1 Review
+rating:3
+posted:Posted March 26, 2023
+msg:周邊風景不錯，服務人員態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in August 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted August 22, 2022
+msg:到酒店的時候房間還沒有打掃好。前台小楊把我們帶到書吧，環境很好。很開心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 27, 2022
+msg:前台服務好，給免費換了個大的房間，還送了水果酸奶，誠意滿滿
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 18, 2021
+msg:酒店簡約大氣，具江南特色設施很好，服務態度也非常好👍，房間很温馨，陽台早晨有冬日的暖陽，下午酒店也能看到太湖邊的落日，酒店前台的小姐姐小哥哥們服務也特別周到，有耐心，很不錯的一次體驗！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:2 Reviews
+rating:3.7
+posted:Posted July 24, 2023
+msg:就是地下室有點黴味
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in September 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 27, 2022
+msg:酒店周邊環境很好，很清新，就是週末來人有點多，車不好停
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in January 2023
+info:Family
+info:4 Reviews
+rating:3
+posted:Posted January 25, 2023
+msg:空調是壞掉的，正好降温，冷得不得了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in August 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted August 29, 2022
+msg:環境不錯，服務很好！早晨看看日出，聽聽鳥語花香，心情很舒服，
+----------------------------------------
+name:J‍i‍l‍i‍g‍u‍l‍u
+info:Discount Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 30, 2021
+msg:酒店住宿的環境、衞生等比同價的酒店好很多，離景區很近，出去遊玩特別方便，酒店大堂孫經理服務態度特別好，特別耐心，值得推薦，雖然裝修時間比較長，但是無異味。不過推薦自己開車來，出行更方便！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 11, 2023
+msg:酒店早餐很豐盛，服務員很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in August 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 8, 2022
+msg:前台服務特別熱情，小孫全程幫忙拿行李送到房間，入住體驗非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:30 Reviews
+rating:4
+posted:Posted June 15, 2023
+msg:服務一般。很不好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in November 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted December 16, 2021
+msg:性價比很高的五星酒店， 房間非常乾淨 酒店銷售孫強經理熱情服務，為我耐心的介紹餐廳和房間，態度很有親切感 非常好，餐廳服務也非常到位，下次還會選擇這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in March 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted March 27, 2023
+msg:酒店很不錯，酒店設施完善
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 6, 2023
+msg:酒店環境很好，工作人員也很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in August 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted September 5, 2022
+msg:酒店前台很熱情，服務很周到，客房設施條件也很好，很贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Family Room
+info:Stayed in April 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted April 15, 2023
+msg:酒店環境優美，下次還來
+----------------------------------------
+name:n‍a‍t‍i‍o‍。
+info:Discount Double Room
+info:Stayed in August 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted August 29, 2022
+msg:酒店環境真的很好，商家的服務態度簡直沒話説，真的特好
+----------------------------------------
+name:A‍i‍a‍o‍l‍i‍y‍a‍L‍e‍o
+info:Deluxe Family Room
+info:Stayed in April 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted May 4, 2023
+msg:蠻不錯的，下次繼續來
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 12, 2023
+msg:很不錯，環境好
+----------------------------------------
+name:y‍g‍b‍t‍x
+info:Discount Twin Room
+info:Stayed in March 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted March 19, 2023
+msg:還不錯的體驗，早餐實惠
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 27, 2022
+msg:酒店設計很有特色，前台服務熱情，環境很安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:36 Reviews
+rating:5
+posted:Posted June 25, 2023
+msg:房間非常好，景色不錯
+----------------------------------------
+name:K‍u‍p‍o‍s‍i‍d‍u‍n‍c‍a‍o‍x‍u‍e‍q‍i‍n
+info:Deluxe Room (2 beds)
+info:Stayed in December 2021
+info:Other
+info:9 Reviews
+rating:5
+posted:Posted December 21, 2021
+msg:疫情期間防疫常態化，賓館對賓客的行程軌跡還是查的挺仔細的，對旅客及店家來講都是比較負責的表現，讓入住時増加①份安全感！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:8 Reviews
+rating:4.5
+posted:Posted January 28, 2023
+msg:距離拈花灣比較近，方便！！
+----------------------------------------
+name:s‍a‍m‍V‍o‍V
+info:Guestroom (Double bed)
+info:Stayed in January 2023
+info:Couples
+info:37 Reviews
+rating:5
+posted:Posted February 21, 2023
+msg:經常住，酒店還是很不錯的
+----------------------------------------
+name:F‍e‍i‍c‍h‍a‍n‍g‍h‍u‍i‍s‍h‍e‍n‍g‍h‍u‍o
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Family
+info:23 Reviews
+rating:5
+posted:Posted June 25, 2023
+msg:早餐種類還算豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Multi-level Suite
+info:Stayed in April 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted April 3, 2023
+msg:早餐一般，環境不錯
+----------------------------------------
+name:j‍i‍a‍n‍g‍y‍o‍n‍g‍h‍u‍a
+info:Discount Family Room
+info:Stayed in May 2023
+info:Family
+info:20 Reviews
+rating:4.7
+posted:Posted May 24, 2023
+msg:比較好的一家酒店
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in October 2021
+info:Family
+info:4 Reviews
+rating:1
+posted:Posted October 3, 2021
+msg:超級不推薦 設施老舊 服務態度也一般 完全不值六百多 差不多的價格情願住拈花灣裏麪或者靈山精舍 周圍什麼都沒有 酒店連小童牛奶都沒有。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)
+info:Stayed in June 2021
+info:Friends
+info:20 Reviews
+rating:1
+posted:Posted August 14, 2021
+msg:六月份訂的房間在前台辦理入住的時候有一個小卡包遺留 裏面有銀行卡 當時沒發現 回來後找了好久沒找到 實在着急要用沒辦法剛才打電話給前台幫忙找一下 前台工作人員想都沒想告知我 沒有 我説間隔時間有點長你能幫我找一下嗎 她回答我説就是沒有 還問我為什麼這麼久才想到回來找 我説酒店遺留物品那麼多你也不可能都記得那麼清楚 麻煩幫我找一下 然後告訴我她們每天有交接就是沒有 真的火了 我説不想繼續跟她溝通要找值班經理 回覆我沒有管理層 週末領導要休息 我問她的姓名或者工號 回覆我為什麼要告訴你 我想不明白這麼大的度假型酒店就是這樣的服務嗎 我找遺留物品又不是欠你錢 麻煩你們管理層看到評論回覆一下 
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 25, 2023
+msg:設施衞生環境服務很好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in August 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted August 22, 2022
+msg:環境很不錯，服務很好，下次還會選擇這裏
+----------------------------------------
+name:M‍a‍m‍i‍n‍g‍f‍e‍i‍m‍i‍n‍g
+info:Deluxe Family Room
+info:Stayed in October 2022
+info:Family
+info:99 Reviews
+rating:5
+posted:Posted October 4, 2022
+msg:緊靠太湖邊，環境非常棒，停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in January 2023
+info:Family
+info:10 Reviews
+rating:4
+posted:Posted January 28, 2023
+msg:還不錯，早歺簡單了點
+----------------------------------------
+name:s‍u‍m‍m‍e‍r‍ ‍b‍b
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Friends
+info:9 Reviews
+rating:3
+posted:Posted April 20, 2023
+msg:酒店設施一般般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 31, 2021
+msg:很適合帶小朋友一起來，環境是乾淨的，我比較看重衞生這一塊，酒店服務人員都很熱情會主動去打招呼，很不錯的體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in October 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted October 8, 2022
+msg:酒店環境很安靜，比較適合度假
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted May 18, 2023
+msg:就是有點太空曠
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2021
+info:Family
+info:31 Reviews
+rating:4.2
+posted:Posted July 19, 2021
+msg:感謝大堂邢如寶經理（名字不知道對不對），入住是加送了小孩子一份早餐，還親自帶領到房間，幫助提行李箱。離店時還送小孩子一個恐龍小夜燈，感謝！！
+----------------------------------------
+name:J‍i‍a‍n‍d‍a‍n‍s‍h‍e‍n‍g‍h‍u‍o‍ ‍6‍6‍6
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:Friends
+info:60 Reviews
+rating:4.2
+posted:Posted June 11, 2023
+msg:不錯的酒店
+----------------------------------------
+name:X‍i‍a‍n‍s‍a‍n‍w‍a‍n‍g‍y‍e‍～‍x‍i‍a‍o‍y‍a‍o‍x‍i‍a‍n
+info:Deluxe Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:140 Reviews
+rating:5
+posted:Posted February 20, 2023
+msg:房間很好，很乾凈
+----------------------------------------
+name:s‍q‍u‍i‍r‍r‍e‍l‍0‍2
+info:Deluxe Family Room
+info:Stayed in February 2022
+info:Family
+info:32 Reviews
+rating:5
+posted:Posted February 11, 2022
+msg:春節期間入住，人比較少，服務還不錯，位置也還可以，到景點不遠。
+----------------------------------------
+name:e‍l‍y‍n‍e‍e‍y‍a‍n
+info:Deluxe Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted January 28, 2023
+msg:就是沒有小童用品
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Family
+info:5 Reviews
+rating:4.7
+posted:Posted June 15, 2021
+msg:酒店環境不錯，室外有池塘亭子等景觀，院內的道路兩旁了很多綠植，散步時可以聞到梔子花香，早餐豐盛，適合度假，距拈花灣景區也不算遠，開車過去約20分鐘。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 28, 2021
+msg:酒店大堂特別氣派，前台服務也很暖心，客房硬件設施也比較新，讓我心情愉悦，感受到五星級酒店的服務
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - 3-Bedroom, Garden-View
+info:Stayed in March 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted March 26, 2023
+msg:房間很寬敞哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in August 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 10, 2022
+msg:酒店乾淨，服務熱情，值得推薦
+----------------------------------------
+name:H‍o‍n‍g‍y‍e‍x‍i‍a‍n‍s‍h‍e‍n‍g‍�‍�
+info:Deluxe Room (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 30, 2021
+msg:不錯的酒店，很安靜很清爽。有點兒漢唐典雅風格，來無錫靈山出差選了這家，總體不錯的一次入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Friends
+info:6 Reviews
+rating:4.5
+posted:Posted January 24, 2023
+msg:總的來説可以的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 15, 2021
+msg:環境很好，設施很新，床很舒服！找不到地方的時候，孫強經理很熱心帶我找到了
+----------------------------------------
+name:x‍c‍n‍c‍d‍s‍q‍n‍c
+info:Deluxe Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted November 18, 2022
+msg:環境很好！房間乾淨！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted January 3, 2022
+msg:總體來説，是不錯的；因為疫情影響，泳池和健身房還不好用。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Suite
+info:Stayed in January 2023
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted January 24, 2023
+msg:很不錯的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2022
+info:Couples
+info:31 Reviews
+rating:5
+posted:Posted November 14, 2022
+msg:可以可以、環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in October 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 3, 2022
+msg:非常愉快的旅住經歷
+----------------------------------------
+name:W‍e‍i‍l‍a‍n‍s‍e‍d‍e‍h‍a‍i‍1‍1‍1
+info:Deluxe Room (2 beds)
+info:Stayed in June 2021
+info:Family
+info:10 Reviews
+rating:4.2
+posted:Posted June 21, 2021
+msg:酒店地理位置優越，像住在森林裏，適合度假吸氧。早餐扣點分，能吃飽，但品質差點意思。毛巾太舊了，顏色有點～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 20, 2021
+msg:訂錯房間，前台給換到家庭房，小孩子很高興，整體都還不錯，房間可以看到太湖，晚上去玩了拈花灣
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted November 21, 2021
+msg:環境很好。孫強經理和前台的小程服務很熱情。會推薦給朋友的
+----------------------------------------
+name:w‍z‍q‍s‍h‍1‍8‍8
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Other
+info:18 Reviews
+rating:5
+posted:Posted October 4, 2021
+msg:入住非常滿意。感覺孫強經理非常熱情周到的安排，絕對好評，下次還會來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2022
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted September 13, 2022
+msg:環境優美，服務可以
+----------------------------------------
+name:s‍e‍i‍y‍u‍u‍6‍2‍0
+info:Deluxe Double Room
+info:Stayed in August 2022
+info:Other
+info:11 Reviews
+rating:5
+posted:Posted August 8, 2022
+msg:早餐品種少，需要改善
+----------------------------------------
+name:S‍i‍y‍e‍c‍a‍o‍o‍n
+info:Deluxe Room (2 beds)
+info:Stayed in October 2022
+info:Friends
+info:5 Reviews
+rating:4
+posted:Posted October 21, 2022
+msg:早餐可以豐富一些
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in October 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 28, 2021
+msg:前台小劉和孫經理服務態度很好，酒店很新，以後有機會還會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)
+info:Stayed in July 2021
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted August 3, 2021
+msg:比較隱蔽、衞生條件一般，別墅改造，但周圍環境還行，出差時間比較趕，總共睡了也沒幾個小時
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 27, 2022
+msg:好的很非常乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 27, 2023
+msg:環境還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in October 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 30, 2021
+msg:孫強和姚悦服務很不錯，酒店環境還可以，還是很低調的酒店
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:4 Reviews
+rating:4.5
+posted:Posted June 15, 2022
+msg:環境可以，服務一般。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in September 2021
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted September 20, 2021
+msg:周圍環境不錯，衞生條件也不錯，泳池真的很贊。還會再來
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2022
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted October 10, 2022
+msg:性價比比較高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2022
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted August 29, 2022
+msg:環境不錯但太清靜了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 26, 2021
+msg:酒店很不錯 酒店孫經理人很好下次還會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 4, 2021
+msg:環境早餐小童樂園都還不錯，價格也比較優惠
+----------------------------------------
+name:Y‍o‍u‍x‍i‍u‍d‍e‍x‍i‍a‍o‍p‍e‍n‍g‍z‍i
+info:Deluxe Double Room
+info:Stayed in October 2022
+info:Couples
+info:12 Reviews
+rating:5
+posted:Posted October 30, 2022
+msg:好好好好好
+----------------------------------------
+name:H‍Y‍X‍Q
+info:Deluxe Family Room
+info:Stayed in October 2021
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted October 6, 2021
+msg:客户經理孫強熱情周到，前台也很熱情。
+----------------------------------------
+name:R‍i‍c‍h‍a‍r‍d‍@‍y‍u‍a‍n‍s‍h‍a‍n
+info:Deluxe Room (2 beds)
+info:Stayed in August 2022
+info:Friends
+info:36 Reviews
+rating:5
+posted:Posted October 17, 2022
+msg:設施很滿意
+----------------------------------------
+name:N‍a‍n‍c‍y
+info:Deluxe Room (2 beds)
+info:Stayed in June 2021
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted June 15, 2021
+msg:可以帶孩子游泳，人不多很舒服。客服也很好，滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2022
+info:Friends
+info:2 Reviews
+rating:3.2
+posted:Posted June 20, 2022
+msg:酒店還不錯
+----------------------------------------
+name:L‍v‍z‍h‍o‍u‍l‍i
+info:Discount Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 3, 2021
+msg:孫強經理很不錯哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 3, 2021
+msg:孫強經理好
+----------------------------------------
+name:b‍r‍i‍a‍n‍3‍s
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted June 15, 2021
+msg:不錯的！下次再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2021
+info:Family
+info:5 Reviews
+rating:4.7
+posted:Posted July 18, 2021
+msg:説實話，第一次
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2021
+info:Family
+info:46 Reviews
+rating:5
+posted:Posted July 22, 2021
+msg:非常適合度假的地方
+----------------------------------------
+name:M‍i‍c‍a‍h‍X‍u
+info:Guestroom (Double bed)
+info:Stayed in May 2021
+info:Couples
+info:11 Reviews
+rating:4
+posted:Posted July 5, 2021
+msg:整天不如前幾次了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 3, 2021
+msg:酒店還是很好的
+----------------------------------------
+name:B‍a‍n‍a‍s‍i‍y‍a‍n‍g‍x‍i‍o‍n‍g
+info:Deluxe Family Room
+info:Stayed in July 2021
+info:Family
+info:24 Reviews
+rating:5
+posted:Posted October 22, 2021
+msg:還可以吧不錯
+----------------------------------------
+name:S‍i‍l‍i‍u‍z‍h‍i‍j‍i‍a‍n‍A‍C‍E
+info:Deluxe Room (2 beds)
+info:Stayed in June 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 1, 2021
+msg:很好非常好
+----------------------------------------
+name:S‍h‍i‍q‍u‍d‍e‍d‍a‍h‍u‍a‍n‍g
+info:Deluxe Room (2 beds)
+info:Stayed in April 2021
+info:Friends
+info:75 Reviews
+rating:5
+posted:Posted June 21, 2021
+msg:酒店環境不錯
+----------------------------------------

@@ -1,0 +1,1090 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 5, 2024
+msg:🌟The hotel is located in the Nanchang Street scenic area, which is very convenient for going out
+🌟The building itself is an old house with the charm of Jiangnan water town. The overall decoration is very elegant and artistic. The environment is very good. The breakfast is also delicious with Wuxi specialty dumplings
+🌟The waiter is very friendly and will greet you at the parking lot. He speaks softly and politely
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in April 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:It is the B&B with the most people-like a**osphere among the hotels. It is also the most professionally managed B&B with the most comfortable experience. I chose a very good place by accident~ In addition, you can also take artistic photos in the yard, which is very photogenic. It’s convenient to go out. I recommend the small shop on the street that makes sachets and silver noodles!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in April 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted April 8, 2024
+msg:In a quiet place in the bustling Nanchang Street of Wuxi, I chose a well-built house to stay in. One-on-one butler service, reception introduction to the hotel, breakfast and other details are all attentive. I like the courtyard that is integrated with Jiangnan the most, and I also like the Diamond Sutra in the lobby, hidden in the clouds.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in March 2024
+info:Solo travelers
+info:2 Reviews
+rating:4.2
+posted:Posted April 4, 2024
+msg:The room was very quiet, maybe it was not the peak season when I went there? Every staff in the hotel was very nice~ They would take the initiative to tell you the origin of the hotel... The overall smell of the hotel was also very comfortable~ It really felt like a hidden gem when you entered... But the hygiene still needs to be improved...
+There is a busy pedestrian street outside the hotel, which is very lively at night... People are coming and going~
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in March 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 1, 2024
+msg:Very good stay experience, the environment and location are very good, the overall decoration of the hotel is very charming, it is on the commercial street but very quiet. The breakfast is delicious and the service is good. I will come again next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 13, 2024
+msg:It is ancient and quiet in the bustling Nanchang Street. The doorway is inconspicuous, but you will find a different world once you go inside. The breakfast is not very rich but unique.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in January 2024
+info:Family
+info:5 Reviews
+rating:3.5
+posted:Posted January 14, 2024
+msg:The hotel was rebuilt from an ancient house with a history of more than 100 years. If you insist on perfect hardware facilities, it is indeed a bit difficult. The room is not well maintained, dust can be seen everywhere, and the sound insulation effect is not required, but the light leakage of the curtains will definitely affect the quality of sleep. There is only one five-hole bedside socket. The two-hole bedside lamp is plugged in, leaving only one three-hole. You must know that mobile phones are basically two-hole plugs now, so you can only unplug the lamp. In the end, the socket is still loose and can't be used. You can only charge it by the pool. For service, my requirements have never been too high. I can feel that the customer service wants to provide good service, but it's just a little bit short. The location of the house is absolutely OK. It is on Nanchang Street, hidden in the city, quiet in the bustle, and the cultural heritage is also very deep. To put it in a tacky way, the room fee of 1,680 per night is to pay for the hotel's heritage. As for hardware and service, it is definitely not worth it.
+----------------------------------------
+name:C‍h‍e‍n‍z‍h‍a‍n‍g‍y‍a‍n
+info:Guestroom (Double bed)1
+info:Stayed in December 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted December 18, 2023
+msg:The room environment is very good and the service attitude is super good. It happened to snow, which was very beautiful!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in February 2024
+info:Friends
+info:17 Reviews
+rating:5
+posted:Posted February 4, 2024
+msg:Great stay! Mozhai is very quiet and has convenient transportation
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in December 2023
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted December 3, 2023
+msg:A very artistic hotel with a very beautiful courtyard. The butler service is very good and the breakfast is also very exquisite. I like it very much.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in October 2023
+info:Family
+info:23 Reviews
+rating:5
+posted:Posted December 20, 2023
+msg:The hotel standard for traveling with children has been improved a lot. This hotel is very artistic and has a great sense of design. The hotel staff, especially the elderly uncle, have extraordinary temperament. This is a very good stay experience.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in October 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:A homestay with a great environment. It is a renovation of a 500-year-old house. This time I stayed with my family. Both the elderly and children liked it very much.
+----------------------------------------
+name:H‍e‍d‍u‍b‍i‍q‍u‍l‍v‍x‍i‍n‍g
+info:Guestroom (Double bed)1
+info:Stayed in September 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:The hotel is very distinctive. It is a reconstruction of an old house. It has an antique flavor and a Jiangnan style. Nanchang Street is right outside the door, which is very convenient for walking, shopping and eating! It was my birthday on the day of check-in, and the hotel also specially gave me a birthday cake. It was a very pleasant stay!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in February 2024
+info:Business travelers
+info:21 Reviews
+rating:3
+posted:Posted February 22, 2024
+msg:Room 1680 has the same air conditioning and floor heating as the furnishings! It was so cold, and I felt like there was a cold wind blowing somewhere at night, so I gave in.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in March 2024
+info:Couples
+info:1 Review
+rating:2.2
+posted:Posted April 1, 2024
+msg:The room is too small. The hotel is too small and totally not worth the price. . . .
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in November 2023
+info:Solo travelers
+info:15 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:Very good, very satisfied
+----------------------------------------
+name:s‍h‍e‍n‍m‍i‍f‍u‍h‍a‍o
+info:Guestroom (Double bed)1
+info:Stayed in July 2023
+info:Friends
+info:10 Reviews
+rating:4
+posted:Posted July 25, 2023
+msg:The designer hotel is located in an old house. The style of the old house is well preserved. You can feel a lot of ancient style when you enter the door and go upstairs.
+The room is not big, but it is well decorated and comfortable. But if you look closely at the facilities, you can feel the consideration of cost control during the decoration.
+The restaurant is great! There are only two breakfast sets, wonton and noodles, and the taste is quite traditional, which is well received.
+The location of the hotel is not easy to find. You can't take a taxi directly. The front desk will contact you in advance. After all, you have to drag your luggage for a while. However, this location on Nanchang Street is excellent, quiet in the bustling city, and it is very suitable as a starting point for city walk after checking in.
+But overall, the room price of 1.2k+ is a bit high for the experience. If the price can be more reasonable, such as around 800-900, it is actually perfect.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in January 2024
+info:Family
+info:4 Reviews
+rating:3
+posted:Posted January 20, 2024
+msg:The location is very good, on Nanchang Street, convenient for travel, and the room facilities are also good, but there was renovation next door early in the morning on the weekend, and I was not informed in advance. I reported it to the housekeeper but it was useless, and then they simply ignored me. Breakfast was 98, just a set meal, not a buffet, and I felt that the cost performance was poor. I will not stay here again.
+----------------------------------------
+name:Z‍h‍i‍j‍i‍a‍n‍n‍i‍a‍n‍z‍h‍u‍y‍u
+info:Guestroom (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:7 Reviews
+rating:4.2
+posted:Posted July 17, 2023
+msg:I stayed at a friend's house, right in the middle of Nanchang Street Pedestrian Street. The location is good and the front door is not conspicuous. There is only one twin room. The room is quite large but unfortunately there is no window. It was hot in some places in the corridor and there was no air conditioning, and the telecommunication signal was very poor. The breakfast was too simple and there was not much to eat. At this price, the breakfast in a hotel should be rich. After checking out, I still had some time to go to the high-speed rail station. I originally wanted to take a rest in the breakfast area, but I was told that the air conditioner was not turned on and I felt that the hardware was still a little weak. I won't choose a place like this again at this price.
+----------------------------------------
+name:T‍i‍a‍o‍w‍u‍d‍e‍s‍h‍e‍t‍o‍u
+info:Guestroom (Double bed)1
+info:Stayed in July 2023
+info:Business travelers
+info:56 Reviews
+rating:5
+posted:Posted July 17, 2023
+msg:The hotel is located in Nanchang Street, which is very suitable for people who are nearby. The hotel is a renovated building from the Ming Dynasty, which is very tasteful. Except that it is not convenient to carry luggage and call a taxi, everything else is very good. The hotel service staff is also very nice. The breakfast noodles are very good, but the wontons are just average...
+----------------------------------------
+name:J‍U‍N‍Y‍A
+info:Guestroom (Double bed)1
+info:Stayed in December 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted January 1, 2024
+msg:A quaint and convenient location.
+There is a pedestrian-only road in front of the hotel, but once you enter the room there is no noise and it is comfortable.
+Most of the furniture is made of wood, so it is nice that the air does not dry out too much.
+
+I would definitely like to stay here again next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in April 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:Located on Nanchang Street, close to Qingming Bridge and Dagong Bridge, the a**osphere I like is simple and elegant from the moment I step into the hotel. The housekeeper is very nice. When he learned that I had to check out early because of something at home, he specially applied for free check-out. It's very humane. The main breakfast is noodles or wontons, with eggs, corn, steamed buns, pumpkin, and some buffet foods such as bread, fruit, coffee, milk, etc. They are all delicious. I left in a hurry this time, which is a bit regretful. I will definitely go again next time.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in July 2023
+info:Family
+info:17 Reviews
+rating:4
+posted:Posted July 3, 2023
+msg:The service attitude of the butlers at the front desk was very good, but the room was just average. Maybe because it was renovated from an old house, the room layout is very cramped, the circuit is not good, there are no sockets, and the only sockets are very loose, making it difficult to charge. The bathroom is also very small, with only a washbasin and no makeup mirror. Generally speaking, the hardware facilities are not very good and there are many mosquitoes. Low value for money.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 17, 2024
+msg:Environment and service are very good
+----------------------------------------
+name:Z‍i‍p‍i
+info:Family Room
+info:Stayed in March 2023
+info:Family
+info:4 Reviews
+rating:1.7
+posted:Posted April 2, 2023
+msg:Highly not recommended! Very poor accommodation experience!
+The intuitive feeling is that the farmhouse configuration is priced at the price of a boutique B&B.
+Very poor value for money. The room was small, the bathroom was smelly, and there were no anti-slip mats or slippers in the shower room.
+On an ordinary weekend that is not a winter or summer vacation, a family room of more than 1,500 people looks like this: a large room, divided into two areas with hollow partitions, one is the bedroom, in the form of a tatami, with two mattresses on the floor, and a simple Coffee table, two futons, and a bedside table for each bed - because the space is too small to fit two bedside tables, then this area is full, and the sides of the bed are very crowded; the other area is the hall, washbasin, and shower Room and bathroom, yes, the washbasin is outside the bathroom, because the bathroom can fit a toilet. The lobby is also very crowded, the table is small, and it is very cramped to put luggage, and the boarding suitcase can just be spread out.
+Moreover, this room only has a small window that cannot be opened. Outside is a dusty rooftop platform, and the window glass is also gray.
+It's just a twin room, and it's actually called a family room.
+Besides, the public area of ​​the hotel is also very average. There are some bonsai decorations. It is very cramped and there is nothing interesting to see.
+This is the worst B&B experience I have ever had!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Suite
+info:Stayed in February 2023
+info:Friends
+info:18 Reviews
+rating:3.7
+posted:Posted February 22, 2023
+msg:The hotel is in a good location, in the middle of Nanchang Street. The room size is not large and the price is quite expensive.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in January 2023
+info:Friends
+info:2 Reviews
+rating:2.5
+posted:Posted January 13, 2023
+msg:It should be a B&B style, but I couldn't find any designs by so-called design masters. I felt that the service was not good. The bathroom was very small. There was a bathtub next to the bed and the plug was not tightly closed. I smelled the sewage smell all night~
+Breakfast is not a buffet. If the price is 700-800 yuan, I will not comment. I am really sorry about the price and do not recommend everyone to stay.
+----------------------------------------
+name:b‍o‍b‍o‍m‍a‍k
+info:Family Room
+info:Stayed in October 2022
+info:Family
+info:12 Reviews
+rating:3.7
+posted:Posted November 15, 2022
+msg:Location: The hotel is located on Nanchang Street. As soon as you leave the hotel, you will see Nanchang Street. It is very convenient for visiting Nanchang Street.
+Facilities: I am dissatisfied with the design of the hotel's bathroom. Although wet and dry are separated, there are no doors or shields outside the toilet and shower room. The shower room is small and you cannot put clean clothes in because it will get wet. The floor in the bathroom will be very wet after taking a shower, and it will be inconvenient to put on clothes. However, since the living room and bed are just outside the bathroom, there is no partition at all, and you cannot go out to get dressed, so it is very inconvenient.
+Food: The hotel will provide a simple breakfast, which tastes good.
+Service: Since the room is on the second floor, there is no elevator but stairs, and the service staff did not take the initiative to help carry luggage upstairs. It will be more inconvenient if you have large luggage.
+Overall, the price/performance ratio is low.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Suite
+info:Stayed in June 2021
+info:Other
+info:2 Reviews
+rating:2.7
+posted:Posted June 28, 2021
+msg:The location is very difficult to find. There are no signs. The overall a**osphere of the hotel feels very stuffy. The room facilities and equipment do not match the room price at all. The TV remote control does not respond. There is a hole in the bed sheet. I really feel that it is not worth it. I will not come here again.
+----------------------------------------
+name:I‍v‍a‍n‍k‍a‍-‍Q‍u‍e‍e‍n
+info:Guestroom (Double bed)1
+info:Stayed in November 2023
+info:Business travelers
+info:29 Reviews
+rating:4.5
+posted:Posted November 30, 2023
+msg:服務很好，無微不至，從接到送，管家小陳，積極主動熱情，但真不適合商務出差，在老街裏，不通車，全靠管家拖行李走步行街，這個季節，房間特冷，空調暖風28度，依然瑟瑟發抖，還特別乾燥。硬件這個價格無功無過…體驗一次足矣
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:4.7
+posted:Posted June 1, 2024
+msg:民宿位置蠻好的在步行街上，內部公共區域總體環境還算比較有特色。訂的雙床房，雖然預訂時有提示部分房間沒有窗户，住了才發現非常彆扭。如果是度假，這個房型還是慎訂！
+----------------------------------------
+name:M‍o‍l‍i‍q‍i‍q‍i
+info:Guestroom (Double bed)1
+info:Stayed in March 2023
+info:Friends
+info:12 Reviews
+rating:4
+posted:Posted April 4, 2023
+msg:去無錫玩，選了南長街的莫宅。
+
+一座老宅子的改建的酒店，比較清凈，在熙熙攘攘的南長街上，有點桃園的感覺。
+
+房間的陽台很寬敞，坐在陽台上喝喝茶，聊聊天很不錯。客房內有衞洗麗，還不錯。
+
+提前一天，工作人員會發來具體停車庫的定位和配圖。停車庫離酒店大概五十米的距離，還是很方便的。
+
+早餐比較簡單，有點麪包牛奶之類的自助，定食是麪或者餛飩，配上一點雜糧小菜，能吃飽。
+
+和朋友一起去的，朋友覺得客房枕頭不是最滿意，希望能多備着些不用的卧具方便不同的住客。
+----------------------------------------
+name:G‍a‍o‍j‍i‍m‍e‍i‍6‍6‍6
+info:Guestroom (2 beds)
+info:Stayed in April 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 28, 2023
+msg:五百年的老宅融入了現代化的設計，幽靜舒服、現代又復古。酒店還免費給我們升級了院景房，一推開門，就是一個古香古色的院子，彷彿是熱鬧的南長街上的世外桃源。
+一對一的管家服務，從來店的前一天就提前聯繫我們，發送定位，到停車場幫忙拿行李，臨走前又送行到車上，這貼心的服務棒棒滴，強烈推薦！！！
+----------------------------------------
+name:C‍h‍a‍o‍j‍i‍k‍e‍a‍i‍d‍e‍s‍h‍e‍n‍p‍o
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in February 2023
+info:Family
+info:134 Reviews
+rating:5
+posted:Posted February 20, 2023
+msg:這是一家我非常喜歡的老宅院子酒店，從前廳、院子、天井、叢桂書坊、客房，到公共走道、區域，都是我欣賞的。這是一家精又巧、小而美的酒店。客房面積約45平米，區域分佈合理優雅，貝朗衞浴、精緻充滿設計感的燈具、優質的床品、舒適的淋浴，讓客人得到完美的休憩。酒店就在南長街，遊玩、吃飯很便利。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in April 2023
+info:Couples
+info:16 Reviews
+rating:5
+posted:Posted April 22, 2023
+msg:來南長街那麼多次，沒想到裏面有個如此雅緻的寶藏酒店，特別喜歡院子，這個季節去，微風徐徐，喝着茶，和愛人聊着天，彷彿思緒拉回到小時候的日照，簡單卻幸福，如果對這樣風格的屋子感興趣，真的可以住一晚，吃喝住行都非常得便利，走進酒店，外面集市的喧囂聲完全消失不見了，體驗太棒了!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in March 2023
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted March 30, 2023
+msg:紀念日，特意選擇了一家有無錫特色風格的酒店，説是酒店，但感覺一點也不普通，明朝老宅改造，處處可以看到設計師的用心之處，庭院古色古香，每一處每一處轉身，都能看到不同的風景，彷彿穿越了一把。服務更是沒得説，管家的微信感覺24小時在線，熱情有禮，服務周到。酒店設施比較新，非常乾淨！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in March 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted March 13, 2023
+msg:就在南長街上，吃東西逛街比較方便，鬧中取靜，房間很安靜，店內很有設計感，服務很好，會提前聯繫告知位置併到停車場接。房間床品舒適，洗護用品是歐瓏的，並有簡單的茶具及老白茶，還有心經可以抄一抄。需要改進的是沒有放置乾淨衣服的地方，洗完澡穿衣服有點不方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in May 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 6, 2023
+msg:老宅的厚重、低調在莫宅體現得特別充分，踏進宅子頓時讓人遠離浮躁、喧囂，安靜、舒適，書吧的書看得出來都是精心挑選的，設施棒，服務員態度親切。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in March 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted May 18, 2023
+msg:攜程漏單後作為補償，讓我們入住雲隱東方•莫宅酒店，入住後我衹能説，物有所值、物超所值！！除了貴，沒有別的缺點。
+首先，酒店的地理位置很好，作為南長街的商鋪之一，還有可能被遊客誤認為是博物館，走進去瞧瞧😂打車到南長街走兩步路就到，晚上感受一下南長街的夜生活，可以美美走回酒店。
+酒店的設計風格也融合了無錫南長街的建築風格，主打一個江南小院古色古香，房間裝修又有一種日式庭院的感覺。
+酒店的環境、服務、衞生都是一流的，鬧中取靜，主打一個小而精。一個房間有兩個門，一個門直通小院，八個房間圍繞一間小院子，有種四合院的感覺。如果是好幾個朋友一起來，相信體驗感會很棒，因為可以互相串門。
+雲隱東方·莫宅酒店可以説是目前我住過體驗感最好的酒店，希望以後實現經濟自由後，還來住😄
+----------------------------------------
+name:T‍a‍n‍s‍h‍i‍y‍i
+info:Stayed in March 2023
+info:Other
+info:25 Reviews
+rating:4.5
+posted:Posted March 14, 2023
+msg:南長街隅，21間廂房。明朝非遺建築，人稱“莫家院子”，由呂邵蒼改建。三進三院，廳堂廊院井然有序，延續古建之節奏，移步換景，光影婆娑。外相蒼古，內裏卻温潤，Sealy床墊、Bose音箱、Atelier Cologne 洗漱品等，一方“温柔鄉”。最妙乃地勢，紅塵熙攘，空谷幽蘭，僅一牆之隔，可謂“大隱隱於市”。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Garden-View (Double bed)
+info:Stayed in April 2023
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:非常漂亮的酒店，洗浴物品也非常齊全，肥皂的香味太好聞了。房間又有背投，外界音響。晚上看片有私人影院的感覺。非常滿意的一次入住體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in January 2023
+info:Family
+info:5 Reviews
+rating:4.7
+posted:Posted February 1, 2023
+msg:謝老爺子説：這才是家的感覺，除夕值了，喜歡古韻雅緻的院落和質樸素雅的房間牆壁，房間很空曠，大大的，晚上睡覺開着燈，古樸的書幾漸漸讓人心安，地暖很適宜，中古式的茶餐廳裏的家常小食有了文初的感受！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in March 2023
+info:Family
+info:2 Reviews
+rating:4.7
+posted:Posted March 10, 2023
+msg:酒店位於景區內，古樸厚重，有歷史感，離清名橋100米左右。下午去運河兩邊走走看看，累了可以回酒店茶室看書、喝茶、休息，晚上再出去看夜景。服務員態度很好，值得推薦。
+----------------------------------------
+name:�‍�‍j‍i‍a‍f‍e‍i‍�‍�
+info:Stayed in March 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted March 26, 2023
+msg:特別好，前面評價過了，這裏就不贅述了，建議這樣的酒店在各個地方再多建幾個，還有，就是有些空間似乎可以更加好的應用一些，比如後面的那個dayuanziq
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in April 2023
+info:Other
+info:7 Reviews
+rating:4.2
+posted:Posted April 22, 2023
+msg:房間幽靜，鬧中取靜，設計感十足，風格棒棒噠，就是這早餐……很精緻，但是不實惠，老爸吃了兩天早餐，直呼兩天都沒吃飽……
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in June 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted June 29, 2023
+msg:大隱於鬧市的宅子
+樸素但有品質
+----------------------------------------
+name:C‍i‍n‍d‍y
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in January 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted January 27, 2023
+msg:酒店是老房改造的、整體都不錯，就是沒有化粧鏡，對女士來説稍微有點不方便，但是總體的服務設施還是不錯的（還有地暖），畢竟是老房子了，早餐是套餐是半自助，非常無錫口感，可以體驗，酒店的地理位置也是不錯的，南長街非常熱鬧繁華，酒店的隔離效果很不錯，門外繁華似錦，門內温暖愜意，不錯的一次入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in July 2023
+info:Family
+info:12 Reviews
+rating:4.7
+posted:Posted July 17, 2023
+msg:位置很好，就在南長街上，逛街很方便。宅子古色古香，還是文保單位，很有特色。服務挺好的，基本上可以説是有求必應，前台還幫忙拎行李、指導打車並且主動出門指路，很貼心。但是老房子改建總歸會有一些問題，住的家庭房，淋浴的水忽冷忽熱，帶孩子洗澡非常不方便。剛開始開空調的時候效果也不好，熱的汗流浹背。總體還是不錯的，值得推薦！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in March 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted March 20, 2023
+msg:地理位置優越，度過了一個很開心的週末
+作為非標酒店，可以做到這樣的服務，感覺已經很不錯了
+有機會會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in April 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted April 9, 2023
+msg:酒店鬧中取靜，很有設計感～服務人員也都熱情親切，為此行留下美好的印象。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in November 2022
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted November 18, 2022
+msg:無錫南長街古運河畔的巷子裏有一家隱世酒店一一雲隱東方．莫宅。這是一家設計師酒店，門臉不大推門卻是另番情景，百年宅府配着古典簡約風，舒適，靜謐。這裏可以一整天宅在店裡和老闆娘喝茶聊生活，就像在家和朋友聊天一樣自在，很喜歡。意外驚喜是他家餐食，即有江南軟酥味道又有法餐的精緻儀式感，會再次光顧的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in December 2022
+info:Couples
+info:25 Reviews
+rating:4.7
+posted:Posted December 17, 2022
+msg:酒店在南長街，有地下停車庫，地理位置很方便，服務很熱情值得表揚，設計古宅風，古色古香的房間風格，除了插座少和壞 其他都非常不錯，總體來説值得推薦！另外酒店隔壁的周宅威士忌吧值得一試
+----------------------------------------
+name:C‍e‍n‍g‍x‍i‍a‍o‍d‍i‍e‍Y
+info:Guestroom (Double bed)1
+info:Stayed in March 2023
+info:Friends
+info:15 Reviews
+rating:5
+posted:Posted March 26, 2023
+msg:大隱隱於市，小隱隱於野。現代與古典的融合，庭院竹林，古靜幽雅。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 24, 2023
+msg:很棒的酒店，雖然坐落在熱鬧的南長街上，進去後別有通天，彷彿走進了另一個天地。下次來無錫還會來住，並且帶朋友一起
+----------------------------------------
+name:C‍i‍s‍s‍y‍_‍n‍j
+info:Suite
+info:Stayed in January 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted January 26, 2023
+msg:不愧是無錫的設計師酒店頂流，處處充滿禪意和匠心，意外的驚喜是早晨的自助餐也非常有特色而且好吃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in March 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted April 1, 2023
+msg:酒店超級美麗，隱於鬧市之中！
+----------------------------------------
+name:N‍a‍n‍f‍a‍n‍g‍x‍i‍a‍o‍d‍o‍u‍t‍u
+info:Guestroom (Double bed)1
+info:Stayed in February 2024
+info:Solo travelers
+info:9 Reviews
+rating:5
+posted:Posted February 15, 2024
+msg:酒店很中式，江南園林風格，特別適合度假出行，位置也很好，很喜歡。
+----------------------------------------
+name:☆‍x‍i‍u‍x‍i‍u‍★
+info:Guestroom (2 beds)
+info:Stayed in August 2023
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted August 11, 2023
+msg:服務很好，房間硬軟件都也還好，就是蚊子太多了，好幾個驅蚊器都不好用啊，這蚊子真是一點不帶害怕的，咬的睡不着，半夜抓蚊子🦟
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Stayed in February 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted March 1, 2023
+msg:很讚的酒店，鬧中取靜，很喜歡。
+----------------------------------------
+name:X‍i‍a‍n‍b‍e‍n‍n‍a‍l‍i‍u‍b‍a‍n‍g
+info:Guestroom (2 beds)
+info:Stayed in August 2022
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted August 9, 2022
+msg:莫宅算是這幾年住過最好的酒店了。比很多五星國際連鎖都要好，主要是住店的感覺。酒店每個地方你都可以體會到設計師的心思。
+整體環境很幽雅，一門之隔外面就是無錫著名的景點步行街南長街。週末的晚上人滿為患，我們從停車場出來就要路過繁華的南長街，根據店管家提前告知的，看到有輛黃包車那就是酒店地方。進了酒店，喧鬧立馬安靜了下來，到了房間，外面的聲音一點都聽不到了。
+管家的服務非常熱情和到位，誇獎下那位小哥哥，走的時候還要幫忙拿行李送到停車場，我們都不好意思了。
+酒店的裝修設計就不用我多説了，網上都是更專業的探店解説。我來説説最讓我感到驚喜的是床墊，對腰部的墊託剛剛好，這幾天在常熟腰有舊傷，睡覺的時候都感覺到左腿有點麻，結果躺在莫宅的床墊上感覺到腰部剛好被床墊託住，很舒服，腿也沒有感覺到任何的不適，是睡得最舒服的一晚，可惜衹有一晚就要回去。其他的小設計處處都能給到你休憩、安逸、恬靜，真的給你一種還想繼續住下去的感覺。
+早餐並不是全自助的，也是房間不多，客人不多的考慮。有餛飩和湯麪兩種套餐選擇，套餐除了主食，還有茶葉蛋、煎蛋、鹹菜、玉米、小芋頭、紅薯等配菜。麪包、咖啡、茶就是自助的。
+酒店的實景跟網上的宣傳圖一模一樣，隨便拍都是佳作，不用怕踩坑。照例還是放了些我自己拍的，給大家參考下。
+----------------------------------------
+name:s‍9‍2
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in January 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted January 30, 2023
+msg:沒想到，古鎮裏竟私藏着這樣一家品味高雅，環境優美的酒店，它既保留了老房子獨有的古樸尚美，又融合了現代時尚元素，老闆獨具匠心的眼光將整個酒店佈置的温馨而有文化氣息。人性化、管家式貼心周到的服務，高瑞的洗漱用具，精心的早餐和下午茶，出門用餐都非常方便，值得讓我為它點贊👍👍👍，下次還會再住！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in July 2022
+info:Other
+info:14 Reviews
+rating:5
+posted:Posted July 27, 2022
+msg:“清氣出風塵以外，靈機在水石之間。”可以用這句詩句形容這家酒店的風格。我個人不太喜歡住高層酒店，所以果斷選擇了這家比較幽靜且不易被人打擾的酒店。晚上特別安靜，很適合閲讀書籍。訂了外賣前台服務員都主動送至房間，服務很不錯。由於我一早出去辦事，趕不及酒店的早餐，前台服務小哥還為我精心準備了方便攜帶的早餐，這些細節讓我很滿意。另外中午還在該酒店預訂了午餐，雖然有些小插曲，但是整體來説菜品還是很不錯的，值得推薦。
+----------------------------------------
+name:Y‍a‍n‍g‍l‍a‍o‍w‍u
+info:Guestroom - Garden-View (Double bed)
+info:Stayed in October 2023
+info:Couples
+info:41 Reviews
+rating:5
+posted:Posted November 5, 2023
+msg:雖因坐落步行街出入便利度稍欠缺，但非常便於逛街，很有設計感，有情調。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in May 2023
+info:Family
+info:36 Reviews
+rating:4
+posted:Posted May 27, 2023
+msg:房間多要瓶水還要另外收錢，現在極少有酒店水還收錢了，這麼好的地理位置，酒店住的價格又很高，喝個茶的套餐貴的500多，但也就幾杯茶！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in April 2023
+info:Family
+info:17 Reviews
+rating:4
+posted:Posted June 30, 2023
+msg:房間還不錯，整體有風格。初入有些失望，房間有股子發潮的味道。早餐雖簡很驚艷，門外很喧囂，門內很幽靜，一道門一進院隔出了兩個世界。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in June 2022
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted June 27, 2022
+msg:吾心安處，即為家！旅行有時候選擇了一個落腳點，不過是走過而已，然而，當它充滿温度的時候，就會在你內心留下痕跡！
+很漂亮的酒店，服務很好，很熱情，晚上幾句閑聊知道我早上趕車，貼心的準備了早餐和伴手禮！怕我住在一個房間久了缺少新鮮感，主動提出給我換房間，總之，是次不錯的住宿體驗！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in August 2023
+info:Business travelers
+info:28 Reviews
+rating:5
+posted:Posted October 1, 2023
+msg:這是一個非常有設計感的酒店，老闆非常用心，是一個非常高端的酒店。下次還會再來。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in June 2022
+info:Other
+info:2 Reviews
+rating:3
+posted:Posted June 23, 2022
+msg:酒店地處位置不好找，在步行街裏面。從高架橋上來，出行非常不便利；酒店洗手間的走水不好，漫出房間滿地是水。洗手間的門沒有防撞消音條，開關門噪音特大，關門嚇人的聲音，好似有什麼炸裂的聲音；酒店房間的照明開關設計有問題，非雙聯，找開關夠嗆，選擇哪個按鍵都不對，照明燈具光線不夠亮。酒店服務一般，公式化的電話確認入住，後面問的問題都一概不知，一問三不知，那就不再諮詢了。需要幫助的值得一讚是他們的早餐好吃，飯餐做的味道很好。不住也可以去嚐嚐餐飲，比南長街裏的飲食店味道好很多。個人建議，這個酒店適合搞商務活動，不適合住宿，餐飲要提前預約，酒店廚師8點前就下班。雖然酒店強調對標五星級標準，但細節處理舒適度和服務僅三星。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in August 2022
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted August 9, 2022
+msg:莫宅周總情懷有加，入住期間很親切、耐心的教孩子烤麪包。胡兵、洋洋、貝貝（深夜孤身一人，接我回酒店）感謝所有幫助我的朋友
+----------------------------------------
+name:N‍a‍n‍f‍e‍n‍g‍m‍e‍n‍g‍x‍i
+info:Guestroom (Double bed)1
+info:Stayed in November 2022
+info:Solo travelers
+info:29 Reviews
+rating:5
+posted:Posted November 28, 2022
+msg:房子是一個幾百年的老宅改的，很典雅樸素在南長街上。裏面的裝修設計都很符合古典美，而且很獨特的是沒有用香薰。而是用了草木類的東西放在走廊，那種味道讓人很舒服。房間裏的佈局也OK，有投影儀，晚上放放歌很悠閑
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in October 2023
+info:Couples
+info:22 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:老宅很有感覺，員工都很友善，地理位置也挺不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 27, 2023
+msg:三進院的宅子，看似冷冰冰的古宅地磚踩上去居然有點軟腳感很舒適。很喜歡房間裏高高的房樑，喜歡古風味的可以體驗一下。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in December 2022
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted January 2, 2023
+msg:環境優雅 居住舒適 服務態度很好 
+早餐服務周到 但是可選項不是很多 
+房間電視投屏後容易被其他房間的旅客發生沖突 已反映
+----------------------------------------
+name:a‍n‍g‍e‍l‍s‍u‍z‍h‍o‍u
+info:Guestroom (2 beds)
+info:Stayed in January 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted January 3, 2023
+msg:酒店的老建築歷史與運河邊明清古街道是最大亮點，現代化的地暖與古老庭院相得益彰，是體驗江南古建築的好去處。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in December 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted December 13, 2023
+msg:繁華中的靜謐，底藴深厚。
+----------------------------------------
+name:Z‍h‍u‍x‍i‍a‍o‍f‍e‍i‍+
+info:Guestroom (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted July 14, 2023
+msg:很久之前入住的忘記評論了，蠻好的，裏面拍照蠻漂亮的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 23, 2023
+msg:老闆娘很平和 很有涵養 在南長街鬧中取靜 出行也非常方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in February 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 15, 2023
+msg:不錯，江南園林老宅風格，房間很值得一住。位置在南長街核心區內，遊玩便利！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in March 2023
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted April 12, 2023
+msg:老宅子改的酒店，很有特色，酒店出門就是古鎮，景色非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in July 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted July 23, 2023
+msg:服務態度很好，出行很開心，贊一個！
+----------------------------------------
+name:K‍a‍i‍x‍i‍n‍m‍e‍i‍y‍i‍t‍i‍a‍n
+info:Stayed in October 2021
+info:Family
+info:91 Reviews
+rating:5
+posted:Posted October 3, 2021
+msg:我喜歡這樣的酒店風格，又在景區裏面，吃住一體，無論環境還是服務確實不錯，服務生很友好，讓人很好的放鬆心情，國慶假期有點小貴，也能解
+🔔服務：很好！
+🍃環境：優雅
+🧹衞生：乾淨整潔
+🚗 交通：進去路在修，其他都不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in August 2023
+info:Solo travelers
+info:18 Reviews
+rating:5
+posted:Posted September 15, 2023
+msg:環境很好，老闆很nice
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in December 2022
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted December 28, 2022
+msg:服務好，位置好，非常有味道的老宅子。看得出用心經營用心設計的。
+----------------------------------------
+name:D‍a‍i‍b‍u‍z‍h‍u‍j‍i‍a‍d‍e‍l‍v‍y‍o‍u‍k‍o‍n‍g
+info:Guestroom (Double bed)1
+info:Stayed in August 2022
+info:Solo travelers
+info:80 Reviews
+rating:5
+posted:Posted August 22, 2022
+msg:酒店在景區裏面，比較少見的一家禪意，國風文化型酒店，想去靜心修養的好選擇，如果有時間，還會來！
+----------------------------------------
+name:k‍a‍e‍h‍n
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in March 2023
+info:Family
+info:24 Reviews
+rating:4.7
+posted:Posted April 3, 2023
+msg:服務態度很好，逛街極其便利，早餐品種少。
+----------------------------------------
+name:P‍K‍E‍P‍I‍N‍G
+info:Guestroom (Double bed)
+info:Stayed in July 2021
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 4, 2021
+msg:酒店位於景區內，鬧中取靜，方便遊覽古街。老宅風格的居室，很喜歡。當時是帶着孩子一起的，酒店還給升級了房間。居於庭院中，很舒適，安靜怡人。早餐是中式早餐，主食搭配小點，很好吃。服務人員態度都很好，提供了很貼心的服務。如果喜歡古風風格的朋友，推薦來感受一下！
+----------------------------------------
+name:F‍e‍n‍g‍x‍i‍a‍n‍g‍d‍e‍s‍h‍u‍i‍p‍i‍n‍g
+info:Suite
+info:Stayed in July 2021
+info:Couples
+info:3 Reviews
+rating:3.7
+posted:Posted July 31, 2021
+msg:一鼓作氣，寫完最後一家酒店，雲隱東方莫宅。
+
+從拈花灣波羅蜜多酒店打車到莫宅，接單的司機和三天前送我們來的一樣，一上車就又説要走高速，又説環湖路會很堵。我問司機星期五上午11點哪來的車堵？導航全綠。他不説話。我開了導航，要他跟着我的導航走。他先裝聾，故意不從；我再次提醒後，他又説導航要從鎮上走，人多紅燈多，按他走的路更暢通。我第三次要求按導航走，他才終於放棄繞路。一路依然和來時一樣，除了城市道路中正常間隔的紅燈，沒有一腳停頓。
+
+無錫的司機喜歡在跑長途時刻意繞路，坐兩次遇兩次，説明不是個案。外地去的朋友多加小心，多開導航。
+
+酒店的工作人員頭一天打來電話加了微信確認了行程發來了定位，説地方不好找。但發的定位又出了問題，司機把我們扔在那個座標點的路邊後，我再一搜素，步行距離2.8公里，32分鐘。烈日當空，我毛了。太太重新叫了車，定位了酒店名稱，才終於七拐八繞停到了橫跨南長街古運河的一座大橋上。按我的交規記憶，橋上停車是違法行為，但市政綠化帶上的缺口和缺口邊的台階卻又真是走到南長街，走到酒店的捷徑。
+
+拖着行李箱狼狽的下着台階，順着南長街往右走了大概200米，路過一家柴犬飲品店，就到了這家門臉兒貌不驚人的老宅酒店。三個姑娘和一位男士的歡聲笑語飄到門外，直到我們推開門打擾到他們。四個人坐在涼爽的前台，沒有一個人出門到不那麼好找的橋上、台階、路口，或者哪怕是店門口接應。
+
+我不禁和太太感慨。鼓浪嶼上1500元一晚的民宿，人家直接到碼頭接人幫忙拖運行李，南長街1880元一晚的民宿，衹有微信提示。不知道是不是感受到了我的不滿情緒，那位身材高大的男士後來主動幫忙把行李箱提上了二樓房間。
+
+幽靜的二層老宅散發出它應有的古典氣質，設計師呂邵蒼的巧思，賦予歷史新的功能與時尚。筒燈與小景的細節搭配隨處可見，一幅畫、一個花瓶，一束乾花，在幽暗的光線和環境的烘託下，營造出一分神祕、一分清雅、一分古樸。入園口擺着一籃蘋果🍎，既是出入平安的寓意，也為客人再補充些維生素。
+
+老宅的磚木結構得以保留，上台階時嘎嘰嘎嘰的聲響喚醒歲月的記憶。兒時家境貧寒，曾住在老爸學校校辦廠的吊腳樓上，上樓時也是這樣嘎嘰嘎嘰的響。
+
+房間不算太大，勉強算得上寬敞。老式建築的房樑很高，中式的木床放在下面也不顯得侷促，算是情調。另一頭有大尺寸的茶台，擺着迎賓的水果和一本心經。軟塌坐着挺舒服，衹是利用的時間不多，心經寫了幾個字，還是掌握不了楷書的精髓。小時候學書法盲選了隸書，似乎選錯了。
+
+坐落在南長街中段的莫宅位置很好。傍晚後，古運河帶走熱量，暑氣消褪得很快。古街、古河、古橋、古宅，吃飯、散步、拍照，閑閑散散幾個小時也不會覺得疲憊。走到兩頭，慢慢步行也不過10來分鐘。
+
+身處鬧市，房間裏卻很安靜。連上藍牙音響，在睡前聽一段大提琴，是我最近大半年的習慣。小隱隱於野，大隱隱於市，設計師的初衷的確得以實現。不過藍牙連得上，電視遙控器卻不太聽話，和波羅蜜多酒店一樣，電視不太聽招呼。
+
+早餐在樓下的小廳。小廳佈置成書房的樣子，書籍📚成了最好的裝飾。等餐的時候翻了翻，設計類和文學類居多，隨手從手邊的格子裏抽出一本，假如時間充裕在這裏讀讀書喝喝茶也蠻好。和酒店相比，品類自然少很多，好在味道真不錯。莫宅平時還承辦私房菜，300元/位起。
+
+因為南京疫情的影響，我們提前一天從無錫返程。退完房拖着行李🧳費力的爬回橋上，打車20分鐘就到了碩放機場。
+
+行程結束，並不完美，好在順利。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in May 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 29, 2022
+msg:非常棒的酒店環境，老宅改造，歷史感厚重，前台小姐姐小哥哥的服務也特別貼心，臨走還送了伴手禮。推薦大家來無錫都來打卡這家酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in October 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted November 4, 2021
+msg:環境挺好的，江南院子，房間床品舒適，但跟這個價格比服務一般叭
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 13, 2024
+msg:還是滿意的
+----------------------------------------
+name:G‍r‍a‍c‍e‍_‍y‍o‍u‍n‍g
+info:Family Room
+info:Stayed in July 2021
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted December 13, 2021
+msg:還原老宅風貌，迴歸院子生活的酒店。沿街的門廳古樸到極致，不仔細看還真發現不了呢！熱情的管家提前會聯繫，有問必答，給人回家的感覺，真好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in June 2021
+info:Friends
+info:2 Reviews
+rating:4.5
+posted:Posted June 15, 2021
+msg:服務超級超級超級好！早餐非常豐盛，並不是自助餐而是麪條餛飩很喜歡了！客服消息基本是秒回的溝通很順利。明朝的房子也很漂亮。就是因為是老房子所以會有一些老房子會有的問題。有機會去無錫還會來的！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Room
+info:Stayed in July 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted July 8, 2023
+msg:環境很好，出門就逛街
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in June 2021
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted June 22, 2021
+msg:地理位置極佳就在南長街主幹道的當中，但離酒吧有些距離，相對還比較安靜。雖然房價性價比不算高，但也是一家比較有特色的酒店，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in September 2021
+info:Friends
+info:26 Reviews
+rating:5
+posted:Posted October 1, 2021
+msg:氛圍感很足，還會再來
+----------------------------------------
+name:A‍n‍n‍i‍e‍z‍h‍l
+info:Guestroom - Garden-View (Double bed)
+info:Stayed in April 2023
+info:Family
+info:13 Reviews
+rating:4
+posted:Posted July 13, 2023
+msg:還行吧，沒留下啥深刻印象
+----------------------------------------
+name:J‍i‍n‍g‍j‍i‍n‍g‍j‍i‍n‍g‍6‍6
+info:Family Room
+info:Stayed in March 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted April 19, 2023
+msg:交通便捷，酒店服務很到位。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in November 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 28, 2023
+msg:挺好的。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in May 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted July 29, 2023
+msg:鬧中取靜，服務優。
+----------------------------------------
+name:�‍�‍h‍u‍h‍u‍�‍�‍x‍i‍n‍m‍e‍i‍m‍e‍i‍�‍�‍�‍�
+info:Guestroom (Double bed)
+info:Stayed in May 2021
+info:Solo travelers
+info:33 Reviews
+rating:5
+posted:Posted June 18, 2021
+msg:在市中心步行街裏的酒店，裝修古色古香服務貼心周到非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in April 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted April 17, 2023
+msg:很滿意 服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Courtyard-View (Double bed)
+info:Stayed in March 2023
+info:Friends
+info:17 Reviews
+rating:5
+posted:Posted March 17, 2023
+msg:酒店鬧中取靜，位置好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in March 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted June 10, 2023
+msg:總體來看還是不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in March 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted March 31, 2023
+msg:鬧中取靜的好住處
+----------------------------------------
+name:t‍i‍n‍y‍f‍l‍y‍i‍n‍g
+info:Family Room
+info:Stayed in March 2023
+info:Couples
+info:10 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:設計的比較有味道
+----------------------------------------
+name:Z‍h‍o‍n‍g‍d‍i‍a‍n‍d‍i‍a‍n‍l‍i
+info:Family Room
+info:Stayed in August 2022
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted August 23, 2022
+msg:第二次入住了 很喜歡這家酒店的感覺
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in June 2021
+info:Family
+info:19 Reviews
+rating:4
+posted:Posted June 15, 2021
+msg:老房子，蚊子多，採光不足，招蚊子的寶寶要小心。房間不多，早餐品種定餐，口感不錯。民宿在南長街上，位置很好，周圍都是吃的，晚上逛街很熱鬧。
+----------------------------------------
+name:W‍e‍i‍s‍e‍n‍h‍a‍o‍s‍e‍s‍i‍t‍a‍n‍d‍e‍w‍u‍z‍e‍t‍i‍a‍n
+info:Stayed in October 2022
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted October 17, 2022
+msg:設施：不錯。很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)
+info:Stayed in August 2021
+info:Friends
+info:56 Reviews
+rating:4.2
+posted:Posted October 14, 2021
+msg:還可以吧，挺好的，價格偏
+----------------------------------------
+name:T‍a‍o‍q‍i‍t‍a‍o
+info:Suite
+info:Stayed in April 2021
+info:Other
+info:10 Reviews
+rating:5
+posted:Posted July 21, 2021
+msg:設計師酒店小而美，位置很好
+----------------------------------------
+name:A‍l‍u‍a‍n‍1
+info:Guestroom (Double bed)
+info:Stayed in November 2021
+info:Solo travelers
+info:25 Reviews
+rating:5
+posted:Posted November 10, 2021
+msg:比較不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)1
+info:Stayed in June 2021
+info:Business travelers
+info:54 Reviews
+rating:5
+posted:Posted June 15, 2021
+msg:非常贊，服務到位
+----------------------------------------
+name:Z‍O‍E‍8‍6‍3
+info:Guestroom (Double bed)
+info:Stayed in April 2021
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted June 27, 2021
+msg:感覺很不錯的
+----------------------------------------

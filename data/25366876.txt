@@ -1,0 +1,482 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (2 beds)
+info:Stayed in February 2023
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted February 12, 2023
+msg:The overall is not bad, suitable for people who like to go outing, away from the hustle and bustle of the city, the most important thing is to live a slow and happy life.
+----------------------------------------
+name:l‍i‍s‍h‍a‍n‍g‍r
+info:Zen Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 24, 2023
+msg:Good environment, good air, very quiet
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Zen Deluxe Room (Double bed)
+info:Stayed in August 2022
+info:Couples
+info:4 Reviews
+rating:4
+posted:Posted August 23, 2022
+msg:The environment of the homestay in the scenic area is very good, and the scenery around the swimming pool is also good, but it is a bit small. The breakfast is not as good as the outside ones if you need to pay extra. Generally speaking, the facilities are mediocre, but the environment is good. It's okay to take a vacation on weekends. Tours in scenic spots are expensive. Although tickets are included, the glass bridge, cableway, and sightseeing cars have to be paid separately. It is quite expensive without discounts.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Premier Room (Double bed)
+info:Stayed in July 2022
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted July 28, 2022
+msg:The children who live in the king bed room like it very much. It has a large bathtub and a large balcony, and the scenery is excellent. The experience of this room type is great and I will stay again.
+----------------------------------------
+name:H‍a‍i‍m‍i‍a‍n‍b‍a‍o‍b‍a‍o‍0‍2‍0‍8
+info:Zen Deluxe Family Loft Suite
+info:Stayed in April 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted June 2, 2024
+msg:絕對很棒，已經第N次入住。環境好，還可以免費進入景區。親子套房，有兩個衞生間及洗漱間，還帶閣樓，很有趣。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Zen Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:6 Reviews
+rating:4.5
+posted:Posted May 5, 2024
+msg:環境：全透明衞生間這個真的挺不適應的，其他還好，環境還是不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Deluxe Room (Double bed)
+info:Stayed in November 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted November 23, 2023
+msg:適合帶孩子去玩，在景區裏面，入住可以免門票，可以開車進去，停車方便，到景區各景點也方便
+----------------------------------------
+name:Q‍i‍c‍u‍n‍s‍u‍z‍h‍e
+info:Zen Deluxe Room (2 beds)
+info:Stayed in October 2023
+info:Other
+info:73 Reviews
+rating:5
+posted:Posted November 1, 2023
+msg:不錯，挺好的，環境好，停車方便。
+----------------------------------------
+name:Q‍i‍a‍n‍q‍i‍a‍n‍x‍i‍a‍o‍g‍u‍n‍i‍a‍n‍g
+info:Zen Room (Double bed)
+info:Stayed in May 2024
+info:Friends
+info:4 Reviews
+rating:2
+posted:Posted May 5, 2024
+msg:房間太髒了，蜘蛛網一堆，浴室水龍頭壞掉的，關不緊，打掃的人都不檢查的嘛？浴室都淹水了⋯⋯住宿體驗感很差！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:4 Reviews
+rating:3.2
+posted:Posted July 17, 2023
+msg:環境確實不錯 就是入住的客人少 好多設備沒有人維護 吃飯自己想辦法
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (Double bed)
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 12, 2024
+msg:環境比預期還好，酒店在景區裏很方便，晚上6點後還能開車進景區，在大佛字下吃農家樂；
+景區人沒有很多，不擁擠，很不錯。
+----------------------------------------
+name:Y‍u‍a‍n‍f‍a‍n‍g‍d‍e‍f‍e‍n‍g‍0
+info:Zen Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:11 Reviews
+rating:4.7
+posted:Posted July 10, 2023
+msg:修身養性的好地方，適合散心。環境還可以。
+----------------------------------------
+name:卿‍卿‍蒲‍公‍英
+info:Zen Room (Double bed)
+info:Stayed in December 2023
+info:Couples
+info:26 Reviews
+rating:4
+posted:Posted December 23, 2023
+msg:本來打算住在容州市內，最後決定住這景區旁的住宿，環境很好，不過感覺房間好像好久沒人住過，整體還可以的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:17 Reviews
+rating:4
+posted:Posted February 21, 2024
+msg:外部環境一流，酒店服務及維護一般，可惜了這麼美的環境了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (2 beds)
+info:Stayed in August 2023
+info:Solo travelers
+info:25 Reviews
+rating:5
+posted:Posted November 2, 2023
+msg:很好，環境一流，乾淨舒服。已是第N次住養心學院了，每次到容縣，必須來養心學院。服務水平超級好，住的舒心。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:7 Reviews
+rating:3.7
+posted:Posted August 4, 2023
+msg:夏天去景區還是有點熱，好在前台服務員的態度臉若冰霜，就像冬天❄️一樣，讓人心情沉重寒冷，常常答非所問，莫名其妙！
+----------------------------------------
+name:S‍i‍h‍u‍i‍s‍h‍i‍d‍o‍n‍g‍c‍h‍e‍n‍g‍q‍u‍t‍a‍o‍l‍i‍s‍h‍e‍q‍u‍f‍e‍i‍c‍u‍i‍s‍h‍a‍n‍h‍e
+info:Zen Premier Room (Double bed)
+info:Stayed in October 2022
+info:Couples
+info:9 Reviews
+rating:5
+posted:Posted October 11, 2022
+msg:環境不錯，清靜，空氣清新，設施完善，出差旅遊佳可選。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (2 beds)
+info:Stayed in February 2024
+info:Couples
+info:17 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:升級了房間後很好，很安靜，陽台非常好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Type B RV
+info:Stayed in March 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 30, 2022
+msg:都橋山風景優美，房車環境整潔，房間佈局堪稱完美，優雅又不失情調，服務周到，讓人無比舒心。給我們孩子營造了一種家的感覺，無論大處到小處都是那麼無懈可擊，價格也很合理。
+特別感謝酒店工作人員的一位小哥哥幫忙，由於那天沒有與孩子溝通好，大兒子獨自一個人走出了景點園區，作為媽媽的我真的着急要哭了，幸好這位工作人員驅車幫忙我一起尋找，最好找到孩子了。我特別感謝他，現在想起來都很感動！容縣都橋山酒店憑藉獨有的人文素養和其婉約美麗的殷殷之情，讓我終生難忘！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (Double bed)
+info:Stayed in October 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 31, 2023
+msg:環境特別好，是旅遊風景區內，讓人流連忘返
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Zen Room (2 beds)
+info:Stayed in December 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 1, 2024
+msg:在景區內，停車方便，環境很好！
+----------------------------------------
+name:H‍e‍l‍l‍o‍m‍i‍a‍o‍t‍t‍y‍-‍s‍e‍u‍n‍g‍r‍i
+info:Zen Deluxe Room (Double bed)
+info:Stayed in September 2021
+info:Family
+info:13 Reviews
+rating:4
+posted:Posted October 5, 2021
+msg:入住後未退房，攜程沒辦法立即給五星好評 ，前台説因此不能給早餐券 **的可以給。反覆去了兩次 晚上十點 再去溝通後才勉強給了。泳池很乾凈 路也好走。衞生都不錯。
+【帶娃愛住】
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Zen Deluxe Room (2 beds)
+info:Stayed in September 2021
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted September 20, 2021
+msg:養心學院酒店在景區內，依山傍水。這次入住豪華民宿雙床2301，陽台的視野開闊，不遠處還有游泳池。小朋友玩得很開心，適合週末帶娃來爬爬山，遊游泳，養養心[愉快][愉快]
+----------------------------------------
+name:S‍h‍e‍n‍g‍j‍i‍e‍x‍i‍a‍o‍Y‍a‍n‍g
+info:Zen Room (2 beds)
+info:Stayed in January 2023
+info:Friends
+info:7 Reviews
+rating:3.5
+posted:Posted January 29, 2023
+msg:體驗感不錯 不過前台服務態度一般吧  其他的就還行
+----------------------------------------
+name:H‍o‍n‍g‍x‍i‍u‍7‍0‍0
+info:Zen Premier Room (Double bed)
+info:Stayed in September 2021
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted September 20, 2021
+msg:風景優美，在裏面住很舒服，民宿是相對獨立的空間，隱祕性挺好，很安靜，很舒適，是休閑度假的首選之地，特別適合一家大小來住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (Double bed)
+info:Stayed in December 2023
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted December 16, 2023
+msg:服務態度很好！
+----------------------------------------
+name:1‍1‍0‍1‍8‍2‍3‍8‍0‍6
+info:Zen Room (Double bed)
+info:Stayed in January 2024
+info:Business travelers
+info:8 Reviews
+rating:3.5
+posted:Posted January 5, 2024
+msg:房間味道太重
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (Double bed)
+info:Stayed in December 2021
+info:Solo travelers
+info:1 Review
+rating:2
+posted:Posted December 26, 2021
+msg:隔音非常差，在隔離幾個房間抖動塑料袋的聲音都能聽到。客房洗漱龍頭出水似雞拉尿那麼細小不説還黃濁，最讓人受不了還是半夜搞衞生。前台服務也不好，剛進去5分鐘不到發現衞生間水龍頭情況就去要求換房，前台服務男生居然説你睡過了不準換。本來預訂了兩天的房不得不提前退了。酒店周邊環境確實好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Deluxe Room (Double bed)
+info:Stayed in August 2021
+info:Friends
+info:45 Reviews
+rating:3.2
+posted:Posted August 22, 2021
+msg:第一，攜程訂房比前台便宜。第二，民宿比酒店房間好。第三，二棟是民宿裏最差的。第四，游泳池好小。第四，燒烤場比較遠，需開車。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Zen Deluxe Room (2 beds)
+info:Stayed in October 2021
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted October 28, 2021
+msg:很安靜 環境很好 不用開山路非常方便
+----------------------------------------
+name:Y‍A‍N‍L‍I‍A‍N‍G‍H‍U‍A‍1‍9‍8‍1
+info:Zen Room (Double bed)
+info:Stayed in October 2021
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted October 28, 2021
+msg:出差出行，酒店在景區裡間，安靜和空氣好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:4.2
+posted:Posted October 7, 2023
+msg:房間空間小了點
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (Double bed)
+info:Stayed in September 2021
+info:Couples
+info:1 Review
+rating:4
+posted:Posted September 29, 2021
+msg:環境舒適，優閑清靜。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Zen Room (Double bed)
+info:Stayed in February 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted March 23, 2023
+msg:唯一一個去過一次還想再去的地方。
+----------------------------------------
+name:X‍i‍a‍o‍l‍i‍n
+info:Zen Premier Room (Double bed)
+info:Stayed in July 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 23, 2021
+msg:很喜歡入住，周邊遊的首選，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (2 beds)
+info:Stayed in May 2021
+info:Friends
+info:13 Reviews
+rating:4
+posted:Posted August 10, 2021
+msg:好的房間都被訂滿，住的是最小的房間，感覺太窄小了。訂房包門票，超值啊。下次還會去。山上環境真的很不錯。
+----------------------------------------
+name:C‍o‍n‍n‍i‍e
+info:Zen Room (Double bed)
+info:Stayed in July 2023
+info:Friends
+info:12 Reviews
+rating:5
+posted:Posted September 21, 2023
+msg:環境，服務不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Premier Room (Double bed)
+info:Stayed in December 2021
+info:Friends
+info:13 Reviews
+rating:2.7
+posted:Posted December 30, 2021
+msg:此酒店房型差異很大，而且價格很高。酒店的前台服務員的態度真的很差。
+🧹衞生：一般
+🔔服務：差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Premier Room (Double bed)
+info:Stayed in July 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:適合親子游
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Premier Room (Double bed)
+info:Stayed in January 2023
+info:Other
+info:2 Reviews
+rating:2.5
+posted:Posted January 26, 2023
+msg:服務品質有待提高
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Zen Premier Room (Double bed)
+info:Stayed in August 2022
+info:Friends
+info:5 Reviews
+rating:1.5
+posted:Posted August 5, 2022
+msg:感受一般，服務管理有待改善。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (2 beds)
+info:Stayed in October 2022
+info:Friends
+info:6 Reviews
+rating:2
+posted:Posted October 4, 2022
+msg:這個酒店太差太差太差。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (2 beds)
+info:Stayed in November 2021
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted November 4, 2021
+msg:環境很好，還不用買門票，禪意十足，強烈推薦，晚上超安靜，解壓聖地。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (Double bed)
+info:Stayed in September 2021
+info:Friends
+info:20 Reviews
+rating:5
+posted:Posted September 25, 2021
+msg:景區裏面，綠化、空氣很好，適合休閑。早餐比較簡單
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Deluxe Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted August 16, 2022
+msg:下次還會光顧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Premier Room (Double bed)
+info:Stayed in October 2021
+info:Couples
+info:3 Reviews
+rating:4.5
+posted:Posted October 18, 2021
+msg:環境優美，舒適安靜，空氣好
+----------------------------------------
+name:L‍w‍z‍6‍6‍6
+info:Zen Room (Double bed)
+info:Stayed in December 2021
+info:Solo travelers
+info:69 Reviews
+rating:5
+posted:Posted December 6, 2021
+msg:空氣一流 環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (2 beds)
+info:Stayed in October 2021
+info:Family
+info:33 Reviews
+rating:5
+posted:Posted October 6, 2021
+msg:環境很好，吃飯也不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (Double bed)
+info:Stayed in September 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 22, 2021
+msg:很喜歡，幽靜有文化氣息
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (2 beds)
+info:Stayed in March 2021
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted July 8, 2021
+msg:酒店管理非常到位，食譜非常非常滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Zen Room (Double bed)
+info:Stayed in October 2021
+info:Couples
+info:1 Review
+rating:5
+posted:Posted October 2, 2021
+msg:景色優美，安靜！
+----------------------------------------
+name:Q‍i‍n‍q‍i‍n‍x‍i‍a‍o‍b‍a‍o‍h‍e‍x‍i‍a‍o‍b‍e‍i
+info:Zen Deluxe Room (2 beds)
+info:Stayed in August 2021
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted August 13, 2021
+msg:環境優美，居住舒適
+----------------------------------------
+name:J‍u‍n‍e‍0‍6‍8
+info:Zen Deluxe Room (2 beds)
+info:Stayed in January 2022
+info:Business travelers
+info:46 Reviews
+rating:5
+posted:Posted January 12, 2022
+msg:不錯很安靜
+----------------------------------------

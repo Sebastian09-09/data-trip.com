@@ -1,0 +1,2144 @@
+name:H‍u‍i‍k‍o‍n‍g
+info:Standard Twin Room
+info:Stayed in April 2024
+info:Business travelers
+info:7 Reviews
+rating:1
+posted:Posted April 29, 2024
+msg:How to comment, the worst rest experience. The toilet is dirty, the central control is broken, the table is broken, the shower water is yellow, the plug of the bathtub is dead, and the wall is moldy.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in April 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:Friends travel, booked for us, the service and environment are good, the first choice for travel
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 6, 2024
+msg:An old five-star hotel! Although it is quite old, it is very clean and has complete facilities. It only takes 5 minutes to walk to the Tang Dynasty City. With the coupons given by Xi'an Cultural Tourism, the price-performance ratio is quite high. I will come again next time!!!
+----------------------------------------
+name:F‍e‍n‍g‍l‍i‍n‍g‍u‍o‍k‍e
+info:Standard King Bed Room
+info:Stayed in March 2024
+info:Solo travelers
+info:13 Reviews
+rating:2
+posted:Posted March 16, 2024
+msg:The facilities are old and the hygiene is hard to describe. Take a look at this stool for yourself. Is this the hygiene condition of a five-star hotel? You can only take a shower while standing in the tub
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:4.7
+posted:Posted February 16, 2024
+msg:It is an old five-star hotel. We went there during the Spring Festival holiday. The price was a bit expensive. The price is more cost-effective during the off-season, but the environment and location are very good. The hotel is large in size, parking is very convenient, and the service staff has a very good attitude. The whole hotel is fragrant, and there is an automatic fragrance machine in the corridor. We booked a room with breakfast. The hotel has a rich breakfast, including bread, milk, coffee, fruits, and various staple foods. Everything is available, the freshly cooked rice noodles and noodles taste good, the dining area is large and very comfortable. The room is very large. When the front desk staff found out that I was traveling with my two children, they took the initiative to upgrade to a 1.35-meter-wide double room for free. Like 👍. The hot water is very fast. Hot water comes out in three seconds after I turn it on. The location is also very good. Just turn left when you go out and walk for 5 minutes to the south gate of the Evernight City of the Tang Dynasty. Now you can see the Evernight City from every room, which is very convenient. The slight drawback is that the hotel is a little older and the facilities are a bit old. The socket at the bedside of the room is out of power. My mobile phone has an Android double-sided plug, not USB, so charging is inconvenient. But despite its flaws, I still recommend it.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in February 2024
+info:Friends
+info:11 Reviews
+rating:4
+posted:Posted February 17, 2024
+msg:The hotel lobby is very beautiful, the breakfast is complete, the facilities are a little old, and the location is good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 15, 2024
+msg:Very good, the location is very close to the Tang Dynasty City. The hotel itself is very large and the building is beautiful. The breakfast is good, you can eat traditional food such as Roujiamo, and the environment is also good. Recommended to stay.
+----------------------------------------
+name:Y‍a‍n‍j‍i‍n‍g‍s‍i‍m‍a‍x‍i‍a‍n‍g‍r‍u
+info:Deluxe Room
+info:Stayed in February 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:This is a very cost-effective hotel. It is just one intersection away from the Tang Dynasty City that never sleeps, and it only takes three minutes to get there. The room is also very clean and the service is very good. Anyway, I like it very much.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:4.5
+posted:Posted February 12, 2024
+msg:It is very close to Datang Never Sleeps City. Turn left and it is 5 minutes away. Parking is also convenient. The room is well heated. It feels like summer when it is turned to the lowest setting. There is also a bathtub in the room. It is nice to take a bath after traveling or playing during the day. There are not many hotels with bathtubs now. The breakfast is rich and varied until 10 am. It is also okay to sleep in the morning before going.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in December 2023
+info:Family
+info:48 Reviews
+rating:5
+posted:Posted January 1, 2024
+msg:The hotel is very good, the attitude of the front desk is also very good, and the location is very good. It takes less than 5 minutes to walk to Datang Evernight City.
+----------------------------------------
+name:J‍i‍e‍k‍e
+info:Standard Twin Room
+info:Stayed in April 2024
+info:Family
+info:3 Reviews
+rating:3
+posted:Posted April 11, 2024
+msg:The hotel facilities are too old
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in December 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted December 8, 2023
+msg:It was a great experience to come to Xi'an Yazhi Hotel. When we entered the lobby, the customer service girl Chen Junyan enthusiastically provided us with tea and towels, and helped us deliver our luggage to the room. She also introduced me to afternoon tea, which has many types. The room is clean, well-equipped, and the bedding is very comfortable. Highly recommended!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:4.5
+posted:Posted May 2, 2024
+msg:Arrived late, in the early morning, and only the first floor was available. The service was very good, patiently answering questions and responding to requests. The only drawback was that the facilities were relatively old, and the shower and toilet were old models, but they were very clean and the water was sufficient. Close to the city that never sleeps, good location
+----------------------------------------
+name:Y‍u‍s‍i
+info:Deluxe Room
+info:Stayed in March 2024
+info:Other
+info:2 Reviews
+rating:4.7
+posted:Posted April 5, 2024
+msg:Booked a room for my sisters👯♀️, a well-established five-star hotel.
+Facilities: Just put some things there, no review without a detailed look
+Environment: The environment is good, the hotel gate faces north, and you can walk🚶♀️🚶♀️ to the Tang Dynasty City that Never Sleeps
+Service: Thank you for the front desk patiently answering my various questions🥰🥰😊
+----------------------------------------
+name:R‍u‍a‍n‍.‍L‍y‍n‍n
+info:Budget Room (Special promotion, no window)
+info:Stayed in August 2023
+info:Solo travelers
+info:51 Reviews
+rating:5
+posted:Posted August 21, 2023
+msg:The hotel room is large and the facilities are pretty good. It is very close to Datang Evernight City. There is also a bus station nearby, making traveling more convenient. There is also a swimming pool, and the hotel garden is also beautiful. In short, the price/performance ratio is very high. This time we even offered a 2-hour delayed check-out. I will choose this hotel next time I come to Xi'an!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in August 2023
+info:Family
+info:3 Reviews
+rating:4.7
+posted:Posted August 28, 2023
+msg:The hotel is in a great location, the overall environment inside the hotel is good, the swimming pool is at a suitable temperature, suitable for children. The room is relatively old, but the facilities are complete, and the hotel room service is relatively timely. The breakfast is quite satisfactory. The overall price-performance ratio is acceptable.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in August 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 23, 2023
+msg:The environment is good and it is very close to the Tang Dynasty City that Never Sleeps! It's nice to take your children to experience the feeling of the ancient capital of 13 dynasties! As soon as I entered the hotel, I happened to encounter an academic exchange meeting of universities such as Xi'an Jiaotong University. Suddenly I felt that it was the right choice to take my children out for a trip✅
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in February 2024
+info:Family
+info:22 Reviews
+rating:1
+posted:Posted February 17, 2024
+msg:I won't talk about the old facilities of the hotel, after all, it's an old hotel, I don't care about this. But no one in your hotel has any idea of ​​serving customers, I'm surprised! First of all, let's talk about breakfast. Turn off the lights in the restaurant on time at 10 o'clock. So many people are still eating. It's normal for you to stop serving food. Just turn off the lights? ? First time I've encountered this! Second, the hotel phone can't be dialed out. There are four or five pieces of luggage. I wanted to ask a concierge to help push the cart down, but the phone was not connected. I couldn't take it down by myself. When I checked out, I told the front desk, but they didn't even raise their eyelids. . . I thought at least they would apologize verbally, but nothing happened. Third, the hotel parking, when I checked in, I asked if I wanted to register the license plate, but they ignored me, or maybe they didn't hear me. When I checked out, they didn't ask if I drove. Then I went out to pay, and then returned to the front desk to register. They asked a lot of questions before they registered. That's it, you think about it. After all, it's more than 800 a night, this is too unreasonable.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted March 10, 2024
+msg:I have been staying at this hotel for more than 10 years. This time I feel it is still the same as when I first came. It is a relatively cost-effective hotel in Qujiang, Big Wild Goose Pagoda. Parking is also convenient. The only drawback is that the room is quite old. The original decoration design is still old-fashioned, and the toilet also has obvious signs of aging.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in July 2023
+info:Family
+info:10 Reviews
+rating:3.7
+posted:Posted August 4, 2023
+msg:The hotel looks very good, very close to the Tang Dynasty City that Never Sleeps. It is an old hotel, and it should have been very good in the past. The decoration inside is quite standard. The advantage is that the room area is very good. What can be improved is that the hotel's shower drain is a bit blocked. The air conditioning in the room is very sufficient. If you choose to stay near the Big Wild Goose Pagoda or the Tang Dynasty City that Never Sleeps, it is still good. In addition, there are two bottles of charged ice spring mineral water at the water boiler, 10 yuan per bottle. If you don't pay attention, you will think it is free water. The next morning, I found that the free water was on the small coffee table next to the bed. I think the hotel should remind the passengers more prominently, otherwise they will definitely use the charged water directly. The hotel can change its location.
+----------------------------------------
+name:Y‍i‍n‍q‍i‍z‍h‍i‍d‍a‍o‍t‍i‍n‍g‍y‍a‍n‍g‍x‍i‍u
+info:Standard Twin Room
+info:Stayed in December 2023
+info:Business travelers
+info:44 Reviews
+rating:5
+posted:Posted December 19, 2023
+msg:Very satisfied!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in April 2024
+info:Friends
+info:56 Reviews
+rating:4
+posted:Posted May 30, 2024
+msg:挺好的，頭一次來住這酒店，離不夜城近，走過去很方便，酒店夠大，就是年頭老了感覺服務人員不太專業。去了華山 華清池玩，吃了蕎麪餄絡 水盆羊肉，挺好的！下次還會選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in June 2024
+info:Family
+info:4 Reviews
+rating:1.2
+posted:Posted June 8, 2024
+msg:真是太后悔沒認真看評價。酒店差評寫的都很真實。房間異味！煙味！太噁心了！床品換沒換都不知道，有一股用了好幾天的味道。還好自己帶了一次性床品，床頭電源竟然是壞的！酒店前台更是無語！已經交了500按金，大半夜11點快到11點30了，打房間電話問是不是沒付款按金！不知道那個時間孩子要睡覺的嗎？更無語第二天早晨又問！就500塊錢叨叨不明白！零分！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 8, 2023
+msg:性價比非常好的酒店，環境很好，離大唐不夜城、芙蓉園、大雁塔都很近。酒店的泳池，家長可以在外面監控看到孩子的情況。總之整體感受很不錯，好評！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in August 2023
+info:Family
+info:25 Reviews
+rating:5
+posted:Posted August 5, 2023
+msg:老牌酒店，位置好，酒店特別大，有1號樓、2號樓，還有後花園。步行去大唐不夜城開元廣場挺近，房間比較大，對着別墅區，能看到大唐不夜城
+----------------------------------------
+name:B‍a‍n‍r‍u‍o‍b‍o‍l‍u‍o‍m‍i‍w‍a‍n‍g
+info:Budget Room (Special promotion, no window)
+info:Stayed in August 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 17, 2023
+msg:雖然有點貴，但是離大唐不夜城太近了，走路五分鐘，附近也有租漢服的，溜達溜達真不錯，就是有點廢腳，全程逛下來兩萬步，累。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in July 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted July 18, 2023
+msg:非常滿意，五星級！還有泳池，環境優美，服務人員都很熱情周到，看我們帶娃還免費升了級！離大唐不夜城非常近，步行一會兒就到了，鬧中取靜，非常滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 9, 2023
+msg:環境非常好，服務也非常好，絕對適合度假，周圍都是別墅，綠化和空氣都非常好。距離大唐不夜城僅需步行5分鐘。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in June 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted July 2, 2023
+msg:地理位置很方便，離大唐不夜城，大雁塔，大唐芙蓉園，都很近，陝西歷史博物館（雖然很近，沒約不到票），鼓樓鐘樓那邊地鐵公交很方便，開車出行上繞城也不遠。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in July 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted August 5, 2023
+msg:地理位置很好，離大唐不夜城城走路5分鐘，曲江路上的環境挺好，酒店露天燒烤晚上特別有感覺，酒店環境很好，前台服務熱情。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 24, 2023
+msg:環境很好，窗外有花園，設施齊全，房間也夠大，乾淨衞生，最主要的是性價比很高，所在位置也好，走路去大雁塔非常近。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in October 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted October 30, 2023
+msg:賓館位置很好，到大唐不夜城和大雁塔可以走過去，其他地方門口有公交但不靠近地鐵站；賓館儘管有些老舊但建築大氣，有停車場還有一個後花園，感覺不侷促；服務人員也很規範周到。總體來説，性價比可以。
+----------------------------------------
+name:g‍w‍p‍1‍9‍2‍8‍3‍0
+info:Standard Twin Room
+info:Stayed in October 2023
+info:Friends
+info:69 Reviews
+rating:4.5
+posted:Posted October 14, 2023
+msg:酒店設施有點陳舊，衞生間裏的浴缸下水不通暢，水龍頭花灑和水龍頭同時出水，調整不好，造成花灑出水小，一共訂了4間房都存在同樣的問題，説明設施太老舊了，應該要重新裝修了，下次再來西安應該不會考慮入住了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:4.5
+posted:Posted May 4, 2024
+msg:整個房間燈光很暗，衞生間味道大，設施明顯陳舊，大堂環境好，延遲到2點退房，早餐還可以。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:1
+posted:Posted April 1, 2023
+msg:房間環境和價格非常不匹配，天花板掉漆散落碎片，
+管理也比較差，隔壁房間的客人回來打開房門，凌晨1：10，大聲吆喝，吵鬧，熟睡中驚醒，沒有保安維持秩序，深受打擾，非常差！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:3.2
+posted:Posted March 1, 2024
+msg:很難想象現在還有不讓外賣送到房間的酒店，外賣還是放在酒店室外的，跟酒店前台打電話溝通無果前台直接掛電話
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in August 2023
+info:Business travelers
+info:3 Reviews
+rating:2.5
+posted:Posted August 19, 2023
+msg:這酒店真的很難評，從外面看大氣磅礴，進了房間要啥啥沒有，像是那個三十年前的破行政房。晚上睡覺個倒黴空調哐哐哐放氣，不開又熱。浴室嘛也不做個乾濕分離，居然還是那種人站浴缸裏旁邊一個破簾子自己拉起來以跟馬桶區分開來的設計。你們從來不改良不進步的嗎？？整個房間插座也少得可憐，來這兒的客户都能自體發電是吧？太可笑了！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in March 2024
+info:Business travelers
+info:8 Reviews
+rating:3.2
+posted:Posted March 17, 2024
+msg:和招待所差不多，一股臭味道，確實想住這家選擇貴90的豪標吧，這個四百多真的不如破的招待所
+----------------------------------------
+name:y‍i‍y‍i‍y‍a‍o‍y‍a‍o
+info:Deluxe Room
+info:Stayed in July 2023
+info:Business travelers
+info:70 Reviews
+rating:5
+posted:Posted July 7, 2023
+msg:環境優美，服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in August 2023
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted August 5, 2023
+msg:入住時一定要檢查收費物品是否有問題。扣我20元按金，説我喝他們的收費的水了。打電話去諮詢，核實了説水瓶被擰開了，天地良心我們連碰都沒碰那水。20元退回來了，但是這件事煩人，説不定還有坑。早餐一般。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in August 2023
+info:Business travelers
+info:2 Reviews
+rating:1
+posted:Posted August 25, 2023
+msg:除了位置靠近大唐不夜城，位置好，其他啥都不行，房費很貴，設施很老，説是已經二十年了，空調漏水，房間裏有個黴味，換了兩個房間都不行，太差，服務管理不行，不專業，問問題不知所謂
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in October 2023
+info:Family
+info:34 Reviews
+rating:3
+posted:Posted October 7, 2023
+msg:非常不隔音，非常！因為時間原因，硬件比較老舊了，到也算乾淨整潔，前台無法使用電子身份證，且需要交按金，在這個高速發展的時代，顯得比硬件的老舊更誇張。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 26, 2024
+msg:酒店很不錯，很乾凈，夜間也很安靜，距離大唐不夜城步行幾百米就可以了，交通很便利。
+----------------------------------------
+name:V‍2‍g‍o
+info:Standard Twin Room
+info:Stayed in February 2024
+info:Family
+info:7 Reviews
+rating:4
+posted:Posted February 14, 2024
+msg:老牌五星 裝修格局確實有年頭了 還在乾淨 地理位置不錯 服務也很及時 性價比還高
+----------------------------------------
+name:B‍a‍r‍r‍y‍u
+info:Standard Twin Room
+info:Stayed in February 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted February 27, 2023
+msg:環境倒是不錯，就是床頭連個插座都沒有，床尾有一個還是壞掉的，手機充個電不方便，還有就是點外賣不讓送上來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted March 4, 2024
+msg:很不錯，老牌5星級酒店，去大唐不夜城很方便，停車方便，服務也很好，早餐也不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 14, 2024
+msg:非常滿意，前台小姐姐免費升級了房間，還給孩子送了貼心禮物，下次來西安還住這家！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 2, 2024
+msg:服務周到，環境乾淨整潔，餐食也很好，離不夜城和大雁塔步行可到
+----------------------------------------
+name:W‍u‍s‍h‍i
+info:Deluxe Room
+info:Stayed in April 2024
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted April 20, 2024
+msg:來西安這麼多次住過的最好的酒店，尤其是恆温游泳池特別感棒！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in August 2023
+info:Family
+info:24 Reviews
+rating:4.7
+posted:Posted August 15, 2023
+msg:帶小朋友來西安旅遊，非常好的體驗，酒店設施好！衞生好！環境好！到大唐不夜城非常近。小朋友非常高興！非常喜歡歡！很好的一次旅遊體驗！值得推薦。
+----------------------------------------
+name:L‍i‍l‍i‍a‍n‍g‍1‍2‍0‍6
+info:Standard Twin Room
+info:Stayed in October 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted November 15, 2023
+msg:還好吧！！！！！！！！！！！！！！！！滿意滿意。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in September 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:賓館位置好，環境好。帶小朋友出行，去大唐不夜城近，走路幾分鐘就可以到，到大唐芙蓉園，陝西歷史博物館都很方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in August 2023
+info:Family
+info:30 Reviews
+rating:5
+posted:Posted September 5, 2023
+msg:位置非常好，從大唐不夜城出來，可以開心的看大家等着打車，我們就晃晃悠悠的溜達回去啦。就沖這個位置，下次來西安一定還住這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in September 2023
+info:Other
+info:6 Reviews
+rating:3
+posted:Posted October 10, 2023
+msg:離親戚家近訂購的本來想着五星級 一上電梯 落差太大 太普通服務衞生設施衹能用快捷酒店來形容
+ 可能比快捷都不如
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 18, 2023
+msg:服務很好，房間非常乾淨，隨叫隨到，能立馬解決問題。當時忘了一件寸衫，酒店及時打電話給我本人，後取回。有種莫名的感動！謝謝曲江惠賓苑賓館
+----------------------------------------
+name:c‍i‍n‍d‍y‍s‍o‍l
+info:Budget Room (Special promotion, no window)
+info:Stayed in December 2022
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted January 6, 2023
+msg:酒店有些老舊 距離大唐不夜城很近 有很大的停車場 適合自駕 有按金500
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in April 2024
+info:Business travelers
+info:35 Reviews
+rating:4.7
+posted:Posted April 11, 2024
+msg:不錯，簡簡單單，比較乾淨，就是設施稍微有點老舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:地點佳，環境好。大唐不夜城走到盡頭後，再往前走一小段，遠離人羣不擁擠。
+大堂很氣派，價格也是在可接受的範圍內。值得推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in August 2023
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:總的來説還是不錯，前台服務態度還好，門口迎賓人員有點怪怪的，看人都不正眼。5樓，房間打掃衞生的姐姐服務好，最滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Friends
+info:14 Reviews
+rating:4.7
+posted:Posted August 24, 2023
+msg:位置很好，步行去大雁塔。衞生、環境都較為滿意。特別是晚上看大唐不夜城很方便，停車也方便。旅行西安是不二的選擇。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in January 2024
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted February 21, 2024
+msg:設施：好
+衞生：乾淨
+環境：離不夜城非常近
+服務：非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:4.7
+posted:Posted August 5, 2023
+msg:賓館高大上，房間不錯。被子比較薄，很合適。就是設施是老的東西了，電視應該是要換了，太老了。大廳，環境不錯
+----------------------------------------
+name:T‍i‍e‍y‍u‍a‍n‍j‍u‍n‍s‍i‍m‍a‍x‍i‍a‍n‍g‍r‍u
+info:Standard Twin Room
+info:Stayed in April 2024
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted April 5, 2024
+msg:酒店不錯，價格也適中，環境好，停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in April 2024
+info:Business travelers
+info:51 Reviews
+rating:5
+posted:Posted April 29, 2024
+msg:服務周到熱情 交通方便  環境優美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in December 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted December 25, 2023
+msg:住了一晚，又續了一晚，離不夜城很近，如有機會還會再住
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:1.2
+posted:Posted August 22, 2023
+msg:服務差，前台態度差，全程無微笑，非常死板，説話強硬，房間設施太差，屋頂牆皮要脱落！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in April 2024
+info:Family
+info:9 Reviews
+rating:4.7
+posted:Posted April 24, 2024
+msg:地段優越，環境優雅，設施稍微老舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in June 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 21, 2023
+msg:孩子和奶奶一起出遊，之前奶奶住過這裏覺得不錯，這次再來沒再找別家，直接訂了這裏的。很方便，離大唐不夜城很近
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in July 2023
+info:Family
+info:11 Reviews
+rating:2.2
+posted:Posted August 2, 2023
+msg:設施老舊 服務差強人意 點個外賣還得去保安廳才能拿  這種酒店不知道怎麼能評上五星
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in April 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted April 7, 2024
+msg:不錯，體驗很好，酒店位置也很好。
+----------------------------------------
+name:G‍a‍o‍y‍u‍a‍n‍l‍a‍o‍w‍a‍n‍g‍z‍i
+info:Standard Twin Room
+info:Stayed in December 2023
+info:Business travelers
+info:8 Reviews
+rating:4
+posted:Posted December 4, 2023
+msg:老酒店。硬件軟件都很過硬。服務周到熱情。推薦入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in December 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted December 17, 2023
+msg:前台小趙，小李，服務態度好，對人熱情有耐心❤️
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:3
+posted:Posted August 4, 2023
+msg:就是設施有點陳舊，空調衹能從26度調低，沒法調高，位置還不錯，離不夜城很近
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in July 2023
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted July 21, 2023
+msg:位置很好，距離大唐不夜城開元廣場步行幾分鐘，是老牌五星酒店，服務好、性價比高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in April 2024
+info:Business travelers
+info:12 Reviews
+rating:4.5
+posted:Posted May 21, 2024
+msg:還不錯，星級酒店，吃喝也方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Family
+info:19 Reviews
+rating:3
+posted:Posted August 21, 2023
+msg:大堂及工區不錯但房間裝修老舊，前台服務呆板無表情，與酒店品質不符。
+----------------------------------------
+name:H‍u‍i‍t‍a‍i‍l‍a‍n‍g‍ ‍x‍i‍y‍a‍n‍g‍y‍a‍n‍g
+info:Deluxe Room
+info:Stayed in August 2023
+info:Business travelers
+info:38 Reviews
+rating:5
+posted:Posted September 3, 2023
+msg:大雁塔附近的酒店 不夜城五分鐘路程 酒店環境不錯價格也不高 值得推薦
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in December 2023
+info:Business travelers
+info:65 Reviews
+rating:5
+posted:Posted January 5, 2024
+msg:房間特別安靜，風景也很好，入住體驗特別舒適。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in August 2023
+info:Business travelers
+info:4 Reviews
+rating:2.2
+posted:Posted August 23, 2023
+msg:房間衞生間地板很臟，盥洗台也有污漬，感覺很久沒有人住。設施陳舊。
+----------------------------------------
+name:f‍e‍n‍g‍l‍i‍n‍g‍u‍s‍c‍n‍8‍8‍8
+info:Standard King Bed Room
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 7, 2024
+msg:房間非常大，非常乾淨，行！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in March 2024
+info:Booked for others
+info:34 Reviews
+rating:5
+posted:Posted March 12, 2024
+msg:區域繁華，旁邊就是大唐不夜城
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in November 2023
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted November 11, 2023
+msg:第二次住，還不錯，性價比很高。鬧中取靜好選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 28, 2023
+msg:環境不錯，內部設施也很好。距離不夜城景區特別近，10分鐘左右可以到
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in August 2023
+info:Family
+info:5 Reviews
+rating:4.7
+posted:Posted August 6, 2023
+msg:外班環境幽靜，園林中式建築。唯一不滿意就是洗澡衹有魚缸沒有淋浴。
+----------------------------------------
+name:H‍a‍n‍x‍i‍z‍i
+info:Standard Twin Room
+info:Stayed in December 2023
+info:Booked for others
+info:2 Reviews
+rating:5
+posted:Posted December 31, 2023
+msg:替客户預訂！酒店環境很好！交通方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in September 2023
+info:Solo travelers
+info:2 Reviews
+rating:4
+posted:Posted September 16, 2023
+msg:房間還算乾淨，隔音不是很好，屬於比較舊的老賓館了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in October 2023
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted October 25, 2023
+msg:服務熱情 房間乾淨整潔 環境很好 設施齊全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in February 2024
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:還是很滿意的，下次來還住這
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:3.2
+posted:Posted August 4, 2023
+msg:總體感覺非常一般！除了保潔阿姨服務好之外沒覺得有好的了！
+----------------------------------------
+name:l‍l‍l‍l‍l‍s‍h
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:28 Reviews
+rating:5
+posted:Posted May 31, 2024
+msg:房間很大，衞生好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in August 2023
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted August 29, 2023
+msg:酒店設施較好，環境不錯，前台服務員業務處理能力需提升。
+----------------------------------------
+name:J‍i‍e‍j‍i‍e‍3‍1‍5
+info:Standard Twin Room
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 11, 2024
+msg:服務特別好，還給升級了房間
+----------------------------------------
+name:S‍h‍u‍i‍d‍a‍o‍l‍e‍w‍o‍d‍e‍j‍i‍a‍n‍g‍h‍u
+info:Deluxe Room
+info:Stayed in September 2023
+info:Couples
+info:2 Reviews
+rating:4
+posted:Posted September 24, 2023
+msg:還行吧，很緊張。
+要求不是很高的話，可以的。
+----------------------------------------
+name:X‍i‍n‍x‍i‍a‍o‍b‍a
+info:Budget Room (Special promotion, no window)
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted August 10, 2023
+msg:老牌賓館，房間很大，但是設備太老舊了。整體還是不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in January 2024
+info:Couples
+info:34 Reviews
+rating:5
+posted:Posted January 30, 2024
+msg:酒店位置很方便，下次還來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in June 2023
+info:Business travelers
+info:32 Reviews
+rating:4
+posted:Posted September 5, 2023
+msg:挺好的。老派的賓館。設施一般，有點舊了。服務一般。地段很好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in February 2024
+info:Friends
+info:18 Reviews
+rating:4.2
+posted:Posted February 15, 2024
+msg:裝修陳舊了，其它還可以。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in September 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 14, 2023
+msg:距離大唐不夜城很近，酒店感覺還新，早飯豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in April 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted April 19, 2024
+msg:再次入住，依然舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 13, 2024
+msg:房間很好，服務滿意
+----------------------------------------
+name:Q‍i‍g‍e‍h‍e‍n‍h‍u
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:Friends
+info:6 Reviews
+rating:3
+posted:Posted August 30, 2023
+msg:價格太貴，一個老五星酒店居然要價這麼高，而且設施太老了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:2.7
+posted:Posted August 20, 2023
+msg:房間很舊，20年前的裝修一樣，浴室都長黑黴了
+----------------------------------------
+name:B‍i‍n‍g‍k‍a‍f‍e‍i
+info:Deluxe Room
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:4.2
+posted:Posted February 25, 2023
+msg:房間配備點東西有點舊，特別是贈送的咖啡、茶葉等一看就是放了很久的，與其這樣不如不放。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:4
+posted:Posted August 2, 2023
+msg:房間傢俱稍有老式，衞浴還有待提高，其他都還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in August 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted August 14, 2023
+msg:房間乾淨 設施齊全 停車方便 酒店餐飲非常棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in July 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted July 6, 2022
+msg:到店入住的時間是晚上。前台的服務員們熱情接待，原本定的普通大床房還特意給我免費升級到豪華大床房。很是感激。對酒店服務人員的關心和照顧表示衷心感謝。
+酒店的位置也非常好。周邊有許多值得看的地方。長安十二時辰，天壇遺址公園，陝西大劇院，陝西美術館等等。
+----------------------------------------
+name:L‍u‍o‍r‍i‍c‍h‍e‍n‍g
+info:Deluxe Room
+info:Stayed in July 2023
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted July 12, 2023
+msg:房間還不錯，酒店位置也好。正好可以逛大唐不夜城。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in September 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:房間面積大，距離不夜城近，很合適。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted August 28, 2023
+msg:還不錯，安靜，有品位。裝修略微舊了點。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 1, 2024
+msg:很好，環境位置好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in September 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:園林設計，離不夜城很近，早餐豐盛。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in February 2024
+info:Family
+info:64 Reviews
+rating:5
+posted:Posted March 1, 2024
+msg:服務員態度好，位置好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in August 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted August 5, 2023
+msg:老五星酒店，整體不錯，離大唐不夜城超近
+----------------------------------------
+name:Z‍u‍n‍j‍i‍n‍g‍d‍e‍x‍i‍a‍o‍l‍i‍u‍x‍i‍a‍n‍s‍h‍e‍n‍g
+info:Standard King Bed Room
+info:Stayed in November 2023
+info:Business travelers
+info:29 Reviews
+rating:4
+posted:Posted February 14, 2024
+msg:還行，挺好的，服務也挺好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in June 2023
+info:Other
+info:2 Reviews
+rating:2
+posted:Posted June 19, 2023
+msg:1號樓 洗澡下水不通，空調不太製冷，設施老舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 6, 2023
+msg:酒店整體環境很好，前台整體服務很好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in August 2023
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:外觀大氣，裏面因為太老舊的原因很一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in May 2023
+info:Friends
+info:90 Reviews
+rating:4
+posted:Posted May 28, 2023
+msg:位置優越，環境優美，乾淨利落，房間味道不太好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 8, 2023
+msg:房間乾淨，早操豐盛，自助餐多樣
+----------------------------------------
+name:S‍e‍b‍a‍o‍s‍u‍j‍i‍a‍o
+info:Deluxe Room
+info:Stayed in August 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted August 8, 2023
+msg:位置很好，步行到大唐不夜城很方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in June 2023
+info:Friends
+info:107 Reviews
+rating:4
+posted:Posted June 29, 2023
+msg:酒店位置好，距不夜城就幾百來，環境不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in January 2024
+info:Friends
+info:25 Reviews
+rating:5
+posted:Posted March 15, 2024
+msg:離大唐不夜城非常近
+----------------------------------------
+name:X‍i‍j‍i‍h‍u‍o‍e‍r‍c‍i‍x‍i
+info:Standard Twin Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 4, 2024
+msg:還不錯位置特別好
+----------------------------------------
+name:X‍i‍a‍o‍s‍h‍i‍g‍o‍u‍y‍a‍n‍g
+info:Standard Twin Room
+info:Stayed in February 2024
+info:Family
+info:14 Reviews
+rating:3.5
+posted:Posted April 8, 2024
+msg:服務水平一般情況
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 21, 2023
+msg:安靜舒適，
+衞生：乾淨
+服務：周到
+----------------------------------------
+name:E‍n‍d‍l‍e‍s‍s‍S‍t‍o‍r‍y
+info:Budget Queen Room (No window)
+info:Stayed in October 2023
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted October 15, 2023
+msg:房間寬敞 就是房齡有點老
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:2
+posted:Posted August 18, 2023
+msg:老酒店，有些氣味，不值這個價位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2022
+info:Other
+info:5 Reviews
+rating:3
+posted:Posted June 26, 2022
+msg:酒店有點老，位置還可以。床頭的插銷都沒電，晚上手機充個電都費勁…適合老年人住，不適合年輕人。整體設施陳舊，衞生間感覺跟招待所一樣，花灑也是壞的。
+----------------------------------------
+name:X‍i‍a‍o‍_‍z‍h‍i
+info:Budget Room (Special promotion, no window)
+info:Stayed in February 2023
+info:Family
+info:24 Reviews
+rating:5
+posted:Posted March 8, 2023
+msg:很好的酒店，高檔
+服務：很好
+環境：好
+衞生：好
+設施：齊全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in July 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 2, 2023
+msg:設施：一般
+衞生：乾淨
+服務：好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in July 2023
+info:Friends
+info:58 Reviews
+rating:5
+posted:Posted August 6, 2023
+msg:房間有點舊了，景區近，服務也好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in April 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted June 6, 2024
+msg:很滿意的酒店
+----------------------------------------
+name:X‍i‍a‍o‍ ‍f‍e‍n‍g
+info:Standard Twin Room
+info:Stayed in November 2023
+info:Friends
+info:44 Reviews
+rating:4
+posted:Posted November 19, 2023
+msg:床有點小，其他還好吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in September 2023
+info:Business travelers
+info:6 Reviews
+rating:1.7
+posted:Posted September 24, 2023
+msg:太老久了 不符合五星標準
+----------------------------------------
+name:Y‍e‍w‍e‍i‍y‍u‍t‍u‍ ‍�‍�
+info:Deluxe Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted August 16, 2023
+msg:總體不錯。房間設施有點陳舊。
+----------------------------------------
+name:Z‍i‍y‍o‍u‍r‍e‍n
+info:Deluxe Room
+info:Stayed in May 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted August 8, 2023
+msg:酒店設施陳舊、環境衞生優秀、停車方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 7, 2024
+msg:物美價廉。
+----------------------------------------
+name:M‍a‍i‍d‍i‍g‍e‍g‍e
+info:Standard King Bed Room
+info:Stayed in October 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted October 11, 2023
+msg:挺好的，挨着大唐不夜城
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in December 2023
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted January 24, 2024
+msg:仿實惠，熱情乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in May 2024
+info:Couples
+info:10 Reviews
+rating:5
+posted:Posted May 18, 2024
+msg:非常好不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in July 2023
+info:Couples
+info:2 Reviews
+rating:4.5
+posted:Posted August 4, 2023
+msg:外面看挺好 裏面設施略顯老舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in March 2024
+info:Family
+info:21 Reviews
+rating:5
+posted:Posted March 10, 2024
+msg:地理位置絕佳
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in February 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted February 22, 2023
+msg:區位環境優躍，大唐不夜城步行五分鐘即到，值得推薦！
+----------------------------------------
+name:T‍a‍n‍g‍w‍a
+info:Standard Twin Room
+info:Stayed in July 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted July 4, 2023
+msg:非常棒，離大唐不夜城900米。
+----------------------------------------
+name:D‍o‍n‍g‍t‍a‍i‍w‍a‍n‍g‍h‍u‍n
+info:Deluxe Room
+info:Stayed in July 2023
+info:Family
+info:6 Reviews
+rating:4
+posted:Posted July 23, 2023
+msg:離不夜城很近，停車非常方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in November 2023
+info:Business travelers
+info:7 Reviews
+rating:1
+posted:Posted December 13, 2023
+msg:酒店太舊，沒有暖氣
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in April 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted June 2, 2024
+msg:性價比很高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 6, 2024
+msg:不錯👍👍👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in July 2023
+info:Family
+info:43 Reviews
+rating:4.2
+posted:Posted October 1, 2023
+msg:可以走着去不夜城 方便停車
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in October 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted December 29, 2023
+msg:服務不錯，衞生很好
+----------------------------------------
+name:L‍v‍y‍o‍u‍q‍i‍n‍c‍h‍a
+info:Deluxe Room
+info:Stayed in February 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:酒店非常不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in September 2023
+info:Solo travelers
+info:3 Reviews
+rating:4.5
+posted:Posted December 21, 2023
+msg:設施老舊。。服務一流
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in August 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted August 5, 2023
+msg:房間不錯離大唐不夜城很近
+----------------------------------------
+name:Z‍h‍a‍n‍g‍g‍u‍o‍t‍i‍a‍n
+info:Deluxe Double Room
+info:Stayed in March 2024
+info:Friends
+info:14 Reviews
+rating:5
+posted:Posted April 19, 2024
+msg:不錯的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in August 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 23, 2023
+msg:環境不錯，
+服務：還好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in January 2024
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted February 6, 2024
+msg:還不錯挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in September 2023
+info:Friends
+info:7 Reviews
+rating:4.7
+posted:Posted October 27, 2023
+msg:服務可以，環境挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in January 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted February 17, 2023
+msg:很棒的賓館，停車方便，位置很好緊鄰大唐不夜城！
+----------------------------------------
+name:B‍u‍z‍a‍i‍y‍o‍u‍y‍u‍0‍0‍1
+info:Deluxe Room
+info:Stayed in April 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted May 4, 2023
+msg:交通方便，好停車。房間乾淨整潔。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in October 2023
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted October 29, 2023
+msg:非常乾淨，非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 26, 2024
+msg:體驗很好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 14, 2023
+msg:無窗房的採光設計很自然，住的狠舒心。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 20, 2023
+msg:條件舒適，很不錯的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in October 2023
+info:Booked for others
+info:6 Reviews
+rating:5
+posted:Posted January 14, 2024
+msg:價格滿意位置好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 18, 2023
+msg:環境不錯，交通便利
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in July 2023
+info:Other
+info:2 Reviews
+rating:3
+posted:Posted July 5, 2023
+msg:設施：老舊，價格偏貴
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in October 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:入住環境非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in September 2022
+info:Other
+info:12 Reviews
+rating:4
+posted:Posted September 23, 2022
+msg:我住過幾次，地點、價格都可以。這次住的一樓，感覺真的好差…
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in August 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 27, 2023
+msg:乾淨衞生好服務高
+----------------------------------------
+name:L‍e‍n‍g‍w‍a
+info:Deluxe Room
+info:Stayed in July 2023
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted July 20, 2023
+msg:非常不錯，環境很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in April 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:酒店乾淨整潔、位置優越。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in July 2023
+info:Solo travelers
+info:36 Reviews
+rating:5
+posted:Posted July 9, 2023
+msg:房間很大，服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in July 2023
+info:Other
+info:11 Reviews
+rating:5
+posted:Posted August 3, 2023
+msg:滿意 前台很熱心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 11, 2023
+msg:去大唐不夜城很近，居住體驗也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 23, 2023
+msg:房間安靜，環境好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in June 2023
+info:Business travelers
+info:46 Reviews
+rating:3.2
+posted:Posted June 2, 2023
+msg:前台接待服務態度差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:4.5
+posted:Posted July 5, 2023
+msg:房間電視需要更新
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in February 2022
+info:Other
+info:8 Reviews
+rating:1
+posted:Posted February 17, 2022
+msg:服務差，房間差，價格高，衞生差，怎麼好意思收那麼高房費，老闆一點臉也不要太黑了！就那設施和服務還賣那麼貴
+----------------------------------------
+name:G‍u‍a‍n‍j‍i‍a‍n‍w‍o‍s‍h‍i‍n‍i‍g‍e
+info:Budget Room (Special promotion, no window)
+info:Stayed in June 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted June 21, 2023
+msg:房間夠大衞生很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in July 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 13, 2023
+msg:9員工號服務好
+----------------------------------------
+name:c‍h‍e‍n‍c‍h‍e‍n‍0‍5‍2‍3‍6
+info:Deluxe Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted January 9, 2023
+msg:交通便利，房間有點舊，但去不夜城很近。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in July 2023
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted July 20, 2023
+msg:很好，服務也好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in June 2022
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted August 24, 2022
+msg:酒店位置好，比較安靜，房間有點年頭了，沒有味道，很乾凈整潔。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in July 2023
+info:Booked for others
+info:18 Reviews
+rating:5
+posted:Posted July 12, 2023
+msg:很滿意，謝謝。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in June 2023
+info:Business travelers
+info:40 Reviews
+rating:5
+posted:Posted July 14, 2023
+msg:房間乾淨整潔舒心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in August 2023
+info:Family
+info:27 Reviews
+rating:4
+posted:Posted September 20, 2023
+msg:一般來説還行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:3.7
+posted:Posted August 9, 2023
+msg:沒窗就不好了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in July 2021
+info:Other
+info:11 Reviews
+rating:2.7
+posted:Posted July 28, 2021
+msg:酒店外面看看高大上，房間比較失望。我在攜程上訂的估計是酒店為了招攬生意推出的不太好的房間。設施比較老，浴缸下水不暢，洗澡時腳一直泡在水裡。方圓兩公里沒有吃早飯的地方。酒店早餐88元1位，有點坑。出行其他地方也不太方便，總之性價比太差。又想玩又想吃的不建議住。
+----------------------------------------
+name:B‍o‍y‍u‍n‍j‍i‍a‍n‍w‍u
+info:Standard Twin Room
+info:Stayed in December 2022
+info:Business travelers
+info:119 Reviews
+rating:5
+posted:Posted December 8, 2022
+msg:格局很好，房間設施有些老舊了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in June 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted August 9, 2023
+msg:哈哈哈哈哈哈好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted August 30, 2023
+msg:服務熟情周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in February 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted February 19, 2023
+msg:可以，不錯👍👍👍👍👍。
+----------------------------------------
+name:W‍o‍l‍u‍o‍n‍i‍e‍r‍i‍h‍a‍n‍q‍i‍n‍h‍u
+info:Standard Twin Room
+info:Stayed in July 2023
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted July 22, 2023
+msg:乾淨整潔舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in August 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted August 31, 2023
+msg:服務很周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room (Special promotion, no window)
+info:Stayed in May 2022
+info:Friends
+info:61 Reviews
+rating:5
+posted:Posted May 20, 2022
+msg:酒店位置特別好.離大唐不夜城很近、而且酒店前台服物特別好、
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in April 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted April 22, 2023
+msg:酒店服務非常不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in June 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 1, 2023
+msg:衞生乾淨整潔
+----------------------------------------
+name:J‍i‍n‍g‍y‍i‍n‍g‍、
+info:Standard Twin Room
+info:Stayed in June 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted September 17, 2023
+msg:地理位置優越
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in June 2023
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted June 23, 2023
+msg:特別好，感恩
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in July 2023
+info:Friends
+info:13 Reviews
+rating:5
+posted:Posted August 1, 2023
+msg:早餐不錯哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in June 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 22, 2023
+msg:各方面都不錯
+----------------------------------------
+name:P‍a‍n‍g‍u‍/‍t‍i‍a‍n‍l‍a‍n‍g
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:106 Reviews
+rating:4.5
+posted:Posted June 13, 2023
+msg:非常不錯了！
+----------------------------------------
+name:X‍i‍a‍o‍w‍e‍i‍T‍i‍n‍a
+info:Standard King Bed Room
+info:Stayed in April 2023
+info:Business travelers
+info:127 Reviews
+rating:5
+posted:Posted May 5, 2023
+msg:不錯，環境可以
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 14, 2023
+msg:園林式賓館
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in June 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted August 6, 2023
+msg:整體都不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in June 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted June 26, 2023
+msg:賓館住置好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in February 2023
+info:Business travelers
+info:40 Reviews
+rating:2.7
+posted:Posted February 10, 2023
+msg:前台接待有待提高
+----------------------------------------
+name:M‍o‍l‍a‍w‍e‍i‍y‍a‍-‍x‍i‍l‍i‍x‍i‍y‍a‍z‍h‍o‍u‍l‍v‍b‍u‍w‍e‍i
+info:Budget Room (Special promotion, no window)
+info:Stayed in September 2022
+info:Business travelers
+info:2 Reviews
+rating:4.5
+posted:Posted October 2, 2022
+msg:環境和衞生服務比房價都好!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in January 2023
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted January 29, 2023
+msg:很不錯，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in July 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 4, 2021
+msg:房間大、衞生乾淨、服務周到、早餐豐富、地下免費停車，我訂的房間本不帶早餐的，問前台能否送份早餐，毫不猶豫的答應的，下次來了還住這！！！
+----------------------------------------
+name:L‍a‍o‍a‍n‍5‍9
+info:Budget Room (Special promotion, no window)
+info:Stayed in June 2021
+info:Friends
+info:27 Reviews
+rating:4
+posted:Posted June 29, 2021
+msg:該酒店位於曲江新區，離大唐不夜城、大唐芙蓉園都很近。衞生乾淨整潔，房間大，設施略顯陳舊，服務態度好，早餐豐富，停車方便，周邊環境也不錯，推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2021
+info:Friends
+info:2 Reviews
+rating:4.2
+posted:Posted July 13, 2021
+msg:位置很不錯，離大唐不夜城近，酒店外的街道也很美！房間也很安靜，但豪華房間的設施也不怎樣，略顯陳舊。不過，早餐很好，豐盛，品質不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:3
+posted:Posted April 20, 2023
+msg:一般一般嗯
+----------------------------------------
+name:D‍u‍g‍u‍q‍i‍u‍b‍a‍i
+info:Deluxe Room
+info:Stayed in June 2021
+info:Business travelers
+info:241 Reviews
+rating:4.7
+posted:Posted June 28, 2021
+msg:早餐品種很豐富，麪食又有牛肉麪，臊子麪，還有酸辣粉，味道也不錯。這次住高級雙床房，比標準雙床房的條件好不少。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted January 27, 2023
+msg:好的👌🏻很。
+----------------------------------------
+name:B‍a‍b‍a‍d‍e‍x‍i‍a‍o‍h‍o‍u‍z‍i
+info:Standard King Bed Room
+info:Stayed in June 2021
+info:Other
+info:70 Reviews
+rating:2.2
+posted:Posted June 15, 2021
+msg:因為實在太老了這個酒店，房型和價格根本不匹配，這個房型就值200塊錢不會再來住，沒有特殊情況也不推薦別人來住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2022
+info:Booked for others
+info:11 Reviews
+rating:5
+posted:Posted June 9, 2022
+msg:住宿環境很安靜，早歺很棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in December 2021
+info:Business travelers
+info:1 Review
+rating:3
+posted:Posted December 5, 2021
+msg:攜程定的都是給住的1號樓舊樓、裏面是設施陳舊
+----------------------------------------
+name:Y‍u‍n‍f‍e‍i‍r‍u‍o‍x‍u‍e
+info:Standard King Bed Room
+info:Stayed in September 2022
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted September 19, 2022
+msg:便捷，環境好。
+----------------------------------------
+name:d‍z‍z‍j
+info:Standard Twin Room
+info:Stayed in September 2022
+info:Other
+info:36 Reviews
+rating:4.7
+posted:Posted September 18, 2022
+msg:離不夜城近
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in May 2022
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted June 8, 2022
+msg:老地方了經常住
+----------------------------------------
+name:L‍v‍x‍i‍n‍g‍z‍h‍e
+info:Standard King Bed Room
+info:Stayed in November 2021
+info:Booked for others
+info:13 Reviews
+rating:4
+posted:Posted November 23, 2021
+msg:靠近大唐不夜城，地理位置優越
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in June 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted July 26, 2022
+msg:服務周到熱情
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in January 2022
+info:Friends
+info:39 Reviews
+rating:5
+posted:Posted March 16, 2022
+msg:幫人定的，據説還不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in November 2021
+info:Business travelers
+info:1 Review
+rating:4
+posted:Posted December 23, 2021
+msg:還可以，位置不錯，
+----------------------------------------
+name:Q‍u‍s‍a‍n‍s‍h‍a‍o
+info:Deluxe Room
+info:Stayed in August 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted February 14, 2022
+msg:環境好，大唐不夜城旁邊。
+----------------------------------------
+name:Y‍u‍a‍n‍y‍i‍y‍u‍a‍n
+info:Deluxe Room
+info:Stayed in February 2022
+info:Friends
+info:21 Reviews
+rating:5
+posted:Posted March 14, 2022
+msg:位置交通便利
+----------------------------------------
+name:W‍a‍n‍g‍t‍i‍a‍n‍y‍o‍u‍y‍u‍e
+info:Standard Twin Room
+info:Stayed in May 2021
+info:Business travelers
+info:24 Reviews
+rating:1
+posted:Posted June 14, 2021
+msg:若不是會議指定，絕對不回去選擇
+----------------------------------------
+name:L‍i‍x‍u‍e‍j‍u‍a‍n
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:77 Reviews
+rating:5
+posted:Posted August 27, 2021
+msg:這個價格很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard King Bed Room
+info:Stayed in June 2021
+info:Other
+info:4 Reviews
+rating:4.7
+posted:Posted June 20, 2021
+msg:趕上活動還是挺值的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room
+info:Stayed in April 2021
+info:Other
+info:94 Reviews
+rating:5
+posted:Posted June 17, 2021
+msg:老牌國賓，安全第一☝️
+----------------------------------------
+name:L‍a‍o‍s‍h‍u‍X‍A
+info:Standard Twin Room
+info:Stayed in April 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted July 19, 2021
+msg:曲江核心值得入住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in June 2021
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted June 26, 2021
+msg:挺好的服務
+----------------------------------------
+name:Y‍a‍d‍i‍a‍n‍l‍v‍b‍u‍w‍e‍i
+info:Standard Twin Room
+info:Stayed in May 2021
+info:Business travelers
+info:8 Reviews
+rating:4.2
+posted:Posted June 20, 2021
+msg:總體還可以
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:3 Reviews
+rating:1
+posted:Posted September 21, 2023
+msg:酒店服務意識太差，尤其是前台小妹，也不問問我們續住不續住，第二天直接把房間定給別人，把我們直接趕出酒店，太有損旅遊城市的形象，還口口聲聲説，酒店有權不讓我們續住，愛住不住
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Twin Room
+info:Stayed in March 2023
+info:Business travelers
+info:16 Reviews
+rating:1
+posted:Posted May 6, 2023
+msg:什麼酒店，攜程訂的水單都出不了，21世紀了，水單都打不了開什麼酒店。前台態度差就算了，解決不了問題，看到的避雷了，
+----------------------------------------

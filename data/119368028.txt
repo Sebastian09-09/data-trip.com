@@ -1,0 +1,572 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted May 13, 2024
+msg:New hotel, very clean. The two girls at the front desk were very enthusiastic and took us to the elevator. They were full of details. I will come again next time! I sincerely recommend it!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 7, 2024
+msg:Very good hotel, they also sent water when checking out, saying that they would drink it on the way, which was very considerate. The room was large, well-lit, bright, and well-equipped. The front desk service was very good, there was free parking, and the breakfast dishes were very rich. It is worth staying.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 3, 2024
+msg:I went to the mainland with my friends and stayed in Urumqi for a day. This is a newly opened hotel. The things inside are very new and the equipment is very considerate. For those who like fitness, there are also yoga mats, careful bedside lamps, and wireless charging (although my phone does not support wireless 😂). The mattress and pillow are really good! The toiletries are also very useful! Voice control system, and there are alcohol wipes next to the toilet! It can be said that it is full of details! 
+It should be in the new district of Urumqi. There seems to be an ecological park around it. But it is very close to Wuyue Plaza here. I didn’t go around the surrounding area, but **takeout can meet the needs. Good reviews! Like it!
+----------------------------------------
+name:a‍l‍a‍l‍l‍a‍l‍l
+info:Super King Room
+info:Stayed in May 2024
+info:Solo travelers
+info:21 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:The newly opened hotel is said to be the only Atour S in Xinjiang. The room is not small and the design is very clever. The ceiling above the bed makes people feel safe. Atour's bedding is of high quality and very comfortable to sleep on. It comes with two kinds of pillows. The three-piece set is made of natural unbleached cotton, which is soft and warm. The water is the same 5100 ******* ice spring natural mineral water as the customized luxury hotel. It is very generous and you can ask for water at any time. The breakfast is rich and delicious.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room (2 Beds)
+info:Stayed in May 2024
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted May 9, 2024
+msg:The room is spacious and bright, clean and tidy, and the service staff is extremely friendly.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted May 13, 2024
+msg:The newly opened hotel has a very good environment and sleeps very comfortably. The front desk is friendly and responsive
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:4.7
+posted:Posted May 10, 2024
+msg:The room was nice, but some small things were not good, such as no razor, poor quality slippers, and complicated TV.
+----------------------------------------
+name:M‍i‍k‍e‍m‍i‍k‍o
+info:Super King Room
+info:Stayed in May 2024
+info:Couples
+info:13 Reviews
+rating:5
+posted:Posted May 8, 2024
+msg:Atour S, which just opened on April 30, has a clean and tidy room, and the TV can also project the screen. It was a very satisfying stay
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted May 6, 2024
+msg:The environment and facilities are very good, the staff are very friendly and the room is very clean!
+----------------------------------------
+name:Z‍u‍i‍j‍i‍a‍n‍g‍w‍a‍n‍g‍z‍h‍e
+info:Super King Room
+info:Stayed in May 2024
+info:Business travelers
+info:74 Reviews
+rating:5
+posted:Posted May 11, 2024
+msg:The hotel has good environment and facilities, the front desk staff provides smiling service, the breakfast is great, I will stay here again next time
+----------------------------------------
+name:X‍i‍n‍z‍u‍i‍x‍i‍n‍s‍u‍i
+info:Superior Room (2 Beds)
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 10, 2024
+msg:The hotel is clean and well-equipped with a gym, laundry facilities and a restaurant.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 6, 2024
+msg:Every time I go back to China, I stay at Atour, no matter which city I am in.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room-air Purifier
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:4.7
+posted:Posted May 15, 2024
+msg:It's pretty good, but the surrounding facilities haven't caught up yet
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted May 13, 2024
+msg:The overall service is great, I will stay here again next time
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted May 26, 2024
+msg:不愧是烏魯木齊唯一的亞朵s！
+看薛之謙演唱會訂的，酒店也沒有溢價很多。進門前台就給遞了一本茶，辦入住速度快，態度超級好！有求必應！床品也舒服！
+早餐也是豐盛好吃！
+值得推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in June 2024
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted June 3, 2024
+msg:房間顏色很不錯設備齊全沒有異味，加濕器救了我老命，前台服務周到很熱情，也謝謝前台小姐姐幫忙升級房型
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room
+info:Stayed in May 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted May 19, 2024
+msg:房間超級乾淨整潔
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted May 27, 2024
+msg:設施：非常齊全，床墊很舒服軟硬適中的那種
+衞生：很好很乾凈
+環境：周邊很安靜整體環境很好因為是新酒店
+服務：服務態度很好很到位
+離天山明月城和吾悦廣場都不遠很方便
+----------------------------------------
+name:J‍i‍q‍i‍n‍g‍e‍n‍g‍o‍u‍x‍i
+info:Executive Room
+info:Stayed in May 2024
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:新開的亞朵真的非常豪華，裝修也嶄新且時尚。這裏離會展中心非常近，去看演唱會10分鐘就到了體驗感非常好。住的很舒適，各項設備都有，服務態度也很好，下次旅行還選擇這裏！
+----------------------------------------
+name:Y‍i‍g‍e‍ ‍W
+info:Super King Room
+info:Stayed in May 2024
+info:Couples
+info:24 Reviews
+rating:5
+posted:Posted May 18, 2024
+msg:新裝修的不錯，但是味道大且辣眼睛。有提供凈化器***，唯一生氣的是停車場系統故障，出去還要自己繳費離場！！！來回找前台處理花費半小時，也是無語了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 22, 2024
+msg:酒店非常乾淨，前台小姐姐態度也非常好，對於我這種有潔癖的人可以説是非常棒了，酒店的床墊和枕頭睡起來也超級舒服！下次出門還會考慮這家
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:酒店環境和配置都很好，前台服務人員服務非常貼心，總的來説是一次非常愉快的居住體驗。下次還會來，房間很大，床品很舒服，不愧是亞朵！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:房間細節滿滿 前台服務熱情 來看老薛演唱會 還熱情給我們提供路線攻略 還免費送早餐 雖然早上起不來還是覺得服務很不錯👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:房間非常乾淨整潔，整體設施很新。還有瑜伽墊這些運動設施。完全沒想到。洗澡區域乾濕分離很合理。住過的最棒的酒店了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:設施：電視投屏比較慢，無線網連接慢，其他還好
+衞生：乾淨整潔
+環境：不錯，比較滿意
+服務：非常好。
+值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted May 24, 2024
+msg:床品超級棒！軟軟糯糯的～愛了
+玩了一圈回來又選擇了亞朵s 
+各方面服務、環境、早餐都不錯！性價比超高！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted June 4, 2024
+msg:居住體驗超級棒，環境也超級好，交通便利，附近也有好吃的，樓下就有便利店可以買乾果，強烈推薦酒店的酸奶
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room (2 Beds)
+info:Stayed in May 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted May 28, 2024
+msg:房間很大，衞生很乾凈，前台的服務很好，早餐也很不錯，附近就是吾悦廣場，吃得也比較多，特別推薦！
+----------------------------------------
+name:Q‍i‍n‍g‍l‍u‍a‍n‍y‍o‍u‍x‍i‍n
+info:Deluxe Double Room (2 Beds)
+info:Stayed in May 2024
+info:Friends
+info:16 Reviews
+rating:5
+posted:Posted May 23, 2024
+msg:奉茶到位 早餐很棒 開發票很快 語希小姐姐服務非常好 停車方便 網絡也很快 空調冷熱也適宜！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in June 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted June 4, 2024
+msg:酒店特別棒，帶孩子出行，非常舒適，工作人員熱情又專業，房間也很乾凈，特別滿意，五星好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room (2 Beds)
+info:Stayed in May 2024
+info:Business travelers
+info:37 Reviews
+rating:5
+posted:Posted May 28, 2024
+msg:新開的酒店，乾淨衞生，是亞朵S酒店，品質要高一點，價格也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room (2 Beds)
+info:Stayed in June 2024
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted June 3, 2024
+msg:房間舒適整潔，服務熱情周到，周邊環境也很安靜！
+----------------------------------------
+name:X‍i‍n‍g‍y‍e‍a‍n‍l‍a‍n
+info:Super King Room
+info:Stayed in June 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted June 6, 2024
+msg:環境幽雅，設施乾淨，服務及時到位，值得再住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 Beds)
+info:Stayed in May 2024
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:亞朵必須的好，服務床品枕頭舒服，乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted May 31, 2024
+msg:奉茶好，暖心水好，服務號，早餐好，
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 17, 2024
+msg:房間很新，住宿環境非常棒，性價比高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in June 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted June 5, 2024
+msg:房間乾淨，很舒適，還送了禮物
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room
+info:Stayed in May 2024
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted June 1, 2024
+msg:乾淨又衞生，很不錯，早餐很好
+----------------------------------------
+name:S‍y‍l‍v‍e‍s‍t‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:大堂經理很nice，服務特別好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room-air Purifier
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 25, 2024
+msg:奉茶好，送暖心水，有深夜洲到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room (2 Beds)
+info:Stayed in May 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:各方面都非常好，還會再來的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted May 21, 2024
+msg:乾淨衞生，服務態度熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in May 2024
+info:Couples
+info:12 Reviews
+rating:5
+posted:Posted May 16, 2024
+msg:酒店房間很好 非常舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted June 1, 2024
+msg:很棒，很不錯，非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in June 2024
+info:Business travelers
+rating:5
+info:20 Reviews
+posted:Posted June 6, 2024
+msg:衞生服務都非常好？
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 31, 2024
+msg:對酒店整體比較滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room
+info:Stayed in May 2024
+info:Couples
+info:14 Reviews
+rating:5
+posted:Posted May 27, 2024
+msg:非常不錯，乾淨整潔
+----------------------------------------
+name:w‍p‍f‍x‍p‍f
+info:Super King Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 23, 2024
+msg:衞生整潔，十分滿意
+----------------------------------------
+name:S‍w‍e‍e‍t‍ ‍t‍i‍a‍n‍t‍i‍a‍n
+info:Executive Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 9, 2024
+msg:滿意 乾淨 衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 Beds)
+info:Stayed in May 2024
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted May 7, 2024
+msg:極其好，環境極好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in June 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted June 6, 2024
+msg:服務好，早餐好
+----------------------------------------
+name:G‍i‍v‍i‍n‍g‍ ‍L‍o‍o‍k‍s
+info:Super King Room
+info:Stayed in June 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted June 3, 2024
+msg:服務態度非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted May 24, 2024
+msg:能讓我睡着覺了
+----------------------------------------
+name:M‍r‍.‍c‍h‍e‍n‍S‍S‍S‍S‍S‍S‍S‍S
+info:Executive Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:還是很可以的。
+----------------------------------------
+name:Y‍o‍-‍l‍a‍n‍g‍l‍i‍g‍e‍l‍a‍n‍g
+info:Super King Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 7, 2024
+msg:各方面都挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in June 2024
+info:Couples
+rating:5
+info:Super King Room
+info:2 Reviews
+posted:Posted June 3, 2024
+msg:棒棒棒棒棒！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 26, 2024
+msg:很好，服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in May 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted May 20, 2024
+msg:挺好 挺乾淨
+----------------------------------------
+name:l‍u‍n‍d‍u‍n
+info:Super King Room
+info:Stayed in May 2024
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted June 2, 2024
+msg:很好很乾凈
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted May 17, 2024
+msg:非常滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Super King Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 5, 2024
+msg:服務非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room
+info:Stayed in June 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted June 7, 2024
+msg:服務很周到
+----------------------------------------

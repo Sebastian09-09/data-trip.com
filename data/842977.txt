@@ -1,0 +1,818 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in September 2021
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted September 28, 2021
+msg:The environment is very good, and the service attitude is also very good!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in July 2021
+info:Family
+info:11 Reviews
+rating:4.5
+posted:Posted July 15, 2021
+msg:The facilities are old and renovated in 2013, but like the environment is good. It can guarantee good sleep quality, it takes 20 minutes far away from Ciping, but the air is too good, it is worth experiencing
+----------------------------------------
+name:Y‍a‍n‍q‍i‍n‍g‍h‍a‍o‍r‍e‍n
+info:Panoramic Twin Room
+info:Stayed in March 2024
+info:Couples
+info:17 Reviews
+rating:2.2
+posted:Posted March 23, 2024
+msg:房間感覺比較古樸老派風格，估計平時接待客人都是集體團建。説説奇葩的，入住酒店後前台工作人員給我安排房間我們就去井岡山玩，晚上回來前台告訴我説要交200元按金，住酒店交按金正常可以理解，但是讓人不舒服的地方是為什麼入住的時候您不一次性收取，酒店房間電話形同虛設，我以為是上個客人怕騷擾拔了我插好後原來就是不能用，您可是五星級的酒店，這些基礎設施都不能保證。後來我退房時也明白了為什麼是這樣，原來可能酒店客人少前台晚上回家睡覺了，我在大廳喊了半天都沒人應，請問那個酒店敢這樣，可以想象貴酒店的管理水平及員工素質。反正以後不會在入住，我還特意選了當地這個最貴的酒店沒想到會是這樣的結果。對了現在什麼年代了酒店的床頭既然沒有可以充電的插口，我還要把手機放在對面寫字枱上並且還要把桌子搬開，請問我是穿越到民國了嗎？
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 5, 2023
+msg:酒店很大很舒適，價格也很優惠，周邊環境很舒適安靜，衞生很乾凈，我們半夜到達酒店，提前給我們安排好，還給我們精心準備了小食，一段暖心的問候讓我們感覺好温馨，早餐很豐盛，兩天準備的餐食也不同，時間隨我們選擇用餐，整體感覺非常好！下次有機會來井岡山一定還會再來這裏。
+----------------------------------------
+name:L‍a‍m‍o‍n‍e‍i‍h‍e‍c‍h‍a‍i‍s‍h‍a‍o
+info:Deluxe Suite
+info:Stayed in April 2024
+info:Family
+info:4 Reviews
+rating:2.2
+posted:Posted April 23, 2024
+msg:正好遇上會議，鬧哄哄的大廳。第二天會議二百多人走了，早餐水得很，冰冰涼涼的幾個菜放在那裡。前台有一個服務很好，另外一個甩了一句話，要續訂的話必須好評我就送你們早餐。親，我們不是討飯的。那麼貴的酒店就那樣子的早餐對得起你嗎？
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Panoramic Twin Room
+info:Stayed in October 2023
+info:Family
+info:4 Reviews
+rating:1
+posted:Posted October 2, 2023
+msg:床上有屎！
+首天入住，晚上21:00多洗完澡準備睡覺，打開被子一看，被子和床單都有屎！打電話到前台，前台居然掛電話，好不容易找到服務員，服務員一進門就質疑我們是不是續住的房間，自己弄上去的！今時今日這個服務態度？還好意思説自己去五星級的酒店？真是不敢恭維！！！！！！！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in September 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted September 29, 2023
+msg:酒店環境優美，置身於大氧吧中。房間夠大，整潔，不愧是五星級酒店。因堵車，很晚才到店。前台小姐姐小王一路給予我無限的關懷，確認到達時間，提前為我準備房間及早餐，到達後還給我免費升級，小王的熱心與周到的服務令我非常感動！下次來井岡山還要入住中信會議，也會推薦給更多親友
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 2, 2023
+msg:國慶假期到井岡山遊玩，選擇了中信會議中心酒店。酒店環境很好，特別安靜，房間衞生也挺乾淨，一晚無眠，睡得很好！前台小王服務態度很好，一個十分熱心的小姐姐。下次來井岡山還會選擇這裏！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 4, 2023
+msg:自駕出遊，考慮到十一人太多，就沒往風景區中心擠了，這個酒店在離景區不遠的位置，很安靜，房間也很大，挺霸氣。自駕去遊客中心很方便，免去堵車的煩惱。很愉快的一次旅行。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in October 2023
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:井岡山的豪華型酒店名不虛傳，室內空間很大，裝潢設計很舒服，小陽台看外面景色 沒霧時也很好，一樓早餐也還不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 2, 2023
+msg:酒店規模大，環境優美，服務員美女服務熱情，還暖心的幫我們免費升級房間，房間寬敞明亮整潔 ，下次來井岡山還住中信
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in October 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:房間很寬敞，前台及客房服務員服務都不錯，因為晚上到的晚早上走的早，沒好好逛一逛，在山區，環境很好、很安靜～
+----------------------------------------
+name:Z‍h‍a‍n‍m‍u‍s‍i‍y‍i‍s‍h‍i
+info:Garden Elegant Room
+info:Stayed in July 2023
+info:Solo travelers
+info:47 Reviews
+rating:4
+posted:Posted July 29, 2023
+msg:中信的培訓基地，環境幽靜，前台服務好，房間大。離旅遊集散中心不是太遠。夏天氣候涼爽，是避暑的好地方。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in November 2023
+info:Couples
+info:144 Reviews
+rating:5
+posted:Posted November 4, 2023
+msg:相當滿意，再來還會再住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in October 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted October 6, 2023
+msg:大廳氣派，房間很不錯，外面環境好，早餐也豐富
+----------------------------------------
+name:s‍a‍m‍g‍c
+info:Garden Elegant Room
+info:Stayed in October 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted October 15, 2023
+msg:紅色出遊；酒店非常好，服務也在線
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in October 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:相當滿意，前台給我們升級了房型。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:4.7
+posted:Posted September 18, 2023
+msg:服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in September 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted October 1, 2023
+msg:一開始訂該酒店主要是看中了＂中信＂的品牌和酒店規模，到酒店後不僅升級了房間，而且又給聯繫好燒烤店老闆親自開車過來接我們去吃晚飯（因為到酒店已是夜裡10點多了）。
+總體感覺：酒店規模很大，但十分幽靜，酒店前台服務熱情，早餐因為去晚了，服務員又單獨給我們每人一份套餐，真的很感動。房間寬敞明亮，衞生打掃的很乾凈。總之，性價比超高！下次還會選擇這個幽靜的酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in August 2023
+info:Family
+info:5 Reviews
+rating:1.7
+posted:Posted August 21, 2023
+msg:中信集團旗下的酒店，想不到管理這麼差！女服務員態度很差，還撒謊，明明有很多房間，偏偏讓客户住一樓房間，不給你調整房間。房間內設施很差，臟兮兮的，中央空調是壞的，整了一個立式空調。最差勁的一點，這裏打不到車的，沒人接單，衹有通過服務員聯繫，價格翻一倍二倍，他們才願意送你。這是我住酒店以來，最差勁的地方，沒有之一。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in April 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted April 30, 2023
+msg:酒店四面環山，處在天然氧吧中，環境優美，房間設施、客服一流，下次還會再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in April 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:房間好，服務全面，特別是前台工作人員，非常專業👍👍👍👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 7, 2023
+msg:真心非常好的一次住宿體驗，性價比特別高，住宿舒服，早餐非常豐盛，帶長輩過來入住都特別滿意。服務也很nice,下次住井岡山還會選擇這家。
+----------------------------------------
+name:T‍i‍a‍n‍8‍6
+info:Panoramic Twin Room
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:房間衞生還行！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in March 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 25, 2023
+msg:環境很好，衞生也挺好，服務挺熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in October 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:房間很大，安靜。服務響應很快，送冰塊非常快。推薦的附近的餐廳味道不錯，價格公道，吃了兩次。希望下次再來住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Queen Room
+info:Stayed in October 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:意外的訂了這個酒店，卻帶給了我驚喜，首先環境幽雅，其次酒店設施高端，就是有點陳舊而已，客房服務也比較到位，
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in April 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted April 5, 2023
+msg:環境優美，房間乾淨整潔 。特別是前台的小姐姐特別熱心服務周到，還免費給升級了房間，詳細介紹了周邊環境，規劃了旅遊路線，幫忙安排車輛。還特意送來了感冒葯，雪中送炭。酒店早餐很有特色，有當地紅米飯、南瓜湯。我認為這裡是井岡山最好的酒店了。
+----------------------------------------
+name:Q‍i‍a‍o‍z‍h‍i
+info:Garden Elegant Room
+info:Stayed in September 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 2, 2022
+msg:酒店位置不在核心景區，但環境很好。適合休閑，自駕遊。距離遊客中心開車10分鐘左右。附近有幾家小飯店，口味一般，價格不便宜。房間很大，酒店還給免費升級了。房間設施不錯，
+衞生乾淨，服務好。由於是疫情期間，住店人少，早餐還可以送到房間，給餐廳服務點贊👍。早餐品種豐富，口味不錯，尤其喜歡煮粉，水果也新鮮。酒店旁邊正在建體育館，過段時間應該可以用了。以後休閑遊還可以住這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in March 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted March 3, 2023
+msg:酒店位於井岡山景區內，前面是會議中心後面是住的酒店，環境很不錯，我們原來定的是花園房，前台的小姐姐（江小姐姐跟黃小姐姐）説一樓的窗户麼得開窗，家人説想要開窗的，小姐姐們人很好的給我們升級了樓上能開窗的房間，謝謝～房間很安靜，睡的很好，滿意的住宿。
+----------------------------------------
+name:K‍a‍k‍a‍x‍i‍o‍u
+info:Deluxe Suite
+info:Stayed in August 2023
+info:Business travelers
+info:36 Reviews
+rating:5
+posted:Posted August 3, 2023
+msg:地理位置優越，酒店周邊空氣非常好，温度很舒服一點都不熱很涼爽，真是避暑的好去處，這個地方以後肯定還會再來的。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Panoramic Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:5 Reviews
+rating:1.2
+posted:Posted February 22, 2023
+msg:特別差！晚餐時間過去住，説什麼吃的都沒有，讓我們買泡麪！前台一個女的一問三不知，借個插頭都説沒有，就在那跟人家聊天，啥都不管啥也不知道！大堂冷的要死，房間也醜死！太無語了對這個酒店，沒住過這麼差的！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in June 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 6, 2023
+msg:實話實説是我住過最好的酒店，環境好，服務一流，衞生乾淨，設施也非常好！推薦來井岡山首先入住的好酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in August 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted August 7, 2022
+msg:住了兩晚，環境好，房間超大，保潔非常到位，超乾淨，早上一下來了4個姑娘！！！搞衞生，洗浴缸，桌子、地板…房間裏看到的全都搞一遍，厲害。
+----------------------------------------
+name:X‍u‍q‍i‍s‍h‍i‍w‍a‍n‍g‍a‍n‍s‍h‍i
+info:Garden Elegant Room
+info:Stayed in March 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted March 18, 2023
+msg:酒店建在山邊，空氣清新且安靜，來時淡季，前台小姐姐熱情大方，旁間櫸木裝修高檔大氣，床鋪乾爽潔凈，一覺到天亮再享健康早餐，很滿意的體驗。
+----------------------------------------
+name:N‍e‍X‍T‍_‍T‍X‍e‍N
+info:Panoramic Twin Room
+info:Stayed in April 2024
+info:Friends
+info:50 Reviews
+rating:3
+posted:Posted April 10, 2024
+msg:早餐太簡單，一次性拖鞋還要收回
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in August 2022
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted August 14, 2022
+msg:環境好，服務員素質高！下次還預訂！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in October 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted October 26, 2023
+msg:贊贊贊贊贊，去井岡山選擇中信會議中心就對了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in March 2023
+info:Couples
+info:41 Reviews
+rating:5
+posted:Posted March 31, 2023
+msg:房間乾淨，環境優美，到酒店後面山上遊玩非常好，前台服務熱情，有問必答，還給我講井岡山的攻略。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Twin Room
+info:Stayed in May 2024
+info:Family
+info:29 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:非常好，空氣非常ok
+----------------------------------------
+name:H‍T‍2‍0‍0‍0
+info:Garden Elegant Room
+info:Stayed in July 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted July 18, 2022
+msg:環境優美，服務到位，家人非常滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 7, 2023
+msg:房間乾淨整潔衞生，安靜舒適，適合出遊居住！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in August 2022
+info:Business travelers
+info:12 Reviews
+rating:2.2
+posted:Posted August 8, 2022
+msg:早上10點前台連續打了兩個電話問什麼時候退房，第一個電話叫我接起時，工作人員並沒有聽到我的聲音，工作人員和另外的人溝通，這個人為什麼不接電話呀？十點鐘了，他怎麼還不退房呀？我見他聽不見我的聲音，我就把電話掛了，大概幾秒鐘之後又打了一個電話過來，請問什麼時候退房？我説我沒有睡醒，他説我們今天這個房間已經，有人預訂了。我説我到退房的時間了嗎他，有人預訂了。我説我到退房的時間了嗎？他説沒有，到但是希望你快一點。能在井岡山建設這麼大一個會議中心，我相信公司的實力絕對不容小覷，但如果服務不好，我相信市場也一定不會有好的反應，現在這個世道已經不是靠運作，能戰勝一切的，同時也提醒各位，如果您不是單位性質的培訓，僅僅衹是住一晚或旅遊，建議不選擇這家酒店。
+----------------------------------------
+name:H‍u‍h‍u‍x‍i‍a‍n‍g‍q‍i‍a‍n
+info:Garden Elegant Room
+info:Stayed in May 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 20, 2023
+msg:非常好！地方距離旅遊點有點遠，但真心推薦！安靜，超安靜！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in August 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted August 3, 2023
+msg:周圍環境非常棒，空氣質量好，設施一流，衞生
+----------------------------------------
+name:R‍o‍g‍e‍r‍K‍W‍H
+info:Garden Elegant Room
+info:Stayed in November 2022
+info:Couples
+info:88 Reviews
+rating:4.5
+posted:Posted November 6, 2022
+msg:酒店位於景區附近，羣山環抱，適合自駕旅行的人員入住，房間超大，窗外的景色宜人。由於遊客稀少，早餐衹提供份餐。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in August 2022
+info:Family
+info:46 Reviews
+rating:5
+posted:Posted August 15, 2022
+msg:中信集團的酒店，像個培訓基地，挺高檔的，硬件沒問題，前台餐廳服務也熱情，住的很舒服。酒店離井岡山中心茨坪有好幾公里，散客衹能是自駕的適合住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 7, 2022
+msg:酒店外面景色秀美，房間寬敞舒適，服務要求及時響應，離着隔景區也很近，我是帶着爸媽和孩子一起去住的，一家人都讚不絕口。下次去還住這！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in October 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:很不錯的一次體驗，五星好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Twin Room
+info:Stayed in July 2023
+info:Friends
+info:9 Reviews
+rating:1
+posted:Posted July 25, 2023
+msg:入住體驗最差的酒店，非常不建議去住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in May 2023
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted May 5, 2023
+msg:房間大，安靜，假期沒有培訓接待，人反倒少。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in December 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted December 7, 2023
+msg:各方麪條件都不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Queen Room
+info:Stayed in October 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 4, 2021
+msg:比想象中環境還好，很舒服適合度假，應該是井岡山最高端的酒店啦！下次還會再來！
+🚗 交通：適合自己開車
+🧹衞生：五顆星
+🍃環境：五顆星
+🔔服務：五顆星
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in September 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted September 28, 2023
+msg:環境不錯，服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Suite
+info:Stayed in July 2023
+info:Friends
+info:32 Reviews
+rating:2.2
+posted:Posted July 25, 2023
+msg:服務一般，設施不行。早餐很次
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Twin Room
+info:Stayed in August 2023
+info:Family
+info:34 Reviews
+rating:5
+posted:Posted August 16, 2023
+msg:衞生需要加強，其他都很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in September 2021
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted October 1, 2021
+msg:酒店環境優美，停車方便，距離很多景點近，很方便。服務態度很好，房間大，乾淨，早餐自助餐很豐盛，味道不錯。
+----------------------------------------
+name:M‍i‍c‍h‍u
+info:Panoramic Twin Room
+info:Stayed in March 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted March 11, 2024
+msg:房間非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in October 2021
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted October 3, 2021
+msg:服務態度特別好，酒店很大，房間設施好，非常乾淨，早餐也很好吃，非常適合帶長者過來住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in April 2023
+info:Friends
+info:39 Reviews
+rating:5
+posted:Posted April 16, 2023
+msg:酒店環境很好，前台服務態度很好！
+----------------------------------------
+name:S‍S‍2‍8‍8
+info:Panoramic Queen Room
+info:Stayed in December 2023
+info:Couples
+info:31 Reviews
+rating:5
+posted:Posted December 6, 2023
+msg:空氣非常好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Twin Room
+info:Stayed in July 2021
+info:Family
+info:2 Reviews
+rating:2.5
+posted:Posted July 27, 2021
+msg:差，早餐都是壞掉的，連飲料都沒有，房間插座就這樣。
+----------------------------------------
+name:C‍Y‍N‍1‍9
+info:Panoramic Queen Room
+info:Stayed in February 2023
+info:Family
+info:29 Reviews
+rating:4
+posted:Posted February 15, 2023
+msg:環境不錯，比較幽靜。適合自駕。
+----------------------------------------
+name:Y‍a‍n‍g‍y‍a‍n‍g‍1‍2‍3‍4‍5
+info:Deluxe Twin Room
+info:Stayed in October 2021
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted October 5, 2021
+msg:硬件很不錯 服務也非常標準 用品也較其他四星五星不差甚至更高 早飯幫我升級贈送了 感謝 周邊環境雖不是中心區域 但較安靜 出門不遠也有商業餐飲 感覺性價比高 值得推薦
+----------------------------------------
+name:C‍h‍e‍n‍j‍i‍e‍1‍2‍3
+info:Garden Elegant Room
+info:Stayed in August 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted August 5, 2023
+msg:整體感覺很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 27, 2023
+msg:還不錯👌
+----------------------------------------
+name:t‍i‍g‍e‍r‍s‍t‍o‍n‍e
+info:Panoramic Twin Room
+info:Stayed in September 2022
+info:Family
+info:5 Reviews
+rating:4.2
+posted:Posted September 5, 2022
+msg:酒店環境不錯，服務人員態度也很nice
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in August 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted August 5, 2023
+msg:環境非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in October 2021
+info:Friends
+info:12 Reviews
+rating:5
+posted:Posted October 27, 2021
+msg:酒店位置很好，安靜！景色宜人。前台兩個小姐姐特別熱情，不光升級了房型，還加送了早餐。
+非常好的一次入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in March 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted March 3, 2023
+msg:前台接待專業細心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Twin Room
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 7, 2021
+msg:非常安靜，離景區有一定距離，有點世外桃源的感覺。房間設施比較新，規劃佈局比較合理。早餐的品種和品質也都不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Twin Room
+info:Stayed in October 2021
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 5, 2021
+msg:地理環境不錯，適合長期度假，管家服務很貼心，房間非常乾淨，下次還會住這裏，五星好評🌟🌟🌟🌟🌟
+----------------------------------------
+name:H‍u‍u‍l‍i
+info:Garden Elegant Room
+info:Stayed in July 2022
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted July 19, 2022
+msg:環境幽靜，設施齊全，酒店一流！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in April 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:不錯👍不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in August 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 10, 2022
+msg:環境好，房間乾淨，早餐豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Queen Room
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 6, 2021
+msg:酒店真的不錯，價格實惠，連續住了兩晚，前台小姐姐服務非常好，下次來還會選擇這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden Elegant Room
+info:Stayed in October 2022
+info:Friends
+info:21 Reviews
+rating:5
+posted:Posted October 21, 2022
+msg:環境很好，早餐不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in July 2022
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted July 19, 2022
+msg:很好的一家酒店，服務很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Twin Room
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 4, 2021
+msg:環境舒適，房間乾淨、衞生，一次舒心的住宿體驗！下次來井岡山還會再次入住。
+----------------------------------------
+name:N‍u‍o‍z‍e‍n‍a‍o‍s‍i‍k‍a
+info:Garden Elegant Room
+info:Stayed in July 2022
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted July 27, 2022
+msg:很不錯，酒店很大氣
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Twin Room
+info:Stayed in June 2021
+info:Family
+info:150 Reviews
+rating:4
+posted:Posted June 26, 2021
+msg:門鈴不響，房間大門連酒店服務員的卡都無法識別，酒店對設施的維護非常欠缺。
+----------------------------------------
+name:c‍a‍r‍r‍i‍e
+info:Panoramic Twin Room
+info:Stayed in October 2021
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted February 6, 2022
+msg:還不錯，剛去還找錯了位置，在更裏面的地方。
+----------------------------------------
+name:H‍a‍o‍h‍u‍a‍n‍g‍t‍a‍o‍c‍i
+info:Garden Elegant Room
+info:Stayed in July 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 14, 2022
+msg:環境各方面都好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in October 2021
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 6, 2021
+msg:酒店環境不錯，離景區也很近，非常好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Panoramic Queen Room
+info:Stayed in October 2021
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 7, 2021
+msg:風景優美，空氣清新，性價比超高。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in October 2021
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted October 7, 2021
+msg:大氣寬敞，莊重肅穆。
+----------------------------------------
+name:G‍o‍n‍g‍z‍u‍o‍h‍a‍o
+info:Panoramic Queen Room
+info:Stayed in October 2021
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted October 9, 2021
+msg:環境蠻好的，房間很大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Twin Room
+info:Stayed in July 2021
+info:Friends
+info:7 Reviews
+rating:4
+posted:Posted August 12, 2021
+msg:喜歡，有五星級的感覺。
+----------------------------------------
+name:X‍i‍a‍o‍p‍e‍n‍g‍p‍e‍n‍g
+info:Deluxe Twin Room
+info:Stayed in October 2021
+info:Business travelers
+info:17 Reviews
+rating:3
+posted:Posted October 12, 2021
+msg:個人不建議
+----------------------------------------
+name:z‍l‍w‍u
+info:Deluxe Twin Room
+info:Stayed in July 2021
+info:Friends
+info:101 Reviews
+rating:5
+posted:Posted July 22, 2021
+msg:環境優美的
+----------------------------------------

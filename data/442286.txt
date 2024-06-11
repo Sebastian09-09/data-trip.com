@@ -1,0 +1,3108 @@
+name:R‍o‍y‍a‍l‍k‍i‍n‍g
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:2.7
+posted:Posted May 4, 2024
+msg:I stay one night . According to price tag hotel is good but don’t expect 5 star amenities. Just average Chinese standard hotel.
+----------------------------------------
+name:G‍o‍v‍i‍n‍d‍a‍s‍w‍a‍m‍y‍ ‍Y‍u‍v‍a‍r‍a‍j
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 22, 2023
+msg:The overall experience during my 10-day visit was excellent with good service and outstanding hospitality.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in February 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:The hotel is very convinence.  We like it.  We will come again soon.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite - 3-Bedroom, 2-Living Room
+info:Stayed in February 2024
+info:Family
+info:8 Reviews
+rating:4.5
+posted:Posted March 31, 2024
+msg:Great staff and set up in the room, pretty nice stay
+----------------------------------------
+name:C‍h‍a‍n
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in January 2023
+info:Family
+info:10 Reviews
+rating:2.7
+posted:Posted January 27, 2023
+msg:Ok quite good but not vey nice……………………………………………………………….. ok
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:4
+posted:Posted April 4, 2024
+msg:Good hotel
+----------------------------------------
+name:M‍i‍s‍s‍ ‍J‍c
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in May 2024
+info:Friends
+info:13 Reviews
+rating:5
+posted:Posted May 6, 2024
+msg:The hotel environment is comfortable, quiet and clean, the service is attentive, and the location is very good. It is safe even if you go out at night. You can enjoy the delicious Shiqilao pigeon nearby.
+----------------------------------------
+name:J‍.‍C‍.‍愛‍旅‍遊
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Family
+info:8 Reviews
+rating:4
+posted:Posted April 14, 2024
+msg:The location is convenient, the room is tidy, but it feels a bit old! Can be considered for staying again
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in March 2024
+info:Couples
+info:20 Reviews
+rating:5
+posted:Posted April 1, 2024
+msg:It's a very good, very special hotel. It doesn't participate in the star rating. I think it has four stars or above. The lobby restaurant and elevator are very good. The service staff was also very patient and took us to see the house twice without any trouble. The silent toilet, bathtub and other bathroom facilities are very good.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in March 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted March 22, 2024
+msg:The room is very big, the bedding is clean and comfortable, there is a lake view, birds are singing, it is very comfortable and feels like home. I will definitely stay here next time I come to Zhongshan! Perfect inves**ent hotel, the bath products are all Perfect brand, very easy to use!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:4
+posted:Posted February 15, 2024
+msg:The water was running in the bathroom and I slipped.
+It would be better if there were disposable seat paper or disposable bathtub paper.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:2
+posted:Posted February 14, 2024
+msg:Rubbish hotel, went for 5 stars, but it turned out to be fake, the shower room turned out to be a fixed nozzle, there was a musty smell, the hotel handled the complaint very poorly, this is the first time I have come across such a rubbish hotel
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:79 Reviews
+rating:4
+posted:Posted February 1, 2024
+msg:The first time I stayed here, I felt like that. The building was originally pretty good, but after looking at the row of shops around the edge, I realized that the business was really bad. Very depressed
+----------------------------------------
+name:l‍a‍i‍k‍e‍e‍k‍w‍a‍n
+info:Superior Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:19 Reviews
+rating:5
+posted:Posted February 7, 2024
+msg:Clean and quiet, convenient transportation, recommended
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (2 Beds)
+info:Stayed in May 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:The front desk staff took us to see the room first and booked it after seeing if we were satisfied. The service was very good. The room was large and comfortable, very suitable for family travel.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in October 2023
+info:Couples
+info:42 Reviews
+rating:1
+posted:Posted October 8, 2023
+msg:The worst hotel I stayed in during this trip to Guangdong. I sat in the lobby for five minutes and got three mosquito bites. There was a very big cockroach in the room. I didn't intend to give a bad review, but the experience later became more and more weird. I changed rooms on the second night. Because I was in a hurry to go out, the charger head in the room and the milk in the refrigerator were left in the room of the first night. I called the hotel to tell them to take it for me and put it in the new room. As a result, when I returned to the hotel at two in the morning, the charger plug and milk disappeared... I contacted the front desk and they said that although the room was empty, the auntie was off work and couldn't go to the room to check for me. I immediately contacted the manager of the day and was told that the room had just been booked. It was such a coincidence that the room was booked at two in the morning! And then there was no more. After a few days, I asked the hotel again and they said that it was gone and I couldn't find it. Doesn't the hotel owner care? Such service? But I still want to thank the little sister who changed my room and took my luggage that night
+----------------------------------------
+name:L‍i‍a‍o‍l‍i‍s‍h‍u‍w‍a‍n‍g‍9‍1
+info:Superior Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:59 Reviews
+rating:5
+posted:Posted February 18, 2024
+msg:Good value for money
+----------------------------------------
+name:s‍e‍e‍s‍e‍a‍c
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in September 2023
+info:Friends
+info:15 Reviews
+rating:4
+posted:Posted October 10, 2023
+msg:I stayed in a two-bedroom, one-living room apar**ent. The room and bathroom were very good and comfortable. There was a swimming pool downstairs and across the street was the internet-famous restaurant Shiqi Lao.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in March 2024
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted March 6, 2024
+msg:The front desk staff is friendly and courteous!
+Room clean. The toilet is also very hygienic!
+I stayed in the executive king room this time. It is recommended to add a sofa chair to the room!
+Overall it feels good!
+----------------------------------------
+name:S‍h‍a‍r‍o‍n‍ ‍S‍e‍n‍ ‍y‍i‍n‍g
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in December 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 6, 2024
+msg:Very good for a large group of friends
+----------------------------------------
+name:L‍o‍n‍g‍f‍e‍i
+info:Superior Double Room
+info:Stayed in February 2024
+info:Friends
+info:19 Reviews
+rating:3
+posted:Posted March 26, 2024
+msg:The room is very old, and the lighting can only be described as dim. There were not many people checking in at this time, and the hotel did not upgrade the room type. The service was generally average. I went to have breakfast a little late, but it was not overtime. The first thing the waiter said was It reminds me that it’s almost time to close the stall, so I should eat quickly. hehe
+----------------------------------------
+name:M‍i‍k‍i‍ ‍h‍u‍i‍ ‍L‍u‍c‍a‍s
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 29, 2023
+msg:The hotel is very clean. It is cleaned every day. There are a lot of delicious food in the location. Shiqilao is just opposite. The shopping mall is very close. There is a beauty salon and massage downstairs.
+----------------------------------------
+name:K‍a‍m‍a‍n‍ ‍W‍a‍i
+info:Diamond Suite
+info:Stayed in February 2024
+info:Family
+info:16 Reviews
+rating:4.7
+posted:Posted February 13, 2024
+msg:The location is convenient, within a 10-minute drive from Zhongshan North Station, and opposite Shiqilao. There are just a few big shopping malls around, so it's not that convenient if you want to go shopping. The lighting in the corridor is dim, and the suite booked is very large. It is highly recommended if you have children. The space for activities is very sufficient. The air conditioner is a bit too high. Although you can adjust it yourself, it still feels cold after adjusting it.
+----------------------------------------
+name:藍‍色‍的‍蘿‍蔔
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 3, 2024
+msg:The second time I checked in, I stayed for 2 nights. It was clean and tidy. It had 3 bedrooms and 2 living rooms. There was a big dining table where the whole family could eat late night snacks. On the third day, I left my luggage and went to Shiqilao for lunch and then to Shagang Market, which was not far away. , then went back to the hotel to pick up the luggage and left.
+----------------------------------------
+name:A‍b‍o‍d‍e‍e‍r‍g‍u‍o‍j‍i‍a‍s‍e‍n‍l‍i‍n‍g‍o‍n‍g‍y‍u‍a‍n‍d‍e‍n‍g‍z‍i‍l‍o‍n‍g
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:1
+posted:Posted January 28, 2024
+msg:The room smelled very musty and the hot water was still cold after being left out for a long time.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:16 Reviews
+rating:3.2
+posted:Posted January 18, 2024
+msg:The hygiene is not very good and the room has a peculiar smell. The cleaning was not very thorough and the tiles were not cleaned at all. After staying for five days, the floor was extremely dirty for the next two days.
+The environmental facilities are relatively old. It can be seen that it is an old hotel, but the maintenance of the facilities has not kept up. The charging port on the bedside table cannot be charged as long as the light is turned off. To charge at the bedside, the light must be turned on. . . It’s so bad that my phone can only be placed on the desk to charge when I sleep these days. The air conditioner is very noisy.
+The breakfast was too bad, with few varieties and poor quality. The coffee machine should be replaced. The noise was awful in the morning and the coffee was very weak.
+The female administrator at the front desk was older, out of shape, and had medium-long hair. Poor service attitude, putting on a bad face, not friendly, typical old fritter style. The male administrators are quite approachable.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Booked for others
+info:9 Reviews
+rating:3.7
+posted:Posted July 29, 2023
+msg:There are many rooms, it is well-known in the local area, parking is convenient, face verification is required for check-in at the front desk, and a card is required to go to the designated floor in the elevator. The room size is OK, the bathroom has a bathtub and a shower, but the equipment is old and damp, the lighting is very dim, the hair dryer is also yellowed, the socket does not have a USB port, there is not much choice for breakfast, the overall service is OK, and the renovation can be better. There is a Shiqi Lao opposite the hotel that eats good squab.
+----------------------------------------
+name:N‍a‍n‍l‍a‍n‍g‍l‍i‍c‍h‍u‍n‍f‍e‍n‍g
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:105 Reviews
+rating:3.2
+posted:Posted July 13, 2023
+msg:The advantages are convenient location, large room space and affordable price. There are also many shortcomings. The rooms are old and the facilities are backward. Especially the breakfast is a bit unjustifiable. There are very few varieties and they are all leftovers from the buffet the previous night. It is unacceptable and the taste is very strange. After staying here once, I won’t want to try it again…
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2023
+info:Friends
+info:8 Reviews
+rating:1
+posted:Posted May 3, 2023
+msg:The hygiene was poor. There were blood stains on the pillow. When I was told it was mosquito blood, I laughed so hard. I said I would contact them to resolve the issue, but then nothing happened and there was no news. The room has a peculiar smell and it smells unpleasant! The air conditioner is very loud and affects your sleep! The experience is terrible! !
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:64 Reviews
+rating:2.5
+posted:Posted October 6, 2023
+msg:There were small bugs flying around in the toilet, and the tea cups also had a peculiar smell. I asked the front desk to clean it because I was staying, but the front desk asked, "Did you make it dirty?" I am also speechless. Isn’t it normal to ask for cleaning even after staying? I am traveling for more than half a year a year. This is the first time I met 🌚
+----------------------------------------
+name:T‍a‍o‍t‍i‍e‍d‍i‍t‍i‍a‍o
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in September 2023
+info:Family
+info:9 Reviews
+rating:2.2
+posted:Posted October 1, 2023
+msg:The facilities are very old. I haven't seen a TV cabinet used to put a TV in many years. Moreover, the TV was still broken and could not be turned on. When the staff came, they said there was nothing they could do... The air-conditioning outlet was facing the bed, and I was speechless working part-time... With such conditions, I dare to call myself five-star. Ctrip also wrote five-star on the platform in a funny way.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:11 Reviews
+rating:2.7
+posted:Posted August 6, 2023
+msg:I have lived here for more than ten years and stayed at Jinzuan every time I came to Zhongshan. My children like swimming very much. I thought I could swim here, but I didn’t know that swimming is open from 07:00 to 09:00 in the morning. You can’t swim at all. The opening hours are unreasonable. After breakfast, it was closed. It should be open from 0900 to 1100 at least. This time, the children came back disappointed.
+----------------------------------------
+name:F‍e‍n‍g‍k‍u‍a‍n‍g‍x‍i‍a‍o‍n‍i‍n‍i
+info:Family Suite - 3-Bedroom, 2-Living Room
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:2.2
+posted:Posted January 30, 2023
+msg:We booked a room for three days in a row, and it just happened to be cooling down. The water in the hotel room can only be called normal temperature water. After notifying the front desk of the hotel, they asked the master to check it. They didn't fix it. They just let us use the next door and didn't change rooms for us. It is very inconvenient for our family to bring children and the elderly, and the children and the elderly also catch cold. In addition to this problem, our child has a set of clothes missing. After using it that night, we found it missing on the second night, and it was not found in the room. I feel Problems with hotel management
+(The burner just shows that it can’t cook and cook) I don’t think it’s useful
+The layout of the parent-child room cannot be taken away (including dolls)
+----------------------------------------
+name:K‍a‍l‍i‍m‍o‍z‍h‍a‍o‍w‍a‍q‍u‍n‍d‍a‍o‍z‍h‍e‍n‍g‍h‍e
+info:Executive Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:6 Reviews
+rating:1
+posted:Posted June 28, 2023
+msg:After checking into the hotel, the room smelled of mold when I opened the door, and there were moldy hairs behind the door. I originally wanted to take a video, but there was no way to do it. The musty smell is very strong when the air conditioner is turned on. Since I was too tired after driving all day today and didn’t want to find a waiter, I went to bed early. But what I don't understand is that this hotel is still very high-end in Zhongshan. Ctrip is now starting to cheat. This is the worst hotel I have ever stayed in.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in June 2023
+info:Family
+info:4 Reviews
+rating:4.7
+posted:Posted June 23, 2023
+msg:The suite is very convenient and suitable for families to live in
+It would be even better if the three-bedroom and two-living room suites could be equipped with a microwave and tableware. They also have a swimming pool and a gym, and there are lifeguards in the swimming pool, which is great!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in August 2022
+info:Family
+info:4 Reviews
+rating:3
+posted:Posted August 21, 2022
+msg:I used to live in the main building of the hotel, and it felt good. I booked an apar**ent this time. I am very disappointed. The gap is not a little bit. Arranged for me to look at the ground floor of Building B in the parking lot. There are moths and cockroaches in it. The apar**ent is far away from the front desk and the parking lot. It rained without an umbrella. Far. This time I also brought a child, the experience is poor, and I feel very regretful.
+----------------------------------------
+name:L‍i‍n‍d‍a‍ ‍G‍a‍n
+info:Superior Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted September 2, 2022
+msg:There is a night market at the door in the evening, with all kinds of snacks. The connecting room arranged in the room is large enough for children to run around. The bed was also quite comfortable.
+----------------------------------------
+name:C‍h‍o‍n‍g‍q‍i‍n‍g‍l‍a‍o‍z‍h‍a‍o
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:13 Reviews
+rating:3.5
+posted:Posted June 23, 2022
+msg:The good thing about Golden Diamond Hotel is that the room is big enough. The unacceptable part is that the breakfast is not a buffet, but a serving: a pho, a bun, an egg, a bowl of porridge, and a plate of vegetarian dishes. Obviously not getting enough. Our order was for 4 breakfasts for 2 people but the restaurant insisted on giving only 2. The waiter said: One serving per person. So, after staying for one night, I changed hotels immediately.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in October 2022
+info:Family
+info:7 Reviews
+rating:4.7
+posted:Posted October 6, 2022
+msg:The hotel has free parking and sufficient parking spaces. I feel that the service is very meticulous and proactive. The hotel environment is good. I take the elderly and children on a National Day trip. The two rooms and two halls are very comfortable to live in.
+----------------------------------------
+name:H‍a‍i‍g‍e‍r‍-
+info:Superior Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:3 Reviews
+rating:3.5
+posted:Posted August 26, 2022
+msg:Geographical location is ok. Renovated more than 10 years ago, the room has a little smell. Pretty tolerable. The breakfast is average and the waiters are very nice.
+----------------------------------------
+name:j‍s‍j‍j‍s‍b
+info:Superior Room (2 beds)
+info:Stayed in August 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted August 23, 2022
+msg:Nice environment! The parking lot is big enough, the hotel has a restaurant, and there is a famous Shiqilao restaurant opposite. It is very convenient to eat and live
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2022
+info:Solo travelers
+info:5 Reviews
+rating:3.7
+posted:Posted October 5, 2022
+msg:The quilt feels that many people have used it without changing it
+----------------------------------------
+name:Z‍h‍o‍n‍g‍l‍i‍n‍g‍y‍u‍x‍i‍u
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in April 2022
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted April 27, 2022
+msg:The hotel is very quiet, very comfortable, the gym is very large and complete
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in October 2022
+info:Friends
+info:5 Reviews
+rating:4.2
+posted:Posted October 5, 2022
+msg:Overall good, suitable for family living
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in February 2022
+info:Family
+info:48 Reviews
+rating:5
+posted:Posted February 3, 2022
+msg:The service is very good, the room is big but the setting is really too old, not even a hair dryer can be used, the door of the shower room can not be closed, I feel that it needs to be renovated and hope it can be better.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2021
+info:Solo travelers
+info:1 Review
+rating:2.7
+posted:Posted December 2, 2021
+msg:The hotel said it was renovated in 2017, but it was only when I checked in that I found out that it was renovated in 2013. The facilities are relatively old, and the shower is glued with tape. The service is generally good and the speed is fast, but the quality of disposable items in the hotel is also relatively poor , the sanitation is generally average, and there are many gutters in the bathroom
+----------------------------------------
+name:W‍a‍n‍g‍j‍u‍k‍a‍b‍a‍n‍n‍a‍n‍y‍i‍n
+info:Superior Room (2 beds)
+info:Stayed in August 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted August 28, 2022
+msg:Service: patient and attentive
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in October 2021
+info:Family
+info:17 Reviews
+rating:1
+posted:Posted October 3, 2021
+msg:The hotel is on the roadside. This town is noisy, chaotic and dirty. All the hotel staff are vegetarians. The breakfast noodles or noodles only have clear soup and little water. And the chili pepper is back to primitive society? The only non-vegetarian dish was ham sausage. The children kept complaining about how they could eat it. They didn't dare to think that the hotel had sweet potatoes... Is this even worse than Home Inn? The decoration of the hotel is probably old. Not to mention the service is old. Two adults with a child and an elderly person just started to arrange the two rooms so that one is at the beginning and the other at the end. What is this operation? Do I need to inform in advance if there is no room available? This is my first time encountering it. When I got to the second floor, I called the front desk and then moved to the floor below. They actually arranged a fire hydrant in the middle and also at the end. I go out on business 200 days a year. Everyone knows that the rooms at the end of the hotel are special rooms. They arranged it for us again. I didn’t book a special room. Such service and such catering are in the hotel in Zhongshan. I wish you good luck!
+----------------------------------------
+name:R‍o‍n‍g‍w‍e‍i‍q‍i‍a‍n‍g
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in July 2022
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted July 26, 2022
+msg:Convenient parking lot
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in June 2022
+info:Solo travelers
+info:13 Reviews
+rating:5
+posted:Posted July 7, 2022
+msg:It's delicious early 😋
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in August 2022
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted August 27, 2022
+msg:Clean and tidy.
+----------------------------------------
+name:旅‍遊‍初‍妹
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in August 2023
+info:Family
+info:14 Reviews
+rating:4
+posted:Posted August 26, 2023
+msg:兩房兩廁一廚房，空間感大。
+開揚景觀！值得再去
+過千呎地方，而家很近高鐵站。
+不過應該很久沒有人住，進去時有點不透風的味道
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Wedding Room - 3-Bedroom, 2-Living Room
+info:Stayed in September 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted October 27, 2023
+msg:訂的是婚房，酒店包佈置好婚房不用自己動手👍房間乾淨，空間夠大，大門口停車方便
+----------------------------------------
+name:R‍a‍y‍ ‍C‍h‍a‍n
+info:Family Suite - 3-Bedroom, 2-Living Room
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:3.2
+posted:Posted August 15, 2023
+msg:房間性價比高，服務有水準， 房間清潔做得到位 ，前台盡心盡力幫忙。整體環境不錯 ,但泳池水不太潔淨, 設施較舊
+----------------------------------------
+name:A‍B‍D‍C
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in August 2023
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:就係床太硬 
+其他都好好
+夠大今次全家黎可以一間屋過 非常推薦
+家人都好開心 對面就係石岐佬餐廳 好方便 行過去就得
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted August 1, 2023
+msg:中山北站附近五星酒店，客戶服務，設施都很好，下次會再來。
+房間整潔
+没有煙味
+景觀漂亮
+房間真的很大
+性價比高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Family
+info:3 Reviews
+rating:2.2
+posted:Posted June 10, 2024
+msg:酒店可能是長期沒有什麼顧客，裏面床被有點潮濕，且有黴變的味道。酒店大廳到處都是蚊蟲，根本談不上5星級酒店可言。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 3-Bedroom, 2-Living Room
+info:Stayed in October 2023
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted October 27, 2023
+msg:交通方便，不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in September 2023
+info:Friends
+info:2 Reviews
+rating:4.2
+posted:Posted October 8, 2023
+msg:設施有點老舊了，尤其是空調，有房間的空調特別吵但卻不製冷，純屬噪音製造機，而且可能年代久遠，這邊的空調並不是中央空調而是普通的掛式空調，這點比較失望。其餘的服務態度挺好的，和前台多要了幾瓶水也給了，加床服務在晚上11點也馬上滿足了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in February 2024
+info:Family
+info:33 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:酒店停車很方便，住公寓的話每次都要到前台掃停車碼稍有不便。馬路對面就是石岐佬，吃飯也很方便。總體來説性價比很不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 1, 2023
+msg:很乾凈很方便，對面就是石歧佬。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:19 Reviews
+rating:4.5
+posted:Posted March 12, 2024
+msg:位置好，交通便利。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 3-Bedroom, 2-Living Room
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:3.5
+posted:Posted April 6, 2024
+msg:房間夠大，老舊，熱水器有問題，合適人多出行，對面是最出名的乳鴿，吃飯好方便，周邊很多早茶和排擋，吃東西很棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in August 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted August 29, 2023
+msg:第一次住，看了一些之前的點評有點猶豫，但是住進來以後就覺得自己做了一個絕好的決定，酒店無論從任何角度來説都是物超所值的，對面就是有名的石岐佬，因為中山美食太多，酒店送的自助早餐都沒去吃，下次去還是會住這個地方。
+----------------------------------------
+name:Z‍h‍u‍a‍n‍z‍h‍u‍a‍n‍1‍2‍1‍1
+info:Superior Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:87 Reviews
+rating:4
+posted:Posted April 28, 2024
+msg:酒店房間不錯，衞生乾淨整潔，酒店服務人員態度不錯。酒店地點稍微偏了，附近吃飯的地方較少，要開出出來覓食
+----------------------------------------
+name:L‍a‍n‍r‍e‍n‍x‍i‍a‍n‍s‍h‍e‍n‍g
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:3
+posted:Posted May 2, 2023
+msg:奔著泳池去的⋯⋯結果說沒救生員不開。選的盲盒ㄧ房一廳！像是住在小區裡一樣！電視是90年代的大方盒⋯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2023
+info:Other
+info:4 Reviews
+rating:3.2
+posted:Posted August 19, 2023
+msg:房間比較老舊，坐落在類似於城中村一樣的地方，客房下面看到全是屋頂，沒什麼公共設施，非常商務適合出差報銷，總體和價格不匹配，能住，另外可能是工作日去的，早餐吃的人很少。
+
+順便逛了孫文步行街附近夜市，沒什麼亮點，不值得去。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in October 2023
+info:Friends
+info:19 Reviews
+rating:5
+posted:Posted October 6, 2023
+msg:酒店房間衞生整潔，性價比合理，酒店還設有游泳池，周邊環境旺中帶靜，附近幾間酒樓美食值得一試。遺憾的是酒店游泳池開放時間太短，上下午各開放兩小時，希望酒店能改進一下
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Friends
+info:7 Reviews
+rating:4.7
+posted:Posted April 22, 2024
+msg:房間還好，就在石岐佬對面，唯一不足，是沖涼房洗浴沒有活動花灑，很不方便。
+----------------------------------------
+name:@‍g‍l‍o‍c‍k
+info:Family Suite - 2-Bedroom, 2-Living Room
+info:Stayed in January 2023
+info:Family
+info:9 Reviews
+rating:4
+posted:Posted January 31, 2023
+msg:兩房一廳家庭套房很大，適個家庭入住，酒店設施有點舊，但服務人員服務有禮非常好，房間是整潔及衞生的，有廚房的，唯一欠缺垃圾桶不夠，衹有衞生間才有垃圾桶。
+----------------------------------------
+name:W‍u‍h‍u‍t‍a‍o
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in April 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted April 9, 2023
+msg:環境舒適，適合一家大細一同住宿👍
+如果漱口杯不使用黃色會領人感覺好點😁
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in March 2024
+info:Friends
+info:20 Reviews
+rating:5
+posted:Posted June 5, 2024
+msg:開了這麼多年的酒店，房間還可以保持得這樣好難得，，住得舒服去食去玩都方便
+----------------------------------------
+name:L‍i‍a‍n‍h‍u‍a‍m‍e‍n‍g
+info:Superior Double Room
+info:Stayed in May 2024
+info:Solo travelers
+info:27 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:豪華性價比酒店，處市中心位置，而不吵鬧，飲食方面，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite - 2-Bedroom, 2-Living Room
+info:Stayed in June 2023
+info:Family
+info:10 Reviews
+rating:4.7
+posted:Posted June 24, 2023
+msg:房間很大，一家人住着不錯，安靜休息的很好。對面就是石岐佬吃飯很方便。服務也很好，給小孩子佈置了玩具，寶寶很喜歡。酒店有個游泳池人也不多，就是床墊有點硬（個人感覺）總體來説值得推薦👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite - 2-Bedroom, 2-Living Room
+info:Stayed in April 2023
+info:Booked for others
+info:10 Reviews
+rating:5
+posted:Posted April 30, 2023
+msg:親戚很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:3 Reviews
+rating:4.7
+posted:Posted October 4, 2023
+msg:每次來都住金鑽，因為去石岐佬真是不要太方便了。感謝AMY的熱情有禮，還有大堂打掃的阿姨。唯一不足是房間設施有點舊了。
+----------------------------------------
+name:A‍l‍e‍X‍y‍a‍l‍i‍s‍h‍a‍n‍d‍a
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in October 2022
+info:Family
+info:21 Reviews
+rating:5
+posted:Posted November 25, 2022
+msg:不起眼的一家小酒店，但是卻有挺好的體驗！酒店餐廳不論是早茶還是飯市，出品都有一定水準！客房服務也比較到位！房間價格實惠！停車場也很方便，晚上酒店門口還有夜市！唯一美中不足的是前台某些員工還需加強培訓，説話讓人不太舒適！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 23, 2023
+msg:衞生：很乾凈
+環境：優美
+服務：很好.很到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in October 2023
+info:Family
+info:15 Reviews
+rating:4
+posted:Posted October 6, 2023
+msg:老五星酒店，有游泳池，水很好，早餐好，有廣東差點，價格也不貴，停車方便，對面有中山很有名的餐館，很滿意的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:5 Reviews
+rating:4.5
+posted:Posted May 3, 2024
+msg:前台服務耐心細緻，推薦的酒店樓下的早茶一級棒！
+----------------------------------------
+name:J‍a‍y‍h‍u‍a‍n‍g
+info:Superior Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted December 21, 2023
+msg:老牌酒店，硬件不錯，但是冬天沒有暖空調有些難受，還好提供了取暖器，能睡個好覺
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in October 2023
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted November 21, 2023
+msg:一家營業很多年的五星級酒店了，在石岐老城內，出行也方便，周圍老店也多。酒店的早茶出品味道不錯，夠傳統
+----------------------------------------
+name:A‍l‍e‍x‍5‍2‍0‍8‍8‍8
+info:Deluxe Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:12 Reviews
+rating:4.7
+posted:Posted March 27, 2023
+msg:金鑽酒店的整體環境不錯，衞生乾淨，看得出是整體員工的付出和認真!
+本人住過多次，還是一如既往的讓人舒服，距離市中心很近，遠離喧囂，給人寧靜，個人對比市區內兩家大五星酒店，更有性價比和舒適性，牆裂推薦給大家，各種房型都能滿足商務和家庭出行需要。
+希望能一直保持水準。
+再次感謝你們的服務!
+----------------------------------------
+name:R‍e‍n‍r‍e‍n
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in February 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted February 4, 2024
+msg:服務非常到位，雖然酒店有點時間了，但乾淨衞生安靜，吃飯方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in March 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted March 19, 2023
+msg:早餐豐儉由人，可以點餐。但是我們選擇了不要早餐。因為本身房費不含早餐。公寓式房間太適合扶老攜幼親子了。當時選這家主要就是為了就近去對面石岐佬吃飯。因為石岐佬要是去到要等位那就真的是要命了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in June 2023
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted July 4, 2023
+msg:所有員工服務友善，樂於及主動照顧客人的服務要求。房間每日也清潔乾淨，入住舒適。酒店中式餐廳食物很好。整體來說金鑽酒店值得推介。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 12, 2024
+msg:環境.好
+
+衞生好
+設施：都很好，非常滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Family
+info:6 Reviews
+rating:4.7
+posted:Posted October 14, 2023
+msg:地理位置和服務都不錯，旁邊就是居民區，購物交通方便，就是設備有點老化，屋內空調動靜大，
+----------------------------------------
+name:S‍u‍r‍e‍w‍i‍n‍ ‍M‍a‍n‍u‍t‍d
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:3.5
+posted:Posted August 18, 2023
+msg:已經住過好多次，價格合理，附近餐廳￼好多，酒店位置好好，房間衞生尚可，游泳池￼不見議使用，接待人員不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 23, 2023
+msg:8月11號住店，前台見到老朋友小鄭，熱情的招待，家人般的感受，覺得金鑽是中山市效價比最適合我住的酒店。
+----------------------------------------
+name:F‍i‍x‍g‍h‍o‍s‍t
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in May 2024
+info:Couples
+info:132 Reviews
+rating:5
+posted:Posted May 8, 2024
+msg:一房一廳 五一假期這個價格 十分給力
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Booked for others
+info:19 Reviews
+rating:5
+posted:Posted April 3, 2024
+msg:房間很好，乾淨整潔，環境安靜，出行方便。
+----------------------------------------
+name:V‍i‍n‍c‍e‍n‍t
+info:Superior Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:4.5
+posted:Posted February 11, 2024
+msg:1207花灑老舊，下水道阻塞，需要維修更換了。
+----------------------------------------
+name:Y‍-‍F‍a‍y
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in May 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:酒店性價比高，在市中心出行方便，酒店對面就是網紅“石岐佬”，步行去食街也是十多分鐘。酒店乾淨整潔，服務員温文有禮、有求必應，值得推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in October 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:非常不錯的一次體驗，如果家庭出遊到中山，強烈推薦金鑽酒店翡翠廳，很不錯👍👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Solo travelers
+info:75 Reviews
+rating:5
+posted:Posted April 21, 2024
+msg:挺好的一家酒店，價格便宜，停車方便
+----------------------------------------
+name:G‍u‍o‍q‍u‍a‍n
+info:Superior Room (2 beds)
+info:Stayed in November 2023
+info:Family
+info:7 Reviews
+rating:3.7
+posted:Posted January 3, 2024
+msg:位置也可以，對面乳鴿王的出品同價錢都值得推介，￼酒店設施￼都可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted January 28, 2024
+msg:這兩天非常寒冷，柜台主動提供暖風机，非常貼心。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2023
+info:Friends
+info:56 Reviews
+rating:5
+posted:Posted May 4, 2023
+msg:房間佈局合理，衞生良好，雖住五樓較低樓層，但窗外視野開闊，馬路對面就是石岐佬中山菜，每天開餐時間車水馬龍，兩邊都是生意興隆……
+----------------------------------------
+name:C‍h‍e‍n‍d‍a‍y‍e‍h‍e‍h‍e
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted June 16, 2023
+msg:對酒店我沒什麼印象了，不過附近是挺多好吃的，然後中山可以租共享電動車遊覽也不錯，逛着逛着走到歧江公園邊上的摩天輪
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in August 2023
+info:Friends
+info:4 Reviews
+rating:4.7
+posted:Posted August 31, 2023
+msg:這次是幫朋友一家人訂的，大家都挺滿意，房間很大，不過設施有點舊了，能換上新的就更完美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in March 2024
+info:Friends
+info:3 Reviews
+rating:3
+posted:Posted March 11, 2024
+msg:床墊硬的！房間有長者味！期望有改良！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in October 2023
+info:Friends
+info:2 Reviews
+rating:3
+posted:Posted January 10, 2024
+msg:泳池不開，健康室無燈無冷氣！房間冷氣不夠，兩間房只有一盒紙巾
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:3.7
+posted:Posted September 10, 2023
+msg:房間空間大
+游泳池下雨不能體驗
+健身房貌似和外面小區共用
+早餐種類較少
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted October 2, 2023
+msg:房間整潔，床褥舒適度不錯，雖然裝修比較舊，仍能給人一種舒適的感覺
+----------------------------------------
+name:s‍c‍o‍t‍t‍j‍i‍n‍g
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in January 2023
+info:Friends
+info:112 Reviews
+rating:4.2
+posted:Posted January 26, 2023
+msg:對面就是石岐佬，走到商場也不遠，房間很大有兩個衞生間。wifi連不上，床特別硬，吹風機是壞的，設施很陳舊。外賣不讓送進來，還要自己去前台拿很麻煩，前台也不給送
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2023
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted August 15, 2023
+msg:老牌酒店，房間裝潢不錯，稍微有一點點陳舊。不過在這個價位上還要啥自行車呢？
+----------------------------------------
+name:P‍L‍C‍N‍N
+info:Superior Double Room
+info:Stayed in April 2023
+info:Friends
+info:4 Reviews
+rating:3.2
+posted:Posted April 9, 2023
+msg:今次入住一天，曾經要求翌日早上morning call at 0600；結果早上沒有收到該服務，令致當天朋友约會遲延。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted November 30, 2023
+msg:中山衹住金鑽，靠近老城區，各種美食老店圍繞旁邊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in July 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted July 13, 2023
+msg:裝修很好 ！位置也很好！停車場很寬敞 ！配套的酒店餐廳早茶絕對是超經典的粵式早茶！
+----------------------------------------
+name:W‍o‍s‍i‍g‍u‍w‍o‍z‍a‍i‍9‍9‍9
+info:Superior Double Room
+info:Stayed in January 2023
+info:Friends
+info:20 Reviews
+rating:5
+posted:Posted January 25, 2023
+msg:春節期間能夠訂到性價比高的酒店真是一種幸福。酒店四星，中規中矩，不錯。為了吃石岐佬鴿子住過來，結果正好休息不開門🫢金鑽吃鴿子彌補了遺憾，餐食不錯。推薦
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Booked for others
+info:14 Reviews
+rating:5
+posted:Posted April 22, 2024
+msg:設施有點舊了，其它都還好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2023
+info:Friends
+info:21 Reviews
+rating:4.5
+posted:Posted February 12, 2023
+msg:我來到中山是第二住這家酒店，感覺比第一次來各方面要好一些，主要這家酒店的位置吃飯很方便，周邊都是本地美食，下次來中山還會選擇這家酒店。
+----------------------------------------
+name:J‍O‍S‍E‍P‍H‍ ‍K‍A‍Y
+info:Executive Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 17, 2023
+msg:地点一流 ，前台服务一流 清潔。价格合理。房间舒适。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:10 Reviews
+rating:4
+posted:Posted January 28, 2023
+msg:位置很好找，停車方便，房間還算乾淨，床鋪睡着挺舒服，早餐是份飯，味道不錯！在中山住這裏性價比超高！對面岐山佬人太多了，沒吃上，可惜了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in October 2022
+info:Friends
+info:17 Reviews
+rating:5
+posted:Posted October 11, 2022
+msg:還可以的 酒店價格性價比很高 十一國慶期間這個價格非常良心 住的是酒店的公寓房 一房一廳 2樓不吵 電視機還是老式的那種 不給我也沒看 晚上酒店前的夜市挺有感覺 有各種小吃和露天影院 附近金鑽的早餐不錯 過條馬路就是石岐佬 推薦吃貨入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted March 3, 2023
+msg:酒店位置好，離中山北站很近約6分鐘的路程，酒店停車場大，停車方便。早餐豐富，品種多，味道好。周邊環境優美。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2022
+info:Booked for others
+info:2 Reviews
+rating:5
+posted:Posted May 11, 2022
+msg:幫客人訂的大床房，周邊環境不錯，馬路對面就是中山有名食府石岐佬，客人入住後覺得滿意，自助早餐也認為OK，下次來中山應還會入住。
+----------------------------------------
+name:l‍u‍c‍k‍y‍m‍a‍o‍m‍i‍n
+info:Superior Double Room
+info:Stayed in October 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 8, 2023
+msg:孩子很愛這裏的游泳池。周邊飯店很多，外賣方便。
+----------------------------------------
+name:H‍u‍a‍n‍r‍u‍o‍j‍i‍a‍n‍l‍i‍a‍n‍s‍h‍i
+info:Superior Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted April 17, 2023
+msg:服務很好，家人提前到達酒店也安排了入住，並且溝通到長者家腿腳不便安排了靠近電梯口的房間。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in May 2024
+info:Family
+info:4 Reviews
+rating:4.7
+posted:Posted May 4, 2024
+msg:房型很好，設施齊全。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 25, 2024
+msg:服務態度良好  5 星體驗
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:性價比超高的一家酒店
+----------------------------------------
+name:D‍K‍N‍Y‍8‍1‍9
+info:Superior Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:34 Reviews
+rating:5
+posted:Posted October 16, 2023
+msg:超級大的酒店，套間很棒！價格便宜，早茶很好吃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:環境不錯，清靜，價格適中。
+----------------------------------------
+name:s‍h‍o‍W‍d‍o‍U
+info:Superior Room (2 beds)
+info:Stayed in May 2023
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted May 3, 2023
+msg:總體還不錯，就在石岐佬對面，不過窗户底下有個抽風口還是什麼的，聲音很大，望改進
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in March 2024
+info:Family
+info:1 Review
+rating:4.5
+posted:Posted June 3, 2024
+msg:房間清潔衞生，寧靜優雅
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite - 3-Bedroom, 2-Living Room
+info:Stayed in November 2023
+info:Family
+info:1 Review
+rating:3.2
+posted:Posted November 9, 2023
+msg:房間地板應該很久沒有清潔，腳底都弄髒了
+----------------------------------------
+name:L‍e‍z‍h‍i‍y‍u‍e
+info:Superior Double Room
+info:Stayed in February 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted March 29, 2024
+msg:房間安靜，幹靜，酒店位置好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Solo travelers
+info:2 Reviews
+rating:4
+posted:Posted May 15, 2024
+msg:乾淨企理，滿意的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Couples
+info:1 Review
+rating:4
+posted:Posted May 1, 2023
+msg:房間看見清潔，沒有塵及污漬。
+但是身體總是有些痕癢，起了些红泡泡。睡不好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in January 2023
+info:Family
+info:10 Reviews
+rating:4.5
+posted:Posted January 26, 2023
+msg:訂了3房2廳2廁1廚房1露台，價錢合理便宜，屋夠大環境舒服，一家人住也不擁擠，但前台很難打通，其他都非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in July 2023
+info:Friends
+info:18 Reviews
+rating:5
+posted:Posted July 9, 2023
+msg:交通方便，星級酒店服務乾淨衞生，安靜，下次過來還是住這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 6, 2022
+msg:離家近首選這裏，招呼朋友訂的房間，訂了之後打電話去酒店安排在一起。入住的時候郭經理給我們送了水果，房間也安排的很好，酒店的服務人員很有禮貌，服務好，早餐的味道也很不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in March 2024
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted April 2, 2024
+msg:前台接待員非常有禮！
+----------------------------------------
+name:S‍u‍i‍y‍u‍e‍c‍u‍i‍r‍e‍n‍l‍a‍o‍l‍a‍o
+info:Diamond Suite
+info:Stayed in February 2023
+info:Business travelers
+info:32 Reviews
+rating:4.2
+posted:Posted March 22, 2023
+msg:石岐佬對面，吃飯方便，停車有點亂，酒店可能有些年頭了，該裝修了，工作人員服務還是很不錯的
+----------------------------------------
+name:L‍i‍l‍i‍t‍u‍b‍u‍x‍i‍c‍a‍n‍g
+info:Superior Double Room
+info:Stayed in June 2023
+info:Solo travelers
+info:30 Reviews
+rating:5
+posted:Posted June 10, 2023
+msg:環境很不錯，雖然設備有些老舊，但是維護的不錯，房間乾淨衞生。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 25, 2023
+msg:雖然冬天，但房間很悶熱，想開冷氣卻沒有，有點不開心，如果可以開就好了。環境舒適度來説還是不錯的。
+----------------------------------------
+name:b‍i‍l‍l‍y‍g‍a‍o
+info:Superior Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:31 Reviews
+rating:4.5
+posted:Posted March 28, 2024
+msg:滿意，房間可以，價格ok
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 13, 2023
+msg:酒店地理位置優越，但設施稍陳舊，總體很舒適！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:6 Reviews
+rating:4.7
+posted:Posted January 28, 2023
+msg:酒店設施齊全，服務周到，周邊美食雲集，唯一是房間洗澡的地漏不好，洗完澡廁所全是水，希望改進。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2022
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted January 5, 2022
+msg:第一次入住酒店，朋友推薦的，出乎預料的好！！前台服務太好啦，特別是小郭姐姐，推薦我們去西餐廳吃，出品很好哦，上去吃的時候人比較少，一吃發現好好吃，做得好看味道很好，推薦大家可以去試一試。
+房間衞生很好，乾淨衞生，住的很舒服！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Friends
+info:8 Reviews
+rating:4.5
+posted:Posted May 3, 2023
+msg:正好在我想去的菜館對面，環境很好，就是設施有點舊。服務態度也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:4.5
+posted:Posted June 1, 2024
+msg:房間水都沒有放
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 28, 2023
+msg:還可以，早餐的咖啡是現磨的，比較贊👍🏻！      
+床有點小，對於帶兩個娃的家庭有點勉強
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:5 Reviews
+rating:4.2
+posted:Posted February 23, 2023
+msg:酒店比較老了，但房間整體還可以，大堂吧衞生不好傢俱太久，蒼蠅也很多，早餐不夠豐盛
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:25 Reviews
+rating:4
+posted:Posted December 15, 2023
+msg:房間略顯小，淋浴間水不怎下
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 23, 2023
+msg:酒店環境不錯，服務也好，下次來還住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:61 Reviews
+rating:5
+posted:Posted December 30, 2023
+msg:乾淨衞生，距離客户近，也挺不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 7, 2022
+msg:對面就是好吃的網紅店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in March 2024
+info:Friends
+info:13 Reviews
+rating:5
+posted:Posted May 23, 2024
+msg:還行吧，一般條件！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in February 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted March 8, 2022
+msg:不錯的一個酒店，因為女兒結婚，所以訂了金鑽酒店，房間的佈置非常滿意，家裡的客人也非常滿意
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:非常不錯的酒店
+----------------------------------------
+name:W‍e‍i‍w‍e‍n
+info:Superior Room (2 beds)
+info:Stayed in March 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:這次是第三次入住
+----------------------------------------
+name:R‍u‍i‍s‍h‍u
+info:Family Suite - 3-Bedroom, 2-Living Room
+info:Stayed in December 2021
+info:Friends
+info:4 Reviews
+rating:3.7
+posted:Posted December 23, 2021
+msg:🧹衞生：還挺乾淨的
+🍃環境：三房，剛開始訂房看圖以為三房間都是卡通佈置，結果衹有一間，裏面的小孩牙刷、沐浴露，住兩晚也衹給一份，每晚比沒有親子佈置的貴幾十塊
+
+🔔服務：衹能説正常
+----------------------------------------
+name:G‍q‍y‍3‍1‍3
+info:Superior Room (2 beds)
+info:Stayed in November 2021
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 9, 2022
+msg:訂了3個房間，小郭服務態度非常好，按照我們的需要安排房間，天氣冷冷的，給我們送了紅糖薑茶，女生冬天必備！！前台預備的小東西很實用，比如橡皮筋、眼鏡布、棉簽、和小童玩具。還給我們介紹了晚上在西餐吃自助餐，品種適中，味道很好，長者平時不怎麼吃的也説很好，食物乾淨衞生，下次還會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in October 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted October 14, 2023
+msg:非常滿意，乾淨衞生，房間很大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in April 2024
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted April 10, 2024
+msg:房屋很好很乾凈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted January 8, 2022
+msg:常客了，房間不錯，前台小姐姐樑月娥很熱情，業務也很熟悉。自助餐服務不錯，餐點性價比很高。以後來中山，還要繼續來這裏。
+----------------------------------------
+name:L‍A‍M‍j‍i
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:3.7
+posted:Posted April 20, 2023
+msg:7年前也是來這家酒店，沒有什麼太大變化，交通方便😊酒店就是老了點設施老舊
+----------------------------------------
+name:Y‍a‍n‍z‍h‍o‍u‍j‍u‍n
+info:Superior Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:80 Reviews
+rating:5
+posted:Posted March 1, 2024
+msg:城市中的花園酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 28, 2021
+msg:每次到中山出差都是入住金鑽酒店，酒店的公寓房性價比很高，特別適合我們這種每次幾個人一起出差，需要商談工作的，有一個大客廳真的很方便，而休息時各自一間房又互不打擾。酒店的服務非常贊，前台的小哥哥小姐姐每次辦理入住退房都很快速，大堂副理Jenny小姐姐就像我們在金鑽酒店的管家，每次都
+----------------------------------------
+name:Q‍i‍a‍n‍c‍h‍e‍n‍s‍h‍i‍j‍i‍n‍g
+info:Executive Double Room
+info:Stayed in January 2024
+info:Couples
+info:36 Reviews
+rating:4.7
+posted:Posted January 23, 2024
+msg:交通便利，服務熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted August 21, 2023
+msg:出行方便，設施是舊了點，但還能接受。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted May 6, 2024
+msg:地理位置很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted September 6, 2023
+msg:算是比較有歷史的酒店，尚可接受
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:19 Reviews
+rating:4
+posted:Posted February 27, 2024
+msg:房間配套有待提升
+----------------------------------------
+name:J‍a‍n‍n‍y‍w‍e‍i
+info:Diamond Suite
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:4.2
+posted:Posted January 28, 2023
+msg:老牌酒店 ，設施是有點舊，但服務態度很好，來中山大部分時間會選這裏
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:2 Reviews
+rating:4.2
+posted:Posted October 22, 2023
+msg:價錢不錯，就是設施舊了點
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in October 2023
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted October 14, 2023
+msg:乾淨整潔的環境，還可以吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in January 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted January 31, 2024
+msg:酒店舒適服務好！
+----------------------------------------
+name:G‍a‍n‍g‍t‍o‍u‍1‍9‍7‍3
+info:Superior Double Room
+info:Stayed in October 2021
+info:Friends
+info:26 Reviews
+rating:5
+posted:Posted October 22, 2021
+msg:去中山吃乳鴿，水蟹粥，找到這家離館子近的酒店。酒店配套很好，乾淨，花園也很漂亮。同行的朋友都感到很滿意，可惜住的時間比較短，下次如果去中山，還選這家。
+🧹衞生：
+🍃環境：
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 15, 2023
+msg:酒店對面是網紅美食—石岐佬乳鴿
+----------------------------------------
+name:R‍e‍n‍l‍e‍i‍z‍u‍i‍h‍o‍u‍d‍e‍x‍i‍w‍a‍n‍g
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in November 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted November 7, 2021
+msg:我們住在公寓部分，地方很大，足夠我們四人入住。接待人員服務態度很好，整體感覺很不錯。酒店位置不錯，對面就是石岐佬，幾車十分鐘就有大信新都滙。
+----------------------------------------
+name:A‍M‍o‍k
+info:Superior Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:4.7
+posted:Posted May 16, 2023
+msg:酒店對面已是食肆，非常方便，有足够車位方便自駕遊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in March 2024
+info:Friends
+info:7 Reviews
+rating:4.7
+posted:Posted April 24, 2024
+msg:價格非常適中
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted January 13, 2024
+msg:還可以，離市區近
+----------------------------------------
+name:P‍a‍n‍g‍y‍u‍t‍o‍u
+info:Superior Room (2 beds)
+info:Stayed in October 2021
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted October 20, 2021
+msg:中山金鑽酒店是一家名副其實的五星級酒，這裏建築豪華大氣。內部設施完整，客房乾淨衞生舒適。早餐品種相對少一點，但是味道還可以。特別要點贊一下游泳池。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (2 Beds)
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:非常適合旅居！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in November 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 13, 2023
+msg:乾淨，舒適。非常好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in December 2023
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted March 10, 2024
+msg:十分不錯，很喜歡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:3.2
+posted:Posted July 31, 2023
+msg:設施比較舊，泳池服務體驗較差
+----------------------------------------
+name:y‍u‍x‍g‍2‍0‍0‍5
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in January 2023
+info:Family
+info:21 Reviews
+rating:5
+posted:Posted February 12, 2023
+msg:性價比超高的一家酒店，服務也挺好，公寓面積大，配置齊全。
+----------------------------------------
+name:X‍i‍a‍n‍g‍s‍h‍o‍u‍r‍e‍n‍s‍h‍e‍n‍g‍�‍�
+info:Executive Double Room
+info:Stayed in November 2022
+info:Couples
+info:23 Reviews
+rating:4.7
+posted:Posted November 24, 2022
+msg:酒店位置較好，對面就是石岐佬飯店，酒店一樓停車場每晚有燈光夜市，氣氛不錯👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in March 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted March 3, 2024
+msg:乾淨衞生整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:11 Reviews
+rating:3
+posted:Posted December 19, 2023
+msg:服務：實在一般般
+----------------------------------------
+name:M‍a‍m‍a‍t‍a‍b‍a‍l‍a‍w‍o
+info:Superior Room (2 beds)
+info:Stayed in October 2021
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted October 25, 2021
+msg:隔音最棒了，交通也方便，早飯也好吃，對面就是大海，珠海真的是一個美麗的城市啊，令人心動，想要再來，加油加油
+----------------------------------------
+name:O‍o‍j‍i‍a‍j‍i‍a
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in December 2021
+info:Friends
+info:7 Reviews
+rating:4
+posted:Posted December 27, 2021
+msg:酒店對面就是石崎佬飯店，做的各種鴿子，很美味。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in December 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted January 1, 2023
+msg:就是有點小貴，大園林景觀，四周空曠。環境優美，衞生整潔。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:19 Reviews
+rating:4
+posted:Posted December 26, 2023
+msg:性價比不錯了，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in October 2023
+info:Business travelers
+info:3 Reviews
+rating:3.5
+posted:Posted October 19, 2023
+msg:服務一般！餐飲方便
+----------------------------------------
+name:F‍a‍w‍a‍l‍a‍b‍a‍o‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in July 2022
+info:Other
+info:9 Reviews
+rating:4
+posted:Posted July 8, 2022
+msg:停車挺方便的，就是酒店年代比較久遠了。大堂還是挺好看的，房間就是比較舊的裝飾了，還算乾淨吧，早餐沒吃不評價
+----------------------------------------
+name:Y‍i‍x‍i‍n‍z‍h‍o‍n‍g‍d‍a
+info:Superior Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted February 11, 2024
+msg:酒店乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in July 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 15, 2021
+msg:酒店服務態度很好，入住體驗感很舒服。這次訂房，我先電話諮詢酒店訊息，預訂部的Amy很熱情地介紹房間訊息，給我們建議，同時提醒泳池開放時間，停車費用怎麼解決，早餐還推薦我們去中餐廳喝早茶；辦理入住地效率很高，大堂副理倩瑜服務很棒👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:第二次入住了，位置方便，房間衞生
+----------------------------------------
+name:L‍u‍t‍e‍n‍g‍f‍e‍i
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in February 2024
+info:Family
+info:28 Reviews
+rating:5
+posted:Posted February 23, 2024
+msg:非常適合我
+----------------------------------------
+name:J‍i‍e‍a‍o‍b‍u‍x‍u‍n‍1‍1‍8
+info:Superior Room (2 beds)
+info:Stayed in April 2023
+info:Friends
+info:16 Reviews
+rating:4
+posted:Posted May 2, 2023
+msg:還行房間偏小 設施陳舊 其他還行
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in August 2022
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted August 10, 2022
+msg:酒店很舒服衞生，位置旺中帶靜，走過馬路對面就有當地美食，套房非常適合家人朋友出行。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:42 Reviews
+rating:5
+posted:Posted August 16, 2023
+msg:現價比高，乾淨衞生服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Couples
+info:16 Reviews
+rating:4.2
+posted:Posted February 15, 2024
+msg:服務態度好
+----------------------------------------
+name:K‍u‍a‍n‍g‍y‍e‍z‍h‍i‍y‍e
+info:Superior Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted June 18, 2023
+msg:房間衞生好，周邊交道方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:房間挺好的，旁邊有一個美食街
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:乾淨整潔舒適 服務周到
+----------------------------------------
+name:K‍a‍n‍g‍x‍i‍a‍o‍j‍i‍e‍h‍a
+info:Superior Room (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted October 11, 2023
+msg:很乾凈舒服，下次再來
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in August 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted November 7, 2023
+msg:非常滿意的一次旅行
+----------------------------------------
+name:X‍i‍a‍o‍y‍a‍o‍t‍i‍a‍n‍s‍h‍i‍1‍9‍8‍7
+info:Superior Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:57 Reviews
+rating:5
+posted:Posted November 23, 2023
+msg:各方面都不錯
+----------------------------------------
+name:H‍e‍i‍s‍h‍u‍d‍e‍s‍h‍i‍j‍i‍e
+info:Deluxe Queen Room
+info:Stayed in November 2021
+info:Business travelers
+info:13 Reviews
+rating:4.2
+posted:Posted November 8, 2021
+msg:第一次住，兩個晚上，小1000。個人覺得100分給90分吧，作為一家五星級酒店，房間內的裝飾有點年代感了，不知道為什麼我覺得走廊裏的味道特別重，跟車上皮質味道的一樣，經過有種暈車的感覺。房間也有一點，但是還能接受。早餐屬實是比較一般，沒我特別喜歡吃的，建議可以多一些蒸餃什麼的，但是環境衞生不錯。牙刷用具比較劣質，後面自己外賣買的，浴巾有點味道，建議加強。房間裏面有個很大的桌案可以用來辦公很不錯，窗户可以略微打開透氣給好評（很多酒店是全封死的）。最後，五星級酒店竟然有蚊子🦟……
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:89 Reviews
+rating:3
+posted:Posted February 18, 2023
+msg:洗漱用品差，早餐太一般。服務還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:4 Reviews
+rating:4
+posted:Posted March 4, 2023
+msg:酒店無功無過，算對得起這個價格吧
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in December 2023
+info:Other
+info:2 Reviews
+rating:1
+posted:Posted January 3, 2024
+msg:空調都沒有
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2022
+info:Family
+info:8 Reviews
+rating:4.2
+posted:Posted October 9, 2022
+msg:酒店環境一般，主要有點舊，其他的都可以，畢竟價格擺在這裏
+----------------------------------------
+name:h‍a‍o‍h‍a‍o‍3‍0‍6‍0
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in February 2023
+info:Family
+info:11 Reviews
+rating:3.7
+posted:Posted March 2, 2023
+msg:床太硬，被套像紙一樣硬。其他還好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite - 2-Bedroom, 2-Living Room
+info:Stayed in October 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted December 27, 2023
+msg:下面很多好吃的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 12, 2023
+msg:環境舒適，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted July 7, 2023
+msg:每次中山都去這裏住的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Booked for others
+info:5 Reviews
+rating:5
+posted:Posted October 21, 2023
+msg:乾淨衞生組織
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Diamond Suite
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 18, 2023
+msg:家人都挺滿意的，周邊吃東西也方便
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:52 Reviews
+rating:5
+posted:Posted June 3, 2023
+msg:服務態度好，環境舒適
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted July 25, 2023
+msg:很好，客人很滿意
+----------------------------------------
+name:t‍y‍l‍e‍r‍t‍i‍a‍n
+info:Superior Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted March 6, 2023
+msg:酒店沒啥點評的，中山旅居首選。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in March 2023
+info:Friends
+info:39 Reviews
+rating:5
+posted:Posted March 16, 2023
+msg:地段好，對面石岐佬很不錯。
+----------------------------------------
+name:Y‍o‍u‍y‍o‍u‍t‍a‍l‍a‍o‍y‍e
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in September 2023
+info:Family
+info:9 Reviews
+rating:4
+posted:Posted October 2, 2023
+msg:環境好服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in January 2023
+info:Friends
+info:22 Reviews
+rating:5
+posted:Posted January 30, 2023
+msg:服務熱情，環境優美，值得一住。
+----------------------------------------
+name:A‍m‍o‍m‍o
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted November 23, 2023
+msg:不錯不錯不錯
+----------------------------------------
+name:H‍i‍y‍o‍u‍c‍h‍e‍n‍l‍a‍o‍s‍h‍i
+info:Superior Room (2 beds)
+info:Stayed in May 2023
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted May 5, 2023
+msg:位置很好，性價比很高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:159 Reviews
+rating:5
+posted:Posted August 27, 2023
+msg:酒店新，服務好
+----------------------------------------
+name:z‍w‍f‍0‍9‍1‍2‍9‍7
+info:Superior Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted July 21, 2023
+msg:房間乾淨整潔舒適
+----------------------------------------
+name:B‍e‍i‍z‍h‍u‍o‍n‍i‍k‍a‍n‍g‍q‍u‍l‍v‍x‍i‍n‍g
+info:Superior Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:106 Reviews
+rating:4.5
+posted:Posted March 3, 2022
+msg:每次來中山基本上都住這裏，主要是離我辦事地方近。 距離高鐵北站非常近，打車起步費多一點。要吃地方菜的話，網紅石岐佬就在馬路對面。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 2, 2023
+msg:很不錯啦啦啦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 13, 2023
+msg:比較舒適。衞生不錯。
+----------------------------------------
+name:L‍a‍i‍q‍u‍w‍u‍w‍u
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in August 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted August 27, 2023
+msg:很好的酒店。
+----------------------------------------
+name:K‍a‍r‍e‍n
+info:Executive Double Room
+info:Stayed in May 2022
+info:Friends
+info:32 Reviews
+rating:5
+posted:Posted August 7, 2022
+msg:中山高檔酒店的代表，每次朋友來中山，都安排這裏，服務好，品質保證
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:36 Reviews
+rating:5
+posted:Posted January 24, 2023
+msg:服務很好。中餐廳早茶很方便
+----------------------------------------
+name:R‍o‍b‍i‍n‍ ‍4‍8‍6‍6
+info:Executive Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:10 Reviews
+rating:3
+posted:Posted September 24, 2023
+msg:還是舊啊！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted June 21, 2023
+msg:不錯的一次入住
+----------------------------------------
+name:K‍C‍L‍u‍n
+info:Superior Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted April 12, 2023
+msg:房間清潔，車位充足
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 10, 2023
+msg:酒店套房設施不錯。
+----------------------------------------
+name:m‍e‍i‍m‍e‍i‍1‍2‍2‍5
+info:Deluxe Queen Room
+info:Stayed in May 2023
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted July 16, 2023
+msg:酒店周圍環境好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted June 23, 2023
+msg:酒店乾淨整潔舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in February 2023
+info:Family
+info:13 Reviews
+rating:4
+posted:Posted February 26, 2023
+msg:乾淨衞生，但設施較舊
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in March 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 21, 2022
+msg:因提前到達需要提前入住，前台小樑服務態度非常周到，順利提前安排入住，非常滿意
+----------------------------------------
+name:Y‍a‍n‍a‍o‍m‍e‍n‍g‍t‍i‍a‍n‍s‍h‍i
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in January 2023
+info:Friends
+info:47 Reviews
+rating:4
+posted:Posted February 13, 2023
+msg:很樸素，和圖片有些差別
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in July 2023
+info:Couples
+info:56 Reviews
+rating:4.7
+posted:Posted July 5, 2023
+msg:服務衞生很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 19, 2021
+msg:衞生乾淨，設施也還可以，不過這次去，感覺一次性牙膏比較少，一次就感覺沒，要省着用，第二天早上才有的用
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 16, 2023
+msg:非常好，服務周到
+----------------------------------------
+name:D‍e‍n‍g‍s‍i‍m‍i‍n‍g‍k‍e‍r‍a‍n‍g
+info:Superior Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted March 21, 2023
+msg:舒適便利，環境優雅
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 14, 2023
+msg:乾淨，房間夠大。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 2, 2023
+msg:房間很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in January 2023
+info:Friends
+info:1 Review
+rating:4
+posted:Posted February 15, 2023
+msg:可以，環景乾淨舒適！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Couples
+info:4 Reviews
+rating:3.7
+posted:Posted June 26, 2023
+msg:方便，房間乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in April 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted April 19, 2023
+msg:很棒的入住體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in January 2023
+info:Business travelers
+info:57 Reviews
+rating:5
+posted:Posted January 12, 2023
+msg:真的是來中山第一選擇
+----------------------------------------
+name:N‍a‍n‍N‍a‍t‍e
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in February 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted March 8, 2023
+msg:非常好，住得舒服！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in December 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 25, 2023
+msg:這個是公寓型不是酒店
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in October 2021
+info:Friends
+info:47 Reviews
+rating:3.2
+posted:Posted October 18, 2021
+msg:最不喜歡的是不能開窗通風透氣。
+最方便的是對面有個石岐佬中山菜館，方便吃飯。
+其他中規中矩，對得起價錢。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in November 2021
+info:Booked for others
+info:10 Reviews
+rating:5
+posted:Posted November 17, 2021
+msg:難得的家庭套房，適合4人以上的親友一起入住，前台小樑姐姐熱情接待，點贊👍，下次還會選住金鑽。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Diamond Suite
+info:Stayed in December 2021
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted January 2, 2022
+msg:酒店離中山北比較近，房間硬件比較好，服務也比較到位，現在到中山基本上都是住他家
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in November 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted November 6, 2022
+msg:服務很好呀，環境也很不錯
+----------------------------------------
+name:W‍ ‍h‍a‍o‍h‍a‍o‍x‍i‍a‍n‍s‍h‍e‍n‍g
+info:Executive Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:88 Reviews
+rating:4
+posted:Posted February 19, 2023
+msg:酒店空氣流通不好👎
+----------------------------------------
+name:C‍h‍a‍n‍g‍y‍a‍n‍g‍t‍i‍a‍n‍d‍i‍j‍i‍a‍n
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in July 2021
+info:Family
+info:55 Reviews
+rating:4.7
+posted:Posted July 13, 2021
+msg:這次住的是酒店公寓，還是很舒服的，雖然泳池衹是五點半之後開放，已經滿意了，兩房兩廳適合一家人出行，周邊美食甚多離大信新都滙也不遠，實乃度假好去處。
+----------------------------------------
+name:C‍r‍y‍s‍t‍a‍l‍t‍a‍o
+info:Deluxe Queen Room
+info:Stayed in December 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 4, 2022
+msg:經濟實惠，管理到位，入住體驗舒適，衹是晚上附近的居民住户養狗，半夜有狗叫。
+----------------------------------------
+name:C‍h‍e‍n‍g‍j‍i‍s‍i‍h‍a‍n
+info:Superior Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:64 Reviews
+rating:5
+posted:Posted October 16, 2021
+msg:經常入住該酒店，性價比超高，服務態度很好，酒店管理到位。樓下餐廳出品也十分好。交通便利，打車十分方便，強烈推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2023
+info:Other
+info:7 Reviews
+rating:4
+posted:Posted April 28, 2023
+msg:可選房間方向
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in January 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 10, 2023
+msg:環境不錯，很安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in January 2023
+info:Booked for others
+info:8 Reviews
+rating:4
+posted:Posted April 2, 2023
+msg:好像翻新過還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in September 2021
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted September 18, 2021
+msg:酒店硬件設施不錯，前台服務人員盡職盡責，服務到位，特別是郭小姐，耐心詳細解答我們的問題，宣傳酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 1-Bedroom (Double Bed)
+info:Stayed in October 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted October 15, 2022
+msg:性價比高，環境好服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:45 Reviews
+rating:3.5
+posted:Posted January 13, 2023
+msg:中山非常好的一家酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in December 2021
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted December 19, 2021
+msg:感謝前台樑月娥小姐熱情周到的服務，酒店的其他工作人員服務也非常好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in June 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 22, 2021
+msg:8月21號下午入住時前台黃經理、鄭先生很熱情、很貼心。晚上游泳池救生人員輝哥很負責任，整個金鑽酒店的工作人員都很好，都了中山市我就住金鑽。
+----------------------------------------
+name:S‍e‍l‍e‍k
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in December 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted December 21, 2021
+msg:已經住了很多次了，特別適合多人出差入住，早餐配置簡約，中餐廳美味
+----------------------------------------
+name:s‍o‍u‍l‍o‍n‍e
+info:Superior Double Room
+info:Stayed in August 2021
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted August 22, 2021
+msg:服務很好 周到耐心  疫情管控合格，住着放心，酒店服務貼心，細節做的很棒，連同對中山的映像都好了起來😄
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 14, 2023
+msg:很滿意的房間
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in March 2022
+info:Business travelers
+info:35 Reviews
+rating:5
+posted:Posted March 8, 2022
+msg:還不錯，衹是個人不太喜歡紅木的傢俱風格，服務還行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:5 Reviews
+rating:3.5
+posted:Posted December 12, 2022
+msg:房間算乾淨，設施較舊
+----------------------------------------
+name:y‍o‍u‍n‍g
+info:Diamond Suite
+info:Stayed in August 2022
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted August 27, 2022
+msg:環境不錯，樓下就是石岐佬
+----------------------------------------
+name:H‍u‍a‍j‍i‍e
+info:Superior Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:3 Reviews
+rating:4.7
+posted:Posted March 25, 2023
+msg:非常不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2021
+info:Other
+info:39 Reviews
+rating:3.5
+posted:Posted August 28, 2021
+msg:疫情關係酒店很少人住，早餐都是配給的，對面就是石岐佬，但現在的出品好像沒有以前那麼好吃，中山市的經濟真是很慘。
+----------------------------------------
+name:Y‍a‍n‍b‍u‍c‍h‍o‍u
+info:Superior Double Room
+info:Stayed in July 2021
+info:Couples
+info:11 Reviews
+rating:5
+posted:Posted August 12, 2021
+msg:酒店位置很好，性價比也很高，出差遊玩都是很不錯的選擇，對面有個石岐佬餐廳，是中山當地特別有名的餐館！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted March 9, 2023
+msg:非常不錯啊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2021
+info:Solo travelers
+info:1 Review
+rating:4.2
+posted:Posted July 13, 2021
+msg:前台辦理入住的樑經理陽光熱情、服務很周到，考慮周全，耐心的講解周邊吃喝的地方，感謝樑經理的分享。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted November 22, 2021
+msg:五星級的酒店，就是有些設備比較陳舊了，床墊很有意思，恆温的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted September 23, 2021
+msg:房間空間足夠，酒店位置方便, 房間叫餐方便，最大缺點,浴缸漏水!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in July 2021
+info:Family
+info:9 Reviews
+rating:3.7
+posted:Posted July 26, 2021
+msg:有停車場，泳池開放（疫情關係沒去游泳），裝修有點舊，房間電視機壞的
+----------------------------------------
+name:H‍u‍o‍x‍i‍n‍g
+info:Executive Double Room
+info:Stayed in May 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 19, 2022
+msg:前台樑小姐態度挺好的
+----------------------------------------
+name:Y‍i‍m‍o‍w‍a‍n‍x‍i‍a‍3‍2‍0
+info:Superior Double Room
+info:Stayed in June 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted June 5, 2022
+msg:還不錯。以前去過。
+----------------------------------------
+name:S‍h‍u‍i‍s‍e‍H‍y‍i‍n‍g
+info:Deluxe Queen Room
+info:Stayed in August 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted August 10, 2022
+msg:樓面服務到位。
+----------------------------------------
+name:J‍i‍a‍n‍g‍j‍u‍n‍g‍e‍n‍w‍a‍y
+info:Superior Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:68 Reviews
+rating:5
+posted:Posted July 30, 2022
+msg:挺好的，住多了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in April 2022
+info:Friends
+info:3 Reviews
+rating:2
+posted:Posted April 23, 2022
+msg:空調製冷不太好，很熱
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted June 15, 2022
+msg:下次還會選擇去住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in October 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 22, 2021
+msg:前台很貼心，服務也很不錯，房間乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite - 3-Bedroom, 2-Living Room
+info:Stayed in May 2021
+info:Other
+info:7 Reviews
+rating:3.2
+posted:Posted June 16, 2021
+msg:我們住的是3房的公寓，環境比較陳舊，但是很便宜，總體來説還好吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Friends
+info:Stayed in October 2021
+info:34 Reviews
+posted:Posted February 17, 2022
+msg:房間很大，對面就有好吃的飯店，不錯。
+----------------------------------------
+rating:4
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in July 2021
+info:Friends
+info:5 Reviews
+rating:4.5
+posted:Posted July 20, 2021
+msg:前台接待服務員熱情，一個叫麗娥的服務員專業素質高
+----------------------------------------
+name:F‍R‍，‍w‍o‍M‍K‍q‍u‍a‍n
+info:Superior Double Room
+info:Stayed in May 2022
+info:Business travelers
+info:99 Reviews
+rating:5
+posted:Posted May 27, 2022
+msg:好，衞生乾淨！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in June 2022
+info:Friends
+info:18 Reviews
+rating:5
+posted:Posted September 7, 2022
+msg:乾净，位置好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in August 2022
+rating:4
+info:Business travelers
+info:9 Reviews
+posted:Posted October 22, 2022
+msg:房間很大。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2022
+info:Business travelers
+info:2 Reviews
+rating:4.2
+posted:Posted January 4, 2022
+msg:雖然有點老舊但還算乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in July 2021
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted July 16, 2021
+msg:前台樑小姐熱情可人，大堂的值班哥哥服務熱情
+----------------------------------------
+name:b‍b‍b‍b‍p
+info:Superior Room (2 beds)
+info:Stayed in October 2021
+info:Booked for others
+info:31 Reviews
+rating:5
+posted:Posted November 28, 2021
+msg:性價比高，旁邊是鐵路也不會太吵
+----------------------------------------
+name:L‍i‍a‍n‍d‍a‍x‍i‍a
+info:Superior Double Room
+info:Stayed in June 2022
+info:Friends
+info:27 Reviews
+rating:4
+posted:Posted June 6, 2022
+msg:很不錯的體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:78 Reviews
+rating:5
+posted:Posted June 11, 2021
+msg:不需要理由的喜歡，雖然房品舊了點，但擋不住喜歡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:12 Reviews
+rating:4
+posted:Posted December 13, 2021
+msg:有一股味道，發黴的味道
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 26, 2021
+msg:總體感覺不錯，適合出差居住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2021
+info:Couples
+info:39 Reviews
+rating:5
+posted:Posted October 15, 2021
+msg:老牌豪華酒店，環境特別好，房間乾淨整潔，住的非常舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted June 17, 2022
+msg:不錯很貼心
+----------------------------------------
+name:j‍e‍s‍s‍i‍e‍6‍2‍1
+info:Superior Room (2 beds)
+info:Stayed in May 2021
+info:Couples
+info:1 Review
+rating:5
+posted:Posted July 22, 2021
+msg:印象不錯，下次還選這裏，辦事方便，停車也方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in June 2021
+info:Friends
+info:15 Reviews
+rating:5
+posted:Posted June 22, 2021
+msg:好評，前台熱情，服務周到，環境好，安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in June 2022
+info:Business travelers
+info:7 Reviews
+rating:3.5
+posted:Posted June 10, 2022
+msg:早餐不好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in October 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 19, 2021
+msg:交通方便，對面是石岐佬。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room (2 beds)
+info:Stayed in July 2021
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted July 15, 2021
+msg:謝謝前台樑小姐的熱情服務！非常不錯
+----------------------------------------
+name:K‍a‍g‍e‍m‍a‍o‍x‍i‍a‍n
+info:Superior Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:14 Reviews
+rating:4.7
+posted:Posted August 1, 2021
+msg:服務不錯，位置還可以，房間可以。
+----------------------------------------
+name:L‍a‍o‍g‍e
+info:Superior Room (2 beds)
+info:Stayed in October 2021
+info:Family
+info:7 Reviews
+rating:4.5
+posted:Posted October 9, 2021
+msg:總體來説不錯，下次還會來
+----------------------------------------
+name:s‍i‍m‍o‍n‍s‍o
+info:Suite - 3-Bedroom, 2-Living Room
+info:Stayed in July 2021
+info:Friends
+info:14 Reviews
+rating:5
+posted:Posted July 18, 2021
+msg:衞生乾淨，服務好，市中心，交通方便
+----------------------------------------
+name:S‍h‍a‍h‍e‍t‍e‍y‍u‍w‍e‍n‍s‍h‍a‍n
+info:Superior Double Room
+info:Friends
+info:Stayed in October 2021
+info:1 Review
+rating:4.5
+posted:Posted October 3, 2021
+msg:前台接待熱心細緻，周到！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in January 2022
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted January 12, 2022
+msg:距離中山北站很近
+----------------------------------------
+name:C‍a‍n‍g‍h‍a‍i‍y‍i‍s‍u‍t‍o‍n‍g‍c‍h‍u‍a‍n‍d‍u
+info:Superior Room (2 beds)
+info:Stayed in August 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 10, 2021
+msg:服務規範、熱情周到、舒適衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2021
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted August 23, 2021
+msg:🚗 交通：
+🧹衞生：
+🍃環境：
+🔔服務：
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted December 24, 2021
+msg:商務出行很不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2021
+info:Friends
+info:18 Reviews
+rating:5
+posted:Posted June 13, 2021
+msg:酒店豪華大氣上檔次環境真的很好還會光臨
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in March 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 24, 2021
+msg:交通方便衞生好環境好服務好滿意度五分推薦呀
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in October 2021
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted March 23, 2022
+msg:位置好，服務熱情周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2021
+info:15 Reviews
+info:Business travelers
+posted:Posted October 5, 2021
+msg:裏面好停車，早餐正常
+----------------------------------------
+rating:3.5
+name:D‍a‍o‍l‍a‍s‍i‍m‍e‍n‍g‍h‍a‍o‍r‍a‍n
+info:Superior Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 1, 2021
+msg:前台樑女士服務很熱情周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 2, 2022
+msg:比較可以了
+----------------------------------------
+name:X‍i‍a‍o‍t‍a‍n‍g‍y‍u‍a‍n‍a‍o‍t‍e‍m‍a‍n
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in October 2021
+info:Family
+info:14 Reviews
+rating:3.5
+posted:Posted October 14, 2021
+msg:衛生一般，蚊子多
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in November 2021
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted November 26, 2021
+msg:感覺挺不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted November 22, 2021
+msg:感覺很滿意。
+----------------------------------------
+name:E‍o‍n‍0‍1‍7
+info:Superior Room (2 beds)
+info:Stayed in October 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted November 4, 2021
+msg:環境舒適很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:150 Reviews
+rating:5
+posted:Posted November 2, 2021
+msg:挺方便和舒服
+----------------------------------------
+name:A‍n‍e‍i‍g‍e‍w‍e‍i‍l‍i
+info:Superior Room (2 beds)
+info:Stayed in March 2021
+info:Friends
+info:3 Reviews
+rating:4
+posted:Posted August 19, 2021
+msg:酒店管理不錯，附近吃飯方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:57 Reviews
+rating:3.7
+posted:Posted July 18, 2021
+msg:太舊了，一直沒裝修
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment - 2-Bedroom, 2-Living Room (3 beds)
+info:Stayed in August 2021
+info:Business travelers
+info:1 Review
+rating:4
+posted:Posted August 24, 2021
+msg:一般般一般般
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2021
+info:Business travelers
+info:4 Reviews
+rating:3
+posted:Posted October 2, 2021
+msg:一般般的設施和服務
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2021
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted June 30, 2021
+msg:前台接待很好看。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:2 Reviews
+rating:1.5
+posted:Posted August 8, 2021
+msg:空調不製冷
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2021
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted September 17, 2021
+msg:比較舒適停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2021
+info:Other
+info:22 Reviews
+rating:5
+posted:Posted July 4, 2021
+msg:還可以，不錯安靜
+----------------------------------------
+name:K‍A‍S‍B‍A
+info:Superior Room (2 beds)
+info:Stayed in January 2021
+info:Business travelers
+info:4 Reviews
+rating:3.7
+posted:Posted June 27, 2021
+msg:老酒店，地方方便
+----------------------------------------
+name:L‍i‍u‍y‍i‍n‍g
+info:Deluxe Queen Room
+info:Stayed in May 2021
+info:Friends
+info:34 Reviews
+rating:5
+posted:Posted June 19, 2021
+msg:停車方便。
+----------------------------------------

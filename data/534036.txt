@@ -1,0 +1,335 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in April 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted April 29, 2024
+msg:Except that it is far away, the environment is really good. I forgot to take pictures, but the tea and fruit provided during check-in were not hastily provided. It was really nice.
+----------------------------------------
+name:X‍i‍n‍g‍z‍h‍e‍W‍G
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in May 2024
+info:Family
+info:24 Reviews
+rating:5
+posted:Posted May 29, 2024
+msg:Elegant environment, first-class service.
+----------------------------------------
+name:W‍a‍n‍g‍b‍a‍n‍x‍i‍a‍n
+info:Double Room (VIP Villa)
+info:Stayed in February 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted May 7, 2024
+msg:The environment is really great. The natural oxygen bar is spacious and bright. It is worth a second visit.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Double Room (VIP Villa)
+info:Stayed in January 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 23, 2024
+msg:The room service is very good, with various fruit teas given away every day and candles to keep warm. There was a lot of luggage in the room, so a small table was specially moved there. Very attentive and considerate!
+----------------------------------------
+name:H‍U‍ ‍s‍h‍e‍n‍g
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in January 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted February 8, 2024
+msg:Very satisfied. Please increase the management of security.
+The guards are not rigorous enough and need to strengthen education and improve service concepts.
+Does not match the environment
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in October 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:The service is very good, the sanitation is very clean, and the environment is quiet. Manager Wang of the hotel is proactive and worth staying here again
+----------------------------------------
+name:d‍a‍v‍i‍d‍9‍6‍3‍8
+info:Double Room (VIP Villa)
+info:Stayed in September 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted October 7, 2023
+msg:It's a very nice hotel, but the location is a little bit out of the way. The environment is first-class, the rooms are pretty good, and the swimming pool is quite big, a standard kind of swimming pool, very nice.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:VIP Villa Deluxe Suite
+info:Stayed in September 2023
+info:Business travelers
+info:8 Reviews
+rating:2
+posted:Posted October 23, 2023
+msg:The environment is good, but it is too old and there are bugs like cockroaches
+----------------------------------------
+name:7‍3‍3
+info:VIP Villa Deluxe Suite
+info:Stayed in June 2023
+info:Friends
+info:17 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:The last time I came was a family reunion, this time I came here for a friend reunion. The environment and service are as good as ever. I especially want to praise the young man named Li Jinxu in the recreation center. Seeing that we wanted to go around in such a hot day, we simply used the battery car to drive us around. circle, and introduced us along the way, very service-minded, like it! The swimming pool is very big and you can swim in it, but it is only open at night, the light is not enough, and the lifeguards are always playing with their mobile phones. If someone has an accident, they will definitely not be rescued in time
+----------------------------------------
+name:L‍i‍s‍s‍e‍l
+info:Double Room (VIP Villa)
+info:Stayed in May 2023
+info:Business travelers
+info:3 Reviews
+rating:3
+posted:Posted May 10, 2023
+msg:The front desk of the hotel is very unprofessional, claiming to be a hotel system problem. The drinks in the lobby bar are just decorations, and the waiter said they are not for sale.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in January 2024
+info:Solo travelers
+info:3 Reviews
+rating:4.7
+posted:Posted February 1, 2024
+msg:The service is warm and thoughtful.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in February 2024
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted February 12, 2024
+msg:Very good, beautiful environment
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Double Room (VIP Villa)
+info:Stayed in March 2024
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted April 4, 2024
+msg:Good service, good hygiene
+----------------------------------------
+name:S‍u‍n‍n‍y‍ ‍Z‍e‍n‍g
+info:VIP Villa Deluxe Suite
+info:Stayed in January 2024
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted February 1, 2024
+msg:Not bad, I like the quietness👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Double Room (VIP Villa)
+info:Stayed in May 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted July 12, 2023
+msg:The environment is good, polite and fresh, and the service is very good
+----------------------------------------
+name:L‍o‍n‍g‍s‍h‍u‍a‍i‍z‍h‍i
+info:Double Room (VIP Villa)
+info:Stayed in May 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted May 21, 2023
+msg:The service is very good, and the others will make persistent efforts
+----------------------------------------
+name:L‍e‍n‍g‍f‍e‍n‍g‍3‍6‍9
+info:Double Room (VIP Villa)
+info:Stayed in April 2023
+info:Business travelers
+info:5 Reviews
+rating:1
+posted:Posted April 5, 2023
+msg:The overall feeling is that the price and service are much worse!
+----------------------------------------
+name:P‍a‍n‍g‍z‍i
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in February 2022
+info:Family
+info:93 Reviews
+rating:5
+posted:Posted February 3, 2022
+msg:On the first or second day of the Chinese New Year in the Year of the Tiger in 2022, a unicorn is born. I think back then, the gold and iron horses swallowed thousands of miles like a tiger...
+
+Staying in Qilin Villa, you will have quite a private national-level 5A scenic spot and enjoy the "Summer Palace" royal garden-style greening...
+
+A health resort, with small houses and large land, low buildings and wide sky, green mountains and green waters, smoked willows and painted bridges, wind curtains and emerald curtains, climbing high and looking far, mountains and mountains, beautiful mountains and rivers, lakes and mountains, just like a picture of "A Thousand Miles of Rivers and Mountains" right in front of you ...
+
+Unlike other five-star high-end hotels in the city, the transportation is not convenient, the decoration is not novel, the rooms are a bit old, the dining is simple, the business is not dominant, and the entertainment facilities are scarce...
+
+It is better than the natural landscape, which is a bit "rime fog, sky and clouds, mountains and water, white up and down. The shadows on the lake are just a trace of the long embankment, a small pavilion in the center of the lake, a mustard with Yu Zhou, and two or three grains of people in the boat." travel feeling...
+
+The win lies in customer service. Except for the security guards who seem to be a bit strict in management due to the epidemic situation, everyone is enthusiastic in their service, showing a national level of hospitality. There are welcome fruit and health tea, and there are rich snacks for children...
+
+We need to thank Ms. An, the room service, and other colleagues who have taken the trouble to provide various items, move the bed, help turn the bed down, etc. After noon, Ms. Chen in the Chinese restaurant on the first floor insists on patient, meticulous, attentive and courteous service, which is especially important here. The manager Wang Jiren is commended. From helping check-in at the front desk to carrying luggage into the room, he accompanied the whole process and carefully introduced the various facilities and room types of the villa. He provided 24-hour check-in butler service, and at the end saw him off in the car and carried luggage. The ability and management level of excellent practitioners👍👍
+
+Life is like a journey against the road, and I am also a pedestrian.
+
+When will I go back and be an idler. For a bed, a pot of tea, and a stream of clouds.
+
+Shenzhen, the best here!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in May 2023
+info:Couples
+info:56 Reviews
+rating:4.2
+posted:Posted June 28, 2023
+msg:Nice environment, general service
+----------------------------------------
+name:S‍r‍.‍M‍a‍r‍k
+info:Double Room (VIP Villa)
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 2, 2023
+msg:First-class environment, fresh air.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in February 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted February 5, 2022
+msg:I like the quietness of the hotel and will visit often when I have time!
+----------------------------------------
+name:l‍o‍v‍e‍p‍e‍a‍c‍e‍w‍o‍r‍l‍d
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in September 2021
+info:Family
+info:90 Reviews
+rating:4.7
+posted:Posted September 10, 2021
+msg:Away from the busy city, few tourists, Xanadu Hotel, beautiful environment, large green area, beautiful Swan Lake, suitable for emptying, good breakfast, good service, complimentary fruit and health tea, room is slightly smaller, and the single bed is only 1.2 meters
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Double Room (VIP Villa)
+info:Stayed in April 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted April 25, 2023
+msg:Good service, clean
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in October 2021
+info:Family
+info:2 Reviews
+rating:4.2
+posted:Posted October 5, 2021
+msg:The breakfast variety is too few, and the dinner in the hotel tastes very good... The ingredients are not fresh enough, and the taste of the chef is also very wrong. I am sorry for the five-star quality. The water in the swimming pool is still clean and satisfying, but the spa is gone... This five-star package is not good. The service attitude of the hotel is very good, and the lake next to the hotel is good. But this is not worth the price
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in August 2021
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted August 8, 2021
+msg:The hotel environment is really good, the inside is big and the air is good. It's just that many facilities were not open during the epidemic. Meals are relatively simple, but there are fewer people and not a lot of service. It can be seen that the soft power of the hotel is still there.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in July 2021
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted August 6, 2021
+msg:The scenery is so beautiful, all kinds of birds.
+----------------------------------------
+name:Y‍u‍W‍i‍l‍l‍i‍a‍m
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in December 2021
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted March 1, 2022
+msg:位置很好，鬧市中很安靜，有山有水，空氣質量指數非常好！裏面的休閑花園很大。睡着很舒服很開心很放鬆。前台服務非常到位。
+----------------------------------------
+name:Y‍a‍n‍g‍g‍u‍a‍n‍g‍c‍a‍n‍l‍a‍n‍d‍e‍q‍i‍n‍g‍c‍h‍e‍n
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in October 2021
+info:Business travelers
+info:1 Review
+rating:3
+posted:Posted October 30, 2021
+msg:已經入住了一天，就因為行程卡顯示到過北京市，保安不讓進。所有核酸結果都提供，前台也辦理完了入住，但是保安就是不讓進，服。
+----------------------------------------
+name:m‍o‍d‍a‍8
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in August 2021
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted December 20, 2021
+msg:服務人員態度印象很深刻，環境清幽，餐廳口味也很獨到，整個園區很大，特別適合鬧中取靜和放鬆心情，很值得再次體驗！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Double Room (VIP Villa)
+info:Stayed in May 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted August 10, 2023
+msg:住的很愉快
+----------------------------------------
+name:T‍i‍a‍o‍d‍e‍n‍g‍z‍o‍u‍m‍a
+info:Double Room (VIP Villa)
+info:Stayed in August 2021
+info:Solo travelers
+info:54 Reviews
+rating:5
+posted:Posted October 4, 2021
+msg:酒店地理環境優越，位於深圳動物園邊上，環境優美，建築外觀大氣，房間乾淨衞生，工作人員服務態度熱情，十分推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Double Room (VIP Villa)
+info:Stayed in April 2023
+info:Booked for others
+info:10 Reviews
+rating:5
+posted:Posted May 17, 2023
+msg:服務特別好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 27, 2023
+msg:很滿意！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds) (Vip Building)
+info:Stayed in December 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted January 3, 2022
+msg:配套完善 環境優美
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Double Room (VIP Villa)
+info:Stayed in December 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 1, 2022
+msg:棒棒噠，很棒
+----------------------------------------

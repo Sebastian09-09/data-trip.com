@@ -1,0 +1,446 @@
+name:d‍e‍r‍k‍z‍h‍a‍n‍g
+info:Deluxe Single Room
+info:Stayed in July 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted July 15, 2023
+msg:Yes, the environment is very good, but it’s a pity that I don’t have time to run around nearby
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in March 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted May 11, 2023
+msg:Very satisfied. The hotel is very good in terms of design, decoration and service. Five-star praise.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in August 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted September 2, 2022
+msg:It is strongly recommended to go on a cloudy and rainy day, get off the bus and be pleasantly surprised, hold an umbrella and walk around the lake, take pictures, especially feel, the transportation is convenient, the greening environment facilities are great, it is worth recommending👍👍
+
+With day and night videos
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted August 28, 2022
+msg:good environment! In addition to taking a taxi to go out is not very convenient!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in June 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted June 4, 2022
+msg:Arrived late, get up early to see the surrounding environment is good
+----------------------------------------
+name:j‍a‍c‍k
+info:Deluxe Standard Room
+info:Stayed in August 2022
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted August 19, 2022
+msg:The breakfast was good 👍 not luxurious but rich.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in February 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 11, 2022
+msg:The hotel has a beautiful environment and room facilities and services are very good
+----------------------------------------
+name:L‍i‍s‍a
+info:Deluxe Standard Room
+info:Stayed in October 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted October 22, 2021
+msg:Except the decoration is not very fashionable and the ventilation system is not very good, it is already a very good hotel in this small county, especially the lake view on the side is very good! The TV is a bit old, the bedding is good, and the hygiene is very good
+----------------------------------------
+name:A‍i‍b‍o‍0‍5‍0‍9
+info:Deluxe Standard Room
+info:Stayed in July 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 31, 2021
+msg:Very good hotel, I have stayed many times, the decoration can be regarded as the highest-end hotel in the county, the only drawback is that the breakfast is relatively average, but it is better than nothing
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in May 2021
+info:Business travelers
+info:24 Reviews
+rating:4
+posted:Posted June 12, 2021
+msg:There is a big gap between the overall and the five-star. The window was leaking.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in May 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted May 18, 2024
+msg:很滿意的入住體驗，酒店乾淨寬敞明亮，周邊環境很好，前台小吳服務熱情，辦理入住很快，停車方便，非常滿意，下次還會再來入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in June 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted June 6, 2024
+msg:房間寬敞明亮，前台小徐服務超熱情，解答問題耐心周到，給予五星好評。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in April 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted April 26, 2024
+msg:客房寬敞舒適，乾淨整潔，退房後遺留手機充電線，前台及時聯繫我，並幫我寄回，非常棒的入住體驗。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in March 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 2, 2024
+msg:非常滿意，工作人員都很客氣。房間隔音好，很安靜。外面有很大的一個湖，早起走一圈太舒服了，下次有機會還要去
+----------------------------------------
+name:M‍0‍2‍2‍3‍1‍6‍_‍*‍*‍*‍*
+info:Deluxe Standard Room
+info:Stayed in April 2024
+info:Business travelers
+info:36 Reviews
+rating:4.2
+posted:Posted June 1, 2024
+msg:離出差辦事的地方比較近，住過兩三次，在當地算是環境不錯的酒店，不過周邊不方便，服務和衞生尚可，如果是帶孩子或者旅遊不建議。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2023
+info:Business travelers
+info:9 Reviews
+rating:4.2
+posted:Posted August 25, 2023
+msg:環境很不錯，網上在碩項湖前的大草坪逛了逛，發現一衹超大的野生刺蝟。
+浴室的花灑漏水，作為5星酒店確實不應該。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in May 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 2, 2024
+msg:酒店前台服務非常棒[強][強]！前台徐女士帶我看了兩棟樓不一樣的風格房間！熱情介紹兩邊房型特點，都挺喜歡感覺房間很大很好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 10, 2024
+msg:前台小姐姐的微笑讓我感到非常温暖，她們的服務態度也非常好。我們入住期間遇到了一些小問題，前台小唐耐心地幫助我解決。
+----------------------------------------
+name:X‍i‍a‍o‍h‍u‍a‍n‍g‍r‍e‍n‍�‍�‍（‍j‍i‍a‍n‍z‍h‍o‍n‍g‍）
+info:Deluxe Standard Room
+info:Stayed in April 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:房間內很乾凈，內面積很大，物超所值，前台服務熱情，周邊配套設施齊全，吃的地方很多，商務親子入住不錯的選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in February 2024
+info:Family
+info:18 Reviews
+rating:4
+posted:Posted March 2, 2024
+msg:酒店衞生、環境等都很好，衹是總枱服務員的態度比較冷淡，服務意識不強，有點衙門作風，這個亟待改進，和現在的行業服務要求，狀況等相距甚遠！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 4, 2024
+msg:很滿意的入住體驗，大廳很大，環境很好，前台艷姐姐服務非常棒，辦理入住快，熱情周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted August 13, 2023
+msg:房間比較滿意，我愛灌南
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in February 2024
+info:Business travelers
+info:5 Reviews
+rating:4
+posted:Posted March 1, 2024
+msg:大堂富麗堂皇，房間裏的窗户有些小，早晨7點半被阿姨敲門聲音吵醒，説是退房了來查房。
+----------------------------------------
+name:Z‍h‍a‍o‍g‍o‍n‍g‍z‍i‍z‍a‍i‍l‍u‍s‍h‍a‍n‍g
+info:Deluxe Single Room
+info:Stayed in February 2024
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted February 11, 2024
+msg:總體服務很不錯，房間又大，因為過年，我們8點多去點菜也還是熱情服務的，很棒
+----------------------------------------
+name:x‍u‍p‍e‍i‍b‍a‍i
+info:Deluxe Single Room
+info:Stayed in September 2023
+info:Solo travelers
+info:4 Reviews
+rating:4.5
+posted:Posted October 27, 2023
+msg:走遍環境蠻好，注意儘量不要最高樓層，或者建議先去房間看看，因為有的房間聽得到屋頂空調噪音，而且聲音有點大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 3, 2024
+msg:環境：很好
+服務：滿意
+設施：挺全面
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 31, 2023
+msg:每次回去都會選擇這裏，當地環境最好的一家酒店！如果針對忠實住户多點優惠就更nice
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 27, 2024
+msg:環境優美，早餐不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in April 2024
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted April 22, 2024
+msg:灌南最好的酒店
+----------------------------------------
+name:S‍h‍a‍n‍g‍h‍a‍i‍-‍y‍a‍n‍g‍g‍u‍a‍n‍g
+info:Deluxe Standard Room
+info:Stayed in February 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted April 27, 2024
+msg:服務很好，環境很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in June 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted June 25, 2023
+msg:各方面都很不錯，下次回老家將會選擇繼續住
+----------------------------------------
+name:Z‍h‍u‍m‍e‍n‍g‍k‍u‍a‍n‍g‍r‍e‍n
+info:Deluxe Standard Room
+info:Stayed in July 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted July 12, 2023
+msg:設施新，乾淨衞生，檔次當地最高。
+----------------------------------------
+name:j‍i‍s‍h‍u
+info:Deluxe Single Room
+info:Stayed in January 2023
+info:Other
+info:7 Reviews
+rating:4.7
+posted:Posted January 23, 2023
+msg:建築沒有問題，衞生還需要加強，拖鞋質量要提升，要注意細節管理
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in December 2023
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted December 3, 2023
+msg:乾淨整潔，設施齊全
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in January 2024
+info:Business travelers
+info:8 Reviews
+rating:3
+posted:Posted April 15, 2024
+msg:中規中矩的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in January 2024
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted March 19, 2024
+msg:很好很好很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in January 2023
+info:Business travelers
+info:17 Reviews
+rating:2.5
+posted:Posted January 23, 2023
+msg:凍**了，安排的房間很偏，服務也不行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in January 2023
+info:Other
+info:1 Review
+rating:2.7
+posted:Posted January 8, 2023
+msg:衞生太差，看電視，和手機充好電都要錢
+----------------------------------------
+name:H‍u‍s‍h‍i‍j‍u‍n
+info:Deluxe Standard Room
+info:Stayed in May 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted May 26, 2023
+msg:環境很好，服務一般
+----------------------------------------
+name:Y‍a‍s‍u
+info:Deluxe Single Room
+info:Stayed in June 2023
+info:Business travelers
+info:42 Reviews
+rating:3.5
+posted:Posted August 27, 2023
+msg:餐飲又貴又差。
+----------------------------------------
+name:B‍i‍e‍d‍o‍n‍g‍w‍o‍d‍e‍n‍a‍i‍c‍h‍a
+info:Deluxe Standard Room
+info:Stayed in April 2023
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted May 26, 2023
+msg:很豪華，環境很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in January 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 31, 2023
+msg:房間寬大，環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in May 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 12, 2023
+msg:環境舒適。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 26, 2023
+msg:住的都挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in June 2022
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted June 29, 2022
+msg:非常不錯！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in January 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 24, 2022
+msg:非常滿意，一個字：好
+----------------------------------------
+name:S‍h‍a‍w‍a‍n‍e‍d‍e‍b‍o‍j‍i‍w‍e‍n‍c‍h‍e‍n‍g‍g‍o‍n‍g‍z‍h‍u
+info:Deluxe Single Room
+info:Stayed in June 2021
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted August 10, 2021
+msg:灌南最好的酒店了，房間很大，性價比很高
+----------------------------------------
+name:Y‍i‍l‍u‍o‍y‍i‍l‍u‍o‍y‍i‍n‍g‍h‍u‍h‍a‍i
+info:Deluxe Single Room
+info:Stayed in January 2022
+info:Couples
+info:112 Reviews
+rating:5
+posted:Posted February 5, 2022
+msg:非常棒安靜
+----------------------------------------
+name:s‍h‍i‍x‍i‍n‍g‍z‍i
+info:Deluxe Single Room
+info:Stayed in July 2021
+info:Couples
+info:9 Reviews
+rating:5
+posted:Posted July 28, 2021
+msg:環境好 服務周到
+----------------------------------------

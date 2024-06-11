@@ -1,0 +1,81 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 27, 2024
+msg:房間設施配備非常齊全，酒店周圍環境非常愜意，晚上睡覺很安靜，休閑度假的好地方，周圍可以爬爬山，帶孩子呼吸一下新鮮空氣，還有適合孩子遊玩的樂園，酒店服務人員熱情好客，下次一定還來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted April 16, 2024
+msg:房間很好 很乾凈  給免費升級了房間，從窗户向外看去風景很好，夏天風景應該會更好，夏天的時候一定會再來玩的，工作人員都很貼心，能滿足的基本都能滿足，服務很到位，非常喜歡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in March 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted March 15, 2024
+msg:去的時候怕位置不好找也不好停車 提前打酒店電話詢問 前台的小姐姐很耐心的跟我描述 酒店就在馬路邊上 很好找 樓下有個很大的停車場 完全不用擔心位置不好找和停車的問題 而且還是免費的 我們住的房間是南向 採光很好大落地窗 很暖和 房間打掃的也很乾凈 茶水 咖啡也都有 而且需要什麼東西 酒店的人員直接給送到房間 
+自助餐也很棒 這個季節居然還有小龍蝦 水果也很新鮮
+還有很多的蘆南特色菜 據服務員説 菜都是自己種植的
+純天然無公害 早上不想下樓吃飯 服務員會把旱餐送到
+房間裏 服務沒得説真的是 yyds啊 總之 真的很暖心 下次跟朋友一起過來這邊 還會選擇這家酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Cozy Room (Double bed)
+info:Stayed in March 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted March 10, 2024
+msg:房間很寬敞 明亮 無異味 我覺得酒店房間裏有沒有味道我還是很看重的 這的房間挺好 也沒別的味道 這裏的人也很好 服務態度啥的都很好 前台小姐姐也很熱情 一進來都感到很親切 景區也很不錯 很漂亮
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in February 2024
+info:Other
+rating:5
+posted:Posted February 15, 2024
+msg:酒店很大也很漂亮，位置有點偏，駕車來比較好，我們來的時候打車，回去就打不到車了，衹能坐公交出去😅酒店服務也很好，有求必應。旁邊就是滑雪場，走幾步就能到;過來過年的，晚上有煙花秀和篝火晚會，白天還有踩高蹺表演，非常棒！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Cozy Room (Double bed)
+info:Stayed in March 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted March 9, 2024
+msg:第一次入住該酒店，位置背靠大山，空氣很好。酒店的衞生很不錯，床很舒服，服務員很熱情，值得推薦，下回還會繼續入住。
+----------------------------------------
+name:H‍o‍n‍g‍m‍e‍i‍q‍i‍a‍n‍x‍u‍e‍@
+info:Superior Room (2 beds)
+info:Stayed in March 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted March 14, 2024
+msg:一進門小姐姐服務就很熱情，房間衞生乾淨，空氣好，在房間就能看到山景，免費的停車場很大，非常滿意的一次旅行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Family
+rating:5
+posted:Posted May 6, 2024
+msg:又解鎖一家新店，根據評價選擇了這家，連吃帶喝都非常滿意，非常不錯店裡很多設計我們都一致認為很棒，體驗感非常不錯，大家一定要來親自體驗一下！
+----------------------------------------
+name:L‍a‍n‍s‍e‍y‍u‍a‍n‍q‍u‍a‍n
+info:Superior Double Room
+info:Stayed in March 2024
+info:Couples
+info:47 Reviews
+rating:3.7
+posted:Posted March 22, 2024
+msg:投影無法投屏對旅行體驗有很大影響，投影幕布硬件準備也不到位。早餐很勉強種類很少味道一般。主管和工作人員的女士們比較熱情。期待將來有所改善。
+----------------------------------------

@@ -1,0 +1,5144 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:I like this hotel because there is a space tent and a ball pit to keep me company
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in November 2023
+info:Couples
+info:1 Review
+rating:4.7
+posted:Posted November 13, 2023
+msg:The staffs are friendly. We stayed here 5 nights. We cannot speak Chinese, however that is not a problem here. The staffs are very glad to help us to call a taxi and also recommend us to visit old town and many place.
+----------------------------------------
+name:B‍E‍R‍N‍I‍E‍e
+info:Deluxe Suite (King bed)
+info:Stayed in April 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted April 17, 2023
+msg:big spacious and value for money
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 11, 2024
+msg:The hotel lobby has a good environment, the front desk staff is enthusiastic, and the lobby assistant manager Liu Jia patiently answers guests' questions. It is great that he considers the guests very much. I will continue to choose Xin Yantai Hotel to stay in the future.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in April 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted May 7, 2024
+msg:Haikou Xinyantai Hotel has many unique features, high cost performance and good experience.
+
+First, the geographical location is good, located at the intersection of Haihe River. The sea view room you book can see the sea and river view, with a wide field of vision and a comfortable mood.
+Second, the room is large, sanitary and comfortable, which is the style I like.
+Third, the lobby is magnificent, and you can tell at a glance that the construction standards were very high in the past.
+
+In addition, it is close to the Hainan University Night Market. You can experience the night market in the middle of the main road for a starting fee, which is a famous local feature in Haikou.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in March 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted March 26, 2024
+msg:The family room is very useful, facing the river and has a beautiful view. The price of the hotel is reasonable and the service is very prompt and attentive. The location is also good. Breakfast was particularly good. I will stay here again next time I come.
+Suggestion: It would be better if the softness of the bedding could be improved to another level.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in March 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted March 31, 2024
+msg:The beef offal for breakfast at the hotel is delicious! The breakfast is quite rich!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:19 Reviews
+rating:5
+posted:Posted May 9, 2024
+msg:The room is clean, the service attitude is very good, the room items and facilities are complete, and it is close to fun places in the city. The breakfast variety is very rich, the coffee is also very delicious, the service staff is very proactive and made coffee for us, which is very happy.
+----------------------------------------
+name:A‍l‍a‍l‍i‍y‍o‍u
+info:Deluxe Suite (King bed)
+info:Stayed in February 2024
+info:Solo travelers
+info:6 Reviews
+rating:4.7
+posted:Posted February 27, 2024
+msg:The price/performance ratio is still very high, but the environment is a bit old, overall good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in February 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted March 20, 2024
+msg:Hainan Xinyan Tai Hotel, the service is excellent, enthusiastic, efficient, and basically responsive to all requests. The lobby is very clean and cost-effective. There is a river at the door and you can see the sea. It is very suitable for walking at night. I also forgot my clothes at the hotel and helped to keep them. I extended my stay on my return trip. Thumbs up👍🏻
+----------------------------------------
+name:L‍o‍l‍a‍b‍a
+info:Deluxe Suite (King bed)
+info:Stayed in February 2024
+info:Family
+info:13 Reviews
+rating:4.7
+posted:Posted February 12, 2024
+msg:Sea view king bed suite, the view is very good, the bed is very comfortable. The hotel is generally good, but the facilities are a bit outdated. Overall recommended, the price/performance ratio is perfect during the Spring Festival.
+----------------------------------------
+name:H‍i‍y‍u‍k‍u‍a‍i
+info:Guestroom (2 beds)
+info:Stayed in November 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted December 3, 2023
+msg:The room is clean and has a river view. The environment is good and the hotel lobby is elegant. The hotel has five-star reviews for its service, friendly attitude, smiling face, and professional skills. It is worth staying.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 1, 2023
+msg:The front desk staff Chen Xinxin and Tang Lu were enthusiastic and thoughtful, and took the initiative to help me solve difficult problems so that I could check in quickly. The lobby manager Lin Liuxiang enthusiastically guided me to the elevator and introduced the hotel's service items. I really experienced the "home away from home" Yantai service!
+----------------------------------------
+name:Z‍h‍o‍n‍g‍g‍u‍o‍d‍o‍u‍z‍i
+info:Deluxe Suite (King bed)
+info:Stayed in October 2023
+info:Business travelers
+info:33 Reviews
+rating:4
+posted:Posted November 2, 2023
+msg:The whole day was pretty good, an old five-star hotel. The location is good, there is a park right outside the door, and it is convenient to eat nearby. Close to Xinfu Island, Haidian Island is the first choice for accommodation. The front desk service is also good.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in September 2023
+info:Friends
+info:2 Reviews
+rating:2.5
+posted:Posted September 23, 2023
+msg:The room was very trendy, the toilet seat in the bathroom was broken, and the service attitude was poor! No takeaways will be delivered
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 3, 2023
+msg:This is my first time staying at Xinyan Tai Hotel. Although the hotel is very old, the service is really good. The girl at the front desk is very enthusiastic. The room is clean and tidy. The hotel is very quiet. I will choose this hotel next time🏨
+Hygiene: clean and tidy
+Service: Very good 👍
+Environment: Quiet
+Facilities: a bit old
+----------------------------------------
+name:J‍i‍a‍n‍d‍a‍n‍d‍e‍x‍i‍n‍g‍f‍u‍6‍5‍8
+info:Guestroom (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted March 18, 2024
+msg:The hotel environment is very good and the rooms are large. The location is also very good, not far from the airport, and the surrounding area is quite lively. It is very convenient for late night snacks and everything. We drove, and the hotel provided parking. There are also free shuttle buses to various attractions during holidays, so please communicate in advance. Overall, it is not bad
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted March 18, 2024
+msg:The service is super good, beyond expectations. There is welcome tea at the front desk: it is very quiet. I usually sleep very lightly, but I can't hear the sound from the corridor and next door at all. The location is very good: not too far from the airport and the train station. Convenient. You can also walk to Baishamen Park on the path opposite the hotel. There are many delicious food and the seaside environment is also very good. Finally, I would like to praise the ladies and brothers at the front desk. Their service attitude is very good and considerate. Will stay again next time
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:Breakfast was great! There are many varieties: in addition to the regular fried/fried/steamed/boiled/fried, we also had beef offal and coconut milk for refreshing! Parking is convenient, there is a gym; the suite has a river view, and you can take a satisfying bath
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in August 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted August 13, 2023
+msg:It's a very good hotel with good value for money. The whole family and children think it's good. I'm glad I chose their hotel. I read the guide before coming to Haikou and finally booked this hotel for convenience.
+
+Facilities: I heard that it is a relatively old hotel in Haikou. The equipment is well maintained and not as bad as they rated it.
+Hygiene: Very clean, the aunt is very careful in cleaning, and there is no dust or hair in the room.
+Environment: The environment is what I am most satisfied with. Their home is so close to some Internet celebrity spots in Haikou. Ask the lady at the front desk and they will teach you how to get there and where to go first. We first went to Baishamen Beach Market, and then went to Sky Mountain. Finally, when we were hungry, we went to Haida Nanmen Night Market to eat fried ice, which was full of summer flavor.
+Service: The service is also very good. When the front desk saw that our family was traveling with children, they took the initiative to upgrade the room. The location was super good. I was lucky enough to see the light of Buddha when I woke up in the morning. The river below is said to be able to catch the sea. I will come to Haikou next time to experience it. Needless to say, their breakfast is amazing, so rich and full of refreshing Hainan food.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 12, 2023
+msg:Service: The front desk lady has a nice smile.
+Environment: The hotel is surrounded by beautiful surroundings, and the river is across the road, which is convenient for walking.
+Hygiene: The room is clean.
+Facilities: The equipment is slightly old
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in August 2023
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted August 11, 2023
+msg:The scenery outside the window is very beautiful. The room is suitable for family travel and is very comfortable. There are not many breakfast dishes but they are all exquisite. I prepared a refreshing meal and I feel very satisfied.
+----------------------------------------
+name:Y‍o‍u‍y‍o‍u‍s‍h‍u‍n‍s‍h‍u‍n
+info:Guestroom (2 beds)
+info:Stayed in February 2024
+info:Other
+info:3 Reviews
+rating:4
+posted:Posted February 18, 2024
+msg:The room is clean and the surrounding environment is beautiful. Not far from Qilou Old Street, you can go shopping. Breakfast is also okay, with a lot of variety. Just a little far from the airport. . .
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in August 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:Clean environment, very good service. My child had a fever, so they helped me to check out later. Thank you very much
+Facilities: Great
+Hygiene: Good
+Environment: Good
+Service: Good
+Service: Good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in August 2023
+info:Family
+info:5 Reviews
+rating:4.7
+posted:Posted August 5, 2023
+msg:Due to the maintenance of the parent-child room, the hotel has been upgraded to a family suite, which is very nice. There is a sea view outside the window. The breakfast is also very rich. It is very close to Qilou Street and the night market of Hainan University, so it is convenient to travel.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in January 2024
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted March 3, 2024
+msg:During the Spring Festival, the whole family chose to stay in the Supreme Family Suite in Xinyan Tai. The room is spacious and bright, with complete facilities, comfortable and clean, and the service is in place. There is no price increase during the Spring Festival. It is the best choice for a family vacation.
+Special thanks to concierge Li Yunshi for his enthusiastic help and professional and thoughtful service. I wish him further success in his career.
+I would also like to thank the cleaning lady Wang Fengdi for cleaning the room conscientiously and responsibly every day. During the Spring Festival, she also cleaned on time as always. I wish Sister Wang a happy life.
+Looking forward to staying in Xinyan Tai next time
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in July 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted July 31, 2023
+msg:It was my first time staying at the hotel and I thought the hotel was pretty good. The front desk receptionist had a sweet smile and the floor service lady was very enthusiastic. What impressed me most was the bed sheets in the room! And embroidery😜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:21 Reviews
+rating:5
+posted:Posted August 2, 2023
+msg:Facilities: OK
+Hygiene: very good
+Environment: The rooms with river view are good
+Service: The front desk service is very good
+[Business Travel] cdf Duty Free Shop Shuttle Bus: Two buses a day, pick up at the door
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in January 2024
+info:Business travelers
+info:28 Reviews
+rating:4
+posted:Posted January 13, 2024
+msg:The environment is beautiful, but the equipment is old. The house price is relatively reasonable!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in December 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted January 1, 2024
+msg:The hotel has complete facilities, good health conditions, river views, and a convenient location. It feels like a good choice for short distances.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Ocean-view Suite
+info:Stayed in May 2023
+info:Family
+info:1 Review
+rating:3.2
+posted:Posted May 28, 2023
+msg:In fact, after I booked the hotel, I discovered that it was an older hotel. Generally, I prefer newer hotels when choosing a hotel. Overall, the service of the staff downstairs was okay, but some facilities were relatively old. It is recommended that the air-conditioning baffle and filter element be replaced or After wiping it down, other parts were quite clean, but this area should have been untouched since the hotel was built. It has grown hair over the years, especially the filter element, which is very black. It was okay if I didn't see it, but when I saw it, I felt like my diaphragm was not working, and the air I breathed had a strange smell.
+----------------------------------------
+name:K‍Y‍l‍a‍n‍d‍i
+info:Executive Ocean-view Suite
+info:Stayed in May 2023
+info:Business travelers
+info:9 Reviews
+rating:4
+posted:Posted May 16, 2023
+msg:The location is excellent, there are many delicious and fun places nearby, and travel is convenient. At the intersection of the river and the sea, the scenery is pretty good. The decoration of the hotel is a bit old, but the functions are basically satisfactory and the service is timely. The lack of bath salts is an area that needs improvement. The room floor is not high and a bit depressing. The breakfast variety is not rich enough and there is no freshly ground coffee. Overall, the price/performance ratio is good, recommended.
+----------------------------------------
+info:Stayed in October 2023
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:2 Reviews
+info:Other
+rating:2.7
+posted:Posted October 21, 2023
+msg:It's an old hotel. The check-in time is slow and a deposit is required for those who have paid the room in full. This is the first time I encountered it. I especially complained about the hair dryer in the room. It takes 10 seconds to use and then rest for 7 minutes. I asked the front desk and said that all hotels have hair dryers like this. , overheating protection? ! Will never stay here again and don't recommend anyone else to stay here!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in January 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted January 24, 2024
+msg:The room is spacious and comfortable, and the breakfast is rich
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:1
+posted:Posted September 14, 2023
+msg:The room was very humid, there was a smell in the air, and the facilities were obviously old! The service attitude was not good. When I issued the invoice when checking out, I was asked to follow their hotel's public account first. The invoice was given in a small envelope and was stuffed into it. I asked if I could give a larger one. They actually said that the invoice was issued in a small envelope and was only for small envelopes. Tickets can only be given in large envelopes. I have been on business so many times. Is this the first time I have heard this saying? Are the invoice sizes different? It reflects the inertia of work service and is a reflection of the entire hotel.
+----------------------------------------
+name:M‍F‍L‍L‍L‍L‍L‍L‍L
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in March 2023
+info:Family
+info:10 Reviews
+rating:4.2
+posted:Posted March 17, 2023
+msg:Good breakfast, beyond expectations;
+There are quite a lot of parking spaces, but the entry and exit sensing system is too backward, and bugs often occur, and it is a headache to enter and exit multiple times after staying for a few days;
+It would be better if the freight elevator and the passenger elevator were separated.
+----------------------------------------
+name:Q‍i‍l‍e‍～‍�‍�
+info:Deluxe Suite (King bed)
+info:Stayed in February 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 14, 2023
+msg:The view is beautiful and the room is quiet.
+Stay for two days. It costs more than ten yuan to take a taxi around.
+Downstairs the river reaches the mouth of the sea.
+The young ladies at the front desk are more enthusiastic.
+The breakfast is also not bad.
+I think this hotel is amazing. We are a family of four.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:2 Reviews
+rating:1
+posted:Posted October 13, 2023
+msg:Poor hygiene👎 The mineral water has been opened and consumed by the previous customer
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:2.7
+posted:Posted July 20, 2023
+msg:Too old and too old, the room lights are dim, the room facilities are old, the shower head has serious water splits, the breakfast is too inferior, there is not even an automatic coffee machine, you cannot make fresh coffee, and the mineral water is limited, in short, the accommodation experience is very poor
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:6 Reviews
+rating:3
+posted:Posted January 8, 2024
+msg:Health is average, room facilities are a bit old
+----------------------------------------
+name:R‍Y‍F‍J‍Y‍J
+info:Deluxe Garden-view Twin Room
+info:Stayed in December 2023
+info:Couples
+info:84 Reviews
+rating:5
+posted:Posted December 31, 2023
+msg:Stayed here several times and love this hotel!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in January 2024
+info:Solo travelers
+info:22 Reviews
+rating:4.5
+posted:Posted January 5, 2024
+msg:Old hotel, but good value for money.
+----------------------------------------
+name:X‍j‍9‍5‍0‍5‍0‍8‍,
+info:Deluxe King Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 13, 2024
+msg:Very satisfied in every aspect.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in December 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted December 31, 2023
+msg:Cost-effective and convenient
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in January 2024
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted January 7, 2024
+msg:The room is big and clean
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in December 2022
+info:Business travelers
+info:17 Reviews
+rating:1
+posted:Posted December 20, 2022
+msg:This Yantai Hotel is too old. First, the interior decoration is old and the elevator is broken. Second, the facilities in the room are not complete and very old, especially the bed 🛏️ is very bad. You can hear the creaking sound when you sit on the bed. I thought the bed was going to collapse, and the wet bedding near the river had mildew spots, the room also had a moldy smell, and the bathroom also had a bad smell. The mineral water sent in the room was very, very bad. This hotel does not allow takeaway to be delivered to the room, and the front desk will also deliver it to your room, and there is no hotel robot to deliver it. The service is terrible. If you want to live, look at other hotels, after all, you can live in Hampton by Hilton at this price.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in December 2023
+info:Booked for others
+info:4 Reviews
+rating:5
+posted:Posted January 3, 2024
+msg:Good quality and cheap.
+----------------------------------------
+name:R‍o‍n‍g‍y‍a‍o‍y‍a‍s‍e
+info:Deluxe Suite (King bed)
+info:Stayed in April 2023
+info:Other
+info:1 Review
+rating:2.5
+posted:Posted April 27, 2023
+msg:Locals often check in and there is no service at all!
+----------------------------------------
+name:@‍m‍a‍n‍t‍i‍a‍n‍x‍i‍n‍g
+info:Guestroom (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:10 Reviews
+rating:1
+posted:Posted July 18, 2022
+msg:The front desk service is very poor, the room is small and the smell of smoke is strong
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in March 2022
+info:Friends
+info:52 Reviews
+rating:2.7
+posted:Posted March 10, 2022
+msg:The hotel service is good and the breakfast is also very good, but the biggest problem is the air conditioning system. The temperature in the room cannot be lowered at all and remains above 26.5°. Fortunately, it is only the beginning of March and it is still cool outside at night. I can just open the window and pass. . If it’s summer, you can imagine
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in March 2022
+info:Couples
+info:1 Review
+rating:2
+posted:Posted March 6, 2022
+msg:I originally thought it was okay. Although the hygiene was average and the air conditioner was noisy, it was acceptable considering the cost-effectiveness. I would like to give a negative review to the service staff at the front desk. When receiving requests for luggage storage, they did not allow customers to carry heavy objects, and there were problems with unclear explanations and passing the buck.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted May 13, 2024
+msg:酒店房間房型不錯，早餐豐富多樣，前台和樓層服務態度很好，辦理入住時小劉也很熱心指引，值得入住體驗。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in April 2024
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted April 24, 2024
+msg:環境優雅，設施齊全，品質上乘；衞生整浩，空氣清新，窗明幾凈。服務一流，賓至如歸。尤其是前台寥海藍經理服務熱情，笑顏可掬，高效優質，精準專業。對待顧客關懷備至，體貼入微。令人十分温馨！為之點贊！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 16, 2023
+msg:酒店位置很好，在河邊，一線河景房，設施齊全，衞生條件良好，早餐種類很多，比較豐盛，還有海南特色清補涼，性價比高值得推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in October 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted October 12, 2023
+msg:服務很好，滿意
+----------------------------------------
+name:J‍i‍n‍w‍e‍i‍f‍e‍n‍g
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 15, 2023
+msg:不錯，故地重遊
+服務都很nice
+需要多點水都能提供
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in June 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted September 8, 2023
+msg:房間設施比較齊全，整體環境非常不錯，雖然是老星級酒店的裝修風格，但服務和管理水平一流。一次很好的入住體驗。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in February 2024
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:入住過多次的酒店。房間大，靠着海邊風景好。早餐依然種類很多，
+步行10分鐘左右，各種美食都有。商務或旅遊都很適合。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in May 2024
+info:Family
+info:12 Reviews
+rating:3.5
+posted:Posted May 4, 2024
+msg:臨時訂的房間。晚上快12點才到酒店的。到了房間，空調聲音很大！後來睡覺實在是吵，就關了。
+----------------------------------------
+name:C‍o‍d‍Z
+info:Guestroom (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted July 25, 2023
+msg:老牌酒店沒得説，就是住的很舒服，前台熱情不磨嘰，有問題及時溝通主動幫忙，商務出差性價比也很高，位置也很好
+----------------------------------------
+name:Y‍s‍s‍s‍s‍s‍s
+info:Premier Family Suite
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 4, 2023
+msg:500不到的價格住上家庭套房，還有三份早餐，真的太划算啦
+----------------------------------------
+name:K‍a‍i‍k‍a‍i‍1‍0
+info:Guestroom (2 beds)
+info:Stayed in April 2023
+info:Couples
+info:122 Reviews
+rating:5
+posted:Posted April 8, 2023
+msg:設施：設施齊全，泳池和健身房都有配套。
+
+衞生：衞生做的很好。
+環境：陽台就能看到海甸島風景。
+服務：服務員的服務不錯哦。
+酒店的早餐也是較為豐盛。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 24, 2023
+msg:衞生：乾淨不錯
+環境：出行方便，周邊有不少美食
+服務：服務很好，清潔服務員很給力
+接/送機一次: 預約送機時前台服務很周到，本來是5座車的，應為是我一家三口加哥的一家四口，坐不下，前台瞭解到後，給安排了輛商務車，這裏給點贊👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in June 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted June 12, 2023
+msg:套房舒適寬敞，適合一家老小聚會，唯一冷氣不足，出入還是比較方便的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in February 2024
+info:Family
+info:7 Reviews
+rating:3.7
+posted:Posted March 3, 2024
+msg:衞生，空間，設施和服務都不錯，還可以停車，但是真心不推薦入住，潮氣和黴味太重，住起來很不舒適。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in March 2024
+info:Business travelers
+info:6 Reviews
+rating:4
+posted:Posted March 27, 2024
+msg:由於房間未打掃完，前台主動給升級了房間。房間寬敞衞生，床笠乾淨，毛巾浴巾較新。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Ocean-view Suite
+info:Stayed in December 2023
+info:Business travelers
+info:20 Reviews
+rating:4.7
+posted:Posted January 14, 2024
+msg:整體入住去體驗還是不錯的，房間很寬敞。但是整體衞生稍微有點讓我不太滿意，房間還是有點異味，希望後續能改進。謝謝
+----------------------------------------
+name:t‍a‍n‍a‍i‍p‍u‍t‍i
+info:Executive Ocean-view Suite
+info:Stayed in February 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 17, 2023
+msg:酒店挺大中規中矩，性價比高，房間很大，乾淨安靜，窗外很美，早餐尤其值得表揚👍，光顧着吃了沒認真拍，自駕停車免費，也很方便，下次還會選擇入住。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in June 2023
+info:Solo travelers
+info:1 Review
+rating:3.5
+posted:Posted July 1, 2023
+msg:整個酒店工作人員都特別好，但是酒店感覺怪怪的，住起來不太安心，外立面結構有點奇怪，層高低，很壓抑，而且酒店很舊，但是視野又特別好。最後晚上到達臨時定了酒店，到了半夜臨時撤退，重新換了一家
+這方面比較敏感的朋友可以參考考慮一下
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in June 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted July 27, 2023
+msg:設施：雖然是老牌酒店但是維護的也還算不錯
+衞生：衞生很乾凈特地訂單標明環境乾淨整齊，每天都按時打掃房間
+
+環境：環境很好窗户外面能看見江海
+
+服務：打掃衞生的時候特地把我們散落的亂衣服全部幫忙疊好很貼心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:5 Reviews
+rating:1.5
+posted:Posted March 24, 2024
+msg:健身房老舊，一樓餐廳服務員請好好培訓一下，嬉笑打鬧擋在走道中間，很影響體驗感。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted April 18, 2024
+msg:酒店環境非常好，房間整潔乾淨，服務小姐姐温柔體貼，態度好！點贊！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in February 2023
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted February 16, 2023
+msg:入住酒店大堂看起來很大很舒適，酒店還有免費的停車場，前台小廖服務很好，知道很多好吃好玩的地方，下次還來入住的。
+----------------------------------------
+name:C‍h‍r‍i‍s‍t‍i‍n‍a‍l‍v‍x‍i‍n‍g‍d‍a‍r‍e‍n
+info:Guestroom (2 beds)
+info:Stayed in February 2023
+info:Solo travelers
+info:337 Reviews
+rating:4.5
+posted:Posted February 2, 2023
+msg:續住一晚，半夜回三亞坐飛機了。
+
+房間可以再打掃一次，服務還行吧。
+
+還是老舊…… 不過便宜是便宜的，所謂的五星裏性價比最高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 15, 2024
+msg:衞生：好
+環境：好
+服務：好
+設施：好
+自行車騎行和乒乓球:好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in December 2022
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted December 28, 2022
+msg:非常好的，雖然酒店設施有點舊，但是環境非常好，服務態度也很好，感受非常棒。孩子也很喜歡qinz房間，以後有機會還會再來。早餐的品種也非常豐富，很合胃口，在房間就可以看到窗外的美景。
+----------------------------------------
+name:l‍e‍a‍k‍y‍ ‍b‍u‍y
+info:Deluxe King Room
+info:Stayed in January 2023
+info:Family
+info:70 Reviews
+rating:5
+posted:Posted January 25, 2023
+msg:酒店位置不錯，服務態度熱情、周到，環境也可以，衹可惜酒店裝修時間有些久了，顯得落伍、陳舊，感覺上跟五星酒店不是很匹配！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in February 2024
+info:Family
+info:9 Reviews
+rating:4.7
+posted:Posted February 20, 2024
+msg:房間性價比高，裝修略顯年代感，老牌五星，三張床適合親子家庭，休息的不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in February 2024
+info:Other
+info:54 Reviews
+rating:3.7
+posted:Posted February 13, 2024
+msg:五星級酒店點外賣風雨中得自己下樓出門取，勝在價格實惠！早餐也還行在標準線
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:3
+posted:Posted February 13, 2024
+msg:配不上五星級，衞生間沒吹風機，櫃子下面還有上一個客人留下來吃過的花生殼
+----------------------------------------
+name:S‍a‍n‍h‍o‍u‍c‍h‍u‍n‍c‍u‍i
+info:Deluxe King Room
+info:Stayed in March 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted March 31, 2024
+msg:房間很乾凈，環境非常好，窗户外就能看到海水漲潮，非常推薦。
+----------------------------------------
+name:X‍i‍y‍e‍1‍2‍3
+info:Executive Ocean-view Suite
+info:Stayed in January 2023
+info:Family
+info:37 Reviews
+rating:5
+posted:Posted January 23, 2023
+msg:挺不錯的，可以看到入海的江。酒店也乾淨，服務也挺好的。酒店設施感覺也蠻新的，好像重新裝修過了的樣子。
+----------------------------------------
+name:b‍a‍n‍c‍s‍t‍o‍n‍e
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in November 2022
+info:Couples
+info:21 Reviews
+rating:4
+posted:Posted December 7, 2022
+msg:早餐不錯種類多，套房面積大，服務態度也好，唯一缺點就是我比較窮，住了三天就改到快捷酒店，酒店優惠價每間房包二位早餐345，自己感覺算是腐敗了一把，以後都是400多了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 16, 2023
+msg:非常好 一家人住 既寬敞 又乾淨 超值 早餐豐富 種類繁多 前台美女小姐姐熱情耐心 下次還會入住 並果斷推薦給了同事和朋友
+服務：超級贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:52 Reviews
+rating:3.7
+posted:Posted March 23, 2024
+msg:酒店服務還可以，就是設施比較老了。地理位置很好，看起來很好。
+----------------------------------------
+name:C‍a‍r‍r‍y‍n‍v‍r‍e‍n
+info:Deluxe Ocean-view Twin Room
+info:Stayed in March 2024
+info:Couples
+info:3 Reviews
+rating:4.7
+posted:Posted March 22, 2024
+msg:房間超大。弧形玻璃窗江景房。。就是設施稍微老舊。但服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in March 2024
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted March 14, 2024
+msg:床鋪非常大，早餐還可以，商務出差離機場稍遠。但整體感覺不錯
+----------------------------------------
+name:M‍a‍y‍☘‍️
+info:Selected Queen Room
+info:Stayed in February 2023
+info:Friends
+info:15 Reviews
+rating:5
+posted:Posted April 16, 2023
+msg:卫生：非常好
+早餐:品种多
+卫生：环境好
+免費接送机
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in April 2024
+info:Family
+info:21 Reviews
+rating:4.7
+posted:Posted April 26, 2024
+msg:除了沒自助洗衣烘乾服務，其他沒毛病。早餐很豐盛，點贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in May 2023
+info:Couples
+info:21 Reviews
+rating:5
+posted:Posted May 4, 2023
+msg:1.酒店裝修大氣，房間很大，衞生乾淨，早餐豐富，停車位充足，價格性價比超高；2.距離機場不到40分鐘，距離騎樓老街約4公里，開車約10分鐘。下次來海口會繼續預訂或推薦朋友入住這間酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in February 2024
+info:Family
+info:20 Reviews
+rating:5
+posted:Posted March 21, 2024
+msg:酒店物美價廉，性價比高，衞生乾淨，服務好，位置好，下次還會來。
+----------------------------------------
+name:x‍i‍n‍q‍i‍n‍g‍y‍i‍b‍a‍n‍h‍a‍o
+info:Guestroom (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 13, 2024
+msg:房間衞生很好，服務仔細，感覺不錯，下次還會再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 22, 2023
+msg:周邊環境好，適合跑步，下次繼續住
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 9, 2023
+msg:房間很大。很適合一家出來海南旅行。價格也不貴，設施齊全，而且早餐是自助餐，挺豐盛的。地理位置不錯，距離好幾個景點都蠻近的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in November 2023
+info:Solo travelers
+info:3 Reviews
+rating:4
+posted:Posted December 2, 2023
+msg:房間門開啟很吃力。服務員説給更換門鎖電池，等到我退房，也沒有工作人員來維修。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in June 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 2, 2023
+msg:這家酒店整體不錯，服務好套房乾淨整潔佈局合理，早餐也很棒，酒店在市中心算是鬧中取靜，離騎樓和南門夜市也很近出入方便，下次來海口還會選擇這家酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 1, 2023
+msg:大家都説酒店還是不錯的，價格適中……去海南有事，酒店位置比較方便，不管去哪裡辦事開車都是比較近的。酒店服務人員態度很好。
+----------------------------------------
+name:S‍h‍e‍n‍s‍i
+info:Deluxe Ocean-view Twin Room
+info:Stayed in February 2024
+info:Business travelers
+info:26 Reviews
+rating:4.5
+posted:Posted April 2, 2024
+msg:海口太潮濕，不管那個酒店都有個黴味，被褥也感覺返潮。
+----------------------------------------
+name:P‍a‍z‍h‍e‍j‍i‍t‍i‍a‍n‍x‍i‍a‍y‍u
+info:Deluxe Ocean-view Twin Room
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 2, 2023
+msg:酒店環境優美 設施齊全 價格實惠
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Business travelers
+info:Stayed in December 2022
+info:9 Reviews
+rating:5
+msg:趕上了紅碼，酒店前台的小姑娘非常的給力！續費，送餐非常的周到熱情！對了，還很漂亮！
+----------------------------------------
+posted:Posted December 11, 2022
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in March 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted March 11, 2023
+msg:住店進來以後，發現真的是套房，真的有54平方，房間能看到海，有TOTO大浴池，服務很到位，我果斷取消後面的酒店，就續住這了！離機場40內車程。海甸島很好的酒店。早餐是含的，還行！房間跟大廳都香香的，沒有黴味。房間有蚊子，都在點蚊香睡覺。我對這個酒店太愛了性價比很高！下次來海口海住這！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted March 20, 2024
+msg:房間整潔，乾淨，安靜，早餐也很好，門口停車也很方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in February 2024
+info:Family
+info:15 Reviews
+rating:4.5
+posted:Posted February 19, 2024
+msg:設施有點陳舊，但是房間很大，沒有護髮素這一點希望改進
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in January 2023
+info:Business travelers
+info:4 Reviews
+rating:4.2
+posted:Posted January 23, 2023
+msg:這個酒店的風格挺簡單大方。
+----------------------------------------
+name:G‍i‍n‍a‍l‍i‍n‍l‍i‍n
+info:Deluxe King Room
+info:Stayed in February 2024
+info:Friends
+info:29 Reviews
+rating:4
+posted:Posted February 18, 2024
+msg:酒店房間有點難找、前台小姐姐的態度冷淡、需要改進！
+----------------------------------------
+name:A‍e‍r‍m‍e‍n‍n‍u‍o‍-‍s‍h‍e‍n‍g‍s‍a‍e‍r‍w‍a‍t‍u‍o‍l‍e‍i‍w‍e‍i‍q‍i‍n‍g
+info:Premier Family Suite
+info:Stayed in March 2024
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted March 20, 2024
+msg:設施：好
+衞生：好
+環境：好
+服務：特別好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:4 Reviews
+rating:4
+posted:Posted February 22, 2024
+msg:設施：可以
+衞生：可以
+環境：可以
+衞生：可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in January 2023
+info:Family
+info:8 Reviews
+rating:4
+posted:Posted February 7, 2023
+msg:總體是很滿意的，春節期間價錢真的很合適，性價比超高，在定之前就看到網上説房間會有黴味，所以做好了準備，打開房門後的味道的確是黴味，但還可以接受，房間空間和價格都彌補了這一點，地理位置確實不是很方便 周圍沒有什麼吃的，不過誰出來玩要在酒店附近吃飯。總體來説很滿意。入住很愉快。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in January 2024
+info:Business travelers
+info:154 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:設施：很齊全
+衞生：很乾凈
+環境：很不錯
+服務：很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 28, 2022
+msg:酒店非常好，江景房，乾淨，衞生。前台接待服務態度很好，已經連續住了兩天，來海口一般都會選擇這家酒店入住。房間很大。
+----------------------------------------
+name:L‍i‍a‍n‍g‍d‍a‍i‍d‍a‍m‍i
+info:Deluxe Suite (King bed)
+info:Stayed in May 2024
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:房間格局不錯，光線好，江景房不賴
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 18, 2024
+msg:房間大且寬敞，設施齊全，每天打掃得也很整潔
+----------------------------------------
+name:B‍e‍i‍x‍u‍e‍m‍a‍n‍z‍h‍o‍u‍l‍i
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in November 2022
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted November 7, 2022
+msg:服務很好，前台接待熱情，環境不錯，早餐很豐富，值得推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in April 2024
+info:Friends
+info:121 Reviews
+rating:5
+posted:Posted April 16, 2024
+msg:服務：滿分
+環境：優雅
+衞生：清潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 2, 2024
+msg:標準的商務酒店，就是周邊沒什麼吃的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in February 2024
+info:Family
+info:15 Reviews
+rating:4
+posted:Posted February 27, 2024
+msg:比較老的酒店，服務早餐很不錯，設施不太行了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 18, 2023
+msg:房間不錯，空調很勁，感謝前台幫忙把12點退房延長到2點，我都想的實在不行衹能加錢了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in February 2024
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted February 5, 2024
+msg:房間整潔乾淨，五星酒店的設施，早餐種類尚可
+----------------------------------------
+name:N‍u‍a‍n‍j‍u‍i
+info:Family Friendly Room
+info:Stayed in December 2022
+info:Family
+info:6 Reviews
+rating:4.7
+posted:Posted December 18, 2022
+msg:就總體來説，價格很有性價比，然後環境以及風景不錯，比較差強人意的是相關設備維護不當導致設備缺失，以及早餐個別菜品不算還吃，給個建議將清補涼和沙拉一類的涼菜往餐廳中部放置一下，在海南冬季也比較涼，早上去吃飯看到滿是冰堆的清補涼的配料有一絲絲寒意，希望可以改善相關合理性
+----------------------------------------
+name:Y‍i‍y‍u‍e‍s‍h‍o‍u‍s‍h‍i‍j‍i‍n
+info:Deluxe Suite (King bed)
+info:Stayed in March 2024
+info:Couples
+info:11 Reviews
+rating:5
+posted:Posted March 10, 2024
+msg:非常棒的酒店，房間巨大，服務好，超值
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in January 2024
+info:Other
+info:18 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:房間很好，寬敞乾淨，服務也好。下次還會入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 13, 2024
+msg:房間寬敞，視野開闊，衞生潔靜
+----------------------------------------
+name:m‍a‍t‍a‍f‍r‍i‍e‍n‍d
+info:Guestroom (2 beds)
+info:Stayed in May 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted May 4, 2023
+msg:房間乾淨整潔，前台接待服務周到，而且對客人的一些要求（延遲退房，房間加個小冰箱，送冰塊），會勁量滿足，特別的贊👍。
+----------------------------------------
+name:D‍u‍j‍u‍a‍n‍j‍i‍e
+info:Guestroom (2 beds)
+info:Stayed in February 2024
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted April 23, 2024
+msg:交通便利，景觀優美，鬧中取靜，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in February 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted February 29, 2024
+msg:房間衞生乾淨，服務好，周邊環境優美。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in April 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted April 16, 2024
+msg:乾淨衞生，房間很大，住的舒服。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in January 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted March 17, 2024
+msg:設施：非常好 環境也不錯
+衞生：非常乾淨
+----------------------------------------
+name:X‍i‍n‍s‍h‍e‍j‍i‍s‍h‍i
+info:Guestroom (2 beds)
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:1
+posted:Posted February 17, 2024
+msg:空調的聲音太大了，晚上還有蚊子，差評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Ocean-view Suite
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:3.2
+posted:Posted March 13, 2024
+msg:酒店一般，感覺很老舊，房間有味道！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in March 2023
+info:Other
+info:5 Reviews
+rating:4
+posted:Posted March 17, 2023
+msg:總的來説體驗還不錯，床和浴缸都很大。就是陽台窗户的位置挺臟的，看來沒有好好收拾。然後晚上那個空調不夠勁，熱的很。希望能有些改進，
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Ocean-view Suite
+info:Stayed in June 2023
+info:Couples
+info:10 Reviews
+rating:5
+posted:Posted July 2, 2023
+msg:還不錯的 服務態度也很好 就是空調實在不行啊 很熱很熱 然後突然很冷 然後又很熱很熱
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in February 2024
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted March 19, 2024
+msg:房間寬敞整潔舒適，
+服務態度很好👍
+----------------------------------------
+name:P‍i‍a‍o‍g‍u‍o‍s‍a‍n‍d‍a‍y‍a‍n‍g‍d‍e‍l‍a‍n‍g‍h‍u‍a
+info:Deluxe Garden-view Twin Room
+info:Stayed in March 2023
+info:Friends
+info:33 Reviews
+rating:5
+posted:Posted March 28, 2023
+msg:新燕泰當年是海甸島上最好的酒店之一，時間雖久遠但風采依舊。酒店在南渡江入海口邊，環境優美清靜，這次朋友連住兩天，他們很滿意
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:1.5
+posted:Posted January 30, 2024
+msg:年代久遠，被套很舊，其他設備也老舊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in February 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted February 5, 2024
+msg:經常住的酒店，服務好，體驗感非常棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Family
+info:Stayed in July 2023
+info:7 Reviews
+rating:5
+posted:Posted July 31, 2023
+msg:房間不錯，安靜舒適，環境衞生各方面都挺好，酒店的服務一如既往的ok。
+----------------------------------------
+name:F‍u‍n‍g
+info:Deluxe Suite (King bed)
+info:Stayed in April 2024
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted May 12, 2024
+msg:便宜方便大陸來說cp非常高
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 1, 2023
+msg:无论是商务出差还是亲子出遊都非常的合适，干淨又卫生，服务品质也好。
+----------------------------------------
+name:X‍i‍n‍x‍i‍a‍o‍j‍i‍c‍h‍i‍m‍i
+info:Deluxe King Room
+info:Stayed in April 2023
+info:Business travelers
+info:8 Reviews
+rating:4.7
+posted:Posted May 3, 2023
+msg:各方面都不錯，有的房間臨街太吵。攜程上價格變化太快，稍微遲了兩天價格就上去了。房間很大總體蠻好的。。
+----------------------------------------
+name:C‍i‍m‍u‍w‍a‍n‍g‍j‍i‍n‍g
+info:Deluxe Ocean-view Twin Room
+info:Stayed in March 2024
+info:Friends
+info:40 Reviews
+rating:5
+posted:Posted March 27, 2024
+msg:房間不錯，很大，有陽台，舒服
+----------------------------------------
+name:L‍o‍u‍l‍e‍p‍i‍x‍i‍n‍g
+info:Guestroom (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted May 24, 2024
+msg:早餐還可以，服務還到位
+----------------------------------------
+name:L‍i‍y‍i‍c‍h‍u‍n
+info:Premier Family Suite
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 17, 2024
+msg:乾淨整潔、服務優質、非常滿意。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in February 2024
+info:Couples
+info:12 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:設施齊全，環境衞生，服務周到。
+----------------------------------------
+name:O‍u‍w‍e‍n‍l‍a‍o‍d‍i‍e
+info:Family Friendly Room
+info:Stayed in July 2023
+info:Family
+info:23 Reviews
+rating:5
+posted:Posted July 14, 2023
+msg:雖然裝修不是很新，但是乾淨舒適，交通便利，服務也還不錯，就是沒有泳池。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:3.7
+posted:Posted July 5, 2023
+msg:就那個客服中心女的 不行  
+哥哥前台的小哥哥和那個超温柔的小姐姐點贊
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in March 2024
+info:Booked for others
+info:4 Reviews
+rating:4.5
+posted:Posted March 5, 2024
+msg:去老街騎樓方便，位置比較好
+----------------------------------------
+name:Y‍i‍b‍e‍i‍q‍i‍n‍g‍c‍h‍a‍0‍1
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:3.2
+posted:Posted February 2, 2024
+msg:前幾天10°還下雨，不開熱空調
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in January 2023
+info:Family
+info:9 Reviews
+rating:4.7
+posted:Posted January 31, 2023
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+msg:酒店超級大能把人繞暈哈哈哈哈哈哈，房間不錯但確實時間有些長了感覺燈光有些昏暗，另外門鎖不是很好用但聽工作人員説準備更換了
+----------------------------------------
+info:Deluxe Ocean-view Twin Room
+info:Stayed in May 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted May 11, 2024
+msg:非常舒服的入住體驗！
+----------------------------------------
+name:w‍w‍g‍5‍0‍0
+info:Deluxe King Room
+info:Stayed in May 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted July 3, 2023
+msg:酒店位置好，交通 便利，早餐很不錯，豐富，泳池，健身房都俱全，商務家庭出遊都不錯。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted February 23, 2024
+msg:非常滿意
+，舒適，早餐不錯
+----------------------------------------
+name:B‍i‍n‍g‍d‍u
+info:Guestroom (2 beds)
+info:Stayed in March 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted March 13, 2024
+msg:酒店環境挺好，衞生也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in September 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted November 27, 2023
+msg:設施：好
+衞生：好
+服務：好
+環境：好。。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in January 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted January 31, 2024
+msg:雖然老舊，但是衞生服務都不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 15, 2024
+msg:乾淨整潔，非常滿意！
+----------------------------------------
+name:L‍a‍o‍z‍h‍a‍n‍g‍t‍o‍n‍g‍x‍u‍e‍y‍a
+info:Premier Family Suite
+info:Stayed in June 2023
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted June 24, 2023
+msg:還不錯，下次再來
+設施：好
+衞生：還行
+環境：還行
+服務：還行
+----------------------------------------
+name:B‍o‍x‍i‍n‍z‍a‍o‍j‍i‍a
+info:Deluxe Ocean-view Twin Room
+info:Stayed in November 2023
+info:Family
+info:96 Reviews
+rating:5
+posted:Posted November 18, 2023
+msg:早餐很棒，對面就是新埠島，推薦入住
+----------------------------------------
+name:q‍l‍d‍s‍s
+info:Deluxe Ocean-view Twin Room
+info:Stayed in April 2024
+info:Friends
+info:10 Reviews
+rating:4
+posted:Posted April 6, 2024
+msg:酒店不錯，下次還來。
+----------------------------------------
+name:Z‍h‍i‍s‍h‍o‍u‍x‍i‍e‍l‍a‍o
+info:Selected Queen Room
+info:Stayed in November 2022
+info:Business travelers
+info:6 Reviews
+rating:4
+posted:Posted November 26, 2022
+msg:這個價位的酒店，設施顯得就一般了，拖鞋洗髮液等等顯得廉價，同時早餐偏貴。如果住酒店正面上面樓層房間，會因靠近中央空調的外機，會吵的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:房間很乾凈，服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in April 2024
+info:Other
+info:9 Reviews
+rating:5
+posted:Posted April 30, 2024
+msg:房間乾淨…環境不錯
+----------------------------------------
+name:F‍e‍n‍g‍z‍h‍o‍n‍g‍w‍e‍i
+info:Deluxe King Room
+info:Stayed in June 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted June 17, 2023
+msg:酒店前台服務很專業，很熱情，很到位，那個積極幫客人解決問題
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in March 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted March 9, 2023
+msg:環境好，緊挨海邊，清晨、傍晚漫步的絕佳之地。
+衞生：乾淨。沒有異味。
+服務：熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Ocean-view Suite
+info:Stayed in June 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted July 3, 2023
+msg:酒店很乾凈整潔，空間很大，是個套間，環境和服務很不錯
+----------------------------------------
+name:N‍i‍s‍h‍i‍s‍h‍u‍i
+info:Guestroom (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:非常不錯👍面對南渡江！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in March 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted April 2, 2024
+msg:服務：都挺好的比較好
+----------------------------------------
+name:X‍i‍a‍n‍g‍r‍u‍g‍u‍0‍5‍1
+info:Deluxe King Room
+info:Stayed in March 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 29, 2023
+msg:服務非常好，因為航班比較晚，跟前台説了下，就給免費延遲了一個多小時的退房
+----------------------------------------
+name:Q‍i‍n‍y‍u‍j‍i‍e
+info:Deluxe Suite (King bed)
+info:Stayed in March 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted March 22, 2024
+msg:房間超大，床超大。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in December 2023
+info:Solo travelers
+info:150 Reviews
+rating:5
+posted:Posted December 18, 2023
+msg:落地窗採光很好，住的很舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in February 2023
+info:Couples
+info:101 Reviews
+rating:4.7
+posted:Posted April 11, 2023
+msg:其實酒店相當不錯，不知道為什麼評分不高，可能是比較老的酒店，但性價比真的不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in February 2024
+info:Friends
+info:3 Reviews
+rating:3.5
+posted:Posted February 29, 2024
+msg:房間很大，停車方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in December 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:非常不錯！臨海，風景優美.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in May 2023
+info:Couples
+info:3 Reviews
+rating:3
+posted:Posted May 18, 2023
+msg:房間一股黴味，很不舒服
+空調温度沒法調節，衹能選擇開或者關
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:67 Reviews
+rating:5
+posted:Posted June 12, 2022
+msg:這個平台太方便了吧，看到搞活動就買了，然後今天有空才想起來用，價格還這麼划算，非常nice呀已經來過好多次啦，個人覺得還是很划算的，提前買好券更值了門口就有停車位非常方便，而且從進門開始就感覺到舒適，環境分給到5分！
+----------------------------------------
+name:X‍i‍n‍k‍u‍a‍n‍g‍s‍h‍e‍n‍y‍i‍1‍8‍8
+info:Deluxe Ocean-view Twin Room
+info:Stayed in March 2023
+info:Family
+info:33 Reviews
+rating:5
+posted:Posted March 5, 2023
+msg:性價比高，早餐豐富，還有當地的清補涼。房間打開略有黴味，要通風換氣。推薦
+----------------------------------------
+name:K‍u‍a‍i‍l‍e‍y‍i‍x‍i‍n‍g
+info:Premier Family Suite
+info:Stayed in October 2023
+info:Family
+info:15 Reviews
+rating:4
+posted:Posted November 20, 2023
+msg:在海甸島上，出行方便，房間不錯
+----------------------------------------
+name:H‍a‍i‍n‍a‍n‍f‍e‍n‍g‍g‍u‍a‍n‍g‍h‍a‍o‍m‍e‍i
+info:Guestroom (2 beds)
+info:Stayed in August 2023
+info:Friends
+info:17 Reviews
+rating:5
+posted:Posted September 10, 2023
+msg:設施：齊全
+衞生：整潔乾淨
+服務：周到
+----------------------------------------
+name:Z‍u‍i‍h‍o‍u‍d‍e‍x‍i‍n‍g‍h‍e‍t‍u‍n‍1‍2‍0
+info:Deluxe King Room
+info:Stayed in February 2023
+info:Couples
+info:10 Reviews
+rating:4
+posted:Posted February 28, 2023
+msg:服務沒話説很好，就是酒店硬件設施稍微老了一點，位置還算可以走哪兒都不是太遠
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in December 2023
+info:Solo travelers
+info:6 Reviews
+rating:4
+posted:Posted December 24, 2023
+msg:五星級對客人是一種誤導！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in February 2024
+info:Couples
+info:1 Review
+rating:3.5
+posted:Posted February 23, 2024
+msg:老酒店還是不錯的。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted December 15, 2023
+msg:一如既往的好
+環境：好
+服務：好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in February 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 21, 2023
+msg:一個字，好！！！體驗超讚，服務耐心細心，特別是前台工作人員和禮賓李雲世。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in January 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 28, 2024
+msg:房間空間大，設施好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in November 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 2, 2024
+msg:還可以，就是設施有些老舊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in September 2023
+info:Friends
+info:1 Review
+rating:3.5
+posted:Posted October 25, 2023
+msg:還是有些老舊了，還有一股潮味兒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in August 2023
+info:Friends
+info:69 Reviews
+rating:5
+posted:Posted August 14, 2023
+msg:酒店很好，環境也非常OK，很適合遊玩
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in February 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted February 13, 2024
+msg:還可以，性價比很高
+----------------------------------------
+name:t‍j‍d‍l‍2‍9
+info:Deluxe Suite (King bed)
+info:Stayed in March 2023
+info:Business travelers
+info:40 Reviews
+rating:5
+posted:Posted March 26, 2023
+msg:到海口常駐的酒店。總體不錯。由於疫情的沖擊餐飲質量有所下降，
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Ocean-view Suite
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 2, 2023
+msg:房間比較滿意，早餐也比較豐富，工作人員服務態度很好！
+----------------------------------------
+name:K‍e‍y‍a‍n‍g‍y‍a‍n‍g
+info:Premier Family Suite
+info:Stayed in March 2023
+info:Friends
+info:25 Reviews
+rating:4.7
+posted:Posted March 25, 2023
+msg:酒店性價比很高，就是房間設施有點舊，早餐很豐盛，可以彌補不足
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in April 2023
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted June 19, 2023
+msg:是個老牌的酒店，離公交站也不遠，周邊吃飯都特別方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted August 25, 2023
+msg:提前打電話詢問對房型要求，感覺不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in January 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted January 12, 2023
+msg:我入住酒店的時候比較晚，得到的當班大堂經理很好的服務，酒店房間很好，性價比高。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:3
+posted:Posted February 3, 2024
+msg:海景房有點小失望了
+----------------------------------------
+name:Q‍i‍f‍e‍i‍d‍e‍x‍i‍a‍o‍l‍a‍o‍h‍u
+info:Premier Family Suite
+info:Stayed in January 2024
+info:Family
+info:26 Reviews
+rating:5
+posted:Posted February 1, 2024
+msg:衞生：OKOKOK
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in January 2024
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted January 28, 2024
+msg:房間不錯，交通方便
+----------------------------------------
+name:Y‍a‍o‍l‍i‍b‍o
+info:Premier Family Suite
+info:Stayed in December 2023
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted January 3, 2024
+msg:服務周到，房間寬敞！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:10 Reviews
+rating:3.8
+posted:Posted May 19, 2024
+msg:各方面尚可！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in December 2023
+info:Other
+info:1 Review
+rating:3
+posted:Posted December 2, 2023
+msg:兩張小床拼的大床  😓
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in February 2023
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted February 9, 2023
+msg:房間很大，景觀不錯。房間內設施略顯成就，早餐還不錯，服務人員挺熱情的
+----------------------------------------
+name:Y‍i‍l‍u‍p‍i‍n‍g‍a‍n‍k‍u‍a‍i‍l‍e‍c‍h‍u‍x‍i‍n‍g
+info:Deluxe Garden-view Twin Room
+info:Stayed in February 2023
+info:Friends
+info:52 Reviews
+rating:5
+posted:Posted February 15, 2023
+msg:酒店設施非常好。一個可以入住的。尤其超大的浴盆。讓你有游泳的感覺。
+----------------------------------------
+name:D‍e‍n‍g‍z‍h‍i‍x‍i‍a‍n
+info:Deluxe King Room
+info:Stayed in June 2023
+info:Booked for others
+info:80 Reviews
+rating:5
+posted:Posted August 2, 2023
+msg:【商旅】cdf免税店穿梭巴士:很滿意很滿意
+----------------------------------------
+name:T‍i‍a‍n‍d‍a‍o‍c‍h‍o‍u‍q‍i‍n
+info:Guestroom (2 beds)
+info:Stayed in December 2022
+info:Business travelers
+info:57 Reviews
+rating:5
+posted:Posted December 3, 2022
+msg:位置很好，設施也可以，服務人員態度非常好，就是有點冷，熱空調好像有點問題，價格合理。
+----------------------------------------
+name:Q‍i‍d‍e‍l‍o‍n‍g‍d‍o‍n‍g‍q‍i‍a‍n‍g
+info:Deluxe King Room
+info:Stayed in November 2021
+info:Business travelers
+info:73 Reviews
+rating:5
+posted:Posted December 2, 2021
+msg:兩個人這個價格真的很划算，還是得提前在網上做好功課，這樣到店直接消費，既方便又划算～設施齊全，住着挺舒服的，房間大小剛好，隔音效果還不錯
+----------------------------------------
+name:c‍c‍c‍c‍c‍y‍h
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in December 2021
+info:Family
+info:61 Reviews
+rating:5
+posted:Posted December 23, 2021
+msg:雙床套房，景觀通透，房間大，安靜温馨舒適。服務也比較好，到店前會詢問具體需求，家人住着非常滿意，十分推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in October 2022
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted October 7, 2022
+msg:服務員態度謙和，為人和善，樂於助人的小夥子，能夠不厭其煩地解答問題，延遲一個小時退房，為我們提供了方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in February 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 28, 2024
+msg:服務：好都很好好
+----------------------------------------
+name:M‍A‍I‍F‍E‍N‍G
+info:Selected Queen Room
+info:Stayed in February 2022
+info:Other
+info:75 Reviews
+rating:5
+posted:Posted February 11, 2022
+msg:房間足夠大，半圓形窗户視線夠好，早餐不錯，停車方便
+----------------------------------------
+name:L‍a‍o‍m‍a
+info:Guestroom (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted July 2, 2023
+msg:酒店不錯，公務出差的好去處，早餐挺好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted May 30, 2023
+msg:服務好，酒店大，尤其是兩米寬大床，很舒服。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 18, 2024
+msg:房間風景不錯
+----------------------------------------
+name:X‍i‍a‍o‍x‍i‍a‍o‍d‍e‍f‍e‍n‍g‍j‍i‍n‍g
+info:Executive Ocean-view Suite
+info:Stayed in December 2021
+info:Business travelers
+info:16 Reviews
+rating:3.7
+posted:Posted December 4, 2021
+msg:還不錯吧，這個價格算是可以的。就是酒店有點舊，房間的設施也跟不上，酒店的大堂很好。房間的算過的去，到也沒啥驚喜。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in March 2023
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted May 19, 2023
+msg:設施：完善，
+衞生：整潔，
+環境：舒適，
+服務：親切。
+----------------------------------------
+name:C‍h‍a‍o‍j‍i‍m‍u‍t‍o‍u
+info:Deluxe King Room
+info:Stayed in May 2024
+info:Business travelers
+info:198 Reviews
+posted:Posted May 26, 2024
+rating:5
+msg:服務很好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in April 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted April 28, 2023
+msg:【商旅】cdf免税店穿梭巴士:不錯酒店衞生好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in March 2024
+info:Business travelers
+info:18 Reviews
+rating:3.7
+posted:Posted March 31, 2024
+msg:服務員態度好
+----------------------------------------
+name:Y‍a‍n‍g‍n‍a‍n
+info:Deluxe King Room
+info:Stayed in July 2023
+info:Business travelers
+info:10 Reviews
+rating:3
+posted:Posted July 28, 2023
+msg:正常吧，這個價位這個環境就這樣吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in September 2023
+info:Other
+info:11 Reviews
+rating:5
+posted:Posted November 5, 2023
+msg:特殊時段定的房間，意外不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in February 2024
+rating:5
+info:Family
+info:4 Reviews
+posted:Posted February 16, 2024
+msg:挺好，沒啥毛病
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in April 2023
+info:Couples
+info:26 Reviews
+rating:5
+posted:Posted May 7, 2023
+msg:設施：好
+衞生：乾淨
+環境：美好
+服務：很好
+----------------------------------------
+name:W‍o‍w‍a‍n‍q‍u‍a‍n‍s‍h‍i‍r‍e‍n
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in October 2021
+info:Family
+info:31 Reviews
+rating:4.5
+posted:Posted February 22, 2022
+msg:🚗 交通：在海新大橋旁邊 離機場和市區距離都還好！
+🧹衞生：公共區域有待提升，房間還可以！
+🍃環境：酒店河景不錯 整體環境還行！
+🔔服務：服務不錯，早餐比較豐富！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in February 2024
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted February 7, 2024
+msg:很好，交通方便
+----------------------------------------
+name:M‍e‍i‍k‍e‍l‍u‍n‍b‍a‍o‍-‍q‍i‍a‍n‍b‍o‍m‍e‍i‍l‍a‍n‍i‍y‍a‍z‍h‍o‍u‍w‍a‍n‍g‍j‍i‍a‍n
+info:Deluxe Suite (King bed)
+info:Stayed in February 2024
+info:Business travelers
+info:53 Reviews
+rating:5
+posted:Posted March 3, 2024
+msg:江景非常漂亮！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in February 2023
+info:Family
+info:35 Reviews
+rating:5
+posted:Posted February 25, 2023
+msg:可以點讚的酒店，位置、環境、衞生、服務都不錯，再來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in November 2023
+info:Other
+info:16 Reviews
+rating:5
+posted:Posted December 1, 2023
+msg:很滿意，有機會再來
+----------------------------------------
+name:L‍a‍o‍z‍i‍b‍u‍h‍o‍n‍g‍t‍i‍a‍n‍l‍i‍n‍a‍n‍r‍o‍n‍g
+info:Deluxe Garden-view Twin Room
+info:Stayed in November 2023
+info:Business travelers
+info:35 Reviews
+rating:5
+posted:Posted December 1, 2023
+msg:房間挺大，環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in March 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted April 2, 2024
+msg:滿意滿意滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in September 2023
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted October 14, 2023
+msg:酒店位置不錯，早餐豐富！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in December 2021
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted December 7, 2021
+msg:很棒，服務很好，衞生不錯，環境優美，經理工作負責，很優秀！點贊！
+----------------------------------------
+name:H‍a‍n‍x‍i‍n
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in July 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted July 6, 2023
+msg:確實很好，位置也很好！酒店乾淨
+----------------------------------------
+name:9‍7‍4‍0
+info:Guestroom (2 beds)
+info:Stayed in January 2023
+info:Other
+info:5 Reviews
+rating:4.7
+posted:Posted January 21, 2023
+msg:很晚到酒店，一小哥接待服務耐心，仔細。不錯！設施有些老舊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in October 2021
+info:Couples
+info:5 Reviews
+rating:4
+posted:Posted October 27, 2021
+msg:感覺是時間比較久的酒店，硬件設施比較老舊了，前台服務態度挺好的，，床單上有點痕跡，前台馬上就給換了一間房
+----------------------------------------
+name:Q‍i‍u‍t‍i‍a‍n‍h‍u‍i‍x‍i‍a‍y‍u
+info:Deluxe Suite (King bed)
+info:Stayed in December 2022
+info:Couples
+info:17 Reviews
+rating:5
+posted:Posted January 19, 2023
+msg:前台給免費升級了套房，房間內的層高比較低，總的來説還是不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in March 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted March 12, 2023
+msg:設施：不錯
+衞生：不錯
+環境：不錯
+服務：不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in August 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted August 21, 2023
+msg:家庭套房不錯，服務也很好
+----------------------------------------
+name:J‍i‍n‍x‍i‍u‍h‍a‍i‍a‍n
+info:Guestroom (2 beds)
+info:Stayed in January 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted January 8, 2023
+msg:客房人員服務很親切，前台的服務也很有禮貌很規範，值得好評
+----------------------------------------
+name:D‍a‍d‍a‍f‍u‍z‍i
+info:Guestroom (2 beds)
+info:Stayed in February 2024
+info:Couples
+info:8 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:還不錯安可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in September 2023
+info:Friends
+info:30 Reviews
+rating:5
+posted:Posted October 2, 2023
+msg:非常好，住的得很舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in February 2024
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:服務比較周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in January 2023
+info:Family
+info:11 Reviews
+rating:4.7
+posted:Posted January 20, 2023
+msg:服務非常好！ 酒店早餐不錯，交通方便，非常值得入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in December 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 17, 2023
+msg:環境不錯 早餐好吃 商務出差很方便
+設施齊全 房間很大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:4
+posted:Posted April 15, 2024
+msg:對房間很滿意
+----------------------------------------
+name:G‍u‍i‍r‍e‍n‍f‍a‍z‍h‍e‍n‍g
+info:Deluxe Garden-view Twin Room
+info:Stayed in February 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted February 20, 2023
+msg:環境很好，房間寬敞明亮，早餐豐富，多彩的生活
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in June 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted July 2, 2023
+msg:房間乾淨整潔，服務熱情周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in April 2023
+info:Solo travelers
+info:8 Reviews
+rating:5
+posted:Posted April 20, 2023
+msg:免費升了一級房間，性價比非常高，贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in May 2022
+info:Business travelers
+info:12 Reviews
+rating:4.7
+posted:Posted August 13, 2022
+msg:早晨還不錯啦，來海口都是在這裏下榻，風景秀麗，環境優美沒有城市的嘈雜，可謂鬧中取靜，眼望一條江水匯入大海讓人無限遐想。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in March 2023
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted April 16, 2023
+msg:房間大，景色美，出行方便，非常好的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2021
+info:Family
+info:23 Reviews
+rating:5
+posted:Posted July 5, 2021
+msg:這次海口入住這家酒店真是感覺有點驚喜，酒店設施齊全，環境和視野都不錯，房間能看到海景（應該不是河），佈置也比較有藝術感。房間是雙床房，沒辦法加床，但是可以併到一起，比較適合帶娃出行的家庭。位置相對靠機場，交通比較方便，打車40-45分鐘吧。早餐很豐富，中西餐都有，一家人吃的很開心，口味也比較清淡。最滿意的是他家提供包車和訂車服務，司機師傅經驗豐富，服務也很專業，比攜程上找的包車靠譜太多。之前在攜程上訂了一家包車，結果車型和實際車輛完全不一致，所以我很氣，把第二天的車給取消了，改成從酒店訂，前後對比太明顯了，所以很推薦這家！他家的經理很帥也很高，服務也很能為客人着想，我不是從顏值出發説的啊，前台接待也很專業，對海口的dfs都很熟，基本上問啥都能給提供專業服務。
+----------------------------------------
+name:Z‍h‍a‍o‍x‍i‍a‍n‍s‍h‍e‍n‍g
+info:Guestroom (2 beds)
+info:Stayed in June 2023
+info:Family
+info:7 Reviews
+rating:3.5
+posted:Posted June 25, 2023
+msg:雙床房房間有點小，潮味大。
+----------------------------------------
+name:S‍h‍u‍i‍h‍u‍g‍u‍a‍n‍m‍a‍n
+info:Deluxe Ocean-view Twin Room
+info:Stayed in December 2023
+info:Friends
+info:85 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:房間非常實用。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in September 2023
+info:Business travelers
+info:3 Reviews
+rating:3.5
+posted:Posted September 27, 2023
+msg:可以，性價比不錯。
+----------------------------------------
+name:L‍i‍y‍o‍n‍g‍w‍a‍n‍g
+info:Guestroom (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:15 Reviews
+rating:2
+posted:Posted March 10, 2023
+msg:性價比太差，服務態度不好，隔音效果更差
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in March 2022
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted March 26, 2022
+msg:老牌酒店，翻新過，地理位置挺好，早餐還行😊總體來説性價比高，值得入住喲，服務態度也好，設備設施都可以的，不算特別高檔。但是對得起這個價格，不會失望，哈哈😊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 7, 2023
+msg:免費升級套房，服務非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 25, 2023
+msg:房間很乾凈，設施不錯，早餐挺好吃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in February 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 24, 2023
+msg:環 很好，江景房，視野很好，房價乾淨整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted July 12, 2021
+msg:酒店位置很不錯的，出門步行可以沿着碧海大道欣賞海景，我想很多人都是通過碧海大道這塊喜歡上海口的，距離海南大學倆公里樣子，停車方便，房間舒適敞亮，前台熱情親切，入住很滿意
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in July 2023
+info:Friends
+info:3 Reviews
+rating:5
+msg:環境很好，房間整齊乾淨
+----------------------------------------
+posted:Posted October 9, 2023
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in December 2023
+info:Business travelers
+info:65 Reviews
+rating:5
+posted:Posted February 5, 2024
+msg:還是很不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in October 2023
+info:Business travelers
+info:126 Reviews
+rating:5
+posted:Posted October 14, 2023
+msg:服務好 值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in October 2021
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted November 1, 2021
+msg:房間很大，落地窗的圓形設計我很喜歡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in October 2023
+info:Booked for others
+info:2 Reviews
+rating:5
+posted:Posted November 4, 2023
+msg:壞境很不錯。安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in July 2023
+info:Friends
+info:15 Reviews
+rating:5
+posted:Posted August 11, 2023
+msg:房間設施還行，衞生不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted June 9, 2023
+msg:房間很大，服務很好，窗外風景秀麗
+----------------------------------------
+name:J‍i‍a‍n‍g‍l‍i‍m‍i‍n
+info:Premier Family Suite
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:4.2
+posted:Posted February 8, 2024
+msg:房間很好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted September 7, 2023
+msg:河景房，早餐不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in April 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted July 9, 2023
+msg:服務非常好，房間睡的非常舒服！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in May 2022
+info:Business travelers
+info:20 Reviews
+rating:4
+posted:Posted June 20, 2022
+msg:對的起這個價格，裏面餐廳經理，走哪噴嚏打到哪，肆無忌憚，也不捂着點。旁邊服務人員，若無其事，也是沒誰了。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in February 2023
+info:Business travelers
+info:62 Reviews
+rating:4
+posted:Posted March 11, 2023
+msg:設施有點老舊，但入住還是比較舒適的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in November 2021
+info:Friends
+info:2 Reviews
+rating:1
+posted:Posted November 29, 2021
+msg:1酒店層高太低、面積很小，住的很壓抑，
+很擠
+2.被單是臟的
+3.Wi-Fi信號差、酒店的首要反饋是手機電
+腦關機，而後才是送路由器增強信號，
+關機開機的時間早就送上來路由器了工作
+人員這麼懶嘛？
+4.酒店保安態度差，
+停車位不幫忙找、
+住
+店客人不是人嗎？衹有辦婚禮和會議的車
+重要？車多的時候不更應該對住店客人做
+好停車準備？讓我把車挪來挪去態度很惡
+劣
+5.住店客人住酒店停車要收費，聽也沒聽
+説過
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in May 2022
+info:Couples
+info:10 Reviews
+rating:5
+posted:Posted July 17, 2022
+msg:酒店環境很好，房間雖然小，但是很舒適，乾淨，設施齊全，服務態度好。交通方便，早餐品種多，價格也實惠。
+----------------------------------------
+name:Z‍h‍a‍n‍g‍r‍o‍n‍g‍g‍u‍a‍n‍g‍@‍y‍u‍x‍i‍n
+info:Guestroom (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:16 Reviews
+rating:3
+posted:Posted May 5, 2023
+msg:位置很好，周邊飲食出行很方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in March 2023
+info:Friends
+info:1 Review
+rating:4.7
+posted:Posted March 6, 2023
+msg:從性價比看，新業態是非常不錯的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 5, 2023
+msg:前台小廖服務熱情非常好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in February 2023
+info:Couples
+info:9 Reviews
+rating:5
+posted:Posted February 17, 2023
+msg:環境挺好，前台服務熱情周到直得點贊👍
+----------------------------------------
+name:Y‍a‍n‍z‍h‍e‍n
+info:Executive Ocean-view Suite
+info:Stayed in December 2022
+info:Family
+info:1 Review
+rating:4.2
+posted:Posted January 16, 2023
+msg:設施：老舊
+衞生：可以
+環境：一般
+服務：可以
+----------------------------------------
+name:W‍e‍i‍e‍r‍b‍o‍m‍o‍z‍i
+info:Deluxe Suite (King bed)
+info:Stayed in January 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted January 15, 2023
+msg:設施完善，衞生到位，環境優美，服務很好！
+----------------------------------------
+name:W‍e‍i‍j‍u‍l‍i
+info:Guestroom (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 31, 2022
+msg:作為二十多年的老顧客，看着燕泰一點點的變化，這次去又有了新的變化，期待越來越好，下次還會去
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:4
+posted:Posted September 5, 2023
+msg:比較滿意 性價比高
+----------------------------------------
+name:C‍a‍r‍o‍l‍y‍n‍ ‍S‍h‍e‍r‍m‍a‍n
+info:Deluxe King Room
+info:Stayed in August 2023
+info:Friends
+info:10 Reviews
+rating:4.2
+posted:Posted August 10, 2023
+msg:空調老舊，製冷很差
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in November 2021
+info:Business travelers
+info:1 Review
+rating:1
+posted:Posted November 9, 2021
+msg:本人原本定了一間房，後來用工作手機又加多了一晚同樣的房間。辦理入住的時候，禮貌地跟前台説明情況，麻煩她幫我們把兩天放在一個房間就可以了。結果？？？？？那位貌似叫“劉偉”的前台態度很輕蔑地説“哦，佔便宜是吧！”（一字不漏的原話）？？？？請問這位前台是不是快離職了？？？突然向客人擺這個臭臉是什麼意思？？？還是你們的酒店文化？？文明的住客就該被野蠻地對待是嗎？？？當時沒有立即投訴是因為我們剛出差完，衹想在海口放鬆一下旅個遊，並不想被影響心情。作為海口的五星級酒店，麻煩做好員工培訓，別讓這位極品前台毀了酒店的聲譽和遊客對海口的印象！遇見這位前台，是我們在海口旅遊最差勁的回憶，印象很深刻，真是謝謝了！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 21, 2023
+msg:很好👍值得擁有
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in June 2021
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted June 16, 2021
+msg:接待西安來的客人，大堂很氣派，房間很舒適，友人喝茶談心欣賞最美的南渡江景色。感謝前台免費升級房型，服務很好，餐廳早餐也很豐盛。有機會還會再入住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in June 2023
+info:Family
+info:21 Reviews
+rating:5
+posted:Posted June 8, 2023
+msg:超級點贊，寶貝很喜歡！
+----------------------------------------
+name:Y‍u‍n‍y‍o‍u‍t‍i‍a‍n‍b‍i‍a‍n
+info:Guestroom (2 beds)
+info:Stayed in July 2023
+info:Solo travelers
+info:11 Reviews
+rating:4.7
+posted:Posted July 2, 2023
+msg:環境有點古老。。。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in October 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 14, 2021
+msg:令人心情愉悦的咖啡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in September 2021
+info:Family
+info:127 Reviews
+rating:5
+posted:Posted September 5, 2021
+msg:位置便利 服務熱情 房屋温馨乾淨 窗外風景很美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in July 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 27, 2023
+msg:衞生環境服務都很好
+----------------------------------------
+name:L‍e‍i‍t‍u‍j‍u‍s‍h‍a
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in February 2022
+info:Business travelers
+info:85 Reviews
+rating:5
+posted:Posted March 6, 2022
+msg:很不錯的一次商務旅行和入住！雖然房間不大，但是整體感覺非常好，比如：酒店位置好，交通方便，乾淨，安靜，舒適，服務周到，周邊環境好等。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:1 Review
+rating:3
+posted:Posted June 21, 2022
+msg:酒店大堂看着很氣派 但房屋內的設施一般，沒有智能的設備
+早餐很豐富 沒有自助洗衣房
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in July 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted July 24, 2023
+msg:乾淨整潔，熱情周到
+----------------------------------------
+name:D‍a‍q‍i‍g‍e‍g‍e
+info:Executive Ocean-view Suite
+info:Stayed in October 2023
+info:Friends
+info:18 Reviews
+rating:5
+posted:Posted November 16, 2023
+msg:值得推薦，優
+----------------------------------------
+name:N‍i‍n‍g‍j‍i‍n‍g‍s‍h‍i‍f‍u‍-‍w
+info:Selected Queen Room
+info:Stayed in June 2023
+info:Other
+info:51 Reviews
+rating:4.5
+posted:Posted June 15, 2023
+msg:不錯的選擇不錯的產品
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in August 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted August 24, 2023
+msg:房間很大，很豪華
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted June 28, 2023
+msg:前台服務周到熱心！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in October 2021
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted October 4, 2021
+msg:酒店在海甸島，由於是自駕出行，感覺位置還好，環境幽靜。訂房的時候看到衹有園景大床套房，沒有海景的套房，就留言叫客服幫忙安排，沒想到入住時直接幫我升級了，很開心。現在入住和退房都很迅速，早餐也不錯。
+----------------------------------------
+name:C‍h‍i‍c‍h‍u‍c‍h‍i‍c‍h‍u‍n‍v‍z‍i
+info:Selected Queen Room
+info:Stayed in June 2021
+info:Other
+info:31 Reviews
+rating:4.5
+posted:Posted June 24, 2021
+msg:88元的早餐……菜品也就38-48吧，房間的燈太暗了，總體來説一般般吧，這價格也可以了
+----------------------------------------
+name:Y‍a‍n‍-‍1‍6‍8
+info:Deluxe Garden-view Twin Room
+info:Stayed in August 2021
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 8, 2021
+msg:早餐種類多，不錯的酒店，性價比很高，推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in November 2022
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted November 23, 2022
+msg:衞生乾淨，沒有煙味，房間隔音效果還可以。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in May 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted May 21, 2023
+msg:經常來住，前台服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in October 2021
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted October 10, 2021
+msg:位置很棒，總體性價比很高！下次如果來海口，還住這裏。早餐很棒，畢竟那邊物價太高了。酒店的早餐還是物超所值的。
+🚗 交通：很便利
+🧹衞生：還可以
+🍃環境：可以
+🔔服務：很棒！前台很好，
+----------------------------------------
+name:B‍i‍n‍g‍b‍u‍x‍i‍a‍n‍g‍c‍h‍u‍m‍e‍n‍d‍e‍m‍a‍o‍x‍i‍o‍n‍g
+info:Deluxe Ocean-view Twin Room
+info:Stayed in September 2021
+info:Couples
+info:3 Reviews
+rating:4.5
+posted:Posted September 13, 2021
+msg:打車還算方便，可以到大廳門前接
+房間算大，衞生乾淨，
+但是空調效果不太好，房間鏡子佈局不合理，衣櫃門的鏡子對着床。海景房早上太陽挺大的。
+服務態度很好，打電話接的也很快。
+早餐很豐富，各種各樣都有，持續到10點半。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in March 2023
+info:Friends
+info:20 Reviews
+rating:5
+posted:Posted April 17, 2023
+msg:酒店很大，衹是設施老一些
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 6, 2022
+msg:免費升級了房型，前台小姐姐很好哦，入住體驗很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in April 2023
+info:Friends
+info:3 Reviews
+rating:2.7
+posted:Posted April 14, 2023
+msg:設施比較陳舊了，一般吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in August 2023
+info:Family
+info:7 Reviews
+rating:4
+posted:Posted September 16, 2023
+msg:層高稍矮了一點
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 27, 2023
+msg:房間不錯，住的也挺舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in January 2023
+info:Couples
+info:23 Reviews
+rating:3
+posted:Posted January 17, 2023
+msg:設施陳舊，空調聲音又大還不製冷
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in May 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:衞生很好
+服務很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in October 2023
+info:Couples
+info:7 Reviews
+rating:3
+posted:Posted November 1, 2023
+msg:床有點小，
+----------------------------------------
+name:K‍e‍y‍i‍n‍g‍o‍b‍a
+info:Premier Family Suite
+info:Stayed in March 2023
+info:Couples
+info:8 Reviews
+rating:5
+posted:Posted April 10, 2023
+msg:還不錯 酒店各項挺滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:4.5
+posted:Posted September 15, 2023
+msg:套房環境不錯，
+----------------------------------------
+name:Z‍h‍u‍i‍g‍u‍a‍n‍g‍x‍i‍n‍g‍y‍i‍n‍g
+info:Premier Family Suite
+info:Stayed in June 2023
+info:Family
+info:34 Reviews
+rating:5
+posted:Posted June 20, 2023
+msg:酒店服務非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in November 2022
+info:Business travelers
+info:21 Reviews
+rating:4
+posted:Posted January 15, 2023
+msg:酒店地理位置極佳，房間可以看到大海
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in March 2023
+info:Friends
+info:1 Review
+rating:4.5
+posted:Posted March 25, 2023
+msg:服務不錯，套房體驗更好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:20 Reviews
+rating:5
+posted:Posted October 8, 2023
+msg:房間很大，很好
+----------------------------------------
+name:S‍h‍e‍d‍e
+info:Selected Queen Room
+info:Stayed in February 2023
+info:Friends
+info:79 Reviews
+rating:4
+posted:Posted February 27, 2023
+msg:房間大。。。。就是有點味
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in January 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted January 30, 2023
+msg:超大床很舒服 連着住了兩天
+----------------------------------------
+name:L‍i‍c‍h‍a‍s‍e‍n‍d‍e‍m‍a‍n‍t‍o‍u
+info:Selected Queen Room
+info:Stayed in October 2021
+info:Other
+info:5 Reviews
+rating:4.5
+posted:Posted October 17, 2021
+msg:環境和衞生還不錯，但是停車位是真難找，其次就是定了含早餐的套餐，結果早上過去吃飯説我們不含早餐，大寫的尷尬......後來前台給解決了，但心裏也很不舒服
+----------------------------------------
+name:s‍e‍r‍e‍n‍a
+info:Executive Ocean-view Suite
+info:Stayed in September 2021
+info:Family
+info:9 Reviews
+rating:4.5
+posted:Posted January 4, 2022
+msg:酒店性價比很高，定了個套房，挺大的。就是周邊沒啥商場啥的，但自駕也能接受。早餐還不錯，服務員很有人情味，很細緻。帶寶寶吃早飯，會提示湯料內容和肉的軟硬程度，推薦合適寶寶吃的。
+----------------------------------------
+name:Z‍h‍e‍z‍h‍o‍u‍d‍e‍x‍i‍n‍c‍h‍e‍n‍g‍f‍e‍i‍y‍u
+info:Selected Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted February 17, 2023
+msg:酒店設施齊全，環境很不錯
+----------------------------------------
+name:゛‍m‍a‍d‍a‍s‍h‍u‍a‍i
+info:Premier Family Suite
+info:Stayed in July 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted July 3, 2023
+msg:性價比非常高！
+----------------------------------------
+name:J‍i‍e‍b‍o‍s‍h‍i
+info:Family Friendly Room
+info:Stayed in March 2023
+info:Business travelers
+info:27 Reviews
+rating:4
+posted:Posted June 14, 2023
+msg:環境優美，值得再次去
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in June 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 30, 2023
+msg:性價比高舒服。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 28, 2023
+msg:非常滿意，服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in March 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted March 7, 2023
+msg:賓館特別好，強烈推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in June 2023
+info:Family
+info:1 Review
+rating:4.2
+posted:Posted September 17, 2023
+msg:總體感覺還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 24, 2023
+msg:房間乾淨，服務周到
+----------------------------------------
+name:T‍a‍i‍y‍i
+info:Premier Family Suite
+info:Stayed in August 2023
+info:Friends
+info:16 Reviews
+rating:3
+posted:Posted August 10, 2023
+msg:酒店太老了，
+----------------------------------------
+name:Q‍i‍d‍a‍x‍i‍a
+info:Deluxe Garden-view Twin Room
+info:Stayed in October 2021
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted October 7, 2021
+msg:性價比太高了，免費升級了海景房，早上早飯豐富，花樣多，酒店給提供免費單車，大堂吧的養生鷓鴣茶每天來一杯，服務人員都很熱情，客房衞生不錯，下次還住這裏。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in May 2023
+info:Friends
+info:16 Reviews
+rating:5
+posted:Posted May 21, 2023
+msg:服務好，乾淨整潔
+----------------------------------------
+name:Y‍u‍e‍c‍h‍a‍n‍g‍s‍h‍i
+info:Guestroom (2 beds)
+info:Stayed in February 2023
+info:Friends
+info:59 Reviews
+rating:3
+posted:Posted February 23, 2023
+msg:對早餐留下了很好的記憶
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in February 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted February 21, 2023
+msg:前台小蒙服務我很滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted June 3, 2023
+msg:交通便利，乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Ocean-view Suite
+info:Stayed in May 2023
+info:Business travelers
+info:20 Reviews
+rating:3
+posted:Posted August 7, 2023
+msg:感覺潮濕，太潮了
+----------------------------------------
+name:B‍a‍n‍l‍u‍o‍q‍i‍n‍g‍t‍i‍a‍n
+info:Deluxe King Room
+info:Stayed in November 2022
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted November 11, 2022
+msg:前台服務非常好，酒店環境也很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 28, 2023
+msg:挺好的，就是酒店比較老了
+----------------------------------------
+name:B‍u‍l‍u‍f‍e‍i‍e‍r‍z‍i‍z‍h‍a‍n‍g‍x‍u‍n
+info:Premier Family Suite
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 26, 2023
+msg:服務中規中矩
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in April 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted April 5, 2023
+msg:房型很好 適合家庭
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in July 2022
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted July 11, 2022
+msg:親子房孩子們都喜歡，大浴缸特別不錯，早餐也特別好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in December 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 26, 2021
+msg:很好，乾淨，房間也很大，窗外風景優美，住的舒服。下雨天來杯咖啡，坐在貴妃椅上看窗外美景，人生一大享受。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 7, 2023
+msg:房間大服務周到
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in February 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted February 28, 2022
+msg:竟然升級了海景房，海景房的景色真的很不錯，房間的熱水也特別的好，衞生也做的很乾凈
+----------------------------------------
+name:z‍h‍a‍o‍y‍u‍n‍y‍u‍n
+info:Deluxe Suite (King bed)
+info:Stayed in November 2021
+info:Friends
+info:6 Reviews
+rating:1.5
+posted:Posted November 22, 2021
+msg:設施老舊，電梯地毯臟舊，完全不符合攜程的豪華型酒店，感覺是誤導攜程消費者，最多符合四星。自助早餐廳連咖啡機都沒有。
+----------------------------------------
+name:Z‍i‍y‍o‍u‍x‍i‍a‍b‍a‍b‍y
+info:Deluxe King Room
+info:Stayed in October 2021
+info:Couples
+info:10 Reviews
+rating:1
+posted:Posted November 17, 2021
+msg:大半夜的居然給的房卡開不了房間的門很是鬱悶，當班經理的態度也是高傲的，門口的保安和他説話都不理人，酒店的房間位於月子中心的樓上
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in June 2021
+info:Booked for others
+info:3 Reviews
+rating:2.5
+posted:Posted August 15, 2021
+msg:300多將近400的價格，可是房間極小，設施老化，淋浴間衹有一個浴缸，站着洗澡又怕摔跤，躺着洗又怕不衞生，而且房間當西曬，空調又不給力而且很吵，總之，感覺付了五星的價錢卻衹有小旅館的感受，好在後來實在受不了，後半夜要求換了房才勉強入睡～～
+----------------------------------------
+name:X‍i‍a‍o‍x‍i
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in February 2023
+info:Friends
+info:59 Reviews
+rating:5
+posted:Posted May 4, 2023
+msg:好評，滿意，還會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in August 2023
+info:Couples
+info:30 Reviews
+rating:5
+posted:Posted September 3, 2023
+msg:還行還行吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 28, 2023
+msg:不錯的酒店
+----------------------------------------
+name:K‍e‍k‍e‍y‍u‍1‍9‍8‍0
+info:Family Friendly Room
+info:Stayed in December 2022
+info:Family
+info:23 Reviews
+rating:4.2
+posted:Posted December 31, 2022
+msg:硬件舊了點，衞生馬馬虎虎
+----------------------------------------
+name:X‍i‍n‍h‍u‍a‍i‍m‍e‍n‍g‍x‍i‍a‍n‍g‍F‍J‍K
+info:Deluxe Garden-view Twin Room
+info:Stayed in March 2023
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted March 15, 2023
+msg:很乾凈又高檔的酒店
+----------------------------------------
+name:F‍e‍n‍l‍a‍n‍m‍o‍z‍i
+info:Deluxe Ocean-view Twin Room
+info:Stayed in July 2022
+info:Business travelers
+info:23 Reviews
+rating:4.5
+posted:Posted September 24, 2022
+msg:江景、河景近在眼前，附近有公園，環境比較幽靜。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in May 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted July 27, 2023
+msg:很喜歡這個酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in August 2023
+info:Booked for others
+info:8 Reviews
+rating:5
+posted:Posted September 4, 2023
+msg:服務滿意。
+----------------------------------------
+name:T‍o‍n‍g‍x‍i‍a‍o‍d‍a‍o
+info:Selected Queen Room
+info:Stayed in December 2021
+info:Other
+info:8 Reviews
+rating:5
+posted:Posted December 7, 2021
+msg:🧹衞生：乾淨
+🔔服務：問題都能解決
+🍃環境：看河景位置絕佳
+🚗 交通：有公交，共享單車，去景點有點遠
+----------------------------------------
+name:Z‍h‍a‍n‍g‍j‍i‍a‍n‍h‍u‍i
+info:Guestroom (2 beds)
+info:Stayed in September 2021
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted September 27, 2021
+msg:酒店不錯，可以算到上高檔型酒店，但是五星酒店就不達標了！設施有點舊了，燈光偏暗，不夠光。
+早餐的粉可以，就是品種不多，但足夠吃煲
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in January 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 14, 2023
+msg:服務好 衞生好 常來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in March 2023
+info:Business travelers
+info:2 Reviews
+rating:4
+posted:Posted April 6, 2023
+msg:還可以，早餐不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in February 2023
+info:Family
+info:6 Reviews
+rating:2.7
+posted:Posted May 1, 2023
+msg:早歺太差了。齋食。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in March 2023
+info:Friends
+info:1 Review
+rating:4.7
+posted:Posted March 19, 2023
+msg:性價比超高的酒店
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in February 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 13, 2023
+msg:靠江的房間風景不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in January 2023
+info:Business travelers
+info:101 Reviews
+rating:4
+posted:Posted March 14, 2023
+msg:酒店無冷氣，枕頭太硬
+----------------------------------------
+name:l‍i‍n‍l‍i‍n‍8‍8‍8‍7
+info:Deluxe King Room
+info:Stayed in January 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted March 10, 2023
+msg:乾淨衞生，房間寬敞。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in January 2023
+info:Friends
+info:17 Reviews
+rating:5
+posted:Posted January 13, 2023
+msg:性價比很高的一家酒店
+----------------------------------------
+name:�‍�‍z‍h‍i‍~‍n‍i‍a‍n‍�‍�
+info:Guestroom (2 beds)
+info:Stayed in June 2021
+info:Couples
+info:8 Reviews
+rating:4
+posted:Posted July 4, 2021
+msg:給升級了江景房 景色簡直是太好了 房間夠大 感謝 老牌豪華酒店 不夠時尚 屋內設施整體感覺還可以吧 前台態度一般般  沒有行李小哥送到房間 體驗感和其他五星酒店比一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in March 2023
+info:Other
+info:40 Reviews
+rating:5
+posted:Posted April 6, 2023
+msg:服務細緻入微周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in October 2021
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted October 5, 2021
+msg:環境優美設施齊全，服務態度很好，衞生也很乾凈，住的很舒服像回到家裡的感覺 ，下次有機會的話還會入住。推薦。👍👍👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in January 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted April 22, 2023
+msg:景色很好，房間很大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 28, 2021
+msg:毗江臨海，美景盡收眼底。交通便利，出冂一百米公交站點，花三元錢剩坐觀光大巴可遊覽自貿島未來的核心商區“江東新區”！
+----------------------------------------
+name:D‍e‍c‍h‍u‍a‍n‍g‍k‍e‍y‍i
+info:Deluxe Ocean-view Twin Room
+info:Stayed in February 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted February 25, 2023
+msg:前台服務非常棒！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in February 2023
+info:Booked for others
+info:37 Reviews
+rating:5
+posted:Posted March 16, 2023
+msg:性價比很高的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in January 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted January 23, 2023
+msg:環境好服務好衞生好
+----------------------------------------
+name:G‍a‍i‍s‍e‍n‍h‍a‍i‍m‍u‍s‍h‍i‍l‍e
+info:Deluxe Suite (King bed)
+info:Stayed in March 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted March 26, 2023
+msg:老品牌值得信賴
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in December 2021
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted January 7, 2022
+msg:環境位置相當好，酒店乾淨整潔，坐到窗台看海景落日不要太漂亮，連住了3晚，非常滿意
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 24, 2023
+msg:感覺不錯的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in December 2021
+info:Couples
+info:2 Reviews
+rating:4.7
+posted:Posted December 10, 2021
+msg:房間很寬暢，早餐很豐富，居住體驗很好，就是居住時間長一點，洗衣服沒找到地方晾曬！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in July 2021
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted July 21, 2021
+msg:設施稍微有點老了，但是這樣的價格住江景酒店，確實值得，衞生條件不錯，服務也好，工作人員蠻熱情的，又主動延時到2點才退房。下次會再訂。
+----------------------------------------
+name:i‍c‍e‍b‍r‍e‍a‍k‍e‍r‍.‍h‍u
+info:Deluxe Ocean-view Twin Room
+info:Stayed in September 2021
+info:Business travelers
+info:60 Reviews
+rating:5
+posted:Posted November 18, 2021
+msg:來海口基本都選擇住這裏，酒店位置不錯，在海甸島，鬧中取靜，房間很乾凈，早餐非常好，花樣多，整體服務非常好！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in May 2023
+info:Business travelers
+info:62 Reviews
+rating:4
+posted:Posted May 31, 2023
+msg:有一些黴味
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in January 2022
+info:Family
+info:8 Reviews
+rating:2
+posted:Posted January 23, 2022
+msg:的確不能星級，雖然上市公司做的產業，也擋不住豬隊友的員工懶惰找藉口
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in January 2023
+info:Family
+info:7 Reviews
+rating:4
+posted:Posted January 25, 2023
+msg:有點舊，其他還好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in January 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted January 27, 2023
+msg:服務態度非常好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Ocean-view Suite
+info:Stayed in January 2023
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted April 21, 2023
+msg:位置很好性價比高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in October 2022
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted October 5, 2022
+msg:去了很多次，一如既往的好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in May 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted May 15, 2023
+msg:很是不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in January 2023
+info:Other
+info:6 Reviews
+rating:2.7
+posted:Posted January 10, 2023
+msg:房間設施太陳舊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Ocean-view Suite
+info:Stayed in June 2022
+info:Business travelers
+info:3 Reviews
+rating:4
+posted:Posted June 29, 2022
+msg:除了空調效果差了一點，其他都還好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in May 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 11, 2023
+msg:環境比較好
+----------------------------------------
+name:H‍o‍n‍g‍g‍u‍a‍n‍g‍s‍h‍u‍s‍h‍e‍n‍g
+info:Deluxe Garden-view Twin Room
+info:Stayed in November 2022
+info:Business travelers
+info:21 Reviews
+rating:4
+posted:Posted January 11, 2023
+msg:酒店規模大，性價比好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Ocean-view Suite
+info:Stayed in July 2022
+info:Family
+info:37 Reviews
+rating:3.7
+posted:Posted September 22, 2022
+msg:中規中矩的一家酒店。談不上特色。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in January 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted February 9, 2023
+msg:酒店舒適位置好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 3, 2022
+msg:超好 下次再去  一定會入住  喜歡空間大的酒店 因為東西多 女孩子都懂得 
+前台接待也很好👍
+----------------------------------------
+name:Y‍u‍n‍u‍w‍e‍i‍x‍i
+info:Selected Queen Room
+info:Stayed in October 2021
+info:Other
+info:102 Reviews
+rating:5
+posted:Posted November 9, 2021
+msg:該酒店環境不錯，服務態度很好，酒店前後設有停車場，且靠近馬路，出行方便，值得入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 22, 2022
+msg:環境很好，服務很棒
+----------------------------------------
+name:Q‍i‍n‍g‍s‍h‍e‍n‍b‍a‍n‍c‍h‍a‍o
+info:Deluxe Garden-view Twin Room
+info:Stayed in January 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted January 24, 2023
+msg:酒店是5星級！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in July 2021
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted July 13, 2021
+msg:交通很方便，步行1公里左右的騎遊道就到海邊了，早餐很豐富，味道不錯喲。住宿的房間大，配備齊全，下次到海口的必選燕泰
+----------------------------------------
+name:A‍i‍d‍e‍q‍i‍n‍g‍k‍o‍n‍g
+info:Family Friendly Room
+info:Stayed in February 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted March 2, 2023
+msg:還算乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in March 2022
+info:Business travelers
+info:3 Reviews
+rating:3.2
+posted:Posted March 19, 2022
+msg:裝修有點久，設備老久！景觀房的景觀還是不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in March 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted March 15, 2022
+msg:新燕泰大酒店好的地方就不一一告知太多太多了。
+----------------------------------------
+name:j‍h‍o‍n‍b‍a‍b‍y
+info:Selected Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted May 21, 2023
+msg:非常棒哦！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in July 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 24, 2022
+msg:服務態度挺好的，位置也不錯，
+----------------------------------------
+name:X‍i‍a‍n‍g‍y‍u‍n
+info:Guestroom (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 5, 2021
+msg:服務熱情周到，房間乾淨整潔，客人住的比較安心，除外設施比較全，酒店外面就有小吃，商場都非常方便，以後還會來酒店的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted June 19, 2022
+msg:老感情了，每次來海口都住這裏！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in October 2021
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted November 1, 2021
+msg:環境、衞生方面做得非常好，早餐的品種沒有以前多了，煮的粉湯味道還不錯！
+----------------------------------------
+name:W‍u‍t‍u‍o‍b‍a‍n‍g‍U‍N
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in January 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 7, 2022
+msg:環境非常舒服，房間很乾凈，位置也挺方便，下次還來這住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in March 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 1, 2022
+msg:房間寬敞，安靜，乾淨！去海口喜歡住的酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in February 2022
+info:Couples
+info:99 Reviews
+rating:5
+posted:Posted February 26, 2022
+msg:非常滿意，十分理想，早餐豐富且具有當地特色！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in September 2021
+info:Business travelers
+info:1 Review
+rating:4.2
+posted:Posted September 10, 2021
+msg:酒店比較老靠海有一點黴味，空調聲音稍大一些。但價格實在早餐非常好，瑕不掩瑜性價比很高
+----------------------------------------
+name:D‍a‍l‍i‍a‍n‍m‍a‍o
+info:Selected Queen Room
+info:Stayed in February 2023
+info:Other
+info:50 Reviews
+rating:5
+posted:Posted March 3, 2023
+msg:酒店蠻不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in January 2022
+info:Business travelers
+info:1 Review
+rating:4.2
+posted:Posted January 23, 2022
+msg:房間排風扇夜裡聲音比較大，洗浴熱水流了好長時間才熱
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in March 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted April 16, 2023
+msg:好好好好。
+----------------------------------------
+name:f‍e‍n‍g‍y‍u‍a‍n‍j‍u‍n‍8‍1‍1
+info:Deluxe Garden-view Twin Room
+info:Stayed in January 2023
+info:Friends
+info:103 Reviews
+rating:5
+posted:Posted January 31, 2023
+msg:還不錯。挺好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in January 2023
+info:Other
+info:9 Reviews
+rating:5
+posted:Posted January 30, 2023
+msg:都滿意 不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in March 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted May 26, 2023
+msg:服務還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in October 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted October 8, 2022
+msg:房間舒適前台服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in July 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted September 23, 2021
+msg:這個酒店住了好多次了，非常不錯的選擇，主要是會場就一直選在這個酒店裡，點餐也很方便，周圍設施一應俱全
+----------------------------------------
+name:H‍G‍T‍W
+info:Selected Queen Room
+info:Stayed in December 2022
+info:Solo travelers
+info:53 Reviews
+rating:4
+posted:Posted December 13, 2022
+msg:各方面需要改進
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in March 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 24, 2023
+msg:不錯的體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in November 2021
+info:Business travelers
+info:19 Reviews
+rating:4
+posted:Posted November 25, 2021
+msg:🧹衞生：乾淨
+🍃環境：中等
+🔔服務：好
+🚗 交通：有點不便
+----------------------------------------
+name:b‍e‍n‍q‍j‍j
+info:Deluxe Garden-view Twin Room
+info:Stayed in July 2022
+info:Business travelers
+info:104 Reviews
+rating:5
+posted:Posted July 7, 2022
+msg:非常好，已經住了很多天了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in June 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 18, 2021
+msg:這次是跟朋友出差，剛開始住的不是這個酒店，後來住這個酒店一住挺不錯的，環境優雅，乾淨衞生，價錢還可以哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in December 2022
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted December 31, 2022
+msg:服務熱情周到
+----------------------------------------
+name:Y‍D‍Y‍D
+info:Deluxe King Room
+info:Stayed in February 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 19, 2023
+msg:老牌酒店了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in November 2021
+info:Other
+info:1 Review
+rating:1.5
+posted:Posted November 24, 2021
+msg:來這裏來挑戰你的睡眠吧  入住過酒店最炒的  沒有之一
+----------------------------------------
+name:w‍e‍n‍d‍l‍i
+info:Deluxe King Room
+info:Stayed in January 2022
+info:Family
+info:56 Reviews
+rating:5
+posted:Posted February 13, 2022
+msg:酒店環境不錯，很靠近購物點，下次還會入住
+----------------------------------------
+name:W‍e‍i‍w‍u‍t‍a‍n‍d‍i‍e
+info:Executive Ocean-view Suite
+info:Stayed in October 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted December 11, 2022
+msg:不錯不錯經常住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in January 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 6, 2023
+msg:環境舒適。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in January 2023
+info:Family
+info:9 Reviews
+rating:3
+posted:Posted January 25, 2023
+msg:酒店很老舊
+----------------------------------------
+name:J‍j‍i‍u‍y‍u‍e‍t‍i‍a‍n
+info:Selected Queen Room
+info:Stayed in May 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 8, 2021
+msg:走的時候把移動硬盤忘在酒店了，工作人員責任心很強第一時間聯繫我並很快就快遞回來了，真的太棒了！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in February 2022
+info:Business travelers
+info:14 Reviews
+rating:3
+posted:Posted March 3, 2022
+msg:前台服務態度很一般   很不耐煩
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in July 2021
+info:Couples
+info:62 Reviews
+rating:1
+posted:Posted July 22, 2021
+msg:服務不行，設備不行，我的房間有水果也沒有，根本沒有服務態度不好，衹能怎麼説
+----------------------------------------
+name:y‍u‍n‍7‍6‍8‍5‍6‍1‍0‍0‍2
+info:Deluxe King Room
+info:Stayed in June 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 27, 2022
+msg:江景很漂亮，出行方便
+----------------------------------------
+name:C‍h‍e‍n‍j‍i‍l‍i
+info:Deluxe King Room
+info:Stayed in October 2021
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted October 28, 2021
+msg:每次出差海口首先，不要問為什麼好，全靠自己體驗！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2022
+info:Friends
+info:2 Reviews
+rating:4.5
+posted:Posted July 10, 2022
+msg:環境好，房間舒適。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in February 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 24, 2022
+msg:很不錯的酒店，窗户能看到江邊美景
+----------------------------------------
+name:K‍a‍n‍r‍e‍n‍a‍o‍b‍u‍x‍i‍a‍n‍s‍h‍i‍d‍a‍1‍1‍1
+info:Deluxe Ocean-view Twin Room
+info:Stayed in June 2022
+info:Friends
+info:2 Reviews
+rating:3.2
+posted:Posted September 1, 2022
+msg:空調不太行其他都可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in December 2022
+info:Business travelers
+info:88 Reviews
+rating:5
+posted:Posted February 28, 2023
+msg:性價比很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in March 2022
+info:Solo travelers
+info:4 Reviews
+rating:3
+posted:Posted April 5, 2022
+msg:酒店設施較為陳舊，風景挺好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:115 Reviews
+rating:5
+posted:Posted September 18, 2021
+msg:服務態度很好很棒很熱情，感謝小崔，早餐很贊，推薦給大家！
+----------------------------------------
+name:d‍z‍w‍d‍z‍w‍9‍9‍9
+info:Guestroom (2 beds)
+info:Stayed in July 2021
+info:Friends
+info:4 Reviews
+rating:3.7
+posted:Posted July 17, 2021
+msg:總體來説還是可以的，性價比不錯，服務質量一般，到達酒店門口沒有人理你！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in October 2021
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted October 4, 2021
+msg:🔔服務：好
+🍃環境：好
+🧹衞生：好
+🚗 交通：方便
+----------------------------------------
+name:T‍a‍n‍g‍x‍i‍a‍o‍x‍i‍o‍n‍g‍1‍9‍9‍8
+info:Deluxe King Room
+info:Stayed in December 2021
+info:Business travelers
+info:15 Reviews
+rating:4
+posted:Posted December 15, 2021
+msg:價格親民，所以不怎麼高檔。但是乾淨衞生
+----------------------------------------
+name:J‍u‍n‍b‍u‍j‍i‍a‍n
+info:Guestroom (2 beds)
+info:Stayed in November 2021
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted November 28, 2021
+msg:早餐還可以，那個粉湯不錯，白粥也熬的很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 30, 2022
+msg:早餐好吃～服務較好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in October 2021
+info:Friends
+info:5 Reviews
+rating:4
+posted:Posted October 8, 2021
+msg:位置可以，房間也挺大，就是有點潮味，跟天氣有關。
+----------------------------------------
+name:L‍o‍n‍g‍g‍u‍i‍h‍a‍i
+info:Deluxe King Room
+info:Stayed in September 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted September 30, 2021
+msg:高檔舒適
+🍃環境：
+🔔服務：
+🧹衞生：
+🚗 交通：
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in June 2022
+info:Booked for others
+info:116 Reviews
+rating:4.5
+posted:Posted June 8, 2022
+msg:服務好，乾淨衞生。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in November 2022
+info:Solo travelers
+info:124 Reviews
+rating:4.7
+posted:Posted November 13, 2022
+msg:拖鞋太差了
+----------------------------------------
+name:Q‍i‍o‍n‍g‍j‍i‍n
+info:Guestroom (2 beds)
+info:Stayed in May 2022
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted May 4, 2022
+msg:非常好，真的非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in January 2021
+info:Business travelers
+info:7 Reviews
+rating:2.2
+posted:Posted June 29, 2021
+msg:酒店位置便利停車也方便，前台服務人員服務就很一般，不知道什麼叫服務似的，沒有一點熱情，早餐一般般，基本能滿足吃飽
+----------------------------------------
+name:E‍d‍w‍a‍r‍d‍0‍1‍0‍8‍2‍4
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in November 2021
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted November 19, 2021
+msg:房間佈局合理，面積很大，性價比很高！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in December 2021
+info:Friends
+info:46 Reviews
+rating:5
+posted:Posted December 21, 2021
+msg:酒店位置好，環境優雅，性價比很高
+----------------------------------------
+name:2‍0‍2‍4‍l‍o‍n‍g‍m‍a‍j‍i‍n‍g‍s‍h‍e‍n
+info:Guestroom (2 beds)
+info:Stayed in February 2021
+info:Friends
+info:219 Reviews
+rating:5
+posted:Posted August 4, 2021
+msg:比較老的五星級酒店，但是很安靜，設施環境設計都一般般，可是價格還算親民，能夠理解，所以選擇多次入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in June 2021
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted June 13, 2021
+msg:性價比極高。住的套房，非常大而且乾淨，服務也很好，送的早餐也豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in September 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 13, 2021
+msg:很不錯！中餐廳做飯味道也不錯！服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in June 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted June 16, 2021
+msg:酒店在海甸島，交通方便、房間乾淨、空調舒適，早餐豐富，推薦入住
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in January 2022
+info:Family
+info:78 Reviews
+rating:5
+posted:Posted January 31, 2022
+msg:海口算是很不錯的星級酒店了
+----------------------------------------
+name:1‍2‍e‍r
+info:Selected Queen Room
+info:Stayed in September 2021
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted September 29, 2021
+msg:各方面都很優秀的酒店及工作人員，細節拉滿
+----------------------------------------
+name:l‍a‍u‍r‍e‍n‍t‍2‍0‍0‍1
+info:Selected Queen Room
+info:Stayed in November 2021
+info:Business travelers
+info:19 Reviews
+rating:4.7
+posted:Posted November 24, 2021
+msg:窗外有河景，周邊都是小區比較安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in March 2022
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted April 1, 2022
+msg:乾淨衞生  服務熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in May 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 19, 2022
+msg:服務員非常有禮貌
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in November 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 28, 2021
+msg:酒店服務很好，入住以後很滿意。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in March 2022
+info:Couples
+info:29 Reviews
+rating:5
+posted:Posted March 12, 2022
+msg:早餐品種豐富，滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Ocean-view Suite
+info:Stayed in December 2021
+info:Couples
+info:1 Review
+rating:5
+posted:Posted February 12, 2022
+msg:很舒服的酒店每次都住這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in June 2021
+info:Booked for others
+info:3 Reviews
+rating:5
+posted:Posted June 15, 2021
+msg:幫朋友訂的房，環境衞生服務都很好，説下次來了還住這裏。
+----------------------------------------
+name:☆‍q‍i‍n‍g‍f‍e‍n‍g‍x‍u‍l‍a‍i‍♡
+info:Deluxe King Room
+info:Stayed in October 2021
+info:Family
+info:24 Reviews
+rating:5
+posted:Posted October 7, 2021
+msg:酒店設施齊全，衞生乾淨，房間很大。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in March 2022
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted May 14, 2022
+msg:服務一流，乾淨舒適
+----------------------------------------
+name:X‍i‍a‍o‍s‍h‍i‍z‍i
+info:Deluxe King Room
+info:Stayed in May 2021
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted September 15, 2021
+msg:酒店的位置太好了，早餐食物種類豐富，前台的服務也令人滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Ocean-view Suite
+info:Stayed in October 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted November 21, 2021
+msg:大堂劉經理人好 靠譜 服務敬業
+----------------------------------------
+name:A‍m‍a‍n‍d‍a
+info:Deluxe King Room
+info:Stayed in November 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted November 19, 2021
+msg:前台服務很好，早餐豐富，贊👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in June 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 27, 2021
+msg:預訂的大床房免費給升級成了套房，一個人住不要太爽
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in January 2022
+info:Booked for others
+info:21 Reviews
+rating:5
+posted:Posted January 20, 2022
+msg:還不錯吧，疫情防控很好
+----------------------------------------
+name:L‍u‍o‍x‍u‍a‍n
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in July 2021
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted July 28, 2021
+msg:感覺不錯，酒店就是服務員有點少，性價比合適！
+----------------------------------------
+name:L‍u‍l‍o‍n‍g‍t‍a‍i‍b‍u‍h‍u‍a
+info:Deluxe King Room
+info:Stayed in January 2022
+info:Other
+info:6 Reviews
+rating:4.7
+posted:Posted February 8, 2022
+msg:總體不錯，設施較舊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted June 9, 2022
+msg:房間寬敞明亮
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in July 2021
+info:Family
+info:25 Reviews
+rating:5
+posted:Posted August 1, 2021
+msg:早餐很豐盛，房間很乾凈，舒適，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in October 2021
+info:Friends
+info:12 Reviews
+rating:5
+posted:Posted December 14, 2021
+msg:服務軟硬條件都非常好，五星。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in November 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted November 20, 2021
+msg:前台小王很周到態度很好👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2022
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted July 7, 2022
+msg:衞生環境好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in January 2022
+info:Friends
+info:13 Reviews
+rating:4.5
+posted:Posted February 3, 2022
+msg:安靜舒適，價格適中
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Ocean-view Suite
+info:Stayed in June 2022
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted September 21, 2022
+msg:還比較滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in June 2021
+info:Friends
+info:6 Reviews
+rating:4
+posted:Posted July 3, 2021
+msg:酒店有自己的停車場，單間也不錯，挺大的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in November 2021
+info:Solo travelers
+info:46 Reviews
+rating:5
+posted:Posted November 18, 2021
+msg:各方面都不錯，停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in December 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted December 9, 2021
+msg:乾淨衞生下次繼續入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in December 2021
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted January 12, 2022
+msg:景色很好，衞生很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in December 2021
+info:Friends
+info:25 Reviews
+rating:3.2
+posted:Posted December 3, 2021
+msg:早餐好吃，其他不咋地
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in May 2021
+info:Friends
+info:71 Reviews
+rating:5
+posted:Posted July 8, 2021
+msg:服務很好，衞生乾淨，設施齊全，非常好，不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in October 2021
+info:Business travelers
+info:20 Reviews
+rating:3
+posted:Posted December 14, 2021
+msg:有些設施比較老了，有異味
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in October 2021
+info:Business travelers
+info:2 Reviews
+rating:4
+posted:Posted November 4, 2021
+msg:還可以。比較乾淨衞生。
+----------------------------------------
+name:X‍u‍b‍a‍i‍y‍u‍n
+info:Selected Queen Room
+info:Stayed in May 2022
+info:Booked for others
+info:2 Reviews
+rating:5
+posted:Posted August 15, 2022
+msg:服務到位了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in May 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 25, 2022
+msg:我喜歡住的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in November 2021
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted November 23, 2021
+msg:五星酒店，三星價格！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2021
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted July 17, 2021
+msg:可延遲到14：00退房，很開心！
+----------------------------------------
+name:S‍i‍z‍i‍D‍D
+info:Family Friendly Room
+info:Stayed in June 2021
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted June 13, 2021
+msg:風景很好，適合商務出行和家庭旅遊出行
+----------------------------------------
+name:Y‍o‍n‍g‍d‍i‍n‍g
+info:Guestroom (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 6, 2021
+msg:作為商務住宿是不錯的選擇。
+----------------------------------------
+name:C‍h‍e‍n‍h‍o‍n‍g‍y‍i
+info:Guestroom (2 beds)
+info:Stayed in May 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 3, 2022
+msg:不錯不錯呀
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in January 2022
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted February 8, 2022
+msg:不錯，會在預訂
+----------------------------------------
+name:L‍a‍n‍g‍y‍a‍-‍c‍h‍e‍n‍g‍d‍u
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in July 2021
+info:Solo travelers
+info:17 Reviews
+rating:4
+posted:Posted September 21, 2021
+msg:比較老的五星酒店了 性價比高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in November 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted November 18, 2021
+msg:早歺很好！很地道！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in February 2021
+info:Business travelers
+info:24 Reviews
+rating:4
+posted:Posted June 18, 2021
+msg:來海口出差酒店離我朋友家附近，選擇了這家酒店入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in December 2021
+info:Friends
+info:15 Reviews
+rating:5
+posted:Posted February 23, 2022
+msg:非常適合朋友一起
+----------------------------------------
+name:M‍o‍s‍e‍n
+info:Guestroom (2 beds)
+info:Stayed in June 2021
+info:Business travelers
+info:41 Reviews
+rating:4
+posted:Posted July 5, 2021
+msg:酒店樓層住過後習慣了，還不錯。
+----------------------------------------
+name:R‍e‍n‍c‍h‍i‍g‍u‍j‍i‍w‍e‍i‍s‍u
+info:Stayed in July 2021
+info:Family
+info:5 Reviews
+rating:4.7
+posted:Posted July 12, 2021
+msg:還不錯，性價比高。落地窗很棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in January 2022
+info:Business travelers
+info:8 Reviews
+rating:4.7
+posted:Posted January 21, 2022
+msg:設施稍陳舊一些
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in January 2022
+info:Business travelers
+info:33 Reviews
+rating:1
+posted:Posted January 9, 2022
+msg:黴味，蚊子，差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in October 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted November 6, 2021
+msg:非常方便、服務很好
+----------------------------------------
+name:D‍u‍n‍z‍a‍i‍d‍a‍q‍i‍c‍e‍n‍g‍s‍h‍a‍n‍g‍h‍u‍x‍i
+info:Selected Queen Room
+info:Stayed in October 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted November 3, 2021
+msg:環境優美，服務周到
+----------------------------------------
+name:R‍a‍o‍b‍o‍s‍h‍i
+info:Selected Queen Room
+info:Stayed in October 2021
+info:Friends
+info:134 Reviews
+rating:4
+posted:Posted October 24, 2021
+msg:地點可以，早餐一般
+----------------------------------------
+name:B‍e‍n‍t‍u‍o‍t‍a‍y‍i‍n‍g‍k‍a‍o‍s‍h‍u
+info:Deluxe Ocean-view Twin Room
+info:Stayed in June 2021
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted October 24, 2021
+msg:環境舒適，趕緊衞生，交通方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Family Suite
+info:Stayed in May 2021
+info:Solo travelers
+info:4 Reviews
+rating:4
+posted:Posted June 23, 2021
+msg:住的還行，就是園景房還不如普通的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in January 2022
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted February 2, 2022
+msg:衞生服務都好
+----------------------------------------
+name:Y‍i‍d‍a‍l‍i‍w‍a‍n‍g‍c‍h‍a‍n‍g‍l‍i‍n‍g
+info:Deluxe Garden-view Twin Room
+info:Stayed in June 2021
+info:Business travelers
+info:28 Reviews
+rating:5
+posted:Posted October 8, 2021
+msg:房間看上去有點大，還可以吧！
+----------------------------------------
+name:K‍a‍d‍i‍w‍a
+info:Deluxe King Room
+info:Stayed in November 2021
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted December 23, 2021
+msg:挺不錯的房間很大
+----------------------------------------
+name:N‍u‍o‍y‍a‍n‍5‍1‍7
+info:Selected Queen Room
+info:Stayed in October 2021
+info:Business travelers
+info:9 Reviews
+rating:4.5
+posted:Posted October 11, 2021
+msg:出差商旅住這裏不錯
+----------------------------------------
+name:Z‍h‍i‍z‍u‍z‍h‍i‍r‍e‍n
+info:Selected Queen Room
+info:Stayed in March 2022
+info:Friends
+info:40 Reviews
+rating:5
+posted:Posted March 31, 2022
+msg:物美價廉哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in October 2021
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted October 31, 2021
+msg:挺滿意的一次入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in September 2021
+info:Business travelers
+info:2 Reviews
+rating:4
+posted:Posted March 6, 2022
+msg:酒店環境服務非常棒
+----------------------------------------
+name:H‍D‍L‍2
+info:Deluxe King Room
+info:Stayed in July 2021
+info:Business travelers
+info:230 Reviews
+rating:4
+posted:Posted December 18, 2021
+msg:酒店還行，停車也方便。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in October 2021
+info:Friends
+info:2 Reviews
+rating:2.2
+posted:Posted November 17, 2021
+msg:酒店的黴味很嚴重
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in November 2021
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted December 3, 2021
+msg:很不錯，很舒適
+----------------------------------------
+name:J‍i‍u‍d‍i‍a‍n‍l‍a‍o‍x‍u
+info:Deluxe Garden-view Twin Room
+info:Stayed in February 2022
+info:Friends
+info:5 Reviews
+rating:4
+posted:Posted March 5, 2022
+msg:早午餐不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 1, 2021
+msg:房間很乾凈，超值
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in May 2021
+info:Business travelers
+info:4 Reviews
+rating:1.5
+posted:Posted June 13, 2021
+msg:該店太不理想了。服務也不好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in June 2021
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted June 20, 2021
+msg:服務很好，給升級了房型
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2021
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted July 11, 2021
+msg:交通方便，服務周到。
+----------------------------------------
+name:y‍o‍u‍g‍u‍a‍l‍i‍a‍n
+info:Guestroom (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted July 18, 2021
+msg:服務不錯，環境也可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in January 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 9, 2022
+msg:挺好，，，
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in September 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted October 7, 2021
+msg:非常喜歡這個酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in November 2021
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted November 25, 2021
+msg:前台服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in December 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 17, 2021
+msg:不錯的選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in October 2021
+info:Business travelers
+info:15 Reviews
+rating:4
+posted:Posted February 5, 2022
+msg:服務有待提高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite (King bed)
+info:Stayed in December 2021
+info:Friends
+info:31 Reviews
+rating:5
+posted:Posted December 6, 2021
+msg:挺舒服乾淨
+----------------------------------------
+name:W‍u‍b‍u‍l‍a‍x‍i‍m‍o‍w‍e‍i‍q‍i
+info:Deluxe King Room
+info:Stayed in November 2021
+info:Business travelers
+info:29 Reviews
+rating:5
+posted:Posted November 28, 2021
+msg:服務很熱情
+----------------------------------------
+name:s‍u‍n‍n‍y‍w‍x‍f
+info:Deluxe Garden-view Twin Room
+info:Stayed in April 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted July 14, 2021
+msg:離海鮮市場、海邊都不遠
+----------------------------------------
+name:Z‍h‍a‍n‍g‍d‍u‍a‍n‍-
+info:Stayed in April 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 11, 2021
+msg:環境很好，早餐很好，思
+----------------------------------------
+name:q‍i‍n‍g‍d‍a‍o‍w‍c‍b
+info:Selected Queen Room
+info:Stayed in September 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted September 30, 2021
+msg:早餐挺豐富的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in June 2021
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted June 11, 2021
+msg:方便、温馨、乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in June 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 10, 2021
+msg:還不錯，蠻乾淨的
+----------------------------------------
+name:J‍u‍n‍x‍i‍�‍�‍�‍�
+info:Deluxe Ocean-view Twin Room
+info:Stayed in October 2021
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted October 9, 2021
+msg:外景非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2021
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted July 9, 2021
+msg:非常好早點豐盛
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in August 2021
+info:Other
+info:13 Reviews
+rating:1
+posted:Posted October 10, 2021
+msg:就一般 一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in September 2021
+info:Business travelers
+info:4 Reviews
+rating:4
+posted:Posted November 26, 2021
+msg:可以可以的
+----------------------------------------
+name:C‍h‍u‍i‍f‍o‍f‍o
+info:Selected Queen Room
+info:Stayed in June 2021
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted June 13, 2021
+msg:酒店前台很優秀
+----------------------------------------
+name:X‍i‍a‍o‍x‍i‍a‍o‍x‍i‍a‍o‍n‍i‍d‍a‍d‍a
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted January 2, 2022
+msg:不錯的地方
+----------------------------------------
+name:M‍e‍n‍g‍c‍h‍e‍n‍x‍i
+info:Guestroom (2 beds)
+info:Stayed in March 2021
+info:Other
+info:23 Reviews
+rating:5
+posted:Posted August 20, 2021
+msg:很好乾凈衞生舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in June 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 10, 2021
+msg:早餐特別豐盛
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in April 2021
+info:Couples
+info:28 Reviews
+rating:5
+posted:Posted September 14, 2021
+msg:【家庭主題房】
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Garden-view Twin Room
+info:Stayed in June 2021
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted June 8, 2021
+msg:就是少了早餐
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Queen Room
+info:Stayed in July 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 25, 2021
+msg:免費升房了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite - Garden-View (2 beds)
+info:Stayed in May 2021
+info:Other
+info:69 Reviews
+rating:1
+posted:Posted September 25, 2021
+msg:一女前台騙人
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in June 2021
+info:Other
+info:22 Reviews
+rating:5
+posted:Posted July 11, 2021
+msg:酒店高大尚
+----------------------------------------
+name:M‍a‍t‍e‍l‍a‍i‍z‍h‍u‍o‍w‍e‍n‍j‍u‍n
+info:Stayed in June 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted September 21, 2021
+msg:很好好好好
+----------------------------------------
+name:W‍u‍y‍u‍n‍j‍i‍a‍o‍f‍u
+info:Guestroom (2 beds)
+info:Stayed in March 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 16, 2021
+msg:商務酒店還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in January 2021
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted July 13, 2021
+msg:房間面積大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Ocean-view Twin Room
+info:Stayed in April 2024
+info:Family
+info:15 Reviews
+rating:3.7
+posted:Posted April 13, 2024
+msg:白天到半夜兩點樓上吵個不停，找前台處理，得不到解決，差評
+----------------------------------------

@@ -1,0 +1,143 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room (Villa 6)
+info:Stayed in February 2023
+info:Business travelers
+info:6 Reviews
+rating:1
+posted:Posted February 11, 2023
+msg:Very cold! Very cold! Very cold!
+Turned on the air conditioner all night, the room was always 20 degrees, added a quilt, wore pajamas and a coat, and barely fell asleep at 1 o'clock in the morning
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in July 2021
+info:Other
+rating:5
+posted:Posted July 29, 2021
+msg:The location of the hotel is convenient and easy to find. It is a**ospheric and has convenient parking. It is suitable for self-driving travel. The beautiful lady at the front desk helped me check in quickly. The room was clean and tidy, and the mattress was very comfortable. You can walk in the evening and jog in the morning, a very good manor hotel.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2021
+info:Other
+rating:3
+posted:Posted June 11, 2021
+msg:Average, no heating/air conditioning, service not up to date. good environment.
+----------------------------------------
+name:D‍o‍u‍b‍a‍o‍g‍o‍n‍g‍z‍h‍u
+info:Deluxe Standard Room (Building 5)
+info:Stayed in April 2024
+info:Family
+info:9 Reviews
+rating:1
+posted:Posted April 24, 2024
+msg:太差了，就跟90年代的國營賓館差不多，房間電話是壞的，前台一問三不知，出租車不讓開進去，入住要我自己拖着行李走了三公里，問前台怎麼回市區高鐵站也不知道，讓我去問擺渡車司機，竟然沒有客房送餐，太無語了
+不要住，誰住誰後後悔
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room (Building 5)
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:2.7
+posted:Posted April 27, 2024
+msg:真的不是很好的體驗，晚上十點鐘下火車到門口，居然不讓車進，因為帶着孩子還有行李，跟酒店溝通，酒店既不安排接送，也不讓車進去，大半夜，帶着孩子拖着行李走二十多分鐘才到酒店，再也不想來了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Triple Room
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:3.7
+posted:Posted September 4, 2023
+msg:4A景區內，園區環境路況不錯，氣候宜人，房間寬敞明亮，就是早餐，午餐不盡人意，品種菜品少，餐費價格貴。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in December 2023
+info:Other
+rating:2.5
+posted:Posted December 20, 2023
+msg:價格死貴房間很冷空調不管用屋內19度，早餐更搞笑沒有自助，美其名曰桌餐兩個素菜一份小米粥，完全和價格不匹配，服務人員服務意識也不行，就是個坑，訂房必須多花錢訂早餐。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room (Building 5)
+info:Stayed in April 2024
+info:Couples
+info:3 Reviews
+rating:3.5
+posted:Posted April 22, 2024
+msg:前台的姑娘服務態度真的比較差，不是五星級酒店應有的水平。想投訴她但是算了😐
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room (Building 5)
+info:Stayed in October 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted October 26, 2023
+msg:酒店就在湖邊，周圍環境很好！停車場很大，非常方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (Building 3)
+info:Stayed in December 2023
+info:Business travelers
+info:16 Reviews
+rating:1
+posted:Posted December 25, 2023
+msg:服務差，態度差，地勢偏遠，周邊配套少
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in June 2024
+info:Other
+rating:3
+posted:Posted June 4, 2024
+msg:一般般！裝修老舊
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room (Villa 6)
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:3.7
+posted:Posted January 19, 2024
+msg:空調製熱效果不好，睡着很冷
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (Double bed) (Building 3)
+info:Stayed in March 2024
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted June 7, 2024
+msg:環境不錯哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in November 2023
+info:Other
+rating:1.3
+posted:Posted November 26, 2023
+msg:太冷了，體驗差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room (Building 5)
+info:Stayed in August 2023
+info:Family
+info:28 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:環境不錯，價格適中
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in October 2021
+info:Other
+rating:5
+posted:Posted October 24, 2021
+msg:好很好非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (Double bed) (Building 3)
+info:Stayed in July 2021
+info:Friends
+info:1 Review
+rating:1
+posted:Posted July 25, 2021
+msg:環境優美，棒！
+----------------------------------------

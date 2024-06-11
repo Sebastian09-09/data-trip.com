@@ -1,0 +1,4456 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 15, 2024
+msg:The service is thoughtful and enthusiastic, the room is clean and sanitary. Good reviews, mainly convenient parking
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 14, 2024
+msg:The facilities are complete and suitable for business trips and tourism. The front desk arranged a quiet room. I like it very much and recommend it.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 13, 2024
+msg:It's great to have such a hotel in a small county, and it has been open for 13 years. Overall, it is a relaxing place
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 13, 2024
+msg:The room is clean and hygienic, and it is very convenient to travel. The girl at the front desk was very attentive and even gave me a carnation on Mother's Day. Thank you for the good review
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 14, 2024
+msg:The room is clean and tidy. The location is excellent. The county government is in front. There are many parking spaces. Parking is very convenient. The breakfast is complete and tastes good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 13, 2024
+msg:The room is clean and tidy, the box is high-end and upscale, the service staff is particularly warm and thoughtful, next time I will choose Oubaolia Hotel
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 10, 2024
+msg:There were many people queuing at the front desk. I waited for a while but the service remained at the same level. They also helped me upgrade the room for free. The charging station for the train is very powerful. I recommend staying at Oubao
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 10, 2024
+msg:The old hotel is well maintained. It is clean and tidy. The front desk concierge service is very thoughtful. Fruits and dolls were given on the day of check-in. I made a travel guide before coming. The children liked the Datao Pear Garden very much and took a lot of photos. It is recommended to stay at the Oubaolia Hotel
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 24, 2024
+msg:The hotel is very clean and has a good view. What I like most is that parking is very convenient. There are parking spaces both above and below the ground. The underground parking spaces are also very convenient. You can take the elevator directly to the room after getting off the car. I will choose this hotel again next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted April 25, 2024
+msg:It's my first time back home. The overall feeling is good. Some floors are being renovated and decorated. The boss is attentive and should keep up with the times. The front desk is very gentle and patient. Parking is quite convenient
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 19, 2024
+msg:The facilities in the room are very clean, the overall stay is very comfortable, the front desk staff is very considerate and considerate. The lobby a**osphere is very stylish. It is worth praising that there is such a hotel in the county town of northern Jiangsu. It is a good hotel worth recommending.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted April 18, 2024
+msg:The hotel is in a good location. It has a lake view room with beautiful scenery, a comfortable bed, and a clean room. I like it very much. I will stay in this hotel again next time. [Love]
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted April 22, 2024
+msg:The Oboliya Hotel is very good. I especially like the big bathtub in the room. The children played with it for a long time. It was a very happy stay. I will come again next time. The front desk service is also very good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 15, 2024
+msg:I thought the hotel's facilities would be a bit old after so many years, but I could tell from the fully automatic toilet that this hotel has been improving. The buffet environment is also good, with a full range of food, I really like it.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 16, 2024
+msg:The hotel has a great location and a large space. We also received welcome fruit upon check-in. We checked in late and told the front desk lady that she specially delayed our check-out time. It was very considerate.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 14, 2024
+msg:The room is clean and comfortable, the view is nice, and the service is good. Parking is convenient, there are many charging piles, especially the fast charging ones, and there are thoughtful midnight snacks. It's good, I will come again next time
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 12, 2024
+msg:I came to Binhai from Shanghai and didn't know which hotel to choose. I looked at several platforms and finally chose to stay at Oubao. The overall environment is OK, and the service and hygiene are also good. 😊 The attached picture is as follows
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted April 23, 2024
+msg:The room is very clean, the view is also very good, the surrounding environment is also good, there is a large shopping mall nearby. The breakfast variety is very rich, the overall stay experience is very good, next time I will stay here again.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 12, 2024
+msg:The hotel was very considerate and arranged a lake view room. There was also a free doll. The breakfast was very rich. The guide (security guard) at the gate was very friendly. Thumbs up
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Twin Room
+info:Stayed in August 2023
+info:Family
+info:31 Reviews
+rating:2.7
+posted:Posted August 21, 2023
+msg:Environment: Not bad. It must have been open for many years. It is quite old.
+Facilities: The only thing I'm satisfied with is the smart toilet. The TV is too small and the smart TV can't be used to watch channels. It's boring for children to live there.
+Service: OK, average
+Hygiene: Maybe the hotel has old carpets that feel unclean after a long time.
+Breakfast is ok with a lot of variety
+----------------------------------------
+name:S‍u‍a‍n‍t‍i‍a‍n‍j‍i‍a‍n‍g
+info:Lake-view Double Room
+info:Stayed in August 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted August 21, 2023
+msg:Very quiet, good service, lake view room with wide view, breakfast is very rich!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:2 Reviews
+rating:4.2
+posted:Posted July 15, 2023
+msg:The experience of this stay was very bad. There were two annoying things: 1. The air conditioner and lights in the room turned off and on like a strange event around 1 a.m. and lasted until dawn. Since I only stayed for one night, I didn’t want to stay there. I was busy at night, so I checked out the next day and left directly; 2. Since there is an alarm clock in the room, it is necessary to set the time correctly. Who knew that the alarm clock was not accurate and almost caused a delay, but luckily I checked the time on my phone. What I want to say is: This is definitely not the first time that this room facility problem has occurred. Why do you still arrange this room for guests?
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 30, 2023
+msg:It is not easy to have such a hotel in my hometown. I have started a business in other places and I know very well that it is easy to start a business but difficult to maintain. The rooms of this hotel are clean and the front desk service is very considerate. It is highly recommended. I also hope that this kind of service can be maintained.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in November 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted November 25, 2023
+msg:The service attitude is standard and highly recommended. Although the decoration time is relatively long, there is no peculiar smell, which is both a disadvantage and an advantage. The best hotel in this location, the service is much better, the price is not expensive, the environment is good, the room is clean, and the breakfast is very rich. Thank you to the lady at the front desk for helping me upgrade my room. Highly recommended.
+----------------------------------------
+name:M‍o‍u‍s‍e‍y‍u
+info:Superior Room (2 beds)
+info:Stayed in June 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted June 9, 2024
+msg:酒店設施不錯，衞生也收拾的很乾凈，整體入住感覺很好。窗外就是南湖，景色很好，晚上景觀燈開燈後很漂亮。工作人員王秀林看到我們帶着小朋友來還特意主動給我們送了小童拖鞋和玩具，還有歡迎水果和小點心酸奶。酒店周邊有大型的商店，還有小吃店，水果店什麼的，出去吃點東西逛逛啥的還蠻方便的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Double Room
+info:Stayed in May 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 14, 2024
+msg:房間乾淨，又漂亮，茶吧周友梅服務很貼心，不光服務好還幫我照看孩子，一點也不耽誤服務質量，給她好評，和朋友一起到的濱海，包廂菜也好吃，推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted May 18, 2024
+msg:來了幾次了 整體環境好 前台熱情❤️ 還熱心推薦四周景區遊玩 月亮彎和無土番茄栽培園  晚上預留一間自助包廂 氛圍感很好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 13, 2024
+msg:地理位置很方便，房間大小正合適，乾淨明亮，部份樓層在翻新，客房服務員趙海娟打掃衞生很乾凈，服務態度好，點贊，期待下一次的入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 18, 2024
+msg:前台辦理入住快速有效  房間乾淨又整潔  淋浴房出水很快  去了餐廳加了一份早飯🥣  還是可以的  整體不錯 好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:入住很滿意，房間乾淨寬敞安靜，前台服務很禮貌周到，禮賓員很熱情的幫忙拿行李，下次還會選擇這家酒店，性價比超高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 18, 2024
+msg:交通便利一佇車方便。
+房間洗漱用品舒適，床上用品柔軟。晚餐廳好多人用餐，中式西式多有，倶全，退房前台速度，點贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted May 21, 2024
+msg:感謝前台升級這間湖景房，風景迷人，漂亮。下次去濱海，還會選擇歐寶利亞大酒店，服務都挺好了，是一次不錯的體驗
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted April 22, 2024
+msg:早餐中西結合，中餐包廂菜餚很有當地特色，夜裡有免費夜宵，一次不錯的入住體驗，蛋糕也很好吃，孩子很喜歡！！！尹鵬璋服務很好，點贊！！！
+----------------------------------------
+name:a‍w‍e‍n‍8‍0‍8‍9‍0‍0
+info:Lake-view Double Room
+info:Stayed in April 2024
+info:Family
+info:52 Reviews
+rating:5
+posted:Posted April 7, 2024
+msg:酒店高檔大氣，環境優美宜人，內部設施先進，酒店服務周到，酒店管家王秀林提前安排好了入住環境，並貼心地準備了水果點心，讓人有賓至如歸的感覺。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:位置不錯，交通方便，整體設施齊全，前台服務人員態度很好。下次有機會到濱海，還入住這個酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted April 24, 2024
+msg:服務，衞生環境都滿意，前台有問必答，一塊手錶不知道到哪裡去了，找半天沒找到，陳志平很仔細幫我找到了。工作教認真
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:出行方便，停車位多，房間乾淨衞生，四周環境也漂亮，服務人員都還不錯好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted April 24, 2024
+msg:很喜歡這種經典古典風格的酒店，房間乾淨，床舒適，貼心姐姐顧春艷非常有耐心，一直關心我有什麼需要聯繫她
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 15, 2024
+msg:整體環境好，停車方便，包廂楊勝利熱情周到，菜餚美味，很有當地特色
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted April 14, 2024
+msg:第一次來濱海入住這家酒店，服務環境都很好 管家王秀林非常貼心，還送了水果，下次來還會選擇入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted April 26, 2024
+msg:酒店整體環節不錯，
+正在翻新裝潢。
+前台小趙服務態度很好。操作很快！點贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 25, 2024
+msg:房間非常舒適，安靜  乾淨。早餐30元能接受，看起來就非常新鮮，好吃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 14, 2024
+msg:房間衞生整潔，床很舒服，還送免費水果和娃娃，退房還可以寄存行李，一次不錯的體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 24, 2024
+msg:房間乾淨整潔，停車方便整體環境不錯晚上風景好酒店後面還有葯房
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted April 25, 2024
+msg:房間整潔，乾淨，樓上阿姨王秀  服務周到，酒店環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 26, 2024
+msg:房間乾淨，停車方便，西餐廳早餐環境不錯，推薦入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted April 26, 2024
+msg:房間乾淨整潔，服務好
+晚餐氛圍很安靜，個人挺喜歡😍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 16, 2024
+msg:房間乾淨，🛏️舒適，和朋友一起過來的，包廂餐口味挺好👌🏻的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted April 21, 2024
+msg:乾淨整潔，服務周到還有免費水果贈送
+整體環境還可以！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 18, 2024
+msg:房間乾淨，服務好！晚餐豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 15, 2024
+msg:房間滿意，晚餐滿意，好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted April 14, 2024
+msg:整潔乾淨，標準高，適合各類型活動出差旅遊居住，推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 2, 2024
+msg:設施齊全，房間乾淨，服務周到推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 16, 2024
+msg:停車方便，整體環境好，退房還可以行李寄存，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 16, 2024
+msg:前台人員服務熱情6666小雨淋印象深刻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 16, 2024
+msg:商務出行好去處，房間乾淨又整潔，還送歡迎水果和娃娃，推薦入住，給於好評
+            設施：'齊全
+             衞生：乾淨
+             環境：温馨
+              服務：周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 20, 2024
+msg:酒店不錯服務很好👌
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 24, 2024
+msg:這次的酒店入住體驗超出了我的期待！首先，位置非常方便，距離去哪裡都很近，省去了很多不必要的時間，而且酒店的設施非常現代化，房間寬敞明亮，裝修風格簡約而高雅。床鋪舒適，讓人每晚都能擁有高質量的睡眠。此外，衞生間的設施也非常齊全，乾淨整潔，給我留下了深刻印象
+----------------------------------------
+name:Y‍u‍a‍n‍m‍a
+info:Superior Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 24, 2023
+msg:房間很大 
+有衣帽間 有淋浴 有浴缸 
+有寬敞的辦公桌
+冬至送了水果和玩偶 很貼心 
+10 樓無煙樓層 贊
+----------------------------------------
+name:S‍t‍a‍c‍y
+info:Excutive  Room
+info:Stayed in December 2023
+info:Business travelers
+info:1 Review
+rating:4.5
+posted:Posted December 21, 2023
+msg:服務員王秀林服務到位，物品配送及時，還送了水果酸奶和一衹可愛的兔子玩偶，就是行政酒廊似乎衹是個擺設，建議改進
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in April 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 11, 2024
+msg:酒店地理位置非常好，左邊是南湖，夜景很漂亮，右邊是大型商場吃喝玩樂購一應俱全，出門不用打車的，很方便。房間很大，特別是洗漱區域，乾濕分離，還有專門的衣帽間，行李和外套都能放，在濱海縣城能有這麼好的酒店實屬難得。服務人員也都很棒，給人很親切和藹的感覺。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 12, 2024
+msg:湖景房景色很漂亮。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 14, 2024
+msg:酒店就在縣政府後麪，出現也很方便，房間衞生非常乾淨 設施設備齊全，房間還有一個小冰箱供使用，前台接待服務熱情，辦理入住、退房非常快，這是一次非常愉快的入住體驗！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted June 10, 2024
+msg:給家人定的酒店，算是很滿意的酒店了，服務到位稱得上賓至如歸了，樓層阿姨服務熱情周到，環境還舒適。前台辦事效率快。總體家人很滿意。推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:酒店地段沒話説，前面縣政府，旁邊商超，而且出行非常方便，餐飲食材很新鮮，特別充電樁很快，工作人員都很好，親切友善，入住體驗非常棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted April 23, 2024
+msg:經常入住的酒店，周邊環境不錯，停車也很方便，服務員陳俊服務特別用心，看我們帶了小朋友特地給我們送來小童拖鞋，又多送了兩瓶礦泉水，非常感謝！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted March 7, 2024
+msg:濱海唯一的五星級酒店，高大上，外面是美麗的湖景，交通十分便利。房間很大，雖然酒店已經十多年了，但是設施還挺好。工作人員非常專業，熱情。早餐種類繁多，口味很好👌
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2024
+info:Other
+info:9 Reviews
+rating:5
+posted:Posted June 10, 2024
+msg:前台服務態度很好，幫我免費升級了房型，房間視野開闊，風景很好，房間非常乾淨，住得很安心舒適，送的小玩偶也很可愛
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted April 23, 2024
+msg:這次回老家探親，整體都非常愉快，服務員都笑臉相迎，非常熱情，有求必應，感覺像是回到家一樣温馨，很棒的酒店，下次回來還是首選。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 22, 2024
+msg:5星好評  聽説2011就開業了，還挺擔心衞生方面，一進去感覺整體還好，房間乾淨整潔，設施設備齊全好使用。停車也方便。下來有機會再來！😊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 29, 2024
+msg:來濱海一般都住歐堡利亞，房間空間很大，衞生也很好，非常乾淨，還很安靜，地下停車場停車也非常方便，推薦!!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 20, 2024
+msg:和朋友一起過來的，個人感覺整體環境沒的説，尤其是送水果阿姨，非常熱心，體貼，'服務很周到，酒店要好好表揚朱華紅'這個員工
+----------------------------------------
+name:S‍a‍n‍l‍u‍a‍n
+info:Superior Double Room
+info:Stayed in June 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted June 9, 2024
+msg:設施:一應俱全
+衞生:乾淨整潔
+環境:位置很好，停車方便
+服務:服務都滿意，會告訴外地出行路線點贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted April 12, 2024
+msg:挺好的，前台服務熱情，房間設備齊全，還贈送了免費的歡迎水果，五樓的健身房和游泳池都很不錯，還有自助洗衣機洗衣服很方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 23, 2024
+msg:服務很貼心 酒店位置很不錯 停車非常方便 周圍吃喝玩樂比較多 退房可以延遲下午 14:00  推薦入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted May 29, 2024
+msg:非常好，前台辦理入住很快，服務態度很好，還給免費升級了房型，早餐品種也很豐富，住得很滿意!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted April 19, 2024
+msg:住的很滿意，房間又乾淨又整潔，前台安排了一間安靜舒適房，特別感謝打掃阿姨王秀林，把我洗完的衣服晾在衣桿上
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted April 23, 2024
+msg:這真的是我入住過最滿意的酒店 不管是前台還是客房，還是泳池，西餐廳 每個人態度都非常好，讓人很舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted March 11, 2024
+msg:房間乾乾淨淨，早餐品種多，我個人喜歡小混沌，有家的味道，地上地下獨有停車場出現非常方便！想表揚一個孫冠平，服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 25, 2024
+msg:酒店設備非常完善，裝修陳設大氣，客房清掃員服務熱情周到，主動幫忙拿行李到房間，看我們帶了寶寶馬上送上一套小童用品，一次不錯的體驗！下次再來
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Leisure Twin Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 9, 2024
+msg:酒店很漂亮，房間乾淨衞生，入住有水果贈送，而且每天都送，很感謝客房服務員王秀林，服務熱情周到！還贈給孩子毛絨玩具😁。早餐也還行！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 28, 2023
+msg:Sherry  小姐姐服務很好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 25, 2024
+msg:房間大，
+景觀很好
+衞生乾淨，服務阿姨：李海梅人超好，總是麻煩她，服務相當有耐心，點贊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Other
+info:11 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:房間非常乾淨，服務也相當細緻熱情，整體環境不錯，體驗感很好，當之無愧的五星級酒店🏨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 19, 2024
+msg:濱海唯一一家五星級酒店，整體環境不錯，前台辦理速度非常快，説話很温柔服務態度非常好👌🏻點贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted February 18, 2024
+msg:酒店很好，對於小縣城來説已經很高級了，各項配套都很不錯，前台和客房的服務都很好，入住很愉快下次回老家還會選擇歐堡大酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted February 11, 2024
+msg:環境適宜，交通便利，服務人員態度好，價格合理，早餐豐盛可口，非常適合全家出遊，強力推薦，強力推薦，第一名，名不虛傳！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 17, 2024
+msg:房間很棒，乾淨整潔衞生，設施齊全，衞生間乾濕分離，酒店前台服務很周到，很熱情，環境很漂亮，空氣清新。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 9, 2024
+msg:酒店位置特別便利，房間很滿意，非常舒適，下次有機會還會選擇歐堡利亞大酒店
+----------------------------------------
+name:J‍i‍a‍n‍k‍a‍n‍g‍h‍e‍r‍u‍y‍i
+info:Superior Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:8 Reviews
+rating:4
+posted:Posted September 4, 2023
+msg:還可以就是貴了點
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 23, 2024
+msg:環境好
+很乾凈
+出行和就餐都很方便
+還贈送了水果和酸奶
+適合出差，旅遊居住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 28, 2023
+msg:酒店周邊環境一流，前台辦理入住的小姐姐很不錯，值得一提的是客房細節服務做得很好，打掃房間的阿姨看我帶電腦主動配上鼠標墊，很暖心，非常棒的入住體驗，以後來濱海首選！
+----------------------------------------
+name:P‍u‍t‍e‍n‍g‍d‍e‍w‍u‍h‍u‍a‍y‍u
+info:Superior Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 18, 2024
+msg:出差濱海入住這個酒店，房間環境很好，比較乾淨，隔音效果也不錯，服務員態度很好，還送了個小恐龍，正好拿回家給小朋友玩
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 27, 2024
+msg:總體感覺都好，五星老牌值得信賴！應該説下次還會來歐堡利亞大酒店，無論服務還是衞生都很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 29, 2024
+msg:房間乾淨整潔大堂安靜，有汽車充電裝，對我們在外面跑的人非常方便前台服務很有念心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 21, 2023
+msg:這出差濱海，住這個酒店，真的超級舒服，房間佈局也很好，前台小姐姐服務那叫一個好，早上自助餐也很棒，下次去濱海還要住歐堡利亞大酒店，超級喜歡，設施服務都一流的五星級酒店，性價比絕啦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted March 10, 2024
+msg:不愧是五星級酒店，服務，環境和衞生都沒得説，還可以游泳，早餐也不錯，很贊，很好的體驗[強]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 17, 2024
+msg:和朋友一起來滴，整體還不錯，乾淨舒適，陳紅青阿姨熱情。退房前台小姐姐們提醒物品是否有遺漏，五星好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 20, 2024
+msg:房間乾淨整潔，早餐種多，吃喝都方便，前台和樓上阿姨都很有耐心，楊亞琳幹話利索
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in January 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted January 20, 2024
+msg:環境很好，交通便利
+房間乾淨整潔，
+入住後還送歡迎水果！
+下樓加了一份早餐，門口服務員非常熱情，5星好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 10, 2024
+msg:房間配備小冰箱，電子秤，智能馬桶等，設施先進，房間也很敞亮，前台辦理入住也很快，不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2024
+info:Other
+info:8 Reviews
+rating:5
+posted:Posted June 10, 2024
+msg:特別棒的一次住宿體驗，服務特別好，以後來濱海還住這家酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in April 2024
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted April 12, 2024
+msg:房間整潔乾淨，設施設備齊全完好，早餐豐盛，停車也方便，服務熱情周到，推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted May 21, 2024
+msg:酒店環境很好 設施也齊全 有免費停車場 出行也很方便 非常推薦
+----------------------------------------
+name:Z‍h‍u‍z‍h‍u‍w‍a‍n‍g‍a‍q‍i
+info:Superior Double Room
+info:Stayed in January 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted January 19, 2023
+msg:住了無數次，幾乎每次回來都會住，環境一方面，還有貼心的服務真的很暖心，每次都會幫我把護膚品擺的整整齊齊，知道愛用礦泉水燒水、都會備足礦泉水，細節滿分💯，早餐也是多元化，中西都有，很nice
+----------------------------------------
+name:A‍y‍u‍n‍9‍9‍7‍1
+info:Lake-view Twin Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 15, 2024
+msg:前台服務規範，耐心周到，辦理入住飛快不要等，説話輕聲細語，好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 18, 2024
+msg:房間乾淨整潔，打掃阿姨非常熱情，看衞生間有剛洗的衣服，特意送了晾衣架放在陽台上，好温馨呀
+----------------------------------------
+name:M‍a‍n‍c‍h‍e‍s‍i‍t‍e‍s‍h‍i‍l‍a‍n‍g
+info:Lake-view Twin Room
+info:Stayed in March 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted March 6, 2024
+msg:房間位置很好，環境不錯，看出去就是湖，客服人員服務態度也非常好，第二次入住了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 18, 2024
+msg:服務很到位，中歸中距五星酒店，停車很方便。保安很熱心，好評
+----------------------------------------
+name:B‍a‍i‍h‍e‍h‍u‍a‍d‍e‍c‍h‍u‍n‍t‍i‍a‍n‍y‍a
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:十幾年的酒店。設備還是一樣新。保養不錯。
+前台和樓上阿姨都比較有耐心解答我的問題好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2024
+info:Solo travelers
+info:10 Reviews
+rating:5
+posted:Posted June 10, 2024
+msg:酒店很漂亮，環境很好，房間整齊，晚上有夜宵，很貼心。
+----------------------------------------
+name:M‍a‍z‍h‍o‍u‍r‍e‍n‍s‍h‍i
+info:Lake-view Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:6 Reviews
+rating:3.7
+posted:Posted June 19, 2023
+msg:訂單是套餐價，包括了歡迎水果和免費宵夜及神祕禮物，但直到退房也沒見到水果，免費宵夜更別提了，晚上十一點多打電話問才知道，需要到一樓餐廳就餐，在前台登記時，沒有一個服務員告訴我們，宵夜需要到一樓，我們一直以為五星級的酒店會提前聯繫我們，將免費宵夜送進房間，事實上被打臉了，對該酒店的服務非常不滿，就連套餐裏的神祕禮物還是在退房時問前台，才拿給我的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted May 18, 2024
+msg:酒店在翻新裝潢。不影響入住。前台還是一樣快捷。服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted May 24, 2024
+msg:房間寬敞，床品優質，衞生間乾濕分離還有智能馬桶蓋，很棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in April 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted April 2, 2023
+msg:歐堡利亞真的好，陳紅青的服務也很周到，水果很新鮮，玩偶禮物很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Solo travelers
+info:8 Reviews
+rating:5
+posted:Posted April 18, 2024
+msg:前台沈主管效率很高
+耐心講解細心
+房間整潔乾淨
+入住體現很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in February 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:房間寬敞整潔，交通十分便利，衹是洗浴實施老舊損壞，未能提前排查，需要再提升。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 21, 2024
+msg:整潔  舒適   乾淨   安全   周到   好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted March 14, 2024
+msg:房間乾淨整潔，停車方便，整體環境不錯，餐廳服務員潘麗萍非常熱心，周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in June 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted June 10, 2024
+msg:服務很好👍，房間也很乾凈寬敞，下次來濱海還會考慮
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 25, 2024
+msg:停車方便，房間乾淨整潔，設施齊全，前台服務人員熱情友好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Other
+info:8 Reviews
+rating:5
+posted:Posted March 19, 2024
+msg:酒店位置很好，出行很方便，工作人員也很好，親切友善還專業 很喜歡。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 19, 2024
+msg:整體環境好，停車方便，前台服務熱情，還延遲退房時間了，非常感謝！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted February 18, 2024
+msg:房間乾淨整潔，停車方便。環境優美，服務周到。關鍵還有現在有充電樁了，很方便
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Excutive  Room
+info:Stayed in November 2022
+info:Solo travelers
+info:15 Reviews
+rating:4
+posted:Posted November 21, 2022
+msg:房間整體設施還是可以的，衞生做得也還到位，客房服務員小劉也很友善。但是行政大床房竟然衹能看到街景，早知道這樣還不如要湖景大床房呢！另外，五星級酒店的早餐沒有現磨咖啡，咖啡機出來的竟然是速溶咖啡！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted March 17, 2024
+msg:地理位置好 ，交通便利，停車場免費提供，下次還會再選擇這家酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted March 28, 2023
+msg:除了早餐種類不多，沒有鮮榨果汁，別的還行
+----------------------------------------
+name:x‍h‍y‍u‍0‍0‍0
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in April 2024
+info:Couples
+info:13 Reviews
+rating:5
+posted:Posted April 3, 2024
+msg:房間很好，王秀林的服務很到位。每次回濱海都首選住歐堡利亞。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted March 12, 2024
+msg:酒店設施衞生服務都不錯，晚餐自助在住給的優惠價90，都還可以。
+----------------------------------------
+name:A‍L‍L‍E‍N‍K‍U‍O‍1‍9‍8‍0
+info:Deluxe Leisure Double Room
+info:Stayed in March 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted March 28, 2023
+msg:可以 環境很好 視野也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 10, 2024
+msg:乾淨，整潔，服務好，停車方便，推薦歐堡利亞大酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 25, 2023
+msg:挺好的酒店，路過濱海，帶着寶寶住了一晚，酒店很大氣，房間很大很舒服。酒店的服務人員態度也很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 15, 2024
+msg:酒店寬敞明亮，入住整體感覺很舒適，服務很熱情，早餐也很豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in October 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted October 31, 2023
+msg:房間面積大， 前台服務效率很高，很熱情 。  我們夜裡回來的晚，大堂那邊還有簡單的粥喝 很不錯 ！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2024
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:房間面積大，停車方便。禮賓和前台人員服務熱情，點贊 推薦大家入住。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:前台服務熱情，停車位地上地下都有，而且免費，還有充電樁，非常方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Twin Room
+info:Stayed in October 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 8, 2022
+msg:回老家首選住地，兒子小時候帶他住過，喃喃的説喜歡的英文的酒店，條件衞生早餐樣樣都滿意，每次都要提前預訂，這次國慶回家還是選擇這裏，在房間裏偶遇縣裡做的畫冊，書畫詩詞成了家鄉的名片，這樣的酒店也是家鄉的名片呀
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in May 2023
+info:Other
+info:1 Review
+rating:3.2
+posted:Posted June 3, 2023
+msg:想着就兩晚上，白天都在外面，就晚上睡個覺，天氣也不熱就定了間無窗的房間，結果房間香煙味大到薰**的節奏，衹住了一晚另一晚空那還忘記退房了，以後再也不能定無窗户的房間了。
+----------------------------------------
+name:x‍G‍l‍o‍b‍e‍T‍r‍e‍k‍k‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted February 2, 2023
+msg:五星級酒店，東邊為公園，西邊為商業體，周邊環境極好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted May 21, 2024
+msg:非常滿意 房間乾淨又安靜 服務員人都挺好的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted April 3, 2023
+msg:別的都沒話説，每次回老家都訂的他家酒店。這次全家出行在攜程上訂了的房，特地訂每一間都有都有特殊禮物的（毛絨玩具）或者別的玩偶，就是為了哄孩子們的，一直等到最後退房問前台，她們回答説是提供過了，在然後説是客房部安排的。我説孩子們心心念唸的，到現在都沒有，本來訂的5間，應該有5個，最後後經過協商才給了我們2個，還説沒有了。衹有2個，我就想問問是不是攜程上瞎編的項目，還是賓館就不想提供。你們協作的團隊不是溝通好的嗎？這事都忽悠顧客？誠實守信的企業？事情雖小，但是我是明明白白消費的，你提供的項目也是我購買的原因，我出了錢的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Twin Room
+info:Stayed in July 2023
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted July 16, 2023
+msg:入住體驗很好！酒店環境好，床品舒適！
+前台服務熱情！房間乾淨大氣，客房股務員王秀林阿姨，服務細心周到，每天都有果盤，酸奶，非常感謝！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in January 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted January 19, 2024
+msg:酒店環境優雅，裝修精緻，很有品味。價格合理，性價比高，物超所值。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in September 2022
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted September 20, 2022
+msg:回到家鄉，第一次住歐堡利亞酒店，感覺家鄉發展太快了，雖然酒店開業10年了，但一點看不出老、舊。前台嬌妹小姐姐説話很温柔，細心介紹酒店各種房型。客房還貼心陳蘭蘭還送了水果和玩偶，特別喜歡。希望家鄉快發展的同時，也能保持這一份真，很是感動。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted March 12, 2024
+msg:房間整潔乾淨，服務熱情友好，停車非常方便，還有充電樁
+----------------------------------------
+name:@‍a‍i‍c‍h‍a‍n‍g‍g‍e‍d‍e‍d‍a‍i‍d‍a‍z‍h‍u‍a‍n‍g‍｜‍m‍i‍n‍s‍h‍a‍n‍g‍s‍h‍i‍z‍h‍e‍n‍g‍y‍i‍j‍i‍e‍j‍u‍e
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 1, 2024
+msg:酒店服務不錯自助早餐很有家鄉特色，尤其是小草魚很不錯。
+----------------------------------------
+name:W‍a‍j‍i‍m‍u‍m‍i‍n‍g‍r‍e‍n
+info:Lake-view Twin Room
+info:Stayed in October 2023
+info:Friends
+info:13 Reviews
+rating:5
+posted:Posted November 2, 2023
+msg:環境、硬件、軟件、服務都不錯，挺好的，要説缺點可能就是性價比吧，有些超出範圍。其他都不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Leisure Twin Room
+info:Stayed in March 2023
+info:Other
+info:10 Reviews
+rating:5
+posted:Posted March 19, 2023
+msg:酒店環境不錯，客房空間和設施都不錯，最值得點讚的是前台服務，確實有五星水準，這一點彌補了酒店自助晚餐餐食以及服務的稍顯不足，所謂瑕不掩瑜，因此仍願意給出五分評價。
+真誠希望能有提升，能達到掛牌五星該有的水準。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted May 29, 2024
+msg:提供的額外服務貼心周到，床鋪柔軟舒適。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 14, 2024
+msg:房間乾淨整潔，安靜，服務一流，早餐豐富！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted March 14, 2024
+msg:設施：非常好👍
+環境：非常適合我們這些人
+服務：好
+----------------------------------------
+name:J‍e‍f‍f
+info:Lake-view Twin Room
+info:Stayed in August 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted August 23, 2023
+msg:酒店房間很不錯，果然是老牌酒店。服務員的態度也很熱情，很專業！就是棋牌房裡麪的麻將機真的要換一下了，太舊了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in May 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted May 10, 2024
+msg:設備設施齊全，啟間乾淨整潔前台服務有耐心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Twin Room
+info:Stayed in August 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted August 9, 2023
+msg:多次入住了，感覺非常好！
+這次本來住兩天，後來臨時行程有變，過了下午三點，前台也給幫忙退房了，態度非常好！👍👍！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2024
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:酒店很氣派，早餐種類豐富，服務也很暖心，很喜歡，下次還來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in June 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted June 30, 2023
+msg:酒店很好，乾淨衞生。
+前台可可小姐姐很熱情很有耐心，專業素養和高效工作,讓我的入住體驗更加愉悦和順暢。尤其還很好看，好看，好看
+----------------------------------------
+name:S‍h‍i‍l‍i‍a‍n‍g‍m‍o‍u‍m‍o‍u‍a
+info:Excutive  Room
+info:Stayed in March 2024
+info:Friends
+info:20 Reviews
+rating:5
+posted:Posted April 15, 2024
+msg:酒店位置很棒，房間環境很好，前台美女服務很棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in August 2022
+info:Business travelers
+info:43 Reviews
+rating:4.5
+posted:Posted August 28, 2022
+msg:數年前來濱海就入住歐堡，此次再體驗。前台服務熱忱，業務嫻熟。客房服務員笑臉相迎，多申請了幾瓶凈水，當班劉師傅即刻送房間，滿足客人要求。地理位置優越，交通便捷。值得一提是對面的南湖公園，景色優美。早餐豐富有特色，零點餐廳的菜價位性價比有點不對稱偏鹹，入住客房前客人扔的飲料瓶放置垃圾桶忘了清理。整個設施有些陳舊，玻璃窗外要清洗啦。希望酒店管理更上一層樓。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 31, 2022
+msg:這次出差，在網上預訂的酒店，酒店很温馨，散步回來，看到桌上為客人貼心的準備水果和牛奶，亮點是手寫的一張卡片👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2023
+info:Family
+info:6 Reviews
+rating:4.7
+posted:Posted December 19, 2023
+msg:總體感覺挺好的，入住也舒適.尤其淋浴房水龍頭特別大，洗澡很舒服。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 26, 2023
+msg:酒店停車方便，環境位置都不錯。服務員也都很熱情  性價比很高  推薦點贊👍🏻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted March 14, 2024
+msg:交通便利，房間整潔，自助早餐很不錯，強烈推薦
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2023
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted December 3, 2023
+msg:環境很好，交通便利，房間很乾凈，入住還送了水果和酸奶，很nice
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted March 10, 2024
+msg:環境很好，設備齊全，整體服務嘟不錯，早餐滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted July 27, 2023
+msg:管家王秀林服務非常好，酒店環境也不錯，商務出差首選，乾淨整潔衞生，很推薦，有機會再來，還是會選擇入住。
+----------------------------------------
+name:l‍i‍x‍u‍e‍s‍a‍n
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in May 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted May 12, 2024
+msg:出差必選的酒店，服務態度好，環境好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 18, 2024
+msg:酒店地下停車場停車很方便，房間面積比較大，環境也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 25, 2022
+msg:停車方便 酒店整體衞生好 早晚自助餐包括夜宵口味不錯 房間寬敞 洗手間也乾淨衞生 給管家陳俊好評 謝謝送給小朋友的娃娃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 7, 2023
+msg:服務真的很用心，給小朋友提供小童拖鞋小童牙刷，早餐很豐盛，久違的老家味道！棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:衹要來濱海，首選歐堡利亞大酒店。
+----------------------------------------
+name:P‍e‍i‍s‍a‍l‍u‍o‍c‍h‍e‍n‍h‍u
+info:Superior Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted May 8, 2024
+msg:環境：好
+衞生：不錯
+服務：很好
+設施：都很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in January 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted January 20, 2024
+msg:前台劉小雨熱情周到
+辦事説話效率高，順便還訂了酒席
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 29, 2023
+msg:酒店入住體驗感非常好，早餐很豐盛。過年回家入住，位置交通很方便，也很衞生。
+  有一次下鄉車子停在酒店周邊，後備箱忘記關了，聯繫酒店蒯青華，立馬安排保安幫我的後備箱關了，沒有造成損失。非常推薦。
+----------------------------------------
+name:T‍i‍a‍n‍t‍i‍a‍n‍h‍a‍o‍y‍u‍n‍q‍i
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:86 Reviews
+rating:4.7
+posted:Posted April 22, 2023
+msg:酒店周邊環境不錯，屬於商業區，逛街購物吃飯都很方便，酒店的設施有點老舊，但是可以接受，自助晚餐及早餐比較不錯，品種多，味道也可以，下次來繼續入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Solo travelers
+info:2 Reviews
+rating:4.5
+posted:Posted May 2, 2023
+msg:房間比較寬敞明亮，非常乾淨，服務較好，方便停車，中式早餐很好，品種比較多，稀飯，豆漿，麪條等都有，還有各式中式菜餚。比較推薦的一家酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted January 4, 2024
+msg:住了一晚覺得很不錯 還送了一個玩偶 保潔阿姨都很熱情
+----------------------------------------
+name:1‍1‍8‍3‍1‍4‍0‍1‍9‍9
+info:Superior Room (2 beds)
+info:Stayed in October 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted October 17, 2023
+msg:王秀林服務員服務周到細心,對房間打掃按要求迅速完成,這讓我十分滿 意！
+----------------------------------------
+name:Y‍i‍n‍h‍a‍n
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted June 27, 2023
+msg:縣城的五星級酒店，設施還是很不錯的，有晚安水果和小布偶娃娃送，服務很好，前台管家都很好，熱心，細心，周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 21, 2024
+msg:服務很好👌位置不錯 出差的首選
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted June 12, 2023
+msg:服務：王秀林服務周到熱情；自助餐廳領班主動關心96歲長者，親自幫忙點小餛飩，麪條。謝謝你們，為你們點贊👍🏻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted June 13, 2023
+msg:管家王秀林安排的很暖心，不僅有水果酸奶，還用心準備了特別的禮物，體驗感很棒的一次駐店，一輩子都忘不了❤❤
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Leisure Twin Room
+info:Stayed in May 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:王管家的服務很貼心，注重細節。
+----------------------------------------
+name:W‍u‍l‍i‍a‍o‍0‍0‍2
+info:Executive Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:8 Reviews
+rating:2.5
+posted:Posted August 18, 2023
+msg:房間免費給我做了升級，但房間進門就有黴味，兩個馬桶都有問題，而且空調巨響！什麼鬼
+----------------------------------------
+name:X‍i‍a‍o‍y‍a‍n‍h‍e
+info:Superior Room (2 beds)
+info:Stayed in December 2023
+info:Other
+info:18 Reviews
+rating:5
+posted:Posted December 3, 2023
+msg:酒店軟硬件都不錯，服務很好。樓層服務員服務周到，好評
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted March 10, 2024
+msg:前台服務熱情，早餐廳迎賓大姐微笑迷人
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 19, 2023
+msg:前台小姐姐小哥哥都很熱情 。環境也不錯 ！值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 15, 2024
+msg:非常棒的酒店，設備齊全，住的舒服值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 3, 2024
+msg:酒店設施齊全，房間乾淨整潔，住的很舒服。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in November 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted November 13, 2023
+msg:這次回老家的，入住很舒適，服務人員工作效率很高。很棒！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in November 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted November 11, 2023
+msg:房間乾淨整潔，服務態度熱情，尤其是吧枱小趙，又帥又親切
+----------------------------------------
+name:M‍a‍r‍c‍o
+info:Lake-view Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:2 Reviews
+rating:4.7
+posted:Posted March 31, 2023
+msg:1.前台服務過於生硬；2.三樓餐飲服務員業務不熟練；3.房間裏毛巾和浴巾過於陳舊；
+房間內擺放茶具很温馨。有歡迎水果很貼心。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted December 19, 2023
+msg:設施：很好
+衞生：很好
+環境：很好
+服務：很好
+----------------------------------------
+name:M‍e‍i‍m‍e‍i‍e‍r‍e‍r
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 13, 2023
+msg:酒店服務態度，環境都不錯，特別在這謝謝王秀林管家，特別細心...
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:38 Reviews
+rating:5
+posted:Posted June 30, 2023
+msg:對一個縣城而言，房間和服務都配得上這個價吧。還配管家服務，此次管家王秀林服務很周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 5, 2024
+msg:非常滿意，環境不錯，下次出差一定還來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 13, 2023
+msg:酒店提供的額外服務貼心周到，讓人感到很貼心。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Other
+info:1 Review
+rating:4.5
+posted:Posted October 7, 2023
+msg:衞生間有腥味……床太軟，環境還行，服務到位，視野可以……
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Lake-view Twin Room
+info:Stayed in October 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted December 23, 2023
+msg:非常滿意，每次回老家必住，晚上自助火鍋很好吃，服務也好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:入住和退房非常快，點贊，
+----------------------------------------
+name:B‍i‍e‍r‍k‍a‍i‍w‍e‍n
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted April 29, 2023
+msg:挺不錯的酒店，衞生也還不錯。服務也很熱情周到，房間乾淨寬敞明亮。總體來説是一個非常不錯的選擇，酒店還是不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 14, 2024
+msg:房間大，空氣好，衞生乾淨
+----------------------------------------
+name:R‍e‍s‍h‍u‍i‍j‍i‍a‍b‍i‍n‍g
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted November 20, 2023
+msg:乾淨衞生，安靜舒適，服務好，飯菜口味佳，硬件新，環境整體特別好
+----------------------------------------
+name:P‍o‍b‍a‍i‍h‍e‍a‍n‍i‍u‍x‍i‍d‍e‍l‍e‍y‍i‍f‍u
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted April 10, 2023
+msg:回來就一直選擇歐堡利亞大酒店。一如既往的好，這次唯一不足的就是房間的音樂阿姨沒關掉，導致我們早上沒休息好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2024
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted February 3, 2024
+msg:前台人員服務都很好，很主動，熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in November 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted November 12, 2023
+msg:房間面積很大，早餐種類豐富，停車方便，不擁擠。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted August 20, 2022
+msg:因為如此細心的照顧，對酒店評價滿分，感謝陳洪濤！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in September 2022
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted September 17, 2022
+msg:非常棒，景色也好
+----------------------------------------
+name:S‍h‍i‍m‍e‍i‍n‍v‍x‍i‍a‍o‍m‍a‍o‍a
+info:Lake-view Double Room
+info:Stayed in June 2023
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted June 3, 2023
+msg:沒拍照？但是從住處到自助餐都很滿意！客房服務的王秀林很熱情服務也很周到，贊一個！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 19, 2023
+msg:房間打掃的乾淨，服務不錯，下次回來還住歐堡利亞大酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:房間乾淨整潔，交通便利值得推薦
+----------------------------------------
+name:S‍i‍c‍e‍n‍g‍x‍i‍a‍n‍g‍s‍h‍i
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in April 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted April 26, 2024
+msg:房間很好，服務很到位！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Twin Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:1
+posted:Posted August 11, 2023
+msg:我不會在去住這家酒店、很差、早餐很差勁説是五星、三星都不如
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2023
+info:Solo travelers
+info:12 Reviews
+rating:5
+posted:Posted May 24, 2023
+msg:第一次入住貴店，非常滿意，有需要都會及時反應和解決，早歺很豐富。以後還會去住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in July 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted July 29, 2023
+msg:房間很乾凈，管家也很好，感謝我們的管家王秀林女士，態度非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted December 19, 2023
+msg:給鵬友定的反應還不錯，停車挺方便的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 13, 2023
+msg:房間乾淨整潔，床品舒適，睡得很好。
+----------------------------------------
+name:M‍L‍D‍M‍L‍D
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in April 2023
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted April 19, 2023
+msg:歡迎水果有的
+歐堡利亞神祕禮物很好
+早餐可以，服務人員和藹可親
+總之，很好的酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:2.7
+posted:Posted August 29, 2023
+msg:房間有異味 房間內特別潮濕 感覺整個被子都是潮潮的
+----------------------------------------
+name:5‍2‍0‍s‍i‍h‍a‍i
+info:Lake-view Twin Room
+info:Stayed in April 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted April 24, 2024
+msg:感謝王秀林的熱情服務
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Leisure Twin Room
+info:Stayed in December 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted December 23, 2023
+msg:環境、衞生都很好，服務也不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in March 2023
+info:Other
+info:8 Reviews
+rating:4.5
+posted:Posted March 6, 2023
+msg:酒店服務很好，有歡迎水果和小朋友喜歡的布偶。環境也挺好，停車方便。外出購物的話周圍有商場。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted November 30, 2023
+msg:乾淨衞生服務員工作認真態度温和！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 26, 2023
+msg:房間整潔乾淨 前台服務周到 下次還來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted May 25, 2024
+msg:管家王秀林服務👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted July 6, 2023
+msg:房間夠大 離南湖很近 早餐一般 但在縣級市裡 屬於上乘
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in November 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted December 6, 2023
+msg:環境好，房間乾淨，服務也可以，
+----------------------------------------
+name:y‍l‍w‍g‍b
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in June 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted June 9, 2023
+msg:感謝管家王秀林，服務好，乾淨，水果和酸奶很貼心，非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 7, 2023
+msg:環境很好，服務周到，設施齊全
+----------------------------------------
+name:J‍o‍d‍i‍e‍ ‍�‍�
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:7 Reviews
+rating:4.2
+posted:Posted June 25, 2023
+msg:各方面還行，前台工作人員能記得喜好，主動服務意識佳。
+----------------------------------------
+name:Y‍o‍n‍g‍x‍i‍n‍l‍i‍s‍h‍a‍n‍g‍y‍i‍n
+info:Superior Double Room
+info:Stayed in December 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted December 22, 2023
+msg:服務很好，王秀林態度很好。
+----------------------------------------
+name:L‍o‍c‍o‍r‍o‍c‍o‍z‍h‍u
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in November 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted November 13, 2023
+msg:服務非常好，房間環境很温馨！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in November 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted November 11, 2023
+msg:很好，前台服務好 下次繼續入住
+----------------------------------------
+name:K‍e‍j‍i‍n‍g
+info:Superior Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted April 1, 2023
+msg:早餐豐富，吃到小時候的味道。交通便利，環境優美，在濱海是最好的酒店了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in September 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 19, 2023
+msg:前台小沈姐姐服務態度非常好。下次還來
+----------------------------------------
+name:R‍i‍y‍u‍e‍x‍i‍n‍g
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 17, 2024
+msg:環境不錯，服務很好
+----------------------------------------
+name:C‍a‍o‍q‍i‍a‍n‍k‍a‍n
+info:Deluxe Leisure Double Room
+info:Stayed in August 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:設施：電視機有點小
+衞生：乾淨
+環境：安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 14, 2024
+msg:非常好，服務周到！
+----------------------------------------
+name:H‍a‍i‍y‍a‍n‍g‍s‍h‍i‍j‍i
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted August 20, 2023
+msg:出差住宿方便，早餐還是單調了點，其他還行
+----------------------------------------
+name:Q‍i‍a‍n‍q‍i‍a‍n‍0‍6‍1‍3
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted April 19, 2023
+msg:地理位置很好，服務也不錯！
+
+歡迎水果:很加分！還有手寫歡迎卡
+----------------------------------------
+name:W‍e‍i‍x‍u‍n‍y‍a‍。
+info:Deluxe Leisure Double Room
+info:Stayed in October 2023
+info:Couples
+info:13 Reviews
+rating:5
+posted:Posted December 5, 2023
+msg:很好。環境乾淨。服務態度也可以
+----------------------------------------
+name:F‍u‍l‍a‍n‍k‍e‍1‍1‍1
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2024
+info:Business travelers
+info:125 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:一如既往的很好！！！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 6, 2024
+msg:不錯 服務員都很熱情
+----------------------------------------
+name:T‍i‍a‍n‍y‍a‍o‍g‍u‍o‍j‍i‍u
+info:Superior Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:172 Reviews
+rating:5
+posted:Posted October 27, 2023
+msg:房間不錯，入睡安靜、早餐不錯
+----------------------------------------
+name:H‍e‍s‍i‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in May 2023
+info:Friends
+info:18 Reviews
+rating:5
+posted:Posted July 9, 2023
+msg:歡迎水果:很好吃
+歐堡利亞神祕禮物:一個玩偶很喜歡
+----------------------------------------
+name:y‍x‍x‍i‍n‍t‍a‍i
+info:Superior Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:5 Reviews
+rating:3.7
+posted:Posted November 23, 2023
+msg:環境一般，設施需完善，服務態度一般
+----------------------------------------
+name:f‍o‍r‍ ‍v‍a‍c‍a‍t‍i‍o‍n
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted March 15, 2024
+msg:房間整潔衞生舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Leisure Twin Room
+info:Stayed in August 2023
+info:Business travelers
+info:8 Reviews
+rating:4.5
+posted:Posted September 5, 2023
+msg:老家的老酒店，這多年依然養護的很好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 29, 2023
+msg:環境舒適大氣，靠近公園，空氣清新，前台服務熱情，房間衞生完美
+----------------------------------------
+name:L‍o‍n‍g‍x‍i‍n‍g‍t‍i‍a‍n‍x‍i‍a‍o‍o‍7
+info:Superior Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted October 23, 2022
+msg:客房乾淨寬敞舒適 客房管家陳俊也非常熱情 周到 客房服務員看到鼠標沒有鼠標墊 還很貼心給了鼠標墊 感覺很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 5, 2024
+msg:可以橫好。乾淨。謝謝
+----------------------------------------
+name:X‍i‍n‍x‍i‍n‍m‍a
+info:Deluxe Suite
+info:Stayed in March 2024
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted April 2, 2024
+msg:房間挎寬敞，乾淨
+----------------------------------------
+name:M‍u‍b‍i‍n‍g
+info:Lake-view Twin Room
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 19, 2023
+msg:住宿環境挺不錯的，自助餐也還可以，還要説一下劉加芹的服務很好，可以點個贊👍🏻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Leisure Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted December 4, 2023
+msg:還可以，睡衣需要備用一套
+----------------------------------------
+name:T‍e‍r‍r‍y
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in October 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 24, 2021
+msg:值得推薦，之前回濱海，都是住金陵，來體驗一下，感受不錯，加分，正逢禮拜五我正在與德國聯繫一直電話，房間空氣不好（衞生間），我説了一下，特別是客房部劉加芹女士真的很貼心，特別申請換了一個更舒適的，擔心行李，就近隔壁又是幫忙搬行李，很給歐堡利亞加分，企業有這樣的員工，很肯定是任何換不來了，衹會越來越好，這樣的員工也應該得到重用！後面我們回濱海住酒店不二之選！給她Yes！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 16, 2023
+msg:給長者預訂的，管家貼心的送了小玩偶。
+----------------------------------------
+name:Y‍o‍u‍z‍i‍2‍0‍2‍1
+info:Lake-view Twin Room
+info:Stayed in November 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 8, 2021
+msg:住過很多五星級酒店，一個縣城的五星級酒店處處是驚喜，服務於細節，豐富的早餐，性價比超高，還有意想不到的驚喜，棒棒噠！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in September 2022
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted September 14, 2022
+msg:客房服務劉加芹態度好，服務周到。套餐有歡迎水果和禮物，沒晚安粥。與五星級標準還有距離，不過縣城來説，可以了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Double Room
+info:Stayed in April 2023
+info:Family
+info:3 Reviews
+rating:4.5
+posted:Posted April 16, 2023
+msg:湖景大床房，整體很不錯～早餐自助的熱菜有待提高～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted January 28, 2023
+msg:酒店高端大氣，住着舒服，空調給力，旁邊就是商業街，窗户景色很棒。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted December 29, 2023
+msg:酒店很好 下次再來
+----------------------------------------
+name:Y‍U‍A‍N‍G‍A‍O‍G‍A‍O
+info:Lake-view Twin Room
+info:Stayed in August 2023
+info:Business travelers
+info:163 Reviews
+rating:5
+posted:Posted October 7, 2023
+msg:經常來住，每次來前台服務都很好
+----------------------------------------
+name:T‍i‍a‍n‍m‍a‍0‍2‍3‍5
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted December 25, 2023
+msg:挺不錯  下次還來
+----------------------------------------
+name:X‍i‍c‍h‍e‍n‍g‍q‍u‍j‍i‍n‍r‍o‍n‍g‍j‍i‍e‍d‍a‍o‍s‍h‍e‍q‍u‍c‍h‍a‍n‍g‍a‍n‍x‍i‍n‍g‍r‍o‍n‍g‍z‍h‍o‍n‍g‍x‍i‍n
+info:Superior Room (2 beds)
+info:Stayed in July 2023
+info:Other
+info:17 Reviews
+rating:4.5
+posted:Posted July 10, 2023
+msg:服務員沈萍服務態度好、熱情，細緻。
+----------------------------------------
+name:L‍i‍a‍n‍g‍q‍i‍n‍g‍b‍u‍h‍a‍i
+info:Superior Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 4, 2024
+msg:不錯
+都挺好的
+----------------------------------------
+name:W‍o‍a‍i‍w‍o‍h‍e‍n
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in October 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted October 30, 2023
+msg:房間很乾凈，服務很到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Leisure Double Room
+info:Stayed in July 2022
+info:Family
+info:1 Review
+rating:4.5
+posted:Posted August 3, 2022
+msg:空調出風口聲音不是一般小
+自助餐與五星不靠邊 是我吃過的五星酒店最差的了 9點多一點開始收餐 品種又少 廉價 
+下次不會住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted April 25, 2023
+msg:設施：好
+衞生：乾淨
+環境：舒適
+服務：周到
+----------------------------------------
+name:H‍u‍a‍g‍e‍5‍8‍8‍8
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:68 Reviews
+rating:5
+posted:Posted September 1, 2023
+msg:房間很大，很好，周邊環境美！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Leisure Twin Room
+info:Stayed in February 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 9, 2022
+msg:風景不錯，環境優美！
+----------------------------------------
+name:H‍a‍o‍m‍i‍n‍j‍i‍a‍n‍c‍a‍i
+info:Deluxe Suite
+info:Stayed in September 2023
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted October 9, 2023
+msg:每次來濱海我都住歐堡利亞
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:8 Reviews
+rating:3.7
+posted:Posted March 5, 2023
+msg:幾年前住過，感覺比金陵好，這次再住，感覺不如金陵了！
+----------------------------------------
+name:D‍a‍m‍i‍n‍g‍z‍i‍x‍i‍a‍o‍p‍e‍n‍g‍y‍o‍u
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in May 2024
+info:Booked for others
+info:4 Reviews
+rating:4.8
+posted:Posted May 14, 2024
+msg:非常的不錯
+----------------------------------------
+name:l‍a‍n‍y‍u‍1‍1‍1
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 22, 2024
+msg:非常好，舒服
+----------------------------------------
+name:J‍i‍a‍n‍g‍s‍u‍b‍a‍i‍b‍a‍n‍g‍h‍e‍j‍i‍a‍n‍s‍h‍e
+info:Superior Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 8, 2022
+msg:服務員陳俊態度優秀，讓客人賓至如歸，點贊。早餐挺豐富的，水果很新鮮，會再次選擇入住酒店。
+----------------------------------------
+name:A‍r‍t‍h‍u‍r‍c‍h‍e‍n‍c‍h‍e‍n
+info:Superior Double Room
+info:Stayed in October 2022
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted October 8, 2022
+msg:管家服務陳俊非常熱情，房間乾淨整潔，早餐品種也很多，下次過來還住這裏，推薦！還贈送水果。
+----------------------------------------
+name:L‍a‍o‍m‍i‍d‍e‍l‍a‍n‍t‍i‍a‍n‍b‍a‍i‍y‍u‍n
+info:Superior Room (2 beds)
+info:Stayed in October 2021
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted October 25, 2021
+msg:第一次入住該酒店，總體感覺酒店乾淨，水準較高，服務人員熱情，早餐不錯，尤其是魚湯小餛飩好吃。酒店位於縣政府附近，面對公園的湖泊，景色不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 16, 2024
+msg:服務態度很好
+----------------------------------------
+name:W‍e‍i‍j‍i‍e‍g‍a‍n‍g‍q‍i‍u
+info:Lake-view Twin Room
+info:Stayed in July 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted July 17, 2023
+msg:客房服務員王女士非常認真盡責！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Double Room
+info:Stayed in November 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted December 2, 2023
+msg:酒店整體環境還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in August 2022
+info:Booked for others
+info:4 Reviews
+rating:5
+posted:Posted October 17, 2022
+msg:環境好！設施全！服務貼心！有早餐，有夜宵，有水果！就是價格有點小貴！再出一些優惠活動就更好了！總體來説不醜！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:29 Reviews
+rating:5
+posted:Posted October 22, 2021
+msg:酒店的毛巾非常乾淨，床鋪也是一樣，而且沒有異味，洗漱區間設計合理，使用便利，而且酒店提供免費洗衣，實在是出差旅行一大便利。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in August 2022
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted August 15, 2022
+msg:設施齊全，房間較大，服務到位。交通便利，停車方便，距離商業區很近。酒店自助海鮮餐很實惠，早餐實惠品種多。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in September 2023
+info:Booked for others
+info:4 Reviews
+rating:5
+posted:Posted October 6, 2023
+msg:幫朋友預訂的，很好贊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted April 19, 2024
+msg:符合預期的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 6, 2023
+msg:床很舒服，得到了徹底休息。
+----------------------------------------
+name:w‍j‍h‍0‍0‍1
+info:Superior Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 13, 2023
+msg:服務到位，環境好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in January 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 2, 2022
+msg:回家過年訂了一晚，酒店硬件條件還挺不錯，服務員都很熱情，服務周到，比較和善！特別王秀林、李海梅兩位服務員，值得稱讚。就是這個房間，訂的時候沒留意，無窗房間比較悶且房間有點小。想換房間發現訂單不可改退，讓人感覺不爽。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in October 2023
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted October 29, 2023
+msg:乾淨整潔，入住方便
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in January 2022
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted January 22, 2022
+msg:出差選了離客户很近的歐堡利亞，意外驚喜，房價不貴，但水準和星級酒店有一拼，房間乾淨設施很好，值得一提是軟件也不錯，服務人員很熱情，有水果贈送。早餐也是亮點，客人不多，但品種並沒有減少，很不容易。下次出差還會選這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2022
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted December 4, 2022
+msg:非常不錯 每次過來入住 星級服務 服務員陳俊 劉加芹 非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:5 Reviews
+rating:3
+posted:Posted September 29, 2023
+msg:價格偏高，周邊沒有商業
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Booked for others
+info:4 Reviews
+rating:5
+posted:Posted September 17, 2023
+msg:挺好的，朋友住的挺開心的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in September 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted September 30, 2022
+msg:每次入住體驗都很好，這次的陳俊更是温馨，非常感謝，衹要到濱海一定住這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Twin Room
+info:Stayed in December 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 3, 2022
+msg:入住歐堡利亞大酒店，一上樓就有阿姨帶路開門，看見有小朋友還特意找了雙卡通小童拖鞋，晚上我們回賓館看見桌上有準備好的水果盤，一個小朋友的玩偶，小朋友很喜歡工作人員劉加芹、蒯青華很用心，讓我們覺得賓至如歸的感覺，前台也很到位，電話過去立刻有人來處理，很棒👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:65 Reviews
+rating:5
+posted:Posted September 23, 2022
+msg:酒店服務管家陳俊很熱情，迎賓水果不錯，前台接待和早餐都很好，值得推薦入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in August 2021
+info:Couples
+info:14 Reviews
+rating:5
+posted:Posted August 15, 2021
+msg:歐堡利亞各方面依舊很好 始終會是來濱海入住的第一選擇 感謝入住期間劉加芹 王秀林 蒯青華的細緻服務 分享一下每次入住留下的紀念小牛
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted September 29, 2022
+msg:濱海最好的酒店，房間大，設施新，服務態度也很好！給房間服務員陳俊點贊！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 20, 2023
+msg:房間很大就是背陰
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted September 12, 2022
+msg:很不錯的體驗，房間大氣整潔，外圍環境優美，餐飲非常方便，管家服務也很貼心。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Twin Room
+info:Stayed in July 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 2, 2023
+msg:不錯不錯，下次一定繼續
+----------------------------------------
+name:X‍i‍a‍o‍e‍m‍o‍1‍3‍5
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2023
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:很舒服很安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 24, 2022
+msg:入住歐堡利亞大酒店，依然對酒店各方面很滿意，
+ 特別是感謝服務人員劉加芹  ，蒯青華.
+----------------------------------------
+name:X‍Y‍y‍i‍n‍g‍w‍u‍g‍u‍o‍g‍u‍o
+info:Lake-view Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:6 Reviews
+rating:4
+posted:Posted November 16, 2023
+msg:整體感受還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 14, 2023
+msg:前台服務很棒很貼心，早餐很豐盛。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 8, 2021
+msg:總的來説一次滿意的入住，服務人員很熱心，還送了水果和酸奶做下午茶，好避開了午休時間，謝謝蒯清華 王秀琳還有照片裏這位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Leisure Double Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 6, 2023
+msg:房間和服務都很滿意😀
+----------------------------------------
+name:G‍u‍o‍g‍u‍o‍—‍m‍a‍m‍a
+info:Deluxe Leisure Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:13 Reviews
+rating:4.5
+posted:Posted August 2, 2023
+msg:環境和服務還是可以的
+----------------------------------------
+name:y‍x‍x‍i‍n‍t‍a‍i
+info:Lake-view Twin Room
+info:Stayed in August 2023
+info:Business travelers
+info:5 Reviews
+rating:2
+posted:Posted November 12, 2023
+msg:一般來説，很一般的
+----------------------------------------
+name:z‍p‍a‍8‍8‍8
+info:Lake-view Twin Room
+info:Stayed in July 2023
+info:Business travelers
+info:34 Reviews
+rating:5
+posted:Posted July 30, 2023
+msg:設施非常好，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2021
+info:Couples
+info:1 Review
+rating:5
+posted:Posted December 28, 2021
+msg:剛開始訂了優惠房，進去有點失望！很重的黴味，衹好去補差價換了行政房，開始很是質疑。但是對於劉加芹的服務還是很滿意的，給我們送了布偶娃娃和水果！希望下次入住的時候能夠更好的對待吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 7, 2023
+msg:還不錯，在市裡位置很方便
+----------------------------------------
+name:b‍o‍x‍i‍a‍n‍z‍i
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in September 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted September 21, 2022
+msg:當地標準五星酒店，周邊設施便利，入住舒適，酒店管家陳俊服務優秀。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Leisure Twin Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:4.7
+posted:Posted November 2, 2023
+msg:鬧中取靜，住宿舒服
+----------------------------------------
+name:J‍i‍a‍n‍g‍l‍v‍s‍h‍i
+info:Lake-view Twin Room
+info:Stayed in August 2023
+info:Business travelers
+info:65 Reviews
+rating:5
+posted:Posted August 15, 2023
+msg:很好，房間性價比高
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in November 2023
+info:Business travelers
+info:32 Reviews
+rating:5
+posted:Posted November 22, 2023
+msg:設施好衞生好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in October 2021
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted November 27, 2021
+msg:家一樣温暖
+----------------------------------------
+name:L‍a‍n‍l‍a‍n‍b‍a‍b‍a
+info:Superior Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted December 9, 2022
+msg:酒店不錯，服務很好，感謝劉加芹經理送來的水果
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in July 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted July 5, 2023
+msg:服務熱情周到。謝謝！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:15 Reviews
+rating:2.5
+posted:Posted July 9, 2022
+msg:濱海價格最高的酒店，但是真的設備老久，服務也跟不上，完全對不起這個價格。失望至極
+----------------------------------------
+name:Q‍i‍n‍r‍a‍n
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in June 2021
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted June 25, 2021
+msg:房間很安靜，今天有點不舒服，客服部真的是百寶箱，送來了葯，和温度計，下午六點左右劉加芹阿姨會送來水果，一個人出門覺得暖暖的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in June 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 28, 2023
+msg:服務周到，床很舒服。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in July 2022
+info:Other
+info:103 Reviews
+rating:5
+posted:Posted July 26, 2022
+msg:很好，就是房間的廁所長流水，前半夜沒睡好，後半夜找人來修，也沒有修好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2022
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted February 14, 2023
+msg:乾淨衞生，服務熱情，早餐豐富，下次還來
+----------------------------------------
+name:S‍i‍d‍i‍f‍e‍n‍s‍i‍s‍h‍u‍d‍i‍a‍o
+info:Superior Double Room
+info:Stayed in October 2021
+info:Family
+info:17 Reviews
+rating:3
+posted:Posted October 9, 2021
+msg:每年去老婆家都要住幾次，真的該裝修了。軟服務都沒問題的，但是房間空調聲音比拖拉機還響。更噁心的是，小蛾子到處飛，至少打死7，8隻。第一次評低分，這就是接近900每晚的房間！821房間，請你們自己去房間看看
+----------------------------------------
+name:T‍i‍g‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Solo travelers
+info:27 Reviews
+rating:4.2
+posted:Posted April 16, 2023
+msg:還不錯，就是早餐不如之前
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in November 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 15, 2023
+msg:很好很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in July 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 12, 2022
+msg:服務人員很專業，很熱情，在縣城有這樣服務不容易。一個姓劉，一個姓蒯。
+----------------------------------------
+name:h‍a‍n‍s‍7‍3
+info:Superior Double Room
+info:Stayed in January 2023
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted January 8, 2023
+msg:每次回老家都是住歐堡，一如既往的好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Twin Room
+info:Stayed in July 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted July 22, 2023
+msg:還行，本地比較大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted January 11, 2023
+msg:歐堡利亞神祕禮物，整體服務，在濱海永遠是最好的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted June 14, 2023
+msg:服務和環境都很到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in July 2023
+info:Other
+info:2 Reviews
+rating:2.5
+posted:Posted July 20, 2023
+msg:馬桶沒擦，衞生差
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in October 2022
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted October 16, 2022
+msg:陳俊服務態度很好，還有水果牛奶送，房間很乾凈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2023
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted February 21, 2023
+msg:各方面都很好
+
+服務：很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Twin Room
+info:Stayed in December 2021
+info:Business travelers
+info:2 Reviews
+rating:4.2
+posted:Posted December 10, 2021
+msg:酒店的環境還是很好的，對於我這個有潔癖的人來講，衞生就一般。但是服務挺周到的，特別是服務員劉加芹晚上會為我們準備水果還有酸奶等
+🔔服務：
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in September 2023
+info:Booked for others
+info:7 Reviews
+rating:3.7
+posted:Posted September 7, 2023
+msg:就那樣吧……
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in September 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 16, 2022
+msg:環境優雅，送的水果很甜，管家服務陳俊工作很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in July 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 16, 2023
+msg:非常滿意！謝謝
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted July 3, 2021
+msg:環境安靜，房間也乾淨寬敞，還送了小禮品
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted October 10, 2023
+msg:住宿餐飲都很好
+----------------------------------------
+name:S‍h‍e‍n‍g‍p‍e‍i‍d‍e‍l‍u‍o‍-‍d‍e‍a‍t‍a‍k‍a‍m‍a‍h‍e‍k‍e‍g‍a‍n‍g
+info:Superior Room (2 beds)
+info:Stayed in October 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 4, 2022
+msg:管家陳俊服務非常周到，酒店多送了一份早餐。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in October 2021
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted October 15, 2021
+msg:酒店位置優越，交通便利，周圍臨近公園，精緻不錯！酒店硬件設施還算不錯，主要是服務周到熱情，細緻並且貼心，特別感謝服務人員劉加芹和王秀林，若有機會會再次入住！
+----------------------------------------
+name:L‍i‍a‍n‍g‍d‍i‍a‍n‍b‍a‍n‍q‍i‍a‍o‍g‍e‍l‍i
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in July 2023
+info:Booked for others
+info:63 Reviews
+rating:5
+posted:Posted July 20, 2023
+msg:還不錯
+還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2022
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted January 19, 2022
+msg:設施和服務都很好，早餐種類也不少，味道不錯。不管大堂還是客房服務響應都很快，態度也很好，還能看到湖景，喜歡。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in October 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 20, 2022
+msg:環境温馨，服務貼心，到位！孩子住的開心
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Lake-view Double Room
+info:Stayed in January 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 14, 2022
+msg:酒店周邊環境不錯，綠化非常好！附近有商場吃喝挺方便。酒店大氣上檔次！房間衞生非常到位，客房服務員非常有禮貌。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in August 2023
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted August 23, 2023
+msg:也就還可以吧
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 29, 2022
+msg:濱海歐堡利亞大酒店管家服務陳俊給五星好評
+----------------------------------------
+name:l‍i‍g‍h‍t‍y‍a‍n‍g‍7
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in July 2021
+info:Other
+info:16 Reviews
+rating:2
+posted:Posted July 27, 2021
+msg:我為什麼給了差評，原因是我問劉加芹阿姨房間內的飲料是不是都是免費的，她告訴我都是免費的，但是到最後多收了我43塊錢，我無法理解。其他送的水果和酸奶都是好的，入住效率也都很高，可能阿姨不瞭解酒店收費情況，但是實在是影響我的心情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted March 27, 2023
+msg:好好好好好好好好好好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted July 31, 2023
+msg:挺好的哈哈哈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:4
+posted:Posted April 14, 2023
+msg:乾淨衞生丶早餐豐富
+----------------------------------------
+name:K‍u‍k‍u‍d‍e‍l‍v‍m‍a‍o‍y‍i
+info:Superior Room (2 beds)
+info:Stayed in January 2023
+info:Business travelers
+info:64 Reviews
+rating:3
+posted:Posted February 10, 2023
+msg:其他都還好，就是服務跟不上
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted May 7, 2023
+msg:總體感覺還可以。
+----------------------------------------
+name:W‍a‍n‍g‍w‍a‍n‍g
+info:Superior Double Room
+info:Stayed in September 2021
+info:Solo travelers
+info:19 Reviews
+rating:5
+posted:Posted September 10, 2021
+msg:賓館豪華舒適，軟硬件都很完備，表揚劉加芹服務員，對待客人熱情又加。賓館的游泳池是温水的，人也不多，遊得很舒服。賓館對面的南湖公園走走也挺好的，值得推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in September 2022
+info:Other
+info:12 Reviews
+rating:2
+posted:Posted September 26, 2022
+msg:破店；基本上沒有星級酒店的服務理念。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 20, 2022
+msg:很棒的體驗，前台規範熱情。還過來的。
+----------------------------------------
+name:Y‍i‍y‍u‍n‍w‍o‍x‍u‍e
+info:Superior Double Room
+info:Stayed in March 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted March 11, 2023
+msg:在縣城裡算高檔次了
+----------------------------------------
+name:T‍a‍i‍y‍a‍n‍g‍d‍a‍n‍g‍k‍o‍n‍g‍z‍h‍a‍o‍z‍h‍u‍z‍h‍u
+info:Lake-view Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted January 17, 2023
+msg:每次去都是住這裏，特別好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in January 2023
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted February 2, 2023
+msg:服務超級好，很温馨。
+----------------------------------------
+name:q‍u‍h‍u‍a‍n‍f‍e‍n‍g
+info:Lake-view Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted July 18, 2021
+msg:服務不錯，很貼心，特別是預訂部的劉佳芹，送來水果不説，又給了一個孩子的玩偶，還主動介紹酒店服務及周邊。
+唯一一個問題，酒店電梯應該是刷卡上樓，但是實際不刷卡一樣可以上樓😂
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in January 2023
+info:Booked for others
+info:2 Reviews
+rating:5
+posted:Posted January 7, 2023
+msg:環境衞生，服務都很熱情
+----------------------------------------
+name:w‍c‍w‍w‍l‍j
+info:Lake-view Twin Room
+info:Stayed in July 2021
+info:Family
+info:17 Reviews
+rating:4.7
+posted:Posted July 18, 2021
+msg:酒店位於南湖公園對面，早晚過去逛一圈是不錯的選擇。房間設備不錯。周圍也有些餐廳。酒店早餐蠻豐富的。酒店雖然有不少停車位，但是進門沒人管，造成車位大量被非酒店客人佔用。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Leisure Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 22, 2023
+msg:各方面都是十分滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted March 23, 2023
+msg:陳紅青管家很不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted September 18, 2022
+msg:陳俊服務非常到位，賓至如歸的感覺
+----------------------------------------
+name:R‍e‍n‍s‍h‍e‍n‍g‍x‍i‍j‍u
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 18, 2023
+msg:非常好，衹能馬桶很贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2022
+info:Other
+info:7 Reviews
+rating:5
+posted:Posted October 17, 2022
+msg:酒店環境優雅，陳俊服務很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted June 15, 2023
+msg:各方面都很好
+----------------------------------------
+name:S‍i‍s‍i‍m‍i‍n‍g
+info:Superior Room (2 beds)
+info:Stayed in July 2022
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted August 1, 2022
+msg:酒店位置挺好，晚上很安靜，早餐也不錯
+----------------------------------------
+name:T‍H‍U‍N‍D‍E‍R
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2023
+info:Business travelers
+info:87 Reviews
+rating:5
+posted:Posted February 23, 2023
+msg:很棒，推薦入住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in June 2021
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted June 16, 2021
+msg:每次回老家都會選擇住這裏，房間寬敞整潔衞生，服務細緻周到，早餐養生家常，出門周邊便利。此次劉加芹，蒯青華兩位温馨服務印象深刻，感謝你們讓我的故鄉之行那麼愉快温馨！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in December 2021
+info:Couples
+info:1 Review
+rating:5
+posted:Posted December 16, 2021
+msg:服務態度很好，環境也很不錯，送水果的阿姨劉加芹女士很客氣態度很好，值得下次入住。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Leisure Twin Room
+info:Stayed in September 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted September 27, 2021
+msg:歐堡利亞還是一如既往的優秀，是回濱海入住的第一選擇，感謝入住期間劉加芹，王秀林的熱情服務，還有送給寶寶的禮物
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:29 Reviews
+rating:5
+posted:Posted October 16, 2021
+msg:早餐豐富，酒店位置好，周邊是商業區、生活方便；酒店服務好，入住後客房服務員劉加芹專門送來酸奶和水果。
+----------------------------------------
+name:H‍i‍d‍e‍ ‍C‍h‍a‍n‍g
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:126 Reviews
+rating:5
+posted:Posted June 14, 2023
+msg:當地最好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in October 2021
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted October 19, 2021
+msg:酒店服務態度很好，特別是客房清掃的阿姨非常讓我滿意，知道幫忙疊衣服和各種温馨行為讓我覺得酒店挺温暖。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2022
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted August 24, 2022
+msg:周邊餐飲、娛樂、購物都比較方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in July 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 25, 2021
+msg:酒店有些年頭了，有些設施能看出來，客服服務人員劉加芹非常的熱情，是這次入住的加分點，在縣城這個地方，軟件和硬件都是能説的過去的。非常感謝她。
+----------------------------------------
+name:Y‍a‍n‍j‍u‍n‍h‍u‍a‍ ‍V‍i‍n‍c‍e‍n‍t
+info:Deluxe Leisure Twin Room
+info:Stayed in July 2022
+info:Family
+info:23 Reviews
+rating:5
+posted:Posted August 3, 2022
+msg:設施非常齊全，停車方便，早餐豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted January 29, 2023
+msg:還不錯，風景不錯
+----------------------------------------
+name:X‍i‍a‍o‍k‍a‍n‍r‍e‍n‍s‍h‍e‍n‍g‍f‍u‍y‍u‍n
+info:Superior Double Room
+info:Stayed in January 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted January 21, 2023
+msg:酒店不錯，挺好的
+----------------------------------------
+name:L‍i‍n‍c‍h‍e‍n‍g‍t‍u‍t‍u‍h‍a
+info:Superior Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:20 Reviews
+rating:5
+posted:Posted January 20, 2023
+msg:服務態度非常好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted February 19, 2023
+msg:很衞生服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2021
+info:Solo travelers
+info:3 Reviews
+rating:4.5
+posted:Posted July 2, 2021
+msg:每次來濱海都選擇了該酒店，因為愛上酒店熱情服務，特別是劉加芹服務員，在客人最想吃水果時候熱情地送到客房，表示謝意，以後繼續選擇該酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2023
+info:Family
+info:5 Reviews
+rating:4.5
+posted:Posted March 28, 2023
+msg:性價比不錯！
+----------------------------------------
+name:c‍i‍n‍d‍y
+info:Superior Double Room
+info:Stayed in August 2022
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted August 14, 2022
+msg:環境很好，安靜，服務態度也好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Leisure Twin Room
+info:Stayed in August 2022
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted August 14, 2022
+msg:環境優美，性價比高，服務熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in November 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted November 8, 2022
+msg:服務員陳俊服務很贊👍
+----------------------------------------
+name:N‍a‍j‍i‍a‍e‍r‍h‍a‍w‍e‍i‍l‍i‍y‍u‍w‍e‍n‍z‍h‍i‍j‍i
+info:Superior Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:54 Reviews
+rating:3
+posted:Posted April 11, 2023
+msg:服務員差了點
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in January 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 3, 2022
+msg:服務員很耐心 
+對寶寶也很友好  還給寶寶送娃娃
+服務生劉加芹
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2023
+info:Couples
+info:16 Reviews
+rating:5
+posted:Posted March 25, 2023
+msg:常住服務挺好
+----------------------------------------
+name:N‍i‍n‍i‍W‍R‍Y
+info:Lake-view Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 28, 2022
+msg:服務很不錯，環境也可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in August 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 22, 2021
+msg:交通便利，環境不錯，服務很熱情，酒店周邊美食也很豐富，值得入住。特別感謝客服劉加芹&蒯青華的周到服務
+----------------------------------------
+name:F‍e‍i‍q‍u
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in October 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted October 21, 2022
+msg:服務員陳俊服務非常好
+----------------------------------------
+name:B‍u‍d‍a‍o‍1‍5‍0‍j‍i‍n‍b‍u‍g‍a‍i‍m‍i‍n‍g
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2022
+info:Couples
+info:10 Reviews
+rating:5
+posted:Posted February 20, 2022
+msg:前台很有禮貌服務周到，房間乾淨，劉加芹服務特別熱情
+----------------------------------------
+name:S‍h‍a‍n‍g‍s‍h‍a‍n‍n‍u‍o‍s‍h‍u‍i
+info:Superior Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted November 16, 2022
+msg:環境優美，交通方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted October 14, 2022
+msg:環境很好，住着很温馨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in August 2022
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted August 27, 2022
+msg:挺好，乾淨、舒適，放心！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted July 27, 2021
+msg:這個酒店不錯，環境很好 ，房間衞生整潔，自助晚餐價格不貴，品種很多，早餐也很好，掛5星的就是不一樣，滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2022
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted March 10, 2022
+msg:前台服務好，給升級了。客房服務劉加芹服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted January 5, 2023
+msg:各方面都還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 10, 2021
+msg:全5星好評，每天有果盤，還送了我一個小玩偶，酒店很乾凈，早餐品種豐富
+----------------------------------------
+name:S‍h‍a‍o‍n‍i‍a‍n‍s‍h‍i‍q‍i‍p‍e‍n‍g‍y‍u‍y‍a‍n
+info:Deluxe Leisure Twin Room
+info:Stayed in October 2022
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted October 23, 2022
+msg:陳俊ok！酒店不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in November 2022
+info:Other
+info:34 Reviews
+rating:5
+posted:Posted December 14, 2022
+msg:大酒店是真的很好
+----------------------------------------
+name:P‍a‍n‍g‍f‍e‍i
+info:Superior Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted November 19, 2022
+msg:非常感謝，很便捷
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted October 11, 2022
+msg:環境衞生，出行方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted March 17, 2023
+msg:服務蠻好的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Room (2 beds)
+info:Stayed in September 2021
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted September 20, 2021
+msg:位置不錯，服務也很到位。
+早餐較之前略有下降，可能是疫情影響人氣不足的緣故。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:4 Reviews
+rating:4.7
+posted:Posted January 28, 2023
+msg:酒店服務很不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:3 Reviews
+rating:3
+posted:Posted November 23, 2022
+msg:環境不錯價格有些貴
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in August 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted August 21, 2021
+msg:交通便利，環境優美，早餐豐盛，前台小姐姐小孫態度很好，五星級酒店服務真不錯👍👍👍👍
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 10, 2021
+msg:5星級的酒店，據説是濱海最好的酒店，價格合適，好評！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted October 18, 2022
+msg:很棒 朋友很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2021
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted November 22, 2021
+msg:酒店環境好，自助餐很豐富，離萬達很近逛街很方便。值得推薦
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted February 7, 2023
+msg:不錯👌👍👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in June 2021
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted July 2, 2021
+msg:非常感謝酒店為我們提供服務的各位員工。尤其是管家服務:劉加芹  :蒯青華。前台接待:小劉劉。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in February 2023
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted February 7, 2023
+msg:很好很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2021
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted December 24, 2021
+msg:很滿意、服務態度很好、劉加芹、蒯青華服務很好。
+----------------------------------------
+name:L‍i‍u‍d‍a‍o‍l‍u‍n‍h‍u‍i‍z‍h‍u‍z‍a‍i
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2022
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted December 17, 2022
+msg:很好很好很好
+----------------------------------------
+name:p‍o‍w‍e‍r‍q‍i‍n
+info:Superior Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted December 8, 2022
+msg:歡迎水果很好
+----------------------------------------
+name:b‍i‍g‍b‍a‍d‍b‍o‍y‍0‍0‍0
+info:Superior Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 7, 2021
+msg:入住感覺很好，床很舒服，服務很周到，感謝劉加芹  :蒯青華:王秀林的熱情服務
+----------------------------------------
+name:A‍l‍b‍s‍s‍L‍e‍e
+info:Lake-view Double Room
+info:Stayed in October 2021
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted October 5, 2021
+msg:對酒店各方面都很滿意的話，服務人員：劉加芹，蒯青華服務非常好
+----------------------------------------
+name:r‍o‍g‍e‍r‍z‍h‍u‍1‍9‍7‍3
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in January 2022
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted January 26, 2022
+msg:位置中心，出行方便，服務挺好，非常滿意
+----------------------------------------
+name:H‍a‍i‍p‍i‍n‍g‍h
+info:Superior Room (2 beds)
+info:Stayed in August 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 8, 2022
+msg:環境很好，早餐豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in August 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted August 25, 2021
+msg:環境好，衞生乾淨，服務周到，服務員：劉加芹  :蒯青華服務周到熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in June 2021
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted June 16, 2021
+msg:樓層房間清潔服務員劉加芹，蒯青華，兩人細心服務周到，酒店全體成員一直面帶笑容對待每個人
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2022
+info:Solo travelers
+info:17 Reviews
+rating:5
+posted:Posted March 2, 2022
+msg:可以算得上五星的酒店，早晨也很好
+----------------------------------------
+name:X‍u‍x‍i‍a‍o‍j‍i‍a
+info:Superior Room (2 beds)
+info:Stayed in October 2022
+info:Other
+info:9 Reviews
+rating:5
+posted:Posted October 8, 2022
+msg:陳俊服務挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2022
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted October 22, 2022
+msg:乾淨衞生服務好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted February 27, 2022
+msg:劉加芹  :蒯青華 服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in February 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 21, 2022
+msg:非常好！劉加芹:蒯青華，很周到！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in September 2022
+info:Couples
+info:41 Reviews
+rating:5
+posted:Posted October 17, 2022
+msg:適合居住滿好的
+----------------------------------------
+name:s‍a‍m‍l‍i‍n‍3
+info:Superior Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 17, 2022
+msg:只不过浴缸没有熱水
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2022
+info:Couples
+info:1 Review
+rating:3
+posted:Posted February 28, 2022
+msg:和情人在一起開房，爽歪歪，王莉娟
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Leisure Double Room
+info:Stayed in November 2021
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted November 30, 2021
+msg:🔔服務：很好
+🍃環境：很好
+🧹衞生：很乾凈
+----------------------------------------
+name:d‍a‍v‍y
+info:Lake-view Double Room
+info:Stayed in July 2022
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted July 3, 2022
+msg:服務周到，性價較高
+----------------------------------------
+name:A‍n‍p‍e‍i‍s‍h‍i‍s‍i‍m‍i‍n‍g
+info:Superior Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 14, 2021
+msg:服務人員劉加芹，蒯青華非常熱情，敬業！
+----------------------------------------
+name:J‍i‍n‍t‍i‍a‍n‍z‍u‍i‍j‍i‍a‍o‍s‍h‍a‍n‍g‍y‍a‍n‍g‍l‍e‍m‍a
+info:Superior Double Room
+info:Stayed in July 2022
+info:Friends
+info:19 Reviews
+rating:5
+posted:Posted July 16, 2022
+msg:還不錯的，挺乾淨
+----------------------------------------
+name:t‍a‍o‍j‍u‍a‍n‍j‍u‍a‍n
+info:Superior Room (2 beds)
+info:Stayed in July 2022
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted August 4, 2022
+msg:一如既往的舒適。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in November 2021
+info:Couples
+info:1 Review
+rating:5
+posted:Posted November 14, 2021
+msg:挺好的，服務員姐姐還特地送來水果和公仔🧸
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Business travelers
+info:Stayed in July 2022
+posted:Posted August 9, 2022
+info:23 Reviews
+rating:5
+msg:很好，交通也方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 28, 2022
+msg:很好👌👍👌
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in March 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 15, 2022
+msg:唯一不好的是中庭房太熱！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2021
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted December 5, 2021
+msg:客房阿姨服務特別好 劉加芹 蒯青華
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Lake-view Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 30, 2022
+msg:酒店非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in June 2021
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted June 28, 2021
+msg:位置很好，旁邊就是商業綜合體，酒店環境好，客房阿姨劉加芹很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2022
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted February 6, 2022
+msg:酒店品質不錯，會下次再入住
+----------------------------------------
+name:L‍v‍y‍o‍u‍g‍u‍a‍n‍g‍g‍u‍a‍n‍g‍c‍h‍i‍c‍h‍i‍w‍a‍n‍w‍a‍n
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in January 2022
+info:Solo travelers
+info:81 Reviews
+rating:5
+posted:Posted January 24, 2022
+msg:豪華的小縣城酒店
+早餐一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2022
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted October 2, 2022
+msg:早餐很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 17, 2022
+msg:很好非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in August 2021
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted August 30, 2021
+msg:非常滿意，客房服務很棒，細節做的特別到位
+----------------------------------------
+name:C‍a‍i‍c‍a‍i‍0‍1‍0
+info:Superior Room (2 beds)
+info:Stayed in January 2022
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted January 30, 2022
+msg:還不錯，泳池水温合適。
+----------------------------------------
+name:J‍i‍a‍y‍i‍g‍a‍n‍g‍t‍i‍e
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in February 2022
+info:Business travelers
+info:81 Reviews
+rating:5
+posted:Posted May 1, 2022
+msg:客服人員表示非常感謝
+----------------------------------------
+name:l‍g‍_‍7‍7‍8‍1‍5
+info:Superior Room (2 beds)
+info:Stayed in June 2021
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted June 28, 2021
+msg:酒店環境和衞生都不錯，旁邊就是商場，吃飯很方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in October 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted October 25, 2021
+msg:很温馨很舒服，工作人員很熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in January 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 30, 2022
+msg:環境很好，服務也很好
+----------------------------------------
+name:l‍e‍o‍n‍_‍w‍u‍1‍9‍8‍1
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in August 2021
+info:Solo travelers
+info:48 Reviews
+rating:5
+posted:Posted December 30, 2021
+msg:地理位置極佳，房間面積超大，價格便宜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in June 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 17, 2021
+msg:酒店服務不錯，房間送果盤和娃娃。劉加芹非常熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 4, 2021
+msg:能想到的全有了  挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted June 18, 2021
+msg:客房服務好，服務員劉加芹態度熱情周到，細緻！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in January 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted January 10, 2022
+msg:劉加芹服務態度很好👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Excutive  Room
+info:Stayed in July 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted July 16, 2021
+msg:服務人員：劉加芹  :蒯青華:王秀林:
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in September 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 12, 2021
+msg:服務員劉加芹，王秀林服務很好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2021
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted December 3, 2021
+msg:設施很好，服務很好👍🏻
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in December 2021
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted January 9, 2022
+msg:住的和吃的都挺不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 15, 2021
+msg:🔔服務：很好挺好，
+----------------------------------------
+name:十‍元‍と‍と‍ろ
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in August 2021
+info:Solo travelers
+info:6 Reviews
+rating:4.7
+posted:Posted November 4, 2021
+msg:部屋が広くて良かったです！
+----------------------------------------
+name:S‍h‍i‍z‍a‍i‍r‍e‍n‍w‍e‍i‍8‍8‍8‍8
+info:Lake-view Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:12 Reviews
+rating:4.7
+posted:Posted November 26, 2021
+msg:客房服務員服務好！
+----------------------------------------
+name:D‍u‍c‍h‍u‍n‍l‍e‍i
+info:Superior Double Room
+info:Stayed in March 2022
+info:Family
+info:35 Reviews
+rating:5
+posted:Posted March 11, 2022
+msg:服務熱情❤️
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 16, 2021
+msg:非常好，每次都住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2021
+info:Booked for others
+info:7 Reviews
+rating:5
+posted:Posted March 14, 2022
+msg:服務好，周邊環境優美
+----------------------------------------
+name:Y‍u‍e‍l‍i‍a‍n‍g‍c‍h‍u‍a‍n‍1
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in December 2021
+info:Friends
+info:26 Reviews
+rating:5
+posted:Posted January 18, 2022
+msg:好，不錯，推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in January 2022
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted March 16, 2022
+msg:非常好的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in June 2021
+info:Other
+info:2 Reviews
+rating:3
+posted:Posted July 1, 2021
+msg:水不熱，説好的送粥也沒送。
+----------------------------------------
+name:Z‍d‍u‍o‍m‍i‍n‍g‍j‍i‍a‍n‍d‍a‍o‍j‍i‍a‍o
+info:Superior Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:15 Reviews
+rating:3
+posted:Posted January 24, 2022
+msg:在當地算是不錯的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in September 2021
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted September 9, 2021
+msg:劉加芹服務特別棒！
+----------------------------------------
+name:X‍i‍a‍t‍a‍i‍l‍i‍u‍k‍u‍y‍i‍n‍g‍b‍u
+info:Superior Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted July 16, 2021
+msg:前台服務很好，下次還來
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in October 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 5, 2021
+msg:各方面都還不錯。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in October 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted November 1, 2021
+msg:服務非常到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Double Room
+info:Stayed in July 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted July 7, 2021
+msg:服務態度好，環境好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 21, 2021
+msg:劉加芹，蒯青華
+----------------------------------------
+name:D‍a‍l‍i‍a‍n‍m‍i‍a‍o‍h‍e‍t‍a
+info:Guestroom - Double Occupancy (No Window)
+info:Stayed in October 2021
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 26, 2021
+msg:都還可以吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 1, 2021
+msg:服務很不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Lake-view Twin Room
+info:Stayed in June 2021
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted June 11, 2021
+msg:自助早餐豐盛
+----------------------------------------
+name:C‍a‍r‍s‍e‍m
+info:Superior Double Room
+info:Stayed in May 2021
+info:Business travelers
+info:38 Reviews
+rating:3.2
+posted:Posted July 15, 2021
+msg:各方面都一般
+----------------------------------------
+name:W‍u‍k‍e‍l‍a‍n‍x‍i‍a‍o‍k‍a‍o‍z‍h‍u
+info:Lake-view Double Room
+info:Stayed in May 2021
+info:Other
+info:27 Reviews
+rating:3
+posted:Posted June 26, 2021
+msg:一般吧666
+----------------------------------------

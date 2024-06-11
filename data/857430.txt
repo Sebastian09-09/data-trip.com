@@ -1,0 +1,754 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in March 2024
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted March 24, 2024
+msg:Really enjoyed this hotel. It was really clean, really comfortable, and breakfast is unbeatable.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in May 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:I was very satisfied with my stay at Hengshui Guest House this time. The environment was beautiful. The front desk staff, Sun Xiaojuan and Xu Xuemei, were very enthusiastic. When I left, they gave me some water to drink on the way. It was very thoughtful. I will stay here again!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in April 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted April 16, 2024
+msg:I have to give it 7 points. I have been to five-star hotels, even six-star and seven-star hotels all over the world, and the service of this hotel is unmatched.
+From the moment you book the hotel, there will be a dedicated person to follow up to ensure that the scenery of the room you book is what you like
+When you step into the door of the hotel, you will feel what it means to be at home. Whenever you go out or come in, there will be someone with a smile to accompany you to the elevator until you put it at the door.
+When they found that there were guests in our room, they immediately took the initiative to send two chairs over.
+When they saw that we had children, they took the initiative to heat a cup of milk in the room.
+When they saw that we had elderly people, they would provide foot bath water.
+…..
+This kind of meticulous service is really surprising
+In addition to the service, the scenery of the hotel is also very good. The hotel is manor-style, and all kinds of flowers are in full bloom in spring, which is beautiful. There are also free electric buses to take you to enjoy the garden.
+I didn’t stay for 4 days this time, and I didn’t stay enough. I will stay for a few more days next time.
+There is such a hotel in Hengshui, which is really a treasure of Hengshui City. Highly recommended.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden-view Room
+info:Stayed in April 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted April 18, 2024
+msg:Check-in date: 4/16-4/18; The hotel environment is quite good. There are hot milk and foot baths to enjoy in the evening to eliminate the fatigue of the day. The front desk staff is quite professional, especially the service staff Ms. Shi, who is very kind and professional. The service attitude is until we check in the room. It is the best service staff I have ever met on a business trip. If you come to Hengshui for business next time, the hotel will definitely be my first choice, and I will also recommend it to my colleagues to stay here
+----------------------------------------
+name:L‍e‍a‍l‍o‍v‍e‍u
+info:Double Suite
+info:Stayed in April 2024
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted April 8, 2024
+msg:The room and hotel environment are much better than I expected, especially the service of the Yingbin Hotel is seven-star, better than the service we had at the Peninsula Hotel in Hong Kong. We booked two business suites, and the service staff led us directly to the door. There was a fruit plate in the room, and slippers, toothbrushes and hot milk were specially prepared for the children, which was very worry-free and thoughtful. Han Meng and Li Yu at the front desk made special praises, called in advance to confirm the itinerary, and patiently and punctually helped us adjust the room according to our needs to ensure that our family checked in smoothly. The park environment of the Yingbin Hotel is beautiful, with flowers and water, very quiet and elegant. I didn't expect that there would be such a high-end team in my hometown of Hengshui. I am really happy and proud! I must come to the Yingbin Hotel again when I return to my hometown next time!
+----------------------------------------
+name:Q‍i‍l‍i‍n‍y‍i
+info:Garden-view Room
+info:Stayed in April 2024
+info:Couples
+info:80 Reviews
+rating:5
+posted:Posted April 4, 2024
+msg:Recommend a very good hotel.
+We have stayed in many hotels with government hospitality. I suggest you go and experience them. Accommodation, food, environment, and service are better than 99% of international five-star hotels.
+Hengshui Guest House is worth coming back for vacation. Good location and convenient transportation. Good environment, garden style, especially the barbecue hot pot by the lake, very romantic. Whether it is stone or cooking, the food is very suitable for the taste of northerners. The service is very friendly and thoughtful. There are waiters everywhere to ensure that you are in place. In the evening, you will also be sent a foot bath bucket, and they will not chase you for good reviews. The facilities are very good, the quality is good, and it is very quiet to rest at night.
+It is worth coming again.
+----------------------------------------
+name:J‍e‍s‍s‍i‍e‍W‍H
+info:Garden-view Room
+info:Stayed in March 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted March 25, 2024
+msg:Convenient transportation, beautiful environment, complete facilities and thoughtful service. The room is clean and sanitary, with a warm and bright design. The concierge delivered the luggage directly to the room and helped to send the luggage to the car when checking out. Good stay experience! 👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in March 2024
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted March 9, 2024
+msg:Thank you very much for the reception by the two beauties Sun Xiaojuan and Xu Xuemei at the front desk. I am very satisfied and will stay in this hotel next time.
+----------------------------------------
+name:h‍e‍l‍l‍o‍x‍e‍r‍o‍n
+info:Business suite
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 29, 2024
+msg:The best hotel in the local area, the service is especially good, confirming various needs in advance, and thoughtfully arranging business high-speed rail pick-up, and the room and catering services are even better, five-star praise ✨
+----------------------------------------
+name:Z‍h‍i‍z‍i‍4‍0‍7‍6
+info:Business King Room
+info:Stayed in February 2024
+info:Family
+info:6 Reviews
+rating:3.5
+posted:Posted February 22, 2024
+msg:It was a very embarrassing experience. It was the last night of the Spring Festival self-driving tour. I booked here to rest before returning to Beijing because I had driven too long. Then I felt the characteristics of Hebei. A book in the room specifically introduced that the hotel is a depar**ent-level unit.
+In terms of hardware, it is magnificent and has swans on the river.
+In terms of service, it is confusing and inexplicable. First, when checking in, she insisted that I sign a leader form and write my mobile phone number. I said, can I stay without writing it? She said yes. The attitude was tough and there was basically no service. Then several particularly active doormen and greeters wanted to help you take the box. However, I was pouring water there to drink, and no one paid attention to me. They watched me drink ice water.
+I won't go there again. The service in Hebei is really not meticulous at all.
+----------------------------------------
+name:Y‍u‍x‍u‍a‍n‍7
+info:Business Standard Room
+info:Stayed in February 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:The room was OK, except that when the temperature rose, the air conditioner could only heat the room. It was OK if it was turned off. Everything else was OK. The buffet breakfast had a lot of varieties. Good review!
+----------------------------------------
+name:Q‍i‍n‍g‍n‍i‍a‍n‍l‍a‍o‍b‍e‍i‍j‍i‍n‍g
+info:Business King Room
+info:Stayed in February 2024
+info:Family
+info:29 Reviews
+rating:5
+posted:Posted April 9, 2024
+msg:The hotel has beautiful scenery and a large area. The children also like swans. The attitude is very good and they take the initiative to help with the luggage. Very kind!
+It is very convenient for eating and shopping. Professional, enthusiastic and patient service! Worth recommending!
+
+The comrades who come to tidy up and clean the room every day are very patient and meticulous, and they clean it very cleanly. Special thanks!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in February 2024
+info:Friends
+info:14 Reviews
+rating:5
+posted:Posted February 15, 2024
+msg:If you come to Hengshui, I recommend this garden-style hotel. The lobby is very grand, the rooms are clean, and it has a literary a**osphere. The breakfast is very rich, recommended!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in March 2024
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted March 25, 2024
+msg:Very nice, clean and comfortable.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 4, 2024
+msg:Very good Hygiene: Very good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in December 2023
+info:Business travelers
+info:10 Reviews
+rating:4.7
+posted:Posted December 5, 2023
+msg:The hotel has a beautiful environment, warm and thoughtful service, and a rich variety of breakfast
+----------------------------------------
+name:B‍e‍i‍b‍e‍i‍1‍2‍3‍4‍5‍6‍7‍8
+info:Business Standard Room
+info:Stayed in November 2023
+info:Friends
+info:96 Reviews
+rating:4.5
+posted:Posted December 2, 2023
+msg:Standard features of a government guesthouse: the environment and architecture are high-end. The room is large, the bathroom is large, and the dry and wet areas are separated, but the shower room is not good, which is cramped. The service is good, whether it is the front desk, the room or the lobby service staff, the service is professional and enthusiastic. The breakfast is average, and there is no freshly ground coffee. The restaurant on the second floor of the hotel is average.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in November 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted November 22, 2023
+msg:Five-star praise, complete facilities, clean and sanitary, beautiful environment and perfect service.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in May 2024
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted May 7, 2024
+msg:Overall satisfied, some minor issues were resolved promptly and properly. Thank you Wang Jiali for your heartwarming and considerate attitude!
+----------------------------------------
+name:W‍e‍i‍l‍e‍s‍h‍e‍n‍m‍e‍c‍a‍i‍q‍u‍w‍a‍n
+info:Business Standard Room
+info:Stayed in April 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted April 30, 2024
+msg:The room is good, the surrounding environment is also good, you can take a walk, there are many kinds of food, the service is very good, if you have a lot of things, you can find a cart to take them to the room, someone will take you to the elevator, and at night they will send you a thermos cup of milk and a foot bath bucket and foot bath salt. If there are not enough things in the room, you can contact the service staff to get them for you. In general, the service is in place
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in April 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted April 8, 2024
+msg:This is a hotel with a very high cost-effectiveness. Moreover, the service is warm and thoughtful, the environment is good, and it is very quiet. The window faces the lake. The breakfast is rich in variety, and the waiter also delivers freshly ground soy milk to the table. Next time I come to Hengshui, I will stay in this hotel again.
+----------------------------------------
+name:H‍u‍a‍n‍q‍i‍u‍j‍i‍n‍g‍y‍i‍n‍g‍0‍0‍9
+info:Business Standard Room
+info:Stayed in May 2024
+info:Business travelers
+info:52 Reviews
+rating:5
+posted:Posted May 6, 2024
+msg:The hotel environment is very good and the service is great
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in July 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 7, 2021
+msg:The environment is very good, the service attitude is very good 👍, the breakfast is also very rich, clean and hygienic, mainly because the place to live looks very clean, more assured, we are bringing children, parking is also very convenient
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 22, 2024
+msg:賓館服務非常熱情，周到！早餐豐富！餐飲不管是單點，自助和湖邊燒烤都是口味，衞生，環境一流。賓館環境非常漂亮。非常完美的一次體驗。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:入住非常滿意，前台兩位接待員孫曉娟、徐雪梅非常熱情，房間乾淨，早餐很滿意，下次還會入住衡水迎賓館！服務非常到位！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 14, 2024
+msg:設施齊全，環境優美，早餐種類很多，口味也不錯，賓館室外還有一個湖，養了天鵝，吃完早飯去湖邊轉轉，心曠神怡，無比放鬆！特別感謝前台陳艷芝和沈明慧，耐心解答問題，服務熱情周到，有需要還會再來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Double Suite
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 6, 2024
+msg:服務一流，都很有服務意識，衞生很乾凈。預訂後有人專門打電話詢問我的需求，本來訂了2家酒店就沖這個電話我選擇了它，果然沒選錯，一進門就有人上來主動幫助拿行李，前台辦理入住問問題熱情解答，還帶路到客房樓層，換客房樓層服務人員接待指引到房間，整個流程讓分不清方位的人很方便，不用費力去找。晚上因為去户外吃完燒烤覺得有點涼，回房間發現服務人員已經主動給準備好了泡腳水和熱牛奶，很貼心。吃早餐的時候還會有人主動幫忙把熱麪放到餐桌。韓夢，李玉是退房時候遇到的2位前台，服務也很好。其他遇到的也都很好可惜我不知道他們的名字。謝謝，遇到你們五一很開心。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in April 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted April 26, 2024
+msg:我來衡水第一晚住的崑崙，感覺一般第二天問過衡百的櫃姐説迎賓館不錯，抱着試試看的心裏住的迎賓館，這下子把我震驚了！一進門就有服務員端上熱乎乎的檸檬水，幫忙開房間，幫忙送行李到房間，由於我不喜歡住陰面還帶我走了好幾個房間讓我挑，由於我是過來看學校，服務員熱心的幫我給她親戚打電話諮詢，還細心的給我打印出每個學校的整體介紹聯繫方式和地理位置當我我房間桌子上，真的給我這個初來乍到來衡水的外地人一個真誠而暖心的賓至如歸的感覺！一問這位服務員小姐姐才不好意思的説她叫高丹！真的感謝🙏管不得迎賓館能在衡水旅居業排行老大！人家做的就是一流的服務！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in May 2024
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:孩子初中就去衡水讀書，疫情前總來這裏住，疫情後是第一次入住這裏，沒想到現在的服務升級的如此貼心周到，進屋就有一杯熱牛奶，還有熱水足浴，這些服務開始靠近南方酒店，很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in April 2024
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted April 22, 2024
+msg:園林式酒店環境優美生態和諧。服務超一流，賓至如歸無微不至。特別感謝大堂Ms.周和Ms.石和燒烤區負責人Mr.王和房間負責人都非常熱情專業周到，得到了像家人一樣的照顧。祝酒店越來越好！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Garden-view Room
+info:Stayed in September 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted September 3, 2023
+msg:十一點多到，我定的房型還沒打掃出來，先安排一個其他房型休息，很快二十幾分鍾後也把預訂的房間打掃乾淨。從前台、客房服務員到餐廳服務員都周到有禮。第一次在房間裏看到這麼多的書，衞生間貼心地準備了洗衣粉。處處體現着心意。房間設施也很不錯，園林更美。性價比的天花板了。特別感謝前台服務員韓夢、李煜，前台經理助理高丹👍。
+----------------------------------------
+name:M‍r‍-‍V‍a‍n‍-‍g‍o‍g‍h
+info:Garden-view Room
+info:Stayed in May 2024
+info:Business travelers
+info:122 Reviews
+rating:4.7
+posted:Posted June 2, 2024
+msg:老牌政府接待酒店…所以裝修風格比較老了…但是衞生，布草類還算在線…但是服務一流，主動。積極，熱情…周邊環境也特別舒服…衡水不二選擇…
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in May 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:環境很幽靜的酒店，服務也很好。
+唯一的建議，通往滏陽河的門都上了鎖，無法通行。能不能改成刷卡式的，這樣方便早上去滏陽河跑步🏃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden-view Room
+info:Stayed in April 2024
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted April 9, 2024
+msg:服務特好，不愧是政府接待酒店，晚上回來房間有熱牛奶，還有人送泡腳水，出門永遠有人送你到門口，從沒沒有過體驗，太好啦，到衡水一定要住這裏
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Garden-view Room
+info:Stayed in March 2024
+info:Business travelers
+info:14 Reviews
+rating:3.7
+posted:Posted March 19, 2024
+msg:洗澡水太涼了，一直沒怎麼熱。
+房間連個茶包、速溶咖啡都沒有。
+外賣也必須馬上取，暫時放在哪的地方都沒有。
+在衡水已經很高的房費了，不值。
+----------------------------------------
+name:S‍i‍s‍i‍~
+info:Business Standard Room
+info:Stayed in May 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:服務特別好，從一入住開始，深刻感受到了迎賓館所有服務人員的熱情和專業，再次感謝，以後來衡水必住迎賓館。
+----------------------------------------
+name:Y‍a‍n‍c‍y‍-
+info:Double Suite
+info:Stayed in May 2024
+info:Family
+info:4 Reviews
+rating:4.6
+posted:Posted May 4, 2024
+msg:賓館周邊環境比較好，但是設施有些老舊了，而且早餐的咖啡居然是速溶咖啡粉沏的，價格一半的亞朵都是現磨咖啡。。
+----------------------------------------
+name:X‍i‍e‍d‍d‍1
+info:Garden-view Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 25, 2024
+msg:這次入住感受很好，環境很好，前台韓夢和李煜幫忙辦的入住，服務很熱情，在房間我們有人吐了，客房態度也很好，下次還會選擇這裏！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in April 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted April 24, 2024
+msg:剛到酒店沒房間，住的地方看不到風景，後面與樓層小姐姐溝通換了一個外景房，房間乾淨，舒適，酒店服務好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 21, 2023
+msg:服務非常好，勝過五星
+環境非常優美，超級舒心
+----------------------------------------
+name:A‍b‍u‍w‍a‍n‍g‍c‍h‍u‍x‍i‍n‍�‍�
+info:Garden-view Room
+info:Stayed in June 2024
+info:Business travelers
+info:30 Reviews
+rating:5
+posted:Posted June 6, 2024
+msg:酒店環境和設施非常好，服務意也識特別好，出差選擇這家酒店，確實不錯，值得推薦！
+----------------------------------------
+name:Y‍A‍J‍I‍E‍ ‍W‍a‍n‍g
+info:Business Standard Room
+info:Stayed in March 2023
+info:Couples
+info:9 Reviews
+rating:4
+posted:Posted April 2, 2023
+msg:酒店是園林景觀會議型酒店，大堂富麗堂皇，酒店設施齊全，乾淨整潔，服務態度很好，前台有禮賓人員幫忙送行李和按電梯，辦理入住手續很快，早餐品種豐富，開餐很準時。房間高約三米，床較硬，較窄1.2米寬，房間面積不大，房內的廊燈不亮，不知道是燈泡壞了還是怎麼回事兒？前台安排的房間沒有打掃衞生，後換了一間房。看來前台沒有核實是不是乾淨房就給我們安排住了，這點兒發生在一個老飯店有點兒出乎我的意料，希望今後別再發生這樣的事情了。其他都不錯👌，建議酒店換床墊和床品，棉織品的質地和免礦的品牌降低了酒店的檔次，房間裏的書和一些零碎東西沒用且佔用客人置物的空間，希望我提的意見能幫助酒店改進，提示酒店的服務和硬件水平，也希望酒店的生意越來越好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in August 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 16, 2023
+msg:h j
+服務：都非常喜歡👍
+----------------------------------------
+name:m‍h‍p‍a‍r‍k
+info:Business King Room
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:4.7
+posted:Posted March 1, 2024
+msg:第一次去衡水，被迎賓館暖心熱情的服務感動了！前台的兩位美女還有迎賓姐姐無微不至的服務暖到了！下次還會光顧的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in April 2024
+info:Business travelers
+info:9 Reviews
+rating:4.7
+posted:Posted April 11, 2024
+msg:酒店地理位置好，停車方便，多次入住，出差首選，服務人員熱情，陳艷芝耐心用心的服務很滿意！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in January 2024
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:衡水的老牌酒店，有很多年歷史了，入住體驗還是不錯的，地理位置也不錯，每次來都住這裏。希望衡水冬天的空氣可以更好一些。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Garden-view Room
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:衞生：衞生非常乾淨
+環境：園林環境很好
+服務：服務很滿意，尤其是陳艷枝和沈明慧，服務非常熱情周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in November 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted November 5, 2023
+msg:環境：環境非常好，乾淨漂亮。很安靜。
+
+服務：韓夢、陳鳳提供了非常好的服務，需要的東西送的非常快，非常積極。
+
+設施：好。
+
+衞生：乾淨。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in May 2023
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted May 7, 2023
+msg:這個價格五星級酒店非常良心了，而且酒店後面的花園，滏陽河穿過，風景非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in June 2023
+info:Family
+info:19 Reviews
+rating:5
+posted:Posted July 10, 2023
+msg:迎賓館的服務人員從前台接待到房間打掃都很敬業，有規有距。館舍大環境非常漂亮，花匠等後勤人員的辛苦付出將賓館院內變成一個精緻的袖珍花園，讓人賞心悦目。從衡水迎賓館看到了衡水地區的文明程度，確實是＂千年儒鄉＂。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in June 2023
+info:Family
+info:1 Review
+rating:4.5
+posted:Posted June 26, 2023
+msg:此次入住衡水迎賓館非常滿意，院內環境優美，有個小湖，湖面上還有黑天鵝游來游去，院內綠植很多，像個小公園，房間整潔、乾淨，床也很舒服，酒店服務人員也都很熱情，尤其前台兩位工作人員非常認真負責，特意問了下名字，一個叫孫曉娟，一個叫徐雪梅，下次還會繼續選擇入住衡水迎賓館！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in February 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted March 12, 2024
+msg:周圍水景優美怡人，工作人員熱情周到彬彬有禮，房間舒適，大堂豪華典雅！
+----------------------------------------
+name:T‍i‍a‍n‍m‍a
+info:Business Standard Room
+info:Stayed in April 2023
+info:Other
+info:6 Reviews
+rating:4.7
+posted:Posted April 7, 2023
+msg:環境服務都不錯，就是洗髮沒有護髮素。
+----------------------------------------
+name:d‍r‍e‍a‍m‍_‍l‍e‍i‍l‍e‍i
+info:Business King Room
+info:Stayed in May 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 18, 2023
+msg:真的非常想多拍幾張照片來着，哈哈，但是帶着兩個寶寶的我真是力不從心也搞忘記了。迎賓館非常的棒！從前台接待到服務人員從態度到服務質量，堪得起一個五星評價，房間很乾凈，床上用品也非常好，甚至連貴妃榻上都有鋪單子，這是絕大多數酒店都沒有的，早餐也很豐盛，吃得很舒服，服務非常棒！五星
+----------------------------------------
+name:X‍i‍x‍i
+info:Business King Room
+info:Stayed in May 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 31, 2024
+msg:這個酒店真的好貼心，對帶孩子的家庭特別友好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in June 2023
+info:Business travelers
+info:18 Reviews
+rating:2
+posted:Posted June 3, 2023
+msg:也不知道這個酒店是怎麼安排的。明知道對面套房有結婚的，就一定要把我房間安排到對面。那麼多房間，也沒多少客人。就一定要這麼安排？大早上5點就開始折騰了。問前台，還裝傻充愣的。
+----------------------------------------
+name:s‍u‍m‍m‍e‍r‍3‍9
+info:Business King Room
+info:Stayed in April 2024
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted May 17, 2024
+msg:幫朋友預訂的房間，朋友評價很高，説下次來還住這裏
+----------------------------------------
+name:D‍a‍o‍j‍i‍n
+info:Business Standard Room
+info:Stayed in April 2023
+info:Family
+info:53 Reviews
+rating:3.5
+posted:Posted April 6, 2023
+msg:賓館環境挺好的 有水系有天鵝有錦鯉。環境修剪地過於整齊了。前台工作人員挺專業的 非常熱情甚至都有點過於緊盯顧客了。最不滿意的就是餐廳服務員。首先是門口某位賣晚餐券的 表情全程不耐煩 當聽到要從她那裡買晚餐券的時候甚至流露出有點失望的感覺。最最讓人難受的是餐廳裏的某服務員 我們一行人是在開餐前兩三分鐘到的 在餐廳門口的屏風外等待 這時她拉開屏風探出半個身子 我本來以為是招呼我們進去等 或者是打個招呼讓我們在外面再稍等一下 結果卻是看到我們在屏風外後她臉色一變 本來可能是還和別人説笑時的殘留的微笑也變成冷若冰霜 還瞪了我們一眼後重重地 注意是非常重重地把屏風拉了一下 好像是我們非常招人嫌 把屏風關的更嚴密了。我們一行人感到難受極了 這種花錢被嫌棄、被侮辱、買罪受的酒店餐廳 永遠印刻在大家印象裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in September 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted September 10, 2023
+msg:服務很好！交通便利，全是衡水最好的酒店。前台陳艷枝和另外一個小姑娘服務很好！下次出差會繼續入住！
+----------------------------------------
+name:Y‍u‍e‍s‍e‍j‍i‍a‍n‍g‍s‍h‍e‍n‍g
+info:Garden-view Room
+info:Stayed in March 2023
+info:Business travelers
+info:12 Reviews
+rating:2.7
+posted:Posted April 28, 2023
+msg:早餐一個廚師，説讓我過會兒來拿，我説那你幫我留一份，他説好。等我一會兒過去拿時，他理直氣壯地説人家拿走了，誰來誰拿，那你答應我留有什麼用啊！這個管理，這個素質!!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in December 2023
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:還可以 算是這邊好一些的酒店 不過不能在線付款衹能擔保很麻煩
+----------------------------------------
+name:C‍h‍e‍n‍g‍z‍i‍z‍i‍c‍z‍z
+info:Garden-view Room
+info:Stayed in March 2024
+info:Business travelers
+info:7 Reviews
+rating:1
+posted:Posted April 27, 2024
+msg:房間臭 服務員很差，半夜三更還打電話到房間
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in April 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 6, 2024
+msg:服務特別好，房間乾淨，早餐也不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in July 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted September 7, 2022
+msg:房間中規中矩，有浴缸，衞生和服務很好，勝在環境優美，早上可以圍着湖邊晨跑。
+缺點是早餐太過單一，不對的星級標準，也就經濟型酒店最普通的早餐，我住了3天，每天早餐一模一樣，一個菜都不帶換的，服了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:環境優美，酒店非常好，非常滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted April 3, 2023
+msg:每次回老家的首選！酒店院區裏環境沒的説，服務也不錯。但是房間隔音不好，對客房的維護也需進一步加強，房間內有些設施開始有點舊了。整體還是好評。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Double Suite
+info:Stayed in October 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted October 30, 2023
+msg:酒店環境很好 服務熱情 出差入住不錯的 算衡水數一數二的酒店了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 13, 2023
+msg:服務非常周到，房間乾淨整潔，枕頭一軟一硬便於選擇。居住舒適
+----------------------------------------
+name:T‍i‍a‍n‍x‍i‍a‍w‍u‍d‍i‍n‍a‍n
+info:Business King Room
+info:Stayed in June 2023
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted June 13, 2023
+msg:酒店乾淨衞生，環境非常好！特好是前台王佳麗經理，服務熱情！周到！貼心！展現出老牌五星級酒店一流的服務水準！
+----------------------------------------
+name:Y‍i‍j‍i‍a‍n
+info:Business King Room
+info:Stayed in May 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted May 28, 2024
+msg:房間乾淨衞生，服務態度熱情。
+----------------------------------------
+name:w‍s‍1‍0‍0‍7‍1‍3
+info:Business Standard Room
+info:Stayed in April 2024
+info:Friends
+info:13 Reviews
+rating:5
+posted:Posted April 8, 2024
+msg:硬件設施完備，軟件服務非常到位。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in June 2023
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted August 20, 2023
+msg:這是衡水市的一招，位置特別好，鬧中取靜，房間大，停車場很大。後面有一個湖，湖裡有天鵝。早餐也很豐富。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in September 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted September 17, 2023
+msg:酒店很好，尤其是服務，非常暖人，還自帶花園，下次到衡水還會訂該賓館。
+----------------------------------------
+name:Y‍u‍l‍a‍o‍y‍u
+info:Business King Room
+info:Stayed in September 2023
+info:Business travelers
+info:22 Reviews
+rating:4.7
+posted:Posted September 4, 2023
+msg:服務非常好，主動熱情細心。戴眼鏡的有免費清洗，並送擦巾布。餐食也很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in March 2024
+info:Business travelers
+info:35 Reviews
+rating:5
+posted:Posted March 4, 2024
+msg:前台韓夢，李煜非常熱情，樂於助人。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in March 2024
+info:Business travelers
+info:7 Reviews
+rating:4.5
+posted:Posted March 2, 2024
+msg:服務非常好，但是酒店設施太陳舊了。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Garden-view Room
+info:Stayed in May 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted May 28, 2024
+msg:服務很到位，熱情、周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in June 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted June 12, 2023
+msg:前台陳艷枝 李亞軍   待客禮貌 熱情  服務態度很好  環境不錯   下次還會繼續入住
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in November 2023
+info:Friends
+info:27 Reviews
+rating:5
+posted:Posted November 26, 2023
+msg:房屋乾淨整潔，設施齊全，環境舒適，服務熱情周到。
+----------------------------------------
+name:h‍o‍n‍g‍j‍i‍u‍z‍u‍i‍r‍e‍n
+info:Garden-view Room
+info:Stayed in August 2022
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted August 9, 2022
+msg:絕對是衡水最高檔酒店，認真，乾淨，後花園漂亮，在北方有這種酒店真是不容易。
+----------------------------------------

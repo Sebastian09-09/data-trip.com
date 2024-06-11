@@ -1,0 +1,1117 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in May 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:The hotel staff provided good service and gave a fruit plate. The environment was also very good, very quiet and clean. It is suitable for friends who are traveling, and it is close to eating. (There was also a fireworks display at night)! Recommended~
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2024
+info:Other
+info:81 Reviews
+rating:4.2
+posted:Posted April 10, 2024
+msg:The hotel is quite old, and the doors, windows and furniture are also a bit old. The service of the waiter is quite good. I wanted to ask for another bottle of water but they didn't give it to me. Later I saw that the water was soda water. I understand! The room is very big.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted April 15, 2024
+msg:The room is large, clean and the service is thoughtful
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:4 Reviews
+rating:4.2
+posted:Posted May 11, 2024
+msg:The facilities are quite old. The environment is average. The room is large. The service attitude is very good.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Cozy Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:50 Reviews
+rating:5
+posted:Posted April 13, 2024
+msg:The hotel is well equipped, the environment is excellent, the hygiene is very good, the service is very enthusiastic. The food is also good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 13, 2024
+msg:Clean and tidy, the room is very large. The flight time is late and after communicating with the front desk, we also arranged a late check-out. I am very satisfied
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:3
+posted:Posted April 23, 2024
+msg:The room smelled moldy, the toilet was broken, and breakfast was collected before the time
+----------------------------------------
+name:k‍a‍t‍e‍m‍a‍o
+info:Deluxe Queen Room
+info:Stayed in September 2023
+info:Couples
+info:27 Reviews
+rating:3
+posted:Posted September 20, 2023
+msg:Close to the scenic area, good location, convenient parking, and the crater of Wudalianchi is outside the window.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Cozy Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted February 26, 2024
+msg:The room is nice, but there are few guests in the winter tourist off-season, and the breakfast quality is a bit low, which does not live up to the star rating of the hotel.
+----------------------------------------
+name:y‍t‍h‍1‍0‍1‍9
+info:Cozy Queen Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:3.2
+posted:Posted August 1, 2023
+msg:The hotel is spectacular, but the facilities really need to be improved. The air conditioning doesn't cool at all, the room smells terrible, and the breakfast should have more variety.
+----------------------------------------
+name:Q‍i‍a‍n‍g‍s‍h‍a‍n‍g‍d‍e‍k‍a‍f‍e‍i
+info:Deluxe Family Room
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:4
+posted:Posted July 31, 2023
+msg:The room has a faint musty smell. It is still under construction. I was woken up by the noise at 5:30 in the morning.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in July 2023
+info:Family
+info:9 Reviews
+rating:1.5
+posted:Posted August 17, 2023
+msg:The hotel is old and the renovation took too long. There was a musty smell when entering the room. Later, I changed the room and it was slightly better. However, the hotel itself and the hotel next to it are undergoing renovations, which is noisy and dusty. The construction spider plant is right outside the window, which looks very unsafe. The hotel management was very indifferent to this feedback. You can see for yourself whether this state is suitable for normal business operations?
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Cozy Queen Room
+info:Stayed in July 2023
+info:Solo travelers
+info:3 Reviews
+rating:3
+posted:Posted July 20, 2023
+msg:Facilities: The hotel facilities are very old.
+The room is quite dark, and the shower gel is from 2021, and the 2-year shelf life has just not expired.
+
+The parking lot is very large
+----------------------------------------
+name:K‍o‍n‍g‍g‍u‍a‍n
+info:Superior 2-bed Room
+info:Stayed in June 2023
+info:Couples
+info:31 Reviews
+rating:5
+posted:Posted June 19, 2023
+msg:The sanitation is good, the front desk staff is very enthusiastic, and the room is very large. But the furniture is a bit old.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 27, 2023
+msg:The room is large, the parking is convenient, the service from the front desk and the customer service are very good, and they also introduced the attractions of the scenic spot, and I will come again next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in April 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 17, 2023
+msg:It's the first time I came to Wudalianchi City, I feel very good, the hotel environment is clean and tidy, I have a comfortable feeling of going home, the service staff is very enthusiastic and patient to answer my questions, I will definitely come back if I have the opportunity.
+----------------------------------------
+name:S‍H‍H‍D‍J
+info:Superior 2-bed Room
+info:Stayed in September 2023
+info:Friends
+info:23 Reviews
+rating:1.7
+posted:Posted September 8, 2023
+msg:The room facilities are very poor. The first room lacked a bedside table to place the standard slippers. There was also a light that didn't work. I changed to another room, and there were still many problems. There was a leak under the basin and water dripping above the toilet. The basin was extremely blocked. It's a new hotel, how could it be like this?
+----------------------------------------
+name:L‍a‍o‍m‍a‍e‍d‍a‍o
+info:Cozy Queen Room
+info:Stayed in September 2023
+info:Solo travelers
+info:172 Reviews
+rating:4
+posted:Posted September 4, 2023
+msg:A local tyrant type hotel 🏨, a health care hotel provided by the developer 🏨, the rooms are large, some facilities are aging, and it is relatively quiet. Overall it is good, the breakfast is OK, but there is no fruit...
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in August 2023
+info:Friends
+info:8 Reviews
+rating:3
+posted:Posted August 10, 2023
+msg:An older hotel in Wudalianchi, the room is very large, the curtains are like a big curtain, you can run from the window to the door, but the layout is not reasonable and there is a smell. When I first checked in, they gave me a fruit plate and upgraded my room. I wanted to give a good review, but this hotel has some fatal problems, which may be insignificant to the hotel, but this is why Northeast hotels can never get it right. The room had a whole window glass cracked, but it was still usable at the moment, and the mirror light in the room bathroom was also broken. After reporting to the front desk, the hotel's attitude was that there was no big problem and it could still be used. However, these problems are big problems in high-end hotels in the south or Europe and the United States, and they need to be dealt with. I hope the hotel managers and service staff understand what I mean. Secondly, the hotel deposit for two days is too high, which is unreasonable. Thirdly, the hotel breakfast ends at 8:30. Why is it so early? Tourists come to vacation, not to work. Shouldn't it be at least after 9:30? The hotel breakfast is quite rich, but you have to go earlier
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:4
+posted:Posted August 8, 2023
+msg:Good reviews. In a small county, I can only say that the hotel is of a good standard and cannot be too demanding. Besides, the price is here. Over 500 yuan for a five-star hotel. Good reviews, the only thing I don't understand is that the hotel laid floor coverings.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in May 2023
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted May 26, 2023
+msg:Facilities: good
+Hygiene: clean
+good environment
+The service was excellent
+----------------------------------------
+name:X‍i‍a‍o‍g‍u‍o‍z‍h‍o‍n‍g
+info:Superior 2-bed Room
+info:Stayed in August 2022
+info:Other
+info:14 Reviews
+rating:4.7
+posted:Posted August 15, 2022
+msg:The hotel's hardware facilities are good, the surrounding environment is good, the check-in procedure at the front desk is fast, and there are many types of breakfast.
+----------------------------------------
+name:v‍e‍r‍y‍p‍e‍r‍r‍y
+info:Superior 2-bed Room
+info:Stayed in August 2022
+info:Family
+info:20 Reviews
+rating:4.7
+posted:Posted August 9, 2022
+msg:Except for the slightly old facilities, everything else is good. The front desk opened the room card in advance, and the check-in was super fast, which is very good. The hotel has a large yard with safe parking. The direction of the scenic spot is right outside the door. The iron pot stew nearby is delicious
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Cozy Queen Room
+info:Stayed in July 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 30, 2022
+msg:It's a pity that such a hotel is located in such a small city. The price/performance ratio is super high, and it is very clean. You can smell the grass and see the volcano when you open the window. The scenery is beautiful!
+Service: The waiter at the front desk is super patient to help us introduce the route of the scenic spot. This is a must-choice when you come to Wudalianchi!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in May 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted June 1, 2023
+msg:I am very satisfied, the comfortable big bed room is very good.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in July 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 29, 2022
+msg:Hygiene: The room is very clean and tidy
+Environment: The surrounding environment is also good, very clean
+Service: The room is very attentive and thoughtful
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in July 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 23, 2022
+msg:The dining environment is pretty good, there are quite a lot of people staying in the restaurant, and the service is also good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2022
+info:Couples
+info:15 Reviews
+rating:4
+posted:Posted November 11, 2022
+msg:The environment is good, once brilliant. The facilities are a bit outdated, but everything else is fine.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2022
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted August 18, 2022
+msg:I booked this hotel for a trip to Wudalianchi. The hotel has a good location, convenient transportation, considerate service, spacious rooms, clean and comfortable, rich breakfast, and we stayed for another night.
+----------------------------------------
+name:v‍i‍c‍t‍o‍r‍x‍x‍q
+info:Superior 2-bed Room
+info:Stayed in August 2022
+info:Family
+info:7 Reviews
+rating:3.2
+posted:Posted August 11, 2022
+msg:Near the city hall, the location is very good. The hardware facilities are good, but the management is unsatisfactory. The marble floor in the lobby is mottled and lacks maintenance. The room is large, and the cloakrooms are independent, which is very high-grade, but the service level is not good. The language of the front desk clerk is blunt, not very good at speaking, and lacks training. Before leaving, two different people came to urge to make a phone call, and the handover was poor, which was annoying.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2022
+info:Friends
+info:8 Reviews
+rating:3.2
+posted:Posted August 10, 2022
+msg:It is an old hotel, and the facilities in the room are a bit poor from a modern perspective, but it is completely understandable, and there is even a feeling of nostalgia
+However, there are reptiles in the hotel room and blood stains on the towels next to the bathtub indicate that the sanitary conditions may not be very good
+It seems that there are many facilities, but they are not open (hot springs) or are gone (laundry), which needs to be updated on the Internet.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in August 2022
+info:Family
+info:3 Reviews
+rating:4.5
+posted:Posted August 10, 2022
+msg:The breakfast is average, but the room is big and clean, and the surrounding area of ​​the scenic spot is okay. It's close to the nucleic acid testing site, and the reservation was renewed for one night.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2022
+info:Business travelers
+info:13 Reviews
+rating:4.2
+posted:Posted August 6, 2022
+msg:The surrounding environment is good, the parking lot is quite large, suitable for self-driving travel.
+----------------------------------------
+name:r‍a‍y‍d‍e‍t‍u‍o
+info:Deluxe Queen Room
+info:Stayed in July 2022
+info:Family
+info:7 Reviews
+rating:1
+posted:Posted August 13, 2022
+msg:The most "smell" hotel I have stayed in in recent years, because Beijing also has Wendu Shuicheng Hotel, so I booked this hotel, but when I opened the door, the smell of sweat made me feel like a fifth-tier city train station. The so-called view room is even more ridiculous. Excuse me. What kind of landscape is the parking lot 🤷‍♂️Friends who come to Wudalianchi, don’t stay here and spend half the price to stay in an express hotel. It’s better than this~
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in July 2022
+info:Family
+info:1 Review
+rating:1
+posted:Posted July 28, 2022
+msg:It's worn out, old, and smells musty. No amount of ventilation can fix it. I won't go there for the second time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 22, 2022
+msg:The most luxurious hotel in Wudalianchi, suitable for business travel, very good!
+Environment: It can be regarded as a five-star
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 5, 2023
+msg:In addition to cold water, others are very good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in July 2022
+info:Friends
+info:14 Reviews
+rating:3.2
+posted:Posted August 5, 2022
+msg:So-so, change hotels after staying for one night. Lots of people, chaotic, average management
+----------------------------------------
+name:Q‍i‍d‍i‍a‍n‍g‍u‍a‍n‍g‍g‍u‍a‍n‍g
+info:Business Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:5 Reviews
+rating:1
+posted:Posted June 27, 2022
+msg:bad, bad. Difference.
+There is a lack of charging equipment in the room, and the mobile phone was not charged early in the morning, seriously delaying work
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2022
+info:Friends
+info:56 Reviews
+rating:2.2
+posted:Posted July 13, 2022
+msg:The location of the hotel looks good, but the reality is poor, and the front desk is unprofessional. I booked a 1.8-meter double room on Ctrip, and I was sent a 1.5-meter small room. After reconfirmation, the wrong room was sent, and I changed the floor and changed the room. The result The wrong room card was issued again, and I went to change the room card again. I was very unhappy, and the price was not attached.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in August 2022
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted August 13, 2022
+msg:I think it's the best hotel in the area, but the breakfast is average
+----------------------------------------
+name:T‍i‍a‍n‍m‍o‍h‍u‍y‍u
+info:Superior 2-bed Room
+info:Stayed in September 2021
+info:Family
+info:219 Reviews
+rating:5
+posted:Posted September 25, 2021
+msg:review
+
+Wudalianchi didn't have enough fun in one day, so I came back to continue to stay. The hotel's facilities are completely up to the specifications of a five-star hotel. The rooms are huge, with a big bathtub. I took a soak in it at night, and it was extremely comfortable. The fatigue and cold of the day were swept away. There is also a reminder at the hotel washbasin to remind guests not to drink the water in the faucet, because there is a small faucet of purified water for drinking next to it, which is really considerate. There are disposable slippers, plastic slippers, bathrobes, etc. in the room. The breakfast is also good, the WiFi does not require a password, and the network speed is fast. The parking lot is huge, and the hotel is a landmark building that can be seen from a long distance. The hotel is in Wudalianchi City, 20 kilometers away from the scenic spot, so it is convenient to travel by car. By the way, the taxi in the city is five yuan no matter where you go.
+----------------------------------------
+name:N‍a‍n‍E‍d‍w‍i‍n
+info:Superior 2-bed Room
+info:Stayed in July 2022
+info:Friends
+info:50 Reviews
+rating:3.2
+posted:Posted July 17, 2022
+msg:It is the best hotel in Wudalianchi city.
+----------------------------------------
+name:S‍i‍m‍o‍n‍R‍a‍y
+info:Deluxe Queen Room
+info:Stayed in September 2021
+info:Other
+info:44 Reviews
+rating:1.2
+posted:Posted September 23, 2021
+msg:I didn't have a good rest all night. The sheets and pillows smelled so bad that I couldn't sleep well, and the room was a bit cold. The bathroom doors were broken and leaked water onto the floor which was very slippery.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in July 2021
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted August 1, 2021
+msg:Very good hotel, rich breakfast is very suitable for vacation with children. The hotel facilities are complete, warm and a**ospheric. It is very convenient to go to various attractions, there are many parking spaces, and it is very convenient to rent out the door. It is a good hotel very suitable for travel and vacation!
+----------------------------------------
+name:S‍h‍i‍z‍i‍z‍u‍o‍k‍i‍k‍i
+info:Deluxe Queen Room
+info:Stayed in May 2024
+info:Couples
+info:18 Reviews
+rating:1.7
+posted:Posted May 23, 2024
+msg:設施極其老舊，和五星毫無關係，洗澡有熱水，水龍頭超級低矮，洗澡不方便。浴袍上身很癢，也比較舊，毛巾漂白粉泡得很厲害，早飯和快捷酒店差不多，唯一一家令人窒息的五星，應該是純給遊客團的，門口地方很大，停車比較方便，房間比較大，空調不制熱，給了電暖氣但是會跳電，不能用，5月晚上冷得很，睡覺都能凍醒，實在是不適合南方人！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in May 2024
+info:Friends
+info:16 Reviews
+rating:5
+posted:Posted June 1, 2024
+msg:設施：良好
+衞生：優秀
+環境：優秀
+服務：優秀
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in May 2024
+info:Other
+info:15 Reviews
+rating:5
+posted:Posted May 27, 2024
+msg:房間夠大，服務不錯，還贈送了水果！推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2024
+info:Solo travelers
+info:44 Reviews
+rating:5
+posted:Posted April 12, 2024
+msg:房間乾淨整潔 早餐品種豐富 值得推薦入住酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 8, 2024
+msg:環境非常好！前台服務非常棒！客房服務也很棒！
+----------------------------------------
+name:C‍h‍u‍n‍h‍u‍i‍d‍a‍o
+info:Superior 2-bed Room
+info:Stayed in August 2023
+info:Business travelers
+info:94 Reviews
+rating:4.2
+posted:Posted August 28, 2023
+msg:在蓮池就算是很好的酒店了，設施有點老，但維護的還不錯。 周圍吃飯的地方很多，適合來出差旅行。早餐也還可以
+----------------------------------------
+name:S‍h‍i‍j‍i‍e‍1‍2
+info:Superior 2-bed Room
+info:Stayed in June 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted June 13, 2023
+msg:到了酒店，給免費升級，還每件房送了水果。房間很大，洗澡水很大。前台接待很熱情，我們還在酒店用餐，菜非常合口味，一次愉快的入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:房間
+設施：齊全，乾淨衞生，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:7 Reviews
+rating:4
+posted:Posted March 23, 2024
+msg:還行吧，已經可以了，不能跟大城市比。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in July 2023
+info:Friends
+info:5 Reviews
+rating:3
+posted:Posted August 2, 2023
+msg:住過很多酒店，第一次遇到“房卡”還要收按金。酒店規模很大，設施陳舊，性價比不高。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Cozy Queen Room
+info:Stayed in May 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted May 16, 2024
+msg:服務：服務很好，衞生也不錯
+----------------------------------------
+name:Z‍i‍y‍o‍u‍y‍i‍d‍o‍n‍g
+info:Superior 2-bed Room
+info:Stayed in August 2023
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:酒店很大，服務熱情，停車方便，雖然設施有年頭了但維護保養的還不錯，很乾凈。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:61 Reviews
+rating:4
+posted:Posted March 2, 2024
+msg:裝修時間比較早，設施已經很陳舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:3
+posted:Posted October 5, 2023
+msg:條件勉強對得起價位吧，就是裝修和設施實在太老舊了，早餐聊勝於無。
+----------------------------------------
+name:J‍u‍r‍e‍n‍j‍i‍a‍e‍n‍t‍e
+info:Deluxe Family Room
+info:Stayed in July 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted October 9, 2023
+msg:非常滿意的一次入住，環境很棒，出行方便，和小夥伴們一起住的很開心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in March 2024
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted March 5, 2024
+msg:當地最好的賓館，性價比很高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in October 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:服務態度很好，衞生一般，房間很大，設施比較老舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 3, 2024
+msg:房間很大，服務很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in October 2023
+info:Family
+info:2 Reviews
+rating:4.5
+posted:Posted October 4, 2023
+msg:沒給滿分因為有味道，但是其他的方面都很不錯。
+----------------------------------------
+name:Q‍D‍b‍e‍s‍t‍H‍B
+info:Cozy Queen Room
+info:Stayed in June 2023
+info:Business travelers
+info:87 Reviews
+rating:2.2
+posted:Posted June 28, 2023
+msg:酒店很一般，勉強將就一晚吧。早餐也非常差，服務就不要考慮了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in July 2023
+info:Family
+info:7 Reviews
+rating:2.2
+posted:Posted July 29, 2023
+msg:空調致冷效果差，周圍噪音大，服務一般，酒店功能較少
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in July 2023
+info:Family
+info:11 Reviews
+rating:2
+posted:Posted July 27, 2023
+msg:有一種狐臭味，換了房間也還是不行。不知道怎麼回事。
+----------------------------------------
+name:M‍o‍h‍e‍x‍i‍a‍o‍t‍i‍a‍n
+info:Deluxe Family Room
+info:Stayed in October 2023
+info:Friends
+info:4 Reviews
+rating:1
+posted:Posted October 10, 2023
+msg:房間老舊，設備老化，住宿體驗很一般。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in July 2023
+info:Family
+info:12 Reviews
+rating:3
+posted:Posted August 10, 2023
+msg:太老 早餐一般 大堂衞生比較差 房間倒是很大。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2023
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:特別好 房間大舒適服務熱情周到還送了果盤
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:環境好可以觀景
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Cozy Queen Room
+info:Stayed in July 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted July 26, 2023
+msg:酒店很好👍而且服務態度好 還送果盤很貼心
+----------------------------------------
+name:X‍u‍a‍n‍z‍h‍u‍a‍n‍b‍a‍o‍p‍i
+info:Deluxe Queen Room
+info:Stayed in September 2023
+info:Friends
+info:86 Reviews
+rating:3
+posted:Posted November 18, 2023
+msg:房間很大很舒適，在這裏也沒別的選了
+----------------------------------------
+name:f‍s‍t‍j‍o‍v‍i
+info:Business Double Room
+info:Stayed in October 2023
+info:Family
+info:7 Reviews
+rating:1
+posted:Posted October 4, 2023
+msg:房間老舊，服務缺失，早餐如豬食
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in June 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted June 23, 2023
+msg:乾淨，服務熱情，酒店贈送了水果，泡澡水很好！
+----------------------------------------
+name:D‍a‍m‍e‍i‍.‍x‍u‍k‍a‍n‍g
+info:Business Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted April 22, 2024
+msg:總體來説挺好的
+----------------------------------------
+name:1‍3‍�‍�‍…
+info:Business Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted December 19, 2023
+msg:態度還還有水果單間熱乎
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in March 2024
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted March 31, 2024
+msg:環境好，服務好
+----------------------------------------
+name:H‍o‍u‍d‍e‍z‍a‍i‍w‍u
+info:Cozy Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 23, 2024
+msg:服務好，有水果
+----------------------------------------
+name:K‍u‍ ‍ ‍ ‍p‍a‍n‍ ‍ ‍ ‍j‍u‍n
+info:Superior 2-bed Room
+info:Stayed in July 2023
+info:Family
+info:25 Reviews
+rating:3
+posted:Posted July 21, 2023
+msg:説過了一般  還有就是早餐差點意思
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in July 2023
+info:Family
+info:37 Reviews
+rating:5
+posted:Posted August 6, 2023
+msg:酒店夠大夠氣派，就是軟服務待提升
+----------------------------------------
+name:T‍a‍n‍x‍i‍a‍n‍z‍h‍e‍t‍e‍s‍i‍l‍a‍a‍o‍d‍i‍l‍u‍h‍u
+info:Deluxe Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:40 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:沒有熱水。屋裡挺熱。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in October 2023
+info:Business travelers
+info:12 Reviews
+rating:4.2
+posted:Posted October 2, 2023
+msg:服務，態度，外表特別好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in July 2023
+info:Friends
+info:13 Reviews
+rating:3
+posted:Posted July 13, 2023
+msg:非常一般，東北發展不好是有道理的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Friends
+info:13 Reviews
+rating:5
+posted:Posted August 16, 2023
+msg:這個酒店在五大連池是最好的了
+----------------------------------------
+name:v‍o‍l‍i‍a
+info:Superior 2-bed Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:2.7
+posted:Posted August 13, 2023
+msg:設施陳舊，周邊開啤酒節比較吵
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in June 2023
+info:Family
+info:3 Reviews
+rating:4.7
+posted:Posted June 23, 2023
+msg:房間不錯。應該有一個小冰箱。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2023
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted September 17, 2023
+msg:一個字！大，啥都大，👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in October 2023
+info:Friends
+info:31 Reviews
+rating:5
+posted:Posted October 15, 2023
+msg:一般般，還可住的
+----------------------------------------
+name:S‍h‍i‍m‍i‍a‍n‍c‍h‍e‍n‍s‍h‍u‍b‍a‍o
+info:Deluxe Queen Room
+info:Stayed in August 2023
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted August 13, 2023
+msg:非常好好👌🏻好👌🏻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2023
+info:Friends
+info:9 Reviews
+rating:3
+posted:Posted August 16, 2023
+msg:房間很好，早點一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in June 2023
+info:Solo travelers
+info:18 Reviews
+rating:4
+posted:Posted July 1, 2023
+msg:設施衞生
+環境：可以
+----------------------------------------
+name:�‍�‍�‍�‍s‍h‍u
+info:Deluxe Family Room
+info:Stayed in August 2023
+info:Family
+info:69 Reviews
+rating:5
+posted:Posted August 29, 2023
+msg:在當地還是不錯的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in June 2023
+info:Business travelers
+info:7 Reviews
+rating:4.2
+posted:Posted July 17, 2023
+msg:服務：服務態度非常好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in June 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted June 23, 2023
+msg:一切都還好，可以住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in August 2023
+info:Friends
+info:29 Reviews
+rating:5
+posted:Posted August 14, 2023
+msg:酒店環境挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in June 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 2, 2023
+msg:本地最好的酒店了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Cozy Queen Room
+info:Stayed in May 2023
+info:Couples
+info:11 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:有停車場，交通方便。
+----------------------------------------
+name:Z‍i‍q‍i‍d‍o‍n‍g‍l‍a‍i
+info:Superior 2-bed Room
+info:Stayed in June 2023
+info:Friends
+info:7 Reviews
+rating:4
+posted:Posted June 29, 2023
+msg:房間非常大、不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in August 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted August 22, 2023
+msg:衞生 環境好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Cozy Queen Room
+info:Stayed in August 2023
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted November 7, 2023
+msg:離景區遠！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in June 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted June 23, 2023
+msg:房間寬敞舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Friends
+info:37 Reviews
+rating:5
+posted:Posted August 23, 2023
+msg:還可以吧。
+----------------------------------------
+name:T‍i‍a‍n‍t‍i‍a‍n‍x‍i‍a‍n‍g‍s‍h‍a‍n‍g
+info:Business Double Room
+info:Stayed in July 2023
+info:Couples
+info:32 Reviews
+rating:4
+posted:Posted July 24, 2023
+msg:不錯的地方
+----------------------------------------
+name:Y‍a‍n‍g‍g‍u‍a‍n‍g‍x‍i‍n‍x‍i‍u
+info:Business Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:2
+posted:Posted July 8, 2022
+msg:房間小，布草陳舊，設施老
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2022
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted August 7, 2022
+msg:酒店很大，服務很好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in July 2021
+info:Family
+info:19 Reviews
+rating:5
+posted:Posted August 3, 2021
+msg:酒店房間很大停車方便，早餐不錯，距離五大連池地質公園有十幾公里，自駕遊方便！
+----------------------------------------
+name:B‍a‍o‍c‍h‍i‍w‍e‍i‍x‍i‍a‍o‍l‍j‍w
+info:Deluxe Family Room
+info:Stayed in July 2022
+info:Friends
+info:12 Reviews
+rating:2.5
+posted:Posted August 3, 2022
+msg:五星住出三星感覺
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2022
+info:Friends
+info:66 Reviews
+rating:4.7
+posted:Posted October 19, 2022
+msg:性價比高大酒店🏨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in July 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted September 17, 2022
+msg:當地最好的酒店了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in August 2022
+info:Business travelers
+info:4 Reviews
+rating:4
+posted:Posted August 8, 2022
+msg:礦泉水要求收費
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2022
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted August 19, 2022
+msg:環境衞生乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Suite
+info:Stayed in July 2021
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted November 28, 2021
+msg:很好好很好很好很好很好很好
+----------------------------------------
+name:J‍i‍a‍n‍g‍s‍h‍a‍n‍g‍y‍u‍w‍e‍n‍g‍d‍a‍i‍y‍a‍n‍j‍i‍n‍g
+info:Stayed in September 2021
+info:Friends
+info:70 Reviews
+rating:5
+posted:Posted October 2, 2021
+msg:不能泡温泉有點遺憾。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in June 2021
+info:Friends
+info:5 Reviews
+rating:4.7
+posted:Posted June 15, 2021
+msg:有停車場，早晨的性價比很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Room
+info:Stayed in July 2021
+info:Family
+info:24 Reviews
+rating:5
+posted:Posted October 29, 2021
+msg:酒店很高檔，不錯的選擇
+----------------------------------------
+name:X‍i‍n‍g‍m‍o‍u‍t‍i‍a‍n‍t‍i
+info:Business Suite
+info:Stayed in July 2021
+info:Friends
+info:62 Reviews
+rating:5
+posted:Posted August 5, 2021
+msg:環境不錯，值得入住
+----------------------------------------
+name:N‍i‍f‍e‍n‍g‍t‍u‍e‍r
+info:Superior 2-bed Room
+info:Stayed in May 2021
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted June 23, 2021
+msg:挺好的，實惠，環境好。
+----------------------------------------
+name:X‍Y‍Y‍Y‍Y‍S‍�‍�
+info:Business Double Room
+info:Stayed in August 2021
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted December 10, 2021
+msg:就還可以8⃣️
+----------------------------------------
+name:l‍i‍f‍e‍n‍g‍g‍u
+info:Deluxe Queen Room
+info:Stayed in July 2021
+info:Friends
+info:3 Reviews
+rating:1
+posted:Posted July 31, 2021
+msg:當地最好，實際
+----------------------------------------
+name:z‍j‍x‍e‍a‍s‍o‍n
+info:Deluxe Family Room
+info:Stayed in July 2021
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted July 31, 2021
+msg:服務好哈哈
+----------------------------------------
+name:R‍e‍n‍s‍h‍e‍n‍g‍ ‍s‍i‍p‍i‍n‍g‍s‍h‍u‍i
+info:Deluxe Queen Room
+info:Stayed in May 2021
+info:Other
+info:14 Reviews
+rating:5
+posted:Posted June 18, 2021
+msg:當地還算可以
+----------------------------------------

@@ -1,0 +1,93 @@
+name:T‍a‍i‍h‍u‍m‍i‍n‍g‍z‍h‍u‍2
+info:Guestroom - with View (Double bed)
+info:Stayed in June 2023
+info:Friends
+info:247 Reviews
+rating:5
+posted:Posted July 7, 2023
+msg:设施：OK
+卫生：ok
+环境：ok
+早餐:ok
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Room (Double bed)
+info:Stayed in December 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 3, 2022
+msg:its very good play for healing
+----------------------------------------
+name:f‍s‍p‍s‍q
+info:Standard Room (Double bed)
+info:Stayed in May 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:Emeishan trip, parent-child hotel, equipped with Anna Liu Cui housekeeper, thoughtful service, room arrangement location is very good, super good view, full service, active online at any time during the stay, special details, the hotel hot spring is the most fun indoor wave pool, you can feel the seaside wave, there is also an outdoor children's group amusement park pool, as well as the children's amusement park upstairs, the fruit outside the hot spring is slowly ripening, there are several kinds of fruit, hahaha, it is said that you can come to taste it in summer, here you can feel the strong parent-child a**osphere, the service is great, the room is very good, there are many places to eat around, 2 minutes away from the scenic spot, the hotel parking is free
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Friends
+info:8 Reviews
+rating:1
+posted:Posted April 29, 2024
+msg:I chose the most expensive hotel, but the service was the worst. There was no service staff at Building 2 when I checked in. We didn't know where the room was, and no one paid attention to us. We walked to the lobby and upgraded to Building 1 for 100 yuan. I have been to Chengdu for a few days, and this is the worst hotel in my opinion. I am speechless. There is only one service staff in the entire lobby.
+----------------------------------------
+name:X‍i‍a‍o‍w‍e‍n‍z‍i
+info:Guestroom (Double Bed) (Building 2)
+info:Stayed in April 2024
+info:Family
+info:3 Reviews
+rating:4.5
+posted:Posted April 25, 2024
+msg:Thanks to my sister for upgrading the room, I stayed here for the second time. It's as good as always. There are charging stations in the parking lot and the restaurant next to the hotel is also delicious. I went there for the hot springs and the hotel was specifically requested by my children. Please note that children over 1.2 will be charged extra for hot springs and breakfast.
+----------------------------------------
+name:J‍i‍e‍r‍l‍i‍z‍h‍u‍a‍n‍z‍h‍u
+info:Standard Room (Double bed)
+info:Stayed in April 2024
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted April 11, 2024
+msg:The hotel's service attitude is very good. I brought my children here mainly to soak in the hot springs and play in the water. The children had a lot of fun. The wave pool is really good. Both adults and children are happy. Every service staff at the hot springs greeted us with a smile and provided thoughtful service. The only thing I was not satisfied with was the breakfast, which was really bad. The bun skins were hard, the noodles of the pasta were baked dry, and even the children found the noodles at the noodle stall unpalatable. There was no latte to choose from for coffee, and there was no creamer. Finally, I thank the hotel for opening a bubble party for the children at night!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Twin Room (Affiliated building)
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 8, 2024
+msg:Brought the kids to play, the housekeeper Anng who received us was very nice, the room was well arranged, and she also shared the hotel time, Emei Mountain guide, and answered all the questions online. I was very satisfied. The hotel has several hot springs of different sizes, and the main thing is that the water is changed every day, which feels more hygienic.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Room (Double bed)
+info:Stayed in April 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted April 7, 2024
+msg:The room is very clean and sanitary. The location is very good. The river view outside the window is great. The service is very good. Compared with many hotels, the service is very considerate and meticulous. In general, it is a hotel worth staying in.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Twin Room (Affiliated building)
+info:Stayed in April 2024
+info:Family
+info:2 Reviews
+rating:4.2
+posted:Posted April 7, 2024
+msg:The overall decoration is a little old, but it's good to get this price during the Qingming Festival. The 1.1m twin room in Building 2 was upgraded to a 1.3m twin room in Building 2. Building 2 is not as bad as imagined. If you have money, you will definitely book Building 1. There is a high-speed rail station pick-up service, which is 5 minutes away from the high-speed rail station. There are minibuses for many people and business cars for few people. It's a few dollars to take a taxi from Baoguo Temple Bus Station, which is very convenient. The biggest selling point is his hot spring pool, which has many pools and a wave pool. The kids have a lot of fun. The outdoor pool changes water every day. This is a thumbs up. There are requirements for the height of the kids. The room price generally only includes two breakfasts and two hot springs. If the kids are over, you have to consider it in advance or add a surcharge on the spot. The breakfast category is still good. The hotel also has a gym, table tennis, billiards, video games, naughty castles and other entertainment measures to meet the entertainment needs of adults and children.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Near Street (2 Beds) (Building 1)
+info:Stayed in March 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted March 17, 2024
+msg:This is my second stay. I am still very satisfied. The sanitary environment is very good. I can also take a hot spring bath after staying. It really relieves fatigue after climbing the mountain. There is also a dedicated butler in the room, and midnight snacks are delivered in the evening, which is really good.
+----------------------------------------

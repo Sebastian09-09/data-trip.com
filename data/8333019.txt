@@ -1,0 +1,2936 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:4 Reviews
+rating:1.5
+posted:Posted January 28, 2024
+msg:I placed an order with Ctrip. When I checked in at the front desk, the front desk ignored people. It might be shift time, but I can't ignore the customer. Then I went to the guest room and saw that the roof was cracked. Can I stay in this room? I couldn't sleep well at night. , I am afraid that the ceiling will fall down and the toilet will be stained. A 5-star hotel should not have this kind of service and quality, as evidenced by the picture.
+----------------------------------------
+name:Y‍a‍n‍g‍h‍o‍n‍g‍z‍h‍u
+info:Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted January 28, 2024
+msg:I came to Jishui specifically for a wedding banquet. I saw this hotel from the Internet. I was unexpectedly very satisfied with it. It was very comfortable, the service attitude was also very good, the environment was also very good, and the room was very big.
+----------------------------------------
+name:I‍l‍v‍y‍o‍u‍_‍2‍9
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted January 19, 2024
+msg:Jishui Jue Wenshan Hotel is strategically located. It is a river-view hotel with a great environment and is a 15-minute drive from Jishui West Station.
+
+The hotel waiter Xiao Huang from 9041 is attentive and considerate. The room is spacious and bright, with complete facilities and very cost-effective.
+
+Staying in this hotel was a very pleasant experience. I will choose to stay in this hotel again when I travel to Jishui on subsequent business trips.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 20, 2024
+msg:居住體驗很好，江西伯爵文山酒店位於吉水縣城文化廣場，東臨縣行政中心，西鄰贛江，北鄰城市公園，感謝前台小黃小姐姐幫我安排一間風景很好的房間，服務熱情周到！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:4
+posted:Posted May 30, 2024
+msg:酒店位於吉水縣城文化廣場，東臨縣行政中心，西鄰贛江，北鄰城市公園，周邊環境優美，設施齊全，前台小黃幫我安排了夜景很漂亮的江景房
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted June 2, 2024
+msg:酒店大堂氣派，環境很好，前台小彭服務熱情周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 27, 2024
+msg:環境很好，對面就是公園，前台小高服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted March 8, 2024
+msg:吉水縣最好的酒店，房間整潔，早餐種類比較多，酒店前台會把外賣送到房間，我住的房間能夠看到贛江，酒店周圍的環境挺好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted April 20, 2024
+msg:酒店環境很好，窗外就是贛江，房間也很大。早餐一般，熱菜品不好吃。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 10, 2024
+msg:春節回老家過年，選擇了這個酒店，非常不錯，進入大廳的新年氣氛很濃，前台小彭服務態度好，有問題及時幫忙處理，早餐也豐富，以後回家還會首選。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 7, 2024
+msg:前台小彭服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 25, 2024
+msg:前台小彭服務好，心細
+----------------------------------------
+name:z‍-‍h‍c
+info:Business Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 8, 2024
+msg:酒店設施齊全，周邊環境優美，前台小高服務也很好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted April 22, 2024
+msg:8025服務熱情，酒店房間乾淨衞生，早餐也很豐富，非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 21, 2024
+msg:房間整潔乾淨，早餐種類多，前台小高和其他工作人員服務態度都很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted May 22, 2024
+msg:非常好，很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted June 8, 2024
+msg:小黃服務態度很好，贛江邊上風景很美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 27, 2024
+msg:前台小高服務周到 酒店位置好
+----------------------------------------
+name:d‍e‍v‍l‍o‍n‍g
+info:Executive Room (2 beds)
+info:Stayed in April 2024
+info:Family
+info:6 Reviews
+rating:4.7
+posted:Posted April 7, 2024
+msg:窗户密封性要加強
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2024
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted April 7, 2024
+msg:這次回吉水依然選伯爵文山酒店，前台廖小姐得知我們省親，於是貼心升級朝向好的房型，盡顯家鄉人的好客。
+    房間景觀一流，遠眺萬里公園，近看廣場青綠，俯瞰滔滔贛江，真切體會吉山秀水，吉水人自豪感滿滿。
+   房內佈局合理，浴室乾濕分離，喜歡浴缸泡澡之餘還欣賞無敵江景，同時自動感應的燈光設計極富人性化，每日足量供應飲用水和咖啡茶葉，客房部姐姐保潔耐心細緻、房間每天收拾得整齊清爽，而且大堂新增自助洗衣服務，彰顯五星級的周到。
+    伯爵文山，歸家遊子首選。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:吉水小城街道特別乾淨，前台服務熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted September 22, 2023
+msg:第1次來伯爵文山酒店，入住的時候喝了一點酒，酒店客房服務員很貼心的給我送來了醒酒茶。酒店整體裝修非常的美觀，房間設施齊全，衞生也比較乾淨，床睡起來也非常的舒服。讓我意想不到的是廁所還配備了緊急求救電話[強][強]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted September 22, 2023
+msg:一進酒店就看到右手邊有一台旅遊設備，裏面有周邊各地的旅遊景點以及美食特色，非常適合第一次來這裏的朋友，房間和周邊環境非常的好，房間還配備了小冰箱，非常的方便，樓下一樓還有小賣部，不愧是五星級酒店，裝修美觀還非常的方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 20, 2023
+msg:出差到吉水，高鐵到酒店很近，比幾年前來方便太多了，吉水變化很大，縣城一個五星酒店讓我吃驚 ，而且從服務和設施和衞生各方面，都不比大城市酒店差，反而還多了一些其他酒店沒有的亮點，比如江景房，真正的純江景啊，凈收眼底太美了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted September 20, 2023
+msg:和朋友旅遊，經過吉水，網上看這家酒店評分還不錯，選擇入住一天，酒店的建築挺大氣的，大廳很高很氣派，空間佈局不錯，前台小姐姐給我們奉茶和熱毛巾，體驗了一把五星服務，禮賓員幫我們送行李到房間，還介紹了酒店的美食，晚上在餐廳嚐了一下特色菜，這個狀元豬腳和解縉豆花真的不錯，推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 18, 2023
+msg:酒店地理位置還挺方便，我們坐高鐵，十分鐘就到酒店了，花了15元打車，服務員辦入住很快速，房間很乾凈也很新，早餐品種挺多的，很喜歡他們家自己包的混沌，新鮮美味。
+設施：很新，
+服務：很熱情，
+衞生：很乾凈，
+值得體驗的酒店，以後還會選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted September 19, 2023
+msg:回老家喝喜酒，酒店的裝修大氣不失格調，很喜歡，房間設施設備很好，房間的茶台很方便招待客人，衞生確實不錯，一塵不染，以後回老家還會選擇這個酒店，還有一個就是吃到了夢寐已久的吉水炒粉，太好吃了哈哈😃遺憾的顧得吃忘了📸一級棒👍🏻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 11, 2024
+msg:非常不錯的酒店，大廳很高檔，前台小彭熱情服務，還給熱毛巾服務，點贊👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in October 2023
+info:Business travelers
+info:29 Reviews
+rating:5
+posted:Posted October 22, 2023
+msg:酒店大堂很氣派，高大上，聽説是本地最好的酒店，果斷選擇，還真不錯，房間乾淨整潔，還有健身房，早餐也很不錯，8025服務熱情，下次來還會選擇伯爵
+----------------------------------------
+name:L‍v‍e‍d‍u‍o‍z‍h‍e‍—
+info:Business Room (2 beds)
+info:Stayed in October 2023
+info:Business travelers
+info:65 Reviews
+rating:5
+posted:Posted October 10, 2023
+msg:伯爵文山酒店靠着贛江，晚上開的就是江景房，夜景很美很美，房間衞生乾淨，8025園園服務熱情回訪，早餐豐盛，有機會還會再來，應該是吉水最好的酒店了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 19, 2023
+msg:房間很舒適，一覺睡到8點多，去一樓品嚐了一下早餐，不錯不錯，品種蠻多，這個醬菜很棒，酒店説是自己廚師泡的，餐廳的服務員很熱情，幫我找位置，上檸檬水，體驗很棒的，以後會再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 18, 2023
+msg:很喜歡這個酒店的服務員，非常貼心，有什麼問題立馬幫忙解決，房間衞生很乾凈，襯得上五星稱號，以後經過這裏還會選擇這個酒店。也極力推薦給大家。國慶出遊的朋友可以試一下。
+----------------------------------------
+name:z‍2‍2‍3
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted September 18, 2023
+msg:不愧是五星，酒店真心不錯，大廳很漂亮，每個工作人員都熱情，特別是前台小姐姐，笑容很好，還給我們熱毛巾，茶水，被種草了，房間也很乾凈這個是我最在意的，以後必選了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted September 19, 2023
+msg:每次回吉水，都住在這裏，酒店離高鐵站，出行方便，而且酒店服務和設施和衞生各方面，都不比大城市酒店差，酒店服務很熱情，前台接待很認真，下次回來還住這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:這次回家鄉過年，下榻伯爵文山，家人非常愉悦滿意，入店時前台胡小姐得知同住有小朋友，不僅熱心推薦適合孩子遊玩的景點，而且貼心升級房型，讓孩子真切體驗家鄉的山水美景，晚上得以在房間觀賞煙花，客房部的同事友善真誠，工作細心，三天裏房間都是乾淨整潔，孩子們説以後都要選伯爵文山，祝酒店生意越來越好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted August 30, 2023
+msg:每次過來出差都是住這裏。前台工號9006的工作人員服務態度特別好，市場部王小姐的態度也很贊，處理問題迅速。在江邊，環境很好。停車場很大，早餐也蠻豐富的，麪條的澆頭很不錯，有現磨咖啡。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2024
+info:Other
+info:5 Reviews
+rating:4.7
+posted:Posted April 7, 2024
+msg:吉水最好的酒店，每年回去都住這裏。早餐品種非常豐富。房間也好，寬敞舒適，運氣好的話，能訂到江景房，景色很好。唯一不足，衞生間裏沒有掛衣服的掛鈎，吹風機噪音太大。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 19, 2023
+msg:衞生和設施很不錯，酒店裝修風格是我喜歡的，早餐廳很美，可以看到窗外美景，大早上心情會很愉悦，早餐品種也豐富，小姐姐熱心幫忙現磨咖啡，點贊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 15, 2023
+msg:這家酒店是吉水最好的，衞生很乾凈，浴用品也貼心，住得舒心簡直優秀得不要不要。早歺也很豐富，菜品多樣化。來吉安旅行不知道住哪裡，可以來這試試。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted September 20, 2023
+msg:回老家看親戚，家裡不願意做衞生，住了一晚伯爵，很衞生很安靜，主要服務員的態度很熱情，早餐也豐富，有家鄉炒米粉我的最愛，，太棒了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 29, 2023
+msg:帶家人出遊經過吉安地區，品台搜到伯爵酒店，抱着試試的心態入住，首先提一下保安，我們車一進入酒店區域，保安就上來幫忙指引，還幫我們下行李，前台辦入住很迅速，看我們有小孩，還給我們送了小浴袍和牙刷，玩具，孩子非常開心，出門在外玩的就是一個開心和舒心，這次沒有選錯，離店還熱情的給我們帶冰水路上喝，點贊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted July 30, 2023
+msg:前台服務熱情，提供茶水和熱毛巾服務，頓時把一路的疲憊卸下。禮賓生給我們推薦了附近的夜宵攤，實惠美味，早餐在酒店吃的，品種很多，服務員熱情的幫忙烤麪包，磨咖啡，確實挺棒的體驗，下次有機會還會選擇。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted September 9, 2023
+msg:進門的水景很漂亮，仙氣繚繞的感覺，還有楊萬里的詩。前台服務很好，辦理入住快速。禮賓生幫忙送行李到房間還給我們介紹了附近的景點，體驗很棒。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 18, 2023
+msg:酒店在贛江邊，風景很美，晚上看沿江路的亮化真的有小上海的味道，值得一提的是前台和客房服務員態度很好，以後還會選擇這個酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 8, 2023
+msg:環境位置好找，在江邊上，酒店乾淨整潔，
+設施高檔，服務專業貼心。是我們縣城的超性價比酒店。是接待親友，出差旅行，親子游都不錯的選擇，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 31, 2023
+msg:酒店很好，服務很好，入住當天在酒店餐廳用餐，當時點的菜品有一個沒有了，餐廳馬上給送了果盤作為補償，非常人性化的服務，晚上體驗了酒店四樓的室外泳池，人很少，水質乾淨，非常舒心的入住感受。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 9, 2023
+msg:第一次住這家酒店，聽朋友推薦的，整體感覺還不錯，辦理入住時有熱毛巾，還有小哥哥拿行李，早餐品種多，味道挺好，客房衞生很乾凈。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted August 17, 2023
+msg:參加同學聚會入住這個酒店，設施很新，非常乾淨，大廳很高，壁畫有藝術感，前台服務員態度很熱情，辦理入住效率也高，早餐很豐富，很久沒有吃家鄉炒粉了，點贊👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:3
+posted:Posted September 4, 2023
+msg:酒店很豪華，設施設備齊全，風景很美，房間衞生乾淨，自助早餐很豐富，服務員意識很強，任何需求都是第一時間解決，下次還要入住此酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted August 11, 2023
+msg:服務熱情，我們 車子一停下來，保安馬上來幫忙拿行李，前台辦理入住很快速，遇見的每個工作人員都有問好，感覺很温馨，房間設施設備很新，看着很乾凈，喜歡這樣的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted July 29, 2023
+msg:酒店非常漂亮，房間的床睡的舒服，衞生特別乾淨，前台辦理入住時，還有送毛巾和茶水服務，服務很熱情，辦理入住很快，第二天去吃早餐也很豐富，這家店停車超方便，下次還會選擇這家酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 8, 2023
+msg:酒店大廳很氣派，剛好有人在大廳彈鋼琴非常好聽，前台工作人員非常熱情，見我們在沙發坐着馬上遞上菊花茶，還是很暖心的，給我們送行李到房間後我要求換一個全江景房，前台經理立馬幫忙調換，還給我小孩送了小玩具，非常滿意，下次回來還住伯爵👍
+服務：好
+----------------------------------------
+name:D‍e‍e‍r‍s‍u‍w‍u‍z‍a‍l‍a
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted July 31, 2023
+msg:酒店很高大上，房間很寬敞，設施都很新，主要4樓有一個泳池，水質很乾凈，人也不多，服務員態度親和，有各種問題都會第一時間幫忙解決，早餐也很豐富，帶着長者和孩子出遊的首選。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 26, 2023
+msg:酒店設了下施齊備，有健身房和球館，休閑棋牌都有，帶朋友去玩的很開心，住的很舒服，早點不錯，下次再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 4, 2023
+msg:灑家住過這麼多酒店，第一次來吉水伯爵文山酒店，是體驗感最好的一家，不錯，環境好，服務好，床睡得也舒服，服務員服務業奈斯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 21, 2023
+msg:酒店設備很新，不像開了六年的酒店，衞生很好，服務員比較熱情，也幫我們推薦特產和當地名小食。挺喜歡的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 15, 2023
+msg:酒店高端大氣上檔次，衞生相當乾淨，早餐品種多又豐富，早餐服務員熱情周到，給她們點贊👍🏻👍🏻，下次還會來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted September 17, 2023
+msg:酒店在沿江邊上，周圍環境不錯，設施齊全，房間乾淨整潔且舒適，客服人員服務周到，下次去還會選擇伯爵！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 9, 2023
+msg:前台小姐姐服務很貼心，進門就給我們遞了熱毛巾，然後還給我們送來小童牙刷和讀物，小孩很喜歡。為五星服務點贊👍
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:32 Reviews
+rating:5
+posted:Posted August 20, 2023
+msg:酒店的位置真的很好，站在房間都能看到這麼美的景色，衞生乾淨，早餐是自助，品種很多隨便挑，酒店服務都很好，下次來還得入住伯爵文山酒店
+----------------------------------------
+name:y‍u‍a‍n‍w‍u‍j‍o‍i‍h‍e‍y
+info:Family-friendly Family Room
+info:Stayed in September 2023
+info:Family
+info:256 Reviews
+rating:5
+posted:Posted October 2, 2023
+msg:酒店地理位置優越，8025服務熱情，酒店高大上，早餐很好吃，一如既往選擇這家酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 16, 2023
+msg:暑期帶家人旅遊，經過吉水，選擇了這家酒店，果然沒有讓我失望，服務和衞生都很贊，早餐品種很多，特別喜歡炒粉。下次有機會還會選擇這個酒店
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted September 8, 2023
+msg:很喜歡酒店的房間，很安靜睡的很舒服，特別提一下前台服務態度熱情周到，這使人有種回家的感覺。大廳很氣派
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted August 14, 2023
+msg:在吉水縣城有一個這麼豪華的酒店，出乎意料，大廳很豪華，大堂的設計很特別也很有文化，房間設施都很新，是去年新裝修的房間，很好👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 9, 2023
+msg:服務熱情周到，衞生細緻乾淨，早餐品種豐富。很喜歡房間佈局，180度落地窗完美的俯瞰贛江江景！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 26, 2023
+msg:酒店前台服務不錯，辦理入住快速，大廳很氣派舒適。房間設施衞生乾淨。9002工作人員還熱心幫忙介紹周邊美食。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted March 15, 2024
+msg:在這家酒店住了一晚，非常不錯。服務熱情9041，房間很乾凈，床鋪很舒適，讓人感覺很放鬆。酒店的位置也很好，旁邊就是贛江，景色優美，非常便利。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 13, 2023
+msg:8025園園服務熱情，酒店設施設備齊全，酒店高大上，房間乾淨衞生，早餐豐富美味，每次回家探親都是選這家酒店！強烈推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:48 Reviews
+rating:5
+posted:Posted July 8, 2023
+msg:#前台熱情
+#乾淨衞生
+#設施完善
+#服務熱心
+#位置優越
+#房間整潔
+#交通便利
+#性價比高
+住的非常的舒適，非常滿意，特別是小段的熱情接待，讓人感受到了親切。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 26, 2023
+msg:酒店的配套設施齊全，去羽毛球館體驗了一下，不錯，房間休息的很好，早餐豐富
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted April 17, 2024
+msg:酒店前台小彭服務熱情周到，提出的問題都能用心解決。酒店環境整體温馨幽靜，房間衞生整潔，早餐豐富，適合商務出差旅遊最佳選擇。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 29, 2023
+msg:房間非常舒適，景觀也好，遠眺青山綠水，樓下就是贛江和公園。性價比超高的五星級酒店。交通便利。早餐很豐盛，賓館裏的中餐廳也不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 29, 2023
+msg:酒店不錯，離高鐵站很近，15分鐘就到了，酒店還有一個游泳池，個人很喜歡游泳，早餐豐富，特別喜歡炒粉，很有吉水特色。出差的首選。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 9, 2023
+msg:房間設施很新,是去年裝修的房間，床睡的很舒服。枕頭是羽絨的，一覺到天亮，太棒了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 4, 2023
+msg:酒店不錯，房間都帶有功夫茶台，出差或探親可以坐一起喝茶聊天，環境很好，服務態度也很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 14, 2023
+msg:酒店環境非常好，床睡起來好舒服,客房服務員非常有禮貌，像回到自己家!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted September 14, 2023
+msg:房間很舒服，衞生環境不錯，服務態度很不錯，早餐很豐富，中餐很好吃，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 13, 2023
+msg:酒店服務員很有禮貌，衞生很乾凈，住的很舒心，下次還會選這家。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 25, 2023
+msg:服務熱情，房間設備很新也乾淨，酒店附近有很好玩的景點，特別是贛江夜遊很美，值得來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 14, 2023
+msg:房間超乎尋常故乾淨，服務員的服務也很好，下次還來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:1 Review
+rating:4
+posted:Posted September 15, 2023
+msg:房間舒適乾淨，早餐服務很滿意很周到，食品花樣多
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 23, 2024
+msg:第一次入住這個酒店，還給免費升級了房間，房間挺乾淨，窗户可以看到江景；前台小高的服務態度很好，下次出差就定這裏了。👍👍👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted September 16, 2023
+msg:很寬敞，舒適，早餐不錯，服務周道！下次還來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2024
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted April 7, 2024
+msg:在小縣城，這個住宿環境還是乾淨衞生的，服務也還可以，就是第一天早餐，燙米粉的阿姨態度有點生硬，總體來説都還不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 21, 2023
+msg:服務好設備齊全早上早餐也很豐盛環境衞生也很不錯出差的不二選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 17, 2023
+msg:設施齊全，細節到位，佈局合理舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2023
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:望江美景盡收眼底
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted July 28, 2023
+msg:房間的屏風很有特色，有種古典美，衞生很乾凈，讓我很放心，窗外就是江，很漂亮
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Friends
+info:13 Reviews
+rating:5
+posted:Posted September 2, 2023
+msg:酒店設施齊全，風景不錯，還可以看到江邊，環境又好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 13, 2023
+msg:房間乾淨，環境好，服務好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted September 13, 2023
+msg:非常滿意。服務態度又好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 17, 2023
+msg:房間乾淨，整潔明亮
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 17, 2023
+msg:舒適.乾淨.整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted September 7, 2023
+msg:房間乾淨整潔，服務態度滿意
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:River-view Deluxe Suite
+info:Stayed in October 2023
+info:Other
+info:3 Reviews
+rating:3.2
+posted:Posted October 8, 2023
+msg:我是外地嫁吉安，特意定的江景大套房做出嫁用，頁面也顯示2點以後就可以入住，結果下午3點多到，被告知衞生還沒做完，等了兩個小時還是沒搞完。最後搬着座位坐在前台那盯着，十幾分鍾以後安排了另一個同户型的房間，此時已經下午五點半了，耽誤了
+同行5個人的時間。五星級酒店在國慶期問更應該做好服務工作，但我的佳宿體驗完全配不上五星級酒店
+應有的水準，以後再來吉安也不會定伯爵了，以上僅供各位參考。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted September 16, 2023
+msg:挺好的，支持
+----------------------------------------
+name:F‍e‍i‍e‍r‍s‍u‍o‍m‍u‍y‍i‍n‍g
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Couples
+info:33 Reviews
+rating:5
+posted:Posted April 18, 2023
+msg:房間寬敞舒適空調強勁設施一流，床品乾淨衞生舒適，早餐品種豐富而且當地特色美食小吃相當不錯，前台小胡服務態度很好，還幫升級房間，酒店面對城市廣場環境一流，是差旅出行的最佳選擇！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 5, 2024
+msg:總體來説非常好，來客户了，自己也經常住。在吉水是最好的酒店了。前台小胡很熱情，猶豫我們的原因還跟我們升級了房間。很不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in March 2024
+info:Other
+info:8 Reviews
+rating:5
+posted:Posted March 25, 2024
+msg:8025服務熱情，酒店環境很好，在本地算很高的樓，靠近贛江，晚上夜景優美，早上早餐也口味不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Solo travelers
+info:9 Reviews
+rating:5
+posted:Posted July 27, 2023
+msg:9006服務員很好，酒店設施設備非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 23, 2024
+msg:前台服務周到9041，主動提供小童牙具與拖鞋，房間有功夫茶台和浴缸，住的很舒適，值得推薦9041..
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family-friendly Family Room
+info:Stayed in March 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted March 14, 2023
+msg:房間非常整潔乾淨，床也十分舒適，整體設計感滿滿，設施設備齊全，出行吃飯也很方便，酒店還有夜床服務，十分方便。離店的時候8025小姐姐熱情回訪，服務熱情，真的是十分周到了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted July 22, 2023
+msg:房間乾淨，環境好，落日很美。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted May 3, 2024
+msg:房間風景很好，就在我家隔壁，朋友來住很方便，早餐很豐富，前台小彭服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:8025園園服務熱情，酒店很高大上，早餐品種跟多，房間入住感覺不錯，江景也很美！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted February 2, 2023
+msg:房間設施齊全，基本該有的都有。服務人員素質高，特別是前台9045小姐姐有什麼事情找她，她都會及時的幫我解決，跟一些快捷商務酒店很不一樣。早餐品種豐富，房間設施別具一格，床睡的很舒適，總體物超所值，是一次非常滿意的體驗。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:9 Reviews
+rating:2.5
+posted:Posted January 25, 2023
+msg:據説是吉安市的第一家五星級酒店，半年來來這裏吃過一次飯，感覺還比較好。在吉水縣城裡竟然有一家這麼高級的酒店，實在讓人驚喜。這次過年和吉水的朋友約好一起到進士園看煙花，看完比較晚了，就直接帶着孩子，訂了一間標間。結果體驗可以説是比較失望的。首先，基礎房的面積非常小，冬天隨身攜帶的衣物和行李又比較多，所以一進房間就感覺非常侷促，完全沒有五星級酒店應有的感覺。然後就是，房間設施感覺有些老舊了，這個是開業年份決定的，也沒什麼可説的。浴室的潔具龍頭質量很一般，洗澡時的水量不大，也不怎麼好用。浴缸感覺也是鬆鬆垮垮的，最後也沒敢用。讓人不太能接受的是，這潔具和龍頭看起來和用起來都像是冒牌的，這個有點不應該。有一點可以肯定的，就是酒店的位置不錯，窗外的風景也很好。
+地面上找不到車位了，把車停到了地下停車場，裏面燈光昏暗，衞生情況也很糟糕，像工地一樣。出口的指示牌，英文還拼錯了，開業這麼多年，竟然都沒有人發現，也是厲害了。吃早餐的時候，人很多，服務員也不會主動幫忙找座位。食物不管從種類，質量，數量來説，都明顯達不到一個五星級酒店應有的水準，就説這個香腸吧，感覺就好像小時候學校門口五毛錢一根的澱粉腸，很多品種十多二十分鐘過去了也沒見到補充。空盪盪的盤子就這樣一直被晾在那裡。最後喝了碗湯，吃了一個煎蛋就走了。
+因為著急趕回市區，十點不到就退房了。然後十二點多的時候給我打電話，跟我説少給了一張房卡給他們，要從按金里扣掉五十塊……確實，少還一張房卡是我們的問題。因為著急走，我先下樓開車，太太去退房。太太不知道小孩手裡還有一張房卡。但是，一張房卡要五十塊，我也是無語了。
+因為前一天晚上剛從高鐵站旁的一家新酒店住了過來的，連鎖品牌，價格接近。這對比下來，落差就更大了。估計以後都不會到這裏來住了。
+----------------------------------------
+name:B‍i‍a‍n‍b‍i‍a‍n‍j‍i‍a
+info:Business Room (2 beds)
+info:Stayed in January 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 30, 2023
+msg:酒店非常好，乾淨衞生，房間整潔，一塵不染，位置很好找，交通也很方便，有停車場，8025小姐姐服務熱情，有什麼問題都能及時解決，酒店類型屬於我比較喜歡的豪華五星級酒店，這次自出行感覺很不錯，謝謝，如果有機會來還會選擇伯爵文山酒店！
+----------------------------------------
+name:W‍a‍s‍i‍t‍a‍i‍n‍a‍g‍u‍y‍e‍w‍a‍n‍g
+info:Business Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:10 Reviews
+rating:3.7
+posted:Posted October 1, 2023
+msg:7月底出差，到達酒店下午2點左右。據説是當地最好的酒店，但2點已不提供任何餐飲。打電話問了幾次，都回答“1點半下班了”，讓我點外賣。我千里迢迢冒着酷暑過來，住酒店衹能吃外賣？找了一塊麪包裹腹，無力吐槽。
+隔音設備一般，樓道里説話聽得清楚。餓肚子、沒休息好，難忘的出差！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 17, 2024
+msg:五星酒店 前台小高服務態度好 住的江景房可以看到贛江 房間很大下次回來還在繼續選擇在這裏住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Friends
+info:1 Review
+rating:1
+posted:Posted February 13, 2023
+msg:商務房要浴缸還是一部分房才有  有些房型還沒有     或者敞開式浴缸沒有隔斷     兩個人住  這浴缸怎麼用   擺設   還佔地方  前台一個穿藍大衣的態度極敷衍   聽其他工作人員叫她什麼老段   原本不想評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 31, 2023
+msg:回來探親的，朋友推薦説是吉安最好的酒店，決定體驗一下，沒讓我失望！整晚都睡的很香，早餐品類很多，房間很乾凈整潔，8025服務很熱情，聲音甜美，下次還會選擇伯爵酒店，五星好評！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted April 4, 2023
+msg:伯爵酒店很不錯，8025服務態度非常好，五星級酒店配五星服務，點贊，下次還會選擇伯爵！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2024
+info:Other
+info:7 Reviews
+rating:5
+posted:Posted April 15, 2024
+msg:逢年過節回老家都選擇伯爵，酒店乾淨衞生，設施設備齊全，8025服務熱情
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:65 Reviews
+rating:1
+posted:Posted June 30, 2023
+msg:酒店隔音太差了，酒店有會議價格就猛漲，這樣不對！！！酒店洗漱用品太差了，牙刷都發了B款，沒有A款；半夜老聽到走廊有人走來走去的，隔壁插插座的聲音都可以聽得到；窗簾的寬度不夠，中間關閉了結果右邊又漏光了，所以一大早就醒了！
+希望改進
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:酒店大堂很氣派，前台小彭服務態度好，房間乾淨衞生，早餐豐富，還可看贛江
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Deluxe Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted April 5, 2024
+msg:酒店整體都很乾凈衞生，早餐不錯，江景很美，停車方便，8025服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted August 25, 2023
+msg:酒店周邊環境非常不錯，大門口對面就是文化公園，但我最喜歡的是過條馬路的沿江路，晚上散散步，吹吹風，很愜意，酒店設施也很好，停車非常方便！8025服務熱情，點贊
+----------------------------------------
+name:D‍a‍t‍o‍u‍m‍a‍o
+info:Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted March 26, 2024
+msg:酒店大堂很氣派，前台小彭，小黃服務態度非常好，房間乾淨衞生，早餐豐富。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted January 24, 2024
+msg:房間很好，很衞生。酒店服務員也很熱情。是個值得大家去住不錯的酒店。五星推薦，早餐很好，口味不錯。吉水好地方
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Solo travelers
+info:13 Reviews
+rating:5
+posted:Posted August 2, 2023
+msg:9006服務不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Memory Foam Mattress
+info:Stayed in April 2024
+info:Solo travelers
+info:150 Reviews
+rating:5
+posted:Posted April 28, 2024
+msg:整體感覺非常好，同時酒店的早餐和房間送餐的菜品，味道也非常好。
+----------------------------------------
+name:【‍q‍i‍a‍n‍e‍r‍w‍u‍x‍i‍n‍】
+info:Business Double Room
+info:Stayed in February 2023
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted February 23, 2023
+msg:前台小曾，很主動，熱情，環境也nice，還是江景房，個人覺得性價比蠻高。臨江仙包間也還可以。一餐3600$。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted April 12, 2024
+msg:酒店環境很好，前台小彭服務態度好周到，房間還可以一覽贛江美景！
+----------------------------------------
+name:Y‍a‍s‍e‍w‍a‍w‍a
+info:Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 10, 2024
+msg:酒店風景不錯，房間很舒適，前台小胡服務很好，大廳很豪華，自助早餐廳品種多，很不錯的體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted January 29, 2024
+msg:8025服務熱情，酒店設施設備齊全，停車方便，晚上江景很美，而且早餐很合個人口味
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2023
+info:Friends
+info:16 Reviews
+rating:5
+posted:Posted February 1, 2023
+msg:酒店位置極佳，出行方便，去哪距離都不是太遠，服務員9045態度極好，是一家有温度的酒店，入住體驗極佳。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:5 Reviews
+rating:1.7
+posted:Posted May 15, 2023
+msg:空調要調到21度以下才會啟動
+地毯很臟很臟。前台和物生接待水平完全不是五星級該有的水平。
+門口沒有禮賓接待行李。
+
+環境和衞生大概等以錦江之星或者維也納
+房間的浴袍皺巴巴的，至少穿了兩個人以上。
+
+早餐的一大鍋湯裏有一個蒼蠅。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 5, 2024
+msg:酒店服務很好，交通方便，環境優美，前台小胡服務很好，早餐豐富，值得推薦！
+----------------------------------------
+name:G‍u‍o‍ ‍j‍u‍n
+info:Queen Room With Memory Foam Mattress
+info:Stayed in February 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:8025服務熱情，酒店設施設備齊全，房間設計很好，乾淨衞生，停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2024
+info:Family
+info:6 Reviews
+rating:4
+posted:Posted January 23, 2024
+msg:位置好，能看江景，總體還可以，就是有點舊，早餐差，沒人搬行李，配不上五星級
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 13, 2024
+msg:酒店環境很好，早餐豐富，房間衞生乾淨，前天小彭服務態度很好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted March 2, 2023
+msg:住的好舒服，房間很大，周圍風景也很沒，3008服務態度很好👍👍
+----------------------------------------
+name:L‍i‍u‍h‍o‍u‍l‍u‍n‍t‍i‍a‍n‍x‍i‍a
+info:Business Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:酒店環境優美，設施齊全，前台小彭服務熱情周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Other
+info:8 Reviews
+rating:5
+posted:Posted April 7, 2023
+msg:閑適精緻乾淨。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted June 5, 2024
+msg:小胡不錯
+設施：OK
+衞生：可以
+環境：好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:酒店環境好，前台服務員小高特別熱情接待，很感謝！下次繼續選擇入住
+----------------------------------------
+name:C‍h‍a‍y‍u‍j‍i‍u
+info:Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted March 14, 2024
+msg:8025服務很好，酒店設施設備齊全，環境很好，早餐也不錯！
+----------------------------------------
+name:z‍u‍o‍h‍o‍n‍g‍w‍a‍n‍g
+info:Business Room (2 beds)
+info:Stayed in December 2022
+info:Other
+info:25 Reviews
+rating:4
+posted:Posted January 11, 2023
+msg:酒店其實是在吉水縣，遠離吉安市。但酒店設施還不錯，住起來也很舒服，乾淨衞生，也很安靜。早餐也比較豐富。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 12, 2024
+msg:房間乾淨，面對贛江風景挺好，前台小黃服務到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:8025園園服務熱情，酒店環境優美，早餐很合口味，下次還會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 21, 2024
+msg:前台小高服務態度好，酒店也住的愉快，還給免費升房了，江景無敵咯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2023
+info:Friends
+info:18 Reviews
+rating:5
+posted:Posted July 21, 2023
+msg:房間很好！縣城裡有這樣高檔豪華的酒店令人贊歎！早餐豐富，服務更是無可挑剔！衹能用一句話説：太感謝您了！第二句話就是衹要到安吉，一定選擇再次入住貴店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 14, 2023
+msg:設施：非常棒
+服務：很熱情
+衞生：很乾凈
+環境：很優美
+保安和禮賓生幫忙運行李，辦入住快速，很好的體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 9, 2024
+msg:酒店環境很好，前天小彭服務周到，早餐豐富。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted September 4, 2023
+msg:本將由昨晚入住伯爵文山酒店，酒店環境好，設備設施哦裏K,服務態度也好，不愧是五星酒店，點贊👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted February 6, 2024
+msg:酒店高大上，很舒適，8025服務熱情，晚上睡的很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 14, 2023
+msg:窗外風景非常美麗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 21, 2023
+msg:設施很新，衞生乾淨，早餐廳服務員熱情，積極幫我小孩提供寶寶椅，品種挺豐富，值得推薦。
+----------------------------------------
+name:Y‍o‍u‍q‍i‍b‍i‍n‍g‍w
+info:Business Room (2 beds)
+info:Stayed in January 2023
+info:Other
+info:8 Reviews
+rating:1
+posted:Posted January 28, 2023
+msg:沒見過這麼沒服務意識的五星級酒店，前台服務人員都是怎麼培訓的？能把客人氣到炸裂，真實厲害。2023-01-26晚上21:00-21:30值班的前台服務員，超級差評，尤其站在靠東側的兩位，要是酒店有想解決問題就調出前台監控看看店員那副樣子。本來定了5晚房，然後網上又下單續住了1晚，一共6晚。第5晚回酒店時，順便辦理房卡續住（清楚的説了，又續住了一晚，房卡幫忙延期一晚），怕轉天回來的晚，刷不開間，結果轉天，一上樓還是刷不開房卡。下樓去找前台問情況，結果前台一直説“你沒有問xxx啊。。你提前來辦續住了，不應該提前辦啊。。就應該刷不開啊”，巴拉巴拉的説了一堆，一副態度冷漠且給客人講道理的樣子，意思就是“咋不問一下？”“我們前台沒錯，是你這個客人的錯”“你不主動問，還得我跟你解釋才懂”。真是一點服務意識都沒有，期間還有一個服務員在偷笑，感覺就是在笑你智商不行，這都聽不懂。我請問，這是五星級酒店應該有的服務態度麼？最後看我很生氣的情況下，才承認“好好好，那是我們的工作失誤，對不起了”，説這話時，很冷漠很勉強。你不先跟我解釋清楚，下單續住後，前台沒有聯繫告知是否需要辦理，什麼時間辦理，如何辦理，客人自己主動去辦理了，前台工作出錯了，還這樣不尊重的對待客人，和近似侮辱似的冷漠和嘲諷，最後的道歉都這麼勉強，真是失望透頂的體驗。另外，床單被套至少有2天打掃是沒有換的，也沒有那種換床單需要放什麼小牌子的提示。晚上22:00多進大門沒有保安值班，上電梯也沒有刷房卡就所有樓層都能進，怎麼保證安全。還有第1晚辦理入住時，都説了攜程上下的單，選的先住後付，結果非説要收錢，強制收完錢，又説搞錯了，退給，就這麼不專業麼？早餐也是，大量空餐盤，不給即時補充，要是09:30空了我能理解，你08:30就空了，不管了，我是真不能理解。總之，在五星級酒店裡，體驗感非常差，不是硬件，而是服務上，感覺是在和一羣業務店員打交道，人家店員還覺得你不懂，真是無語。。。
+特別説明：給1星是為了在差評中可以顯示，客觀説，整潔度是3分，設施可以給4分
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2023
+info:Solo travelers
+info:11 Reviews
+rating:4.5
+posted:Posted January 25, 2023
+msg:自駕路過，沒想到還不錯。年初三，服務員都在崗，服務熱情，加了被子，服務員主動套了被罩，這點在我前幾個五星級酒店都沒有享受過，點贊。中央空調温度挺高，暖和，但淋浴噴頭出水太小，浴缸放出來的水發黃，不敢洗。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted July 13, 2023
+msg:非常滿意，衞生、環境、服務都是一流的。工號：9006服務非常熱情周到，給大大的贊👍👍👍👍👍👍👍👍👍👍👍
+----------------------------------------
+name:L‍e‍o‍n‍g‍f‍e‍e
+info:Business Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted January 13, 2024
+msg:酒店設施很完善 前台小高服務也到位 是次不錯的體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:4 Reviews
+rating:4
+posted:Posted June 30, 2023
+msg:兒子很喜歡，本想着游泳的，由於出去吃飯回得晚了，沒趕上，和弟弟一起浴缸泡澡很開心。早餐很豐富。入住還贈送了自己餐廳做的餅乾，很暖心！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 9, 2024
+msg:前台9044 服務很好，早餐很豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted October 4, 2023
+msg:環境好，空間大，服務好。因為開會要晚退房，酒店會靈活處理，體驗感很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted May 7, 2024
+msg:完美，小高小姐姐服務態度一級棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 30, 2023
+msg:五星級酒店很贊，大堂9041號黃經理很贊，幫我安排的江景房！房間清新自然，衞生條件好，很安靜，值得再次入住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted April 10, 2024
+msg:酒店環境很好，前台小彭服務熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:303 Reviews
+rating:5
+posted:Posted June 14, 2023
+msg:吉水最好的酒店，邊上贛江和公園，位置不錯。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
+----------------------------------------
+name:l‍d‍k‍_‍9‍2‍1‍8
+info:Business Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted November 10, 2022
+msg:下次就選伯爵酒店
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 16, 2022
+msg:8025不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 13, 2024
+msg:酒店很乾凈，8025服務熱情，下次還會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 18, 2023
+msg:客房乾淨、舒適、服務很棒，各位工作人員也友好！下次還會選擇入住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted August 23, 2023
+msg:酒店設施設備齊全，大廳很氣派，酒店停車方便，早餐不錯，8025服務熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:62 Reviews
+rating:5
+posted:Posted April 13, 2024
+msg:環境優美，服務温馨，超級棒！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2022
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted July 25, 2022
+msg:酒店各個角落都給人一種乾淨清爽的感覺，讓人入住感覺很好 服務員服務也熱情 9005號美女態度好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Suite
+info:Stayed in March 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 20, 2023
+msg:我是過來出差的，在網上看到伯爵酒店評價很高，就選擇了這家酒店，8025小姐姐服務熱情，房間舒適，很不錯！下次還會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 31, 2024
+msg:前台小彭服務好，熱情周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Solo travelers
+info:7 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:9006服務熱情，房間非常整潔，床也十分舒服，晚上睡的非常香，酒店位置很好，出行吃飯也特別方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 4, 2024
+msg:房間乾淨，服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted March 2, 2024
+msg:前台服務很好，小黃也很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted December 5, 2022
+msg:酒店外觀和大廳非常大氣，房間很大設施也很新，特別是衞生間顯得很衞生和高檔，床也睡的非常舒服。工號8025的小姐姐服務熱情。下次來的話還會繼續住。
+----------------------------------------
+name:J‍G‍L‍I‍A‍N‍G‍1‍9‍6‍3
+info:Queen Room With Memory Foam Mattress
+info:Stayed in October 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 6, 2023
+msg:服務態度不錯，遺漏的東西還幫寄過來了，贊👍🏻
+----------------------------------------
+name:Q‍i‍a‍o‍z‍h‍i‍f‍u‍c‍h‍a
+info:Business Double Room
+info:Stayed in December 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted December 28, 2023
+msg:感謝前台小高，服務很好，下次還來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:90 Reviews
+rating:5
+posted:Posted October 13, 2023
+msg:很不錯的酒店，每次到吉水都是選擇這個酒店，
+----------------------------------------
+name:L‍i‍u‍z‍h‍i‍d‍u‍a‍n‍p‍i‍d‍i
+info:Deluxe Room (2 beds)
+info:Stayed in July 2022
+info:Family
+info:25 Reviews
+rating:5
+posted:Posted July 9, 2022
+msg:吉安最好的酒店，豪華大江景 9010
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in December 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 7, 2023
+msg:酒店寬敞、明亮，房間乾淨、很大，有茶台，還可以觀看隔壁贛江的美景。停車也免費，前台小黃同志很熱情，一到酒店，就給熱毛巾，不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 11, 2023
+msg:8025服務熱情，酒店高大上，不愧為五星級酒店，每次都選擇這裏，都有家的感覺了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 11, 2024
+msg:環境很好，早餐不錯
+----------------------------------------
+name:D‍a‍i‍g‍e‍n‍p‍i‍n‍g
+info:Deluxe Room (2 beds)
+info:Stayed in October 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:房間很大，景色很好，很適合商務出差。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in December 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 7, 2022
+msg:酒店環境不錯，服務態度很好。
+特別是8025小姐姐，人美聲甜。非常貼心，耐心，用心的幫我解決問題，非常棒，點贊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 3, 2023
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+msg:前台服務很好，還有熱毛巾服務，早餐很豐富
+----------------------------------------
+info:Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 13, 2024
+msg:小胡前台服務非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room (With view)
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 26, 2023
+msg:8025服務熱情，酒店十分舒適，下次還會再來
+----------------------------------------
+name:S‍t‍o‍n‍e‍_‍K
+info:Business Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted August 22, 2023
+msg:9006服務很周到，房間設施設備挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 16, 2023
+msg:環境衞生很好，停車也很方便，服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 19, 2023
+msg:入住感覺非常好，感謝工號6665服務員的幫助，感謝！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 23, 2023
+msg:服務很好，需要打印資料積極幫忙
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Family
+info:23 Reviews
+rating:5
+posted:Posted July 11, 2023
+msg:很好的酒店，設施好位置好服務也很好👌🏻。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted November 29, 2023
+msg:房間設施齊全，前台小胡服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted May 23, 2023
+msg:十分滿意，尤其是6665號服務員胡燕服務特別好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 24, 2023
+msg:設施：齊全
+衞生：很乾凈
+環境：很美
+服務：很熱情9041
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Memory Foam Mattress
+info:Stayed in February 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 2, 2024
+msg:9056服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted September 14, 2023
+msg:住宿條件好，乾淨整潔，服務優。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Memory Foam Mattress
+info:Stayed in October 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted October 17, 2023
+msg:江景很美，房間乾淨，服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 6, 2023
+msg:酒店風景好，特別工號8025👍👍👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:前台服務非常棒！
+----------------------------------------
+name:D‍o‍u‍z‍i
+info:Business Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:38 Reviews
+rating:5
+posted:Posted January 17, 2024
+msg:服務不錯，環境乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 24, 2023
+msg:工號3008的服務很好很熱情，酒店環境也不錯，是吉水最好的一家酒店了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:7 Reviews
+rating:2.2
+posted:Posted December 28, 2022
+msg:五星級酒店的早餐牛奶竟然是奶粉兑的，早餐種類也少，味道也差，充其量三星標準
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room (With view)
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 3, 2023
+msg:環境、服務都很不錯，推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted April 19, 2024
+msg:小高服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2021
+info:Other
+info:3 Reviews
+rating:2.5
+posted:Posted October 5, 2021
+msg:辦理結賬的時候，前台説房間的梅子給開了，着急走我也沒去確認，等上車我拿到這瓶梅子跟孩子確認，兩個孩子都説沒有開，我打開發現，這並不是孩子開的，錫紙完整，沒有褶皺和摳痕，粘口膠粘幹，是本身錫紙沒有粘牢自己開的。不是心疼這個錢，但是作為客人沒做過的事給這麼説還是很憋屈的。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted December 27, 2021
+msg:很好不錯👍👍👍👍👍。000000,11111111111111111111111111111
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2023
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted June 22, 2023
+msg:謝謝前台胡美女熱情招待，入住很方便，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted January 9, 2023
+msg:工號3008 服務態度挺好的
+整體還可以 環境比較大氣 停車也方便
+----------------------------------------
+name:N‍i‍u‍n‍i‍u‍b‍a‍o‍b‍e‍i‍z‍h‍u
+info:Business Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted January 26, 2023
+msg:全縣最好的酒店了，硬件不錯，服務也還行，早餐要再豐富些就好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 30, 2023
+msg:可以的，挺好的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Deluxe Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:55 Reviews
+rating:5
+posted:Posted December 20, 2023
+msg:衞生：好，環境很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in November 2023
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted January 30, 2024
+msg:服務還好態度也很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 12, 2024
+msg:9044很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted July 13, 2023
+msg:8025服務熱情，酒店很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted January 22, 2024
+msg:房間乾淨整潔舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2023
+info:Family
+info:21 Reviews
+rating:5
+posted:Posted June 19, 2023
+msg:房間還不錯，周圍散步環境也很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted March 25, 2023
+msg:8025服務熱情，酒店設施齊全，超級滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 8, 2023
+msg:非常滿意，感謝小胡的熱情接待
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Family
+info:15 Reviews
+rating:4.7
+posted:Posted August 16, 2023
+msg:房間有點異味，其他很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted September 6, 2023
+msg:服務好，環境好，很滿意
+----------------------------------------
+name:Z‍u‍i‍h‍o‍u‍d‍e‍w‍e‍n
+info:Business Double Room
+info:Stayed in December 2023
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted February 26, 2024
+msg:服務態度很滿意
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in December 2023
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted December 31, 2023
+msg:小胡前台給個贊
+----------------------------------------
+name:X‍i‍a‍h‍o‍u‍_
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 13, 2023
+msg:滿分💯，回家的唯一選擇。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2022
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted July 23, 2022
+msg:酒店很不錯，交通方便，有停車場停車很方便，房間衞生乾淨，江景房，臨近江邊，周邊風景環境好，非常不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted August 2, 2023
+msg:房間乾淨衞生，服務態度好
+----------------------------------------
+name:Z‍h‍u‍l‍i‍e‍n
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted May 7, 2023
+msg:在吉水縣非常難得的一個比較高檔的酒店
+----------------------------------------
+name:N‍a‍l‍a‍l‍v‍b‍u‍w‍e‍i
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 20, 2023
+msg:來這裏出差就一個選擇，服務態度很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in March 2023
+info:Solo travelers
+info:7 Reviews
+rating:5
+posted:Posted March 21, 2023
+msg:前台小曾的服務nice，餐飲的菜也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 29, 2023
+msg:9006服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2021
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted June 30, 2021
+msg:酒店環境整潔，房間佈局堪稱完美，優雅又不失情調，服務周到，讓人無比舒心。給我營造了一種家的感覺，無論大處到小處都是那麼無懈可擊，價格也很合理。9010服務員服務周到，看到家長者腿腳不方便推來輪椅，把長者送上樓。雖然是酒店，但住在這裡有家的温暖
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2021
+info:Solo travelers
+info:13 Reviews
+rating:5
+posted:Posted June 29, 2021
+msg:一進大堂酒店前台的小姐姐們都很熱情，大堂也很漂亮，配上了山水畫和水景據説是當地的一個景點，房間設施設備也都挺好的，很滿意，第二天還有早餐吃品種也比較多，辦理退房也很快，讓我意外連大門口保安都特別有禮貌，以後過來還住這邊給個大大大讚。特別感謝一下前台9006還幫我把行李一起送到房間，聽我想要點冰塊立馬通知了客房大姐一下就給我送過來了，贊👍
+----------------------------------------
+name:Y‍U‍X‍U‍E‍S‍O‍N‍G
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted October 11, 2023
+msg:okkkkkkkk
+----------------------------------------
+name:D‍a‍p‍e‍n‍g‍y‍o‍u
+info:Business Room (2 beds)
+info:Stayed in December 2021
+info:Family
+info:5 Reviews
+rating:4.5
+posted:Posted December 23, 2021
+msg:吉水縣城最好的酒店，沒有之一～服務人員都很nice，尤其是工號1008的小妹，服務非常好～還有一位小妹，是21號晚上10點值班的，也服務非常周到～做好了一家酒店的門面！總之，住着挺舒服，下次回來還會選擇這裏入住！提一點小小的建議，早餐不夠豐盛，味道也還欠缺了一點，可以繼續改進哦～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in March 2023
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted March 3, 2023
+msg:工號9008的服務態度比較好，比較滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted August 17, 2023
+msg:6665服務非常熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2023
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted October 9, 2023
+msg:前台小胡服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted June 29, 2023
+msg:非常好，衞生乾淨，周邊很方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2021
+info:Other
+info:9 Reviews
+rating:5
+posted:Posted June 26, 2021
+msg:炎熱的夏天，酒店的空調真是太讚了，裏面外面兩重天😂，還有行李員幫忙推行李，前台還有凳子休息，熱毛巾服務，頭一次在吉水縣城享受這個待遇，點贊，1008👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted August 15, 2023
+msg:服務很好，位置方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 14, 2023
+msg:位置好，房間乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted June 26, 2021
+msg:朋友推薦的酒店，吉安第一家五星級酒店，名不虛傳，酒店佈局高端大氣，房間乾淨整潔，下次還會來入住，前台1008辦理入住很快，很專業
+----------------------------------------
+name:Z‍u‍i‍h‍a‍o‍d‍e‍h‍a‍o‍n‍a‍n‍l‍e‍b‍a‍j‍i‍y‍a
+info:Themed Family Friendly Room
+info:Stayed in September 2023
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted December 30, 2023
+msg:小童設施很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2023
+info:Friends
+info:36 Reviews
+rating:3.2
+posted:Posted June 29, 2023
+msg:服務員態度有待提高。
+----------------------------------------
+name:C‍a‍s‍t‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:11 Reviews
+rating:4.7
+posted:Posted June 19, 2021
+msg:吉水縣數一數二的酒店咯
+環境不錯，設施也很新
+前台的李鑫磊小姐姐非常熱心
+泳池，健身房都有可以鍛鍊身體，消化食物
+適合出差，旅遊
+----------------------------------------
+name:A‍s‍a‍i‍b‍a‍i‍j‍i‍a‍n‍g‍l‍v‍b‍u‍w‍e‍i
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 9, 2023
+msg:前台小胡服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 20, 2023
+msg:各方面都很滿意
+----------------------------------------
+name:J‍u‍l‍i‍q‍i‍a‍n‍g
+info:Business Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:6 Reviews
+rating:4.5
+posted:Posted January 23, 2023
+msg:整體還過得去，洗漱用品等有所欠缺
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in March 2022
+info:Business travelers
+info:32 Reviews
+rating:1
+posted:Posted May 18, 2022
+msg:沒有5星級的服務，房間很小，價位貴，會開不下去的。沒有服務，哪有像5星級。下次別在吉水住了，沒有意義。
+----------------------------------------
+name:C‍h‍u‍k‍e‍y‍u‍e‍j‍u
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted September 29, 2023
+msg:靠江，風景好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in November 2022
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted November 14, 2022
+msg:8025服務態度很好，房間也很大住的舒服
+----------------------------------------
+name:R‍a‍n‍n‍a‍k‍u‍l‍a‍n‍i‍n‍g‍c‍h‍e‍n‍g
+info:Business Double Room
+info:Stayed in January 2023
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted January 28, 2023
+msg:贛江邊上，晚上可以看夜景非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 19, 2023
+msg:6665前台服務員滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:40 Reviews
+rating:5
+posted:Posted July 17, 2021
+msg:江房好漂亮！！衹是停車時感覺保安態度不友善😬，
+----------------------------------------
+name:S‍u‍s‍u‍j‍s
+info:Deluxe Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted November 16, 2022
+msg:工號8025的小姐姐服務好，特別熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted September 3, 2023
+msg:乾淨整潔舒適
+----------------------------------------
+name:c‍r‍n‍-‍b‍j
+info:Business Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 5, 2023
+msg:挺乾淨的。早餐選擇比較多。
+----------------------------------------
+name:S‍a‍m‍m‍y‍O‍n‍T‍h‍e‍W‍a‍y
+info:Business Room (2 beds)
+info:Stayed in December 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted December 30, 2022
+msg:工號8025的酒店經理態度很好
+----------------------------------------
+name:L‍x‍l‍5‍1‍5‍2‍1‍0‍2‍3‍5
+info:Business Double Room
+info:Stayed in June 2021
+info:Other
+info:7 Reviews
+rating:5
+posted:Posted July 2, 2021
+msg:9037服務不錯，酒店也很新
+----------------------------------------
+name:z‍h‍m‍l‍u‍l‍u
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 20, 2023
+msg:很好，非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted July 24, 2022
+msg:房間乾淨衞生，景觀超棒，9010號專業，下次還會來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2021
+info:Other
+info:8 Reviews
+rating:5
+posted:Posted June 30, 2021
+msg:半夜入住，感謝1008
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2022
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted July 30, 2022
+msg:服務：前台9005服務態度非常好
+環境：環境可以
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted September 17, 2023
+msg:環境很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Suite
+info:Stayed in July 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted August 17, 2023
+msg:服務態度很好
+----------------------------------------
+name:i‍r‍e‍n‍e‍g‍o‍l‍d‍e‍n
+info:Business Room (2 beds)
+info:Stayed in September 2021
+info:Family
+info:7 Reviews
+rating:4
+posted:Posted September 22, 2021
+msg:下高速發現小地方也是高樓林立，對江西酒店一向評價較低，這個酒店算是比較好的，雖然沒看見點評中前台的熱情，但餐廳裏的服務員態度確實不錯，房間也還好，比較乾淨。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2022
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted May 26, 2022
+msg:酒店的內外都是美景！五星級服務，處處為客人考慮！值得點贊！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in August 2022
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted August 24, 2022
+msg:9006服務很好，住的舒適，房間衞生乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted June 11, 2023
+msg:不錯不錯，下次再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted June 16, 2021
+msg:父母經常帶着我家二寶四處遊玩，昨天途經吉水，説要住下，我臨時攜程搜了這家酒店，五星標準，離高速路口比較近，方便出行。因為不是大城市，訂房之前各種擔心，長者六十多，小外孫四歲，對住房要求比較高，懷着忐忑的心情致電前台，確認我對房型的疑問。非常幸運遇到前台李鑫磊小姐姐，人好，熱心還周到，聽了我的情況，耐心為我解答，第一時間幫忙調整安排好我所需要的房型，真是太貼心了，非常感謝她，幫我解決了所有的難題。父母入住後，先去中餐廳就餐，長者小朋友都非常滿意餐廳的出品，雖説在江西境內，但菜品居然符合廣東人的口味，也是用心了。今早電話家人，表示昨晚睡得也很好，酒店的硬件和服務都非常好，總結，一次十分滿意的入住體驗，在這也分享給有需要的朋友！最後再一次感謝李鑫磊小姐姐，遊歷在外的父母，一直是兒女的牽掛，你為我解了這力所不能及的難題，願善良，熱心的你，擁有美好的未來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in June 2021
+info:Other
+info:34 Reviews
+rating:4.7
+posted:Posted June 9, 2021
+msg:江景很漂亮，有“贛水那邊紅一角”之感。
+服務也不錯，前台1008號先生舉止得體，為客户着想，值得表揚。餐廳服務員均熱情周到，點贊。
+不足之處：1，門前大路貨車較多，有一定噪音影響。2，行政房標配兩瓶350ml，未免小氣。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted December 2, 2021
+msg:我覺得可以點評一下，吉水目前唯一的高星酒店，交通還可以，吉水本來就不大，1個小時可以跑個圈，旁邊的美宜佳不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 1, 2021
+msg:服務態度很好 環境很不錯 
+🔔服務：ok
+🧹衞生：ok
+🚗 交通：ok
+🍃環境：ok
+6675
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in October 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 29, 2021
+msg:🏨酒店性價比很高，房間非常乾淨，服務也很周到，下次還會再選擇這裏的。餐廳服務人員周小紅，鄧春華服務熱情周到
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2021
+info:Solo travelers
+info:29 Reviews
+rating:4
+posted:Posted September 30, 2021
+msg:沒有游泳池的五星酒店🏨，你會給它好評嗎？其它的設施齊全，
+🚗 交通：便捷
+🧹衞生：好好
+🍃環境：ok
+🔔服務：一般。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted June 16, 2022
+msg:前台栩栩小姑娘非常熱情，耐心服務周到細緻。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:非常好 滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in December 2022
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted January 12, 2023
+msg:環境優美衞生很好的
+----------------------------------------
+name:m‍a‍g‍g‍i‍e‍ ‍m‍o
+info:Business Room (2 beds)
+info:Stayed in October 2021
+info:Other
+info:63 Reviews
+rating:5
+posted:Posted November 13, 2021
+msg:吉水縣最好的酒店了 整體都是不錯的 前台個別服務人員態度有待提高 祝再接再厲 生意興隆
+----------------------------------------
+name:Y‍o‍Y‍o‍&‍k‍e‍k‍e‍m‍a‍m‍a
+info:Business Room (2 beds)
+info:Stayed in January 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted January 10, 2023
+msg:很好，房間很大，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 16, 2022
+msg:房間舒適服務員小鞠挺好挺熱情的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:10 Reviews
+rating:3
+posted:Posted September 8, 2021
+msg:衞生較差，空調出風口很臟，角落衞生不乾淨，被子感覺很廉價、睡了不舒服！早餐很簡陋（牛奶居然還兑水）
+----------------------------------------
+name:L‍a‍n‍g‍y‍a‍y‍u‍e‍。
+info:Business Double Room
+info:Stayed in July 2022
+info:Solo travelers
+info:40 Reviews
+rating:5
+posted:Posted July 14, 2022
+msg:很好，乾淨整潔，早餐也很豐富！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2022
+info:Other
+info:24 Reviews
+rating:4
+posted:Posted August 17, 2022
+msg:早餐品種少，並且都是凍的😇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in November 2022
+info:Friends
+info:21 Reviews
+rating:1
+posted:Posted December 19, 2022
+msg:不好  生氣  恆
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 20, 2022
+msg:灑店住的很好3008服務很好
+----------------------------------------
+name:T‍a‍i‍y‍a‍n‍g‍b‍i‍n‍g‍b‍i‍n‍g‍w‍e‍n
+info:Business Room (2 beds)
+info:Stayed in March 2022
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted May 3, 2022
+msg:不錯的酒店，樓上酒店可以看到贛江
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in March 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted April 13, 2022
+msg:酒店點住的很舒服3008服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted December 13, 2021
+msg:吉水最好的酒店哦，環境很好高端大氣上檔次
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted July 7, 2022
+msg:在本地是最好的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2021
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted September 17, 2021
+msg:房間服務員很好  早點比較不錯  退房李鑫磊服務還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 28, 2022
+msg:服務員9005
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 14, 2021
+msg:🧹衞生：比較整潔
+🚗 交通：很方便
+🔔服務：比較好
+----------------------------------------
+name:S‍a‍n‍g‍e‍h‍e‍n‍m‍a‍n‍g
+info:Business Double Room
+info:Stayed in March 2022
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted March 16, 2022
+msg:很滿意，很滿意，下次再住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted February 21, 2022
+msg:十分滿意！服務太度相當不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 28, 2022
+msg:環境跟服務都很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2022
+info:Business travelers
+info:126 Reviews
+rating:5
+posted:Posted January 18, 2022
+msg:這酒店沒啥説的，很好很好很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2022
+info:Other
+info:7 Reviews
+rating:5
+posted:Posted June 28, 2022
+msg:江景房非常棒！
+----------------------------------------
+name:c‍h‍a‍r‍l‍y‍b‍a‍i
+info:Business Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted October 8, 2022
+msg:很好很好很好
+----------------------------------------
+name:u‍j‍i‍a‍n‍v
+info:Business Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 29, 2021
+msg:早餐很好，酒店位置也不錯，靠近江邊，有停車場
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:34 Reviews
+rating:5
+posted:Posted July 30, 2021
+msg:一如既往，沒的説，早餐也很有當地特色！
+----------------------------------------
+name:X‍i‍x‍i‍h‍a‍h‍a
+info:Business Room (2 beds)
+info:Stayed in August 2021
+info:Business travelers
+info:36 Reviews
+rating:5
+posted:Posted August 17, 2021
+msg:價格可以，風景也好，挺不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in February 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted February 10, 2022
+msg:乾淨衞生，很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2021
+info:Couples
+info:11 Reviews
+rating:4.5
+posted:Posted July 20, 2021
+msg:早餐一般，能免費停車，風景不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 12, 2021
+msg:工號6675服務貼心！
+----------------------------------------
+name:Z‍h‍e‍n‍g‍z‍i‍r‍u‍i
+info:Business Room (2 beds)
+info:Stayed in November 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted November 3, 2021
+msg:環境不錯！1008
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 18, 2021
+msg:環境優美，乾淨衞生，安靜舒適。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted July 24, 2021
+msg:很好，下次還要真心很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in November 2021
+info:Friends
+info:2 Reviews
+rating:4
+posted:Posted December 2, 2021
+msg:酒店設施不錯👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2021
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted July 27, 2021
+msg:攜程訂貴了40元一間房
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2021
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted June 29, 2021
+msg:設施服務環境都很不錯的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2021
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted July 30, 2021
+msg:露天泳池小了點，其他很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in December 2021
+info:Solo travelers
+info:7 Reviews
+rating:5
+posted:Posted December 29, 2021
+msg:每次都住這裏
+----------------------------------------
+name:J‍o‍y‍c‍e
+info:Business Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 11, 2021
+msg:9037  非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2021
+info:Friends
+info:29 Reviews
+rating:4.7
+posted:Posted August 8, 2021
+msg:蠻好的，就是有點貴呦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2021
+info:Solo travelers
+info:15 Reviews
+rating:5
+posted:Posted July 26, 2021
+msg:超值享受，江景好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted June 29, 2021
+msg:風景好，交通便利
+----------------------------------------
+name:w‍i‍n‍g‍k‍e‍e‍w‍e‍i
+info:Business Room (2 beds)
+info:Stayed in July 2021
+info:Other
+info:13 Reviews
+rating:5
+posted:Posted July 29, 2021
+msg:各方面都還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in October 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted October 24, 2021
+msg:非常好👍
+----------------------------------------
+name:L‍i‍u‍d‍a‍b‍e‍i
+info:Business Room (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted July 25, 2021
+msg:非常的滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:2 Reviews
+rating:1.5
+posted:Posted May 10, 2023
+msg:房間是10樓，臨街很吵，所以把窗關了，但空調沒法用。向酒店反映了問題，居然説由於還沒到夏天，中央空調不能提供，所以給我們一台風扇，湊合一下。本來如果不是看了攜程平台對這家酒店的宣傳，留下好印象。還有本身酒店4星級的定位標準，也不是一台風扇不能解決的，但是，號稱吉安最好的本土酒店，跟客人解釋不到夏天不提供中央空調，這未免也太誇張了。別説是4星級，就連最普通的賓館，都有空調吧，用不用那是客人自己的事。後來酒店也覺得實在説不過去，找了一個工人上來告訴我們可以用了，結果，空調的噪音巨大，衹好關了，等於還是熱着。一夜無眠。另沖涼房漏水漏一地，好可怕的經歷。
+----------------------------------------

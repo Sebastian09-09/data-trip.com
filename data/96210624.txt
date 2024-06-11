@@ -1,0 +1,220 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Lake View
+info:Stayed in May 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted May 22, 2024
+msg:Great hotel. Excellent in all respects
+----------------------------------------
+name:B‍o‍n‍n‍i‍e‍5‍1‍5‍ 
+info:Queen Room With Sea View
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 18, 2024
+msg:酒店大堂明亮清香，一個大魚缸非常奪目，房間乾淨温暖舒適，設備都很方便，一家三口入住海景大床房，早上可以看到日出，酒店對面就是一個小景點，閑暇時間海邊溜達溜達，過年期間煙火不斷，酒店樓下還有個湖，周圍也有不錯的景觀配套，遛娃的好地方，非常贊👍
+----------------------------------------
+name:J‍i‍a‍n‍g‍s‍h‍u
+info:2-bed Room With Lake View
+info:Stayed in February 2024
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted February 10, 2024
+msg:對這個酒店期待很久了，這次順利入住，酒店出乎預料的好，房間大設計很合理，靠近月亮灣景區，度假休閑兩便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With Lake View
+info:Stayed in January 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted January 30, 2024
+msg:這個酒店簡直不要太氣派，環境優美 服務熱情  前台的小哥哥小姐姐非常的貼心 整個過程就非常nice！好評好評好評！
+----------------------------------------
+name:B‍i‍s‍h‍u‍i‍h‍a‍n‍d‍a‍i
+info:2-bed Room With Sea View
+info:Stayed in May 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:非常適合看海！
+----------------------------------------
+name:S‍a‍r‍a
+info:Queen Room With Lake View
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 7, 2024
+msg:再次入住，環境超讚，服務態度好，性價比高！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With Lake View
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 24, 2024
+msg:乾淨
+衞生，海景房，透過窗户，景色很漂亮。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With Lake View
+info:Stayed in February 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted March 30, 2024
+msg:酒店很好，回家優選。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Lake View
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 24, 2024
+msg:環境優雅，衞生乾淨整潔，設施配套齊全，服務態度非常滿意，周邊環境優美，早晨可以看到太陽從海平面升起。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With Lake View
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 30, 2024
+msg:湖景房景色很好，入住期間如果有什麼入住需求，打電話到前台都會盡力幫我們，早餐也很不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Sea View
+info:Stayed in April 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted May 1, 2024
+msg:設施：齊全
+衞生：潔凈
+環境：優美
+服務：貼心
+----------------------------------------
+name:L‍i‍x‍i‍a‍o‍z‍u
+info:Queen Room With Sea View
+info:Stayed in April 2024
+info:Couples
+info:40 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:假日前期，人很少，房間也夠大，很不錯的選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With Lake View
+info:Stayed in February 2024
+info:Friends
+info:15 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:酒店很好   環境可以  前台接待人員精神麪好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Sea View
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 12, 2024
+msg:設施齊全，衞生很好，環境優美，服務態度好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Lake View
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 10, 2024
+msg:服務熱情！工作人員精神面貌也好，很不錯的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With Lake View
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 24, 2024
+msg:房間很大很寬敞，設備都很新。體驗棒棒的！9
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Sea View
+info:Stayed in February 2024
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted February 7, 2024
+msg:方圓幾百公里就數他家最好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Sea View
+info:Stayed in June 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted June 4, 2024
+msg:環境好，下次還訂
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Lake View
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 24, 2024
+msg:房間很大，環境好，湖景房！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Queen Room With Sea View
+info:Stayed in February 2024
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:非常滿意。很好。
+----------------------------------------
+name:B‍u‍y‍i‍y‍a‍n‍g‍d‍e‍d‍a‍d‍a
+info:Queen Room With Lake View
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:老家的很好酒店
+----------------------------------------
+name:M‍e‍n‍g‍j‍i‍e‍y‍a
+info:2-bed Room With Lake View
+info:Stayed in April 2024
+info:Other
+info:10 Reviews
+rating:5
+posted:Posted April 4, 2024
+msg:房卡很乾凈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Lake View
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 24, 2024
+msg:好好好好好
+----------------------------------------
+name:K‍u‍g‍a‍i‍g‍a‍i‍d‍e‍x‍i‍a‍o‍b‍a‍i‍y‍a
+info:Queen Room With Sea View
+info:Stayed in June 2023
+info:Other
+info:16 Reviews
+rating:5
+posted:Posted June 8, 2023
+msg:乾淨整潔舒適
+----------------------------------------

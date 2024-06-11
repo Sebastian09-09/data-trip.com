@@ -1,0 +1,483 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in August 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 19, 2022
+msg:The software and hardware of the hotel are not mentioned. Although it is called a homestay, the software and hardware are basically based on the standards and models of five-star hotels. The layout of the rooms and the infinity pool are all designed by high-end hotels. The layout of the back mountain is different. Like the style of homestays, I feel that this is already a better model for homestays in the north. After all, star-rated hotels can meet the expectations of most people through a long-term experience summary, which is better than some so-called designers and whims. The homestay is more secure. In the past week, I saw some homestays, and most of them took pictures of the interior style. The exteriors were often dilapidated. Some Internet celebrity homestays were even built next to the national highway, surrounded by dilapidated houses.
+There are several details in the hotel that are very good. First, in terms of water use, in addition to two bottles of VOSS, a bucket of Nongfu Spring is also given to make tea, which can fully meet the water consumption of a room for two days and one night. Second, although the room is not a parent-child room, children's slippers are still prepared. Third, there are three kinds of scented teas and one green tea in the room, which is also very distinctive. Fourth, the combs in the room are wooden combs, which can be reused. The sewing box is also a real sewing box, not the kind of cardboard with a few threads wrapped around it. The brand of toothpaste is also good, the only thing is that the toothbrush needs to be upgraded, which is uncomfortable to use. The bathroom supplies in the room should be Herborist. I think other rooms are. I don't know why my room is not, but because I don't care much, I didn't say anything. I guess they will change it for us immediately. Fifth, there will be a butler who will contact you after making a reservation, and will also set up a group for you to serve you. Each meal will be pre-ordered and the meal time. When the meal is ready, you will be notified to sit and serve, which is omitted. Waiting time, I forgot something after leaving the store, and I contacted and mailed it to us at the first time. The service can be said to be quite good. Sixth, the scenery is really good, the environment is good, and it can be seen that it is very attentive.
+As for the suggestion, first, the food really needs to be improved. Although the price is expensive, it is not unacceptable. After all, the service, environment and positioning are kept here. It's hard to choose, the dishes are a bit biased, they are all hard dishes, there is a lack of adjus**ent, and they are too paranoid to take the high-end route. A mixed jelly should be called Chaohua Intangible Cultural Heritage Stupid Mung Bean Jelly with ten coriander juice. There are many dish names around the cross. In terms of price, if you don't order barbecue, it is about 100 per person. The barbecue is the most expensive I have ever eaten. A string of lamb skewers is 27 yuan, which is about 5 yuan for a string outside. . . . The second is that the acquiring side really needs to be improved. The dining mode is still in the mode of scanning the static code to pay for the photo. If you have a developer and need to connect with the bank for payment, you can come to me and do a little connection directly on the applet or the official account. If you pay for food, accommodation, and other items, you will pay more points, and you will be on the higher level. . .
+There is still the possibility of re-living, after all, the experience is good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 7, 2024
+msg:設施：配套設施非常完善，很有格調
+
+衞生：所有區域衹要是能看到的都有專人打掃，都很乾凈
+
+環境：我來的時候下雪天，超級漂亮
+
+服務：管家們的服務真的很用心，下次絕對還會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in April 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted April 12, 2024
+msg:管家小姐姐很貼心呦～城市中的仙境很喜歡💕
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 7, 2024
+msg:房間乾淨衞生，院子裏的懸空泳池超讚，現在山都綠了，坐在泳池旁邊藍天白雲配青山。晚上山上和院子裏都有小燈，夜景也超級漂亮🥰🥰🥰
+設施：配套設施很全，咖啡廳，書屋，大草坪，無邊泳池
+衞生：房間很乾凈，院子裏也很乾凈
+
+服務：小管家很貼心～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With Mountain View
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 14, 2024
+msg:這家民宿位於一個寧靜的山間，周圍環境優美，讓人遠離城市的喧囂和壓力。我選擇了一間温馨的房間，佈置得很有家的感覺，讓我感到非常舒適，真的超乎我預期，温馨的氛圍和貼心的服務讓我倍感親切。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 11, 2023
+msg:山居的特色就是無邊泳池，孩子們樂此不疲，管家小哥哥小姐姐們也非常貼心，房間裏到處擺放了鮮花綠植，儀式感滿滿的，下次還會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Mountain View
+info:Stayed in May 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 27, 2023
+msg:母親節時帶孩子來到山居入住，如世外桃源般清凈，優雅，這裏遠離城市的喧囂，給心靈一片凈土，空氣特別清新，孩子在帳篷書屋寫作，畫畫，小管家服務超級貼心，孩子在泳池玩的也很開心，總體還是比較滿意的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With Mountain View
+info:Stayed in May 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 24, 2023
+msg:山居環境很清新時尚，房間很乾凈，和圖片一樣，有開闊的視野，推開窗便是山色綿連的美景。孩子們玩的非常開心，特別是帳篷書屋，全落地玻璃向遠山望去，親近自然，書香文化，管家小盟態度很好，很熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in May 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted June 8, 2023
+msg:管家服務貼心周到，環境優美。前有恆温泳池後有帳篷書屋。可以看書也可以遙望星空。確實是絕好的住宿首選。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 15, 2023
+msg:服務超級貼心 孩子們特別喜歡
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in April 2023
+info:Friends
+info:13 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:這民宿讓在外的人，感受到了歸家的感覺：這裡有可口的菜餚，還有那周到齊全的全天候服務。第二次過來，不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in April 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted May 8, 2023
+msg:總體不錯，就是房間比較小，信價比低了點，不過服務人員都還不錯，很客氣。
+----------------------------------------
+name:H‍a‍i‍s‍h‍i‍j‍i‍a‍o‍w‍o‍s‍o‍n‍g‍s‍o‍n‍g‍b‍a‍S‍s
+info:Guestroom (2 beds)
+info:Stayed in July 2023
+info:Family
+info:9 Reviews
+rating:4
+posted:Posted July 9, 2023
+msg:環境真的不錯、晚上也是真的美、小朋友玩的是真的很開心、我也很開心小管家們都超級帥、前台小姐姐也漂亮～除了早餐餐廳有點熱、還會再去～姐妹們放心來～
+----------------------------------------
+name:H‍u‍s‍i‍h‍a‍l‍i
+info:Guestroom (2 beds)
+info:Stayed in October 2022
+info:Family
+info:20 Reviews
+rating:3.5
+posted:Posted October 7, 2022
+msg:加分項：房間標配的泡茶水、礦泉水、仿真壁爐暖風。服務人員都很熱情，主動服務意識比較強。有手工活動、誦讀活動。
+待加強：房間布草完成較慢，中午12點退房，布草床品和人員下午3點還沒到…
+槽點：早餐、中餐、晚餐都嘗試了，味道算是中上。但點餐的價格較貴，晚餐其中一道菜品的食材板栗不新鮮。
+硬傷：離雲上牧場、紅石林等景點入口較遠，18紅。公里，山路自駕超過半小時車程。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Stayed in August 2022
+info:Friends
+info:14 Reviews
+rating:4
+posted:Posted August 29, 2022
+msg:點評把酒店的環境、優點都説了，我就不説了。我就提個建議吧，酒店洗浴用品配備的是佰草集的，至少是大品牌，但是這些用品都沒有封口，是不是真正做到了一客一換，這就給人感覺很不衞生也很不安全！希望改進。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Queen Room With Mountain View
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 21, 2022
+msg:晚風，音樂，啤酒，一切都這麼完美！
+環境：恆温泳池特別舒服
+服務：管家服務一對一，特別好
+交通：從高速下來一路都很順暢
+孩子很喜歡，都不捨得走了，下次還會再來光顧！
+非常推薦的一家民宿！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in August 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 5, 2022
+msg:疫情期間，不出河南，在鄭州周邊遊，遇到優質的民宿！不虛此行！
+交通：交通便利、從鄭州出發一個小時零幾分到達。
+衞生：衞生條件不錯，乾淨整潔！
+環境：泳池是恆温泳池，游泳特別舒適
+服務：服務要特別誇獎一番，首先酒店會提前一天聯繫，發位置，有小管家直接加微信，住宿當天，工作人員直接停車場接待，幫忙拿行李，又趕上七夕活動，給準備了束大大的鮮花，甚是開心，晚上在泳池廣場用餐，有個哥哥小姐姐唱着好聽的音樂，彷彿到了音樂餐廳，有遠山、有泳池、有好聽的音樂，送了可口的甜品，怎麼能不開心！希望酒店繼續保持優質的服務，有時間了再去打卡！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in August 2022
+info:Family
+info:20 Reviews
+rating:5
+posted:Posted August 14, 2022
+msg:雖然定義民宿，但是管理很正規，服務也好！酒店的兩個游泳池、後山書房及草坪真的是休養的好去處！下次還會帶孩子來！就是所定的房間比較小！建議成人游泳池淺一些（將近1.5米深）
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Queen Room With Mountain View
+info:Stayed in July 2022
+info:Family
+info:2 Reviews
+rating:3.2
+posted:Posted July 10, 2022
+msg:**看到的，新開的酒店，在山頂，疫情之下，不能出省，來到了離家最近的地方過週末，本是抱着放鬆，開心的心情來的。但是體驗感很差，首先，沒有人提前跟我聯繫，我並不知道有所謂管家，其次我的管家並沒有帶給我任何好的體驗，我不知道有夜景可以觀賞，也不知道有書吧可以休閑。如果不是今天退房前遇到一位工作人員，我詢問有什麼地方可以轉一轉，我根本不知道有燈光夜景，有世外桃源般的書吧。價格是不低，體驗卻很糟糕。服務完全沒有。錯過了夜景，也沒有別人所謂的管家服務到位。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2022
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted July 17, 2022
+msg:一對一的管家非常貼心，我們管家是姓魏的小蒙姑娘，入住交代得非常細緻，入住後又領我們去後麪的茶室，看書喝茶，都是免費的，小孩們在泳池游泳的時候幫我們照看小孩，我們就有時間去喝茶，看周邊的風景。晚餐也提前把菜譜給我們，飯菜質量也很不錯。晚上八點有駐唱歌手在廣場演出，我們邊喝啤酒邊看演出，山上涼風佛麪而過，對面歌聲悠揚，我的同事還上台高歌一曲，這裏的夜景太美了。第二天一大早，小孩們又跑個泳池，這裏的泳池對他們的誘惑力太大了，24小時的旅遊結束了，大家依依不捨的離開了這一難得的避暑勝地，也告別了讓我們滿意的這家酒店。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in June 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted June 26, 2022
+msg:新開業，路程順暢，懸空泳池在山間尤其亮眼！全套小米智能，除了常規配置房間裏還配了功夫茶具和桶裝水。服務非常好，走到哪裡都有管家照顧，連去泳池游泳也有客服隨侍，極其貼心。尤其是負責我的管家鄭靜潔鄭小盟，提前介入，安排接待提供導航，有問必答有求必應，入住期間全程以客人的需求優先，恰當的建議、温和的提醒讓人如沐清風！一
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Mountain View
+info:Stayed in July 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 16, 2022
+msg:鄭州周邊不錯的選擇，鄭州過去大約一個小時的路程吧，酒店的管家小姐姐提前一天就聯繫了，而且全程貼心服務，各項服務介紹的都很到位，孩子在泳池曬傷了，管家還拿出了自己的蘆薈膠給我們用，我們出去玩回來還給晾好了茶水，真的是非常贊，如果用餐能改進一下那就完美了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted August 1, 2023
+msg:早餐太棒了，服務的小哥哥小姐姐也很貼心，還給拿了衣架晾衣服，就是房間有點小，泳池再乾淨一點就更好了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Mountain View
+info:Stayed in July 2022
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted July 10, 2022
+msg:傍晚時候到的酒店，環境和酒店的整體氛圍太棒了，滿滿的幸福感，恆温泳池也是超級給力，水温很舒適，小朋友在小童泳池玩的太開心了，落地窗玻璃的房間太讚了，特別要給負責我們的管家王藝菲小美女，服務態度超好，熱情，以後想放鬆休閑了一定會經常來這家的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in August 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 12, 2022
+msg:酒店的環境、服務整體都挺不錯。
+早餐清爽不油膩，非常的合胃口。管家小陳做事情認真、細心。室外的恆温無邊泳池很棒，小朋友們玩兒的樂不思蜀……
+值得再來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in August 2022
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted August 8, 2022
+msg:泳池一級棒，服務一級棒，晚上的駐場氛圍十足。小朋友捨不得走，期待下次。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in June 2022
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted June 29, 2022
+msg:山頂的一家酒店，很幽靜。管家式服務特別貼心細緻，可以説是有求必應！崖邊泳池是亮點，很適合拍照。最喜歡晚上的感覺，酒店內夜景也很美！坐在池邊，欣賞着山中夜景，聽着現場演唱的歌曲，吹着小山風，簡直不要太愜意……
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With Mountain View
+info:Stayed in June 2022
+info:Family
+info:6 Reviews
+rating:4.7
+posted:Posted June 27, 2022
+msg:酒店環境很好很好，無邊泳池雖然不大，但是孩子玩的很開心，拍照也很好看。酒店工作人員都很熱情，後山的書屋很安靜，裏面有茶點和茶具。車可以開到停車場，走幾步就到了，交通方便。管家張景旺是個羞澀的小哥哥，人很好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2022
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted July 25, 2022
+msg:位於盤山公路上的無邊泳池，温度適宜，景色很值得，在省內住過的比較精細的酒店，服務很好，管家棠棠非常細心熱心，準備秋天再過來一趟看看
+----------------------------------------
+name:J‍a‍n‍e‍y‍o‍u‍y‍i‍z‍h‍i‍l‍i‍u‍l‍a‍n‍g‍m‍a‍o
+info:Queen Room With Mountain View
+info:Stayed in June 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted June 4, 2022
+msg:第一次來山裡度假。因為疫情防控，不方便走太遠，於是在攜程上發現了這家新開的民宿酒店。
+説是民宿酒店，其實是中州旗下的度假酒店，星級堪比5星。客房，餐廳，會議室，泳池等設施一應俱全。尤其是户外泳池，設計感十足，天氣好時，映襯着藍天白雲，青山綠水，好不愜意！
+房間空間很大，可以看到山景，配備的茶很好喝，茶具也很好看。同時也很貼心的配有蒸汽眼罩。其他基礎用品乾淨衞生，就連洗漱用的梳子都是木梳，細節之處盡顯品質。
+餐廳很大。食品新鮮，味道也不錯，分量適中。就是價格略高一點，畢竟山上食材運輸費時費力，也可以理解。早餐自助，品類齊全，熱菜涼菜都有，味道也不錯，很有地域特點，有胡辣湯。
+下午，晚上有時會有活動，酒店人員會提前告知，像小童手作，泳池趴，都會有人引導參與，還送有水果和甜點，有現場駐唱歌手，有薩克斯演奏，吹着風，聽着音樂，很舒服。
+最後就是服務了，這個等級的酒店，服務根本不需要有異議。每位工作人員都很有職業素養，禮貌，熱心，細緻，耐心解答任何問題。退房後服務管家送了伴手禮，還因為隨口一句的茶好喝送了兩罐茶葉，送到了大門口。真的是物超所值。
+很不錯的一次度假體驗。值得推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Sunshine Panoramic Room
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 20, 2022
+msg:環境特別好，管家服務也很周到，到停車場有工作人員接行李，晚上有駐唱歌手，懸崖泳池孩子很喜歡～
+----------------------------------------
+name:Z‍o‍u‍z‍o‍u‍g‍u‍a‍n‍g‍g‍u‍a‍n‍g‍b‍a
+info:Queen Room With Mountain View
+info:Stayed in October 2022
+info:Family
+info:57 Reviews
+rating:5
+posted:Posted October 4, 2022
+msg:酒店很好，服務好，管家很熱心，很滿意的一次出行
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - with View
+info:Stayed in July 2022
+info:Family
+info:13 Reviews
+rating:4.7
+posted:Posted July 17, 2022
+msg:設計別緻，懸空泳池，美味晚餐，環境優美，空氣清新，山景美觀。
+尤其贊嘻嘻周到服務。。。愉快的周未。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - with View
+info:Stayed in August 2023
+info:Family
+info:5 Reviews
+rating:3.7
+posted:Posted October 4, 2023
+msg:沒有做好攻略去的，體驗感很一般，房間設施一般，服務還行。
+----------------------------------------
+name:B‍a‍o‍d‍o‍u‍p‍u‍t‍a‍o
+info:Guestroom (2 beds)
+info:Stayed in June 2022
+info:Friends
+info:23 Reviews
+rating:5
+posted:Posted June 16, 2022
+msg:管家服務一流，温馨家園，浪漫之旅不會失望，超美！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2022
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted July 28, 2022
+msg:伏羲山民宿酒店類服務天花板，來和走都有管家迎來送往。小管家一對一服務，從入住，到用餐，到逛酒店夜景，每一個細節都做的非常到位。特別是小管家王藝菲，給一個大大的贊！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Mountain View
+info:Stayed in May 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 17, 2023
+msg:服務很貼心，食物很精美，環境超級棒，泳池很哇塞！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2023
+info:Family
+info:14 Reviews
+rating:4.5
+posted:Posted July 2, 2023
+msg:環境不錯，硬件也好，服務態度很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted July 25, 2022
+msg:管家陳小盟服務很周到，酒店很有特色，適合家庭出遊，朋友聚會，泳池水很乾凈，温度很適合小朋友，後山書屋很有特色，早餐也很豐盛。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With Mountain View
+info:Stayed in May 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted June 22, 2023
+msg:環境很好，服務人員不但服務好人也長的漂亮！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in June 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted June 14, 2022
+msg:管家服務實在太好了，管家卻是在用心為我們服務了，來之前因我沒有及時回覆信息，官家竟在門口一直等我，還特意去山上剪下鮮花放在房間。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted July 7, 2022
+msg:體驗感非常好 環境不錯 最好的是服務 菜價如果能再親民一些更好 但是服務真的可以抵消一切不足之處 還會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With Mountain View
+info:Stayed in July 2022
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted July 11, 2022
+msg:挺不錯👍雖然有點貴，但是環境和服務很好。特別是晚上夜景更好看。早上起個大早，晨霧也很好看。有機會還會去。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 4, 2022
+msg:勾佳薇小管家服務認真，考慮周到，對小朋友細心，酒店環境優美，水質清澈，早餐豐富，適合大小朋友到這裏來避暑
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 22, 2022
+msg:服務好，環境好，景色也很美麗。魏浩淼管家服務特別好。整體工作人員服務都很好，體驗超讚！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - with View
+info:Stayed in June 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted June 19, 2022
+msg:管家小陳服務熱情周到，工作認真細緻，讓客人有回家的感覺。
+----------------------------------------
+name:T‍i‍a‍n‍d‍e‍l‍a‍o‍b‍a
+info:Guestroom (2 beds)
+info:Stayed in October 2022
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted October 8, 2022
+msg:環境優美自然，泳池游泳、健身器材很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in October 2022
+info:Business travelers
+info:57 Reviews
+rating:4
+posted:Posted October 9, 2022
+msg:這價格完全可以入住三亞海景房啦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - with View
+info:Stayed in June 2022
+info:Other
+info:13 Reviews
+rating:5
+posted:Posted June 4, 2022
+msg:節假日休閑度假好去處，就是價格有點貴！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in July 2022
+info:Friends
+info:130 Reviews
+rating:5
+posted:Posted August 1, 2022
+msg:山上的酒店環境不錯
+----------------------------------------

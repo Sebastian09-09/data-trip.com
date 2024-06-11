@@ -1,0 +1,1287 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:前台，經理，餐廳服務態度都很好，酒店很乾凈，有陽台真的是很棒，早上空氣好清新，早餐也不錯，牛奶跟玉米汁都是純的，不是泡的，很好喝~還有送水果，送的小禮物好暖👍🏻後面就是森林公園，早上有去散步，空氣太好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:環境優美，鬧中取靜，艾溪湖濕地公園邊，酒店服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in December 2023
+info:Solo travelers
+info:60 Reviews
+rating:4.7
+posted:Posted January 14, 2024
+msg:就在艾溪湖邊上，去艾溪湖散步跑步都超級方便的，周邊商業好像不是很多，酒店房間乾淨衞生，是個很合適會議接待的地方，有個小後門可以直接通往艾溪湖公園，這個特別貼心（見圖7），辦理入住快捷禮貌，整體體驗感不錯
+----------------------------------------
+name:L‍u‍j‍i‍a‍o‍s‍h‍i‍l‍i‍m‍i
+info:Comfy Twin Room
+info:Stayed in February 2024
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:房間乾淨，性價比超高，停車免費
+----------------------------------------
+name:N‍u‍o‍w‍e‍i‍m‍i‍h‍a‍y‍i‍l‍u‍o‍f‍u‍s‍i‍j‍i‍b‍a‍i‍j‍u‍y‍i
+info:Superior Room - Lake-View (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted September 23, 2023
+msg:前台熊嘉莉回訪及時，推薦使用的早餐口味佳，品種豐富。酒店環境優美，靠近艾溪湖，很安靜，在這睡眠質量大大提高，非常推薦入住。
+----------------------------------------
+name:M‍i‍n‍g‍c‍h‍e‍n‍g‍d‍e‍z‍h‍o‍u‍z‍h‍o‍u
+info:Superior Room - City-View (2 beds)
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 17, 2023
+msg:房間寬敞舒適，風景秀麗，服務也挺貼心！晚上風景也很美！
+----------------------------------------
+name:B‍a‍o‍l‍i‍j‍i‍r‍o‍u‍n‍a‍n
+info:Comfy Twin Room
+info:Stayed in February 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted February 15, 2024
+msg:除了周邊太冷清，其他堪稱完美。整個春節期間體驗最好的店。服務員態度熱情有問必答。給酒店的建議是裝幾個充電樁或者和客户説明附近充電樁位置。
+----------------------------------------
+name:L‍a‍o‍x‍i‍a‍o‍h‍a‍i
+info:Superior Lake-view Double Room
+info:Stayed in April 2023
+info:Family
+info:23 Reviews
+rating:4.7
+posted:Posted April 18, 2023
+msg:酒店是會議定點酒店，裝修一般但大氣，一樓大堂比較大，有圖書室，座位比較多方便聚合。與艾溪湖為鄰，住店可刷卡直接近西湖。值得稱讚是早餐58元豐富程度太超值了。客房有陽台，太陽下山坐陽台觀看小鳥歸巢真妙。點外賣有機器人送達房間很新奇。大堂並客房服務人員態度很好。酒店額外送的青團、酸奶、水果等很美味。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in July 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 30, 2023
+msg:房間很大，很乾凈，各項服務都很好，水果和酸奶很驚喜。
+----------------------------------------
+name:Z‍i‍y‍i‍y‍i
+info:Comfy Twin Room
+info:Stayed in October 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:酒店大廳很氣派，前台服務非常耐心周到，最超值是酒店後面的湖，公園就像是酒店的後花園，有一個小門可以刷房卡進入公園。進去後左轉再右轉就到湖邊了，有專門的沿湖步道，風景優美，這個季節桂花飄香。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:9 Reviews
+rating:4.2
+posted:Posted February 12, 2024
+msg:房間還好，可能比較久了吧。因為朋友住在這裏臨時改到這邊。沒有買早餐券，第2天扣了100多，客房還行，早餐有點不值。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in May 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 14, 2023
+msg:環境挺好，各個細節做得不錯，房間裏有小冰箱，就是攜程很討厭，比在現場訂房多了20塊錢一天，還不含早餐。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in June 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted June 17, 2023
+msg:房間整潔，環境舒適，彷彿住在森林中，非常靜溢。
+----------------------------------------
+name:H‍u‍o‍t‍i‍a‍n‍s‍h‍i
+info:Comfy Twin Room
+info:Stayed in March 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 21, 2023
+msg:很不錯的酒店，乾淨整潔，設施完備，主動升級湖景房，開門就是看到風景，可以給個五星好評，下回去南昌還會選擇入住🌷
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in December 2022
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted December 31, 2022
+msg:因為工作原因我常年到處飛，這間酒店是我這幾年最驚喜的一家。服務周到細緻，就算你選擇不打掃他們也會把每天的必需品悄悄放在門口。因為羊了有幾天沒有打掃，但是房間的水每天按時送到門口，根本不需要去打電話要。如果最高五顆星，服務我給六顆星。將來如果還有機會來南昌，還會選擇這個酒店。
+----------------------------------------
+name:T‍a‍o‍t‍a‍o‍s‍h‍u
+info:Deluxe Lake-view Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:5 Reviews
+rating:2.5
+posted:Posted July 11, 2023
+msg:房間空調太差，都説早餐好，我特意加了一份去吃，感覺很失望，下面的師傅態度極其冷漠，就把麪説水裡撈上來後了，就直接扔給我，我問他拌粉怎麼調味，很不耐煩的説，自己弄，素質太差了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 13, 2024
+msg:房間乾淨整潔，外面有個小陽台，酒店還貼心的送了酸奶和小餅乾，不錯哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Lake-view Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted December 31, 2022
+msg:房間整潔，也很大，空調温度很高，一進去就暖烘烘的，有個小陽台看江景，不錯，早餐很豐盛，樣式繁多，屋子裡的小沙發躺着實在是太舒服了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in May 2024
+info:Couples
+info:41 Reviews
+rating:4.7
+posted:Posted May 3, 2024
+msg:洗澡水有些小，淋浴室地漏排水不暢通。其他還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in January 2024
+info:Business travelers
+info:7 Reviews
+rating:4.7
+posted:Posted January 11, 2024
+msg:房間沒有問題，送水果酸奶啊。就是位置在新區公園附近，離生活區有點遠啊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in February 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted February 3, 2023
+msg:酒店品質設施一流，前台熊嘉莉服務十分到位！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in June 2023
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted June 12, 2023
+msg:酒店位置比較偏，環境還可以，每個房間配備了陽台，作為五星級酒店服務需要再加強，漏了一人份酸奶臨走也沒補上，周邊的濕地公園環境非常好，晚上可以去散步。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in June 2023
+info:Business travelers
+info:4 Reviews
+rating:1.5
+posted:Posted June 9, 2023
+msg:1 每天客房補充物品不完全，如紙巾，潤膏
+2 工程人員無服務意識，在乘坐電梯過程中，將櫃子推進電梯
+3 早餐人員配置不足，碟子等沒有及時收取
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room - City-View (2 beds)
+info:Stayed in May 2024
+info:Couples
+info:29 Reviews
+rating:5
+posted:Posted May 6, 2024
+msg:設施完善、環境好、衞生乾淨、早餐不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in October 2023
+info:Other
+info:7 Reviews
+rating:5
+posted:Posted October 2, 2023
+msg:前台熊嘉莉熱情周到，專業細緻，入住及時回訪住店感受，安排佈置的婚房很滿意，五星好評！
+----------------------------------------
+name:Y‍i‍c‍h‍e‍n
+info:Superior Room (2 beds)
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 19, 2022
+msg:剛開始入住的時候發現沒有湖景，然後找王成領班去調換了幾次房，最後還是順利的看到了湖景，景色確實挺不錯，服務很好，感謝！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:10 Reviews
+rating:4.7
+posted:Posted February 6, 2023
+msg:乾淨温馨服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in April 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted April 28, 2024
+msg:房間設施較新，前台王成服務熱情周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:2
+posted:Posted June 9, 2023
+msg:花灑熱水量很少；換房要求一直得不到到滿足；房間較吵；我最早入住，安排最差的三樓角落住。其他後入住的都安排高層。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in June 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 22, 2022
+msg:有很大的停車場，周邊環境也很好，前台kelly小姐姐非常熱心的幫我們處理了不同訂單續住的問題。感覺這邊房間還是挺緊張的，一不留神就定不到啦？酒店自製的酸奶也很好喝，推薦！停車的地方很大，附近就是濕地公園。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in October 2022
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted October 29, 2022
+msg:環境優秀，服務到位，特別是王成服務細緻。
+----------------------------------------
+name:S‍h‍u‍i‍w‍a‍w‍a‍3‍3
+info:Superior Room - City-View (2 beds)
+info:Stayed in January 2023
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted February 2, 2023
+msg:位於高速路口附近的酒店，貌似是幹部培訓指定酒店。康體設施完善，部分收費。前台服務態度很好，準備了房間水果和酸奶，早上因為查房耽誤了一點出行時間，還送了禮物很貼心。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room - City-View (2 beds)
+info:Stayed in April 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted April 28, 2024
+msg:環境很好👍就是交通有點不方便
+----------------------------------------
+name:X‍i‍n‍z‍a‍i‍y‍u‍a‍n‍x‍i‍n‍g‍l‍h
+info:Comfy Twin Room
+info:Stayed in May 2023
+info:Family
+info:15 Reviews
+rating:4.7
+posted:Posted July 31, 2023
+msg:這樣的酒店硬件還是不錯的，附近購物吃飯比較方便，靠着景點附近，走路也不遠，衞生也還可以，必須給個好評。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in June 2023
+info:Other
+info:10 Reviews
+rating:4.7
+posted:Posted July 21, 2023
+msg:孩子在附近的中學參加中考，來回家裡會影響休息就選擇了金陵，很好，很安靜，停車非常方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in July 2023
+info:Business travelers
+info:69 Reviews
+rating:5
+posted:Posted August 20, 2023
+msg:服務特別的好，酒店也很滿意，地理位置方便，下次還有機會還會再來，十分推薦！
+----------------------------------------
+name:J‍e‍r‍r‍y
+info:Lake-view Suite
+info:Stayed in January 2024
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted February 7, 2024
+msg:房間及裝修稍老，服務還不錯，周邊安靜
+----------------------------------------
+name:s‍h‍e‍n‍c‍h‍e‍n‍8‍9‍0‍8‍1‍4
+info:Deluxe Lake-view Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted March 17, 2023
+msg:環境優雅，面朝湖，去周邊公司位置很方便。房間空間較大，早餐非常豐富，適合商務旅行。推薦入住的好酒店，下次還會來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in December 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted December 29, 2023
+msg:房間大，服務周到，早餐超好，價格實惠
+----------------------------------------
+name:C‍h‍u‍a‍n‍l‍i‍n‍r‍u‍h‍a‍i‍z‍h‍u‍X
+info:Comfy Twin Room
+info:Stayed in January 2023
+info:Business travelers
+info:36 Reviews
+rating:5
+posted:Posted January 31, 2023
+msg:每次南昌出差都住這個酒店，環境特別好，酒店乾淨衞生，服務工作人員態度非常好，真心推薦來南昌一定要住一次
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 20, 2022
+msg:入住體驗很好，服務也很好，值得推薦。
+----------------------------------------
+name:Z‍h‍a‍o‍b‍u‍z‍h‍u‍o
+info:Comfy Twin Room
+info:Stayed in June 2022
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted June 7, 2022
+msg:酒店環境不錯，周邊環境也挺好，林子惠服務態度很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in June 2022
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted June 20, 2022
+msg:謝謝王成的服務，很好👍👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room - Lake-View (2 beds)
+info:Stayed in April 2024
+info:Friends
+info:21 Reviews
+rating:5
+posted:Posted April 9, 2024
+msg:衞生乾淨，服務滿意
+----------------------------------------
+name:S‍a‍n‍s‍a‍n‍l‍i‍a‍n‍g‍l‍i‍a‍n‍g‍d‍e‍j‍i‍a‍o‍b‍u
+info:Comfy Twin Room
+info:Stayed in December 2022
+info:Solo travelers
+info:11 Reviews
+rating:5
+posted:Posted March 16, 2023
+msg:之前考試住的，點外賣很方便有機器人，這家店一看就是主做單位接待，其他就佛了，勝在硬件不錯吧！停車也方便的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in September 2023
+info:Friends
+info:12 Reviews
+rating:5
+posted:Posted September 18, 2023
+msg:湖景房正對着艾溪湖，清晨和黃昏景色很美
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in October 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 31, 2022
+msg:沒想到，酒店不但環境好，服務也很周到，在此特別感謝 熊嘉莉和餘樂樂（づ ●─● ）づ的幫助，我爸爸（=^▽^=）這次來玩的很開心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted November 30, 2022
+msg:優點：安靜，房間很好，健身房因疫情關閉有點可惜，早餐不錯
+不足：空調稍微差點，電視沒有投屏
+比價值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room - City-View (2 beds)
+info:Stayed in June 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted June 9, 2023
+msg:都很好，服務很貼心，還沒入住就準備了水果和酸奶
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 24, 2022
+msg:酒店環境優美，房間也很漂亮，裝修的風格我很喜歡，設施設備也很齊全，前台領班王成服務很周到細緻，很有耐心。熊主管也非常好，協助我辦理手續，專業便捷。總體都令我感到非常滿意！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in December 2022
+info:Business travelers
+info:92 Reviews
+rating:5
+posted:Posted December 21, 2022
+msg:酒店整體服務温馨，從前台到後勤服務人員，餐廳服務員都非常友善。期待下次繼續入住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Lake-view Double Room
+info:Stayed in February 2024
+info:Couples
+info:37 Reviews
+rating:5
+posted:Posted April 22, 2024
+msg:房間很新，很整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in October 2022
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted October 26, 2022
+msg:早餐豐富品種多好吃營養！前台服務態度好！尤其熊嘉莉主管熱情周到細緻的工作作風讓我們感覺倍加温暖賓至如歸。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in February 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted February 17, 2023
+msg:設施：非常好
+衞生：也很乾凈
+服務：前台王成和熊嘉莉服務好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 13, 2023
+msg:客服王成服務熱情周到！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in October 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 28, 2022
+msg:酒店環境設施良好，服務水平高。客房服務員及前台接待黃文鳳等服務温馨、到位。下次還住
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:4 Reviews
+rating:2.7
+posted:Posted March 10, 2024
+msg:大堂和游泳館太冷
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 27, 2022
+msg:一次很愉快的入住體繪，無論是服務還是是衞生房型及酒店內外環境，都值得強烈推薦，早餐非常豐富，價格也實惠
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room - Lake-View (2 beds)
+info:Stayed in February 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 16, 2022
+msg:這次回老公家看到旁邊是金陵酒店，旁邊是一個濕地公園酒店旁邊的側門能刷卡進入，因無錫也有金陵酒店所以立馬選擇了就住。一開始空調製熱有點慢客服拿來了油汀取暖器，後來温度升高後就關閉了。感謝小林的回訪，下次回家還會繼續選擇該酒店。
+----------------------------------------
+name:S‍o‍n‍g‍g‍o‍n‍g
+info:Lake-view Suite
+info:Stayed in December 2023
+info:Business travelers
+info:207 Reviews
+rating:5
+posted:Posted January 17, 2024
+msg:好很好非常好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted June 27, 2023
+msg:一流服務，一流位置，美如畫
+----------------------------------------
+name:Z‍h‍o‍n‍g‍a‍i‍X‍H
+info:Deluxe Lake-view Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 20, 2023
+msg:這是一家住過還會再住的酒店！
+設施和服務都非常棒！👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in September 2023
+info:Other
+info:1 Review
+rating:4.2
+posted:Posted September 9, 2023
+msg:沒有停車位，遺憾。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in May 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted July 7, 2023
+msg:房間寬敞、方便出行、環境優雅
+----------------------------------------
+name:l‍u‍c‍k‍y‍s‍t‍a‍r‍0‍2‍1‍0
+info:Superior Lake-view Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted June 16, 2023
+msg:非常好，性價比很高，早餐也很豐富
+----------------------------------------
+name:Q‍i‍n‍g‍w‍u‍f‍e‍i‍y‍a‍n‍g‍0‍8‍1‍7
+info:Superior Lake-view Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 13, 2023
+msg:環境蠻不錯！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in August 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted August 9, 2022
+msg:感謝酒店林子惠經理的熱情服務，我感到非常滿意，酒店環境很好，以後還會來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in April 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted June 23, 2023
+msg:很喜歡，還給安排了小寶貝床
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in January 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted January 5, 2022
+msg:前台熊嘉莉主管熱情接待，手續熟練，酒店安保措施到位，會指引停車和防疫掃碼，退房王成辦理迅捷。還有經理林小姐定期回訪，對酒店的服務態度非常滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Lake-view Double Room
+info:Stayed in October 2023
+info:Couples
+info:1 Review
+rating:2
+posted:Posted October 4, 2023
+msg:湖景還可以。
+----------------------------------------
+name:9‍5‍0‍7
+info:Superior Room - Lake-View (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted August 27, 2023
+msg:房間大，湖景贊
+----------------------------------------
+name:B‍a‍i‍j‍i‍n‍g‍j‍i‍a‍n‍g
+info:Superior Lake-view Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:20 Reviews
+rating:3.7
+posted:Posted September 30, 2023
+msg:周邊環境非常不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in August 2023
+info:Family
+info:12 Reviews
+rating:4.7
+posted:Posted October 10, 2023
+msg:配套設施齊全！
+----------------------------------------
+name:y‍-‍h‍o‍m‍e
+info:Superior Lake-view Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:24 Reviews
+rating:2.5
+posted:Posted December 28, 2021
+msg:位置有點偏 比較落魄了 保安亭連保安都沒有 隨便進出 酒店門口門僮也沒有 疫情的今天這酒店太不嚴謹了 前台服務也很一般 有辱金陵品牌
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Lake-view Double Room
+info:Stayed in March 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted March 8, 2022
+msg:林子惠經理服務態度好，酒店環境不錯，房間衞生打掃的也很乾凈，旁邊臨近艾溪湖濕地公園，空氣也清新
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room - City-View (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:35 Reviews
+rating:5
+posted:Posted November 29, 2022
+msg:特別是客户經理餘樂樂服務很周到，贊
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in October 2021
+info:Friends
+info:2 Reviews
+rating:1.7
+posted:Posted November 6, 2021
+msg:門鎖壞了，說了也沒人處理，半夜回去讓人陪著上樓去開鎖也不肯，讓自己先上去試試，折騰了半天，一句道歉的話也沒有，外窗玻璃還是碎的！ 5星價格，3星服務
+----------------------------------------
+name:A‍g‍e‍l‍a‍r‍u‍i‍y‍u‍c‍h‍i‍g‍o‍n‍g
+info:Comfy Twin Room
+info:Stayed in April 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted April 5, 2023
+msg:艾溪湖邊上，環境優美
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in July 2022
+info:Other
+info:5 Reviews
+rating:4
+posted:Posted August 6, 2022
+msg:酒店離南昌大學第一附屬醫院高新院區比較近，做核酸方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room - Lake-View (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted July 22, 2023
+msg:非常好非常好非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in January 2022
+info:Business travelers
+info:1 Review
+rating:4
+posted:Posted January 23, 2022
+msg:分配在最角落的房間，點了兩次外賣，衹能去大廳拿，説機器人送不到，挺不方便的。其他各方面還可以，有機會再去
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in August 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 6, 2022
+msg:環境好，周圍安靜，酒店寬敞，服務好評！強烈推薦😊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in January 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 19, 2022
+msg:辦理入住前台費玉清服務很作業熱情，入住時給送了水果酸奶，回訪電話的林經理服務也很好，沒有愧對金陵的牌子
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in November 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted November 17, 2021
+msg:酒店非常不錯，環境也很好，前台服務人員很熱情，幫忙解決各種問題。特別是林子惠，王成以及童瑤三位員工，特別感謝。以後還會考慮入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room - City-View (2 beds)
+info:Stayed in November 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted November 28, 2021
+msg:🧹衞生：乾淨整潔，打掃及時，服務到位
+🔔服務：酒店服務非常到位，特別感謝林子惠經理的熱心，服務專業，非常細心，認真負責！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 19, 2021
+msg:酒店贈送了小禮品，鄭芮手工製作的杯墊和金陵定製紀念玩偶很可愛，林子惠經理退房問候很親切，入住體驗感很好！
+----------------------------------------
+name:P‍a‍n‍c‍h‍a‍n‍g‍x‍i
+info:Superior Room - City-View (2 beds)
+info:Stayed in March 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 16, 2022
+msg:酒店服務態度很好，林子惠很專業，回訪及時，酒店環境很好，給經理林子惠點個贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in April 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted April 23, 2023
+msg:房間整潔服務周到
+----------------------------------------
+name:Y‍u‍n‍y‍o‍u‍s‍i‍h‍a‍i‍d‍e‍w‍o‍n‍i‍u
+info:Comfy Twin Room
+info:Stayed in August 2022
+info:Business travelers
+info:44 Reviews
+rating:5
+posted:Posted November 19, 2022
+msg:性價比很高，檔次高，早餐豐盛，強烈推薦
+----------------------------------------
+name:r‍a‍e‍1‍0‍0‍7
+info:Superior Room - City-View (2 beds)
+info:Stayed in August 2022
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted August 7, 2022
+msg:林子惠經理服務態度不錯，酒店環境也很好！
+----------------------------------------
+name:T‍o‍u‍m‍i‍n‍g‍x‍i‍n‍g‍k‍o‍n‍g
+info:Deluxe Lake-view Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted December 6, 2021
+msg:酒店環境不錯，很安靜，外出回來還看到桌上送了水果，冰箱裏還有贈送的酸奶，服務人員王成服務也很貼心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in March 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted March 9, 2022
+msg:酒店環境優美，經理林子惠專業周到，非常滿意的一次入住體驗！
+----------------------------------------
+name:s‍z‍b‍o‍c‍o‍m
+info:Deluxe Lake-view Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted August 21, 2021
+msg:周邊的環境還是非常的安靜 酒店的衞生也是不錯 前台人員的服務很好 因為是自駕去的  所以不知道那裡打車是否方便  還是值得推薦的！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in January 2022
+info:Business travelers
+info:37 Reviews
+rating:5
+posted:Posted January 13, 2022
+msg:酒店贈送了小禮品，退房手續辦理快捷，費玉清，林子惠服務很好，表揚!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in November 2021
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted December 2, 2021
+msg:酒店不錯，很寬敞，很安靜。
+前台小姐姐@劉彬彬 也很nice，
+期待下次入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in May 2023
+info:Friends
+info:20 Reviews
+rating:5
+posted:Posted May 16, 2023
+msg:很好的體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in January 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 30, 2022
+msg:賓客經理林子慧服務態度很好，全程很細心，很耐心的提供幫助。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in September 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 18, 2022
+msg:挺好的。
+又乾淨，衞生。
+----------------------------------------
+name:F‍a‍n‍g‍b‍i‍a‍n‍b‍i‍e‍r‍e‍n‍d‍e‍n‍g‍y‍u‍f‍a‍n‍g‍b‍i‍a‍n‍z‍i‍j‍i‍1‍1‍8
+info:Comfy Twin Room
+info:Stayed in January 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted January 17, 2022
+msg:非常滿意，餐廳也比較安靜，服務也非常熱情。林子恵經理非常專業
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in January 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted January 27, 2022
+msg:林子惠經理很周到，前台服務人員費玉清接待手續專業，都很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in December 2021
+info:Other
+info:27 Reviews
+rating:5
+posted:Posted December 19, 2021
+msg:酒店環境不錯裝修也很漂亮，經理林子惠很貼心，考慮客人的入住感受
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in February 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 25, 2022
+msg:工作人員王成非常給力，提前幫忙簽收了快遞，謝謝！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in March 2022
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted March 15, 2022
+msg:非常棒，還幫我升級了有陽台的房間，特別感謝前台
+----------------------------------------
+name:F‍e‍n‍g‍q‍i‍n‍g‍y‍a‍n‍g‍y‍i‍d‍i‍a‍n‍d‍i‍a‍n
+info:Comfy Twin Room
+info:Stayed in March 2023
+info:Business travelers
+info:44 Reviews
+rating:5
+posted:Posted April 19, 2023
+msg:酒店還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 13, 2023
+msg:很滿意，五分
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in December 2021
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted December 3, 2021
+msg:住的非常舒適，房間乾淨整潔，林子惠很有禮貌，服務非常周到細緻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted December 26, 2021
+msg:林子惠經理態度親切，入住期間感受良好，酒店環境不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room - Lake-View (2 beds)
+info:Stayed in May 2022
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted May 14, 2022
+msg:賓客經理林子惠服務意識很好👍🏻
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in May 2022
+info:Couples
+info:19 Reviews
+rating:5
+posted:Posted May 31, 2022
+msg:酒店總體不錯，林經理態度良好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in June 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted July 1, 2022
+msg:接待人員林經理服務非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in June 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted June 8, 2022
+msg:小林服務態度，服務品質很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted August 20, 2022
+msg:林經理服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in June 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 1, 2022
+msg:服務不錯，還有酸奶贈送
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted November 26, 2021
+msg:酒店乾淨衞生。
+前台劉栩栩服務周到，熱情耐心。
+----------------------------------------
+name:B‍o‍d‍e‍d‍a‍o‍j‍i‍m‍i
+info:Superior Room (2 beds)
+info:Stayed in December 2021
+info:Business travelers
+info:1 Review
+rating:4.5
+posted:Posted December 27, 2021
+msg:設施環境很好，就是偏了點，熊主管服務很好
+----------------------------------------
+name:C‍·‍F
+info:Superior Lake-view Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 26, 2021
+msg:前台熊嘉莉，林子惠服務好，下次還會入住！
+----------------------------------------
+name:r‍o‍c‍k‍y‍t‍o‍d‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in July 2021
+info:Couples
+info:24 Reviews
+rating:5
+posted:Posted November 4, 2021
+msg:酒店坐落在美麗的艾溪湖畔，湖景房的陽台景色非常不錯，性價比很高。
+----------------------------------------
+name:H‍a‍o‍h‍e‍z‍i‍x‍u‍n
+info:Deluxe Lake-view Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:10 Reviews
+rating:4
+posted:Posted June 16, 2021
+msg:我是晚上入住，整個酒店大堂太暗，沒看到迎賓和保安，估計一般女孩子都不敢進去。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in August 2021
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted December 3, 2021
+msg:林子惠業務辦理熟練，會考慮客人感受，後期回訪周到，很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room - City-View (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted November 20, 2022
+msg:條件不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in March 2022
+info:Business travelers
+info:94 Reviews
+rating:5
+posted:Posted March 9, 2022
+msg:很好，尤其是林子惠經理！！
+----------------------------------------
+name:S‍h‍u‍s‍h‍a‍n‍d‍a‍g‍e
+info:Superior Room - City-View (2 beds)
+info:Stayed in January 2022
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted January 14, 2022
+msg:環境特別好！落下東西還幫我快遞
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in August 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted December 2, 2021
+msg:酒店環境很好，經理林子惠服務周到，熱情大方！非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in December 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted December 5, 2021
+msg:前台林子惠小姐姐很熱情，住的很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in November 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 1, 2021
+msg:環境好，服務熱情，童謠經理服務好
+----------------------------------------
+name:R‍e‍n‍s‍h‍e‍n‍g‍h‍e‍c‍h‍u‍b‍u‍x‍i‍a‍n‍g‍f‍e‍n‍g‍5‍5‍9‍9
+info:Superior Room - Lake-View (2 beds)
+info:Stayed in December 2021
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted December 17, 2021
+msg:感謝前台林子惠周到細緻的服務。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in June 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 3, 2022
+msg:舒適安靜空間大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in November 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 18, 2021
+msg:酒店不錯，前台美女林子慧服務不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in September 2021
+info:Couples
+info:1 Review
+rating:5
+posted:Posted September 24, 2021
+msg:周邊環境挺好，住的人也少，就是價格略高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in September 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted December 4, 2021
+msg:挺好的，推薦。特別感謝林子惠的關心。
+----------------------------------------
+name:N‍i‍h‍a‍o‍s‍a‍n‍p‍i
+info:Comfy Twin Room
+info:Stayed in January 2022
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted January 7, 2022
+msg:酒店周邊環境好、服務好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Lake-view Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted June 12, 2021
+msg:房間訂完了，升級了一下，衞生，環境，都非常好，推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted June 10, 2021
+msg:小林小王服務很熱情，周到，下次還會選擇入住金陵。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in November 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted November 17, 2021
+msg:林子惠，王成服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in February 2022
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted February 6, 2022
+msg:環境好，特別舒適
+----------------------------------------
+name:F‍e‍n‍g‍d‍a‍g‍u‍i
+info:Comfy Twin Room
+info:Stayed in September 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 25, 2021
+msg:非常好，服務到位  貼心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in January 2022
+info:Business travelers
+info:48 Reviews
+rating:5
+posted:Posted January 25, 2022
+msg:很不錯的風景
+----------------------------------------
+name:A‍e‍r‍g‍e‍s‍i‍t‍u‍o‍l‍i‍w‍e‍n‍g‍x‍u‍x‍i‍a‍k‍e
+info:Comfy Twin Room
+info:Stayed in March 2022
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted April 1, 2022
+msg:周邊環境好
+----------------------------------------
+name:d‍a‍l‍e‍l‍e
+info:Comfy Twin Room
+info:Stayed in November 2021
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted November 28, 2021
+msg:林子惠服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Lake-view Double Room
+info:Stayed in October 2021
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted November 29, 2021
+msg:手工酸奶很好吃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in June 2021
+info:Friends
+info:10 Reviews
+rating:4.5
+posted:Posted July 2, 2021
+msg:還行吧很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Twin Room
+info:Stayed in June 2021
+info:Business travelers
+info:152 Reviews
+rating:5
+posted:Posted June 21, 2021
+msg:感覺非常舒服
+----------------------------------------

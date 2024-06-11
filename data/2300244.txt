@@ -1,0 +1,1350 @@
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2021
+info:Friends
+info:59 Reviews
+rating:5
+posted:Posted September 13, 2021
+msg:🔔Service: Not bad 666666666666666666666666666666666666666666666
+----------------------------------------
+name:K‍e‍y‍o‍u‍k‍e‍w‍u
+info:Business Standard Room
+info:Stayed in July 2021
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted July 27, 2021
+msg:The rooms are large and the facilities are luxurious. The carpets in the corridors are very thick. It is one of the best in the county hotel I have stayed in. And you can give your child a separate extra bed, the service is also very good!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted August 25, 2021
+msg:The environment is good and clean, the service is good, the breakfast is good, the facilities are quite new, and the comfort level is high. It is the first choice for business and family. It makes people feel like they want to come next time.
+----------------------------------------
+name:W‍o‍j‍i‍u‍b‍u‍q‍i‍m‍i‍n‍g‍z‍i
+info:Superior Double Room
+info:Stayed in April 2024
+info:Solo travelers
+info:212 Reviews
+rating:4.2
+posted:Posted April 18, 2024
+msg:在孝義屬於最好的酒店
+位置非常好，酒店大氣豪華，大廳氣派非凡。
+地上地下都有停車場，安全方便。
+酒店設施齊全，尤其是健身房配置科學完善，早餐也不錯。還有迎客水果和小點心。
+不足之處就是前台和餐廳服務員的服務意識需要提高，這麼好的硬件設施，沒有好的服務，實在可惜。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 26, 2024
+msg:出差路過孝義，進來大廳，行李生就幫我接了行李，進了大廳感覺挺氣派，到前台辦理完入住後，前台接待熱情的推薦了附近的好吃的，好玩的，酒店洗浴健身都有，挺方便的！非常滿意！關鍵是停車免費！值得推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 10, 2024
+msg:價格合理，物超所值，最喜歡這家酒店的氛圍，放鬆身心。服務人員細緻周到。一進門就有人引路，房間裏面乾淨整潔，住的特別舒服，強烈推薦！！！三個感歎號表達我的喜歡😻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in May 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted May 30, 2024
+msg:價格合理，服務周到，酒店大堂寬敞亮堂，服務員也很熱情接待，還有豐富的早餐味道也不錯，商務出行或者旅遊遊玩強烈推薦這家酒店
+----------------------------------------
+name:Z‍a‍n‍x‍i‍n‍g‍f‍u
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted April 13, 2024
+msg:出來旅遊路過孝義，住了一個晚上，在前台登記了房間，前台小姐姐挺熱情的，為我推薦了附近的旅遊的地方，上了房間看見被角也幫我掀開了，拖鞋也在床跟前放着，心裏挺暖的，不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted June 8, 2024
+msg:前台的小姐姐真的好温柔呀，方方面面都想得很周到，而且需要啥都給安排的明明白白。下次還來帝豪
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted April 17, 2024
+msg:環境優美感受到了温馨，特別是我們總枱的服務與熱情和招待，很棒，為我們總枱小姐姐點贊👍，包括房間也很美，太棒了，以後推薦帝豪酒店，下次再來
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 27, 2024
+msg:酒店乾淨寬敞明亮，裝修豪華，服務好熱情，早餐搭配很好味道也不錯餛飩好吃，非常滿意值得推薦
+----------------------------------------
+name:F‍e‍n‍g‍y‍i‍y‍u
+info:Superior Double Room
+info:Stayed in June 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted June 3, 2024
+msg:酒店的早餐種類多豐富，味道美味可口，服務周到細緻特別好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Other
+info:1 Review
+rating:4.7
+posted:Posted April 7, 2024
+msg:大廳很漂亮，還特意和朋友拍了照。晚上吃完飯回去看到有贈送的水果和零食，很貼心，服務員姐姐還留了温馨提示，贊一個
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted April 17, 2024
+msg:酒店位置可以，停車很方便，入住期間貼心送了水果還有温馨的問候，房間寬敞住的很舒適很滿意.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 22, 2024
+msg:位置可以，停車很方便，前台辦理時態度很好，很耐心的給我辦理！房間住的很滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted April 13, 2024
+msg:早餐很豐富，味道棒棒噠！下次首選這家，服務也很熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted May 27, 2024
+msg:孝義最後最高檔的五星級酒店 硬件很好 住的也非常舒服 裝修比較豪華 歐式風格 前台人員也非常熱情 很有禮貌 微信服務也很好 房間還有浴缸    
+空調 房間打掃也很快 服務非常好 下次還住這
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in May 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted May 28, 2024
+msg:設施比較歐式風格，餐飲很豐盛，早餐很豐富，衞生很整潔，環境氛圍感很好，能讓人心曠神怡，服務態度很好，處理問題很積極，經常來孝義，住的酒店裡帝豪算交通便利，也很適合跟家人朋友聚餐的好去處。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted April 28, 2024
+msg:衞生：房間衞生乾淨
+服務：意想不到的好，衹是在前台辦理聊了幾句知道生理期不舒服出乎意料的隨後就給送了薑糖，太暖心了服務很周到
+設施：設備用的東西很齊全
+環境：環境整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 13, 2024
+msg:環境不錯，早餐也很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 16, 2024
+msg:這次的旅行，我選擇了這家酒店，體驗非常棒！酒店位置便利，服務人員熱情周到，房間乾淨舒適，設施完善。早餐種類豐富，味道也很棒。強烈推薦給需要住宿的朋友們！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted May 27, 2024
+msg:房間很温馨，還送了水果，空調系統很好，房間裏不熱，前台服務很熱情，早餐也很豐盛，總之十分滿意，每次都是這家酒店還有免費淋浴和健身，服務細節很到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in June 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted June 2, 2024
+msg:酒店位置好很不錯，免費停車場寬敞出入很方便，在房間點餐也很快就送到房間菜品味道不錯很滿意，完了打電話通知收餐也沒有拖延效率高，入住非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2023
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted November 2, 2023
+msg:房間衞生可以服務態度好環境很好值得讚賞設施先進給了一種舒適的環境如果再有下次還來給了一種舒適的環境值得讚賞
+----------------------------------------
+name:G‍u‍n‍C‍r‍a‍z‍y‍_‍w‍e‍i‍j‍i‍e
+info:Superior Double Room
+info:Stayed in February 2024
+info:Solo travelers
+info:19 Reviews
+rating:5
+posted:Posted February 23, 2024
+msg:寬敞舒適，乾淨
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted October 6, 2023
+msg:應該安裝好usp擦頭，冰箱也應該有電，需要用的時候，更方便，壓縮小毛巾也能免費提供兩個或者四個，更好些
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in June 2024
+info:Couples
+info:64 Reviews
+rating:3.5
+posted:Posted June 3, 2024
+msg:酒店位置好，進出城方便，停車方便，中餐菜品不錯。
+不足：強制刷臉，全國都取消了，説她們酒店沒接到通知。淋浴間有尿騷味。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in November 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted November 17, 2023
+msg:房間
+環境不錯，乾淨衞生，設備齊全，住店首先
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2023
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted November 17, 2023
+msg:環境非常，住着舒服，去孝義首先酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted April 30, 2024
+msg:入住過好多次了，酒店的小姐姐們熱情，連保潔阿姨都態度很好，每次入住都體驗不錯。酒店的房間打掃的非常乾淨，環境也非常優雅。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 23, 2024
+msg:酒店位置好很不錯，免費停車場寬敞出入很方便，跟朋友餐廳點餐菜品味道都不錯很滿意，環境衞生乾淨，入住很滿意的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 26, 2024
+msg:酒店裝修豪華，帶着長者入住酒店走路不方便行李生很熱心的推輪椅幫忙，辦理完入住手續一直送到房間很温暖服務很到位點贊👍🏻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 12, 2023
+msg:酒店裝修很大氣，停車非常方便，前台服務挺好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 20, 2024
+msg:環境舒適，服務態度也很好，二樓餐廳的飯菜也挺不錯，早餐非常豐富，前台辦理態度很有耐心，總體評價值得入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 27, 2024
+msg:前台服務好  衞生乾淨，床很舒服床墊舒適，入住還可以免費健身很好，辦公停車出入很方便，總之入住很滿意
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted April 16, 2024
+msg:哼好非常好太好了太好了太了太好了太好了太好了太好了太好了太好了太好了太好了太好了太好了太好了太好了太
+----------------------------------------
+name:J‍i‍a‍n‍j‍i‍n‍g‍L‍L
+info:Superior Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:44 Reviews
+rating:3.5
+posted:Posted April 3, 2024
+msg:這個價位的房子，這樣的服務，真是讓人意外。前台別看人多，亂糟糟一堆，連個會客氣説話的都沒有，更別説微笑服務了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in May 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 25, 2024
+msg:服務很好 周到，設施齊全，衞生也很乾凈，地理位置不錯，床睡的非常舒服早餐味道很好.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in May 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 29, 2024
+msg:酒店早餐種類豐富，味道可口，服務周到，中式早餐和麪包點心水果都有提供，很貼心
+----------------------------------------
+name:C‍o‍n‍g‍s‍h‍e‍n‍z‍h‍u‍z‍h‍u‍o‍m‍a‍o‍�‍�
+info:Superior Double Room
+info:Stayed in February 2024
+info:Couples
+info:9 Reviews
+rating:3.5
+posted:Posted February 18, 2024
+msg:房型還不錯，前台的招待不是很熱情，但是進門敲門還是很規範的。早餐在一層，覺得菜品不是很豐盛。能吃的不是很多
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 15, 2024
+msg:非常好 環境很美 服務態度好前台的小姐姐人美心善溝通很順暢舒服 體驗感非常好
+----------------------------------------
+name:Q‍i‍a‍n‍f‍e‍n‍g‍r‍o‍n‍g‍r‍u‍o
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 11, 2024
+msg:寬敞整潔，設施較為齊全，有浴缸和完整的盥洗消耗品。是一次較為滿意的入住體驗。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 1, 2024
+msg:入住體驗很滿意，酒店服務態度很好，乾淨住的很舒適，還可以免費健身
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 26, 2024
+msg:前台服務好  衞生乾淨  有免費停車場，位置好出入很方便很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 22, 2024
+msg:非常滿意，不愧是孝義頂級酒店，不管服務還是環境都讓人很滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted May 16, 2024
+msg:房間乾淨整潔 床很舒服  東西很齊全  環境讓人很舒服
+----------------------------------------
+name:ღ‍᭄‍C‍z‍h‍u‍l‍a‍n‍y‍i‍n‍x‍u‍g‍u‍o
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted April 17, 2024
+msg:整體環境優美，前台至客房服務都不錯，為酒店服務人員點贊！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 2, 2024
+msg:環境衞生乾淨整潔，服務也好，環境不錯，值得推薦。
+----------------------------------------
+name:d‍h‍b‍1‍9‍8‍0‍1‍3
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:51 Reviews
+rating:3
+posted:Posted May 6, 2024
+msg:對縣級市來説。這個酒店不錯了。就是早餐簡單了點。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 18, 2024
+msg:環境不錯服務態度特別好設施也不錯整體挺喜歡的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 24, 2024
+msg:挺好的，前台到房務都很熱情，停車也方便，很滿意！
+----------------------------------------
+name:K‍e‍e‍ ‍Y‍o‍n‍g‍ ‍W‍a‍h
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Business travelers
+info:16 Reviews
+rating:4.5
+posted:Posted May 4, 2024
+msg:前台和經理非常友善五星！但每個房間通道都有煙味。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 21, 2024
+msg:設施：高檔
+衞生：很好
+環境：優美
+服務：優質
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 13, 2024
+msg:服務態度體貼，衞生乾淨，給人特舒服的感覺。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in February 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted February 24, 2023
+msg:非常滿意 下次再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:4.7
+posted:Posted May 10, 2024
+msg:還可以，服務很好，喝多了，很熱心的幫忙。
+----------------------------------------
+name:C‍h‍u‍i‍m‍u‍y‍e‍b‍e‍n
+info:Superior Standard Room
+info:Stayed in September 2022
+info:Couples
+info:74 Reviews
+rating:5
+posted:Posted September 27, 2022
+msg:房間很大，設施齊全，衞生很好，早餐很豐富，停車方便。就是屋裡熱蓋不了被子，要了兩個被罩蓋，床墊有點硬，衞生間淋浴房下水不暢需要舒通一下了。總體上還是很好的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in May 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted May 18, 2024
+msg:設施：安全
+衞生：乾淨
+環境：態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in August 2023
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted September 4, 2023
+msg:房間很好，衞生也好，服務貼心，交通方便，酒店很氣派。早餐挺好的，品種多樣，中西歺結合，挺好的。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2022
+info:Family
+info:10 Reviews
+rating:2.2
+posted:Posted August 7, 2022
+msg:這是我住過的最差的“五星級”酒店，空有五星級酒店的名字和設施，卻不明白撐起五星級酒店的是以人為本的服務理念，對細節的追求。自入住至退房進進出出無人理睬，停車時沒有車輛停到引導人員，一大早卻打電話命令調車，衹因為車頭方向和同排車不一致，估計是影響了美觀性擔心上級責備吧。我説“命令”毫不誇張，從未有過類似“請”之類的文明用語，原話居然是“你住這兒就得遵守這兒的規矩”。我不明白保安哪來的自信，這是當地江湖五星黑店嗎？！
+       更意外的是餐廳杯子上風乾的菜葉，我真的第一眼當成了杯子上的花紋，更不必説那些需要真正用心的細節。洗手間是按照星級酒店裝的，水龍頭得很使勁兒才能打開，沖馬桶必須按到底超過3秒才能出水。。。。這樣的細節太多了，住過的最差的五星級酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:3.2
+posted:Posted August 24, 2023
+msg:房間有點老，服務還不錯，早餐太差勁，一個人58但是種類太少，我九點去的已經沒什麼東西了，太不值
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:67 Reviews
+rating:4.5
+posted:Posted May 25, 2024
+msg:裝修風格不太適應 其他還算比較方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted April 15, 2024
+msg:總枱服務熱情，早餐豐盛，禮貌，停車免費
+----------------------------------------
+name:R‍u‍m‍e‍n‍g‍s‍i‍r‍u‍o‍c‍a‍i‍h‍o‍n‍g
+info:Superior Double Room
+info:Stayed in January 2023
+info:Business travelers
+info:1 Review
+rating:1
+posted:Posted January 23, 2023
+msg:因為工作原因，沒少在外出差入住不同酒店，這次入住自詡孝義最好的老牌酒店，入住體驗如下:
+1.整個酒店裝修完全是土豪風格，這個因人所異吧，有人覺得不錯，有人覺得土
+2.前台服務員非常不專業，我辦理入住的時候表達過選擇了升級房間服務，但服務員根本不知曉活動
+3.整個酒店的硬件真的是非常差了，門鎖不上，空調沒有，房間温度能達到32度，房間地毯常年不清洗特別臟，包括酒店的浴巾毛巾等等
+btw:當拿不準住哪個酒店的時候，真心推薦入住全國連鎖的品牌酒店，管理制度和體系比較完善，就算沒啥亮點起碼不會踩坑，謹慎選擇當地老牌酒店！！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in September 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted September 16, 2023
+msg:房間住的很滿意，
+環境：很優美，又安靜，大廳裝修很豪華，很有檔次！值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 29, 2024
+msg:衞生：乾淨整潔
+
+服務：滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 22, 2023
+msg:服務態度特別好，我住店期間丟了東西，領班幫我又查監控又聯繫人，最後終於幫我找到，真心感謝
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted May 16, 2024
+msg:房間乾淨舒適，很喜歡，
+----------------------------------------
+name:C‍a‍i‍c‍a‍i
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:4.8
+posted:Posted May 4, 2024
+msg:好好
+設施：wans
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in August 2023
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted August 26, 2023
+msg:在小城市裡它是高大上，衞生一般，服務一般，早餐滿意。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2024
+info:Solo travelers
+info:68 Reviews
+rating:4.5
+posted:Posted January 20, 2024
+msg:在孝義算不錯了，當地老牌酒店。
+----------------------------------------
+name:L‍u‍o‍b‍i‍n‍w‍e‍i
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Other
+info:12 Reviews
+rating:1
+posted:Posted April 3, 2024
+msg:設施老化，怪味十足！
+----------------------------------------
+name:N‍a‍n‍n‍a‍n‍f‍e‍n‍g‍f‍e‍n‍g
+info:Superior Standard Room
+info:Stayed in July 2022
+info:Business travelers
+info:7 Reviews
+rating:3
+posted:Posted August 14, 2022
+msg:應該算是孝義比較貴的酒店了🏨。
+環境：總體來説還可以，屬於當地高檔次的酒店，房間比較大！
+服務：入住當天的服務就一般吧！健身房很晚才開門不能用，洗浴中心也就那樣，搓澡挺貴的。但是我的耳機🎧掉到房間忘拿了，前台主動聯繫提醒我並快遞給我了。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in March 2023
+info:Solo travelers
+info:2 Reviews
+rating:3
+posted:Posted April 7, 2023
+msg:一般吧 服務沒有達到五星級標準 而且設施比較老舊 工作人員好像沒怎麼培訓過。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 27, 2024
+msg:環境服務特別好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:3.5
+posted:Posted August 18, 2023
+msg:裝修很豪華，房間一般，有點小貴，其它還好
+----------------------------------------
+name:w‍t‍y‍_‍l‍d
+info:Superior Standard Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 7, 2023
+msg:歐式風格，住着舒服，早餐豐富，咖啡好喝
+----------------------------------------
+name:C‍h‍y‍s‍7‍2‍1‍0
+info:Superior Standard Room
+info:Stayed in September 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted December 18, 2023
+msg:房間設施、衞生整潔乾淨，好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in September 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted September 28, 2023
+msg:很好，非常滿意 環境好服務好
+----------------------------------------
+name:l‍y‍z‍1‍9‍7‍9
+info:Superior Standard Room
+info:Stayed in September 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted September 2, 2023
+msg:房間很好很温馨，服務態度非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 2, 2024
+msg:不錯 這地方
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:挺好吧，推薦
+----------------------------------------
+name:J‍i‍a‍n‍g‍h‍u‍d‍u‍g‍u‍k‍e
+info:Superior Double Room
+info:Stayed in July 2023
+info:Solo travelers
+info:14 Reviews
+rating:5
+posted:Posted September 3, 2023
+msg:來過三四次了，喜歡懷舊一直住在這裏
+----------------------------------------
+name:X‍u‍n‍d‍a‍o‍f‍e‍i‍x‍i‍a‍n‍g‍n‍i‍u‍l‍i
+info:Superior Standard Room
+info:Stayed in February 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:挺好，環境不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted May 3, 2022
+msg:不錯，挺滿意的，以後還會來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in October 2023
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted January 6, 2024
+msg:房間還可以，下次還去
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted November 18, 2023
+msg:衞生整潔，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in February 2024
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:很不錯！很好
+----------------------------------------
+name:s‍p‍r‍i‍n‍g‍_‍i‍c‍e
+info:Superior Standard Room
+info:Stayed in October 2023
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted December 24, 2023
+msg:略顯冷清，其他沒毛病
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2024
+info:Solo travelers
+info:18 Reviews
+rating:5
+posted:Posted March 10, 2024
+msg:停車很方便
+----------------------------------------
+name:J‍u‍z‍i‍z‍h‍o‍u‍t‍o‍u‍7
+info:Superior Standard Room
+info:Stayed in November 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted November 25, 2023
+msg:非常滿意，很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted September 20, 2023
+msg:不錯，挺好，很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in August 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted August 16, 2023
+msg:房間比較大，非常滿意
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted September 5, 2023
+msg:服務好。強烈推薦
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2024
+info:Business travelers
+rating:4
+posted:Posted March 13, 2024
+msg:不錯，可以
+----------------------------------------
+name:W‍i‍n‍n‍i‍h‍u‍y‍a
+info:Superior Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:4.5
+posted:Posted November 6, 2023
+msg:房間很乾凈，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 18, 2023
+msg:服務：前台很熱情還非常有耐心！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 31, 2023
+msg:乾淨衞生。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in June 2023
+info:Solo travelers
+info:9 Reviews
+rating:5
+posted:Posted June 22, 2023
+msg:房間不錯，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in July 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted September 15, 2023
+msg:一如既往的温馨！
+----------------------------------------
+name:K‍e‍e‍r‍n‍u‍o‍y‍i‍n‍t‍o‍n‍g
+info:Superior Standard Room
+info:Stayed in August 2023
+info:Business travelers
+info:6 Reviews
+rating:4
+posted:Posted September 18, 2023
+msg:還好就是有點老
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 8, 2023
+msg:挺舒適，方便
+----------------------------------------
+name:C‍o‍n‍g‍Y‍k‍a‍i‍s‍h‍i
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 23, 2023
+msg:位置條件各方面都好
+----------------------------------------
+name:g‍z‍l‍0‍0‍0‍1
+info:Superior Standard Room
+info:Stayed in May 2022
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted May 17, 2022
+msg:每次出差常住酒店，前台接待熱情周到，酒店早餐豐盛，乾淨衞生，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in July 2023
+info:Booked for others
+info:32 Reviews
+rating:5
+posted:Posted July 25, 2023
+msg:服務還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2022
+info:Family
+info:47 Reviews
+rating:5
+posted:Posted August 8, 2022
+msg:孝義最好的酒店了吧，第二次入住，還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2023
+info:Booked for others
+info:5 Reviews
+rating:5
+posted:Posted February 14, 2023
+msg:好。很好，非常好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2022
+info:Other
+info:8 Reviews
+rating:5
+posted:Posted March 14, 2022
+msg:交通方便，房間舒適衞生，服務人員熱情，樂於幫助，值得獎勵。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted August 14, 2023
+msg:非常好👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in June 2022
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted June 16, 2022
+msg:房間衞生乾淨，前台服務很好，值得推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in July 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted July 20, 2022
+msg:給公司總監定的，説環境很好，很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in May 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 18, 2023
+msg:環境挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted March 5, 2022
+msg:每次去孝義都入住帝豪，裝修豪華，房間比較大，服務更好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in May 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted June 17, 2023
+msg:特別滿意的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in March 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 8, 2023
+msg:環境優美！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in August 2022
+info:Other
+info:24 Reviews
+rating:5
+posted:Posted October 4, 2022
+msg:服務周到，非常滿意。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2021
+info:Business travelers
+info:49 Reviews
+rating:5
+posted:Posted October 2, 2021
+msg:服務很好，環境很乾凈，上次來也是住這裏，交通比較方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted June 16, 2022
+msg:裝修服務位置都很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in August 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 23, 2022
+msg:環境好，服務優
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in September 2021
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted September 16, 2021
+msg:🧹衞生：好
+🚗 交通：好
+🍃環境：好
+🔔服務：好
+----------------------------------------
+name:D‍a‍i‍b‍b‍b‍b
+info:Business Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:29 Reviews
+rating:5
+posted:Posted June 29, 2022
+msg:挺好的 環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted August 3, 2022
+msg:很好 非常好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2021
+info:Friends
+info:22 Reviews
+rating:5
+posted:Posted November 3, 2021
+msg:算是呂梁唯一的五星級酒店了，入住舒適，酒店餐廳口味不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in July 2021
+info:Business travelers
+info:34 Reviews
+rating:1
+posted:Posted July 24, 2021
+msg:真心説一般！房間被子很潮，我很納悶山西很潮嗎？
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 11, 2022
+msg:酒店房間不錯
+----------------------------------------
+name:L‍c‍t‍y
+info:Superior Standard Room
+info:Stayed in February 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted February 23, 2022
+msg:服務非常好 值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in November 2021
+info:Business travelers
+info:2 Reviews
+rating:4.5
+posted:Posted November 24, 2021
+msg:雖是五星級，有提升的空間
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:48 Reviews
+rating:5
+posted:Posted August 26, 2021
+msg:🚗 交通：方便，在市區邊上不堵車
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 10, 2022
+msg:非常好的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted July 24, 2021
+msg:停車方便，酒店環境衞生整潔！
+----------------------------------------
+name:S‍h‍i‍g‍u‍i‍y‍u
+info:Superior Double Room
+info:Stayed in June 2021
+info:Other
+info:54 Reviews
+rating:5
+posted:Posted June 22, 2021
+msg:服務周到、早餐豐盛、停車方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2021
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted October 6, 2021
+msg:不愧為孝義最高檔的酒店。
+----------------------------------------
+name:C‍i‍p‍i‍n‍g‍f‍e‍i‍b‍i‍p‍i‍n‍g
+info:Superior Standard Room
+info:Stayed in July 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 17, 2021
+msg:地理位置相當好，房間夠大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2021
+info:Business travelers
+info:115 Reviews
+rating:4
+posted:Posted July 15, 2021
+msg:還可以，吃飯，停車都很方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in August 2021
+info:Business travelers
+info:49 Reviews
+rating:4
+posted:Posted December 6, 2021
+msg:基本滿意，感覺不錯
+----------------------------------------
+name:Z‍s‍0‍5‍1‍9
+info:Superior Double Room
+info:Stayed in January 2022
+info:Friends
+info:25 Reviews
+rating:4
+posted:Posted January 13, 2022
+msg:住的還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in December 2021
+info:Business travelers
+info:28 Reviews
+rating:4
+posted:Posted December 30, 2021
+msg:早餐還行吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in November 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 13, 2021
+msg:好好好好好好
+----------------------------------------
+name:2‍0‍2‍1‍-‍h‍a‍o‍n‍a‍n‍r‍e‍n
+info:Superior Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted November 16, 2021
+msg:乾淨衞生整潔
+----------------------------------------
+name:M‍e‍g‍a‍t‍r‍o‍n‍R‍s
+info:Superior Standard Room
+info:Stayed in July 2021
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted November 12, 2021
+msg:房間挺大，設施陳舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:52 Reviews
+rating:5
+posted:Posted December 12, 2021
+msg:確實挺不錯的
+----------------------------------------
+name:C‍o‍n‍g‍r‍o‍n‍g
+info:Superior Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:47 Reviews
+rating:5
+posted:Posted August 25, 2021
+msg:【家庭主題房】
+----------------------------------------
+name:O‍w‍e‍n‍H‍a‍o
+info:Superior Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:96 Reviews
+rating:5
+posted:Posted July 2, 2021
+msg:比較温馨，裝修OK
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted November 3, 2021
+msg:一般般的啦
+----------------------------------------
+name:s‍m‍i‍l‍e‍_‍l‍y‍l
+info:Superior Suite
+info:Stayed in July 2021
+info:Booked for others
+info:16 Reviews
+rating:5
+posted:Posted July 22, 2021
+msg:還可以吧不錯
+----------------------------------------
+name:W‍o‍k‍a‍n‍b‍u‍j‍i‍a‍n
+info:Superior Double Room
+info:Stayed in July 2021
+info:Friends
+info:74 Reviews
+rating:5
+posted:Posted December 14, 2021
+msg:環境舒適！
+----------------------------------------
+name:H‍e‍n‍g‍s‍h‍a‍n‍g‍u‍a‍n‍h‍a‍n‍q‍i‍n‍g
+info:Superior Standard Room
+info:Stayed in January 2021
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted June 11, 2021
+msg:嚕啦嚕啦嘞旅途突突突
+----------------------------------------

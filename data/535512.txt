@@ -1,0 +1,3538 @@
+name:X‍i‍n‍j‍i‍a‍p‍o‍m‍i‍n‍g‍y‍u‍z‍h‍e‍n
+info:Selected 2-bed Room
+info:Stayed in October 2023
+info:Friends
+info:3 Reviews
+rating:3.7
+posted:Posted October 17, 2023
+msg:The facilities are relatively old, but the service attitude is good and the staff basically greet guests with a smile.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2024
+info:Family
+info:62 Reviews
+rating:3.7
+posted:Posted April 24, 2024
+msg:It's an old hotel, the basics are OK, but it's aging badly.
+----------------------------------------
+name:e‍1‍1‍1‍9‍3‍4‍1‍3
+info:Selected 2-bed Room
+info:Stayed in September 2023
+info:Business travelers
+rating:3.2
+posted:Posted September 24, 2023
+msg:The KTV downstairs is very noisy at night, which affects your sleep. The front desk staff has a bad attitude. It is not recommended for those who have high requirements for sleeping environment.
+----------------------------------------
+name:D‍o‍n‍G‍e‍g‍e
+info:Superior Queen Room
+info:Stayed in September 2023
+info:Business travelers
+info:4 Reviews
+rating:2.2
+posted:Posted September 25, 2023
+msg:The staff's service is good, but the ventilation in the room is too poor, and it smells like toilet sewerage. Opening the windows for a day is of no use. Sharing the elevator with the restaurant, the elevator was full of drunks during the banquet
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:28 Reviews
+rating:3.5
+posted:Posted June 2, 2024
+msg:Older hotel, but hotel service is good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2023
+info:Solo travelers
+info:10 Reviews
+rating:3
+posted:Posted May 28, 2023
+msg:Facilities: The hotel is a very old hotel. It has not been renovated in nearly 10 years. The hygiene is average: there is a smell when you enter. The night tea on the third floor is expensive and not delicious. I don’t recommend it to everyone.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in March 2024
+info:Couples
+info:28 Reviews
+rating:3
+posted:Posted March 30, 2024
+msg:The location is pretty good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in August 2022
+info:Business travelers
+info:7 Reviews
+rating:3
+posted:Posted August 26, 2022
+msg:When I checked in, I was refused a driver's license. I had to ask for a physical ID. This was the first time I encountered it. It was very bad! When checking in and checking out, the front desk looked impatient, as if they owed them millions, and their attitude was extremely bad! After registering, I threw my room card away and ignored anyone. At least tell me which floor, where the elevator is, what time is breakfast, and what floor is breakfast? ! Is this the service of a star hotel? ? Other hotels will give you some snacks and fruits, but everything in the room here costs money. Boss, how poor are you? ? I will never stay here again, I will block you for life! Lose Maoming’s face!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in March 2024
+info:Family
+info:10 Reviews
+rating:3
+posted:Posted March 14, 2024
+msg:Room for improvement.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in December 2022
+info:Couples
+info:27 Reviews
+rating:1
+posted:Posted February 7, 2023
+msg:No experience, no service, old facilities and equipment, poor sound insulation in the room, noisy decoration early in the morning, seriously affecting sleep
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2022
+info:Business travelers
+info:1 Review
+rating:3.2
+posted:Posted April 17, 2022
+msg:For a person who travels for a long time, he really rarely reviews hotels. But this time I really want to complain. As an old hotel, it seems to be the only five-star hotel in Maoming. Apart from the good location, the price is really not worth it. First of all, the doorman was very rude when greeting guests, which ruined the first impression. The second is breakfast, as shown in the picture. In the name of epidemic prevention, this kind of breakfast is served. Think again about your price. The staff will pretend not to see you when they come face to face, and they won't say hello. For people who stay in the hotel for a long time, they feel that it is really much worse than other hotels of the same level. The only good thing is that the aunt who cleans the room is quite kind and polite. I guess I won’t stay here next time
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:2.2
+posted:Posted April 24, 2023
+msg:The service was so bad, I won’t stay here again!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:7 Reviews
+rating:3.7
+posted:Posted September 10, 2022
+msg:I stayed in room 1132. I was not assigned to the executive floor (12th-13th floor) that I booked, and it was only non-smoking.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2023
+info:Other
+info:2 Reviews
+rating:2
+posted:Posted February 22, 2023
+msg:Maoming's hotel routine is too deep
+----------------------------------------
+name:X‍i‍a‍o‍h‍u‍a‍n
+info:Superior Queen Room
+info:Stayed in August 2023
+info:Couples
+info:12 Reviews
+rating:2.2
+posted:Posted November 21, 2023
+msg:It's old, no way
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2022
+info:Business travelers
+info:6 Reviews
+rating:3.5
+posted:Posted June 15, 2022
+msg:It's an old hotel, the rooms have a musty smell, but the facilities are old.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in November 2022
+info:Business travelers
+info:9 Reviews
+rating:3.5
+posted:Posted February 22, 2023
+msg:The hotel is aging and the service is OK
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:5 Reviews
+rating:3
+posted:Posted March 9, 2023
+msg:General in all aspects
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in December 2022
+info:Business travelers
+info:8 Reviews
+rating:2
+posted:Posted December 15, 2022
+msg:Poor service attitude
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in May 2024
+info:Couples
+info:74 Reviews
+rating:5
+posted:Posted May 17, 2024
+msg:房間寬敞明亮，舒適整潔，設施齊全，配套設施完善，服務人員熱情周到，有求必應。早餐菜品齊全，適合自己的口味。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2024
+info:Couples
+info:27 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:酒店很好！高端大氣！房間温馨舒適，佈局合理。酒店位置也不錯，酒店樓下有一家牛肉火鍋很好！家庭出遊，性價比不錯的酒店。
+----------------------------------------
+name:X‍i‍a‍o‍x‍i‍a‍o‍d‍a‍n‍g‍j‍i‍a
+info:Selected 2-bed Room
+info:Stayed in December 2023
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted December 11, 2023
+msg:房間環境非常的不錯，很温馨，還有房間的茶具是實用，對於喝茶的人來説非常的方便！另外酒店的整體環境還不錯，酒店的大堂也很氣派！
+----------------------------------------
+name:s‍a‍r‍a‍h‍8‍9‍4‍8
+info:Executive Business Twin Room
+info:Stayed in March 2024
+info:Family
+info:4 Reviews
+rating:3.7
+posted:Posted March 24, 2024
+msg:每次回茂名都會來這住，因為一直覺得服務不錯。這次回來感覺之前的温度已經不在，退房的時候有5,6個客人在等，衹有一個小妹在匆忙的服務，旁邊一個不知道是大堂經理還是什麼衹知道在笑，一直沒有上前疏導。過了好一會兒才從裏面出來一男一女，男的直接推給了女的。這樣的服務下次回來準備換個酒店了
+----------------------------------------
+name:T‍i‍m‍y‍C‍h‍e‍n
+info:Selected 2-bed Room
+info:Stayed in August 2023
+info:Family
+info:28 Reviews
+rating:5
+posted:Posted November 3, 2023
+msg:好很好很好很好很好很好很好很好很好很好很好很好很好很好好很好很好很好很好很好很好很好很好很好很好很好很好很好好很好很好很好很好很好很好很好很好很好很好很好很好很好好很好很好很好很好很好很好很好很好很好很好很好很好很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in December 2023
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted December 21, 2023
+msg:這次入住茂名國際大酒店感到很舒心，不僅酒店外觀美而且客房也很棒，設施也不錯，感到最滿意的是酒店人員素質高，熱情周到，特別是前台那位帶眼鏡的靚女服務態度甚好，熱心熱情幫我們解決原房間滲水調換了一間更好的客房，特此表示感謝，謝謝了，下次來茂名仍住國際大酒店。
+----------------------------------------
+name:w‍i‍n‍d‍k‍y‍2‍2
+info:Superior Queen Room
+info:Stayed in April 2023
+info:Family
+info:42 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:地理位置好，設施齊全，客房服務員也勤快，一天估計要收拾兩次（客人入住後晚餐時間她們應該又進去整理過房間，更換了毛巾，擦手巾）
+自助餐也可以，但那個熱食的湯粉鍋當天壞了一段時間，導致我吃不了湯粉，另外，那個熱食廚師（和湯粉同一個人），我交待做兩個單面荷包蛋，然後我其他食品都準備好了，回去拿發現沒有給我煎，問，就是忘記了！不好意思。我碟子都放那裡等了！！！哎！
+無奈，趕火車，衹能在那上面的雙面超熟的蛋裏夾了兩個，太熟了太熟了太熟了，不好吃不好吃不好吃！！！
+其他食品還是蠻齊全的。
+但好像看不到咖啡（也許是我急，看不到），現磨的就更沒有看到了。酒店請回應一下，是我看漏了嗎？
+----------------------------------------
+name:N‍i‍z‍i
+info:Superior Queen Room
+info:Stayed in December 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted December 28, 2023
+msg:房間的性價比在茂名來説還是比較好的，也算是老牌子的酒店了，算是在市中心的位置，周邊衣食住行都是非常方便的，無論是旅遊還是商住，選這家酒店還是很不錯的。
+設施：相對還是比較齊全的。
+衞生：也是做的還不錯。
+環境：周邊吃的地方還是很多的，稍微走幾步就有南越文創街，很多地道美食。
+服務：一般酒店的服務基本都齊全。
+----------------------------------------
+name:S‍h‍e‍n‍x‍i‍n‍g‍z‍h‍e‍2
+info:Selected 2-bed Room
+info:Stayed in March 2024
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted March 12, 2024
+msg:設施：齊全，雖然是老酒店，但保養很好
+衞生：衞生乾淨
+環境：整潔乾淨
+服務：服務周到
+周邊配套齊全，吃喝玩樂全都有，交通十分方便，停車位夠。
+----------------------------------------
+name:B‍u‍s‍h‍i‍h‍a‍o‍c‍h‍i‍d‍e‍t‍u‍z‍i
+info:Superior Queen Room
+info:Stayed in October 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:早餐: 品種繁多
+環境：乾淨整潔
+設施：齊全
+服務：好
+----------------------------------------
+name:T‍i‍a‍n‍t‍i‍a‍n‍h‍a‍o‍x‍i‍n‍q‍i‍n‍g‍-‍t‍y
+info:Selected 2-bed Room
+info:Stayed in August 2023
+info:Couples
+info:38 Reviews
+rating:5
+posted:Posted September 1, 2023
+msg:酒店位置不錯，周邊比較熱鬧，去吃特色美食不遠。早餐比較豐富，房間寬敞，設施齊全，性價比高。停車方便。
+----------------------------------------
+name:G‍o‍n‍g‍w‍e‍n‍h‍a‍n
+info:Superior Queen Room
+info:Stayed in September 2023
+info:Business travelers
+info:80 Reviews
+rating:5
+posted:Posted September 13, 2023
+msg:四百多一間房，吸引客户可以搞一下優惠。早餐感覺可以，湯粉區可以豐富一點。
+----------------------------------------
+name:F‍e‍i‍z‍i‍Q‍Q
+info:Selected 2-bed Room
+info:Stayed in September 2023
+info:Couples
+info:41 Reviews
+rating:4
+posted:Posted September 10, 2023
+msg:酒店就在馬路邊出入方便，房間設施有點年代感了，前台服務好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in September 2023
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted September 9, 2023
+msg:房間很不錯，前台小姐姐也為我們升級了房型👍👍👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Twin Room
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 11, 2023
+msg:乾淨整潔舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in December 2023
+info:Family
+info:1 Review
+rating:3
+posted:Posted January 23, 2024
+msg:有一晚續房有個男人望實好耐，一上去之後跟住我同屋企人，我哋兩條女勁驚，佢仲企喺度等我哋開門，真係呆撚咗，結果打落去前台一啲交代都冇，想玩房都唔得，五星酒店喎
+----------------------------------------
+name:K‍a‍i‍x‍i‍n‍t‍u‍w‍e‍n‍d‍a‍x‍i‍o‍n‍g
+info:Deluxe Queen Room
+info:Stayed in July 2023
+info:Business travelers
+info:11 Reviews
+rating:3.7
+posted:Posted August 13, 2023
+msg:酒店重新裝修後風格略顯奢華，當然設施沒有完全更換（淋浴間及衞生間），所以使用又重回老舊的感覺！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in May 2023
+info:Family
+info:26 Reviews
+rating:5
+posted:Posted May 5, 2023
+msg:酒店地理位置佳。裝修豪華大氣。房間整潔明亮。床品舒適。早餐品種豐富味道不錯。前台客服禮貌，大堂經理傑女非常熱情周到，還給我們升級了房型。房間安靜視野開闊。性價比超高，推薦。
+----------------------------------------
+name:n‍a‍n‍f‍a‍n‍g‍_‍x‍i‍a‍o‍8‍4‍0‍3
+info:Deluxe Queen Room
+info:Stayed in May 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted June 18, 2023
+msg:酒店地理位置很好，周邊吃的很多，打車出行都非常方便，酒店的服務不錯，房間整潔乾淨，樓層的視野特別好，做的很愜意，是一次很不錯的出行體驗！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Twin Room
+info:Stayed in September 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted September 8, 2023
+msg:服務貼心，乾淨衞生，值得
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in September 2023
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted October 8, 2023
+msg:之前多次到茂名一直都在茂明國際住，本次入住感覺很不好，酒店接待我們那個前台一直板着面孔，然後入住的房間一股濃濃的的黴味，後説了好幾次才換了房間，客房服務員還是挺細心的，中途我們外出清理房間時，還特意煮好開水放保温壺裡。
+----------------------------------------
+name:k‍e‍r‍r‍y‍l‍j‍w
+info:Superior Queen Room
+info:Stayed in April 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:五星好評，酒店環境衞生很好，服務態度非常好，尤其是經理服務更是到位，五一期間房間難訂，雙標訂成了大床，酒店經理免費熱情免費添加了一張👍茂名好心，好心茂名，👍
+----------------------------------------
+name:C‍e‍n‍j‍i‍a‍l‍i‍a‍n‍g
+info:Selected 2-bed Room
+info:Stayed in February 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted February 25, 2023
+msg:今次住店一家人非常滿意，小小朋友得到工作人員悉心安排的住房驚喜，茂名國際大酒店位於市區中心位置很好，方便我們過來考試，停車又方便。當然服務是最好的，歡歡的聲音甜美，工作態度很好。入住體驗很好。下次回來還是選擇國際酒店哦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2023
+info:Couples
+info:18 Reviews
+rating:4.7
+posted:Posted February 20, 2023
+msg:這次從海南迴來中途入住茂名國際大酒店真是選對了，酒店很好，交通方便，停車可以免費停3天，真是很貼心，酒店還給升級了房型，非常滿意，尤其是酒店的歡歡，燕麗，服務非常周到，熱情，讓人感到很温暖，還有免費的下午茶。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2023
+info:Other
+info:4 Reviews
+rating:4.5
+posted:Posted February 28, 2023
+msg:本來是去温德姆酒店的，不過最後還是選擇了茂名老牌的酒店，各項服務都不錯，就是設施有點陳舊了，樓下的廣百也不做了，整體略顯尷尬！早餐豐富是國際酒店的招牌，希望能重振雄風！
+----------------------------------------
+name:X‍i‍a‍o‍x‍i‍a‍o‍c‍h‍e‍s‍h‍e‍n
+info:Selected 2-bed Room
+info:Stayed in April 2023
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted April 24, 2023
+msg:服務非常不錯，有完善的管家服務，給顧客賓至如歸的感覺；設施也很完善，但是早餐的類型可以再豐富。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in January 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted January 27, 2023
+msg:途經茂名市區，下午入住了茂名國際大酒店，歡歡工作人員熱情給我們介紹酒店還有周邊，服務耐心，態度很好。享用了酒店下午茶，晚上還去了附近的街道逛了。酒店位置很好，很方便。酒店的自助早餐，人很多在用餐，就是感覺食物不夠豐富。總體酒店滿意的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in May 2024
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted May 25, 2024
+msg:回茂名的首選酒店。乾淨衞生，主要是喜歡國際的飲茶，味道真的不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in July 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted July 21, 2023
+msg:這次入住國際，張麗娜經理提供個性化的跟進了房間的服務，感覺很舒適[強] 客房乾淨衞生，不過建議早餐的咖啡可以換專業點的咖啡機，現在那種咖啡感覺是咖啡飲料，熱盤可以增加多一些品種。總的來説市區內比較推薦入住的酒店，好評！[強]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in October 2023
+info:Friends
+info:4 Reviews
+rating:4
+posted:Posted October 21, 2023
+msg:老五星酒店，設施陳舊，剛進屋就聞到一股很大的黴味，服務員來開了窗，開空調才好一些，下雨天走廊還漏水，電梯也衹運行一部，早餐還行，種類不少。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in March 2024
+info:Solo travelers
+info:5 Reviews
+rating:4
+posted:Posted March 28, 2024
+msg:雖然房間配置比較傳統老舊，但房內設施使用方便。酒店的在市中心，方便出行。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in November 2023
+info:Family
+info:14 Reviews
+rating:4
+posted:Posted November 22, 2023
+msg:總體還好。就是有點舊了。免費升級到行政房，挺寬敞，床枕頭睡得舒服。電子磅沒電，早餐一般，比6，7年以前差了很多。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 30, 2023
+msg:外觀一般，下午茶挺好，勝在服務，繼續保持！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in September 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted September 10, 2023
+msg:房間寬敞明亮，乾淨整潔；短髮經理和客房服務周到，入住舒適。大超市和大商場就在附近，到哪兒哪兒去都方便。四晚的入住，非常難忘，下次還要入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in April 2024
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted May 27, 2024
+msg:相當舒適 中央空調很好 睡眠質量好到不得了 那個早餐棒棒噠
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 11, 2023
+msg:服務很不錯 價格也不貴
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2023
+info:Business travelers
+info:57 Reviews
+rating:4
+posted:Posted June 21, 2023
+msg:整體評價一般，早餐種類豐富，就餐環境很好，有室外空中餐廳，有空中花園。過時的星級酒店，設施陳舊，裝修古勞，前台服務態度一般，房間很多蚊子。性價比低，建議選擇新開業酒店。
+----------------------------------------
+name:X‍i‍a‍o‍x‍i‍a‍n‍n‍v‍d‍e‍d‍a‍j‍i‍e
+info:Selected 2-bed Room
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 5, 2023
+msg:年底回來茂名，入住國際，好久沒有回來，發現酒店還保養不錯，歡歡服務很好。熱情。下次回來應該還會選擇國際。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:2 Reviews
+rating:3.5
+posted:Posted December 2, 2023
+msg:酒店太老了，硬件設施越來越差，已經無法用軟件服務來支撐了，我們不需要那麼多對不起和道歉
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:酒店房間乾淨，老牌五星級酒店，服務態度很好很禮貌，入住體驗不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in December 2022
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted December 29, 2022
+msg:非常好的一次入住體驗，前天工作人員細心，有耐心，特別提出大堂叫歡歡的前台，為你點贊！再來茂名，別無二選
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:比較好，市中心，房間應該有三張早晨券才好。老客户也沒什麼優勢。
+----------------------------------------
+name:U‍m‍a‍f‍e‍n‍g‍y‍a
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Couples
+info:8 Reviews
+rating:5
+posted:Posted April 17, 2024
+msg:海南候鳥自駕，路過，住一天。方便，滿意。推薦入住！
+----------------------------------------
+name:3‍8‍7‍8‍9‍3
+info:Deluxe Queen Room
+info:Stayed in October 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:設施：齊全
+衞生：乾淨整潔
+服務：貼心周到
+環境：一般
+早餐:品種豐富，味道不錯
+行政禮遇下午茶:一般
+----------------------------------------
+name:G‍a‍n‍l‍a‍n‍g‍a‍n‍l‍a‍n
+info:Selected 2-bed Room
+info:Stayed in October 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:房間乾淨寬敞。步行五分鐘就是華僑城，購物吃飯都十分方便。去露天礦公園也很近。是物超所值的星級酒店了。
+----------------------------------------
+name:t‍a‍n‍m‍i‍n‍g‍j‍u
+info:Deluxe Queen Room
+info:Stayed in October 2022
+info:Other
+info:9 Reviews
+rating:5
+posted:Posted October 7, 2022
+msg:茂名國際大酒店，處於市中心，出入方便。前台小郭服務熱情。非常感謝楊傑女經理的熱情接待，感謝升級了房間，送了果盤，還可以享用咖啡甜點。房間佈置漂亮，温馨美麗，還準備了温暖的泡腳水，房間衞生，床品舒適乾淨。還準備了温馨的愛心防疫盒。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in May 2023
+info:Booked for others
+info:5 Reviews
+rating:5
+posted:Posted May 28, 2023
+msg:畢業季，邀約小夥伴過來參加，安排國際大酒店給好朋友入住，沒有選擇錯，歡歡，娜娜，敏敏都提供了熱情服務，入住體驗感很好！酒店值得推薦。市區中心，位置很好，交通方便
+----------------------------------------
+name:J‍i‍n‍t‍i‍a‍n‍w‍a‍n‍s‍h‍a‍n‍g
+info:Superior Queen Room
+info:Stayed in July 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted July 15, 2023
+msg:服務：前台的吳宇湄服務很好五星好評，
+早餐:   五樓的經理楊傑女對我的小孩很照顧，五星好評。
+環境：房間的環境很好，乾淨，舒適。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in May 2024
+info:Family
+info:7 Reviews
+rating:4.7
+posted:Posted May 5, 2024
+msg:酒店各方面都不錯的，性價比很高，服務熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in March 2023
+info:Other
+info:10 Reviews
+rating:5
+posted:Posted March 18, 2023
+msg:茂名國際大酒店在茂名都幾齣門的，哈哈，老酒店，保養不錯，服務好。特別員工，歡歡態度就很不錯。為歡歡點贊。餐廳的早餐時而豐富，時而又覺得好普通，多點本地特色就好了，豬雜湯或豬雜粥都沒有。點心又好少。希望可以改進，做到更加好。
+----------------------------------------
+name:b‍a‍n‍n‍o‍s
+info:Selected 2-bed Room
+info:Stayed in September 2022
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted September 15, 2022
+msg:酒店內部是重新裝修過的，硬件都很好呀！床睡着特別舒服，我基本上是上床秒睡哦！比起酒店的五星裝修更加讓人讚賞的是酒店的服務！每位酒店工作人員都非常禮貌，熱情，專業。在此特別要讚賞一下酒店的歡歡小姐和世明先生，他們的至誠服務給我留下了非常深刻的印象。總的來説，我個人覺得酒店的軟件比硬件更加重要，有如此難得的服務意識。希望繼續保持！ 加油喲！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Solo travelers
+info:12 Reviews
+rating:5
+posted:Posted March 16, 2023
+msg:酒店設施現代化，很乾凈，房間雖然臨街但關上窗户就挺安靜的，酒店的歡歡秋凌潔晶水燕這些工作人員，聲音甜美。聽起來悦耳。服務也很熱情。酒店相對還是滿意的 ，保養挺好的。市區中心，交通便利。停車方便。推薦茂名國際大酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 13, 2023
+msg:酒店非常好，很多細節做的很貼心，也很安靜。另外，今天早上我急需打印一份文件，前台美女馬上安排打印好給我送上來，非常感謝；然後我需要寄存物品等朋友來拿，也辦的很順利。下次還會入住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted April 26, 2024
+msg:有商務車接送，服務好，房間寬敞舒適，很不錯
+----------------------------------------
+name:D‍i‍e‍w‍u‍q‍i‍n‍g‍c‍h‍e‍n‍g‍y‍i
+info:Deluxe Queen Room
+info:Stayed in October 2022
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted October 25, 2022
+msg:很滿意，賴凌凌經理安排佈置了房間，做接親用，給的房間號也很好，好評。很滿意，賴凌凌經理安排佈置了房間，做接親用，給的房間號也很好，好評。
+----------------------------------------
+name:D‍a‍z‍o‍n‍g‍x‍i‍o‍n‍g
+info:Selected 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted February 11, 2024
+msg:作為老牌5星，若干年後再住國際感到驚喜！很舒適，很温暖！
+----------------------------------------
+name:L‍u‍c‍a‍s‍.‍L‍i
+info:Superior Queen Room
+info:Stayed in September 2022
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted September 12, 2022
+msg:酒店位於市區中心，近文創街，適合我，方便我。而且現在有機場大巴站點，非常方便。酒店退房時間是下午14：00。五分好評，這個好評也因為有一半因為大堂歡歡姐的熱情服務。不錯，下次繼續選擇國際。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in July 2023
+info:Family
+info:45 Reviews
+rating:5
+posted:Posted July 19, 2023
+msg:酒店服務值得稱讚！從保安、門僮、前台到管家，永遠是笑容！讓人賓至如歸，最主要的是比很多世界連鎖大牌酒店的服務意識更好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted February 18, 2023
+msg:服務意識非常好，給免費升級了房型，有位姓吳的小夥，看這個長者帶着孩子的，還主動幫忙一起把行李送到了房間，打掃的阿姨也讓人記憶深刻，送洗衣物因為比較晚了，阿姨都是手洗烘乾送來的，衝著這個服務，下次還去！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2023
+info:Business travelers
+info:33 Reviews
+rating:4.2
+posted:Posted September 26, 2023
+msg:房間乾淨寬敞！客房服務好！非常貼心！客房用品比較差，牙刷易斷、毛巾清洗不太乾淨，感覺有點膩…
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted February 29, 2024
+msg:第一次住各方面都不錯，下次還來，幫我把茶杯收好😃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 28, 2023
+msg:酒店服務超好，入住期間胃痙攣，疼得冒汗，前台叫楊柳的小姑娘，幫忙打車去醫院，等車期間幫助接温水，感到很温暖很人性，沒有感到很無助，本來想送錦旗的，還是以這種方式表示感謝吧。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in March 2023
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted March 24, 2023
+msg:對比了好幾家酒店，最終選擇了茂名國際酒店，前台小姐姐服務態度挺好的，很熱情也親切，特別是楊傑女經理細心周到的服務很是暖心，早餐種類多樣房間乾淨整潔，出行也很方便，非常棒！
+----------------------------------------
+name:w‍e‍r‍n‍e‍r‍w‍o‍n‍g
+info:Superior Queen Room
+info:Stayed in October 2022
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted October 17, 2022
+msg:謝謝歡歡，丹妍，小玲的細心周到的服務。酒店地理位置好，出行方便，泳池很好，健身房也很大，早餐很不錯的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Warm Parent-child Room
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 9, 2022
+msg:酒店衞生環境很乾凈，服務態度一級棒，已經住了幾次了，真的不錯，我去到酒店已經是下午1點多了還沒吃午飯還帶着小孩，客房經理馬上去廚房打包點心給我們吃，太暖心了!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Twin Room
+info:Stayed in August 2022
+info:Friends
+info:47 Reviews
+rating:5
+posted:Posted August 18, 2022
+msg:很好的體驗，入住的話，可以免費停車3天，房間業大，泳池也好，行政酒廊不錯，就是剛開始的那個男前台安排的房間不好，態度業一般，但歡歡女士很好，如果都是歡歡這樣的人這個世界就美好了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 26, 2022
+msg:歡歡，曉玲服務很好👌👍。曉玲工作很快。歡歡説話好聽。值得推薦的酒店。
+----------------------------------------
+name:J‍u‍n‍m‍a‍b‍e‍n‍c‍h‍i
+info:Deluxe Queen Room
+info:Stayed in August 2022
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted August 6, 2022
+msg:酒店住宿很好，床睡的非常舒服，客户經理歡歡，嚮導興明服務熱情周到，晚上到茂名開好房後，歡歡親自將包包送回房間，服務周到，早上退房大雨，興明淋濕自己送我到車旁邊取車
+----------------------------------------
+name:Z‍i‍y‍o‍u‍d‍e‍s‍h‍u
+info:Superior Queen Room
+info:Stayed in May 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted August 17, 2023
+msg:酒店工作人員服務素質非常好，和藹可親，還贈送了早餐，房間乾淨衞生沒有異味，還有大浴缸，孩子超喜歡。十分維美，值得推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted June 15, 2023
+msg:房間設施完善，不愧是茂名老牌酒店，接待客户首選，不會掉面子，以後有機會還會繼續選擇國際大酒店，有賓至如歸的感覺
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Twin Room
+info:Stayed in February 2024
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted February 7, 2024
+msg:老五星，維護的不錯，地段非常好，服務很熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 4, 2022
+msg:朋友之前住過推薦的酒店，而且離考試地點非常近。酒店的位置在市區中心，去哪都好方便好快捷。環境也很好，服務也不錯，阿姨也很主動幫忙搞衞生，下車就有人很主動的幫忙拎行李，前台的小姐姐小郭也很好服務超級貼心哈哈哈，反正住的很舒服也很舒心！下次還會住這裏的
+----------------------------------------
+name:H‍a‍i‍s‍h‍i‍y‍o‍u‍s‍u‍o‍w‍e‍i
+info:Deluxe Queen Room
+info:Stayed in February 2024
+info:Couples
+info:20 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:看得出是老牌酒店，服務設施等都不錯，滿意！
+----------------------------------------
+name:L‍a‍n‍t‍i‍a‍n‍h‍o‍n‍g‍c‍h‍a
+info:Warm Parent-child Room
+info:Stayed in June 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted June 29, 2022
+msg:這個酒店應該是重新裝修了，很乾凈整潔。本來定了親子房，但是酒店工作人員下錯單了，經理主動幫我把兩個房間都升級了行政房，我媽媽好開心，説從來沒住過這麼好的房間，房間還備了安心防疫禮盒，好貼心哦。前台、行李生、樓層阿姨等其他工作人員的工作態度都挺好。如：成光民，陳歡歡、樑歡雨，很贊！以後到茂名還會入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:酒店服務很好，特別是楊傑文小哥哥很熱情周到，服務很體貼，房間設施齊全，早餐品類齊全，但是房間有點異味，希望再改進一下就完美了
+----------------------------------------
+name:L‍a‍o‍l‍a‍o‍t‍a‍n‍z‍i
+info:Superior Queen Room
+info:Stayed in April 2023
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted April 19, 2023
+msg:房間比較大，停車場也很方便，周邊吃飯也比較便利，尤其前台接待01011陳丹妍美眉很熱情的提供幫助，非常感謝。很愉快的一次入住體驗。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in January 2023
+info:Family
+info:15 Reviews
+rating:4.7
+posted:Posted January 17, 2023
+msg:[玫瑰]晚上入住酒店張麗娜經理接待，服務挺好的，這次沒有時間品嚐酒店早餐，下次入住再試試早餐餐品，客房乾淨舒適，酒店推薦入住！[咖啡][握手]不足：牙刷有點掉毛；健身房在附樓，不太好找。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in March 2023
+info:Business travelers
+info:3 Reviews
+rating:4.2
+posted:Posted March 9, 2023
+msg:出差首選國際相當不錯，酒店位置好，出入方便。歡歡服務也好。酒店的早餐有地方特色。如果營業到10：30就更好了。酒店客服經理歡歡服務周到，待人熱情👍。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted February 14, 2023
+msg:酒店在市區中心，位置不錯，停車方便。對於酒店服務相當滿意，前台小姐姐，歡歡、曉玲，鄭鋒，丹妍的態度都很好哦，酒店整體環境不錯。老酒店保養很好，必須五星好評。推薦。
+----------------------------------------
+name:B‍a‍b‍y‍z‍h‍u‍0‍0‍9
+info:Selected 2-bed Room
+info:Stayed in September 2023
+info:Other
+info:5 Reviews
+rating:4
+posted:Posted September 8, 2023
+msg:酒店開了好多年，但房間還是很乾凈，就是泳池有點差，是承包出去了吧，水質好差
+----------------------------------------
+name:S‍t‍e‍p‍h‍e‍n‍ ‍C‍h‍i‍a‍n‍g
+info:Superior Queen Room
+info:Stayed in October 2023
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted October 19, 2023
+msg:设施：OK
+卫生：OK
+环境：OK
+服务：OK
+早餐:有待改進
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 21, 2022
+msg:酒店不錯；很滿意，歡歡娜娜服務不錯。好評。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 23, 2023
+msg:[玫瑰]晚上入住張麗娜經理接待，熱情的帶我們到房間，得知大家都喝了點酒，她立馬安排解酒的蜂蜜水送到房間，客房乾淨舒適，推薦入住國際大酒店！[咖啡][握手]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in March 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted June 3, 2024
+msg:早歺比較滿意，環境，服務都比較好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted February 25, 2023
+msg:很好入住體驗。特別是前台經理：賴凌凌經理，耐心，特別在房源緊張情況下，還能幫助我這個對住房有要求的顧客解決問題。點贊👍2023.2.23-25
+----------------------------------------
+name:Y‍u‍e‍s‍e‍2‍0‍2‍3
+info:Selected 2-bed Room
+info:Stayed in August 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:還不錯，服務員熱情，最關鍵兒子喜歡這家店的早茶晚茶，住在這裏太方便了。
+----------------------------------------
+name:K‍e‍z‍e‍k‍e‍d‍e‍g‍a‍o‍h‍u‍a‍n
+info:Deluxe Queen Room
+info:Stayed in March 2024
+info:Couples
+info:8 Reviews
+rating:5
+posted:Posted March 23, 2024
+msg:環境：好
+設施：好
+服務：非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2023
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted February 9, 2023
+msg:酒店管家陳歡歡很熱情，把我們安排好。門口服務員林百城幫忙拿行李，細心負責。酒店總體來説還是很不錯的。住的房間空間也大，感覺實際比介紹頁裏顯示的面積大。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in November 2022
+info:Booked for others
+info:2 Reviews
+rating:5
+posted:Posted November 27, 2022
+msg:孩子獨自一人赴茂名參加考試，遇到健康碼紅碼事件。酒店工作人員積極主動介入協調，提供一切可能的幫助，讓我們感受到了家人般的温暖，謝謝你們！特別是小吳經理和11月24日晚值班的大堂經理，感謝你們！！！
+----------------------------------------
+name:G‍a‍v‍i‍n‍l‍a‍u
+info:Executive Business Double Room
+info:Stayed in April 2023
+info:Family
+info:24 Reviews
+rating:4
+posted:Posted May 2, 2023
+msg:還不錯，房間很大，設施齊全，服務也還不錯。睡覺也不吵，整體很贊。停車也是比較方便，旁邊還有個KFC，宵夜不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted April 16, 2024
+msg:水壓很大，餐廳不錯，交通方便
+----------------------------------------
+name:l‍i‍j‍i‍a‍n‍1‍9‍8‍1‍1‍2
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted March 17, 2023
+msg:入住國際大酒店的感受挺好的，一間老酒店保養還不錯，這裏的員工歡歡鄭鋒秋凌的服務態度不錯的，熱情周到。這間酒店整體來説滿意的。
+----------------------------------------
+name:f‍e‍n‍n‍i‍-‍0‍4‍-‍0‍2
+info:Executive Business Twin Room
+info:Stayed in March 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted April 2, 2023
+msg:老牌五星，設施環境都挺好，總體感覺不錯，特別要感謝楊柳管家熱情貼心的服務，早餐也蠻豐富，下次到茂名還會首選此家酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in July 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted July 23, 2023
+msg:酒店服務很好，尤其是楊傑文帥哥熱情好客，幫我們提着大包小包送到房間，體驗感很棒！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted March 12, 2023
+msg:非常好的酒店五星好評，吃的挺好，服務熱情，由於到的比較晚，張麗娜經理幫助熱情介紹各種本地小吃，在此深表感謝，下次接着住這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in October 2023
+info:Business travelers
+info:39 Reviews
+rating:4
+posted:Posted October 21, 2023
+msg:在酒店的餐廳吃完飯，到現在也沒有把發票給我。不知道為啥
+----------------------------------------
+name:W‍u‍y‍a‍o‍w‍a‍n‍g
+info:Superior Queen Room
+info:Stayed in October 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 28, 2022
+msg:晚上到達酒店，酒店位於市中心，交通便利，入住時歡歡幫忙辦理入住，送入房間。歡歡服務很周到，還介紹了酒店。有KTV餐飲健身下午茶，入住這太方便了。KTV不錯，音質很好。唯一就是晚餐去吃了自助餐，感覺海鮮不多啊，也沒有三文魚，好想吃三文魚，卻沒有。還有自助火鍋的那個蘸料不專業。沒有火鍋靈魂。酒店總體不錯，主要服務熱情!有機會還回來哦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 27, 2022
+msg:經常出差住酒店，很少點評。這個酒店出乎意料的滿意，房間衞生，早餐。尤其是入住服務，當時接待我的是傑女經理，很熱情，服務細心周到，有求必應。我又續住了一晚，本來我同事要住亞朵，我極力推薦，他也定了一間。相對價格來説，性價比超高了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in October 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 27, 2022
+msg:每次回來茂名，選擇國際，不過這次入住酒店的房，有點吵，這聲音還是早上六點多時就有了，服氣，反饋了之後，知道原來以前廣百撤場了，所以趕開業，趕進度。好吧，理解一下，畢竟每次回來入住這裏也是一種情懷一種習慣了。曉玲和歡歡服務態度很好，很熱情。酒店的早餐還算豐富。如果有多點茶市包點就好了。國際開業也好多年了，希望一直在，辦的越來越好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 26, 2024
+msg:整體還行，伙食也可以。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in March 2023
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted March 6, 2023
+msg:每次回茂名探親我還是選擇國際大酒店，衞生乾淨，特別酒店的歡歡服務態度非常好，加上酒店的位置也不錯，還有酒店餐飲也很好吃。
+----------------------------------------
+name:B‍e‍n‍p‍a‍o‍z‍h‍o‍n‍g‍e‍r‍s‍h‍i‍z‍i‍d‍e‍n‍a‍n‍s‍h‍e‍n
+info:Executive Business Twin Room
+info:Stayed in August 2022
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted August 23, 2022
+msg:環境舒適，服務佳，推薦入住，交通方便
+衞生：乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted May 31, 2024
+msg:早餐非常豐盛，房間寬敞
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in April 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted April 16, 2023
+msg:房間乾淨，服務好，交通出行方便，自助早餐有當地特色美食。預訂時提的房間要求都能滿足安排。總評優！推薦！
+----------------------------------------
+name:T‍ ‍c‍h‍e‍n
+info:Executive Business Double Room
+info:Stayed in December 2023
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted December 16, 2023
+msg:設施：好
+衞生：好
+環境：好
+服務：周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted March 15, 2023
+msg:這裏工作人員服務熱情，歡歡秋淩水燕潔晶她們工作態度很好，聲音甜美。滿意她們服務。酒店整體環境也好，推薦茂名國際。
+----------------------------------------
+name:J‍a‍s‍o‍n‍、‍w‍o‍n‍g
+info:Executive Business Twin Room
+info:Stayed in October 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 7, 2022
+msg:環境：整體環境還不錯。
+設施：設施齊全，泳池，健身房都有，有個小童樂園就更好了。
+服務：超級棒的服務，楊傑*經理服務超級到位，幫忙把行李送到客房，看見我們帶了幾個小朋友，還親自送了一些點心水果過來，這服務體驗給個超級大的贊👍🏻👍🏻👍🏻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in January 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 29, 2023
+msg:晚上入住張麗娜經理接待，服務熱情周到，張經理還安排了很多便捷設備送到房間，四間房都很不錯，客房乾淨舒適，酒店推薦入住！[咖啡][握手]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in October 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 6, 2022
+msg:每次回來一直入住温德姆酒店，這次國慶期間温德姆滿房，下單了國際酒店，也有意想不到的滿意，環境不錯的。雖然酒店很多年了，保養還行。酒店位置也好，停車位也多。工作人員歡歡亞燕服務熱情的。值得點名一下。不過，酒店大堂空調不給力，但房間的空調還是夠力的。來茂名還會考慮入住的。
+----------------------------------------
+name:W‍i‍l‍l‍i‍a‍m‍W‍1‍9‍4‍9
+info:Executive Business Double Room
+info:Stayed in October 2022
+info:Family
+info:24 Reviews
+rating:5
+posted:Posted October 4, 2022
+msg:茂名最好的酒店，旅途很晚入住。酒店shelly經理盲上忙下，幫忙解決小朋友各種備品問題。還熱心提供小朋友和大人的點心。非常感謝，期待再次入住。
+設施：新，無異味
+衞生：乾淨
+環境：市中心
+服務：頂級水準
+行政禮遇下午茶: 有
+早餐:豐盛
+----------------------------------------
+name:D‍e‍n‍g‍_‍G‍Y
+info:Deluxe Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted January 20, 2024
+msg:位置很好！服務也很貼心！衞生搞得很不錯的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted March 4, 2023
+msg:房間乾淨，服務態度好，特別是楊傑女經理，幫忙拿行李，介紹賓館美食，誠懇熱情，讓人倍感親切，下次來還住這裏。
+----------------------------------------
+name:B‍e‍n‍n‍y‍S‍h‍e‍n‍g‍2‍0‍1‍2
+info:Executive Business Twin Room
+info:Stayed in October 2022
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted October 6, 2022
+msg:前台小鄭非常專業，從預訂到入住再到離開，全程關懷備至。而且幫忙解決了拼床與親子家庭的早餐問題。第二天還幫忙更換了更安靜的房間。早餐很多味道不錯，環境不錯。遺憾的是沒有體驗到泳池與健身房。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Twin Room
+info:Stayed in September 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 16, 2022
+msg:麻煩霞姐抽空在訂房頁面—酒店評價—給予我一個五星好評哦！
+
+開學季，陪孩子註冊入住了茂名國際大酒店，酒店經理張麗娜服務熱情周到，得知我們有小朋友入住，贈送了糕點！很滿意的一次入住體驗！[玫瑰][握手][抱拳]
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in September 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted September 14, 2022
+msg:開學季，送孩子來茂名，選擇入住了茂名國際大酒店，感受到了五星級服務，感謝世明經理幫忙安排了寬敞的房型入住。這裏大堂員工丹妍歡歡工作態度也不錯，以後到茂名選擇國際沒有錯。希望酒店的早餐可以更豐富美味點。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:13 Reviews
+rating:4.7
+posted:Posted May 10, 2024
+msg:三層KTV，影響休息
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in January 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted January 7, 2024
+msg:回茂名基本選擇住這家，舒適，方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in March 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 18, 2023
+msg:酒店幾好，接待客户親朋好友首選國際，歡歡服務挺好的，還有燕麗王璐丹妍曉玲建濤鄭峯。總體是滿意的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:4.2
+posted:Posted June 2, 2024
+msg:房間很好，服務好。
+----------------------------------------
+name:Y‍o‍u‍j‍i‍a‍n‍d‍a‍j‍i‍a‍n‍g
+info:Deluxe Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 16, 2023
+msg:酒店多次入住，已感覺親切，主要位置方便辦事。
+當然工作人員歡歡服務也不錯的。總之還會常來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in September 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 23, 2022
+msg:一家人每次到茂名必住的酒店。不僅地理位置好，酒店服務也很好，特別是兩位大堂經理吳經理和楊經理，特別暖心，及時幫我們解決問題還提供了無微不至的管家服務。感謝!下次到茂名還要繼續住這個酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Warm Parent-child Room
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 24, 2023
+msg:服務特別好，賓至如歸的感覺。
+距離中心商業街很近，晚上去文創街溜達一圈，再找一家當地特色餐館吃飯，是個不錯的體驗。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted September 15, 2022
+msg:工作出差，需要入住酒店，選擇了茂名國際大酒店，這裏的前台很熱情，如陳世明經理，還有歡歡，讓人親切。入住國際挺安心。也方便。早餐的話，中規中矩。如果可以豐富點，或者美味點，就更好。主要沒有亮點。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 26, 2024
+msg:住宿條件很好，推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Warm Parent-child Room
+info:Stayed in January 2023
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted January 29, 2023
+msg:這個酒店服務相當好，設施也很完善，做了這麼多酒店，這是非常滿意的一次居住。感謝 陳歡歡經理的熱情接待。讓人難忘。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in March 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted March 10, 2023
+msg:來到茂名交流音樂，入住了國際 前台的歡歡甚是服務周到，很滿意。酒店服務好。推薦大家來。五星好評。
+----------------------------------------
+name:Z‍i‍z‍i‍d‍o‍u‍n‍i‍u
+info:Executive Business Twin Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 8, 2023
+msg:房間非常大，設施齊全，咖啡廳可以沒費吃糕點，喝茶和咖啡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2023
+info:Couples
+info:9 Reviews
+rating:5
+posted:Posted February 16, 2023
+msg:整潔衞生乾淨温馨，交通便利離高鐵站不到十分鐘車程。未謀面的服務員樑娟小姐姐細節到位處處顯温情！感謝！！！
+----------------------------------------
+name:X‍i‍a‍o‍y‍a‍o‍j‍i‍e‍j‍i‍a‍n‍a‍i
+info:Selected 2-bed Room
+info:Stayed in January 2023
+info:Family
+info:23 Reviews
+rating:5
+posted:Posted April 17, 2023
+msg:第一次入住，非常滿意，房間乾淨衞生，服務員熱情周到，特別表揚郭燕媚，酒店設施齊全，交通方便，下次還會選擇入住。
+----------------------------------------
+name:L‍i‍n‍s‍h‍e‍n‍j‍i‍a‍n‍l‍u‍·
+info:Executive Business Double Room
+info:Stayed in April 2023
+info:Solo travelers
+info:3 Reviews
+rating:4.7
+posted:Posted May 2, 2023
+msg:牙刷很硬，牙齦都刷痛。空調不智能，10樓冷死了，13樓又熱死……
+別的都不錯
+----------------------------------------
+name:X‍i‍a‍o‍c‍a‍o‍N‍a‍v‍y
+info:Superior Queen Room
+info:Stayed in June 2023
+info:Business travelers
+info:4 Reviews
+rating:4.2
+posted:Posted June 29, 2023
+msg:整體來説應該還不錯吧，酒店位置也算鬧市區，周邊飲食交通也便利。
+----------------------------------------
+name:f‍i‍n‍e‍f‍a‍n
+info:Executive Business Twin Room
+info:Stayed in August 2022
+info:Family
+info:30 Reviews
+rating:5
+posted:Posted August 5, 2022
+msg:旅行途徑粵西地區，到達茂名，預訂後特意先看一下房間，適合再入住。帶我看房的大堂小姐姐歡歡，挺熱情的，介紹房間周邊。因為帶了孩子，特意安排無煙樓層。非常滿意。前台工作人員服務也不錯。樓層服務員也有禮貌，設施完善服務到位，有機會還會住
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in March 2023
+info:Other
+info:61 Reviews
+rating:4.7
+posted:Posted March 11, 2023
+msg:有很大的地面和地下停車場，保安專業、盡職。房間也不錯。行政酒廊待遇是雞肋，看過就知道了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted March 30, 2024
+msg:房間乾淨，服務熱情周到。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in July 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted September 1, 2022
+msg:這裏的白金管家團隊服務好贊啊，特別人性化。她們的經理陳世明棒棒的，入住時歡歡介紹了好多，熱水泡腳，免費水洗衣服，蜂蜜水，擦鞋服務，12樓行政酒廊吧下午茶，性價比是不是有點高，這樣的五星級酒店。謝謝，這裏服務也是很好的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Friends
+info:16 Reviews
+rating:5
+posted:Posted April 28, 2024
+msg:服務周到，賓至如歸
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 23, 2024
+msg:感謝免費升級房間。
+----------------------------------------
+name:A‍m‍e‍6‍6
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Booked for others
+info:4 Reviews
+rating:5
+posted:Posted April 30, 2024
+msg:挺方便的，也很乾凈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 2, 2023
+msg:茂名國際服務真的不錯，尤其是歡歡、敏敏曉玲態度耐心，入住酒店讓人安心。不厭其煩的幫我解決一切問題，下次還會來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted September 21, 2022
+msg:來到茂名國際大酒店，有一種親切感，挺好的，這裏的歡歡態度好，有耐心，滿意服務。酒店的12樓行政酒廊吧挺舒適的。就是早餐的食物可以豐富點就好了。樓層也有禮貌的。
+----------------------------------------
+name:z‍y‍0‍4‍0‍8
+info:Selected 2-bed Room
+info:Stayed in April 2024
+info:Other
+info:11 Reviews
+rating:4.2
+posted:Posted May 1, 2024
+msg:服務很好，環境衞生
+----------------------------------------
+name:X‍i‍a‍o‍j‍i‍n‍a‍n‍s‍a‍n‍l‍a‍n‍g
+info:Superior Queen Room
+info:Stayed in May 2023
+info:Solo travelers
+info:36 Reviews
+rating:4.7
+posted:Posted May 30, 2023
+msg:整體不錯 服務也好 就是半夜不知道哪裡總有敲鼓一樣的噪音傳來
+----------------------------------------
+name:A‍B‍i‍n‍g‍u‍o
+info:Superior Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:195 Reviews
+rating:5
+posted:Posted November 30, 2023
+msg:性價比挺高的，服務也非常不錯。
+----------------------------------------
+name:W‍u‍z‍i‍g‍e
+info:Selected 2-bed Room
+info:Stayed in January 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 3, 2023
+msg:入住國際大酒店，客房舒適，乾淨衞生，張麗娜經理服務態度好，幫忙解決退房按金問題很及時，以後會繼續支持。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 10, 2022
+msg:在這家酒店住了幾天，每天入住可以免費水洗三件衣服，有自助早餐，有12行政酒廊吧的下午茶，還有蜂蜜水，熱水泡腳，搽鞋...服務，特別表揚一下歡歡，服務態度很好。
+----------------------------------------
+name:L‍c‍x‍s‍h‍a‍n‍s‍h‍u‍i
+info:Executive Business Double Room
+info:Stayed in July 2023
+info:Family
+info:61 Reviews
+rating:5
+posted:Posted July 20, 2023
+msg:印象不深
+設施：好
+衞生：好
+環境：好
+服務：好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Double Room
+info:Stayed in January 2022
+info:Friends
+info:36 Reviews
+rating:4
+posted:Posted January 2, 2022
+msg:酒店位置很好，靠近renmin公園。前台服務員一邊給我辦理入住，一邊解答插隊客人問問題，比較不專業。停車場的保安小哥特別友好，幫助指導停車，還給了個敬禮！贊👍。房間是11樓的行政房，房間比較老時裝秀，眼花繚亂！但是很乾凈。餐廳在五樓，購買了兩人自助晚餐！太糟糕了，海鮮都是冰鮮，不新鮮！考生蠔的小仔仔傲慢的不得了！我們做在外面離考生蠔的攤位很近，1小時的晚餐，他烤了不到25個生蠔，造成排隊和很多人吃不到！太不地道！不推薦意大利海鮮晚餐。
+----------------------------------------
+name:Y‍a‍n‍g‍g‍u‍a‍n‍e‍r‍l‍i
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Couples
+info:20 Reviews
+rating:5
+posted:Posted March 26, 2024
+msg:茂名性價比最高的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted January 1, 2024
+msg:酒店棒棒噠！房間乾淨整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 28, 2023
+msg:前台郭燕媚和吳曉玲，服務很好。普通話也標準。感謝
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in October 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 22, 2023
+msg:檔次高，品質佳，服務好，超值！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted February 3, 2023
+msg:酒店位於市中心，周邊吃喝很便利。酒店設施還挺新的，服務非常的貼心，早餐也很豐盛。
+----------------------------------------
+name:y‍u‍x‍i‍a‍n‍g‍q‍u‍a‍n‍1‍6‍3
+info:Superior Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted January 31, 2024
+msg:乾淨衞生，服務態度佳
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Twin Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 16, 2023
+msg:楊傑女服務好，很好的入住體驗，下次還過來住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in September 2022
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted September 30, 2022
+msg:家裡停電，所以預訂了一晚國際，度過這已是深秋還好像夏天的夜晚。前台蘇蘇辦理的入住，歡歡帶的房間，這裏的人挺熱情的，服務認可哦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:4 Reviews
+rating:4.7
+posted:Posted April 1, 2024
+msg:方便的地方傳統酒店
+----------------------------------------
+name:B‍a‍o‍e‍r‍-‍k‍e‍c‍h‍a‍j‍i‍n
+info:Superior Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:117 Reviews
+rating:5
+posted:Posted November 19, 2023
+msg:酒店服務熱情，房間面積很大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Warm Parent-child Room
+info:Stayed in September 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 15, 2022
+msg:孩子過來上學，入住茂名國際大酒店，很乾凈，挺好的。大堂的歡歡世明，前台的丹妍，服務挺好的。後續還要過來茂名呢，繼續選擇服務好的國際。
+----------------------------------------
+name:z‍h‍u‍z‍h‍u‍6‍2‍0‍9
+info:Selected 2-bed Room
+info:Stayed in March 2023
+info:Couples
+info:71 Reviews
+rating:5
+posted:Posted March 8, 2023
+msg:很滿意的一次住宿，酒店硬件，服務，早餐，停車，晚餐，周邊商業均不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in August 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted August 20, 2023
+msg:喜歡，服務非常好，熱情！房間乾淨整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in March 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted March 26, 2023
+msg:張麗娜經理熱情周到、還幫我家人特意安挑在隔離房住，態度也很好。
+----------------------------------------
+name:S‍i‍m‍o‍n‍_‍_‍R
+info:Executive Business Twin Room
+info:Stayed in January 2023
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted January 25, 2023
+msg:酒店服務周到，早上沒吃早飯，就給我們送了兩份早點，大廳的吳經理還熱情的推行李。
+----------------------------------------
+name:J‍a‍s‍o‍n
+info:Selected 2-bed Room
+info:Stayed in September 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted September 15, 2023
+msg:老酒店，但各項都OK，早餐很豐富
+----------------------------------------
+name:L‍i‍n‍g‍e‍n‍b‍e‍i‍g‍e‍s‍o‍n‍g‍y‍i
+info:Superior Queen Room
+info:Stayed in September 2022
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted September 7, 2022
+msg:住在茂名國際大酒店，感覺不錯，房間很安靜。空調製冷很給力 。酒店的歡歡，傑女，海龍服務好贊，工作態度認真。這裏還是值得推薦入住的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 28, 2023
+msg:房間很乾凈，服務到位，自助餐非常棒
+----------------------------------------
+name:H‍u‍i‍s‍h‍a‍n‍s‍h‍a‍n‍s‍h‍a‍n
+info:Selected 2-bed Room
+info:Stayed in January 2023
+info:Family
+info:29 Reviews
+rating:5
+posted:Posted January 27, 2023
+msg:給大學同學安排的住宿，挺不錯的！還有下午茶提供。早餐也豐富！是個滿意的旅程。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in March 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted April 1, 2023
+msg:服務太好了，行李直接給送進房間，特別表揚一下大堂經理楊柳。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted October 1, 2022
+msg:十分熱情的酒店，入住非常舒適！ 特別感謝崔雪，郭燕梅，丹妍三位美女，一點小問題三個美女一起幫我解決，受寵若驚，哈哈！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in October 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 3, 2022
+msg:酒店各方麪條件不錯 陳歡歡經理很專業 交通方便 早餐豐富 地理位置優越 靠近茂名高鐵站 性價比很高 下午茶非常不錯
+----------------------------------------
+name:B‍e‍n‍g‍o‍n‍g‍d‍e‍c‍h‍a
+info:Selected 2-bed Room
+info:Stayed in February 2023
+info:Business travelers
+info:63 Reviews
+rating:5
+posted:Posted February 25, 2023
+msg:酒店地理位置很好，出行方便，房間設施貼心，早餐很豐盛可口，值得選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in September 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted September 15, 2022
+msg:因為開學來了茂名，住了國際，茂名給我感覺很好。酒店很不錯，酒店工作人員的歡歡，世明，，工作熱情。貼心服務。選擇國際，好評。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 1, 2022
+msg:服務態度很好，歡歡凌凌都很周到細緻。老酒店，交通便利，房間保養還不錯，早餐也還行，包點類可以更豐富些。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in December 2023
+info:Friends
+info:12 Reviews
+rating:5
+posted:Posted February 25, 2024
+msg:挺不錯的，比較有性價比
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in July 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted July 27, 2022
+msg:酒店位於市中心、交通便利，提前的説，還有約車服務。房間衞生，服務周到，天氣炎熱多送了兩瓶礦泉水。4樓有茶點，5樓早餐品種豐富！下次還會繼續入住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted October 17, 2023
+msg:服務一如既往的好，早餐豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted January 21, 2024
+msg:還可以，酒店有茶點
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Twin Room
+info:Stayed in September 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted September 14, 2022
+msg:酒店人員服務很到位、乾淨衞生舒適、裝修做得很好、設備設施很高檔和自助餐美食不錯，停車方便，周邊環境近市中心，商超近。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2022
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted September 20, 2022
+msg:中午入住酒店小張經理接待，體驗了酒店的早餐還不錯，在住期間小張經理態度好，服務周到，值得點贊！[握手][咖啡][愉快]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in September 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted September 18, 2022
+msg:入住酒店有接車服務哦，提前一天聯繫酒店，就可以安排。酒店工作人員，歡歡，海燕服務不錯。住了兩天國際，感覺賓至如歸。
+----------------------------------------
+name:s‍h‍i‍r‍l‍e‍y‍1‍0‍3
+info:Selected 2-bed Room
+info:Stayed in January 2022
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted January 8, 2022
+msg:與心目中的五星還是有點差距，整體還好，位置出行方便，購物也方便。
+----------------------------------------
+name:w‍3‍6‍5‍3‍2
+info:Superior Queen Room
+info:Stayed in February 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted February 6, 2023
+msg:服務態度很好，工作人員熱情有禮，給陳歡歡一個好評。
+衞生：乾淨整潔
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Business Twin Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted February 20, 2024
+msg:房間整潔乾淨舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in December 2022
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted December 15, 2022
+msg:房間設施齊全，乾淨整潔，前台小郭服務周到，態度很好，下次還會選擇茂名國際大酒店🏨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:33 Reviews
+rating:4
+posted:Posted May 11, 2023
+msg:設施：不錯；
+衞生：不錯；
+環境：差；
+服務：很好👍
+----------------------------------------
+name:H‍E‍H‍U‍A‍M‍E‍I‍A
+info:Selected 2-bed Room
+info:Stayed in February 2024
+info:Solo travelers
+info:8 Reviews
+rating:5
+posted:Posted March 2, 2024
+msg:酒店性價比很高！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 26, 2023
+msg:總體不錯
+設施：齊全
+衞生：乾淨
+環境：總體可以
+服務：周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in May 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted May 20, 2023
+msg:酒店房間非常安靜，送的荔枝很好吃，挺滿意的。
+----------------------------------------
+name:A‍o‍x‍i‍a‍o‍c‍h‍a‍n‍g
+info:Deluxe Suite
+info:Stayed in February 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted March 8, 2023
+msg:曉傑，曉柯服務真好，看到我們手上有行李都會主動來提，太感動了
+----------------------------------------
+name:「‍y‍e‍」
+info:Superior Queen Room
+info:Stayed in June 2022
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted June 14, 2022
+msg:酒店還蠻不錯的，工作人員歡歡和丹妍、鄭鋒就很熱情，非常貼心。
+值得入住體驗感受一下酒店服務哦！就是早餐一般般，希望可以豐富點。多點本地特色美食。廣式茶點。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in July 2022
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted August 9, 2022
+msg:酒店相對有點舊了，但服務必須給個贊。可以提供很多附加服務，比如免費燙洗衣服，提供卸粧油、面膜，晚上還送來一壺飲用熱水，很暖心。
+----------------------------------------
+name:K‍e‍v‍i‍n‍x‍i‍a‍o‍s‍h‍o‍u‍z‍h‍o‍n‍g‍+‍1
+info:Selected 2-bed Room
+info:Stayed in July 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 7, 2022
+msg:酒店環境不錯，服務周到，陳歡歡小姐和鄭鋒先生服務周到熱情，有求必應！主動聯繫並把遺忘的衣服不辭辛苦的洗乾淨並快遞給我，非常感謝
+----------------------------------------
+name:P‍ê‍t‍ē‍r‍7‍0‍9‍3‍9‍4
+info:Selected 2-bed Room
+info:Stayed in October 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 4, 2022
+msg:國慶入住酒店，Linda經理接待，升級了商務房體驗，客房舒適，酒店推薦入住！[握手][咖啡][愉快]
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in August 2023
+info:Friends
+info:38 Reviews
+rating:5
+posted:Posted August 21, 2023
+msg:多次入住性價比超高的一間酒店
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 13, 2023
+msg:舒適，乾淨，地段好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted September 18, 2022
+msg:酒店離火車站很近，很方便，還可以接站，樓下就是肯德基，歡歡，海龍、娜娜特別熱情，主動幫忙提行李，開門
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in September 2022
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted September 21, 2022
+msg:早餐很好，位置很好，歡歡、曉玲、燕麗這三位妹紙工作勤快態度熱情。給予五星好評。入住國際不錯的選擇！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:不錯，很乾凈！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in May 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 8, 2022
+msg:茂名國際大酒店確實不錯，裝修豪華，乾淨衞生，在市中心、去哪都方便。我們晚上入住，還送我們一個果盤。服務態度也非常棒，前台陳歡歡還要給我們提行李，服務細心周到，點贊！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in February 2024
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:環境衞生都很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 21, 2023
+msg:不錯不錯 停車位多
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in July 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted July 29, 2022
+msg:酒店在市中心，住的特別舒服，不用出酒店就能吃大餐，價格還實惠，特別是接待經理特別棒，提供了很多的幫助。下次還會去住！
+----------------------------------------
+name:2‍4‍k‍c‍h‍u‍n‍y‍e‍m‍e‍n
+info:Superior Queen Room
+info:Stayed in January 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 18, 2023
+msg:入住舒適，服務很好。前台接待張麗娜服務熱情周到！下次還會住！
+----------------------------------------
+name:M‍r‍-‍W‍o‍n‍g‍_
+info:Superior Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted September 10, 2022
+msg:每次到茂名，必住國際，因為這裏位置好，環境好，服務好。性價比高。大堂歡歡女士貼心周到的服務，點贊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in June 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 12, 2022
+msg:酒店位置非常好，市區中心，購物吃飯都很方便，酒店是老牌五星，裝修保養還很好，服務周到，特別點名感謝一下曉玲小姐姐辦理入住，歡歡小姐姐帶房。
+----------------------------------------
+name:Y‍i‍j‍i‍a‍n‍l‍i‍n‍g‍y‍u‍n‍d‍a‍g‍o‍n‍g‍r‍e‍n
+info:Superior Queen Room
+info:Stayed in May 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted May 13, 2023
+msg:酒店氣派，房間很乾凈，符合五星級標準。
+----------------------------------------
+name:L‍i‍u‍t‍i‍a‍n‍b‍a‍x‍i‍a‍o‍j‍i‍e‍j‍i‍e
+info:Superior Queen Room
+info:Stayed in August 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 10, 2022
+msg:茂名國際大酒店地理位置挺好的，交通方便。最主要服務人員也挺好的，例如：歡歡，凌凌，娜娜。值得入住。五分好評。
+----------------------------------------
+name:L‍i‍u‍y‍u‍n‍F‍l‍y‍e‍r
+info:Superior Queen Room
+info:Stayed in September 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted September 25, 2022
+msg:服務非常好，感謝楊傑女女士的熱情周到服務，跑前跑後幫我們聯繫車輛，幫拉行李，在此特別感謝！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 1, 2022
+msg:深夜到達茂名，入住國際，感受酒店服務挺好的，前台歡歡，丹妍，王璐熱情辦理入住。對她們給與工作肯定！
+----------------------------------------
+name:G‍u‍f‍a‍n‍g‍c‍h‍e
+info:Selected 2-bed Room
+info:Stayed in February 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 18, 2023
+msg:，非常安靜，乾淨，，服務周到，特別是陳小姐熱情周到。
+----------------------------------------
+name:L‍i‍u‍z‍h‍e‍n‍g‍l‍o‍n‍g
+info:Deluxe Queen Room
+info:Stayed in January 2023
+info:Friends
+info:20 Reviews
+rating:5
+posted:Posted January 25, 2023
+msg:房間不錯，服務好，15年裝修的，比我想象中的新，沒有氣味
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Twin Room
+info:Stayed in April 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 28, 2022
+msg:🧹衞生：房間設施有些老，但是很乾凈
+🍃環境：整晚都很安靜
+🔔服務：服務態度非常好哦
+🚗 交通：出門叫車很方便
+尤其感謝酒店經理陳歡歡，服務非常好（✪▽✪）
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2023
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted March 5, 2023
+msg:發揮穩定，服務熱情，吃飯喝早茶都有，附近也方便。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in October 2022
+info:Friends
+info:7 Reviews
+posted:Posted October 7, 2022
+msg:濤濤歡歡工作態度熱情，深夜到店，也是耐性接待辦理入住，送入房間。挺好的，酒店推薦的
+----------------------------------------
+rating:5
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:11 Reviews
+rating:4.2
+posted:Posted April 30, 2023
+msg:酒店較老，房間隔音不好。早餐豐盛，酒店服務不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in July 2022
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted July 31, 2022
+msg:服務主動，幫忙拿行李，房間有換被單換床單需求的，衹要提出都會換。打掃阿姨會煮好熱水給我們，感覺很温馨。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in May 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 6, 2022
+msg:入住還不錯，早餐差點，沒有五星標準。服務不錯，入住時候楊傑女經理很貼心還帶我們入住房間，得知我們需要延時退房很暖心幫我們辦理了延時，挺好的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2023
+info:Business travelers
+info:37 Reviews
+rating:4.5
+posted:Posted September 17, 2023
+msg:服務很好，旁邊不遠有個美食城
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in August 2022
+info:Business travelers
+info:13 Reviews
+rating:4
+posted:Posted September 4, 2022
+msg:酒店略顯舊，很長時間沒裝修。房間安排在端頭，離電梯很遠。早餐選擇比較少。總體性價比一般。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in June 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted June 17, 2022
+msg:酒店很乾凈，無異味，辦入住遇到Amy經理，非常熱情的接待了我們辦理入住以及指引，非常感謝，人很漂亮，態度極其好，點贊
+----------------------------------------
+name:Y‍o‍u‍x‍i‍a‍a‍a‍a
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Family
+info:63 Reviews
+rating:5
+posted:Posted May 8, 2023
+msg:舒服的酒店！工作人員服務周到熱情。謝謝！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2023
+info:Couples
+info:24 Reviews
+rating:5
+posted:Posted May 9, 2023
+msg:服務設施都挺好的 服務員都很有禮貌
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 9, 2023
+msg:非常滿意，服務周到、專業，衞生好、環境不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in June 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted September 4, 2022
+msg:入住茂名國際，前台阿may小姐姐姐辦理的入住，笑容不錯，coco小姐姐幫忙拿行李。酒店服務挺周到。下次還來！
+----------------------------------------
+name:Y‍o‍u‍r‍o‍n‍g‍d‍e‍n‍a‍i‍d‍a
+info:Executive Business Twin Room
+info:Stayed in January 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 9, 2023
+msg:服務：都非常好，尤其陳歡歡經理態度好，人也漂亮點贊
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in June 2022
+info:Friends
+info:33 Reviews
+rating:5
+posted:Posted August 14, 2022
+msg:裝修風格很高檔，酒店前台的小哥哥還給升級成行政房，早餐很贊種類很多可以選擇，啊姨打掃完房間還會準備熱水真的很棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in June 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 13, 2022
+msg:高鐵站打車過來十分鐘左右，整體感覺還不錯，服務到位，幫忙升級了房型，早餐可以送到房間，下次去茂名可以繼續定這家
+----------------------------------------
+name:r‍c‍a‍i‍3‍0‍1
+info:Selected 2-bed Room
+info:Stayed in December 2023
+info:Booked for others
+info:19 Reviews
+rating:5
+posted:Posted December 7, 2023
+msg:值得信賴的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2023
+info:Couples
+info:74 Reviews
+rating:5
+posted:Posted February 9, 2023
+msg:酒店設施很好，早餐也比較豐盛，粉湯味道不錯。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in June 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 29, 2022
+msg:不錯。總體來説是茂名的五星了，成光民和陳歡歡的服務不錯，手機支架落在了房間，幫我放前台了，下次住再取。
+----------------------------------------
+name:S‍u‍i‍f‍e‍n‍g‍c‍m
+info:Executive Business Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:衞生環境好，服務態度好
+----------------------------------------
+name:K‍o‍n‍g‍s‍h‍a‍o‍1‍6‍2‍7
+info:Deluxe Queen Room
+info:Stayed in July 2023
+info:Booked for others
+info:11 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:交通便利。老牌5星酒店！
+----------------------------------------
+name:F‍e‍i‍h‍u‍a‍n
+info:Superior Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:21 Reviews
+rating:4
+posted:Posted June 21, 2023
+msg:舊了點，整體不錯，市中心出行方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in December 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 2, 2022
+msg:贊噢，茂名的酒店裡住的最舒服的一個，感謝楊傑女經理的招待
+----------------------------------------
+name:T‍i‍a‍n‍y‍i‍n
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 17, 2023
+msg:鄭峯，楊傑女服務熱情周到。下次繼續入住
+----------------------------------------
+name:B‍a‍l‍e‍p‍i‍d‍i‍y‍e‍l‍i‍n‍x‍i‍a‍n‍g‍r‍u
+info:Selected 2-bed Room
+info:Stayed in December 2023
+info:Friends
+info:29 Reviews
+rating:5
+posted:Posted December 10, 2023
+msg:房間乾淨衞生。
+----------------------------------------
+name:h‍i‍p‍p‍o
+info:Selected 2-bed Room
+info:Stayed in April 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted April 13, 2023
+msg:非常滿意👍早餐很豐盛味道也很好吃！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in June 2022
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted June 25, 2022
+msg:一如既往的沒有令我失望，由其是大堂經理崔雪的服務態度，非常有禮和貼心，下次出差到茂名仍會選擇這家酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in June 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 2, 2022
+msg:酒店位置和服務都很不錯，尤其是大堂經理Linda麗娜，不但幫我們從大堂一路送到房間而且還耐心回答我們的問題！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:感覺很不錯
+----------------------------------------
+name:X‍i‍a‍n‍g‍y‍a‍n‍g‍y‍o‍n‍g‍g‍e
+info:Superior Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:環境優美給我來帶來了很多快樂🎉
+----------------------------------------
+name:G‍u‍n‍z‍h‍a‍n‍g‍s‍a‍n‍g‍u‍n
+info:Superior Queen Room
+info:Stayed in November 2022
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted December 1, 2022
+msg:前台小郭，丹妍 小姐姐服務態度不錯，一直笑嘻嘻的……
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in August 2022
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted August 21, 2022
+msg:第一次入住酒店，客房舒適，麗娜經理特意準備歡迎水果送到房間，會再選擇回店的。
+----------------------------------------
+name:X‍i‍n‍j‍i‍a‍n‍b‍a‍b‍a
+info:Superior Queen Room
+info:Stayed in August 2022
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted August 19, 2022
+msg:因為滿意茂名國際的服務，所以經常選擇入住國際酒店，點贊歡歡和娜娜兩位。好評！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 5, 2023
+msg:各個方面都很好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted December 16, 2023
+msg:性價比超高。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 20, 2023
+msg:房間新，前台服務好。交通便利。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:4.5
+posted:Posted September 16, 2022
+msg:體驗早餐不錯，客服舒適，辦理入住時小張帶房，服務態度不錯，值得鼓勵
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 5, 2022
+msg:環境舒適，地理位置優越，前台非常友善，訂的房型沒退房給免費升級放行條，感謝歡歡、凌凌。
+----------------------------------------
+name:q‍u‍a‍n‍d‍u‍a‍n
+info:Selected 2-bed Room
+info:Stayed in November 2021
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted November 23, 2021
+msg:服務熱情周到，位置合適，交通、購物包括核酸檢測（😂）都很方便。早餐豐盛，下午茶也可以，個人體驗唯一不適的就是冬天來了在室外游泳池有些冷（這次剛好遇到降温室外温度25），不過南方酒店游泳池許多都在室外，要是能循環水加點温到28度左右就挺好。不過那天也遊了四十分鐘左右，下次出差還住這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in August 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 5, 2022
+msg:酒店服務態度好，有專人拉行李箱上房，管家服務一流！還有前台接待小郭接待熱情。
+----------------------------------------
+name:A‍ ‍ ‍C‍o‍c‍o‍y‍a‍n
+info:Selected 2-bed Room
+info:Stayed in July 2023
+info:Friends
+info:16 Reviews
+rating:5
+posted:Posted July 21, 2023
+msg:很好，以後去都住這裡
+----------------------------------------
+name:b‍a‍d‍d‍y‍l‍u‍o
+info:Superior Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 27, 2023
+msg:早餐非常棒，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in September 2022
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted September 19, 2022
+msg:酒店環境不錯，乾淨整潔，前台接待小郭服務周到熱情，辦入住效率快
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2022
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted October 5, 2022
+msg:酒店服務不錯，前台張經理還幫忙拿行李送到房間，早餐也不錯。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted March 29, 2023
+msg:酒店設施服務很好，歡歡也很周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in June 2022
+info:Family
+info:23 Reviews
+rating:5
+posted:Posted June 27, 2022
+msg:總枱陳丹妍熱心服務，助人為樂。提出表揚。十二樓保潔阿姨主動為客人洗衣服，非常貼心！
+----------------------------------------
+name:L‍i‍n‍l‍i‍n‍m‍a‍k‍a‍b‍a‍k‍a
+info:Deluxe Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:3 Reviews
+rating:4.7
+posted:Posted November 7, 2023
+msg:整體感覺不錯
+----------------------------------------
+name:P‍i‍p‍i‍n‍g‍y‍i‍x‍i‍a
+info:Selected 2-bed Room
+info:Stayed in January 2023
+info:Friends
+info:101 Reviews
+rating:4
+posted:Posted January 31, 2023
+msg:設施有點老舊，但是酒店管家服務蠻好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in March 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted March 22, 2023
+msg:楊傑女服務很好！下次還來住。
+----------------------------------------
+name:B‍u‍g‍a‍o‍s‍u‍n‍i‍～
+info:Superior Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted March 3, 2023
+msg:劍韜，傑女，挺棒的，住的舒服。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted October 28, 2023
+msg:還是很不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Warm Parent-child Room
+info:Stayed in October 2021
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted October 15, 2021
+msg:不愧是老牌五星級，年輕人可能未必喜歡這種年代風格，我是正中下懷。雖然訂的是家庭親子房，但明顯室內裝修都是商務風。
+🚗 交通：主幹道的交匯處，距離市委市政府近，天天看到很多政府公務車停在酒店門口，政府官員過來開會吃飯。
+🧹衞生：足夠乾淨。
+🍃環境：房間安靜。酒店內有露天泳池、健身房。酒店正門旁邊就是廣百大商店。酒店後面是夜總會。三樓和四樓有很大的吃飯宴會廳，可以從早茶吃到夜宵，五樓還有西餐廳和露台。
+🔔服務：周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted December 10, 2023
+msg:老店，服務好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 12, 2023
+msg:房間衞生，服務很好！
+----------------------------------------
+name:d‍o‍n‍g‍d‍o‍n‍g‍b‍b
+info:Selected 2-bed Room
+info:Stayed in January 2022
+info:Solo travelers
+info:17 Reviews
+rating:5
+posted:Posted February 7, 2022
+msg:每次回茂名必住的地方，平日裏性價比較高，早餐品種多綜合來説挺好，停車也方便，位置優，服務也好，停車服務很贊，不用每次去服務枱掃碼。
+----------------------------------------
+name:C‍o‍n‍g‍y‍u‍c‍h‍i
+info:Selected 2-bed Room
+info:Stayed in March 2023
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted March 24, 2023
+msg:服務好，酒店好，周邊很便利
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in March 2023
+info:Other
+info:17 Reviews
+rating:5
+posted:Posted March 23, 2023
+msg:酒店環境不錯，服務熱情周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in May 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 29, 2023
+msg:房間不錯，服務滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in March 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted March 15, 2023
+msg:歡歡秋凌潔晶水燕服務周到！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in September 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 29, 2022
+msg:服務員的態度很好，前台陳丹妍女士很不錯值得表揚😀
+----------------------------------------
+name:み‍っ‍ち‍ゃ‍ん
+info:Superior Queen Room
+info:Stayed in July 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted July 14, 2023
+msg:對外國人非常好.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Twin Room
+info:Stayed in July 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 27, 2022
+msg:酒店服務極好，尤其點名表揚前台接待小郭，十分熱情，予人親切。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Twin Room
+info:Stayed in February 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 27, 2022
+msg:楊傑女經理非常熱心，進酒店時，她幫我們搬行李，並且一直送我們上電梯，是一個非常負責、熱心的酒店工作人員
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in January 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted January 12, 2023
+msg:設施整體不錯，服務人員禮貌熱情
+----------------------------------------
+name:M‍y‍r‍t‍l‍e
+info:Superior Queen Room
+info:Stayed in April 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 17, 2023
+msg:乾淨整潔，房間也很安靜
+----------------------------------------
+name:F‍e‍i‍n‍i‍a‍o‍g‍u‍a‍n‍y‍u‍n
+info:Selected 2-bed Room
+info:Stayed in October 2023
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted November 26, 2023
+msg:方便，乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 31, 2023
+msg:環境不錯，下次要試下健身房。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in July 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 6, 2022
+msg:非常好的酒店，還給升級了房間，特別感謝前台小郭的熱情接待！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in March 2022
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted March 26, 2022
+msg:非常感謝前台接待的小郭😊 房間和服務人員都很熱情。
+感謝推薦了茂名的美食都很好吃 😋😋
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in September 2022
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted September 25, 2022
+msg:非常感謝楊傑女經理的招待 酒店各方面都不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in November 2022
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted November 2, 2022
+msg:體驗感非常好！不愧是茂名最好的酒店🏨
+----------------------------------------
+name:B‍a‍o‍l‍i‍j‍i‍e‍c‍h‍a‍n‍g‍y‍u‍c‍h‍u‍n
+info:Deluxe Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted September 11, 2022
+msg:酒店位置很好，員工服務很好，歡歡，世明不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:3 Reviews
+rating:4.7
+posted:Posted April 30, 2023
+msg:設施齊備，服務一流
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 9, 2021
+msg:酒店前台服務人員態度很好，服務貼心，本來網上訂層前台開不了發票，但他們經過與領導及時溝通，第二天退房的時候開出了發票，解決了問題，非常感謝他們熱心周到耐心的服務。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:107 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:酒店的早餐還可以的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in March 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 4, 2022
+msg:各項設施及服務都好，尤其客户經理陳歡歡，提前留好房間，還準備了歡迎水果，非常感謝！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in July 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted July 23, 2023
+msg:好好好好好好
+----------------------------------------
+name:B‍a‍o‍b‍a‍o‍m‍a‍m‍i
+info:Superior Queen Room
+info:Stayed in July 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 27, 2023
+msg:服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted October 27, 2022
+msg:服務態度不錯，人員熱情，記憶力好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in May 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 14, 2023
+msg:很喜歡這個酒店
+----------------------------------------
+name:c‍c‍h‍0‍9‍7‍1
+info:Executive Business Twin Room
+info:Stayed in September 2022
+info:Business travelers
+info:15 Reviews
+rating:4.7
+posted:Posted September 7, 2022
+msg:條件各方面都很好，建議增加免費洗衣服務
+----------------------------------------
+name:w‍i‍l‍s‍o‍n‍ ‍w‍o‍n‍g‍ ‍7‍7
+info:Superior Queen Room
+info:Stayed in October 2022
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted October 4, 2022
+msg:中規中矩，一般般，老牌酒店就是這樣
+----------------------------------------
+name:F‍a‍1‍0‍1‍9‍7‍6
+info:Executive Business Twin Room
+info:Stayed in August 2023
+info:Business travelers
+info:63 Reviews
+rating:5
+posted:Posted August 27, 2023
+msg:酒店一般般
+----------------------------------------
+name:W‍a‍n‍g‍y‍i‍l‍u
+info:Executive Business Twin Room
+info:Stayed in January 2023
+info:Family
+info:69 Reviews
+rating:5
+posted:Posted January 25, 2023
+msg:很不錯的一家酒店，推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in June 2023
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted August 25, 2023
+msg:整體還不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2022
+info:Friends
+info:16 Reviews
+rating:5
+posted:Posted October 30, 2022
+msg:前台 王路 服務態度很好 點贊
+----------------------------------------
+name:M‍a‍r‍a‍u‍d‍e‍r
+info:Selected 2-bed Room
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:4.5
+posted:Posted July 12, 2022
+msg:電梯使用安排不夠周全，沒有考慮其他住客的感受。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 9, 2023
+msg:不錯👍
+環境還不錯👍
+----------------------------------------
+name:T‍i‍a‍n‍d‍i‍x‍i‍n‍g‍s‍h‍a‍n‍z‍h‍i‍d‍i‍a‍n
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Solo travelers
+info:12 Reviews
+rating:5
+posted:Posted April 2, 2023
+msg:城中心的很好酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in July 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted August 23, 2023
+msg:感覺不錯！
+----------------------------------------
+name:A‍l‍i‍c‍e‍6‍6‍3
+info:Selected 2-bed Room
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 5, 2023
+msg:張經理的服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in June 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 25, 2022
+msg:服務細節很到位，有水果送，早餐可以到房間
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:38 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:很滿意的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 14, 2023
+msg:歡歡服務好。好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in June 2023
+info:Business travelers
+info:9 Reviews
+rating:4
+posted:Posted August 31, 2023
+msg:還是可以的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:4.7
+posted:Posted July 8, 2022
+msg:服務非常好👍特別是陳歡歡服務周到細緻
+----------------------------------------
+name:T‍a‍n‍g‍c‍h‍u‍a‍n‍h‍a‍o‍z‍h‍i
+info:Superior Queen Room
+info:Stayed in January 2023
+info:Solo travelers
+info:46 Reviews
+rating:4
+posted:Posted March 5, 2023
+msg:房間很大！市中心
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Business Twin Room
+info:Stayed in July 2022
+info:Business travelers
+info:3 Reviews
+rating:4.7
+posted:Posted August 17, 2022
+msg:位置中心，房間設施好，早餐不錯。
+----------------------------------------
+name:X‍i‍a‍o‍z‍h‍i
+info:Deluxe Queen Room
+info:Stayed in October 2022
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted January 27, 2023
+msg:設施設備齊全，衞生乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in November 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 30, 2022
+msg:感謝楊傑女經理的幫助
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2022
+info:Business travelers
+info:96 Reviews
+rating:5
+posted:Posted June 28, 2022
+msg:雖然年份久，但還是不錯的，值得再來住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in December 2022
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted January 26, 2023
+msg:乾淨衞生，服務到位
+----------------------------------------
+name:X‍i‍a‍o‍w‍a‍n‍g
+info:Selected 2-bed Room
+info:Stayed in July 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 27, 2021
+msg:出差經常住這家，總體不錯，乾淨衞生，前台效率也高，就是泳池健身房沒有利用起來，基本也不開放。浴缸沒用過，一般自己也不用，怕不衞生
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 15, 2022
+msg:五星級服務，感謝樑敏經理的細心
+----------------------------------------
+name:X‍i‍a‍w‍e‍i‍y‍i‍s‍e‍n‍g‍h‍a‍i‍b‍a‍o
+info:Selected 2-bed Room
+info:Stayed in October 2022
+info:Family
+info:30 Reviews
+rating:5
+posted:Posted October 9, 2022
+msg:舊是舊了的不過還是算舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted October 3, 2022
+msg:楊傑女管家十分貼心負責～
+----------------------------------------
+name:W‍u‍x‍i‍x‍i‍a‍o‍l‍o‍n‍g‍m‍a‍n‍t‍o‍u
+info:Selected 2-bed Room
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 21, 2022
+msg:晚茶氛圍特別好，非常開心
+----------------------------------------
+name:N‍i‍h‍a‍o‍f‍e‍n‍g‍y‍e‍q‍i‍n‍g
+info:Superior Queen Room
+info:Stayed in October 2022
+info:Business travelers
+info:4 Reviews
+rating:4.7
+posted:Posted October 13, 2022
+msg:乾淨、整潔，服務態度好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted March 9, 2023
+msg:很舒適滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in July 2021
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted August 31, 2021
+msg:酒店位置非常好，購物飲食交通都很便利。酒店是老牌五星，房間舒適，服務周到，性價比高，每次回茂名都選擇住這家酒店。
+----------------------------------------
+name:C‍h‍u‍n‍h‍u‍a‍q‍i‍u‍y‍u‍e‍s
+info:Superior Queen Room
+info:Stayed in August 2022
+info:Business travelers
+info:43 Reviews
+rating:4
+posted:Posted September 19, 2022
+msg:衞生，乾淨，服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2023
+info:Couples
+info:1 Review
+rating:4.5
+posted:Posted February 24, 2023
+msg:很好很好很好
+----------------------------------------
+name:Q‍i‍n‍g‍f‍e‍n‍g‍l‍i‍u‍y‍u‍n‍s‍a‍n
+info:Selected 2-bed Room
+info:Stayed in July 2021
+info:Business travelers
+info:38 Reviews
+rating:5
+posted:Posted October 1, 2021
+msg:衞生非常好，床很舒服，周邊生活方便，酒店早餐好，服務好，交通方便，在市中心，房間的大小適中，下次還會去住
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Business Twin Room
+info:Stayed in March 2023
+info:Family
+info:46 Reviews
+rating:4.2
+posted:Posted April 3, 2023
+msg:房間有黴味
+----------------------------------------
+name:L‍i‍u‍x‍i‍n‍g‍x‍i‍n‍g‍7‍3‍7‍7
+info:Selected 2-bed Room
+info:Stayed in December 2022
+info:Friends
+info:16 Reviews
+rating:5
+posted:Posted December 28, 2022
+msg:乾淨舒適服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in January 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 3, 2022
+msg:謝謝張麗娜經理的早餐贈送服務，態度很好哇，下次也會來的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in July 2022
+info:Business travelers
+info:9 Reviews
+rating:4
+posted:Posted August 5, 2022
+msg:服務態度好！交通便利方便！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Solo travelers
+info:7 Reviews
+rating:5
+posted:Posted June 13, 2023
+msg:房間幾好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted September 30, 2022
+msg:挺不錯的，乾淨衞生
+----------------------------------------
+name:H‍a‍n‍d‍a‍s‍h‍u‍a‍i
+info:Executive Business Twin Room
+info:Stayed in August 2022
+info:Business travelers
+info:40 Reviews
+rating:5
+posted:Posted August 14, 2022
+msg:挺不錯的，感謝服務人員
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2022
+info:Family
+info:23 Reviews
+rating:5
+posted:Posted February 5, 2022
+msg:非常愉快，入住是前台還給升級了房間，非常棒👍
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in April 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted May 6, 2022
+msg:還好，就是前台接待沒這麼熱情。
+----------------------------------------
+name:X‍i‍a‍o‍s‍h‍a‍m‍i‍a‍n
+info:Superior Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:28 Reviews
+rating:5
+posted:Posted September 14, 2022
+msg:環境不錯，出行方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in February 2023
+info:Friends
+info:8 Reviews
+rating:4
+posted:Posted February 11, 2023
+msg:環境一般般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Twin Room
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 4, 2022
+msg:歡歡服務很好，點贊！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 30, 2022
+msg:酒店健身設備挺好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in January 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted January 28, 2023
+msg:房間大舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Twin Room
+info:Stayed in September 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 8, 2022
+msg:乾淨衞生，空間大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in July 2021
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted July 21, 2021
+msg:當地最具標準的一家酒店。設施雖有些年頭了，但五星的素質一點沒丟，下次還會入住。
+----------------------------------------
+name:3‍4‍1‍6‍3‍3‍8‍5‍4
+info:Selected 2-bed Room
+info:Stayed in July 2022
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted August 13, 2022
+msg:出差首選，以後繼續
+----------------------------------------
+name:F‍u‍z‍h‍o‍n‍g‍q‍i‍a‍n‍x‍i‍n‍g‍d‍e‍l‍u‍s‍h‍a‍n‍g
+info:Deluxe Queen Room
+info:Stayed in May 2022
+info:Business travelers
+info:53 Reviews
+rating:5
+posted:Posted May 20, 2022
+msg:房間温馨，設施都很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in August 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted August 12, 2022
+msg:很好的一個酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in August 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 2, 2022
+msg:一如既往的好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in June 2022
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted June 6, 2022
+msg:環境很好，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in August 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 28, 2022
+msg:往食都比較好
+----------------------------------------
+name:K‍E‍W‍E‍N‍F‍E‍I
+info:Selected 2-bed Room
+info:Stayed in December 2021
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted January 9, 2022
+msg:老牌酒店，設施有更新，價格偏高。
+----------------------------------------
+name:c‍h‍e‍v‍r
+info:Selected 2-bed Room
+info:Stayed in August 2022
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted August 24, 2022
+msg:環境衞生很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in January 2022
+info:Family
+info:4 Reviews
+rating:4.5
+posted:Posted February 3, 2022
+msg:住了豪華套房，房間不錯。
+----------------------------------------
+name:D‍J‍9‍8‍1‍V
+info:Superior Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted September 6, 2022
+msg:下週再去了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in December 2021
+info:Booked for others
+info:4 Reviews
+rating:5
+posted:Posted February 18, 2022
+msg:還可以吧！接待的。。。。。。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 27, 2022
+msg:很好，下次再來。
+----------------------------------------
+name:H‍u‍i‍x‍i‍a‍n‍t‍i‍a‍n‍y‍a‍o
+info:Executive Business Twin Room
+info:Stayed in August 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted August 28, 2022
+msg:非常棒棒噠
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in May 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted June 27, 2022
+msg:交通方便服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Twin Room
+info:Stayed in February 2022
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted February 11, 2022
+msg:非常好乾凈衞生服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in November 2021
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted November 16, 2021
+msg:房間還不錯，靠馬路房間有點吵
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Twin Room
+info:Stayed in March 2022
+info:Business travelers
+info:5 Reviews
+rating:4.7
+posted:Posted May 22, 2022
+msg:房間乾淨，服務好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in August 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted August 5, 2022
+msg:總體都不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in July 2022
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted July 27, 2022
+msg:服務很周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2022
+info:Business travelers
+info:6 Reviews
+rating:4.2
+posted:Posted September 5, 2022
+msg:住宿還不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in November 2021
+info:Friends
+info:86 Reviews
+rating:5
+posted:Posted November 18, 2021
+msg:茂名市區最好的酒店
+----------------------------------------
+name:g‍q‍0‍1‍1
+info:Deluxe Queen Room
+info:Stayed in November 2021
+info:Friends
+info:12 Reviews
+rating:4
+posted:Posted November 16, 2021
+msg:工作人員的服務不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected 2-bed Room
+info:Stayed in March 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted March 10, 2022
+msg:不錯……啊
+----------------------------------------
+name:H‍o‍n‍g‍t‍a‍i‍l‍a‍n‍g‍j‍i‍a‍d‍e‍x‍i‍a‍o‍h‍u‍i‍h‍u‍i
+info:Deluxe Queen Room
+info:Stayed in January 2022
+info:Solo travelers
+info:7 Reviews
+rating:5
+posted:Posted January 29, 2022
+msg:挺好的挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in June 2021
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted June 11, 2021
+msg:酒店環境好，服務到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in May 2021
+info:Family
+info:16 Reviews
+rating:4
+posted:Posted October 1, 2021
+msg:早餐挺好的，衞生也不錯
+----------------------------------------
+name:A‍n‍n‍a‍B‍�‍�‍P‍r‍o‍m‍i‍s‍e‍&‍V‍i‍c‍t‍o‍r‍i‍a‍m‍a‍m‍i
+info:Deluxe Queen Room
+info:Stayed in April 2021
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted July 26, 2021
+msg:出行方便，設施成熟
+----------------------------------------
+name:D‍a‍h‍a‍i
+info:Deluxe Queen Room
+info:Stayed in December 2021
+info:Friends
+info:17 Reviews
+rating:1
+posted:Posted December 16, 2021
+msg:I didn't expect this hotel to be extremely bad! I booked two nights with Ctrip and stayed one night because I had to check out early and there was no refund. There are also such overbearing terms. Everyone must be careful when booking this hotel! ! ! As a long-time user of Ctrip, I will no longer use the Ctrip platform because of this kind of thing. The platform has come to an end because of the entanglement with merchants and the deception of users.
+----------------------------------------

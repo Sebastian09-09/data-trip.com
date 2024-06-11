@@ -1,0 +1,797 @@
+name:F‍a‍r‍e‍s‍@‍1
+info:Budget Standard Room (Affiliated building)
+info:Stayed in October 2021
+info:Couples
+info:12 Reviews
+rating:4
+posted:Posted October 3, 2021
+msg:Great. Like my stay here
+
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 17, 2024
+msg:酒店服務很好，店員們都很熱心，主動幫我們拿行李按電梯。房間乾淨整潔，就在漢街逛街很方便，去東湖沙湖散步也很方便。住店舒心愉快，下次還來。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 17, 2024
+msg:酒店地理位置很好，交通便利，去黃鶴樓、東湖、武漢大學都很近。酒店的服務也挺好的，房間我也很滿意。
+----------------------------------------
+name:l‍s‍h‍h‍2‍8
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Other
+info:5 Reviews
+rating:3.2
+posted:Posted March 6, 2024
+msg:位置不錯，可能是老酒店服務還可以，但設施相對陳舊。還有就是早上8點去吃早餐，種類太少而且份量不足多半已是空盤。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:75 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:初次出差選擇該酒店，整體體驗很好，入住方便舒心。
+酒店的服務也很好。
+設施齊全，性價比較高。旅遊季節，酒店房間不太好預訂，需要提早預訂。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 1, 2024
+msg:在東湖大廈住了一晚，非常舒適，服務人員的態度也非常好，平台上購買的票，下了火車5點多到的酒店，本來應該8點以後入住的，服務員提前給辦理了，房間住的特別舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:4 Reviews
+rating:3.2
+posted:Posted October 4, 2023
+msg:房間太舊，床頭沒插座，放水壺那裡本來有一個插座，準備充電，結果是壞的！其他地方晚上關了燈就不能沖，導致今天一大早起來開燈充電，太心塞了！本來訂的三晚，結果後面兩天就退了換酒店！再也不選擇這個酒店了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:5 Reviews
+rating:1.5
+posted:Posted March 27, 2023
+msg:最差的一次入住體驗，純屬花錢找罪受。商務型酒店比不上宜尚、全季，國企類酒店跟洪山賓館差的也不是一點半點。服務員一個比一個脾氣大，要麼愛搭不理，要麼以命令式的口吻指揮你。床頭沒有充電插口；房間不透氣，悶熱，空調沒有涼風，窗户衹有一扇，風進不來。服務員補充一次性消耗品看心情，有時候不補護髮素，有時候不補潤膚露。
+----------------------------------------
+name:P‍o‍p‍p‍e‍r‍1‍2‍7
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:2
+posted:Posted April 9, 2024
+msg:所謂的商務大床房是兩個1米2的單人床拼的，中間還有縫，早餐很差，什麼都沒有，是對5星有誤解麼！
+----------------------------------------
+name:S‍h‍i‍c‍h‍u‍a‍n‍t‍i‍n‍g‍h‍a‍n‍q‍i‍n‍h‍u
+info:Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:55 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:剛開始看到評價嚇一跳，實際入住後感覺挺好的，位置也不錯，早餐也不錯，睡的也挺踏實的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2023
+info:Couples
+info:6 Reviews
+rating:3
+posted:Posted February 12, 2023
+msg:衹此一次，以後絕不住這。剛到停車場，不讓進，説是住店，還嘚啵嘚啵不停，説好多不住店停這的，給看了訂單才進。洗澡花灑根本不能卸下來，洗的不方便。大床房其實是兩個床拼一起的。外面不遠處有工程，比較吵。外賣不讓送進來，放前台都不行，衹放在門外台階上。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 21, 2024
+msg:設施：房間設施齊全
+衞生：衞生很乾凈
+環境：環境舒適
+服務：服務很到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 6, 2023
+msg:房間足夠大，清潔衞生。看評價説設備陳舊，個人感覺還是不錯的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Suite
+info:Stayed in June 2023
+info:Business travelers
+info:2 Reviews
+rating:2
+posted:Posted June 8, 2023
+msg:房間有煙味，地毯感覺皮膚癢癢的，設備陳舊，服務一般，説是五星級，最多也就三星級，早餐7點半開放太晚，早餐單調不豐富，看不出這是一家五星級酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Family
+info:2 Reviews
+rating:2
+posted:Posted March 31, 2024
+msg:3月28度的天氣，西曬温度高，一晚上無法入睡
+----------------------------------------
+name:Y‍o‍u‍m‍o‍z‍u‍i‍t‍i‍a‍n‍d‍o‍u‍l‍i‍y‍o‍u‍q‍i‍a‍n
+info:Deluxe Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:27 Reviews
+rating:1
+posted:Posted March 12, 2023
+msg:反正我是一星都不想給！
+1、酒店環境和房間差得哪像五星級？不帶這麼忽悠人的。
+2、酒店服務員態度惡劣，外賣不讓上樓也就算了，我説我在洗澡能不能幫我拿到我的房間門口，她説沒空，我洗完澡下樓去拿外賣，幾個女的坐在前台閑聊。
+3、我讓前台送個打火機，她説沒有。不讓抽煙。我説換個可以抽煙的樓層，她説對不起，我們酒店都不允許抽煙，您要抽，門口去。
+
+欠揍型酒店。
+
+唯一讓我覺得欣慰的是，酒店前台350房間，我在攜程買貴了，攜程立馬給我退了差價。給攜程好評！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 20, 2024
+msg:早餐種類很多，趕緊整潔，服務也不錯，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:2
+posted:Posted July 31, 2023
+msg:送水的服務簡直了。多要一瓶水説房間已經有兩瓶免費的，在要就要收費。大武漢的酒店這麼對待顧客。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Solo travelers
+info:18 Reviews
+rating:4
+posted:Posted May 24, 2024
+msg:總體還可以，交通便利，性價比不錯
+----------------------------------------
+name:Z‍h‍e‍n‍g‍d‍a‍s‍h‍a‍o‍a‍i‍c‍h‍u‍c‍h‍a
+info:Deluxe Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:119 Reviews
+rating:5
+posted:Posted April 18, 2023
+msg:武漢 比較老的5星級酒店。總體來説。性價比很高,酒店正常設施都齊全，停車很方便。也有泳池和健身房，就是入住的房間不是很大， 床很舒服. 推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:20 Reviews
+rating:4
+posted:Posted May 13, 2024
+msg:可以，老牌酒店，中規中矩
+----------------------------------------
+name:x‍f‍z‍j‍h
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:43 Reviews
+rating:5
+posted:Posted January 26, 2024
+msg:位置不錯，乾淨整潔。停車場不大。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2022
+info:Solo travelers
+info:1 Review
+rating:3.7
+posted:Posted August 29, 2022
+msg:硬件有不少小瑕疵。出現的問題包括：衣櫃的門一拉開就垮了一半下來（後維修好），冰箱櫃門閉合困難，四個枕頭套有兩個上面有明顯的一塊黴菌斑（後更換），冰箱製冷不夠。另外，作為商務房，欠缺基本的商務設施。如床頭附近沒有充電的地方，書桌下方枱燈的插座是壞的，無法使用枱燈及充電。在房間內，要想給手機及電腦充電，衹能使用吧枱熱水壺的插座或廁所吹風機的插座，極為不便.
+
+早餐一般。
+
+我持港澳通行證入住時，不知何故，武漢戰疫APP上未能有效顯示行程卡及機場落地核算檢測資料。其實衹要關聯武漢行程卡及武漢健康兩個APP便能解決問題，但前台服務員卻未能在這方面提供有效指引。作為五星級酒店的前台接待人員，如能更熟悉相關手續的辦理流程，協助非武漢市居民、非境內居民入住，會更符合客人的預期。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Other
+info:9 Reviews
+rating:5
+posted:Posted December 7, 2023
+msg:房間環境不錯，服務熱情，乾淨衞生。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Suite
+info:Stayed in May 2023
+info:Business travelers
+info:4 Reviews
+rating:3
+posted:Posted May 5, 2023
+msg:花灑固定不滿意，床頭無插座。前台服務員小姐姐態度也是很無語🙄辦理效率有待提高
+----------------------------------------
+name:M‍i‍c‍k‍.‍c‍u‍i
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Other
+info:7 Reviews
+rating:5
+posted:Posted November 11, 2023
+msg:周圍環境很好，酒店乾淨，就是早餐一般般
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:6 Reviews
+rating:4.5
+posted:Posted April 17, 2023
+msg:電視機有些老，不間斷電源無電，價格比同類型酒店貴，雙人間衹有一份早餐
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:5 Reviews
+rating:4.5
+posted:Posted February 15, 2024
+msg:整體來説還是不錯的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted April 21, 2024
+msg:空間很大，舒適。
+----------------------------------------
+name:T‍i‍a‍o‍d‍e‍n‍g‍z‍o‍u‍m‍a
+info:Business Single Room
+info:Stayed in June 2022
+info:Solo travelers
+info:54 Reviews
+rating:1
+posted:Posted June 3, 2022
+msg:因為很晚到第二天又要很早出發，所以預訂了價格相對實惠的老牌五星。但是沒想到是真的差，首先服務態度就有問題，我晚上1點半到店，已經沒有其他客人出入了，幫忙提拿行李或者打招呼我就不奢望這裏了，門口甚至並沒有人負責防控掃碼打卡；到了前台發現居然沒有人了，不知道是下班了還是在睡覺，喊了半天沒人出來，實在沒辦法打了酒店電話，才有人出來辦理入住，一個五星級酒店連24小時值守前台都沒有的嗎，還很理所應當的樣子；然後是房間，床頭沒有插孔因為老酒店了我還勉強理解，連礦泉水都沒有我就無語了（迷你吧也空空如也）；酒店早餐是放到外賣盒送到房間裏，不知道是不是防控需要，但是武漢其他的酒店沒有這麼做啊；最後還想説，因為行李寄存在酒店，當外出遊玩結束的時候趕動車比較急，所以在坐出租車回酒店取行李的路上就提前打電話到前台，希望能幫忙把行李送到大門口，我就不需要再進入酒店取行李，能夠節省時間。結果提前8分鐘打電話（當時是10點半左右，不是辦理入住的高峯期），結果我到了酒店以後發現門口既沒人也沒行李，進去之後發現三個員工在聊天，之前一口答應提前取出的行李還在儲物間沒拿出來，呵呵。我衹想説，就這樣的服務態度對賓客連最基本的尊重都沒有。一家酒店可以硬件差，但如果連最基本的東西都丟了，那離涼涼也差的不遠了。我給1分都是客氣！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 11, 2024
+msg:很不錯，位置很棒。
+----------------------------------------
+name:K‍a‍l‍a‍y‍a‍n‍g
+info:Deluxe Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:30 Reviews
+rating:3
+posted:Posted April 17, 2023
+msg:太陳舊特別是洗手間浴室設備。。。跟房價不匹配。。。不會再住了！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 27, 2024
+msg:總體還可以！
+----------------------------------------
+name:H‍i‍P‍h‍i‍X‍6‍6‍6‍2‍2
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:30 Reviews
+rating:5
+posted:Posted September 10, 2023
+msg:非常滿意，停車便利，服務周到，
+----------------------------------------
+name:X‍u‍r‍i‍r‍a‍n‍r‍a‍n‍d‍o‍n‍g‍s‍h‍e‍n‍g
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Business travelers
+info:2 Reviews
+rating:4
+posted:Posted January 12, 2023
+msg:品牌店，不錯，就是早晨沒有自助餐，送到房間吃不是很好
+----------------------------------------
+name:W‍o‍n‍d‍e‍r‍-‍l‍i‍n
+info:Deluxe Double Room
+info:Stayed in March 2024
+info:Booked for others
+info:5 Reviews
+rating:5
+posted:Posted March 4, 2024
+msg:好，代訂的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2022
+info:Solo travelers
+info:1 Review
+rating:4.5
+posted:Posted August 12, 2022
+msg:20年前的五星級、後來掉星，現在住根本不值那價格！房間有股味道！在武漢就200的檔次！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted September 24, 2023
+msg:環境好！服務員態度好！
+----------------------------------------
+name:T‍i‍a‍n‍y‍o‍n‍g‍h‍u‍i
+info:Deluxe Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:3 Reviews
+rating:4.2
+posted:Posted May 24, 2023
+msg:房間幹潔整潔，交通便利，服務態度好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:4
+posted:Posted January 7, 2024
+msg:還不錯，衞衞生
+----------------------------------------
+name:Z‍a‍i‍h‍a‍n‍t‍a‍i‍b‍a‍o‍d‍a‍b‍a‍n‍g‍q‍i‍u
+info:Business Single Room
+info:Stayed in December 2021
+info:Solo travelers
+info:17 Reviews
+rating:3.2
+posted:Posted December 27, 2021
+msg:🚗 交通：很方便
+🧹衞生：衞生不行，清理的時候沒認真打掃，水杯、甚至浴巾都沒換就疊了一下
+🍃環境：比較老舊，房間大床旁邊沒有充電口，很不方便
+🔔服務：一般，清潔人員沒認真打理客房
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:3 Reviews
+rating:4
+posted:Posted June 3, 2022
+msg:還算不錯吧。就是裝修已經上古時期的了。沖澡的噴頭不能用手拿，衹能讓從天而降，不洗頭髮也得洗頭髮。
+----------------------------------------
+name:J‍i‍n‍q‍i‍u
+info:Deluxe Room (2 beds)
+info:Stayed in February 2022
+info:Business travelers
+info:194 Reviews
+rating:4.7
+posted:Posted February 22, 2022
+msg:老酒店了，有游泳館不錯，進門廊上面氣窗板不停的掉下來，馬桶沖完不動幾下按鈕水聲不停，其他還好！也是距辦事點一路之隔
+----------------------------------------
+name:L‍i‍e‍-‍y‍u‍f‍e‍n‍g
+info:Deluxe Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:9 Reviews
+rating:2.7
+posted:Posted February 25, 2023
+msg:一張房卡居然要50，吃相難看
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:2 Reviews
+rating:2.7
+posted:Posted October 3, 2023
+msg:服務一般般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Standard Room (Affiliated building)
+info:Stayed in July 2021
+info:Family
+info:16 Reviews
+rating:2.2
+posted:Posted August 21, 2021
+msg:泳池空間壓抑，並外包給第三方管理規矩多多。你懂的，，，，，1.不能自帶充氣游泳圈，為了安全，衹能租他的，收費理由妥妥的。2.泳道衹有一根供客人使用，其他泳道給他們的學員使用，但時不時的對方學員也來練習佔用。但客人去他們的泳道那就不行了，這時會有人來好心的提醒你，別去，擔心學員會蹬到你，，，，好笑吧。所以帶娃為玩水的客人請繞到為佳。酒店已喪失了基礎的服務，暑假中一路上住了，很多帶泳池的店，此家是最差了的，沒有對比就沒有傷害
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Friends
+info:99 Reviews
+rating:5
+posted:Posted February 16, 2023
+msg:環境可以，周邊吃飯了入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted October 13, 2023
+msg:衞生環境好
+----------------------------------------
+name:w‍h‍a‍t‍e‍v‍e‍r‍w‍h‍e‍r‍e
+info:Budget Standard Room (Affiliated building)
+info:Stayed in July 2021
+info:Friends
+info:20 Reviews
+rating:3.7
+posted:Posted August 2, 2021
+msg:附樓有安全隱患，不用卡也能進大堂和電梯。而且附樓沒有值班大堂工作人員及保安。此外，早上泳池有三個培訓班，建議劃分4個泳道路，給住店客人留一個活動區域
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:9 Reviews
+rating:4
+posted:Posted April 26, 2023
+msg:老酒店了，有傳統
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Family
+info:32 Reviews
+rating:5
+posted:Posted April 21, 2023
+msg:服務周到態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Standard Room (Affiliated building)
+info:Stayed in August 2021
+info:Family
+info:7 Reviews
+rating:3.5
+posted:Posted August 21, 2021
+msg:老牌五星級酒店，基本設施是可以的，房間床舖都干淨，距離地鐵站都是10分鐘路程左右，最方便就是萬達就在旁，吃飯及購物非常方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted February 16, 2023
+msg:衞生好舒適度高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Standard Room (Affiliated building)
+info:Stayed in June 2021
+info:Other
+info:1 Review
+rating:1
+posted:Posted July 1, 2021
+msg:剛買的電動刮鬍刀很確定落在酒店裡了，因為退完房就開車走了，結果酒店服務人員説沒看到，奇了怪了，洗面奶和刮鬍刀放在一起，説沒撿到誰信啊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:6 Reviews
+rating:4
+posted:Posted February 17, 2023
+msg:每次來都住這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted March 12, 2023
+msg:服務非常好！
+----------------------------------------
+name:l‍b‍z‍9‍0‍7
+info:Budget Standard Room (Affiliated building)
+info:Stayed in August 2021
+info:Business travelers
+info:75 Reviews
+rating:3.7
+posted:Posted August 6, 2021
+msg:比較老的酒店，設備都有年頭了。位置不錯，離步行街不遠，吃飯也方便。服務不挺好的，辦理入住和退房都很快。
+----------------------------------------
+name:S‍h‍u‍a‍i‍z‍h‍a‍t‍i‍a‍n‍j‍i‍d‍e‍x‍i‍x‍i
+info:Business Room (2 beds)
+info:Stayed in June 2021
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted July 22, 2021
+msg:第一次入住這個酒店，總體來説，入住的感受還是很不錯的。房間足夠大，衞生環境什麼的也都還不錯，下次會再來入住的。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted October 7, 2022
+msg:乾淨整潔，環境安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Standard Room (Affiliated building)
+info:Stayed in June 2021
+info:Friends
+info:5 Reviews
+rating:4.7
+posted:Posted June 11, 2021
+msg:1.免費游泳池，棒極了。但是游泳館男工作人員態度差！
+2.離漢街近。
+3.周邊吃喝方便，大超市，飯店
+4.床舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room - Single Occupancy (Affiliated building)
+info:Stayed in June 2021
+info:Business travelers
+info:16 Reviews
+rating:2.2
+posted:Posted September 20, 2021
+msg:裙樓不在酒店裡麪，與主樓相隔五十米，需要走出接待大廳，房間太小，裙樓就是裙樓的價格，感覺就是招待所。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted September 7, 2022
+msg:房子超大，乾淨整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2021
+info:Business travelers
+info:1 Review
+rating:4.2
+posted:Posted June 15, 2021
+msg:安靜，乾淨。服務態度好。設施有點老舊，但是床還是很舒適，設施不影響使用，比較完備。
+----------------------------------------
+name:�‍�‍y‍o‍u‍y‍o‍u‍�‍�
+info:Deluxe Room (2 beds)
+info:Stayed in October 2022
+info:Business travelers
+info:6 Reviews
+rating:3
+posted:Posted October 10, 2022
+msg:離家近，方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted June 27, 2022
+msg:舒服，方便，好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Couples
+info:15 Reviews
+rating:5
+posted:Posted February 19, 2022
+msg:老牌酒店了，周圍交通購物比較方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room - Single Occupancy (Affiliated building)
+info:Stayed in December 2021
+info:Couples
+info:1 Review
+rating:4.2
+posted:Posted January 2, 2022
+msg:比較乾淨整潔，燈光有點昏暗
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Budget Standard Room (Affiliated building)
+info:Stayed in September 2021
+info:Solo travelers
+info:43 Reviews
+rating:4.2
+posted:Posted October 2, 2021
+msg:泳池很亂，更衣室也比較臟，亟需維護
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Budget Standard Room (Affiliated building)
+info:Stayed in June 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 8, 2021
+msg:位置很好找，很好的店家，很好的用餐體驗。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted September 12, 2021
+msg:多次入住，房間大，位置很好！
+----------------------------------------
+name:K‍e‍v‍i‍n
+info:Business Room (2 beds)
+info:Stayed in March 2022
+info:Business travelers
+info:32 Reviews
+rating:5
+posted:Posted May 8, 2022
+msg:老地方的感覺
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2021
+info:Business travelers
+info:11 Reviews
+rating:3
+posted:Posted February 15, 2022
+msg:太老了酒店，以後不會住了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room - Single Occupancy (Affiliated building)
+info:Stayed in June 2021
+info:Friends
+info:12 Reviews
+rating:5
+posted:Posted June 13, 2021
+msg:床稍稍有點小，其他都不錯！
+----------------------------------------
+name:X‍i‍n‍y‍u‍a‍n
+info:Budget Standard Room (Affiliated building)
+info:Stayed in November 2021
+info:Friends
+info:1 Review
+rating:4.5
+posted:Posted November 23, 2021
+msg:朋友來武漢住宿
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Standard Room (Affiliated building)
+info:Stayed in September 2021
+info:Business travelers
+info:1 Review
+rating:3.2
+posted:Posted September 11, 2021
+msg:按金一週了還沒退
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Room - Single Occupancy (Affiliated building)
+info:Stayed in December 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 26, 2021
+msg:經濟實惠。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Standard Room (Affiliated building)
+info:Stayed in December 2021
+info:Business travelers
+info:2 Reviews
+rating:4.5
+posted:Posted December 21, 2021
+msg:環境非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Standard Room (Affiliated building)
+info:Stayed in July 2021
+info:Business travelers
+info:56 Reviews
+rating:5
+posted:Posted July 12, 2021
+msg:房間雖小但設施挺全
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Budget Room - Single Occupancy (Affiliated building)
+info:Stayed in October 2021
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted November 5, 2021
+msg:很不錯的地方
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted July 2, 2021
+msg:可游泳健身，早餐不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Couples
+info:1 Review
+rating:5
+posted:Posted June 19, 2021
+msg:入住后非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Suite
+info:Stayed in September 2021
+info:Business travelers
+info:34 Reviews
+rating:5
+posted:Posted September 8, 2021
+msg:非常的滿意
+----------------------------------------
+name:Z‍J‍Y‍1‍4‍2‍8‍5‍7
+info:Budget Room - Single Occupancy (Affiliated building)
+info:Stayed in June 2021
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted June 19, 2021
+msg:不錯不錯呀。
+----------------------------------------
+name:n‍a‍d‍a‍8‍2
+info:Business Single Room
+info:Stayed in July 2021
+info:Business travelers
+info:4 Reviews
+rating:4.5
+posted:Posted July 15, 2021
+msg:游泳池不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 6, 2021
+msg:性價比很高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Budget Standard Room (Affiliated building)
+info:Stayed in June 2021
+info:Other
+info:9 Reviews
+rating:5
+posted:Posted July 27, 2021
+msg:入住舒適！
+----------------------------------------

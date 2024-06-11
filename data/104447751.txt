@@ -1,0 +1,722 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in March 2024
+info:Couples
+info:2 Reviews
+rating:4.7
+posted:Posted March 31, 2024
+msg:Nice spacious room, staff are generally helpful.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in May 2024
+info:Solo travelers
+info:10 Reviews
+rating:5
+posted:Posted May 23, 2024
+msg:Neat. Good location, Self Serviced.
+----------------------------------------
+name:M‍r‍ ‍H
+info:Studio
+info:Stayed in July 2023
+info:Solo travelers
+info:12 Reviews
+rating:3
+posted:Posted July 11, 2023
+msg:The serviced apartment was underwhelming, for the price and brand, I expected it to live up to other 5 star places, but the room smelt a bit off and the a few of the amenities were partially broken. 
+
+Overall it was fine, just expected a bit more from a 5 star establishment
+----------------------------------------
+name:L‍i‍m‍ ‍P‍e‍i‍ ‍L‍i‍n‍g‍,‍ ‍K‍r‍i‍s‍t‍e‍n
+info:Three-bedroom Service Apartment
+info:Stayed in March 2024
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted May 23, 2024
+msg:Great
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Three-bedroom Service Apartment
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:3.7
+posted:Posted May 13, 2024
+msg:The location is good. I searched for a long time before my family took a short trip to Guangzhou, and finally found a rare three-bedroom apar**ent, which is convenient for taking care of.
+The decoration is fashionable, and the open kitchen is equipped with cooking utensils, dishes, cups and other supplies, making it convenient for everyone to have a late night snack. Hygiene is good, but facility maintenance needs to be strengthened.
+The front desk was very kind and allowed us to delay check-out until 3pm.
+Overall a nice little travel experience.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Three-bedroom Service Apartment
+info:Stayed in December 2023
+info:Family
+info:5 Reviews
+rating:4.5
+posted:Posted December 29, 2023
+msg:Everything in the hotel is very good, except that on the first day of check-in, there was something wrong with the air conditioning in the living room. It was very hot at 28-29 degrees. It would not be repaired until the next day...
+----------------------------------------
+name:C‍h‍e‍n‍g‍d‍u‍s‍h‍i‍d‍a‍n
+info:Studio
+info:Stayed in November 2023
+info:Business travelers
+info:7 Reviews
+rating:1
+posted:Posted November 15, 2023
+msg:Probably the worst stay experience in the past year. When I checked in at night, the hotel entrance was full of wanderers soliciting customers... There was no WI-FI when I got to the room, and the phone was broken, so I couldn't contact the hotel front desk. After searching for the phone number, I contacted the hotel and was told that it would be fine at 3 a.m., but it turned out that everything was still broken when I woke up the next day. I had some local Guangzhou specialties for breakfast. The shrimp dumpling wrappers were so dry that I couldn’t bite them. The thin seasoning made them bitter. The pineapple buns had no aroma at all. I really don’t recommend staying here...
+----------------------------------------
+name:Z‍h‍e‍n‍g‍x‍i‍n‍g
+info:One-bedroom Service Apartment
+info:Stayed in April 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 29, 2024
+msg:The hotel service is very good, but unfortunately it was the Canton Fair that day and the price was high. In addition, coffee and tea were not provided in the room.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in April 2024
+info:Business travelers
+info:17 Reviews
+rating:4.2
+posted:Posted April 23, 2024
+msg:There are many rooms, the environment is very good, and the facilities are relatively complete
+----------------------------------------
+name:Y‍W‍ ‍L‍e‍u‍n‍g
+info:Three-bedroom Service Apartment
+info:Stayed in March 2024
+info:Family
+info:1 Review
+rating:3.2
+posted:Posted April 1, 2024
+msg:The electric kettle is not clean, the refrigerator has a peculiar smell, and the ice tray does not freeze.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Three-bedroom Service Apartment
+info:Stayed in March 2024
+info:Friends
+info:1 Review
+rating:2.5
+posted:Posted March 31, 2024
+msg:Smoke smell in three bedrooms apartment and not clean enough, cannot check in at 3pm and we need to wait for 50mins
+There is a strong smell of smoke, not clean enough, no dish soap and laundry detergent are provided, the room is not available until 3:50
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Three-bedroom Service Apartment
+info:Stayed in March 2024
+info:Friends
+info:1 Review
+rating:4.7
+posted:Posted March 25, 2024
+msg:There is no waste paper in the three rooms. There are only 4 sets of toothbrushes and slippers for 7 people. You have to ask the front desk to replace them. There are no tea bags or coffee, which is not appropriate.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in September 2023
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted September 9, 2023
+msg:Overall very good and recommended￼
+
+Facilities: perfect
+Hygiene: clean
+Environment: OK
+The service was excellent
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Three-bedroom Service Apartment
+info:Stayed in October 2023
+info:Friends
+info:35 Reviews
+rating:5
+posted:Posted November 11, 2023
+msg:The room is large, the view is great, and the service is also very good
+----------------------------------------
+name:Y‍C‍8‍0‍0
+info:Two-bedroom Service Apartment
+info:Stayed in February 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 9, 2024
+msg:The service attitude is very good and deserves praise. Everything is very good. I highly recommend staying here.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Service Apartment
+info:Stayed in February 2024
+info:Family
+info:13 Reviews
+rating:4
+posted:Posted April 28, 2024
+msg:The lobby is rather stingy. The room decoration style is black glass, black sofa, black table and chair. It is a bit depressing. I don't like the style very much.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Two-bedroom Service Apartment
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:3
+posted:Posted February 13, 2024
+msg:More than 4,600 per night. I stayed for two consecutive nights. The bedding was not changed and the room hygiene was average. The most important thing was that the service was terrible. The front desk service was also very poor. There was no service. There was a station. The concierge was only responsible for standing around. When we were staying at the hotel, he looked at us with so much luggage and didn't help us. He didn't even help us push the boxes. The same thing happened when we left the hotel. As a pregnant woman, I didn't help push the boxes. , I am still only responsible for standing, let alone helping to carry the box to the car. I watch you unable to lift the box and then stand indifferently. Fortunately, the taxi driver helped me carry the box. It was like this for more than 4,000 yuan a night. I am speechless about the service. This is the worst service in a hotel I have ever stayed in.
+----------------------------------------
+name:C‍a‍n‍g‍h‍a‍i‍d‍o‍n‍g‍w‍a‍n‍g
+info:One-bedroom Service Apartment
+info:Stayed in August 2023
+info:Business travelers
+info:28 Reviews
+rating:3.7
+posted:Posted August 12, 2023
+msg:I chose a hotel apar**ent because I like this kind of home-feeling hotel with a larger area during my recent business trips.
+Compared to the W hotel, the apar**ent hotel is really disappointing, sorry for the W brand.
+The front desk staff of the W Hotel was very enthusiastic. Because they didn't know where the apar**ent was, they took the initiative to take me to the opposite building.
+I went in, and it was disappointing. The front desk was so small that it didn’t look like a 5-star hotel. The staff at the front desk almost left, and they almost couldn’t check in. The uniforms at the front desk are not as good as those of a 4-star hotel. Maybe the aesthetics are different. I feel deeply similar to W The hotel is not a level at all, more like a staff dormitory.
+After checking in, the room number is very difficult to identify, it is in bold, and the location is low, so it is hard to find.
+I don't even have basic tea bags, so I have to go downstairs and ask the front desk for them.
+The refrigerator is empty, and for such an expensive house price, there are not even a few bottles of cold drinks and small snacks, so arrogant.
+The sink is so small that I think this is a 5-star hotel? ?
+The reception attitude of the front desk staff is cold, and I don't know if the apar**ent hotel has another training system, which is completely unrefined.
+The layout of the room is quite good, the bed is very comfortable, the sofa is also very good, the carpet is clean, and it is very comfortable to walk barefoot.
+The last piece of advice, as a local service, don't be so enthusiastic about foreigners, and do a good job of local service. If it doesn't work, you can learn from the W Hotel next door.
+----------------------------------------
+name:S‍a‍m‍S‍a‍m
+info:Three-bedroom Service Apartment
+info:Stayed in December 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted December 17, 2023
+msg:Very nice apar**ent
+----------------------------------------
+name:M‍a‍o‍j‍i‍a‍n‍g‍m‍a‍o‍j‍i‍a‍n‍g
+info:Three-bedroom Service Apartment
+info:Stayed in December 2023
+info:Family
+info:10 Reviews
+rating:4
+posted:Posted March 7, 2024
+msg:Let’s talk about the advantages first. The location is very good. There are shopping malls and convenience stores within walking distance. It’s very convenient to go anywhere. The living room is large and the floor is high. The night view is very good through the floor-to-ceiling windows. It is more convenient for a family to live together with three bedrooms and one living room to take care of each other. The apar**ent price is slightly lower than booking three rooms at the W Hotel next door.
+
+As for the shortcomings, I booked it after looking at the W sign. After checking in, I found that the facilities and services were still different from those of the hotel. The master bedroom bathroom always smelled like sewer, which was very unpleasant. The three bedrooms are all large bed rooms with only three quilts. We stayed in a five-bedroom apar**ent and did not exceed the number of guests. However, when we asked the front desk to add a quilt, we were told that we could only add one for free.
+----------------------------------------
+name:S‍t‍e‍p‍h‍e‍n‍ ‍W‍a‍y
+info:Studio
+info:Stayed in December 2023
+info:Family
+info:7 Reviews
+rating:1.7
+posted:Posted December 10, 2023
+msg:Don't stay in the apar**ent. There are no tea bags, no coffee bags, no cups or tableware in the room. There is construction work at the intersection. The food at the buffet needs to be improved. The attitude of the waiters is average and there is no warm feeling.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Two-bedroom Service Apartment
+info:Stayed in October 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted October 20, 2023
+msg:The hotel has a good location and the service is attentive. They carefully mailed and returned the things we left behind. The decoration style is very nice.
+----------------------------------------
+name:F‍e‍n‍g‍k‍u‍a‍n‍g‍d‍e‍b‍e‍i‍d‍u‍o‍f‍e‍n
+info:One-bedroom Service Apartment
+info:Stayed in October 2023
+info:Business travelers
+info:55 Reviews
+rating:4.2
+posted:Posted October 13, 2023
+msg:The room is originally dark in color, and all use small light bulbs. The dim lights make it difficult to see anything clearly, so at least give me a bright option. . . The room was nice, big and spacious, but the light was really hard to describe, as if I was living in a cave, which was extremely depressing. . .
+----------------------------------------
+name:W‍a‍l‍k‍e‍r‍@‍A‍M‍X
+info:Studio
+info:Stayed in March 2024
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted March 22, 2024
+msg:Yes, it would be better if there is a washing machine
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Service Apartment
+info:Stayed in September 2023
+info:Family
+info:2 Reviews
+rating:4.2
+posted:Posted October 1, 2023
+msg:There is a parking lot, and the decoration style is cool, not suitable for parents and children. The variety of breakfast is relatively rich. Higher grade type. Overall it's better and quieter. The slightly bad thing in my impression is that the air conditioner is relatively cold and it takes a long time to warm up after turning it on.
+----------------------------------------
+name:F‍a‍n‍g‍f‍e‍i‍s‍i‍y‍u‍e
+info:Studio
+info:Stayed in August 2023
+info:Business travelers
+info:38 Reviews
+rating:5
+posted:Posted October 14, 2023
+msg:The service attitude is very good, the environment is quiet and elegant, and the hotel design is superb👍🏻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in October 2023
+info:Friends
+info:2 Reviews
+rating:1
+posted:Posted October 16, 2023
+msg:It's a very bad apar**ent, and it's even given the title of W just to make a fuss.
+----------------------------------------
+name:L‍e‍o‍H‍a‍w‍a‍i‍i
+info:Studio
+info:Stayed in July 2023
+info:Family
+info:10 Reviews
+rating:4.7
+posted:Posted August 2, 2023
+msg:1. The temperature adjus**ent range of the air conditioner is small.
+2. The washing machine and dryer are loud.
+3. The quality of toilet paper is low.
+4. The layout of the power socket is inconvenient.
+5. There are few TV channels.
+6. The hardware is good.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in July 2023
+info:Other
+info:4 Reviews
+rating:1
+posted:Posted July 31, 2023
+msg:Very poor, poor sanitation and service is about 0. It was okay a few years ago. I don’t know why it has become so bad now. It’s so far behind that I can’t even live
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Two-bedroom Service Apartment
+info:Stayed in July 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted July 20, 2023
+msg:The facilities in the room are relatively complete, and the staff are very friendly, especially the little brother Ray at the front desk. The service is very good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Two-bedroom Service Apartment
+info:Stayed in June 2023
+info:Friends
+info:3 Reviews
+rating:4
+posted:Posted June 5, 2023
+msg:Extremely bad review!
+Complaints against the security guards for being arrogant, rude and threatening; the front desk lady failed to coordinate fairly and agreed to call the police, but she was just pretending to be full of slander, and the police did not expose her collusion with the male security guard until they arrived! I would like to reiterate here that one is to ask the platform to verify the situation with the hotel; the other is to ask the hotel to reply with a written email to inform the handling situation.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Service Apartment
+info:Stayed in May 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 27, 2023
+msg:Brother Eason and Miss Lu Yao at the front desk are really good at serving, making people feel like coming home. It has been rainy in Guangzhou for the past two days. When I went out, Ms. Lu Yao kindly helped me check the weather forecast in various districts, and even helped me get a sun umbrella. So warm 👍👍👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Service Apartment
+info:Stayed in May 2023
+info:Business travelers
+info:6 Reviews
+rating:2
+posted:Posted May 20, 2023
+msg:The bed is very soft. If you have a bad waist, don't come here. Feedback to the front desk and asked if you can add a hard mattress. The front desk said that there is no other way but to bear it, and accept it! There was no such thing in Shangri-La and Ritz-Carlton before, and I will never come to w again
+----------------------------------------
+name:L‍e‍i‍ ‍K‍u‍o‍k‍ ‍F‍a‍i
+info:One-bedroom Service Apartment
+info:Stayed in June 2023
+info:Business travelers
+info:29 Reviews
+rating:4.7
+posted:Posted June 9, 2023
+msg:It will be better if we strengthen the inspection of the equipment and functions in the room
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Two-bedroom Service Apartment
+info:Stayed in May 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 10, 2023
+msg:From tasteful details to service professionalism, it is not outdated at all. Yanni's service attitude is very good. It can be said that W Guangzhou is still one of the best W-series hotels in China. Hotel location is good. Adjacent to K11 and the famous Guangzhou Library, Huacheng Avenue and Zhujiang New Town are just a short walk downstairs, which is extremely convenient for both transportation and business.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Two-bedroom Service Apartment
+info:Stayed in June 2023
+info:Family
+info:38 Reviews
+rating:5
+posted:Posted June 24, 2023
+msg:The room is very large, suitable for a family to live in, convenient for activities
+----------------------------------------
+name:地‍球‍旅‍行‍者
+info:Three-bedroom Service Apartment
+info:Stayed in August 2023
+info:Family
+info:37 Reviews
+rating:4
+posted:Posted October 14, 2023
+msg:The location is good and the room is large. Takeout is convenient.
+----------------------------------------
+name:C‍h‍r‍i‍s‍ ‍k‍e
+info:Studio
+info:Stayed in October 2023
+info:Couples
+info:12 Reviews
+rating:4.5
+posted:Posted October 8, 2023
+msg:The hotel has a good location and high floors
+----------------------------------------
+name:a‍s‍p‍i‍r‍i‍n‍1‍2‍3‍4‍5
+info:Studio
+info:Stayed in March 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted April 19, 2023
+msg:The room facilities are relatively clean, and the quilt and pillow are more comfortable
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in August 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted September 23, 2023
+msg:The environment in the city center is very good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Two-bedroom Service Apartment
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 21, 2023
+msg:Very good, environment and service are very good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Service Apartment
+info:Stayed in September 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted September 28, 2023
+msg:Satisfied, clean and good service
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Service Apartment
+info:Stayed in June 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted July 2, 2023
+msg:Very well managed. All feelings are good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Two-bedroom Service Apartment
+info:Stayed in March 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted April 2, 2024
+msg:Overall good
+----------------------------------------
+name:D‍i‍u‍s‍h‍i‍d‍e‍m‍e‍n‍g
+info:Two-bedroom Service Apartment
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 5, 2023
+msg:Good for family outing
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Three-bedroom Service Apartment
+info:Stayed in June 2023
+info:Friends
+info:1 Review
+rating:1.7
+posted:Posted July 3, 2023
+msg:Overall very average
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Two-bedroom Service Apartment
+info:Stayed in July 2023
+info:Family
+info:8 Reviews
+rating:4.7
+posted:Posted July 7, 2023
+msg:Is the house okay?
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in August 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted October 1, 2023
+msg:Good as always!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in December 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 28, 2023
+msg:這次來住是安排商務客人來居住的，客人對房間很滿意！這是一家很棒的公寓！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Three-bedroom Service Apartment
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted March 11, 2024
+msg:非常適合一家人前往，套房房間面積大，設施齊全，位置優越
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Two-bedroom Service Apartment
+info:Stayed in October 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted November 9, 2023
+msg:對於一個非常挑剔居住環境的人來説，可以説一家多口人出行堪稱完美，放心入住
+----------------------------------------
+name:J‍i‍a‍s‍h‍i‍m‍e‍n‍g‍x‍i‍a‍n‍g‍d‍e‍t‍u‍t‍u
+info:Two-bedroom Service Apartment
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted April 14, 2024
+msg:啥啥都好，就是春節期間貴點，不過還是很棒的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Service Apartment
+info:Stayed in December 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted January 1, 2024
+msg:套房面積大，餐桌也很大，很方便我們叫外賣在房間吃。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Two-bedroom Service Apartment
+info:Stayed in October 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted October 21, 2023
+msg:房間設施很時尚，前台的服務質量很高，下次還會選擇W廣州公寓
+----------------------------------------
+name:P‍e‍a‍c‍h‍1‍6‍8
+info:Three-bedroom Service Apartment
+info:Stayed in February 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted February 12, 2024
+msg:過年全家來住 服務很好 乾淨方便 👍🏻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Two-bedroom Service Apartment
+info:Stayed in April 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted April 20, 2024
+msg:服務和房間都不錯乾淨衞生
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Two-bedroom Service Apartment
+info:Stayed in February 2024
+info:Family
+info:19 Reviews
+rating:4
+posted:Posted February 12, 2024
+msg:設施設備已經舊了，很多都要維修
+----------------------------------------
+name:�‍�‍ ‍ ‍h‍a‍o‍r‍a‍n
+info:Two-bedroom Service Apartment
+info:Stayed in March 2024
+info:Business travelers
+info:29 Reviews
+rating:5
+posted:Posted May 12, 2024
+msg:每次出差都住這裏，很方便！
+----------------------------------------
+name:W‍e‍i‍h‍a‍o‍s‍h‍e‍n‍ ‍(‍s‍a‍m‍n‍g‍a‍i‍.‍e‍t‍h‍)
+info:Two-bedroom Service Apartment
+info:Stayed in December 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted December 28, 2023
+msg:位置好，酒店設施齊備，房內格局豪華
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Three-bedroom Service Apartment
+info:Stayed in December 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted January 1, 2024
+msg:設施完善，衞生，環境服務都非常好👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in October 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted December 12, 2023
+msg:非常划算，服務不錯，床褥很舒服，有免費停車
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in March 2024
+info:Business travelers
+info:8 Reviews
+rating:4.5
+posted:Posted April 28, 2024
+msg:房間特別暗，還有味道
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in April 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 24, 2024
+msg:非常好 考慮長租了
+----------------------------------------
+name:r‍a‍i‍n‍b‍o‍w‍9‍1‍8
+info:Two-bedroom Service Apartment
+info:Stayed in December 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted January 21, 2024
+msg:很不錯的公寓，下次還會選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in February 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:不錯，前台接待很耐心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in August 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted August 31, 2023
+msg:服務很好，房間衞生80分有待提高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in May 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted May 26, 2024
+msg:還可以吧啊
+----------------------------------------
+name:Z‍h‍u‍d‍a‍f‍u
+info:Studio
+info:Stayed in February 2024
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted April 13, 2024
+msg:服務周到細緻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in November 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted November 30, 2023
+msg:設施齊全，很好
+----------------------------------------
+name:W‍a‍n‍g‍t‍i‍e‍r‍e‍n‍l‍u‍l‍u
+info:Studio
+info:Stayed in February 2024
+info:Family
+info:43 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:適合帶孩子
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in December 2023
+info:Friends
+info:4 Reviews
+rating:3.2
+posted:Posted February 2, 2024
+msg:中規中矩吧
+----------------------------------------
+name:f‍l‍o‍r‍r‍i‍e‍_‍y‍y‍t
+info:Three-bedroom Service Apartment
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 27, 2023
+msg:房間很大，很方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Two-bedroom Service Apartment
+info:Stayed in July 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted September 22, 2023
+msg:十分滿意 房間夠大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Two-bedroom Service Apartment
+info:Stayed in June 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted July 13, 2023
+msg:交通便利  服務优
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in November 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted November 18, 2023
+msg:服務非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio
+info:Stayed in September 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 19, 2023
+msg:很好的酒店
+----------------------------------------
+name:k‍e‍l‍l‍y‍l‍y‍_‍f‍e‍n‍g
+info:One-bedroom Service Apartment
+info:Stayed in July 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted July 17, 2023
+msg:房間乾淨整潔
+----------------------------------------

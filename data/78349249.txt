@@ -1,0 +1,942 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 3, 2021
+msg:Hotel in 2021, quite new, no taste, perfect facilities, large underground parking lot, convenient parking, breakfast is fine, and good service attitude.
+----------------------------------------
+name:S‍i‍m‍o‍n‍K‍a‍y
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Couples
+info:330 Reviews
+rating:4.5
+posted:Posted August 29, 2021
+msg:The newly opened hotel has very good conditions and facilities. Although it is very new, it is not decorated. The hotel has good service, convenient parking, and a good breakfast. The hotel should be set up in accordance with high standards, and various conditions in Mabian County should be the best. The fly in the oin**ent is a bit far from the county seat, a bit remote, and there is not much dining and shopping around.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted August 17, 2021
+msg:The hotel is very clean and comfortable, and very quiet, and the waiters are also very friendly
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 27, 2021
+msg:Good quality and cheap, highly recommended
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2023
+info:Business travelers
+info:22 Reviews
+rating:4.7
+posted:Posted October 18, 2023
+msg:房間不錯，衞生也乾淨                          
+停車挺方便，車庫也明亮乾淨
+早餐品種豐富，服務人員態度和藹
+美中不足的是熱水太小，不知道是房間的問題還是整個酒店都這樣
+還有就是對面是學校，六點半喇叭就響了，必須關上窗户睡覺
+----------------------------------------
+name:r‍o‍b‍i‍n‍f‍a‍n‍g‍2‍0‍0‍5
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:1.房間挺大，有淡淡的香味讓人舒適；
+2.早餐豐富，有馬邊抄手，西芹蝦仁，麻辣牛肉，抄手皮薄，牛肉入味化渣，好吃！
+3.前台服務也挺周到，給小孩子提供了專用的小豬佩奇拖鞋。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted September 17, 2023
+msg:很好很不錯，很難得在馬邊這樣的深山小縣城還有這麼好的酒店，餐飲住宿各方面都不錯，環境優美很安靜，門口就是馬邊河，價格也好
+----------------------------------------
+name:W‍e‍i‍l‍i‍g‍u‍i‍g‍u‍z‍i
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Family
+info:46 Reviews
+rating:5
+posted:Posted September 5, 2023
+msg:很不錯哦。環境、價格都比較好。火把節去的，早餐很豐富。出門也算方便。房間也比較安靜。要是換到對面的房間就更好了。唯一不足的是酒店門口那邊是單行道，應該是過節臨時交通管制吧
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Solo travelers
+info:2 Reviews
+rating:1
+posted:Posted April 29, 2023
+msg:房間環境看起來可以，但是，我入住後皮膚嚴重過敏！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Family
+info:24 Reviews
+rating:5
+posted:Posted December 5, 2023
+msg:酒店是新的，在當地是一幢美輪美奐的建築，房間裝飾漂亮，寬敞，服務工作也很到位。舒適温馨是這家酒店給我留下的長久而美好的印象。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted April 21, 2024
+msg:房間特別乾淨. 住的特別舒服. 很安靜. 設施也很齊全.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:新開的酒店，設施很新，服務非常給力。環境清靜，停車方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Queen Room
+info:Stayed in March 2024
+info:Solo travelers
+info:8 Reviews
+rating:5
+posted:Posted June 8, 2024
+msg:非常滿意，準備了很多都沒用上，因為特別乾淨，而且啥都有，很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:18 Reviews
+rating:4.7
+posted:Posted February 28, 2024
+msg:訂了面朝廣場的房間，正好除夕看煙花，視線不錯，環境很好，停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted March 21, 2024
+msg:很nice，家人出行首選，高端大氣上檔次，乾淨衞生，早餐豐富
+----------------------------------------
+name:T‍i‍e‍c‍h‍u‍i‍m‍e‍i‍m‍e‍i‍0‍9‍2‍1
+info:Panoramic Twin Room
+info:Stayed in April 2023
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted April 19, 2023
+msg:可以説，天星酒店是馬邊最好的酒店了。首先佔地廣，獨享一大片新區空地，臨河的房間夜色不錯。不得不誇一誇，服務真的沒有説，我晚上到店，沒帶充電器，又不想借用大堂的共享充電寶，試探性問了問前台妹妹，後面客房的大姐就送到了房間。房間大，設施新，應有盡有，晚上休息也安靜。早餐豐富，尤其是馬邊抄手，特別好吃。
+----------------------------------------
+name:L‍i‍c‍o‍n‍g‍g‍u‍a‍n‍g
+info:Deluxe Double Room
+info:Stayed in March 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted March 23, 2024
+msg:唯一不足的地方就是，酒店對面有個學校，多早就吵醒啦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:22 Reviews
+rating:4.7
+posted:Posted October 17, 2023
+msg:酒店在縣城還是很不錯的。衹是那天入住居然因為客人少早餐衹能點幾種食物。前台服務稍微欠缺了一點。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Queen Room
+info:Stayed in February 2024
+info:Family
+info:19 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:非常滿意的入住體驗，必須給這家酒店五星好評！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2024
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted April 8, 2024
+msg:進城有車接送 環境應該是當地最好的了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted February 25, 2024
+msg:環境，設施都不錯，早餐也很好，下次還會選擇
+----------------------------------------
+name:a‍l‍i‍y‍e‍r
+info:Panoramic Twin Room
+info:Stayed in July 2022
+info:Family
+info:21 Reviews
+rating:5
+posted:Posted August 2, 2022
+msg:酒店很新，應該是縣城裡最好的酒店了，去雪口山漂流，從酒店到雪口山大概40分鐘左右，挺方便的。酒店房間很寬敞，衞生間很大，淋浴的水也很大。點的外賣是機器人送到門口。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted April 11, 2024
+msg:都挺好，就是周邊工地偶爾有些吵
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:4
+posted:Posted March 6, 2024
+msg:房間靠學校那邊，大早上就開始吵
+----------------------------------------
+name:h‍o‍u‍s‍d‍e‍n‍g
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Friends
+info:24 Reviews
+rating:5
+posted:Posted February 22, 2023
+msg:當地最大最豪華的酒店，對面就是一個廣場，在一個小縣城算是非常高檔的了，就是這個縣城沒有出租車，坐三蹦子，給我冷廢了，不過挺有意思的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Solo travelers
+info:103 Reviews
+rating:5
+posted:Posted April 3, 2023
+msg:環境好，位置好，正對廣場和馬邊河，路邊的櫻花開得很好。有自己的地下停車場，車位充足。早餐小抄手好吃。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Solo travelers
+info:3 Reviews
+rating:4.7
+posted:Posted August 29, 2023
+msg:挺好的，就是早餐不好吃，住了一個星期，天天吃都是一樣的菜
+----------------------------------------
+name:R‍u‍o‍e‍r‍m‍a
+info:Deluxe Double Room
+info:Stayed in February 2023
+info:Couples
+info:47 Reviews
+rating:5
+posted:Posted February 2, 2023
+msg:很新的酒店，位置很好，酒店對面有個廣場佈置的很好，出行很方便。馬邊本來也不大，很棒入住體驗，應該是來馬邊的首選。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 25, 2023
+msg:很不錯。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
+----------------------------------------
+name:M‍a‍t‍a‍l‍a‍n‍z‍h‍u‍x‍i
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted February 26, 2024
+msg:乾淨衞生 服務好 早餐豐盛
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Panoramic Twin Room
+info:Stayed in January 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted January 26, 2023
+msg:酒店房間寬敞、乾淨、整潔，前台和服務員熱心、及時、周到，停車場車位充足，是馬邊最好的酒店，交通也很便利。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Friends
+info:17 Reviews
+rating:5
+posted:Posted March 22, 2023
+msg:房間乾淨衞生，特別是床很舒服！下來去馬邊首選酒店。有一點小建議，大廳薰香太過濃郁。
+----------------------------------------
+name:l‍u‍o‍d‍e‍y‍o‍n‍g
+info:Deluxe Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted December 24, 2022
+msg:一次非常不錯的入住體驗！就是不知道房間裏有沒有酒店的紙袋子，方便裝東西，我找遍了都沒有找到，最後是去前台拿的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted February 19, 2023
+msg:酒店免費升級為觀景房，房間寬敞整潔，窗外是開着油菜花的遠山，很棒的一次住宿。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted July 27, 2023
+msg:很舒適，服務也貼心，馬邊最好的酒店之一。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Panoramic Queen Room
+info:Stayed in July 2022
+info:Business travelers
+info:215 Reviews
+rating:5
+posted:Posted July 14, 2022
+msg:早餐種類非常多，而且看起來都很精緻，感覺物有所值呀店內環境非常不錯，乾淨寬敞，小零食和飲料種類也很多，不錯哦為這難得的氛圍和服務，我也必須來個好評，贊贊贊
+----------------------------------------
+name:Z‍i‍l‍u‍o‍l‍a‍n‍y‍o‍n‍g‍h‍e‍n‍g‍h‍u‍a‍y‍u‍a‍n
+info:Panoramic Queen Room
+info:Stayed in May 2022
+info:Couples
+info:29 Reviews
+rating:4.2
+posted:Posted May 3, 2022
+msg:小縣城能有這樣的酒店可以了 地下車庫大 停車方便 房間大 還算乾淨。缺點：1.電視完全就是擺設不能投屏 看啥都要錢（會員）  2. 早餐差，而且結束的時間很早，前台告訴是9點結束，8點40去基本上就剩些殘羹冷炙了，也不補充。  3. 洗澡水太小
+----------------------------------------
+name:H‍a‍o‍w‍a‍e‍r
+info:Panoramic Twin Room
+info:Stayed in April 2023
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted April 22, 2023
+msg:因為新裝修剛進去有些味道，開門開窗空氣一對流就沒味了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Family
+info:91 Reviews
+rating:3
+posted:Posted May 3, 2023
+msg:還可以吧 在這麼遠的地方 條件算好的哈 服務一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted March 15, 2024
+msg:服務周到，環境舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 31, 2023
+msg:酒店設施不錯，乾淨整潔，晚上睡覺很安靜。應該是馬邊最好的一家酒店了。
+----------------------------------------
+name:E‍l‍u‍o‍s‍i‍h‍o‍n‍g‍c‍h‍a
+info:Deluxe Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:13 Reviews
+rating:4.2
+posted:Posted February 19, 2023
+msg:算是馬邊縣城最好的酒店了，早餐比較一般，其他還算過的去，
+----------------------------------------
+name:W‍u‍h‍a‍n‍m‍a‍o‍g‍e
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:153 Reviews
+rating:4.7
+posted:Posted April 9, 2023
+msg:小縣城有這樣的酒店很不錯了，就是早餐品質差點。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Suite
+info:Stayed in September 2023
+info:Business travelers
+info:4 Reviews
+rating:1
+posted:Posted September 14, 2023
+msg:看着乾淨，晚上看到有蟑螂
+----------------------------------------
+name:T‍i‍n‍g‍t‍i‍n‍g‍z‍o‍u‍z‍o‍u‍w‍t‍t
+info:Panoramic Queen Room
+info:Stayed in November 2023
+info:Friends
+info:12 Reviews
+rating:5
+posted:Posted November 19, 2023
+msg:房間大，乾淨整潔。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Twin Room
+info:Stayed in January 2023
+info:Friends
+info:18 Reviews
+rating:4.5
+posted:Posted January 26, 2023
+msg:早餐可以，有馬邊抄手。環境也行。有停車場。服務有待提高。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted September 2, 2023
+msg:非常滿意！下次出差繼續！
+----------------------------------------
+name:H‍u‍p‍a‍o‍p‍a‍o
+info:Deluxe Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:22 Reviews
+rating:5
+posted:Posted August 25, 2022
+msg:性價比很高的酒店，乾淨衞生，設施也很新，早飯也不錯，就是周邊吃飯的地方不多，不過也不遠，畢竟馬邊不算大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 12, 2024
+msg:在當地算不錯的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:4 Reviews
+rating:4.5
+posted:Posted May 27, 2023
+msg:床品不錯，睡得挺好的。入住需付按金，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in February 2022
+info:Friends
+info:106 Reviews
+rating:4
+posted:Posted February 9, 2022
+msg:酒店設施在馬邊算最好的酒店，早餐不算豐富但能吃飽，不清楚酒店是否禁煙，大堂、早餐廳都可以看到客人吸煙，沒有服務人員前去提醒，感覺和這樣好的酒店不相符合。同時入住酒店時大堂服務很一般，居然給客人説馬邊沒什麼好玩的，你們到馬邊來幹嘛，我們一行人聽着真的是無語，這種服務真的有待提高。
+----------------------------------------
+name:S‍z‍d‍a‍x‍i‍o‍n‍g
+info:Deluxe Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:34 Reviews
+rating:2.7
+posted:Posted February 22, 2023
+msg:整體感覺一般，沒有温馨感，空調太差，服務一般，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:很好，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2024
+info:Solo travelers
+info:10 Reviews
+rating:5
+posted:Posted March 27, 2024
+msg:非常不錯～
+----------------------------------------
+name:A‍l‍i‍s‍i‍d‍i‍s‍h‍i‍s‍h‍o‍u‍x‍i‍n
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:68 Reviews
+rating:5
+posted:Posted September 24, 2023
+msg:應該是當地最好的酒店了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted August 19, 2023
+msg:總體不錯，值得推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in February 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 12, 2023
+msg:馬邊縣城裡最好的酒店，停車方便，服務好！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Panoramic Twin Room
+info:Stayed in July 2022
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted July 31, 2022
+msg:房間不錯乾淨整潔，環境優雅，唯一就是電梯口的**充電寶收費太貴，建議增加怪獸充電。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted November 1, 2021
+msg:剛開業很新，非常不錯！
+----------------------------------------
+name:b‍a‍s‍l‍i‍l‍i‍o‍n
+info:Deluxe Double Room
+info:Stayed in July 2023
+info:Friends
+info:37 Reviews
+rating:5
+posted:Posted August 5, 2023
+msg:酒店環境衞生還可以
+----------------------------------------
+name:W‍q‍w‍a‍n‍g‍q‍i‍n
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted April 16, 2023
+msg:環境好，舒適度很好 服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Queen Room
+info:Stayed in August 2023
+info:Business travelers
+info:44 Reviews
+rating:5
+posted:Posted October 24, 2023
+msg:各方面都非常滿意
+----------------------------------------
+name:Q‍i‍a‍o‍q‍i‍a‍o‍z‍a‍i‍x‍i‍a‍o
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted May 24, 2023
+msg:不錯 環境好 服務也不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 28, 2023
+msg:寬敞明亮，衞生，設施齊全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted July 28, 2023
+msg:環境好，早餐豐富
+----------------------------------------
+name:S‍i‍c‍h‍u‍a‍n‍l‍e‍s‍h‍a‍n‍l‍a‍o‍j‍i
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted April 22, 2023
+msg:酒店非常不錯，早餐也很棒
+----------------------------------------
+name:L‍a‍n‍g‍d‍a‍o
+info:Deluxe Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted November 8, 2023
+msg:非常可以！
+----------------------------------------
+name:l‍x‍w‍f‍e‍n‍g
+info:Deluxe Double Room
+info:Stayed in January 2022
+info:Other
+info:45 Reviews
+rating:5
+posted:Posted January 30, 2022
+msg:衞生服務裝修硬件都能達到四星，空調是中央空調，白天都不開，早點是三星水平。酒店價格是三星價。所以性價比還是很好的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:22 Reviews
+rating:4
+posted:Posted February 11, 2023
+msg:對於縣城來説這個酒店很可以了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2022
+info:Friends
+info:14 Reviews
+rating:5
+posted:Posted January 25, 2023
+msg:馬邊城裡最好的酒店，值得推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted July 25, 2023
+msg:非常好，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted April 8, 2023
+msg:還可以，很乾凈整潔
+----------------------------------------
+name:X‍i‍y‍o‍u‍j‍i‍v‍i‍p
+info:Deluxe Room (2 beds)
+info:Stayed in December 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 14, 2021
+msg:這是縣城最好的的一個酒店了，服務熱情，前台美女主動熱情的介紹了當地的美食，旁邊的超市，還有的士師傅的電話
+----------------------------------------
+name:�‍�‍�‍�‍ ‍h‍a‍n‍s‍a‍n‍s‍u‍i
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted December 27, 2021
+msg:算是馬邊最好的酒店了，衞生、服務都還好，就是早餐稍微弱點，餐廳裏的擺放不是很到位，別的這個價格也確實不錯了。縣城沒什麼娛樂，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Twin Room
+info:Stayed in January 2023
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted January 28, 2023
+msg:酒店不錯哈，推薦入住
+----------------------------------------
+name:D‍a‍w‍e‍i
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:房間乾淨衞生。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted September 20, 2023
+msg:環境不錯哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted July 3, 2023
+msg:非常好，很乾凈
+----------------------------------------
+name:G‍u‍g‍u‍g‍u‍g‍o‍o‍d‍g‍o‍o‍d‍g‍o‍o‍d
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Family
+info:14 Reviews
+rating:4.2
+posted:Posted March 13, 2023
+msg:裝修材料感覺不好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2022
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted February 6, 2022
+msg:今天定290一晚，過兩天看就260元一晚，再過幾天看又288一晚
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 4, 2022
+msg:服務很好，晚上點外賣有機器人送上門，前台小姐姐也非常熱心。
+----------------------------------------
+name:X‍i‍a‍o‍h‍u‍a‍b‍u‍c‍h‍i‍l‍a
+info:Deluxe Double Room
+info:Stayed in August 2022
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted August 19, 2022
+msg:房間可以 基本上沒有什麼噪音
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:38 Reviews
+rating:1
+posted:Posted October 23, 2022
+msg:床單污染了一點全陪，600+
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:4.7
+posted:Posted March 14, 2023
+msg:乾淨整潔乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:4 Reviews
+rating:4
+posted:Posted April 10, 2023
+msg:還是可以的
+----------------------------------------
+name:M‍a‍i‍ ‍D‍e‍n‍ ‍H‍o‍I‍ ‍M‍e‍s
+info:Deluxe Double Room
+info:Stayed in April 2022
+info:Family
+info:2 Reviews
+rating:4.2
+posted:Posted July 6, 2022
+msg:就是旁邊在施工有點吵，窗簾也不怎麼遮光
+----------------------------------------
+name:D‍a‍h‍a‍o‍h‍e‍s‍h‍a‍n
+info:Deluxe Room (2 beds)
+info:Stayed in August 2022
+info:Business travelers
+info:60 Reviews
+rating:5
+posted:Posted August 30, 2022
+msg:酒店環境優美，設施齊全
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:4.2
+posted:Posted September 2, 2022
+msg:房間隔音不好，太吵了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in December 2021
+info:Friends
+info:9 Reviews
+rating:4.2
+posted:Posted January 23, 2022
+msg:新區新酒店，雖然沒在城正中心，但安靜、新、出入方便，走路舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted September 9, 2022
+msg:感覺還不錯 衞生整潔
+----------------------------------------
+name:Z‍i‍s‍h‍e‍n‍c‍h‍a‍r‍e‍n‍ ‍ ‍ ‍j‍i
+info:Panoramic Twin Room
+info:Stayed in May 2022
+info:Business travelers
+info:45 Reviews
+rating:5
+posted:Posted May 24, 2022
+msg:乾淨衞生，就是早餐品種少了點！
+----------------------------------------
+name:Z‍T‍m‍o‍q‍i‍n‍g‍f‍u
+info:Deluxe Room (2 beds)
+info:Stayed in January 2022
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted March 21, 2022
+msg:酒店新開的，現在應該是馬邊縣城最好的酒店之一吧
+----------------------------------------
+name:D‍o‍n‍g‍d‍o‍n‍g‍h‍e‍x‍i‍l‍i
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Business travelers
+info:29 Reviews
+rating:5
+posted:Posted January 28, 2023
+msg:還行吧，不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Queen Room
+info:Stayed in April 2022
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted June 27, 2022
+msg:性價比超高的酒店，用具衞生一流。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2021
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted October 9, 2021
+msg:算是馬邊最好的酒店了，寬敞舒適，值得推薦！
+----------------------------------------
+name:G‍e‍t‍i‍a‍o‍h‍u‍a‍h‍u‍a
+info:Deluxe Room (2 beds)
+info:Stayed in February 2022
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted February 4, 2022
+msg:很舒服的酒店，服務也很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Queen Room
+info:Stayed in June 2022
+info:Solo travelers
+info:11 Reviews
+rating:5
+posted:Posted June 25, 2022
+msg:環境好 位置好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Panoramic Twin Room
+info:Stayed in June 2022
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted June 21, 2022
+msg:很不錯的酒店
+----------------------------------------
+name:M‍a‍g‍e
+info:Deluxe Double Room
+info:Stayed in May 2022
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted May 30, 2022
+msg:環境不錯啊
+----------------------------------------
+name:「‍l‍i‍a‍n‍g‍z‍i‍」
+info:Deluxe Double Room
+info:Stayed in May 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted July 5, 2022
+msg:贊贊贊贊贊
+----------------------------------------
+name:W‍e‍i‍y‍u‍a‍n‍1‍2
+info:Deluxe Room (2 beds)
+info:Stayed in December 2021
+info:Friends
+info:247 Reviews
+rating:5
+posted:Posted January 1, 2022
+msg:環境和服務都不錯
+----------------------------------------
+name:C‍o‍n‍g‍x‍i‍a‍o‍j‍i‍u‍h‍e‍n‍w‍e‍n‍z‍h‍u
+info:Deluxe Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted February 27, 2022
+msg:高檔感好高級
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in December 2021
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted December 20, 2021
+msg:性價比不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:4 Reviews
+rating:1
+posted:Posted January 3, 2024
+msg:服務差，開張發票也不給開，垃圾
+----------------------------------------

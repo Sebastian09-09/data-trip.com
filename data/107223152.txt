@@ -1,0 +1,707 @@
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in April 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 7, 2024
+msg:Very comfortable room, the front desk service is very thoughtful, if you need anything, just call and it will be delivered directly to the room, and guests can also soak in the hot spring for free
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in April 2024
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted April 29, 2024
+msg:Comments: This hotel has a beautiful environment, the room facilities are very satisfactory, you can also soak in hot springs for free and go to the gym for free. The front desk service is very enthusiastic and worth experiencing.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 27, 2024
+msg:The environment is elegant, quiet and comfortable, the hygiene cadres are excellent, and the service is first-class.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in March 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted March 26, 2024
+msg:The hotel environment is very good, the service attitude of the front desk brother and sister is good. The hot spring is my favorite. I will come again next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 15, 2024
+msg:It was a very good accommodation experience. The environment is so beautiful. You can also take a free hot spring bath, both indoor and outdoor. The room is large, the sofa is also large, and the hotel manager also considerately provided the local specialty tea Zhangping Narcissus for tea, which is very delicious. Next time I travel, I will definitely bring my family to stay at Jingheyuan again.
+----------------------------------------
+name:J‍u‍g‍u‍o‍m‍a
+info:Executive 2-bed Room
+info:Stayed in January 2024
+info:Friends
+info:59 Reviews
+rating:4
+posted:Posted February 2, 2024
+msg:This is a hotel converted from a retirement apar**ent. I chose it because it looked new.
+Want to know how a hotel can be rated 4 stars without central air conditioning? ? ?
+The room is equipped with air conditioning, and it is not hot in the room at night, just around 20 degrees
+The slippers are even funnier. Even the express hotels don’t use disposable slippers made of paper, but they are still used here. I can’t stand wearing repeatedly used slippers, but the heels are black and can’t be washed off. I feel helpless.
+There are hot springs in the yard, but I didn’t experience it.
+The breakfast is probably very simple
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in January 2024
+info:Friends
+info:17 Reviews
+rating:4
+posted:Posted January 20, 2024
+msg:The room is clean, the facilities are relatively simple, the bathroom is not separated into dry and wet areas, it is recommended to draw a shower curtain. The yard is large, there are five outdoor hot spring pools with different water temperatures; the indoor hot spring is not experienced. The breakfast is relatively simple.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in January 2024
+info:Friends
+info:59 Reviews
+rating:3.2
+posted:Posted January 19, 2024
+msg:The three buildings of the resort were probably built as a rehabilitation center, and one was later converted into a hotel. There was only one employee at the reception desk, and it was deserted because it was off-season. There were no places to eat around, so you could only take a taxi or order takeout. The hot springs are divided into indoor and outdoor, three indoor and five outdoor. I personally feel that the environment outside is better. Unfortunately, the business hours are until 10 pm, and the indoor doors are locked before 9 pm.
+----------------------------------------
+name:X‍i‍a‍o‍x‍i‍a‍o‍t‍i‍a‍n‍g‍o‍u‍3‍3
+info:Business 2-bed Room
+info:Stayed in January 2024
+info:Friends
+info:58 Reviews
+rating:5
+posted:Posted January 15, 2024
+msg:I went to Zhangping for a trip and found this newly opened hotel with hot springs. I decided to stay there. The front desk lady was very enthusiastic and responsible. She helped me to the hot spring area and patiently told me the precautions. The overall hotel is very quiet and very suitable for people who like to stay.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted January 12, 2024
+msg:Beautiful environment, very large room, comfortable and quiet. Great value for money
+----------------------------------------
+name:X‍i‍a‍o‍l‍e‍j‍i‍n‍t‍i‍a‍n‍n‍u‍l‍i‍l‍e‍m‍a
+info:Business 2-bed Room
+info:Stayed in December 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 19, 2023
+msg:Came to Zhangping on a business trip and saw this hotel by chance on Ctrip. I was attracted by the title of hot springs and placed an order. The environment is very beautiful. The whole hotel is very quiet. You can also take a hot spring bath. The sunset standing on the skywalk is also very beautiful. It is especially suitable for those who like quietness. It is also close to the city. It is really one of the biggest highlights of this business trip!
+----------------------------------------
+name:C‍a‍n‍s‍h‍a‍n‍g
+info:Executive Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 18, 2023
+msg:The newly opened environment is good. You can also soak in the natural hot springs for free when staying in the hotel. Next time, bring your family with you [frown]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in December 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted December 18, 2023
+msg:The room is clean and tidy, the bed is big and comfortable, the environment is quiet and it is a good choice! ! There is also a garden to walk around and eat. Great!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 17, 2023
+msg:The stay experience is really good. Such a large garden-style hotel is really rare. It is really refreshing to visit the garden and enjoy the scenery. You can also take a free hot spring bath. This price is really worth it.
+The room is also very spacious, clean, and the service staff is very friendly!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in December 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted December 16, 2023
+msg:This hotel is good. The front desk upgraded me to an executive double bed. This room is really good and the bed is comfortable. Especially there is an aerial walkway, which is really considerate. I admire this designer. This garden hotel feels comparable to the State Guesthouse [grin]. It was so good to sleep after taking a hot spring bath.
+In short, it is great [strong]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in December 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted December 15, 2023
+msg:The room is super large, fully equipped, and has a very health-conscious setting, especially suitable for parents to stay for a while. The feature is the natural fluoride hot spring, which gives you a smooth and delicate feeling after soaking☝️You know.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in December 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted December 6, 2023
+msg:The room is very clean, the surrounding environment is very beautiful, and the children like the hot spring very much! The front desk service is very enthusiastic! ! ! Not bad, I will come again next time
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 14, 2024
+msg:A very good experience
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in May 2024
+info:Couples
+info:1 Review
+rating:2.2
+posted:Posted May 15, 2024
+msg:High price, average environment, noisy. I live on the 12th floor. There is construction going on on the 13th floor early in the morning. The sound of the electric drill is really unbearable.
+Service: below average
+Environment: above average
+Sanitation: average
+Facilities: average
+Price: above average, high
+Stayed for two days and didn't soak in the hot spring. They said there was no water and I couldn't soak for the time being. I'm speechless. I don't recommend it.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in September 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted October 6, 2023
+msg:The hotel has a beautiful environment, quiet and clean, and the hotel garden landscape design is very beautiful and eye-catching. The most unique thing is that you can enjoy hot springs for free when you stay here. The overall feeling is great!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 6, 2023
+msg:The parking lot is large and parking is very convenient. The green garden is very beautiful. In the morning, the family took a walk in the hotel garden after breakfast. The most important thing is that there are hot springs to soak in. My two sons like to soak in hot springs. The water temperature of the three large swimming pools is different. The room is decorated very freshly. The most important thing is that there is a place to dry clothes. The clothes are dry in 2 hours!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 25, 2024
+msg:酒店很安靜，沒有吵鬧的聲音，房間很寬敞，酒店綠化做得也很棒，滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in May 2024
+info:Solo travelers
+info:7 Reviews
+rating:3.7
+posted:Posted May 3, 2024
+msg:房間打掃乾淨的就是裝修味道太重了不舒服房間的水太小了洗頭髮都沖不乾淨不會在去
+卫生：好
+设施：裝修味道太重了不會在去
+服务：好
+早餐種類不多還可以一般了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 15, 2023
+msg:酒店房間很大，交通也是很較方便，園林式酒店，那天去剛好下雨，但沒有影響逛園林，因為酒店是連廊式設計，走遍了整個園區都不會淋到雨，特別喜歡的是酒店的温泉，聽酒店前台小姐姐介紹説是從很遠的地方引過來的，是含佛温泉，有室外室內温泉，室裏温泉有分三個不同温度的泡池，當時覺得大夏天去泡温泉有點接受不了，後來朋友拉着一起去，出了一身汗感覺整個人很舒服，小孩子更喜歡，回來後介紹朋友去，朋友也説很不錯，不過導航不是很精確，會偏到後門，其他都不錯[強]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in September 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted September 20, 2023
+msg:因為第一次過來，也是在攜程上面盲選了好久，果然很棒，酒店環境太好了，度假首選，一進來就感覺很舒服，無論是房間還是服務，都很滿意，停車也方便，早餐也好吃，推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in December 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 18, 2023
+msg:客房挺乾淨房間也很大酒店服務也不錯非常奈斯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 3, 2023
+msg:很好找，就在市醫院附近，入住環境很好，第一次住這樣的酒店，蘇式的園子非常漂亮，前台服務也很熱情，大熱天還貼心的準備礦泉水，很細節，小姐姐總是微笑服務，房間乾淨衞生，設施齊全，很不錯的一家酒店，下次還會選擇你們家的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in September 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 18, 2023
+msg:酒店環境很好，衞生也很乾凈，特別喜歡那裡的温泉，有室外有室內，超級舒服😊 非常值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in September 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted September 26, 2023
+msg:酒店園區很大，交通也方便，主要特色有温泉，環境是很好，度假是很舒服，晚上睡的安靜，推薦
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 22, 2023
+msg:環境超美，比較安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 4, 2023
+msg:酒店外觀非常大氣，郵輪的設計很有特色，房間佈局温馨，乾淨整潔，服務人員也很好，裏面非常大環境是真的好，還體驗了下酒店温泉，小孩子門都是太喜歡了，都不願理走，棒棒噠
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 20, 2023
+msg:房間很大很舒服，酒店綠化很漂亮，關鍵是住酒店免費泡温泉，問題是温泉泡得來很舒服，愛了愛了😍😍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in July 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted August 26, 2023
+msg:外觀大氣漂亮，環境是真的不錯，蘇式園林特別好看，房間簡單整潔，而且還很大，房間有洗衣機，洗晾衣服特別方便，服務員也很好，個人感覺不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 23, 2023
+msg:新酒店，房間乾淨整潔，周邊環境超級好，還可以泡温泉，非常適合度假放鬆
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 9, 2023
+msg:服務態度很友好，晚上睡覺很安靜，出來度假住的很舒服，房間很大，酒店很大，晚上吃完晚飯散散步空氣也很好，推薦
+----------------------------------------
+name:L‍i‍u‍l‍u‍l‍i‍u
+info:Business 2-bed Room
+info:Stayed in July 2023
+info:Couples
+info:23 Reviews
+rating:5
+posted:Posted July 10, 2023
+msg:晚上睡覺很安靜，空氣也很好，睡得很舒服，房間也很大，服務態度也很好，晚上在酒店裡麪跑跑步，強烈推舉哈！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 12, 2023
+msg:酒店設施很新，房間環境舒適乾淨整潔。服務人員態度好。確實值房價。
+----------------------------------------
+name:J‍u‍g‍u‍o‍m‍a
+info:Business Queen Room
+info:Stayed in January 2024
+info:Family
+info:59 Reviews
+rating:2.5
+posted:Posted February 10, 2024
+msg:這房子價格是當地最貴的，就選擇了，結果它是個養老康養中心不用的副樓改吧改吧弄的酒店，連酒店式公寓都算不上，非常抱歉抱歉抱歉的感覺。
+----------------------------------------
+name:Y‍u‍y‍u‍f‍e‍i‍f‍e‍i
+info:Business 2-bed Room
+info:Stayed in October 2023
+info:Family
+info:4 Reviews
+rating:4.2
+posted:Posted October 6, 2023
+msg:不想隨意給差評，但是酒店設施真的不太行。好在經理服務不錯沒有太鬧心。目前衹有12層有乾濕分離，其他都沒有；早餐就不建議在酒店用了，種類少的可憐還都是涼的。優點就是洗衣服和曬衣服很方便，每間都有涼台和晾衣桿，房間也非常大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in June 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted June 26, 2023
+msg:酒店環境很好，房間乾淨整潔，有室內外温泉，服務滿意及時，以後都會選擇這家
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in August 2023
+info:Friends
+info:8 Reviews
+rating:2.2
+posted:Posted August 7, 2023
+msg:空調不夠涼
+----------------------------------------
+name:O‍w‍e‍n‍_‍H‍w‍a‍n‍g‍8‍1‍2
+info:Executive Suite (Two-bedroom)
+info:Stayed in February 2024
+info:Family
+info:55 Reviews
+rating:4
+posted:Posted March 3, 2024
+msg:年初一路過這個城市，入住，酒店沒人，空空盪盪，可能不是季節。兩房一廳750，正常來説，價格上是不貴的。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in February 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted February 7, 2024
+msg:環境：有温泉！
+服務：前台很耐心，問事情小姐姐還專門打電話幫忙
+
+設施：新的！新的！新的！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Suite
+info:Stayed in January 2024
+info:Family
+info:32 Reviews
+rating:5
+posted:Posted January 25, 2024
+msg:特具性價比，給我們升級了套房，，天氣冷我們衹泡了室內的。看我們帶着孩子給我們每人一條浴巾。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted May 9, 2024
+msg:酒店環境很好，乾淨衞生，晚上非常安靜，不錯的體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in November 2023
+info:Solo travelers
+info:2 Reviews
+rating:3.5
+posted:Posted November 9, 2023
+msg:房間衞生還行，設備有點少，連接吧枱的電話都沒有。。標識也少，很多東西都沒有。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted January 11, 2024
+msg:服務很好，房間很大，員工很熱情，還有温泉可以泡，強烈推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in December 2023
+info:Family
+info:20 Reviews
+rating:5
+posted:Posted December 25, 2023
+msg:開車途徑漳平，攜程推薦酒店蠻新的，房間大，安靜，感受不錯
+----------------------------------------
+name:R‍o‍c‍k‍y‍h‍o
+info:Business 2-bed Room
+info:Stayed in December 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted December 28, 2023
+msg:設施：很新
+衞生：乾淨整潔
+環境：舒服
+服務：服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in September 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 18, 2023
+msg:房間乾淨整潔衞生，佈置很好，服務熱情周到，很不錯的酒店，下次有機會還會入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in March 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted March 10, 2024
+msg:房間很寬敞，衞生乾淨，服務員態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in January 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted January 19, 2024
+msg:房間很乾凈，服務非常好，值得再去！
+----------------------------------------
+name:j‍d‍s‍s
+info:Business Queen Room
+info:Stayed in August 2023
+info:Solo travelers
+info:7 Reviews
+rating:1.2
+posted:Posted August 17, 2023
+msg:真实的五星养老院，配餐是老人餐，真实勿扰人，携程有一定責任。
+----------------------------------------
+name:W‍u‍y‍u‍ ‍W‍u
+info:Business 2-bed Room
+info:Stayed in July 2023
+info:Family
+info:45 Reviews
+rating:3.7
+posted:Posted August 22, 2023
+msg:怎麼還要評一次 酒店新開的很不錯 就是温泉水池不怎麼乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:性價比很高，周邊可以看櫻花
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in August 2023
+info:Friends
+info:2 Reviews
+rating:4.7
+posted:Posted October 2, 2023
+msg:單身公寓，比較安靜。位置偏一點 好在縣城不大。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in January 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted March 8, 2024
+msg:比預期要好，性價比很高
+----------------------------------------
+name:W‍e‍i‍w‍e‍n
+info:Executive 2-bed Room
+info:Stayed in February 2024
+info:Friends
+info:26 Reviews
+rating:5
+posted:Posted March 1, 2024
+msg:衞生乾淨，環境好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Suite
+info:Stayed in January 2024
+info:Friends
+info:26 Reviews
+rating:5
+posted:Posted January 27, 2024
+msg:安靜，衞生，新設備
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in October 2023
+info:Family
+info:21 Reviews
+rating:5
+posted:Posted November 29, 2023
+msg:很滿意！房間還配洗衣機。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 29, 2024
+msg:條件不錯，很新
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in August 2023
+info:Business travelers
+info:78 Reviews
+rating:5
+posted:Posted August 23, 2023
+msg:素凈，還有洗衣機，房間很大。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted January 11, 2024
+msg:服務態度很好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 18, 2023
+msg:環境不錯，還有温泉。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in September 2023
+info:Business travelers
+info:5 Reviews
+rating:1
+posted:Posted September 24, 2023
+msg:病房為什麼説是酒店
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:4 Reviews
+rating:4
+posted:Posted March 11, 2024
+msg:温泉還可以
+----------------------------------------
+name:b‍o‍c‍h‍a‍o‍w‍u
+info:Executive Queen Room
+info:Stayed in December 2023
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted March 1, 2024
+msg:房間大，新。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:111 Reviews
+rating:4
+posted:Posted February 23, 2024
+msg:價格便宜的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in November 2023
+info:Couples
+info:35 Reviews
+rating:5
+posted:Posted December 19, 2023
+msg:酒店很乾凈
+----------------------------------------
+name:Z‍h‍u‍g‍e‍m‍i
+info:Business 2-bed Room
+info:Stayed in October 2023
+info:Friends
+info:106 Reviews
+rating:5
+posted:Posted October 24, 2023
+msg:性價比不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in August 2023
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted October 15, 2023
+msg:挺好的，安靜
+----------------------------------------
+name:T‍i‍a‍n‍0‍3
+info:Business Queen Room
+info:Stayed in July 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted July 10, 2023
+msg:黃經理服務不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in August 2023
+info:Solo travelers
+info:1 Review
+rating:1
+posted:Posted August 24, 2023
+msg:很一般……
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Suite (Two-bedroom)
+info:Stayed in June 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted July 6, 2023
+msg:房間乾淨整潔
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in August 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted August 13, 2023
+msg:滿意，不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in July 2023
+info:Business travelers
+info:17 Reviews
+rating:4
+posted:Posted September 26, 2023
+msg:離醫院很近
+----------------------------------------

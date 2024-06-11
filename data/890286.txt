@@ -1,0 +1,894 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Lake-view Single Room
+info:Stayed in August 2023
+info:Couples
+info:23 Reviews
+rating:5
+posted:Posted September 8, 2023
+msg:This hotel Is in a beautiful location across the street from East Lake. The front desk was friendly and room was clean and comfortable. Not more you can ask for.
+----------------------------------------
+name:X‍i‍o‍n‍g‍x‍i‍o‍n‍g‍d‍e‍b‍o‍l‍u‍o‍j‍i‍e‍j‍i‍e
+info:Business Double Room - City-View
+info:Stayed in April 2024
+info:Other
+info:7 Reviews
+rating:5
+posted:Posted April 28, 2024
+msg:Very satisfied. Beautiful scenery, standard service, superior location, good view, and even better attitude of the staff. Very flexible, in order to coordinate the cross-country competition, the meal started at 4:00 in the morning. In the future, whenever I come to Yangchun, I will choose this place for family travel.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 18, 2024
+msg:Hygiene: Clean
+
+Facilities: Complete
+
+Environment: Very good
+Service: The waiter is very considerate
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 11, 2024
+msg:Very good, see you next time.
+----------------------------------------
+name:J‍i‍a‍n
+info:Business Double Room - City-View
+info:Stayed in April 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted April 12, 2024
+msg:Nice place by the lake
+----------------------------------------
+name:L‍i‍x‍i‍a‍o‍l‍o‍n‍g‍_‍m‍u
+info:Business Double Room - City-View
+info:Stayed in April 2024
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted April 28, 2024
+msg:After all, it's been a hotel for many years. The room is a little small in terms of hardware, and lacks a window that can be opened. The rest is full marks, especially the service, whether it is the front desk, the guest room, or the restaurant, the service is very good.
+Recommended.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - Lake-View
+info:Stayed in April 2024
+info:Solo travelers
+info:4 Reviews
+rating:4.5
+posted:Posted April 5, 2024
+msg:We booked a lake view room. During the Qingming Festival, the scenery was dreamy and intoxicating! The room was very clean and well-equipped, especially the faucet had a large water flow, which was very refreshing! The only drawback was that as a five-star hotel in the city, the supporting health facilities were seriously insufficient, and there was no simple table tennis room, which was disappointing😔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Lake-view Single Room
+info:Stayed in March 2024
+info:Business travelers
+info:43 Reviews
+rating:5
+posted:Posted April 16, 2024
+msg:The hotel breakfast is just average, not very rich, but the environment around the hotel is very good!
+----------------------------------------
+name:W‍a‍y‍l‍e‍-‍h‍a‍i‍l‍a‍n‍g
+info:Business Double Room - City-View
+info:Stayed in March 2024
+info:Friends
+info:18 Reviews
+rating:5
+posted:Posted March 26, 2024
+msg:The price/performance ratio is very high. The rooms are quite big and clean. I especially like the food in the restaurant. The environment is also very good. East Lake is right outside. The guy in the lobby is very enthusiastic and introduced us to the characteristics of Yangchun.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in March 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted March 15, 2024
+msg:Every staff member is very enthusiastic and polite in reception and service, a veritable five-star hotel!
+----------------------------------------
+name:J‍o‍h‍n‍n‍y‍-‍2‍0‍2‍1
+info:Business Double Room - City-View
+info:Stayed in March 2024
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted March 30, 2024
+msg:It feels like a resort hotel. It is very quiet overall. The service is very thoughtful.
+----------------------------------------
+name:H‍a‍i‍s‍h‍i‍y‍o‍u‍s‍u‍o‍w‍e‍i
+info:Business Double Room - City-View
+info:Stayed in February 2024
+info:Couples
+info:20 Reviews
+rating:5
+posted:Posted February 18, 2024
+msg:Old hotel, the facilities are a bit old, the tea restaurant is very good! The breakfast is very satisfactory.
+----------------------------------------
+name:M‍i‍n‍g‍t‍i‍a‍n‍h‍u‍i‍g‍e‍n‍g‍h‍a‍o‍1‍1‍2‍2
+info:Business Double Room - City-View
+info:Stayed in January 2024
+info:Business travelers
+info:221 Reviews
+rating:4.2
+posted:Posted January 12, 2024
+msg:The environment is very good, quiet and parking is also convenient, but the room decoration and facilities are a bit old, and the price is high
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in April 2024
+info:Solo travelers
+info:99 Reviews
+rating:5
+posted:Posted April 11, 2024
+msg:The room is spacious and comfortable, clean and convenient for travel.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in October 2023
+info:Friends
+info:14 Reviews
+rating:5
+posted:Posted October 30, 2023
+msg:Very good service attitude, beautiful environment, clean and sanitary, high cost performance
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in October 2023
+info:Family
+info:5 Reviews
+rating:4.5
+posted:Posted October 3, 2023
+msg:Facilities: a bit old
+
+Sanitation: very clean,
+
+Environment: unique resources of Dongshan Lake
+
+Service: average
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in September 2023
+info:Other
+info:22 Reviews
+rating:5
+posted:Posted September 23, 2023
+msg:I have stayed at Donghu International Hotel many times before. After many years, I felt it was as good as before. Xiao Jiang at the front desk provided good service, warm, thoughtful and considerate. The floor attendants had a good attitude, were hardworking and thoughtful. Parking was also convenient.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - Lake-View
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:4.5
+posted:Posted August 8, 2023
+msg:The room was average, the bed was a bit damp! The view was great, the restaurant was good, and the price was acceptable!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in April 2023
+info:Friends
+info:4 Reviews
+rating:4.5
+posted:Posted April 11, 2023
+msg:The environment is beautiful, located by the East Lake, you can take a walk in the morning and evening. The room is clean and hygienic, the front desk staff is friendly and answers all questions. I stay here every time I come back to visit the mountain.
+----------------------------------------
+name:B‍a‍i‍l‍u‍n‍w‍a‍n‍z‍u‍c‍h‍o‍n‍g‍z‍h‍i
+info:Business Double Room - Lake-View
+info:Stayed in October 2022
+info:Business travelers
+info:41 Reviews
+rating:3.5
+posted:Posted October 21, 2022
+msg:The breakfast was too good! Everything was just dirt! It was the dirtiest and worst breakfast I've ever had in the world. It tasted dirtier but not as good as the food stalls. As the most upscale hotel in the area, according to the local economic level, the price is close to that of a five-star hotel. The breakfast should also consider something other than dirtier! It is recommended to visit and learn from other hotel chains, otherwise you will really become a frog in a well.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in September 2021
+info:Business travelers
+info:71 Reviews
+rating:3.5
+posted:Posted September 11, 2021
+msg:The hotel that I stayed at every time I travel is considered the best hotel here. It is mainly convenient for me to visit the surrounding customers. The hotel facilities are not very new, but they are comfortable and clean.
+----------------------------------------
+name:G‍Z‍V‍i‍n‍c‍e‍n‍t
+info:Business Double Room - City-View
+info:Stayed in August 2021
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted August 17, 2021
+msg:The location is convenient, the square is relatively large, and the hotel has complete supporting facilities! The service is very good!
+🚗 Transportation: convenient
+🧹Sanitation: clean and tidy
+🍃Environment: Good
+🔔Service: very good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Lake-view Single Room
+info:Stayed in June 2021
+info:Friends
+info:10 Reviews
+rating:4.5
+posted:Posted June 27, 2021
+msg:Beautiful environment, convenient parking, close to Yangchun Donghu Park, the green road around the lake is at the door, it is very lively, you can walk to places to eat, drink and play, the hotel’s buffet breakfast is good 👍
+----------------------------------------
+name:Y‍o‍u‍y‍a‍o‍q‍i‍u‍d‍e‍r‍e‍n
+info:Business Double Room - Lake-View
+info:Stayed in May 2024
+info:Business travelers
+info:21 Reviews
+rating:4.7
+posted:Posted June 11, 2024
+msg:陽春市最好的酒店沒有之一！性價比高、地理位置一流。酒店內早茶中餐出品非常好，卡拉OK好玩，酒店外圍水庫景色秀麗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in May 2024
+info:Friends
+info:16 Reviews
+rating:4.5
+posted:Posted May 28, 2024
+msg:設施：有一定的年份
+衞生：乾淨
+環境：東湖公園對面
+服務：前台服務贊，挺有禮貌
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Lake-view Single Room
+info:Stayed in October 2023
+info:Friends
+info:12 Reviews
+rating:5
+posted:Posted December 14, 2023
+msg:房間非常整潔，環境優美、衞生乾淨、服務一流。
+----------------------------------------
+name:D‍a‍g‍u‍i‍k‍a‍n‍s‍h‍i‍j‍i‍e
+info:Business Double Room - Lake-View
+info:Stayed in September 2022
+info:Solo travelers
+info:15 Reviews
+rating:1
+posted:Posted September 6, 2022
+msg:早上，我還在睡覺，突然被一陣敲門聲驚醒，我還沒來得及反應，就進來一個服務員，我問她幹嘛，她説要晾衣服，我並沒有衣服要晾，她説了一句進錯房了，嚇死我了，假如我當時沒穿衣服呢？假如是一對情侶呢？不敢想像。
+----------------------------------------
+name:X‍i‍a‍o‍c‍a‍i‍1‍3‍3‍4
+info:Business Double Room - City-View
+info:Stayed in April 2024
+info:Friends
+info:65 Reviews
+rating:5
+posted:Posted May 29, 2024
+msg:房間挺大，晚上很安靜
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in November 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:酒店開業時間不長，整體還不錯哦。
+----------------------------------------
+name:F‍u‍k‍e‍s‍i‍g‍a‍o‍y‍i‍n‍g
+info:Deluxe Lake-view Single Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 9, 2023
+msg:房間乾淨衞生 服務周到 前台小姐姐都很熱心 很有禮貌
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - Lake-View
+info:Stayed in January 2023
+info:Family
+info:8 Reviews
+rating:4.2
+posted:Posted January 8, 2023
+msg:酒店區位比較好，對面就是東湖，風景比較不錯。但是酒店設施有些陳舊，服務態度比以前有所退步。總體來説，還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - Lake-View
+info:Stayed in August 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted September 22, 2023
+msg:房間不錯，清潔衞生，設施完備。下次會回定！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in January 2024
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:房間大，乾淨。環境好！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 23, 2023
+msg:客房乾淨，舒適，床鋪舒適。酒店服務特別好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in October 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted October 12, 2023
+msg:幹靜、整潔、空間大、設施齊全
+----------------------------------------
+name:C‍a‍i‍j‍i‍c‍a‍i
+info:Business Double Room - Lake-View
+info:Stayed in December 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:周邊環境很好，設施完備
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room - Lake-View
+info:Stayed in May 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 28, 2023
+msg:房間設施齊全，衞生乾淨，環境優美，服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in August 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted October 14, 2023
+msg:房間乾淨衞生整潔，已多次入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in September 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted September 18, 2023
+msg:服務態度很好，房間也很乾凈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in August 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted August 28, 2023
+msg:房間設施好，沖涼水壓大，好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in October 2023
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted October 27, 2023
+msg:非常之好！好多次入住了！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in April 2023
+info:Other
+info:14 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:房間不錯，特別是酒店晚茶味道不錯，價格實惠。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in March 2024
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted May 12, 2024
+msg:乾淨衞生安靜
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in October 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted October 31, 2023
+msg:衞生乾淨，服務滿意。
+----------------------------------------
+name:K‍e‍e‍r‍b‍e‍i‍t‍a‍b‍a‍i‍e‍r‍d‍e
+info:Business Double Room - City-View
+info:Stayed in December 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted December 14, 2023
+msg:幫朋友訂，很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in September 2023
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:非常好，我下次再訂。
+----------------------------------------
+name:X‍i‍n‍y‍i‍f‍u‍z‍i
+info:Business Double Room - City-View
+info:Stayed in May 2023
+info:Business travelers
+info:43 Reviews
+rating:4
+posted:Posted May 15, 2023
+msg:裝修太舊了，環境不錯，停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - Lake-View
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:4.2
+posted:Posted January 23, 2023
+msg:周邊環境還是很不錯，房間裝修略微顯得陳舊了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in January 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 11, 2023
+msg:床睡得很舒服，夠安靜，下次來陽春再睡這裏
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Lake-view Single Room
+info:Stayed in June 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted June 16, 2023
+msg:房間比較乾淨，總體還行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Suite
+info:Stayed in August 2023
+info:Friends
+info:13 Reviews
+rating:5
+posted:Posted October 29, 2023
+msg:環境優美，乾淨整潔
+----------------------------------------
+name:Z‍h‍u‍a‍n‍g‍y‍e
+info:Business Suite - Double Occupancy
+info:Stayed in April 2023
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted May 14, 2023
+msg:很滿意，平時來陽春都住這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in April 2023
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted April 18, 2023
+msg:熱情好客衞生乾淨餐飲可口
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - Lake-View
+info:Stayed in July 2023
+info:Business travelers
+info:85 Reviews
+rating:5
+posted:Posted July 30, 2023
+msg:乾淨 整潔 方便
+----------------------------------------
+name:H‍u‍i‍(‍x‍i‍a‍n‍g‍j‍i‍a‍o‍)
+info:Business Double Room - City-View
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 23, 2023
+msg:整結乾淨，服務好
+----------------------------------------
+name:a‍m‍y‍l‍e‍e‍6‍6
+info:Business Double Room - City-View
+info:Stayed in August 2023
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted August 26, 2023
+msg:房間乾淨無異味
+----------------------------------------
+name:X‍i‍n‍g‍z‍o‍u‍t‍u‍n‍i‍u
+info:Business Double Room - City-View
+info:Stayed in November 2021
+info:Friends
+info:38 Reviews
+rating:2.7
+posted:Posted November 7, 2021
+msg:服務極不到位！在攜程網上訂的時候沒有11月7日10點鐘前必須退房的告知，訂單確定以後入住當晚接到前台電話告知以上訊息，不滿意可以退房，非常無語🙄非常差的住店體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in January 2023
+info:Other
+info:10 Reviews
+rating:5
+posted:Posted February 22, 2023
+msg:高速途徑陽春休整，首選這家酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - Lake-View
+info:Stayed in December 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 11, 2022
+msg:在附近算這家最好，每次回去都住這家
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - Lake-View
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 15, 2023
+msg:非常滿意，好！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room - Lake-View
+info:Stayed in October 2023
+info:Business travelers
+info:119 Reviews
+rating:3.5
+posted:Posted December 22, 2023
+msg:中規中矩吧
+----------------------------------------
+name:K‍u‍a‍i‍7‍7‍7
+info:Business Double Room - City-View
+info:Stayed in January 2022
+info:Couples
+info:18 Reviews
+rating:3
+posted:Posted February 10, 2022
+msg:酒店位置挺好，就在湖邊，是陽春風景最好的地方，但是酒店設施稍微陳舊，感覺這裏曾經是當地最好的酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - Lake-View
+info:Stayed in April 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted April 10, 2023
+msg:正規酒店，有底藴。
+----------------------------------------
+name:W‍u‍y‍a‍l‍a‍o‍l‍a‍n‍g
+info:Business Double Room - Lake-View
+info:Stayed in October 2021
+info:Friends
+info:49 Reviews
+rating:5
+posted:Posted October 25, 2021
+msg:東湖邊上，陽春首選沒有之二了。酒店有年份了，但維護的十分好，設施完好。停車方便，一樓酒樓出品可以。建議住湖景房，看日出日落。推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in August 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted August 28, 2023
+msg:服務態度好
+----------------------------------------
+name:Y‍o‍n‍g‍y‍a‍n
+info:Business Double Room - Lake-View
+info:Stayed in January 2023
+info:Family
+info:12 Reviews
+rating:4
+posted:Posted January 25, 2023
+msg:交通便利，但設施陳舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - Lake-View
+info:Stayed in July 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 7, 2023
+msg:環境很好的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Suite - Double Occupancy
+info:Stayed in September 2021
+info:Other
+info:6 Reviews
+rating:2.2
+posted:Posted September 22, 2021
+msg:説是五星級，但是實在不敢苟同，窗户全部不能打開，通風很差，房間有一股黴味，早餐單調，品種少，根本配不上五星級酒店的稱號。
+----------------------------------------
+name:C‍y‍n‍t‍h‍i‍a
+info:Business Double Room - Lake-View
+info:Stayed in January 2023
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted February 16, 2023
+msg:很不錯，環境很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in April 2023
+info:Friends
+info:13 Reviews
+rating:5
+posted:Posted June 11, 2023
+msg:好👍物亷價美
+----------------------------------------
+name:A‍i‍c‍h‍i‍s‍h‍u‍i‍m‍i‍t‍a‍o‍d‍e‍x‍i‍a‍o‍h‍a‍i
+info:Business Double Room - Lake-View
+info:Stayed in December 2022
+info:Family
+info:20 Reviews
+rating:5
+posted:Posted January 26, 2023
+msg:不錯哦，乾淨整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted January 21, 2023
+msg:住宿很舒服
+----------------------------------------
+name:C‍a‍o‍s‍h‍i‍n‍a‍i
+info:Business Double Room - Lake-View
+info:Stayed in July 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 14, 2021
+msg:離東湖公園很近，房間乾淨整潔，設施有點舊了，但是服務熱情周到。交通方便停車方便。
+----------------------------------------
+name:8‍x‍i‍n‍f‍a‍x‍i‍a‍n‍8
+info:Business Double Room - Lake-View
+info:Stayed in July 2022
+info:Friends
+rating:5
+posted:Posted August 8, 2022
+msg:東湖環境優美舒適！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in February 2021
+info:Couples
+info:12 Reviews
+rating:5
+posted:Posted July 22, 2021
+msg:酒店位於東湖邊，環境很好，空氣清新，散步一級棒。房間夠大，衞生不錯，床品舒服，服務也好。樓下大廳喝茶很方便，茶點味道不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in June 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted June 9, 2022
+msg:環境非常好，棒棒的
+----------------------------------------
+name:A‍b‍i‍n‍g
+info:Business Double Room - City-View
+info:Stayed in April 2022
+info:Business travelers
+info:32 Reviews
+rating:5
+posted:Posted April 14, 2022
+msg:環境很好，衞生也很棒
+----------------------------------------
+name:S‍Y‍J‍＋
+info:Business Double Room - Lake-View
+info:Stayed in August 2021
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted August 24, 2021
+msg:🔔服務：好
+🍃環境：好
+🧹衞生：好
+🚗 交通：好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in August 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 9, 2022
+msg:住的很舒適。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - Lake-View
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 16, 2022
+msg:環境服務好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in December 2021
+info:Family
+info:28 Reviews
+rating:5
+posted:Posted January 30, 2022
+msg:公園旁邊，位置好，出行方便
+----------------------------------------
+name:J‍i‍u‍w‍a‍n‍g‍e
+info:Business Double Room - Lake-View
+info:Stayed in April 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 9, 2022
+msg:很好，值得推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in August 2021
+info:Couples
+info:17 Reviews
+rating:5
+posted:Posted November 2, 2021
+msg:性價比比較高，特別是週末自助餐很棒。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in March 2022
+info:Other
+info:11 Reviews
+rating:5
+posted:Posted March 6, 2022
+msg:停車方便，乾淨。
+----------------------------------------
+name:X‍u‍s‍h‍i‍d‍e
+info:Business Double Room - City-View
+info:Stayed in May 2022
+info:Friends
+info:17 Reviews
+rating:5
+posted:Posted May 5, 2022
+msg:服務員態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Suite
+info:Stayed in September 2021
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted October 22, 2021
+msg:本地五星 較為舒心 不二選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in June 2022
+info:Family
+info:10 Reviews
+rating:4.7
+posted:Posted June 4, 2022
+msg:服務挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in September 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 13, 2021
+msg:环境卫生都很好，非常滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in June 2021
+info:Other
+info:11 Reviews
+rating:3.5
+posted:Posted June 15, 2021
+msg:設施較陳舊，前台服務態度不夠好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Lake-view Double Room
+info:Stayed in September 2021
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted October 21, 2021
+msg:環境真不錯，方便散步
+----------------------------------------
+name:d‍e‍e‍n‍l‍o‍v‍e‍r
+info:Business Double Room - City-View
+info:Stayed in September 2021
+info:Business travelers
+info:18 Reviews
+rating:3.7
+posted:Posted September 10, 2021
+msg:性價比不高，設備簡陋
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in November 2021
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted November 26, 2021
+msg:環境好房間舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - City-View
+info:Stayed in December 2021
+info:Friends
+info:22 Reviews
+rating:5
+posted:Posted January 10, 2022
+msg:性價比較高！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room - Lake-View
+info:Stayed in May 2021
+info:Family
+info:4 Reviews
+rating:3.7
+posted:Posted October 5, 2021
+msg:一般吧，周圍環境還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room - Lake-View
+info:Stayed in November 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted November 29, 2021
+msg:住得舒適！
+----------------------------------------
+name:G‍a‍o‍m‍i‍n‍g
+info:Business Double Room - City-View
+info:Stayed in May 2021
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted September 12, 2021
+msg:環境一流！設施完畢！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room - Single Occupancy, City-View
+info:Stayed in June 2021
+info:Other
+info:15 Reviews
+rating:5
+posted:Posted July 2, 2021
+msg:第二次入住該酒店
+----------------------------------------

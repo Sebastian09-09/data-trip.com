@@ -1,0 +1,300 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in April 2024
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:Good stay. A wide variety of breakfasts. Convenient for daily meals. Will come again next year~
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted April 9, 2024
+msg:The room type was upgraded for free. It was very comfortable and spacious. It was also convenient to go to the ski resort. I had a great time staying with my girlfriend. Xiao Qiao at the front desk had a good service attitude.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted March 30, 2024
+msg:The room is very clean. It is also very convenient to go to the ski resort. The shuttle bus is at the back door. There are shuttle buses at 9:05, 10:35 and 11:35. Xiao Qiao at the front desk is also very friendly. She will answer any questions and is very patient. It is a good choice to choose the six-row room when I first came to Keketuohai. There are also many places to eat around the six-row room, and it is also very convenient to walk there.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted March 5, 2024
+msg:The best hotel in Keketuohai, with proactive and enthusiastic service, a constant temperature underground garage, and an apar**ent-style hotel with ready-to-move-in
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Couples
+info:45 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:The room is very nice, spacious and warm, ideal for skiing, with rich facilities and breakfast, and a lot of food nearby. I will choose it again next time
+----------------------------------------
+name:J‍i‍u‍h‍u‍i‍y‍o‍u
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted February 21, 2024
+msg:1. The hotel is currently the best hotel in Keketuohai. The decoration design is very fine. There is a kitchen with new kitchenware and tableware. It is also the only hotel with an underground garage. 2. The service is also very good. The front desk clerk Yismaili is very enthusiastic and attentive. The service is very good. I am very satisfied
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted February 21, 2024
+msg:I stayed here for the last few days of my week in Keketuohai. It was much better than what was described in the story. The breakfast was very rich, the room was very large, and the front desk clerk Xiaohai was also very good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Couples
+info:14 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:The best hotel in Keketuohai, remarkable
+1. A must-select suite, with one bedroom and one living room of more than 60 square meters. There is no better place than this decoration and area.
+2. Breakfast in the hotel is available until 11:30 at the latest. It is very rich and can also pack breakfast for free (which hotel in the country can pack breakfast for free)
+3. It has complete facilities, including a billiards room, bar, restaurant, and the only underground parking lot in Cocoa. When the mountain is closed, it is very comfortable to lie down in the hotel for a day.
+4. Thank you to the housekeeper Ismaili, who helped me deliver my huge and heavy luggage when I checked in, and finally helped me clean my snow-covered car, set up shop for my stalled car, renew my room, and was always considerate and caring.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Family
+info:33 Reviews
+rating:4.7
+posted:Posted February 17, 2024
+msg:Facilities: The hotel is new and has just opened.
+Environment: Very good
+The service is very good. The skis were sent to the hotel before the guests arrived, and the hotel helped to pick them up.
+The hotel also has many drivers' phone numbers. If you need a car, ask the front desk for the driver's number and make an appoin**ent in advance.
+Because the road to the Keketuohai ski resort is closed, we can't go to the ski resort. We can't get our skis at the ski resort, but we have to leave Keke, so we asked the hotel manager to help pick them up and send them back to us later.
+Then the breakfast is very rich and delicious😋
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:The hotel is very nice and the breakfast is good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:3-bedroom And 1-living Room Suite
+info:Stayed in November 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted November 27, 2023
+msg:The view outside the window is super beautiful. I was definitely in a good mood when I woke up in the morning.
+The hotel breakfast was very good, which should be the ceiling of Keketuohai.
+The room facilities are very complete, including washing machine, dryer and induction cooker.
+The 3-bedroom apar**ent is suitable for parties
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Boutique 1-bedroom And 1-living Room Suite
+info:Stayed in November 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 26, 2023
+msg:This is the third year I have been skiing in Keketuohai. This time, I chose the newly opened Keketuohai Six-Row Apar**ent Hotel. I was actually quite worried before I checked in, because in the past two years, the overall decoration, facilities and services of Keketuohai hotels were not very ideal, including the most worrying sound insulation problem.
+But after this stay, all the previous worries were gone. The hotel lobby is spacious and bright, the room decoration is simple but not simple, the hotel restaurant has a rich variety of dishes, and the most important thing is that the sound insulation is quite good, so that I can get a full rest after skiing for a day, and I will not be disturbed by the neighbors outside the door or upstairs and downstairs.
+The disadvantage may be that the room price is a little expensive, but for other advantages, it is completely acceptable. I hope the hotel will remain as it is now, and I will come to Keketuohai to ski every year and choose to stay in the Six-Row Apar**ent Hotel.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in November 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 26, 2023
+msg:The room is very luxurious. There is a kitchen where you can cook and take a bath. The restaurant is delicious, the service is good and clean. There is also billiards, a cocktail bar and a bonfire party. The best hotel in Keketuohai!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2023
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted November 2, 2023
+msg:🏡 The newly opened serviced apar**ents in Keketuohai this snow season are stylish, grand and tasteful. There are room types suitable for different needs, and the rooms are equipped with kitchens and washing machines, which can meet the needs of long-term and short-term vacations and business travel.
+
+🍽️ There is currently a restaurant with breakfast buffet and lunch and dinner can be ordered. You will not get tired of eating there for several days.
+
+The best hotel in Keketuohai at present, highly recommended!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Solo travelers
+info:8 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:The room is very big, the facilities in the room are good, the Chinese restaurant is also delicious, it is the first choice for permanent residents in Keketuohai. In addition, the service of brother Ismaili at the front desk is attentive and considerate.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Boutique 1-bedroom And 1-living Room Suite
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 21, 2024
+msg:The hotel is very new and is in the nature of an apar**ent. It is very suitable for multiple friends to come together. The breakfast is also very rich. There are two restaurants next door, which are very convenient.
+----------------------------------------
+name:D‍a‍i‍w‍a‍n‍g
+info:Superior 2-bed Room
+info:Stayed in February 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:Six friends went together and chose this apar**ent in Keketuohai. The service was super good, the room was super good, everything was available, and there was a row of restaurants next to it, which was also very convenient.
+----------------------------------------
+name:t‍r‍a‍c‍y
+info:Comfy 2-bedroom And 1-living Room Suite
+info:Stayed in November 2023
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted November 27, 2023
+msg:A newly opened hotel, apar**ent-style, awesome. The two-bedroom apar**ent is spacious and comfortable. I love the living room, it feels especially cozy. The two rooms are also very comfortable. It is very suitable for friends or family to come over. After skiing, stay in a warm room together, cook, chat, it is so cozy. Although the hotel is very new, the management and service are very good, and the breakfast is also rich and delicious. It is great, recommended
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in October 2023
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted November 1, 2023
+msg:I have been to Coco for the third time. This time is the most satisfactory one. The newly opened hotel has a great environment and is very large. There is also a ski shop downstairs. Ski equipment rental is very convenient. There is also a pool table. The room is very spacious and has a large balcony. The people in the hotel are very good. If there are any problems, they will be handled in time. The hotel also holds activities. I am very happy to stay here these few days. I will stay here again next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2023
+info:Solo travelers
+info:10 Reviews
+rating:2.2
+posted:Posted October 21, 2023
+msg:It is said to be one of the best hotels in Keketuohai, but it is really disappointing. First of all, check in. Since I rushed to Keketuohai from Urumqi, it was already past one o'clock when I arrived. The front desk of the lobby was lying on the sofa of the hotel. I woke up after shouting a few times. Then I checked in with various problems. It took thirty minutes to get into the room. I was exhausted. I opened the toilet, and the toilet was full of feces. I don't know how the room manager checked the hygiene of the room. The next morning, I found that the toilet was blocked, and I communicated with the front desk for repairs. When I returned to the hotel at night, it was still blocked, so I had no choice but to change a room. During the period, I found that the hygiene of the room was a mess. As a new hotel, I was really speechless. Then talk about breakfast, which only has ten varieties in total. And the boxed yogurt is available one day and not the next day. Let the chef make noodles, and the chef looked for a soup spoon for a few minutes. It's not funny. I stayed for four days and had various accidents. Finally, I would like to say that the cleaning of the guest room is troublesome to be more serious. The garbage is not cleaned up, and the basin is not washed. If it is not well managed, please ask a professional team to manage it. If it goes on like this, it will not be worth the price.
+----------------------------------------
+name:A‍n‍z‍i
+info:Superior 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:來可可託海的第一晚住在村裡的民宿，體驗一晚就換到朋友推薦的六排房公寓，我們來得早訂的房型沒出來，酒店馬上給我們升級了一間套房，來了以後一直下大雪，非常慶幸換來這個酒店，房間温暖寬敞舒適乾淨透亮，洗衣機冰箱微波爐電飯鍋烤盤一應俱全，很方便，還有歡迎水果，即使大雪不能出門呆在房間也心情愉悦。還要特別要感謝前台的喬勒番美女，服務熱情周到貼心，給我們提供了非常多的幫助，讓我們在異地他鄉感受到了温暖。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in February 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:今天來可可託海聽到朋友的推薦來到這個六排房酒店，剛好我們訂的房間沒有了，這時候在前台喬勒番小姐姐，幫我們處理了房間問題，酒店環境很好，設施很全面，暖氣很足，剛好來這邊下大雪還幫忙處理了車的問題，推薦！！
+----------------------------------------
+name:W‍i‍l‍l‍i‍a‍m‍ ‍A‍C‍E
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Friends
+info:13 Reviews
+rating:4.8
+posted:Posted May 5, 2024
+msg:房間很新很大，前台小羅也很熱心負責，
+面積環境比可可的其他酒店好，而且吃飯很方便
+----------------------------------------
+name:L‍a‍i‍r‍i‍f‍a‍n‍g‍c‍h‍a‍n‍g‍b‍i‍n‍g‍b‍u‍c‍h‍a‍n‍g
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted March 8, 2024
+msg:酒店很新早餐很好吃值得來住 ，前台喬勒翻還有伊斯馬伊力小哥哥服務很細心
+----------------------------------------
+name:K‍e‍d‍a‍d‍a‍d‍a
+info:Comfy 2-bedroom And 1-living Room Suite
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 21, 2024
+msg:前台肉孜江服務很熱情 普通話流暢 有問題可以及時幫助我解決等話
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 20, 2024
+msg:酒店很新，整體簡潔温暖乾淨
+
+工作人員伊斯馬伊力服務很貼心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted March 24, 2024
+msg:房間很大很好，設施現代乾淨衞生，非常好的入住體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:硬件雪場酒店算是很棒的了，前台小海很漂亮熱情
+----------------------------------------
+name:m‍a‍k‍i‍c‍a‍o
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted March 19, 2024
+msg:給我的管家伊斯馬伊力 好評好評好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted February 18, 2024
+msg:非常棒，可可託海最好的酒店
+----------------------------------------
+name:L‍o‍n‍g‍z‍h‍i‍q‍i‍s‍h‍i
+info:Superior 2-bed Room
+info:Stayed in February 2024
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted March 1, 2024
+msg:滑雪非常方便
+----------------------------------------

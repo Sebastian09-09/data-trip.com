@@ -1,0 +1,3411 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room - River-View
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:0.5
+posted:Posted May 2, 2024
+msg:There is no heating in the room, and you can't take a shower. The air conditioner and curtain switches are controlled by the main desk, and guests cannot adjust them. No sense of security!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:The room environment and facilities are very good, and the service attitude is also good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 14, 2024
+msg:From the moment we stepped into the hotel, the hotel staff made us feel at home, like a spring breeze. The hotel is clean and tidy, the environment is beautiful, the hardware and software are impeccable, and it is a very satisfactory stay experience!
+----------------------------------------
+name:S‍h‍e‍n‍g‍h‍u‍o‍c‍h‍u‍i‍l‍i‍a‍n
+info:Business Room - Garden-View (Double bed)
+info:Stayed in March 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 29, 2024
+msg:Booked a garden view room, the front desk lady enthusiastically helped me upgrade to a river view room. I will stay here again next time
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 22, 2024
+msg:The room is very comfortable, and there is a balcony with a good view. It can take care of the guests' feelings and the service attitude is relatively sincere, which is worthy of recognition. The buffet breakfast is also good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:The lobby is clean and the service is good! The decoration is good and it is a cost-effective experience. I will choose Pacific Hotel next time. There are many breakfast items and the children like it very much!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 15, 2024
+msg:It's been a long time since I wanted to comment on a trip.
+First of all, the hotel hardware is very good. The room is very spacious, with two beds and a chaise longue with armrests. Three generations of people, one old, one big and one small, stayed there. It was very comfortable. The facilities in the room were very new and good. The room with a balcony could see the river view and sunrise. Although there was no sign, the check-in experience was good and the staff was well-trained. Thank you very much for the service in the past two days. Recommended!
+I stayed at the Pacific Hotel and went to Hangzhou during the day. I suggest that everyone go to Hangzhou to park their cars in the Huanglong Sports Parking Lot, which is capped at 30 yuan. It is very convenient to take children and the elderly to the Science and Technology Museum, the Natural History Museum and the West Lake. The hotel exterior and the West Lake scenery are shown later.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted January 19, 2024
+msg:Very clean and quiet, living on the 17th floor overlooking the river, very spectacular. Breakfast is not very varied, but tastes great. The coffee beans should be changed to a better variety, not mellow enough
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted January 12, 2024
+msg:Very good, very good hotel, with a panoramic view of the Jiangdong Bridge of Qiantang River. You can also watch the sunrise in the morning. The room is very clean and the breakfast is also very rich. I will stay here again next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in January 2024
+info:Couples
+info:8 Reviews
+rating:5
+posted:Posted January 8, 2024
+msg:The room is big enough and the bathroom is very good. The balcony has a great view and is a good place to relax on weekends. The hotel's breakfast variety is quite rich, the Chinese food is OK, and the front desk service attitude is comfortable and gentle.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in December 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted January 1, 2024
+msg:The room is spacious, bright, clean, tidy, and has a good view. The service is warm, thoughtful, and well-educated. The facilities are complete, and there are unexpected free fruits. I give it 100 points for satisfaction.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in December 2023
+info:Business travelers
+info:32 Reviews
+rating:5
+posted:Posted January 7, 2024
+msg:The room has good amenities, the hotel is comfortable, the location is good, the price/performance ratio is high, and you can see the Qiantang River. There are plenty of parking spaces, the front desk service is enthusiastic, and the breakfast is quite rich.
+----------------------------------------
+name:m‍a‍t‍r‍i‍x‍s‍t‍o‍n‍e
+info:Family Friendly Room - River-View
+info:Stayed in February 2024
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted February 15, 2024
+msg:Very good, the scenery is also good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:3.2
+posted:Posted May 13, 2024
+msg:The sewer was clogged, and it was repaired promptly after the warranty, but the shower gave me a bad experience. The hotel's breakfast was not special and not tasty. The river view was not a real view, it was quiet, the robot was broken, fortunately I didn't order takeout~ The bed was also average
+----------------------------------------
+name:H‍u‍x‍u‍a‍n‍m‍i‍n‍g‍_‍H‍u‍g‍o
+info:Executive River-view Suite
+info:Stayed in October 2023
+info:Family
+info:13 Reviews
+rating:3.2
+posted:Posted October 29, 2023
+msg:It's hard to comment. The hotel's hardware is very hard, but the software is very soft. I spent more than 2,000 yuan to book a river view suite on September 15th. It's a half-hour drive from Yanguan Tide Viewing City. I watched the tide three times. Overall, it was worth the trip.
+
+Environment: It occupies a geographical advantage and is close to Jiangdong Bridge. The terrace of the river view suite is quiet and open with a good view. It is a good place to watch the tide.
+
+Facilities: It's a bit incomprehensible. The living room of the suite is equipped with a desk, but the desktop socket is not powered, and there is no desk lamp or floor lamp on the desktop. I went to other big bed rooms to see that other people's desks have independent floor lamps; there is a charging cable placed at the head of the bed, with a QR code, providing a scan code payment charging service, which has to be said to be ugly; the room should have a sign indicating the WIFI password, and other friends who traveled with them told them that there was one in the room, but my room did not have it, which should be the negligence of the staff; there are two human sculptures on the terrace outside the house. Be careful when you look at it at night, it's very scary.
+
+Service: Weird service may also be a major feature of the hotel. Because I was traveling with my children, I called the hotel one day in advance to ask if the hotel terrace could see the tide. I was simply told "I don't know", which showed that the service of this hotel was not simple. I had a buffet in the hotel on the night of check-in. The food was so-so, but the tableware and plates were mostly bumped. When I asked the waiter for two wine glasses, I was directly told that they were "out of stock". My order was to check out at 1400, but the waiter started to call to urge me to check out at 13:30, which was already very unpleasant. At almost the same time, an old man suddenly appeared on the terrace. After the women in the bedroom were frightened, the old man calmly said "Sorry, I'm here to water the flowers". At this moment, it was puzzling and outrageous. Staff could come and go in their own rooms at will. I will seriously hold them accountable for this. Finally, I checked out at the front desk before "1400" very unpleasantly. It took nearly 10 minutes to issue the invoice, so the amateur service in each link seemed to have an explanation...
+
+Finally, a few pictures are attached to appreciate the Qiantang tide. I hope that Zhejiang Pacific Hotel will live up to the magnificent scenery of the tide and compete for the service tide.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in October 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:The room is very clean and comfortable. The price is very cost-effective during the National Day. The service is also very good. Fruits are also given. The breakfast is surprisingly good. There are many varieties, including Chinese and Western food. Especially the Chinese food category is more than other hotels. The only drawback is There are no shower caps, razors, and soaps in the room. You need to call customer service to get them. This is too inconvenient. Other hotels put them directly in the bathroom. I hope they can be improved in the future.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in October 2023
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:I went to Haining to watch the tide during the National Day holiday. I booked the hotel online. When we arrived at the front desk, we checked in and upgraded our room to an executive room with river view. They said we could see the tide of the Qiantang River. Very thoughtful. When we arrived at the room, the waiters Xie Weixia and Liu Shumei were very considerate and provided mineral water and fruits. It happened to be my wife's birthday and they also gave me gifts. The hotel breakfast is also very rich. The peak meal time is when you add dishes quickly.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in October 2023
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:Came to Haining to watch the tide, found a hotel along the Qiantang River, booked two weeks in advance for a good price. The river view room is spacious, comfortable, and has a balcony. Watch the sunrise in the morning and enjoy the bathtub at night. The underground parking lot is large, suitable for self-driving tours.
+There is an outlet within 2 kilometers around, with a lot of delicious food and free parking. If you are too lazy to go out, you can also order takeout. The hotel breakfast is good, worth the price, and there is a buffet dinner on weekends. It is said that there is an executive lounge where you can watch the river and the tide. Next time I will come to see the tide.
+----------------------------------------
+name:X‍i‍h‍u‍a‍n‍d‍u‍j‍i‍a‍d‍e‍d‍a‍y‍o‍n‍g
+info:Business River-view Twin Room
+info:Stayed in September 2023
+info:Couples
+info:70 Reviews
+rating:4.7
+posted:Posted September 22, 2023
+msg:Because I was going to Qianjiang River to watch the tide, I chose this hotel which is close to Haining Yanguan and Yancang. Indeed, there are not many good hotels to choose from in Haining, and this one is good. In fact, the one-way fare to Yanguan to watch the tide by Didi is more than 60 yuan, and it takes more than 40 minutes. There are not many guests staying in the hotel, and there are few choices for eating nearby. Fortunately, the Chinese restaurant in the hotel is not bad. I asked for a set meal for two people, and the portion was scary. I couldn't finish it at all. The key is that it tasted delicious and worth recommending. The room is of suitable size, clean and tidy, and the mattress is moderately soft and hard, which is conducive to sleep. The variety of buffet breakfast is average, and the quality and taste are mediocre, which is not good enough. However, maybe there are not many people eating. When the buffet breakfast was about to end at ten o'clock, the service staff cleaned up the guests' tableware, and they didn't care that we were still eating. The noise was very loud, and the sound of ping-pong seriously affected our meal. It shows that the hotel management is not in place, and I hope it can be actively improved.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted September 17, 2023
+msg:Facilities: Complete facilities, high-end hotel configuration, good
+Hygiene: The sanitary conditions are OK
+Environment: Right by the Qiantang River, beautiful scenery
+Service: Very good attitude, good service, professional
+A high-end hotel with a good a**osphere. It is very considerate to help upgrade to a better room. The river view room has a very beautiful view, and there are welcome fruits. The buffet breakfast is also very good!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:9 Reviews
+rating:4.7
+posted:Posted September 16, 2023
+msg:A pleasant stay. The environment is comfortable and the service is friendly. It is a good choice for business trips. There are some minor flaws. There is no charging cable in the room. Although this requirement is not a standard requirement of the hotel, it is really crazy for business travelers to find out that there is no charging cable in the middle of the night. In addition, it is said that the food delivery robot was broken when I checked in...
+----------------------------------------
+name:T‍i‍a‍n‍b‍a‍o‍m‍a
+info:Business River-view Twin Room
+info:Stayed in August 2023
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted August 19, 2023
+msg:Very satisfied with the hotel. There are many types of breakfast. You can see the Qiantang River. The view is very good. There is also a balcony and a bathtub. It is very comfortable to choose this hotel with children.
+----------------------------------------
+name:Y‍i‍f‍e‍n‍g‍t‍i‍a‍o‍y‍u‍s‍h‍u‍n
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted August 19, 2022
+msg:Very satisfied, and also helped to upgrade the room. The river view is clean and the environment is very good
+----------------------------------------
+name:L‍a‍m‍u‍x‍i‍l‍u‍y‍i‍s‍u‍o
+info:Business River-view Twin Room
+info:Stayed in August 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 15, 2022
+msg:I would like to commend Zhou Liang, the assistant manager of the lobby! ! Service attitude did not say! 👍🏻👍🏻👍🏻 Stayed for four nights, and every day they told me the time to watch the tide in time, and I was very happy that I was upgraded to a room for free. The room has an invincible river view, and I can clearly see the Qiantang River tide!
+All aspects of health services are also very good, breakfast is also delicious, more in line with my appetite. Great value for money!
+I will definitely choose to stay here next time! Will recommend to friends too!
+----------------------------------------
+name:T‍p‍p‍p‍h
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2022
+info:Booked for others
+info:6 Reviews
+rating:5
+posted:Posted August 12, 2022
+msg:Transportation: convenient
+Hygiene: very good
+When I came to the hotel, I turned on the air conditioner in advance and it was very cool. The scenery outside the window was beautiful, and it was equipped with a bathtub. I was tired and I could come back to take a bath at night. The waiters were warm
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 7, 2022
+msg:Thanks for the enthusiastic service at the front desk, the room is very good, the scenery is very good, I took a lot of photos, the breakfast is very rich, I can bring my family next time
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 2, 2022
+msg:The hotel is very good, the room is very large, facing the Qiantang River, you can watch the tide in the room, the quality of the hotel staff is very good, and there are robot services, the overall feeling is good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in July 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 31, 2022
+msg:The service is very thoughtful and the environment is also good. The front desk helped to give a lot of good suggestions, which saved a lot of time. I am very grateful. I will definitely come back to Pacific Ocean when I have the opportunity, and attach a photo of the room.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in July 2022
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted July 30, 2022
+msg:There is a five-star hotel near my home and finally I have time to experience it once. When I checked in, the front desk Xiaozhang gave me a free upgrade. The room has complete facilities and modern decoration. It is no different from what I expected. I also saw the tide of the Qiantang River. I can see the tide of the Qiantang River in the room. The hotel's breakfast is also rich. Next time relatives and friends come, the first choice is the Pacific Ocean hahaha
+----------------------------------------
+name:F‍e‍n‍g‍h‍a‍i‍y‍i‍x‍i‍a
+info:Business Room - Garden-View (Double bed)
+info:Stayed in July 2022
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted July 30, 2022
+msg:Thanks to the lady at the front desk for upgrading the river view room, you can see the Qiantang River, the environment is good, recommended
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in July 2022
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted July 30, 2022
+msg:The hotel is good, the environment is very good, the service is nice, facing the Qiantang River, with a wide field of vision, 500 meters to the south is the golf course, easy to eat and live
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Business Queen Room
+info:Stayed in June 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 12, 2022
+msg:A very good experience, the wide field of vision and fresh air are sublimated! Thank you Xiao Zhou at the front desk for free upgrade to the river view room. I will come again next time in Hangzhou!
+----------------------------------------
+name:W‍u‍j‍i‍a‍z‍i‍z‍i
+info:Business River-view Twin Room
+info:Stayed in February 2022
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted February 15, 2022
+msg:The counter is very friendly, the river view room is very nice, the only special thing is that there is an outside balcony, and the river is unobstructed. A good night's sleep, and the heating is very strong and not noisy, a very good accommodation experience and the price/performance ratio is beyond doubt
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in February 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 12, 2022
+msg:The hotel is located on the bank of Qiantang River with beautiful environment. The hotel is newly opened. The rooms are spacious, the facilities are advanced, the bedding is comfortable, and the privacy is strong. It feels like a four-star grade.
+----------------------------------------
+name:P‍a‍i‍d‍e‍j‍i‍s‍h‍u
+info:River-view Business Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted May 21, 2024
+msg:環境優美，服務態度很好，可看錢塘江景。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2024
+info:Business travelers
+info:16 Reviews
+rating:4.5
+posted:Posted May 20, 2024
+msg:性價比還可以，就是這個水平的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room - River-View
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 2, 2023
+msg:親子房間很舒適，行政酒廊景觀也很棒，特別服務好，客房服務領班：謝維霞、張蘭花客房打掃很乾凈，還送了水果；大堂周經理也很貼心，送了下午茶 ，還給小寶寶禮物，讓我們入住體驗很温馨，下次觀潮還要住這裏！
+----------------------------------------
+name:C‍h‍e‍n‍x‍i‍a‍o‍t‍i‍n‍g
+info:Business River-view Twin Room
+info:Stayed in October 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:酒店很新，在江邊，為了看潮來的，入住當天過了潮水時間沒有看到，第二天為了看潮幫忙延遲了退房，服務很好，特別熱心，感謝領班謝維霞，服務員徐麗燕還有前台曉月小姐姐，下次來還會住，體驗感很好！
+----------------------------------------
+name:H‍Y‍Q‍1‍0‍1‍0
+info:Business River-view Twin Room
+info:Stayed in September 2023
+info:Family
+info:11 Reviews
+rating:2.7
+posted:Posted September 5, 2023
+msg:房間裏連最基本的浴帽，洗手洗都沒有，牙刷牙杯就單放在外面，放牙杯的盤子還有積水，看着就臟，根本不能用。還有那個不知名的礦泉水，不知道能不能喝。樓層的隔音效果也不好，樓上房間的人走路，放水都能聽到。還有前台服務人員態度也很差，辦理入住的時候，服務人員也沒告知早餐時間及樓層。退房的時候也沒告知要掃停車碼，我們都開到大門口了，被停車桿攔住，不得不又開回酒店去前台，才被告知要掃停車碼。總之，是我住過最差勁的酒店。
+----------------------------------------
+name:Z‍a‍o‍c‍h‍u‍n‍w‍u‍y‍u‍e
+info:Business River-view Twin Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:4.7
+posted:Posted February 15, 2024
+msg:龍年主要假期安排在了浙江太平洋大酒店，家人們都非常喜歡。酒店特別適合度假和公務，地下停車場很大，進入酒店5小時內可以自由進出，超時去前台刷卡即可。酒店位於杭州之江路周邊都是高校，離雲水地鐵1號線15分車程，酒店客房設施很好，大多房間都有陽台、衞生也非常到位，沒有死角，感覺有部分產業尚未駿工，增加點休閑設施會更加出眾，新春期間工作人員很辛苦，謝謝他們的付出。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 12, 2024
+msg:對所住客房非常滿意！房間設施都很新、整潔衞生，整個酒店環境也衞生整潔安靜。酒店對旅客服務方面能主動招呼做的很好！在辦理入住時，本人因個人原因、對原先在網上選的並已辦理了入住手續的客房不喜歡，要求前台服務員幫助、重新挑選客房更換，該酒店辦理入住手續的服務員和酒店陳經理都非常耐心熱心服務，陳經理親自帶着上樓幫助挑選客人滿意的客房；入住期間需要一些東西，電話聯繫到服務枱，會有機器人送到房間門口、感覺到科技方便；退房時的前台郭姓服務員也很熱心、主動服務，辦理退房手續快捷方便；再來此地還會選擇該酒店，價廉物美性價比高。
+----------------------------------------
+name:A‍n‍d‍e‍r‍s‍e‍n‍1‍1
+info:River-view Business Double Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 22, 2024
+msg:設施：還不錯，大堂很漂亮
+
+衞生：乾淨整潔，酒店很新
+環境：ok，地處海寧靠杭州，位置很不錯
+服務：謝偉霞經理很熱情，有小水果和巧克力
+----------------------------------------
+name:K‍o‍n‍g‍j‍i‍n‍g‍r‍u‍h‍a‍i
+info:Business River-view Twin Room
+info:Stayed in April 2024
+info:Couples
+info:33 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:酒店檔次很高，性價比高。免費升級了房間，在房間陽台可以觀看錢塘江江景。房間寬敞明亮，床和忱頭都舒適。早餐豐富精緻，可吃性強。服務態度好，地下和地上都停車方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in September 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 2, 2023
+msg:房間不錯，帶個陽台，曬曬換洗的衣服非常方便。領班謝維霞和服務員彭春才的服務非常熱情。下次過來還會再選擇住在這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in October 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 6, 2023
+msg:一線無限江景，在酒店的陽台就能看到錢塘江啦，一定要訂江景房，服務也很貼心。開車去鹽官也很方便，半小時左右。
+----------------------------------------
+name:Y‍i‍w‍e‍i‍p‍i‍n‍g
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 16, 2023
+msg:酒店給免費升級了江景房，有陽台可以吹風，服務態度也好，看到浴缸問了有沒有一次性浴缸套，也馬上送過來了，還有免費雨傘提供，挺好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 7, 2023
+msg:很上檔次的酒店，去觀看亞運會訂的。房間外還有陽台，空氣清新，可以看到錢塘江，早餐也豐富，下次還來入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in July 2023
+info:Couples
+info:2 Reviews
+rating:3.5
+posted:Posted July 24, 2023
+msg:入住已經凌晨三點了 到前台被服務人員告知我們定錯房了？語氣堅決讓我們退房，我還懷疑了一下我自己，隨後看了自己的訂單並且表示自己沒有定錯，前台要是夜班心情不好的話呢就辭職 不要這個態度對客户 畢竟是你們自己搞錯了。然後入住 酒店設施環境都是很棒的，進房間一股尿騷味隨後發現衞生間地上有尿漬  換了一個房間還是這個樣子 算了 已經凌晨三點半了 隨便睡了 不如全季 桔子這些酒店乾淨 以後出門還是要選連鎖啊
+----------------------------------------
+name:A‍j‍i‍e‍m‍e‍i‍e‍r‍b‍e‍i‍y‍a‍t‍e
+info:River-view Business Double Room
+info:Stayed in January 2024
+info:Solo travelers
+info:4 Reviews
+rating:2.5
+posted:Posted January 16, 2024
+msg:自助早餐麪條餛飩米線區有個女服務生，我説了拿份麪條結果半天沒煮，我又去説，結果説忘了，然後過了幾分鐘去拿，她又説我的被別人拿走了，呵呵，真笑了，然後又重新給我煮，邊煮還和旁邊年紀稍大的另一服務生不停聊天：什麼昨天去哪裡玩啦，買了件新羽絨服啦，亂七八糟的，嘴裏沒停過，毫無管理可言
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in June 2023
+info:Other
+info:28 Reviews
+rating:5
+posted:Posted September 6, 2023
+msg:酒店地處嘉興海寧市與杭州錢塘區交界處，六月中旬在杭州的浙江財經大學參加了小孩的畢業典禮，而後開車沿之江路，幾分鐘的車程到酒店，辦理了入住，定的是江景房，酒店的設施環境衞生及服務都符合星級酒店標準，房間安靜舒適。早餐品種豐富，中式，西式餐點及地方特色都有，符合不同住客的口味，個人覺得是不錯的入住體驗，值得推薦。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in May 2024
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:酒店位置雖然已是嘉興海寧了，但在浙財附近，開車不到10分鐘，會議型酒店，性價比挺高的，面朝錢塘江可以去觀潮。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 10, 2023
+msg:環境好，乾淨衞生。服務好。可以看到錢塘江。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room - River-View (Double bed)
+info:Stayed in October 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:小朋友喜歡的酒店，還有機器人送餐
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in May 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:房間好乾凈，一線江景真美。房間設施也非常好，客房領班謝維霞服務非常到位，非常滿意的一次旅行。
+----------------------------------------
+name:B‍u‍z‍h‍i‍d‍a‍o‍j‍i‍a‍o‍s‍h‍e‍n‍m‍e‍1‍2‍0‍2
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2023
+info:Couples
+info:12 Reviews
+rating:5
+posted:Posted September 4, 2023
+msg:酒店環境很不錯 設施也很好 小李也很有禮貌
+----------------------------------------
+name:Y‍i‍l‍u‍n‍_‍m‍i‍n‍g‍y‍u‍e
+info:Business Room - Garden-View (Double bed)
+info:Stayed in February 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted February 24, 2024
+msg:酒店挺好的，性價比很高，春節期間也不漲價。位置上算還行，其實挨着下沙，四五星的標準，也衹比全季貴一點點。泳池這些再搞起來就完美了。
+----------------------------------------
+name:A‍r‍i‍e‍s‍M‍a‍o
+info:Business River-view Twin Room
+info:Stayed in May 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 24, 2023
+msg:謝謝前台小周姐姐，服務非常周到，跟媽媽和妹妹有了一個不錯的住宿體驗，媽媽吃早上的自助餐也非常開心，想要多條被子也是可以的，客房會拿過來，下次來杭州還來住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in May 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted June 8, 2024
+msg:房間和服務非常好，謝維霞看到我們非常熱情，為我們提供了水和水果，還非常熱情詢問我們需要什麼。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room - River-View
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 20, 2023
+msg:酒店不錯適合親子游，前台小周貼心服務很好
+----------------------------------------
+name:N‍i‍u‍n‍i‍u‍j‍i‍a‍n‍g
+info:Business River-view Twin Room
+info:Stayed in August 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted August 21, 2023
+msg:住的江景房風景很好，小周服務好很有耐心
+----------------------------------------
+name:A‍n‍j‍i‍l‍a‍b‍a‍b‍i‍（‍p‍a‍p‍o‍b‍a‍n‍）
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted April 2, 2023
+msg:因為在下沙考試所以入住了這個酒店，入住的時候前台就給免費升級了江景房，大陽台看江景很舒服。房間設施很新也很乾凈，入住體驗好。
+另外，特別感謝經理的安排，以及前台湯、吳、馮三位工作人員幫我解決用車問題，特別熱情和暖心，祝各位工作順利，事事順心。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in September 2023
+info:Couples
+info:9 Reviews
+rating:5
+posted:Posted September 30, 2023
+msg:一開始有些小問題，但經過溝通前台經理服務態度很好，幫我們一路安排妥當，還安排看錢塘江潮， 最後還是給我們很好的印象。坦白説不是國際五星掛牌酒店，有這樣的乾淨度，服務意識，已經可以接受了，相比較，攜程第二天給我介紹去海寧市區的鉑爾曼酒店，這家所謂的國際品牌完全不行，所以開了很多路程到了這裏還是毅然離開，直接再開往嘉興南湖區的萬豪，最後安排好入住已經晚上8點，實在被這間酒店耽擱了，國際品牌，衞生欠佳，翻修後的品質完全看不出來，價格也不低，不斷在不同樓層看房還把我們折騰得很累，耽誤了我們的行程。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:9 Reviews
+rating:3.2
+posted:Posted September 26, 2023
+msg:新酒店，硬件當然是可以，但江景房就一線側面江景建議別寫在標題上了。周邊配套是完全沒有，吃飯沒有打車沒有，錢塘江邊還是一片泥地，酒店內味還沒除完，游泳池甚至還沒建好。服務也是沒有，門僮在裝死，前台超大聲音訓斥新人完全不在意客人也不想提供服務。。第二天趕緊換地方住了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted May 9, 2023
+msg:房間乾淨衞生，連住衞生打掃及時。不是江景房但也可以看到一點點。自助早餐豐富，非常喜歡吃小餛飩，自磨咖啡為每日出遊提神打好基礎。👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in October 2023
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted October 9, 2023
+msg:設施：康體中心和游泳池未開放，期待將來開放
+位置非常好，緊挨錢塘江。
+服務：免費升級了行政房，大陽台江景無敵
+環境：新酒店很乾凈整潔，房間大小一般，設施很高檔，有自動馬桶。
+----------------------------------------
+name:Y‍u‍d‍o‍n‍g‍ ‍D‍i‍n‍g
+info:Business Room - Garden-View (Double bed)
+info:Stayed in February 2023
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted February 19, 2023
+msg:住宿環境和衞生都很舒適，房間裏的配備設施很齊全，🈶大浴缸，我忘了拍圖，晚上可以泡泡澡放鬆一下，特別舒服，房間配備的智能馬桶🚽，空調很舒服，床墊舒適度也很好，睡的特別美，總之這次杭州之行入住太平洋很滿意，強烈推薦🌹
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in September 2023
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted October 1, 2023
+msg:房間很大，床也很舒服，樓層領班劉桂平大姐得知我們是來看潮的，非常熱心的幫我們搜尋看潮的最佳景點和時期，非常感謝。樓層服務員向聲秀的服務也非常好。很好的一次入住體驗！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in December 2023
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted March 4, 2024
+msg:小李接待服務非常棒，酒店設施齊全環境很好 光景絕佳的好地方 附近離奧特萊斯很近吃飯購物超級方便，與杭州一線之隔  推薦入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in January 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted January 30, 2023
+msg:春節假期最後幾天不想待在家裡，離住處不遠就有這家酒店，於是便想到來這裏悠閑的度過剩下的幾天假期。原先預訂的房在入住時被主動升級了江景的大房。一進到房間，設施很新，也很乾凈，尤其凌空俯瞰錢塘江和江東大橋，視野十分壯觀!
+很棒的一次住宿體驗。
+----------------------------------------
+name:B‍u‍a‍i‍c‍h‍i‍l‍a‍j‍i‍a‍o‍d‍e‍l‍a‍n‍y‍a‍n‍g‍c‍o‍n‍g‍y‍o‍u‍b‍i‍n‍g
+info:Business River-view Twin Room
+info:Stayed in January 2023
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted January 28, 2023
+msg:這個是正江景房，早上躺着就能看日出，酒店位置在海寧和杭州交接的地方，旁邊有個高爾夫球場。晚上睡覺也不吵，酒店挺新的，設施符合5星，春節期間去自助早餐挺豐富的，前台服務和客房服務都挺好。到奧萊大概3km.等春節過完附近吃飯外賣啥應該問題不大。
+----------------------------------------
+name:S‍u‍i‍h‍u‍a‍s‍u‍i‍y‍u
+info:Business River-view Twin Room
+info:Stayed in January 2023
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted January 24, 2023
+msg:非常好，外面就是錢塘江，乾淨衞生，設施很新，服務超級好，早餐送到房間，有中餐西餐，特別豐富，健康美味，看我們家庭入住，加送一份早餐，在過年期間吃飯不是很方便的情況下，不要太暖心了，商務出差出遊入住首先
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room - River-View
+info:Stayed in October 2023
+info:Family
+info:155 Reviews
+rating:5
+posted:Posted October 7, 2023
+msg:酒店位置不錯，能看到錢塘江，房間很大！非常舒服，而且很乾凈，停車也很方便，這個價格的親子房還是很划算的。酒店中餐廳也味道不錯，打算過年的時候再過來入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in April 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 14, 2023
+msg:酒店不錯，乾淨衞生，而且酒店的早餐真的很不錯，都吃撐了，如果下次去下沙，還會選擇貴酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in May 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 26, 2023
+msg:非常滿意，房間夠大，服務貼心，衞生滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in January 2023
+info:Business travelers
+info:37 Reviews
+rating:5
+posted:Posted January 6, 2023
+msg:酒店前台服務熱情，主動為我升級了江景房。酒店地處錢塘江附近，江景房的陽台可以一覽江景，晚上也很安靜。房間內設施齊全且設計合理。酒店地下車庫寬敞，停車方便。酒店附近有奧特萊斯，自駕的話，吃飯購物還是比較方便的。
+----------------------------------------
+name:Y‍u‍a‍n‍s‍h‍u
+info:Business River-view Twin Room
+info:Stayed in May 2023
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted June 7, 2023
+msg:環境：優雅
+衞生：乾淨
+服務：不錯
+設施：也好
+----------------------------------------
+name:m‍a‍o‍p‍a‍n‍8‍8‍8
+info:Business Room - Garden-View (Double bed)
+info:Stayed in June 2023
+info:Business travelers
+info:55 Reviews
+rating:5
+posted:Posted June 13, 2023
+msg:房間乾淨，環境不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in May 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 22, 2023
+msg:酒店
+設施：比較新。舒適度高。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in March 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:房間設施非常棒，服務周到，衞生整潔，錢塘江旁邊，觀錢江風光，風景優美。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in December 2022
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted January 3, 2023
+msg:忘記寫評價了現在補上，這一次來是為了考研，酒店在下沙大學城的附近，基本上順着一條馬路過去就能到，位置還是很不錯的，這一次考研住的客人比較多，但是早餐種類還是一如既往的豐富，酒店環境很好，這一次入住的時候周靚姐姐還特意給了一個視野開闊的房間，入住體驗很不錯
+可惜因為忙着考研我忘記拍照片啦
+----------------------------------------
+name:K‍u‍a‍i‍l‍e‍d‍e‍d‍a‍m‍a‍n‍t‍o‍u
+info:Business Room - Garden-View (Double bed)
+info:Stayed in May 2024
+info:Couples
+info:11 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:乾淨整潔，前台周經理照顧周到，緊臨九橋高爾夫球場和錢塘江。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in January 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted January 26, 2023
+msg:和對象去杭州玩，攜程上搜尋了下覺得不錯預訂了房間，實際情況就是風景很贊，新裝修的酒店，環境設施很齊全，江景房很推薦，下次去海寧還是會選擇太平洋酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in February 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted April 29, 2023
+msg:設施：挺好
+衞生：挺好
+環境：挺好
+性價比很高，到的那天晚上下雨了，外面看起來朦朦朧朧，很美，酒店設施也不錯，還被免費升房了，開心
+----------------------------------------
+name:X‍i‍s‍h‍u‍a‍n‍s‍h‍u‍a‍n
+info:Business River-view Twin Room
+info:Stayed in December 2022
+info:Family
+info:52 Reviews
+rating:5
+posted:Posted December 21, 2022
+msg:設施舒坦，衞生整潔乾淨，環境優美，服務周到！設施舒坦，衞生整潔乾淨，環境優美，服務周到！設施舒坦，衞生整潔乾淨，環境優美，服務周到！設施舒坦，衞生整潔乾淨，環境優美，服務周到！設施舒坦，衞生整潔乾淨，環境優美，服務周到！設施舒坦，衞生整潔乾淨，環境優美，服務周到！設施舒坦，衞生整潔乾淨，環境優美，服務周到！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in October 2023
+info:Family
+info:10 Reviews
+rating:4
+posted:Posted October 6, 2023
+msg:酒店的位置很好，能直接看到錢塘江。吃飯購物可以去兩公裡外的杭州下沙奧特萊斯。酒店房間有潮氣的味道，不知道是梅雨季節留下的還是其它原因。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:4.7
+posted:Posted January 24, 2023
+msg:位置離奧特萊斯比較近，適合買買買的人來入住，但是帶着孩子的話不推薦這個酒店。離適合孩子們玩得地方、離適合吃貨去的地方都是40分鐘以上的車程。
+----------------------------------------
+name:s‍a‍n‍a‍n‍2‍2
+info:Business Room - Garden-View (Double bed)
+info:Stayed in June 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted June 6, 2024
+msg:不錯的一次體驗，入住房間很大很乾凈，外面風景也很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in January 2023
+info:Couples
+info:34 Reviews
+rating:4
+posted:Posted January 26, 2023
+msg:新酒店新設施，陽台上可以看到錢塘江，不錯。遺憾的是地理位置相對偏了一點，離杭州遠了些、離海寧市區也不進，好在附近的奧特萊斯還可以逛逛。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:酒店房間、早餐都很好，工作人員肖雪的接待和服務很熱情。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in December 2022
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted December 26, 2022
+msg:住的非常滿意，尤其是前台接待的三位工作人員，服務很到位，還給了聖誕小禮物杯子，很開心。前台三位工作人員，抱歉名字記不太清，餘靚or周靚（x靚），xx豪，還有第三位記不清了，謝謝服務。
+----------------------------------------
+name:Z‍h‍e‍n‍g‍y‍i‍y‍i‍n‍g‍x‍i‍o‍n‍g‍l‍i‍a‍n‍m‍e‍n‍g
+info:Family Friendly Room - River-View
+info:Stayed in October 2023
+info:Business travelers
+info:3 Reviews
+rating:4.5
+posted:Posted October 11, 2023
+msg:整體不錯，衹是今天早餐廳門口查驗房卡是位男士，感覺吊兒郎當的，問房間號時很沒有禮貌。不像是賓館服務人員。聯繫培訓及更換此人。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted April 18, 2023
+msg:設施：完善
+衞生：乾淨
+環境：安靜
+服務：到位
+----------------------------------------
+name:1‍－‍2‍3‍3‍5‍6
+info:River-view Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:75 Reviews
+rating:4
+posted:Posted January 14, 2024
+msg:前台服務員和你客房的服務員都是一樣挺好的：特別客房的服務員肖雪特別是細心周到、給出好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in February 2024
+info:Business travelers
+info:30 Reviews
+rating:4.2
+posted:Posted March 26, 2024
+msg:服務很一般，要幾張紙等了一個多小時，催了幾次，比較位置比較偏，不好打車
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted September 17, 2023
+msg:環境不錯，衞生清潔清香，尤其12樓的謝維霞姐姐服務熱情周到，特別滿意的一次住宿，下次還會再預訂貴酒店，服務真的太好了，值得點贊哦～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in October 2023
+info:Other
+info:5 Reviews
+rating:4.7
+posted:Posted January 7, 2024
+msg:為了杭州考試訂在這裏，到了才發現原來已經是嘉興了。近倒是挺近的。其他還行，窗台很大正對着河，晚上或清晨的江景不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2023
+info:Business travelers
+info:10 Reviews
+rating:4.7
+posted:Posted April 16, 2023
+msg:非常好的酒店 下次還會來住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in March 2023
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted March 24, 2023
+msg:非常好服務棒馮玉服務好唐林愛小姑娘也特別仔細
+----------------------------------------
+name:B‍o‍t‍a‍o
+info:Business River-view Twin Room
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted April 16, 2023
+msg:景色一流，服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2024
+info:Business travelers
+info:5 Reviews
+rating:2
+posted:Posted April 17, 2024
+msg:一大早給你打電話挪車，樓下裝修，樓上打洞。真的睡奔潰了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room - River-View
+info:Stayed in October 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 20, 2023
+msg:房間特別寬敞，不愧是大套房，入住感覺不錯，舒適整潔。浴缸特別大，靠窗，遠眺錢塘江，總之很不錯，下次還會再入住。
+----------------------------------------
+name:H‍a‍h‍a‍m‍u‍z‍i‍m‍e‍i‍z‍i
+info:Business Room - Garden-View (Double bed)
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 4, 2023
+msg:酒店位於錢塘江邊，入住江景房，很舒適，很安靜，很乾凈，特別感謝前台小樑以及小哥哥的熱情接待和細緻服務，很贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in June 2023
+info:Other
+info:14 Reviews
+rating:3
+posted:Posted June 29, 2023
+msg:差評！房間裝修味道非常重、搞得我吸一晚的甲醛！原本開心去住早上起來嗓子疼醒啞聲不舒服！ 酒店偏遠估計住的不多房間不常通風裝修甲醛味道超重！洗漱物件也超低檔次
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in March 2023
+info:4 Reviews
+info:Other
+rating:5
+posted:Posted March 31, 2023
+msg:前台小唐服務貼心
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in August 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted August 6, 2023
+msg:我在這家酒店的入住體驗非常棒，小李  服務非常貼心！客房乾淨整潔，設施齊全，很有家的感覺，每一位員工都非常樂於助人深受我的讚賞！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room - River-View
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:3
+posted:Posted August 14, 2023
+msg:房間走廊有些裝修的味道；酒店服務員對業務不是很熟悉，用餐時服務員的態度也比較一般，建議加強管理、服務、食品烹飪等方面培訓。
+----------------------------------------
+name:X‍i‍a‍n‍g‍c‍a‍i‍c‍a‍i‍c‍a‍i‍z‍i
+info:Executive Room - River-View (Double bed)
+info:Stayed in November 2023
+info:Business travelers
+info:2 Reviews
+rating:2.5
+posted:Posted November 17, 2023
+msg:一般一般非常一般 根本不值這個價錢。服務不好 什麼都不好。要不是上課 這輩子都不會來這
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in September 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:酒店設施還不錯，乾淨衞生，沒有小孩拖鞋，早餐還算豐富，住的挺舒服的，離鹽倉很近，看回頭潮可以訂這裏。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in May 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:房間服務都挺好的，去奧特萊斯開車過去很方便！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2023
+info:Family
+info:544 Reviews
+rating:5
+posted:Posted August 21, 2023
+msg:訂的遠景大床房，進去被江景美到了，省了買江景房的錢了，晚上有送餐水果，早上吃了牛肉麪還可以，為前台小李比贊，服務很好
+----------------------------------------
+name:z‍h‍g‍g‍y
+info:Business River-view Twin Room
+info:Stayed in April 2023
+info:Family
+info:13 Reviews
+rating:2.7
+posted:Posted April 17, 2023
+msg:房間硬件設施還可以，服務是真心談不上，特別是總枱，兩個人入住的房間，進電梯要求刷卡，在沒有電卡的情況下衹給一張房卡。停車不能輸車牌，超過時間就須前台刷二維碼。衹此一次，下次不會再去了。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in September 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted September 4, 2023
+msg:可以在外面的陽台看江景，很漂亮，如果時間合適可以直接看潮，下次還會去住。整體很舒適，環境也很好，很容易找到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room - River-View (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 16, 2023
+msg:服務熱情，地理位置好有停車場五小時免費的,交通方便,房間舒適設施完善,樂於提供各幫助,大廳小吳服務態度挺好的很有耐心的幫我弄打印了學習資料 一流品牌 一流環境 一流服務 必須一流點評
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in December 2022
+info:Business travelers
+info:10 Reviews
+rating:3
+posted:Posted December 18, 2022
+msg:房間還行，中餐就無語了，見過娃娃菜要用🍴切的嗎？預計步入正軌還有待時日。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in September 2023
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted September 3, 2023
+msg:房間乾淨整潔，因為帶着倆孩子分開住不方便主動為我們升級了套房，非常感謝！下次到杭州還會入住，棒棒噠
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room - River-View
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 1, 2023
+msg:五一出遊，住的是個江江景房樓層挺高的適合觀景，有停車場停車方便免費時長夠久，前台接待小吳，小周，小李，小馮一起忙着接待安排入住全程服務非常貼心，給他們點贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 21, 2024
+msg:乾乾淨淨，晚上還有水果，不錯不錯，下次還住這
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in September 2023
+info:Friends
+info:3 Reviews
+rating:4.5
+posted:Posted October 9, 2023
+msg:前台服務真心不怎麼樣  四個服務枱 衹有一個能辦理網上預約的入住手續 其餘三個空着
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 1, 2024
+msg:前台祖兒服務很熱情，酒店環境優美，早餐也很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in October 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted October 8, 2023
+msg:酒店環境非常好，早餐十分豐富，服務員張桂花態度非常好，領班張蘭花態度好非常滿意
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Family Friendly Room - River-View
+info:Stayed in August 2022
+info:Family
+info:3 Reviews
+rating:4.7
+posted:Posted August 29, 2022
+msg:雖然沒有預留親子房挺遺憾，但馬上安排了兩間面對面的大床房還算解決比較及時。房間很大，衞生間也很滿意，陽台江景很美，以後應該還會再來。如果早點品種再豐富些就更好了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in April 2024
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted April 13, 2024
+msg:房間隔音效果不是很好，停車方便早餐不錯
+----------------------------------------
+name:R‍e‍n‍x‍i‍n‍k‍e‍w‍e‍i‍g‍u‍n
+info:River-view Business Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 17, 2022
+msg:房間很滿意 陽台看江景很舒服 小周 小章客房服務很好 還送了水果
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 4, 2024
+msg:13樓樓層領班謝女士服務熱情細緻！
+----------------------------------------
+name:W‍a‍n‍g‍q‍i‍n‍x‍i‍a‍n‍g
+info:Executive Room - River-View (Double bed)
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 25, 2024
+msg:酒店很新，房間很大，陽台望出去就是錢塘江
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Family Friendly Room - River-View
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 19, 2023
+msg:很好的酒店，體驗極佳
+
+設施：設施齊全
+
+衞生：十分乾淨，就是為什麼浴室牆壁有一片黃？
+
+環境：隔音效果好，晚上睡眠舒適
+
+服務：服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in March 2024
+info:Business travelers
+info:28 Reviews
+rating:5
+posted:Posted April 21, 2024
+msg:房間很大，但地址有點偏，外出吃飯不太方便
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in August 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 29, 2022
+msg:很少點評，但這次還是忍不住説幾句：環境優美，物超所值，客房的房間，衞生間都很不錯，最中意的是陽台，可以眺望錢塘江美景
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in August 2022
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted August 15, 2022
+msg:酒店很好找 自駕非常方便 停車免費 陽台就能看到錢塘江 乾淨無異味 超幸運 經理給我們升級到了行政樓層 離杭州地鐵也很近 太超值啦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room - River-View (2 beds)
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 16, 2023
+msg:我家小朋友的熊仔忘記了，晚上睡覺一直抱着睡，服務員程仔萍幫我找到了，還幫我郵寄到家，我很感動，在這裏謝謝她哦，人美心更美的小姐姐！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 11, 2023
+msg:房間很乾凈 很新 環境在這周邊真的不錯了 服務也很好 而且前台小姐姐們都很熱情❤️
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room - River-View
+info:Stayed in September 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted September 9, 2023
+msg:曉月服務很熱心 酒店環境超級棒，有被這裏的江景驚艷到 觀潮季住這邊非常合適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in August 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 28, 2022
+msg:前台很熱情，主動贈送一份早餐，晚上還有一份水果。酒店設施很新，觀看江景位置佳，餐廳大廚手藝也很不錯。
+----------------------------------------
+name:X‍i‍h‍o‍n‍g‍w‍e‍i‍j‍i‍n‍d‍e‍n‍i‍u‍m‍o‍w‍a‍n‍g
+info:Business River-view Twin Room
+info:Stayed in September 2022
+info:Friends
+info:39 Reviews
+rating:5
+posted:Posted October 31, 2022
+msg:鄰近杭州下沙，自駕的話非常方便。酒店比較新，員工服務熱情，江景房看錢塘江潮水很壯觀。
+----------------------------------------
+name:Z‍h‍a‍x‍i‍a‍o‍d‍a‍o‍t‍o‍n‍g‍x‍u‍e
+info:Business River-view Twin Room
+info:Stayed in October 2023
+info:Family
+info:4 Reviews
+rating:4.5
+posted:Posted October 3, 2023
+msg:房間很大，可以直麪錢塘江
+服務很好，感謝肖雪美女給阿姨送的護髮素
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 26, 2024
+msg:感謝樓層領班謝維霞的服務！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2023
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted September 11, 2023
+msg:環境很不錯，早餐要是可以再豐富一點就好了。這次還幫我升級了房型，很棒
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in May 2023
+info:Other
+info:2 Reviews
+rating:4
+posted:Posted May 14, 2023
+msg:網上很多評價不好，但是我住下來，感覺還行。能看到錢塘江，陽台很舒服，通氣，寬敞。需要按金 確實不是很很爽。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2022
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted September 10, 2022
+msg:酒店位置優越，服務一流，免費升級了江景房，大陽台，視野無敵。出行首選。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 13, 2024
+msg:時間真巧第二個大年初二又入住貴酒店。
+----------------------------------------
+name:M‍i‍n‍ ‍H‍a‍o
+info:Business Room - Garden-View (Double bed)
+info:Stayed in March 2024
+info:Other
+info:10 Reviews
+rating:5
+posted:Posted March 12, 2024
+msg:酒店比較新 很好 期待健身房修好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in March 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted March 19, 2023
+msg:和朋友一起開了2個房間，前台小肖，小周，小吳，小馮，小程服務很超好，房間自帶陽台，空氣清新，對外就是錢塘江，很安靜，點贊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 21, 2023
+msg:非常滿意的一次入住，前台小吳非常熱情，還給免費升級了房型，下次來這邊還會選擇這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in November 2023
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted November 21, 2023
+msg:酒店很新，停車方便，床品上乘，適合商務出差需求
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in August 2022
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted September 9, 2022
+msg:帶母親入住，酒店各項設施均還不錯，服務員少了些
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in February 2024
+info:Family
+info:53 Reviews
+rating:5
+posted:Posted February 25, 2024
+msg:春節期間服務人員較少，但總體有序
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in December 2023
+info:Solo travelers
+info:17 Reviews
+rating:5
+posted:Posted December 30, 2023
+msg:挺好的，就是沒有健身房和游泳池匪夷所思
+----------------------------------------
+name:A‍l‍u‍n‍z‍a‍n‍u‍o‍f‍e‍n‍g‍m‍e‍n‍g‍l‍o‍n‍g
+info:River-view Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted March 31, 2024
+msg:價格實惠房間也乾淨 重要的是有陽台！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in March 2024
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted March 10, 2024
+msg:乾淨明亮，景色極好！下次再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:4.5
+posted:Posted April 17, 2024
+msg:衞生好，環境好，服務仔細
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in October 2023
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted October 18, 2023
+msg:江景房，風光優美；房間設施、床上用品乾淨、新鮮。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in December 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted March 4, 2024
+msg:房間非常乾淨，小姐姐的服務態度非常好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in December 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 20, 2023
+msg:房間乾淨，整潔！配置到位，服務非常棒
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted January 5, 2024
+msg:設施：齊全
+衞生：乾淨
+服務：周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:4.8
+posted:Posted May 14, 2024
+msg:房間整潔乾淨，早餐豐富
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2022
+info:Couples
+info:37 Reviews
+rating:5
+posted:Posted September 15, 2022
+msg:酒店環境很好推開窗户就能看到錢塘江，衞生間乾濕隔離非常好，浴缸泡澡推開門還看電視，真好，傍晚時分還送衹小水果。
+    前台服務好，。大門口的服務員非常仔細給你指引如何出去逛街，開車幾分鐘就到了下沙奧特萊斯，正好是晚上，燈光下旳奧特萊斯特漂亮，裏面美食品牌很多，又嘗美食又購物，這是旅遊必須的啊，好，非常好的一次住店，會推薦給朋友們，我還會下次再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in January 2024
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted March 18, 2024
+msg:房間設施及床衞生乾淨，服務熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:不錯，環境很好，下次還考慮訂
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in September 2022
+info:Friends
+info:8 Reviews
+rating:3.2
+posted:Posted September 10, 2022
+msg:辦理入住，前台小夥態度温和的反問式服務，很“舒心”，估計是酒店太子爺體驗生活來了。酒店新裝修，稍微有點味道，裝修還不錯，乾淨整潔，臨江房視野不錯，就酒店這個位置以及酒店的定位和調性來説，飲用水限量供應也是第一次遇到，很有特色。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in February 2024
+info:Business travelers
+info:6 Reviews
+rating:3.2
+posted:Posted March 2, 2024
+msg:硬件可以，服務跟不上硬件。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2022
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted September 4, 2022
+msg:非常滿意，入住環境好、上檔次，而且像家一樣温馨，對面就是錢塘江，能看到高爾夫球場，心情好極了。對9月1日晚9點多辦理入住的前台小姐姐尤其滿意，給房間升了級，多贈一份早餐，以後如果去這個區域會必選這個酒店入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in May 2024
+info:Solo travelers
+info:10 Reviews
+rating:5
+posted:Posted May 21, 2024
+msg:滿意 很乾凈 不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:River-view Business Suite
+info:Stayed in August 2022
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted August 19, 2022
+msg:酒店很不錯。地理位置很好，就在錢塘江邊上，景觀非常好。硬件設施不錯，酒店比較新，房間也很大。最值得表揚的是服務態度，非常到位，包括主動提醒漲潮時間，點名表揚前台小謝以及樑美艷，分別幫忙解決了我不同的問題。值得推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 14, 2024
+msg:非常滿意，下次再去
+----------------------------------------
+name:W‍u‍m‍u‍j‍u‍s‍h‍i
+info:River-view Business Double Room
+info:Stayed in February 2024
+info:Family
+info:8 Reviews
+rating:4.7
+posted:Posted May 4, 2024
+msg:設施很滿意，早餐也不錯。
+----------------------------------------
+name:D‍a‍n‍m‍o‍�‍�‍�‍�
+info:Business Room - Garden-View (Double bed)
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 30, 2023
+msg:感謝大堂經理小李，工作認真負責任
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in March 2024
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted April 1, 2024
+msg:小李服務態度好，專業
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in January 2024
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted March 8, 2024
+msg:非常喜歡這個酒店 很不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in October 2023
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted October 11, 2023
+msg:酒店環境不錯小周服務點贊，以後還會過來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in January 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 11, 2023
+msg:很好，很滿意，非常滿意，還給升級了江景房。房間很好，早餐也很豐盛，滿滿的吃了個早中飯，超級滿意，下次還來。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted September 25, 2023
+msg:設施：好
+衞生：好
+環境：好
+服務：好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted June 20, 2023
+msg:設施：齊全
+衞生：乾淨
+環境：一眼就能望到錢塘江
+服務：五星級服務
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:非常好，物超所值！
+----------------------------------------
+name:L‍i‍n‍h‍e‍i‍t‍a‍o
+info:Business Room - Garden-View (Double bed)
+info:Stayed in May 2024
+info:Couples
+info:20 Reviews
+rating:5
+posted:Posted May 8, 2024
+msg:好哈哈哈哈哈哈哈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in April 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted April 17, 2023
+msg:酒店服務熱情仔細，退房時衣物落下很快就發現並第一時間聯繫。謝謝你們！
+----------------------------------------
+name:K‍e‍f‍u‍s‍i‍g‍a‍n‍g‍l‍i‍a‍n‍g‍s‍h‍i‍y‍a‍n
+info:Business Room - Garden-View (Double bed)
+info:Stayed in March 2023
+info:Couples
+info:13 Reviews
+rating:4
+posted:Posted April 5, 2023
+msg:酒店設施、環境還可以，早餐很好，就是退按金太墨跡，前台職業素養有待加強。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted May 26, 2024
+msg:非常好的住宿體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in March 2023
+info:Friends
+info:5 Reviews
+rating:4
+posted:Posted March 27, 2023
+msg:環境還不錯，在杭州和海寧交界的地方。吹風機不好，小細節升級一下就很好了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in November 2022
+info:Business travelers
+info:19 Reviews
+rating:3.5
+posted:Posted November 29, 2022
+msg:沒有洗手液在衞生間，衞生間隔斷是透明的會讓客人誤撞上去；早餐西式的成分較少了些，葷菜不夠，西點不夠。其他OK
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted September 9, 2023
+msg:早餐非常好，景色美，下次來杭州還住這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in October 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted October 10, 2023
+msg:小李 房間環境很好，入住體驗不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in August 2022
+info:Family
+info:17 Reviews
+rating:4.7
+posted:Posted August 26, 2022
+msg:很新的酒店，客房服務也很好，就是早餐有待改進，週末有培訓班，九點半去餐廳，基本散客了，但東西也是散的了，而且基本就是剩的了，明確表示不出餐了，就挑剩的吃吧
+----------------------------------------
+name:D‍D‍ ‍C‍h‍e‍n‍g
+info:River-view Business Suite
+info:Stayed in October 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:房间很滿意，职员贴心協助，很讚！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in August 2023
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted August 31, 2023
+msg:硬件很好，衞生，環境好，前台服務很贊
+----------------------------------------
+name:N‍i‍c‍a‍i‍c‍a‍i‍9‍9‍9‍9‍9
+info:Business River-view Twin Room
+info:Stayed in February 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted April 16, 2024
+msg:很不錯，性價比很高
+----------------------------------------
+name:D‍a‍w‍o‍a‍n‍n‍i
+info:Business Room - Garden-View (Double bed)
+info:Stayed in March 2023
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted June 1, 2023
+msg:設施：很好
+
+衞生：乾淨
+
+環境：能看到錢塘江
+
+服務：早餐很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in March 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted March 31, 2023
+msg:服務熱情，樂於幫助別人,美女們都非常熱情,尤其是馮玉值得獎勵。
+----------------------------------------
+name:L‍L‍M‍H‍Y‍Y
+info:Executive Room - River-View (2 beds)
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 16, 2023
+msg:李 湯服務挺不錯 房間住的很滿意 體驗感很好 下次還來這家
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in August 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted September 1, 2023
+msg:服務挺好 前台很熱心 小月服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in February 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted February 15, 2024
+msg:環境、服務都非常好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in May 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted June 7, 2024
+msg:非常好非常棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:37 Reviews
+rating:5
+posted:Posted December 18, 2023
+msg:江景房，一眼看到錢塘江
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in October 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted December 21, 2023
+msg:房間整潔乾淨/服務員熱情周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in January 2023
+info:Business travelers
+info:6 Reviews
+rating:3.5
+posted:Posted February 2, 2023
+msg:房間裏面衹有兩瓶水，其他備用，收費的水也沒有，半夜口渴不可能再打擾他們
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in October 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted November 4, 2023
+msg:設施比較完善
+
+環境非常好
+----------------------------------------
+name:D‍e‍g‍e‍z‍i
+info:River-view Business Double Room
+info:Stayed in January 2024
+info:Friends
+info:12 Reviews
+rating:5
+posted:Posted January 24, 2024
+msg:房間舒適，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 21, 2023
+msg:風景很好，住宿體驗不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in July 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted July 27, 2023
+msg:房間乾淨整潔，服務熱情周到，停車方便
+----------------------------------------
+name:J‍u‍e‍s‍h‍i‍1‍1‍1
+info:Business River-view Twin Room
+info:Stayed in September 2023
+info:Family
+info:26 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:老鹽倉觀潮入住，性價比很高
+----------------------------------------
+name:J‍u‍x‍i‍a‍o‍l‍i‍a‍n
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2024
+info:Booked for others
+info:29 Reviews
+rating:5
+posted:Posted April 24, 2024
+msg:一如既往的好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in September 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted September 4, 2022
+msg:環境很好，衞生也很好，就是早餐種類不是很多，距離杭州很近，貼着下沙🙏🙏🙏。我們帶了個小孩，還送了一個早餐，感謝🙏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in September 2023
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted September 26, 2023
+msg:環境性價比都巨高真的很推薦
+----------------------------------------
+name:h‍a‍r‍r‍y‍_‍m‍i‍a‍o
+info:Business Room - Garden-View (Double bed)
+info:Stayed in May 2023
+info:Business travelers
+info:16 Reviews
+rating:4.7
+posted:Posted June 9, 2023
+msg:房間很大氣。周圍雖有居民區，但還是有些清冷。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in April 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:乾淨 服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 4, 2023
+msg:非常值得入住、服務衞生都超讚
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 13, 2023
+msg:體驗很棒，員工小李服務很周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in October 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 11, 2023
+msg:房間挺好視野開闊服務好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted August 28, 2023
+msg:環境優美，早餐豐富，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in January 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted January 2, 2023
+msg:非常好衞生服務都非常好，尤其前台章樑小姐姐服務態度很好，滿分，會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Suite
+info:Stayed in October 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:很滿意、空間很大很d舒服
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in July 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 7, 2023
+msg:房間很好，很新，推薦住這家酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2022
+info:Family
+info:1 Review
+rating:4
+posted:Posted September 18, 2022
+msg:酒店位於錢塘江邊，環境挺喜歡，目前僅部分客房投入使用，很遺憾的是配套設施不齊全，尤其是服務態度有待加強
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2022
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted August 13, 2022
+msg:酒店服務很好。早餐不錯。在酒店用的晚餐，味道正宗。不過，觀潮就不要在酒店等了，要去附近7公里左右的鹽倉去觀回頭潮。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 8, 2023
+msg:環境不錯一直在這邊住小馮服務很好，小程也特別棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in June 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted June 26, 2023
+msg:環境不錯，可惜天氣不好沒能出去走走
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in May 2024
+info:Couples
+info:6 Reviews
+rating:3
+posted:Posted May 12, 2024
+msg:空調不給力
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 24, 2023
+msg:非常滿意，服務態度特別好
+----------------------------------------
+name:T‍a‍o‍t‍a‍o‍x‍i‍a‍o‍j‍i‍e
+info:River-view Business Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted December 18, 2022
+msg:還蠻超出預期的，很乾凈整潔，還有陽台，裝修也蠻新的，可以看到錢塘江～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted September 4, 2022
+msg:酒店全智能，服務人員團隊周到，由主管Iris 帶領的人員每天親自為我服務加上機器人幫忙，令個人置身於家中
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room - River-View
+info:Stayed in December 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted December 24, 2022
+msg:疫情海嘯期間還能保持高水準的服務。前台堅持工作的周靚小姐姐太棒了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 23, 2022
+msg:前台周靚、翟肖旭服務非常好👍，地下停車也非常，如能增加充電樁更好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in October 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:酒店比較新，服務也很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in October 2023
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:酒店樓層服務員態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in October 2023
+info:Business travelers
+info:32 Reviews
+rating:5
+posted:Posted January 13, 2024
+msg:非常不錯，性價比高。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in October 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 30, 2023
+msg:環境不錯，服務也很好
+----------------------------------------
+name:L‍i‍l‍i‍1‍1
+info:Family Friendly Room - River-View
+info:Stayed in July 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted July 14, 2023
+msg:房間很大，分區合理，體驗感好！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:River-view Business Suite
+info:Stayed in December 2023
+info:Booked for others
+info:4 Reviews
+rating:5
+posted:Posted March 14, 2024
+msg:服務，環境都不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in September 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted September 4, 2023
+msg:十分滿意！下次還會入住！
+----------------------------------------
+name:z‍e‍m‍a
+info:Business River-view Twin Room
+info:Stayed in August 2022
+info:Other
+info:7 Reviews
+rating:5
+posted:Posted August 28, 2022
+msg:很不錯，周圍環境不錯，直接能看到錢塘江，服務員服務態度也很好。提個小建議，早餐能多些葷菜就好了😁
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room - River-View
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 25, 2023
+msg:設施：非常好
+衞生：非常好
+環境：非常好
+服務：非常好
+----------------------------------------
+name:J‍i‍a‍d‍a‍x‍u
+info:Business Room - Garden-View (Double bed)
+info:Stayed in February 2024
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted February 27, 2024
+msg:房間安靜舒適
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 27, 2024
+msg:服務態度好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in September 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted September 9, 2023
+msg:酒店環境衞生服務挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted January 5, 2024
+msg:前台小李很不錯
+----------------------------------------
+name:Y‍u‍n‍y‍u‍n
+info:Business River-view Twin Room
+info:Stayed in September 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:環境：超級舒適超級棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in September 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:設施齊全衞生好環境好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in March 2023
+info:Booked for others
+info:4 Reviews
+rating:5
+posted:Posted April 6, 2023
+msg:環境好，服務好，住宿條件好，早餐品種豐富。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2023
+info:Family
+info:19 Reviews
+rating:5
+posted:Posted November 8, 2023
+msg:性價比很高，會繼續入住
+----------------------------------------
+name:J‍i‍a‍n‍w‍u‍h‍e‍n
+info:Family Friendly Room - River-View
+info:Stayed in December 2023
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted February 13, 2024
+msg:房間很好，很大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 26, 2022
+msg:前台何文雯服務很好 還免費幫我們升級了房間 酒店視野寬闊能看到全江 還可以看見高爾夫球場
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in December 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted December 19, 2022
+msg:環境和服務都很好，謝謝周靚、張美霞和翟肖旭這3位工作人員
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted June 2, 2024
+msg:總體還不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Room - River-View (Double bed)
+info:Stayed in December 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 23, 2022
+msg:這次住了四天服務挺好的，接待的是小周小翟，熱情，負責。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in September 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted September 10, 2023
+msg:江景不錯，早餐也豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in October 2023
+info:Couples
+info:11 Reviews
+rating:5
+posted:Posted November 2, 2023
+msg:很合適住，特別喜歡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in May 2023
+info:Friends
+info:20 Reviews
+rating:5
+posted:Posted July 8, 2023
+msg:隔壁球場打球，出行方便有充電樁
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2023
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted October 7, 2023
+msg:房間不錯，早餐也很好
+----------------------------------------
+name:y‍y‍7‍8‍3‍9
+info:River-view Business Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 16, 2023
+msg:服務：👌
+環境：好
+衞生：好
+設施：👌
+----------------------------------------
+name:D‍a‍n‍g‍d‍a‍n‍g‍d‍a‍n‍g‍d‍a‍n‍g‍d‍a‍n‍g
+info:Business Room - Garden-View (Double bed)
+info:Stayed in October 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted December 24, 2023
+msg:很滿意，下次還來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in October 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted November 16, 2023
+msg:好👌服務熱情周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in July 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted July 9, 2023
+msg:前台很好 小馬服務很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:3
+posted:Posted January 18, 2023
+msg:樓層報警器莫明響了一夜，沒睡好，浴缸水龍頭漏水
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in July 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 29, 2022
+msg:連住幾天酒店各方面都挺滿意，尤其窗外的江景一絕，酒店服務很好前台小周很熱情，有機會再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in November 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 22, 2022
+msg:房間內多通風，味道還是有點重，除此之外其他的都比較滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in April 2023
+info:Family
+info:35 Reviews
+rating:4.7
+posted:Posted May 2, 2023
+msg:房間很不錯，蠻乾淨。地段也可以
+----------------------------------------
+name:l‍o‍u‍i‍s‍h‍0‍5‍2‍5
+info:River-view Business Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted November 26, 2022
+msg:環境不錯，舒適，就是房間內礦泉水供給數量有限制，遺憾~
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:2 Reviews
+rating:4
+posted:Posted May 27, 2023
+msg:酒店環境，住宿條件還是比較令人滿足
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 29, 2022
+msg:酒店環境真心可以，高端且安靜，還有前台小姐姐樑春艷女士服務態度非常好，點贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in November 2023
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted February 1, 2024
+msg:很高的，超級棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted October 6, 2023
+msg:早餐不錯，價格合適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in September 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:很好看，風景不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in September 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted October 1, 2023
+msg:位置很好，很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in November 2023
+info:Couples
+info:9 Reviews
+rating:5
+posted:Posted November 5, 2023
+msg:很不錯整體感覺
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted April 16, 2023
+msg:酒店很新，也很衞生，李服務周到
+----------------------------------------
+name:1‍8‍z‍h‍u‍x‍i‍n‍x‍i‍n
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted April 16, 2023
+msg:小李接待的 很有耐心 酒店不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room - River-View
+info:Stayed in May 2023
+info:Family
+info:20 Reviews
+rating:5
+posted:Posted May 23, 2023
+msg:環境優美，可以看到錢塘江大潮
+----------------------------------------
+name:K‍k‍j‍i‍n‍t‍i‍a‍n‍l‍v‍y‍o‍u‍l‍e‍m‍a‍？
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 27, 2023
+msg:環境不錯，衞生很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room - River-View
+info:Stayed in April 2023
+info:Family
+info:4 Reviews
+rating:3.2
+posted:Posted May 2, 2023
+msg:服務很一般，前台水平有待提高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in June 2023
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted June 13, 2023
+msg:非常好，躺在床上看錢塘江
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted October 1, 2023
+msg:性價比很高，推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in November 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 30, 2023
+msg:滿意，不錯👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in November 2022
+info:Business travelers
+info:7 Reviews
+rating:4.7
+posted:Posted February 5, 2023
+msg:裝修新，位置方便，早餐豐盛，基礎設施相對欠缺！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in September 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 4, 2023
+msg:房間安靜整潔舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in January 2024
+info:Other
+info:10 Reviews
+rating:5
+posted:Posted January 4, 2024
+msg:房間很乾凈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in March 2022
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted March 13, 2022
+msg:前台小姐姐，幫我們升級了江景房。房間裏裝修非常舒適，到位，床很柔軟。陽台是最大的亮點，站在陽台上可以眺望錢塘江，景緻不錯！
+----------------------------------------
+name:Q‍u‍e‍e‍n‍m‍e‍i
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2023
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted April 2, 2023
+msg:新裝修的 特別好。 下次再住
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:3.5
+posted:Posted July 4, 2022
+msg:酒店比較新，剛進房間有股裝修的味道，被子也有股味道。其他都很好，早餐也挺豐盛
+----------------------------------------
+name:e‍l‍l‍e‍n‍c‍h‍e‍n‍w‍e‍i
+info:River-view Business Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:121 Reviews
+rating:5
+posted:Posted August 10, 2022
+msg:酒店硬件無可挑剔，蠻新的酒店，很棒。可以看到錢塘江。下次來還住這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:11 Reviews
+rating:4.5
+posted:Posted June 10, 2023
+msg:裝修好。地理位置有點偏。
+----------------------------------------
+name:N‍a‍i‍s‍h‍u‍i‍®‍z‍h‍a‍n‍g‍y‍a‍n‍g‍y‍a‍n‍g
+info:River-view Business Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:62 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:環境和設施都挺好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in December 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted December 10, 2023
+msg:環境不錯，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in December 2022
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted December 7, 2022
+msg:房間不錯，前台小湯，小章，小周服務周到。
+----------------------------------------
+name:B‍u‍w‍a‍n‍g‍c‍h‍u‍x‍i‍n‍～‍p‍e‍n‍q‍u‍a‍n‍s‍h‍u‍i‍x‍i‍u
+info:Business Room - Garden-View (Double bed)
+info:Stayed in July 2023
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted July 29, 2023
+msg:服務好，環境優美。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted September 7, 2023
+msg:升級成江景，贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room - River-View (Double bed)
+info:Stayed in March 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted March 30, 2023
+msg:酒店早餐非常好 無敵江景房
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 1, 2023
+msg:非常滿意的酒店
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in December 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 14, 2022
+msg:非常好，小樑、小章、小周的服務都挺好的
+----------------------------------------
+name:L‍i‍z‍i
+info:River-view Business Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:35 Reviews
+rating:5
+posted:Posted August 15, 2023
+msg:不錯，江景房，有陽台
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2022
+info:Business travelers
+info:69 Reviews
+rating:5
+posted:Posted August 18, 2022
+msg:太適合商務出差了！房間寬敞，陽台開闊；尤其是床，睡的真香！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in December 2022
+info:Solo travelers
+info:1 Review
+rating:4
+posted:Posted December 19, 2022
+msg:整體不錯。周張翟三位服務人員很熱情。
+----------------------------------------
+name:Q‍u‍n‍x‍i‍n‍g‍s‍h‍a‍n‍y‍a‍o‍8‍8‍8
+info:Business River-view Twin Room
+info:Stayed in August 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted September 1, 2022
+msg:新酒店不錯，房間很舒服可以看到錢塘江，大副周靚服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in September 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted October 2, 2023
+msg:服務非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in September 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted September 28, 2023
+msg:衞生環境還行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in March 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted March 29, 2023
+msg:很不錯 祝我順利通過法考
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:入住體驗非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 7, 2023
+msg:都很不錯哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in September 2023
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted September 8, 2023
+msg:服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in February 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted March 15, 2023
+msg:酒店毗鄰錢塘江，環境優美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:6 Reviews
+rating:4.5
+posted:Posted July 5, 2023
+msg:房間比較新，地段還行
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2023
+info:Business travelers
+info:140 Reviews
+rating:5
+posted:Posted August 27, 2023
+msg:酒店環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in January 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 25, 2022
+msg:酒店新裝修，五星級標準！總枱服務非常好，特別是陳經理免費幫我們升級了親子房！房間一線江景，設施新，衞生好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in August 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted August 23, 2023
+msg:還是很不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room - Garden-View (Double bed)
+info:Stayed in September 2023
+info:Friends
+info:12 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:設施設備好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in September 2022
+info:Family
+info:27 Reviews
+rating:5
+posted:Posted September 2, 2022
+msg:酒店安靜 衞生 環境優美面對錢塘江 視野開闊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 26, 2023
+msg:酒店服務響應非常快捷
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in May 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted May 29, 2023
+msg:不錯，周邊很安靜
+----------------------------------------
+name:S‍a‍i‍s‍a‍i‍w‍e‍n
+info:River-view Business Suite
+info:Stayed in May 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted May 15, 2023
+msg:公司用房 還可以
+----------------------------------------
+name:Y‍U‍A‍N‍J‍I‍E‍1‍9‍7‍5
+info:Business River-view Twin Room
+info:Stayed in May 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted May 14, 2023
+msg:很乾凈，風景不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 18, 2022
+msg:各方面入住體驗都不錯，前台小謝服務非常周到。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2023
+info:Family
+info:33 Reviews
+rating:5
+posted:Posted April 25, 2023
+msg:本次住宿選擇很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted August 25, 2023
+msg:都挺滿意的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted April 18, 2023
+msg:環境很好設施齊全
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:2.7
+posted:Posted April 15, 2023
+msg:酒店隔音效果太差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in October 2022
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted January 2, 2023
+msg:不錯 很乾淨新穎的設施 服務也好
+----------------------------------------
+name:W‍u‍f‍a‍n‍z‍a‍i‍z‍h‍e‍n‍g‍q‍i‍a‍n
+info:Business Room - Garden-View (Double bed)
+info:Stayed in November 2022
+info:Solo travelers
+info:42 Reviews
+rating:5
+posted:Posted November 28, 2022
+msg:服務特別好，早餐也很豐富。
+----------------------------------------
+name:Q‍u‍n‍q‍u‍n‍z‍i
+info:River-view Business Double Room
+info:Stayed in April 2023
+info:Family
+info:24 Reviews
+rating:4.2
+posted:Posted June 30, 2023
+msg:很好，下次還來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 3, 2022
+msg:環境：9分
+設施：8分
+設施：8分
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Business Queen Room
+info:Stayed in June 2022
+info:Friends
+info:1 Review
+rating:3.5
+posted:Posted June 5, 2022
+msg:什麼都不説，去了兩次，前台的服務真的是一言難盡
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in May 2023
+info:Solo travelers
+info:3 Reviews
+rating:1
+posted:Posted May 24, 2023
+msg:服務態度堪憂
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in July 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted July 30, 2022
+msg:房間很滿意，服務員很貼心的送了小禮物
+----------------------------------------
+name:N‍i‍j‍i‍e‍g‍e‍g‍e‍y‍a
+info:Business Room - Garden-View (Double bed)
+info:Stayed in July 2022
+info:Booked for others
+info:1 Review
+rating:1
+posted:Posted July 28, 2022
+msg:被子潮味，空調鼓風機一樣！強烈不建議
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in May 2023
+info:Business travelers
+info:12 Reviews
+rating:4
+posted:Posted July 16, 2023
+msg:還行的。。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in March 2023
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted March 31, 2023
+msg:小馮服務特別好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in August 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted August 24, 2022
+msg:服務員小謝的服務態度非常好，點贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in December 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 23, 2022
+msg:周靚，翟肖旭贊贊贊！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in March 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted March 21, 2023
+msg:乾淨高端上檔次
+----------------------------------------
+name:w‍h‍z‍h‍u‍o
+info:River-view Business Double Room
+info:Stayed in February 2023
+info:Family
+info:1 Review
+rating:3.2
+posted:Posted February 11, 2023
+msg:房間沒配洗手液等
+----------------------------------------
+name:T‍i‍a‍n‍d‍i‍y‍i‍s‍h‍a‍o‍u
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2023
+info:Business travelers
+info:30 Reviews
+rating:5
+posted:Posted July 16, 2023
+msg:還行還行還行
+----------------------------------------
+name:I‍v‍y‍p‍e‍r‍f‍e‍c‍t
+info:Business River-view Twin Room
+info:Stayed in September 2022
+info:Friends
+info:26 Reviews
+rating:5
+posted:Posted September 22, 2022
+msg:硬件設施齊全，軟件服務跟不上
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in March 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted March 6, 2023
+msg:環境不錯 推薦
+----------------------------------------
+name:C‍h‍e‍n‍h‍a‍m
+info:Business River-view Twin Room
+info:Stayed in April 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted April 17, 2023
+msg:滿意滿意滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in June 2023
+info:Couples
+info:29 Reviews
+rating:5
+posted:Posted June 29, 2023
+msg:觀景挺好的
+----------------------------------------
+name:X‍i‍a‍o‍a‍o‍j‍i‍a‍n‍g‍h‍u
+info:Business River-view Twin Room
+info:Stayed in August 2022
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted August 31, 2022
+msg:江景漂亮，交通方便、環境衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in February 2023
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted April 30, 2023
+msg:朋友表示很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in September 2022
+info:Family
+info:2 Reviews
+rating:4.7
+posted:Posted September 14, 2022
+msg:還行，可以在房間裏看錢江潮
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 22, 2022
+msg:感謝前台小姐姐給我升級了房子
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 29, 2022
+msg:酒店不錯哦，離大學比較近！
+----------------------------------------
+name:c‍a‍n‍c‍e‍r‍_‍l‍i‍n
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted August 26, 2022
+msg:服務態度很好，環境乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room - River-View
+info:Stayed in March 2023
+info:Business travelers
+info:120 Reviews
+rating:4.2
+posted:Posted March 20, 2023
+msg:整體感覺不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in November 2022
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted December 2, 2022
+msg:不錯，夏天估計更好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Business Twin Room
+info:Stayed in June 2022
+info:Family
+info:25 Reviews
+rating:5
+posted:Posted June 14, 2022
+msg:酒店設施新 服務人員專業 挺好的
+----------------------------------------
+name:H‍e‍n‍g‍x‍i
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2022
+info:Business travelers
+info:60 Reviews
+rating:5
+posted:Posted August 30, 2022
+msg:前台很熱情！房間有升級！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room - River-View (2 beds)
+info:Stayed in March 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted March 29, 2023
+msg:好好好好好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 24, 2022
+msg:乾淨衞生，非常不錯，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Deluxe Room - River-View (Double bed)
+info:Stayed in December 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted December 27, 2022
+msg:酒店非常不錯。
+----------------------------------------
+name:N‍i‍c‍o‍l‍e‍8‍6‍8‍8
+info:Business Room - Garden-View (Double bed)
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 29, 2023
+msg:離家近 方便
+----------------------------------------
+name:K‍a‍g‍o‍j‍i‍a‍y‍u
+info:Business Room - Garden-View (Double bed)
+info:Stayed in December 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted January 8, 2023
+msg:服務非常不錯！
+----------------------------------------
+name:D‍a‍l‍i‍a‍n‍p‍e‍n‍g‍y‍u‍y‍a‍n‍f‍e‍n‍l‍o‍n‍g
+info:Business Room - Garden-View (Double bed)
+info:Stayed in December 2022
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted December 10, 2022
+msg:非常好看的景色
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Business Queen Room
+info:Stayed in June 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted June 3, 2022
+msg:房間非常不錯 小章服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Deluxe Room - River-View (Double bed)
+info:Stayed in September 2022
+info:Other
+info:23 Reviews
+rating:4
+posted:Posted September 30, 2022
+msg:環境、服務都很好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in December 2022
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted December 25, 2022
+msg:非常好非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in July 2022
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted July 23, 2022
+msg:服務熱情，環境非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in January 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 29, 2022
+msg:服務好，環境好，設施設備好，還會再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 7, 2022
+msg:環境很好，推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in January 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 22, 2022
+msg:酒店很新，早餐很好吃，服務特別好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted September 8, 2022
+msg:看潮必選酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in July 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 29, 2022
+msg:環境好，服務熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room - River-View
+info:Stayed in August 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted September 1, 2022
+msg:超棒棒滴！！！
+----------------------------------------
+name:T‍i‍a‍n‍c‍a‍i‍n‍i‍u‍n‍i‍u
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 5, 2022
+msg:江景房不錯哦
+----------------------------------------
+name:Z‍h‍e‍n‍g‍f‍u‍q‍u‍a‍n
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted August 29, 2022
+msg:確實覺得不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:River-view Business Double Room
+info:Stayed in October 2022
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted January 5, 2023
+msg:很新很舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in July 2022
+info:Booked for others
+info:3 Reviews
+rating:5
+posted:Posted September 7, 2022
+msg:很不錯的選擇
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 3, 2022
+msg:很好不錯哦
+----------------------------------------
+name:B‍e‍i‍g‍e‍b‍a‍i‍l‍a‍f‍e‍n‍s‍i‍b‍a‍o‍c‍a‍o‍m‍a‍o
+info:Business Room - Garden-View (Double bed)
+info:Stayed in August 2022
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted August 13, 2022
+msg:很新很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in July 2022
+info:Friends
+info:2 Reviews
+rating:4
+posted:Posted August 30, 2022
+msg:酒店還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in June 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted June 23, 2022
+msg:非常不戳哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business River-view Twin Room
+info:Stayed in February 2022
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted February 22, 2022
+msg:環境 服務好
+----------------------------------------
+name:s‍o‍l‍e
+info:River-view Business Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 11, 2022
+msg:OKOKOKOK
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room - Garden-View (Double bed)
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:2
+posted:Posted April 16, 2023
+msg:酒店人員素質非常差，耳環落在房間枱燈底座上面，馬上電話過去詢問都説找不到，被酒店工作人員拿了，入住另外收按金，按金不接受現金，説收現金按金退房要1小時等待，燒水壺蓋上滿是灰塵，酒店服務還很落後，再也不會來，攜程這樣的酒店也不要推薦了。
+----------------------------------------
+name:Y‍a‍z‍i‍0‍0‍1
+info:Business Room - Garden-View (Double bed)
+info:Stayed in June 2023
+info:Business travelers
+info:6 Reviews
+rating:4.5
+posted:Posted July 3, 2023
+msg:主觀管李麗李接待的非常專業，這邊服務人員都很有親和力，房間很大挺乾淨的，經常來這裏住 非常滿意，推薦大家來入住江景房 觀景甚好
+----------------------------------------
+name:Y‍a‍z‍i‍0‍0‍1
+info:Business River-view Twin Room
+info:Stayed in June 2023
+info:Business travelers
+info:6 Reviews
+rating:4.5
+posted:Posted July 3, 2023
+msg:環境不錯  服務周到到，主觀管李李服務態度非常好，房間帶浴缸的，泡泡澡很舒服
+----------------------------------------

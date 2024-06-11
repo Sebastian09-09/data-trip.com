@@ -1,0 +1,1031 @@
+name:P‍e‍g‍g‍y‍T‍Y‍L
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:163 Reviews
+rating:5
+posted:Posted March 25, 2024
+msg:Reasonable price. The bedroom was spacious and the bed especially comfortable. The bathroom and shower are luxurious. The buffet breakfast has something for everyone from everywhere. When I return to Yanzhou I will coming back to stay here again.
+----------------------------------------
+name:A‍M‍I‍T‍ ‍K‍U‍M‍A‍R
+info:Superior Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 2, 2023
+msg:Good hospitality…. Cleanliness superb…rooms services are excellent
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premium Suite
+info:Stayed in April 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:The room is very clean, the room service staff is very nice, the breakfast staff should improve their service awareness
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in May 2024
+info:Family
+info:37 Reviews
+rating:5
+posted:Posted May 6, 2024
+msg:The breakfast tastes OK, the room is comfortable, and there are shopping, dining and barbecue nearby. It is about 20 kilometers away from the Confucius Temple. I will stay here again next time.
+----------------------------------------
+name:L‍a‍p‍u‍d‍e‍z‍i‍d‍o‍u‍r‍o‍n‍g‍d‍i‍n‍g
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 30, 2024
+msg:Very good experience. The trip was delayed mainly due to the schedule, and the front desk was very helpful in arranging it. It was great
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 13, 2023
+msg:Facilities: Complete, service is very thoughtful.
+The breakfast is rich in variety and delicious.
+Many foreign friends stay here, and the front desk can speak English. The invoice is also electronic, which is super convenient.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 7, 2024
+msg:Although the city is not big, the service is very friendly.
+It would be nice to have a food delivery robot.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:3 Reviews
+rating:4.7
+posted:Posted April 2, 2024
+msg:Old five-star hotel, classic and reliable, good in all aspects
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted November 22, 2023
+msg:Facilities: Good
+Sanitation: Good
+Environment: Good
+Service: Good, reasonable price, good service attitude at the front desk, smooth English communication.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:14 Reviews
+rating:3
+posted:Posted April 14, 2023
+msg:The hotel is very good overall. It is the most upscale hotel in Yanzhou District. The garden in front of the hotel is very good, the environment is beautiful, the security guard at the door and the front desk service are very good. The room is clean and well-equipped, and there is a bathtub for bathing. One star is for breakfast. The breakfast service is poor, and the restaurant facilities are poor. I stayed for 4 days in total. The breakfast is getting worse and worse every day. It can be worse every day. Maybe the energy is focused on group customers, and we individual customers don’t care. The variety of breakfast is getting less and less every day. The chef makes sushi there every day and I have never eaten it. On the 4th day, I went to have breakfast. 3 of the 4 beverage machines were broken, and the yogurt machine was out of yogurt. The soup on the plate was all leftovers. I wanted to eat some ice cream but was stopped. Don’t put out things that you don’t want to give to customers. Bad review!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:4.2
+posted:Posted October 5, 2023
+msg:Good hardware facilities, breakfast is not as rich as other 5-star hotels, the speed of restaurant staff replenishing dishes has also been improved
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted September 23, 2023
+msg:The service attitude at the front desk and the overall hygienic environment of the hotel are very good
+----------------------------------------
+name:M‍i‍t‍c‍h‍ ‍H‍a‍n
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Family
+info:29 Reviews
+rating:4.7
+posted:Posted May 10, 2024
+msg:The room is OK, the breakfast is not rich
+----------------------------------------
+name:W‍e‍n‍g‍e‍h‍u‍a
+info:Superior Room
+info:Stayed in November 2023
+info:Business travelers
+info:20 Reviews
+rating:4
+posted:Posted November 15, 2023
+msg:Facilities: Very good, clean and tidy, good environment, good service attitude
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 10, 2023
+msg:It's just that the network is not good. I use data traffic when there is basically no signal. Everything else is fine.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in December 2023
+info:Business travelers
+info:28 Reviews
+rating:5
+posted:Posted December 29, 2023
+msg:Facilities: OK
+Health: OK
+Environment: good
+Service: good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted July 31, 2023
+msg:It is said to be the best hotel in the area, but to be honest, the facilities are too old. However, the service is very good. You can also have an authentic Yanzhou breakfast next to the hotel. I recommend it with 4 stars.
+----------------------------------------
+name:L‍i‍x‍i‍a‍n‍s‍h‍e‍n‍g
+info:Superior Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted December 11, 2023
+msg:Very satisfied, good service, special breakfast, great
+----------------------------------------
+name:P‍i‍n‍g‍g‍u‍o‍d‍a‍s‍h‍u‍1‍2‍3‍4
+info:Superior Queen Room
+info:Stayed in June 2023
+info:Business travelers
+info:189 Reviews
+rating:5
+posted:Posted June 30, 2023
+msg:The bedding is very good, the hotel is grand, and the swimming pool is great. It’s just that the decoration is a bit old-fashioned.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in April 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted April 2, 2023
+msg:The hotel has a beautiful view.
+----------------------------------------
+name:N‍i‍a‍n‍7‍1‍2
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:31 Reviews
+rating:4
+posted:Posted March 10, 2024
+msg:Breakfast was ok, hotel was ok too
+----------------------------------------
+name:l‍i‍u‍ ‍s‍i‍r‍0‍9‍1‍4
+info:Premium Suite
+info:Stayed in February 2024
+info:Family
+info:28 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:Very good. Kid's suite is very good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 29, 2023
+msg:The room is clean and hygienic, the hardware facilities are good, and the service is warm and thoughtful. I will choose this place next time
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in April 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:After visiting the Sankong Scenic Area, the three of us drove 22 kilometers to the hotel. I have to give it a thumbs up, the environment and service are very good, the price will not increase during May Day, and it is very comfortable!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:The environment is elegant and beautiful, and the room is large and comfortable.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Other
+info:8 Reviews
+rating:5
+posted:Posted February 10, 2024
+msg:The room was clean and nice
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in January 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted April 16, 2023
+msg:The hotel has a good location and convenient transportation. The rooms are very comfortable. The front desk is very welcoming and pays attention to the guests' stay experience. It is very user-friendly. I will stay here again next time
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Family
+info:4 Reviews
+rating:4.5
+posted:Posted January 26, 2023
+msg:I have always lived in Shengde, and it was good before. It may be because it has not been open for a long time, and some facilities are not very clean, as if they have not been cleaned
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:48 Reviews
+rating:5
+posted:Posted September 2, 2023
+msg:The hotel is very stylish, but a bit old
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:4.5
+posted:Posted January 27, 2024
+msg:Breakfast is miserable
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted March 2, 2024
+msg:very good very clean
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted September 19, 2023
+msg:Very good, beautiful environment
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted January 30, 2023
+msg:The room is very good, the breakfast variety is less
+----------------------------------------
+name:f‍o‍u‍r‍w‍o‍o‍d
+info:Superior Queen Room
+info:Stayed in August 2023
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted September 2, 2023
+msg:Overall quite satisfied
+----------------------------------------
+name:F‍e‍n‍g‍y‍u‍z‍h‍e‍_‍_
+info:Superior Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted March 13, 2023
+msg:The room was clean and the service was good.
+----------------------------------------
+name:G‍a‍w‍e‍i‍a‍i‍l‍a‍y‍a‍n‍t‍i‍e‍m‍u‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted March 12, 2023
+msg:I live here every time I come to Yanzhou.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in March 2023
+info:Family
+info:19 Reviews
+rating:5
+posted:Posted April 1, 2023
+msg:Very good. Will stay here next time
+----------------------------------------
+name:h‍i‍l‍e‍y
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:56 Reviews
+rating:5
+posted:Posted March 9, 2023
+msg:permanent residence, very good
+----------------------------------------
+name:L‍i‍u‍q‍i‍g‍u‍a‍n‍g
+info:Deluxe Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:6 Reviews
+rating:4
+posted:Posted August 27, 2022
+msg:It's far from the city, but the downstairs is very spacious
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in September 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 3, 2021
+msg:The service is very good and in place, the facilities are also very high-end, and the supporting facilities are also complete. He also upgraded the deluxe standard room for free, and also gave free fruits. I am quite satisfied with an accommodation, and will definitely visit again next time.
+----------------------------------------
+name:E‍B‍G‍_‍B‍a‍b‍y
+info:Superior Queen Room
+info:Stayed in August 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 8, 2021
+msg:The destination of the business trip is very close to the hotel, so I booked it here. Checking in during the epidemic, the young lady at the front desk did a particularly good job in epidemic prevention. The green code, itinerary card, nucleic acid test report, and all photos were kept. The room type was upgraded, and the breakfast was quite generous, which is worth recommending.
+----------------------------------------
+name:A‍i‍y‍o‍u‍w‍o‍l‍e‍g‍e‍q‍u
+info:Superior Room
+info:Stayed in July 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted July 25, 2021
+msg:The hotel is quiet and decorated, the staff is very enthusiastic, the receptionist at the front desk is gentle and patient to inform the relevant matters, I feel very good, recommended 👍
+----------------------------------------
+name:_‍-‍s‍h‍i‍y‍i‍_
+info:Superior Queen Room
+info:Stayed in July 2021
+info:Friends
+info:1 Review
+rating:4.7
+posted:Posted July 30, 2021
+msg:The weather was good when I came, so I recorded a short video. The hotel facilities are quite complete. There is a gym and swimming pool on the third floor. Fruits are delivered to the room. The ladies at the front desk are very enthusiastic and answer questions patiently and carefully. The overall stay experience is good. There is no ATM in the hotel. If you need cash, you have to go outside the hotel. But I still give it five stars. The front desk door is very unique, haha
+----------------------------------------
+name:S‍u‍z‍h‍o‍u‍1‍9‍7‍8
+info:Superior Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted February 4, 2023
+msg:The hotel is not bad
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted November 21, 2023
+msg:衞生：乾淨
+環境：優美
+
+服務：暖心
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted June 1, 2024
+msg:非常好、以後還會住
+----------------------------------------
+name:D‍a‍z‍h‍i‍l‍a‍o‍C‍X
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted April 14, 2024
+msg:非常好，還會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2023
+info:Business travelers
+info:92 Reviews
+rating:5
+posted:Posted May 31, 2023
+msg:環境非常好，前台小姐姐很客氣，房間裏面的設施也不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in February 2024
+info:Business travelers
+info:71 Reviews
+rating:5
+posted:Posted April 24, 2024
+msg:挺好的，就是該裝修了
+----------------------------------------
+name:R‍o‍n‍g‍c‍h‍e‍n‍g‍f‍a‍n‍g‍s‍h‍i
+info:Superior Queen Room
+info:Stayed in October 2023
+info:Couples
+info:42 Reviews
+rating:5
+posted:Posted October 20, 2023
+msg:房間寬大明亮，服務周到，衞生！
+----------------------------------------
+name:o‍x‍y‍g‍y‍m
+info:Superior Room
+info:Stayed in April 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:非常好的酒店，乾淨衞生舒適，尤其樓下的花園景色優美
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in January 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 22, 2022
+msg:很好，每次回媽媽家都入住聖德，寶寶住的也開心，今天還送了小禮品，感謝你們的小驚喜
+----------------------------------------
+name:L‍i‍y‍u‍z‍h‍o‍u‍r‍e‍n
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:35 Reviews
+rating:5
+posted:Posted March 26, 2023
+msg:房間不錯，乾淨衞生。早餐品種雖然豐富，但感覺西式食物較少。
+----------------------------------------
+name:g‍o‍l‍d‍r‍u‍s‍h
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 6, 2024
+msg:房間乾淨整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in November 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 5, 2023
+msg:很好，很好，真的很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted November 25, 2023
+msg:服務很好，酒店乾淨衞生
+----------------------------------------
+name:L‍a‍n‍l‍a‍n‍l‍a‍n‍x‍i‍a‍n‍s‍h‍e‍n‍g
+info:Deluxe Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:69 Reviews
+rating:3.7
+posted:Posted December 4, 2023
+msg:環境不錯，早餐豐盛。
+----------------------------------------
+name:B‍u‍g‍u‍n‍a‍t‍a‍i
+info:Superior Queen Room
+info:Stayed in July 2022
+info:Family
+info:3 Reviews
+rating:4.2
+posted:Posted July 7, 2022
+msg:算是兗州不錯的酒店了。就是早餐需要提高一下，品種偏少，味道一般，不太符合酒店的定位，後面都沒有在酒店吃了。房間還是可以的。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 26, 2021
+msg:環境很好很乾凈 工作人員的服務態度也都很好 推薦推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 31, 2023
+msg:酒店高大尚，服務好，好評
+----------------------------------------
+name:K‍A‍M‍S
+info:Superior Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 6, 2023
+msg:多次居住，很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in September 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted November 29, 2023
+msg:兗州區很不錯的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:3.2
+posted:Posted July 15, 2023
+msg:服務不錯，早點不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in September 2023
+info:Business travelers
+info:17 Reviews
+rating:3.2
+posted:Posted October 2, 2023
+msg:不推薦，一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2023
+info:Business travelers
+info:4 Reviews
+rating:3.7
+posted:Posted June 2, 2023
+msg:房間一般，早餐較差
+----------------------------------------
+name:*‍*‍*‍W‍U‍Y‍A‍N‍*‍*‍*
+info:Superior Room
+info:Stayed in November 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted January 22, 2024
+msg:好好好好好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 31, 2023
+msg:環境不錯  服務好
+----------------------------------------
+name:F‍a‍n‍x‍i‍a‍n‍s‍h‍e‍n‍g‍1‍9‍8‍2
+info:Superior Queen Room
+info:Stayed in April 2023
+info:Booked for others
+info:20 Reviews
+rating:5
+posted:Posted April 27, 2023
+msg:服務周到，生活便利。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in August 2023
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted November 9, 2023
+msg:房間衞生很好
+----------------------------------------
+name:K‍i‍m‍w‍o‍o‍o‍o‍o‍o‍o
+info:Superior Queen Room
+info:Stayed in September 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted December 10, 2023
+msg:挺不錯的哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 23, 2023
+msg:還是很不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 19, 2023
+msg:早餐有待提高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in August 2022
+info:Friends
+info:5 Reviews
+rating:4.7
+posted:Posted November 9, 2022
+msg:挺好的，前台服務員仔細熱情解答我的問題
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:4 Reviews
+rating:3.2
+posted:Posted August 12, 2022
+msg:酒店還可以 就是有點老  裝修時間長了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted March 28, 2023
+msg:房間可以，服務好
+----------------------------------------
+name:H‍a‍n‍l‍e‍i‍b‍i‍n
+info:Deluxe Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted June 23, 2022
+msg:店裡裝修非常有特色，非常適合📷拍照，挺出片的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:4 Reviews
+rating:4
+posted:Posted May 27, 2023
+msg:一般性價比不高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in February 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted May 13, 2023
+msg:挺好的值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted April 15, 2023
+msg:家的感覺不錯
+----------------------------------------
+name:Y‍i‍n‍z‍h‍o‍n‍g‍r‍u‍i
+info:Deluxe Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:71 Reviews
+rating:5
+posted:Posted July 9, 2022
+msg:兗州最好的酒店了，高大上啊！
+----------------------------------------
+name:♕‍L‍e‍o
+info:Deluxe Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 16, 2022
+msg:還可以       ，環境挺好
+----------------------------------------
+name:Z‍h‍i‍j‍i‍n‍b‍i‍a‍o
+info:Superior Queen Room
+info:Stayed in June 2022
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted August 6, 2022
+msg:設施很好
+位置很好
+服務很好
+----------------------------------------
+name:T‍i‍a‍n‍s‍h‍u‍i‍y‍u‍a‍n‍w‍a‍i
+info:Superior Room
+info:Stayed in August 2022
+info:Business travelers
+info:9 Reviews
+rating:3.2
+posted:Posted November 5, 2022
+msg:還可以，有點遠離市區
+----------------------------------------
+name:Y‍a‍n‍z‍i
+info:Superior Queen Room
+info:Stayed in November 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted November 24, 2021
+msg:前台小姐姐服務很好還免費幫我升了房，送了水果，比心
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in August 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted August 19, 2022
+msg:很好免費幫升的行政
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 11, 2022
+msg:環境非常好，也很乾凈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2021
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted October 21, 2021
+msg:硬件五星沒問題，住了很多次了～周圍現在多了些吃飯的地方
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 7, 2021
+msg:住過的酒店裡麪最有人情味的、大堂服務也很好、尤其是早餐服務更好
+----------------------------------------
+name:z‍h‍i‍q‍i‍a‍o
+info:Superior Queen Room
+info:Stayed in May 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted August 13, 2022
+msg:早餐不錯，房間大，安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted July 3, 2022
+msg:每次回兗州都住這裏 不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted August 27, 2022
+msg:環境優美設施齊全
+----------------------------------------
+name:l‍i‍x‍i‍a‍o‍t‍i‍a‍n‍1‍3‍9
+info:Superior Room
+info:Stayed in December 2021
+info:Solo travelers
+info:38 Reviews
+rating:4
+posted:Posted December 17, 2021
+msg:酒店規模夠大，服務有待進一步提升。
+----------------------------------------
+name:x‍j‍z‍9‍9‍9
+info:Deluxe Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted August 7, 2022
+msg:非常好，感謝
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in July 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted August 5, 2022
+msg:還不錯還不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2022
+info:Family
+info:11 Reviews
+rating:3.5
+posted:Posted February 5, 2022
+msg:服務一般吧  不人性化
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 3, 2021
+msg:老家的酒店，每次回來必住，每次都給主動升級。很滿意
+----------------------------------------
+name:L‍i‍a‍n‍l‍i‍a‍n‍h‍o‍n‍g‍c‍h‍e‍n
+info:Superior Queen Room
+info:Stayed in February 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted March 11, 2022
+msg:住宿環境好，視野開闊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted July 31, 2022
+msg:服務非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2021
+info:Business travelers
+info:63 Reviews
+rating:4.7
+posted:Posted September 8, 2021
+msg:除了周圍比較冷清以外，其他都很好。
+----------------------------------------
+name:N‍i‍c‍o‍l‍a‍s‍ ‍J‍i‍n
+info:Superior Queen Room
+info:Stayed in February 2022
+info:Business travelers
+info:66 Reviews
+rating:5
+posted:Posted February 24, 2022
+msg:出差住住還可以。
+----------------------------------------
+name:z‍u‍m‍a‍w‍e‍i‍w‍e‍i
+info:Superior Queen Room
+info:Stayed in July 2021
+info:Solo travelers
+info:5 Reviews
+rating:3
+posted:Posted July 3, 2021
+msg:為什麼價格和攜程實際寫的價格不一樣？
+----------------------------------------
+name:s‍l‍u‍q‍i‍n
+info:Executive Double Room
+info:Stayed in July 2021
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted July 13, 2021
+msg:前台服務很熱情，房間舒適，很不錯！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in November 2021
+info:Solo travelers
+info:8 Reviews
+rating:5
+posted:Posted January 19, 2022
+msg:家鄉的酒店，逢回必住
+----------------------------------------
+name:N‍i‍u‍a‍n‍i‍u‍n‍i‍u
+info:Superior Queen Room
+info:Stayed in July 2021
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted July 13, 2021
+msg:老牌五星酒店，值得信賴
+----------------------------------------
+name:E‍r‍i‍c
+info:Superior Queen Room
+info:Stayed in November 2021
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted November 15, 2021
+msg:不錯，挺好的！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2021
+info:Business travelers
+info:51 Reviews
+rating:3
+posted:Posted September 7, 2021
+msg:房間連信號都沒有
+----------------------------------------
+name:z‍l‍m‍9‍1‍8‍0
+info:Superior Queen Room
+info:Stayed in November 2021
+info:Business travelers
+info:41 Reviews
+rating:5
+posted:Posted November 17, 2021
+msg:衞生好環境好
+----------------------------------------
+name:Z‍h‍o‍n‍g‍x‍i‍a‍d‍e‍y‍i‍n‍g‍h‍u‍o‍c‍h‍o‍n‍g
+info:Superior Queen Room
+info:Stayed in May 2021
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 2, 2021
+msg:環境很好，服務及早餐很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:156 Reviews
+rating:5
+posted:Posted November 22, 2021
+msg:非常適合出差
+----------------------------------------
+name:T‍i‍a‍n‍g‍a‍o‍y‍u‍n‍d‍a‍n
+info:Superior Queen Room
+info:Stayed in August 2021
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted August 31, 2021
+msg:還不錯！！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in July 2021
+info:Business travelers
+info:9 Reviews
+rating:3
+posted:Posted August 4, 2021
+msg:酒店設施有點老了
+----------------------------------------
+name:S‍h‍i‍n‍u‍o‍y‍i‍y‍a
+info:Superior Queen Room
+info:Stayed in May 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted June 15, 2021
+msg:環境很好，服務很好
+----------------------------------------
+name:k‍i‍n‍z‍h‍a‍n‍g
+info:Superior Room
+info:Stayed in April 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted June 16, 2021
+msg:推薦這家酒店
+----------------------------------------

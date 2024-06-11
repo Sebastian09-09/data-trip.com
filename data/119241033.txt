@@ -1,0 +1,198 @@
+name:A‍l‍i‍a‍k‍s‍a‍n‍d‍r
+info:Joy King Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 1, 2024
+msg:Perfect hotel!!!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Joy House Twin Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 2, 2024
+msg:The hotel environment is very good, the supporting software and hardware are very good, and the service is also very good. We went to the front desk to register a staff member named Wang Lei, who was very enthusiastic and patient. The price-performance ratio is very high. The hotel lobby is also very spacious. It is a coffee bar where you can read quietly. It makes me want to stay in the hotel all the time and not go anywhere. The breakfast is also very delicious, with fresh ingredients and very suitable varieties. Everything is delicious. The noodles are also very authentic, not inferior to the Internet celebrity noodle restaurants outside. The children are also equipped with special children's slippers and children's toothbrushes and toothpaste. The details are great. I am very satisfied with all aspects. So I stayed for another night and cancelled my friend's original reservation and changed it. Next time, I will choose Yachen Yueju Hotel.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Joy House Twin Room
+info:Stayed in May 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted May 5, 2024
+msg:The hotel has complete facilities, clean rooms, rich breakfast, and thoughtful service. The family is very satisfied with the family trip. Serena at the front desk is very good and has been patiently answering our questions. The breakfast is also good and very satisfactory, worthy of my five-star praise!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+rating:5
+posted:Posted May 4, 2024
+msg:Well-deserved five-star rating, meticulous service, spacious rooms, up-to-standard facilities, beautiful river views, exquisite breakfast, and super cost-effective. Five-star praise, I will definitely stay here when I go to Chongqing next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Joy King Room
+info:Stayed in May 2024
+info:Other
+info:10 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:A perfect hotel! The environment is modern, elegant and has a sense of design. The service is very enthusiastic, the room is clean and tidy, the sound insulation is good, and it is very quiet. The room has a large window and you can look far away. The stay experience is very comfortable.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Joy King Room
+info:Stayed in April 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted April 29, 2024
+msg:New hotel, a few hundred meters away from Chongqing International Expo Center, good facilities, pleasant room view
+----------------------------------------
+name:N‍e‍i‍z‍h‍e‍n‍h‍u‍l‍v‍g‍u‍a‍n‍g
+info:Joy House Twin Room
+info:Stayed in May 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:The room is clean, the facilities are new, and parking is convenient.
+----------------------------------------
+name:T‍i‍a‍n‍k‍o‍n‍g
+info:Joy House Twin Room
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:The hotel facilities are relatively new, the transportation is convenient, there is a subway
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Joy King Room
+info:Stayed in May 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:The room was perfect, the service was excellent, I will book this hotel next time.
+----------------------------------------
+name:G‍u‍i‍j‍i‍u‍s‍h‍i‍w‍o
+info:Joy King Room
+info:Stayed in April 2024
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:Very comfortable living, good environment, good attitude and service
+----------------------------------------
+name:X‍i‍g‍u‍a‍q‍i‍p‍a‍o
+info:Joy House Twin Room
+info:Stayed in April 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 8, 2024
+msg:The service attitude is very good and the environment is also good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Joy House Twin Room
+info:Stayed in May 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:The hotel is clean and comfortable, and the service is very good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Joy House Twin Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 4, 2024
+msg:The environment is clean and hygienic, and the service is good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Joy House Twin Room
+info:Stayed in May 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 6, 2024
+msg:The hotel is very new and has complete facilities
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+rating:5
+posted:Posted May 5, 2024
+msg:The room was clean and the bed was comfortable
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Joy House Twin Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:2.5
+posted:Posted May 31, 2024
+msg:差評，攜程宣傳有充電樁，到店充電發現，所有充電樁都不通電
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Joy House Twin Room
+info:Stayed in May 2024
+info:Friends
+rating:5
+posted:Posted May 31, 2024
+msg:酒店非常好。環境很舒適也很乾凈，周邊都很安靜，超級喜歡酒店的大廳感覺非常有空間感，總之是一個非常棒的酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Joy House Twin Room
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 7, 2024
+msg:房間很不錯，環境也很好。但是去的時候酒店還在試營業，有些服務比較生疏。總體來説很滿意，物有所值。
+----------------------------------------
+name:Q‍i‍x‍i‍a‍o‍q‍i‍�‍�
+info:Joy King Room
+info:Stayed in May 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted May 18, 2024
+msg:房間很好，很新，前台工作人員服務很到位，很不錯的入住體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in June 2024
+info:Other
+rating:2
+posted:Posted June 2, 2024
+msg:房間裏到處都是灰，這個價位的酒店在重慶不應該
+----------------------------------------
+name:Q‍i‍n‍g‍j‍i‍a‍o‍w‍o‍w‍e‍i‍x‍i‍a‍n‍s‍e‍n
+info:Joy House Twin Room
+info:Stayed in April 2024
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted June 6, 2024
+msg:出差的，環境還可以吧。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Business travelers
+rating:1.3
+posted:Posted June 3, 2024
+msg:服務極差，態度更差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Joy King Room
+info:Stayed in April 2024
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted June 8, 2024
+msg:全程很滿意
+----------------------------------------

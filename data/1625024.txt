@@ -1,0 +1,1970 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in October 2023
+info:Solo travelers
+info:15 Reviews
+rating:4
+posted:Posted November 11, 2023
+msg:The facilities and view were excellent. Breakfast buffet selection was also very impressive, although dinner in the Riverside Cafe was less so - for the price. There are few options in the vicinity. A fantastic lobby. Please check magnetic strips for operating Elevator 2.
+A good location by the river, but maybe a bit far from the rail station.
+----------------------------------------
+name:S‍a‍m
+info:Superior King Room
+info:Stayed in May 2023
+info:Couples
+info:10 Reviews
+rating:4.2
+posted:Posted July 1, 2023
+msg:We mysteriously got sick during our stay and never got to enjoy the swimming pool. We also couldn't get enough water as the bottles were tiny and quickly ran out.  We hope to try fuhong hotel next time.
+----------------------------------------
+name:D‍r‍.‍ ‍B‍A‍S‍H‍I‍R‍ ‍S‍A‍F‍I‍Y‍O
+info:Superior King Room
+info:Stayed in August 2022
+info:Couples
+info:38 Reviews
+rating:3.2
+posted:Posted August 15, 2022
+msg:It was a nice trip unfortunately it was a rainy day but we enjoyed it.
+----------------------------------------
+name:P‍h‍i‍l‍l‍y
+info:Superior King Room with River View
+info:Stayed in June 2021
+info:Couples
+info:40 Reviews
+rating:4
+posted:Posted September 23, 2021
+msg:Great hotel to spend time with Significant other.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in October 2021
+info:Friends
+info:6 Reviews
+rating:4
+posted:Posted October 15, 2021
+msg:Best choice in Benxi.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room with River View
+info:Stayed in October 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:The river view is good, but the windows need to be cleaned. The old five-star hotel needs to raise its standards to a new level. It should be equipped with a disposable bathtub cover and some bath salts. The breakfast in the restaurant is good and the service is good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room with River View
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 3, 2023
+msg:The hotel is in a very good location, with convenient transportation and easy access to the airport and scenic spots. There is a shopping mall next to the hotel, and there is a medium-sized Hualian Supermarket inside, which is convenient for shopping. The service staff had a very good attitude and the room was cleaned in a timely manner. It is worth mentioning that the breakfast is rich in variety and delicious. I feel that the chef has a high level and eating well is a plus point for the hotel. There were several weddings every day during my stay, which made me feel very happy.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:34 Reviews
+rating:3
+posted:Posted August 16, 2022
+msg:It's the first time I found cockroaches in a hotel, pay more attention to hygiene
+----------------------------------------
+name:S‍h‍e‍h‍u‍i‍d‍i‍c‍e‍n‍g‍k‍e‍x‍i‍n‍g
+info:Deluxe King Room with River View
+info:Stayed in January 2023
+info:Business travelers
+info:42 Reviews
+rating:1
+posted:Posted January 11, 2023
+msg:This is the worst hotel I've ever stayed in. I couldn't understand anything at the front desk when I checked in. There was no bottled water in the room. I called the general affairs and waited for almost a minute before answering the phone. The tone was obviously joking. Such a broken hotel I don't have any staying experience, I wish Huangpu an early date
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in January 2023
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted January 11, 2023
+msg:The hotel is very good, especially the front desk service is very good, I am very happy to stay once, and I will come again next time
+----------------------------------------
+name:S‍h‍a‍s‍h‍a‍-‍s‍t‍a‍r‍t‍y‍s
+info:Superior Twin Room with River View
+info:Stayed in July 2022
+info:Couples
+info:58 Reviews
+rating:5
+posted:Posted July 22, 2022
+msg:Excellent location, beautiful scenery, rich breakfast
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in October 2022
+info:Business travelers
+info:5 Reviews
+rating:3.2
+posted:Posted October 6, 2022
+msg:The facilities are relatively old, the environment is average, and the service attitude is average, which does not meet the requirements of 5 stars
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in September 2022
+info:Business travelers
+info:20 Reviews
+rating:2.7
+posted:Posted September 26, 2022
+msg:The price of the hotel is high, and the breakfast is extremely poor. How can a five-star hotel do it?
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in August 2022
+info:Family
+info:14 Reviews
+rating:3.5
+posted:Posted August 14, 2022
+msg:The hotel as a whole is not bad, compared with the current hotels of the same price, the facilities are a bit old
+----------------------------------------
+name:O‍r‍c‍h‍i‍d‍l‍a‍n
+info:Superior Twin Room
+info:Stayed in July 2022
+info:Family
+info:16 Reviews
+rating:3
+posted:Posted July 21, 2022
+msg:It looks tall, but the actual service is so-so. The bathroom in the room is very small, the bed sheets are very damp, and the sound insulation of the room is poor
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in July 2022
+info:Family
+info:88 Reviews
+rating:3
+posted:Posted July 19, 2022
+msg:The hotel is relatively old, the service facilities are relatively old, and the location is okay. It is recommended that the hotel reserve parking spaces for staying guests
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in July 2022
+info:Family
+info:4 Reviews
+rating:1
+posted:Posted July 17, 2022
+msg:The hotel is old and seems to have been opened 40 years ago. There is no exclusive parking lot and parking depends on luck. The quilt is damp. The river view room should be renamed as the noise room. The air in the front desk is hard and there are mud stains on the marble of the front desk. You can imagine other aspects!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room with River View
+info:Stayed in October 2022
+info:Business travelers
+info:59 Reviews
+rating:5
+posted:Posted October 31, 2022
+msg:full facilities
+Hygiene: good
+Good environment
+good service
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in June 2022
+info:Business travelers
+info:32 Reviews
+rating:1.5
+posted:Posted June 21, 2022
+msg:The sanitation of the hotel is very poor, the bathroom smells bad, there are traces next to the toilet that have not been cleaned, the room is also very dusty, and the pillowcases have not been replaced. The location of the hotel is okay, but the hygiene is too bad!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room with River View
+info:Stayed in October 2021
+info:Couples
+info:41 Reviews
+rating:5
+posted:Posted October 13, 2021
+msg:The hotel has a good environment. It faces the river in front, but the light bulbs in the room are always flashing. I don't know if the lights should be changed.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Friends
+info:12 Reviews
+rating:2.2
+posted:Posted June 20, 2021
+msg:The sanitation is very poor. When I entered the door, I found that the cotton swabs used by the previous wave of guests were still on the table. The room facilities are outdated, the air conditioner is not cool, and the musty smell is heavy. In short, it is not up to the five-star standard.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room with River View
+info:Stayed in June 2021
+info:Business travelers
+info:17 Reviews
+rating:4.5
+posted:Posted June 10, 2021
+msg:The surrounding environment is super good. You must choose a room by the river. You can see the Taizi River overlooking the mountains. It’s beautiful. Xiao Zhang at the hotel’s front desk knew what I wanted and specially arranged a room with a river view. It’s so beautiful and refreshing.
+----------------------------------------
+name:S‍h‍i‍d‍a‍m‍i‍n
+info:Deluxe Double Room
+info:Stayed in September 2021
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted September 30, 2021
+msg:very very good
+----------------------------------------
+name:p‍h‍5‍1‍6
+info:Executive Double Room
+info:Stayed in October 2021
+info:Family
+info:50 Reviews
+rating:2.7
+posted:Posted October 11, 2021
+msg:Will not stay at the hotel again. There is no parking space at the hotel, and no one pays attention to parking in front of the lobby. When I dragged my luggage into the lobby, a staff member asked if you are here to stay? Really speechless. After check-in, the front desk receptionist said that the price you booked was cheap, so the refrigerator in the room did not provide drinks, and I immediately felt insulted. The room only provided two bottles of 370ml water, and two bottles were added upon request. After a day of travel, if the water is not enough, call the housekeeper to add two more bottles. Each bottle will cost 3 yuan. If you don’t agree to pay, you will not be given water. Called the front desk, same answer. This is the first time I stayed in a five-star hotel and charged for adding a bottle of water.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in October 2021
+info:Family
+info:2 Reviews
+rating:1
+posted:Posted October 6, 2021
+msg:First of all, I must give a big praise to the front desk service. The front desk service attitude is very good. They upgraded our river view room for free, explained the hotel functions enthusiastically, and praised the front desk ALINA. But for the rest, I can only give a very bad review. It is not worth it for me to open two rooms, each of which costs more than 800 yuan, a total of 1,700 yuan. I spent a lot of money to live in a fast hotel. First of all, there was not even a waiter to take the luggage at the door of the hotel. There was a waiter sitting at the entrance of the lobby to measure the body temperature, and nothing else mattered. I was really drunk. The second is that the door lock of the room could not be opened at all. Both rooms could not be opened. There happened to be other guests staying in the room and they could not be opened either. It turned out that the garbage and old door locks were all broken. It took me 20 minutes to open the door lock. Open the door and enter the room **, it is from the last century, everything is broken, it is simply old and dirty, such a broken room, you are still embarrassed to sell more than 800 a night, are you crazy? Anyway, I will never live here again in the future, it's too bad and I feel cheated. Third, the hygiene of the breakfast table is too poor. After the last guest left, they cleared the plates and left the leftovers. Do you deserve 5 stars? I think it's 1 star standard. It's too rubbish. This hotel is too bad. It's not worth the price. It's a scam. I will never stay in this hotel again.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Family
+info:17 Reviews
+rating:1.7
+posted:Posted May 4, 2024
+msg:設施嚴重老化，晚上九點多被困到電梯裏，最後維修師傅來把電梯門扒開，從十一層上面的縫裡爬了出來，極其危險⚠️ 
+空調不製冷，淋浴花灑堵塞，600一晚完全配不上這個價格，都不如快捷酒店，第一次遇到這種情況也是開了眼了！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in December 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 23, 2023
+msg:前台小mia服務挺滿意，客房環境我覺得都挺好的，不錯不錯，還會再來的，酒店還有游泳館，餐廳。都可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 15, 2024
+msg:房間很好，景色也美，特別市前台Judy態度很好，下回來出差還會住這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in December 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted January 1, 2024
+msg:總體來説很滿意，前台Helen服務很好，瞭解到酒店對面就有玩雪的地方。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 18, 2024
+msg:體驗還不錯前台小宋服務超級好，細緻耐心，下次還會去
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in December 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 14, 2023
+msg:大堂一進門金碧輝煌，酒店服務態度超好，特別是前台Ludy態度超好，下次來本溪還會入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in December 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted December 11, 2023
+msg:酒店前台工作認真負責，態度很好，尤其是接待員MRS張很有耐心，給我留下的印象很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in January 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 16, 2024
+msg:前台服務態度很好，接待員張女士很認真有耐心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in August 2023
+info:Solo travelers
+info:20 Reviews
+rating:5
+posted:Posted September 12, 2023
+msg:窗玻璃有點臟，影響拍河景照。房間很舒適。來本溪住這家肯定不會錯。早餐58元一位很豐盛，豐盛得簡直像午晚餐，有好多樣炒菜，豆製品，還有清蒸魚。就是果汁是粉沖的這點比較介意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in December 2023
+info:Family
+info:3 Reviews
+rating:1
+posted:Posted December 24, 2023
+msg:每年都回來住這，但是今後不會再住了，這個酒店被管理的一年不如一年，要硬件沒硬件，要服務沒服務，硬件不好可以從軟件服務彌補，服務好硬件不好也能理解，畢竟那麼多年了。以前這的工作人員還能正常溝通，現在溝通都溝通不了。客房大姐喪丟丟的，要個香皂像欠你家錢似的；我問禮賓找個停車位，告訴我不提供這種服務。我就沒住過哪個酒店説不提供停車位的，我問那哪能停車，告訴我不知道。
+進了房間全是煙味，孩子根本呆不了，讓前台換房告訴沒房了。我想問現在是旅遊旺季嗎還沒房了，沒房就升級，不給升級就解決問題，不解決問題還不升級，你們怎麼那麼**呢？
+
+太彪了，全是這種服務酒店趁早別開了。要不就換掉現在的GM吧。
+----------------------------------------
+name:R‍u‍n‍y‍a‍n
+info:Superior Twin Room with River View
+info:Stayed in September 2023
+info:Business travelers
+info:28 Reviews
+rating:2.7
+posted:Posted October 14, 2023
+msg:客房淋浴房裡麪洗澡時向外麪漏水。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in April 2023
+info:Family
+info:5 Reviews
+rating:1
+posted:Posted May 3, 2023
+msg:這是我住過的最糟糕的酒店，沒有之一
+衞生壞境非常差，不知道是怎麼評選上五星的，一進房間滿屋子煙味，房間裏到處是灰塵，衞生間也很臟
+早餐品種非常少，基本沒什麼可吃的，餐廳衞生也很堪憂。
+不推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in February 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted February 12, 2024
+msg:酒店總體感覺還不錯，房間很大，設備基本90%新，小賣部有點簡單，沒什麼東西，所處環境很好。希望酒店的房間提供多一些的飲料和水。
+----------------------------------------
+name:Y‍a‍n‍g‍x‍i‍a‍o‍b‍o
+info:Superior King Room with River View
+info:Stayed in April 2023
+info:Business travelers
+info:4 Reviews
+rating:4.2
+posted:Posted April 18, 2023
+msg:衞生：衞生不錯，作為老酒店，出乎意料了。
+
+設施：設施老舊，導致邊角、門邊位置的年久失修衞生差。
+
+
+服務：表揚。前台一位男接待員，因辦公，返回酒店超兩點了，他幫我延長了15分鐘，挺貼心。客房有大姐在白天收拾了房間，有服務。
+----------------------------------------
+name:T‍o‍n‍y‍S‍o‍n‍g‍0‍9‍0‍2
+info:Superior King Room
+info:Stayed in December 2023
+info:Business travelers
+info:5 Reviews
+rating:1
+posted:Posted December 9, 2023
+msg:極差的一家酒店，床上和衞生間有前任客人留下的毛髮，不到晚上九點點客房餐，告知已下班，讓服務員幫忙買方便麪和啤酒，告知沒有此項服務！無語……！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 17, 2024
+msg:根據導航選擇了這家酒店，服務和環境不錯，還為我們升級了河景房，對面可以看見太子河，重點表揚一下前台小張服務熱情周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room with River View
+info:Stayed in August 2023
+info:Family
+info:5 Reviews
+rating:3
+posted:Posted August 11, 2023
+msg:禮賓服務太一般了，和評星不相符，住過這麼多酒店，高檔低檔都住過，這個禮賓是最差的，一開始電話就是沒人接，好不容易有人接聽了，服務態度一般，切個水果，讓顧客跑來跑去，一直沒人管的情況，最後見要投訴了，又趕緊出來解決問題。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room with River View
+info:Stayed in June 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted August 31, 2023
+msg:條件設定服務很好。
+服務：都很好，這次旅遊很滿意。
+----------------------------------------
+name:K‍e‍l‍i‍e‍r‍w‍o‍t‍e‍c‍e‍n‍g‍b‍u
+info:Superior Twin Room with River View
+info:Stayed in July 2023
+info:Friends
+info:4 Reviews
+rating:1.5
+posted:Posted August 3, 2023
+msg:衞生很差，從大廳到房間都是一股嗅味，被子一種汗味，真讓人難己入睡，室內設施存舊，浴巾舊得都讓人不敢用，電話是個擺設，根本沒法用！窗户能打開，但是懸掛着，像是要吊下來似的！總之，跟星級和價格遠遠不服，是我住過無數次酒店算是最差的一個酒店了吧！一句話！差差差……！
+----------------------------------------
+name:X‍i‍n‍g‍f‍u‍i‍n‍g
+info:Superior Twin Room with River View
+info:Stayed in March 2024
+info:Family
+info:27 Reviews
+rating:4
+posted:Posted March 27, 2024
+msg:入住很舒適，環境也不錯我個人非常喜歡，入住服務也很貼心，酒店房間打掃的很乾凈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in April 2023
+info:Friends
+info:27 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:房間寬敞 明亮 視野開闊  
+服務熱情周到
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:22 Reviews
+rating:3
+posted:Posted September 18, 2023
+msg:想要刷卡結算告訴我們衹能用VISA card很尷尬最後用付款寶付款，希望多支持別的信用卡付款。房間很大有些陳舊總體還算可以吧！希望努力加油。
+----------------------------------------
+name:z‍u‍r‍o‍r‍o
+info:Superior King Room with River View
+info:Stayed in January 2024
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted February 26, 2024
+msg:還可以吧，在本溪能有這樣的酒店很不錯了，就是游泳池面向會員開放的，人很多，水不乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in May 2023
+info:Other
+info:6 Reviews
+rating:1
+posted:Posted May 28, 2023
+msg:水質極差 水是白色的 不知道有什麼成分
+親人在富虹接親 拍照不給開燈 問前台説不是一個部門的開不了 問能不能幫忙聯繫一下或者有沒有聯繫方式，前台不搭理人，服務態度極差。
+前一晚麻煩前台幫忙訂喜麪，説餐廳下班了，也是聯繫不上，聯繫方式也沒有。
+早上接親發現電梯裏有很大一攤嘔吐物很難聞，聯繫前台，前台説暫時收拾不了，沒有保潔。
+一個標着五星的酒店沒有保潔也太可笑了。
+此次住店對富虹印象極差
+----------------------------------------
+name:B‍a‍o‍s‍h‍e‍n‍g‍z‍h‍i‍g‍u‍a‍n‍g
+info:Deluxe Double Room
+info:Stayed in November 2023
+info:Solo travelers
+info:38 Reviews
+rating:5
+posted:Posted December 4, 2023
+msg:位置合適，衞生良好，老牌酒店，非常靠譜，出差旅行都方便，周邊美食也很多，商場購物都特別便利，推薦入住
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in December 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 13, 2023
+msg:酒店位置離高速路口很近，太子河很美 ！服務熱情周到，衞生乾淨整潔 ，重點表揚一下前台小張
+----------------------------------------
+name:T‍i‍e‍l‍v‍s‍h‍i
+info:Superior King Room
+info:Stayed in July 2023
+info:Business travelers
+info:19 Reviews
+rating:2.5
+posted:Posted July 22, 2023
+msg:房間電話沒有，問服務員説壞了拆了之後就沒按。電視看節目提示付費。在我的要求下給我換了房間。次日退房時，前台服務人員拉拉着臉，態度很差。總體讓人失望。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in July 2023
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted July 16, 2023
+msg:環境中規中矩，設施還是有些不太新。
+一樓前台和五星級接待還有差距。
+位置相對可以，旁邊有小商場，對面有大公園 ，熱鬧，外賣不是特別方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in April 2023
+info:Family
+info:16 Reviews
+rating:3.7
+posted:Posted May 1, 2023
+msg:酒店開業時間可能太久了，房間温度不好中央空調不給力，和酒店溝通後衹加了一床被子;房間設施過於陳舊，衞生間牆皮脱落，水龍頭放了10分鐘水銹才消失，總之這次的入住體驗不是很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in January 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted March 22, 2023
+msg:酒店前台服務特別好，服務人員耐心細緻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in August 2023
+info:Family
+info:69 Reviews
+rating:5
+posted:Posted August 18, 2023
+msg:酒店的硬件很好，完全是五星的水平。早歺也很不錯，也完全是五星的水平。但衞生還不夠最好，但是這個價格也配得過去。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in August 2023
+info:Family
+info:3 Reviews
+rating:3.7
+posted:Posted August 18, 2023
+msg:老牌酒店了，硬件相對差點，衞生間設施差，浴巾時間有點長了，有點變色。第一次住富虹。房間的門不好開關，吱吱響。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in February 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted February 7, 2024
+msg:都挺好的，老顧客了。經常來，還會在來的，前台小謝服務挺好
+----------------------------------------
+name:z‍h‍a‍n‍g‍w‍e‍i‍8‍4‍0‍6‍0‍2
+info:Superior King Room
+info:Stayed in July 2023
+info:Business travelers
+info:40 Reviews
+rating:4
+posted:Posted July 27, 2023
+msg:房間水龍頭剛打開時是渾水，要放幾分鐘才能變輕，服務員説是有樓層在裝修，水管裏的鐵銹導致的，其他都挺好的，位置也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 6, 2023
+msg:酒店在本溪應該是最好的，前台的小毛，小任特別好，給升級了房間，還有水果贈送。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in December 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted December 24, 2023
+msg:酒店旁邊就有個商場，很方便，前台小任服務很好還給了優惠的觀影票
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in November 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted November 22, 2023
+msg:前台小毛，小任服務態度很好，很貼心！房間很寬敞，夜景很美，一覽山河！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in February 2024
+info:Booked for others
+info:31 Reviews
+rating:4
+posted:Posted April 30, 2024
+msg:替領導訂的，每次來本溪都很滿意。住在這裏很方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 30, 2023
+msg:環境不錯，房間乾淨。樓下就是小燒烤。而且離市區也可以打車也就十多員。住一宿第二天水洞，綠石谷一日遊。
+----------------------------------------
+name:s‍u‍n‍r‍i‍s‍e‍y‍f
+info:Superior Twin Room with River View
+info:Stayed in August 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted August 27, 2022
+msg:沒想到遇上了城市靜默，酒店服務很到位，風景很好，心很安靜，可以靜下來做原來擱置的很多事，整潔的環境讓緊張的氣氛都舒緩了，感恩🙏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in February 2024
+info:Family
+info:42 Reviews
+rating:5
+posted:Posted February 25, 2024
+msg:酒店住着很舒服 工作人員服務態度很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in April 2023
+info:Couples
+info:12 Reviews
+rating:4
+posted:Posted April 18, 2023
+msg:地理位置優越，房價不貴，就是裝修老化，賓館設施都需要更新一下，就是退房時還需要驗房檢查後，才能退按金。還有前台人員素質有待提高。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in December 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted December 24, 2023
+msg:酒店很不錯，尤其前台小宋服務特別好！下次還會去
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 17, 2024
+msg:很老的豪華酒店，非常滿意
+----------------------------------------
+name:X‍i‍a‍o‍z‍a‍o‍m‍a‍m‍a
+info:Superior King Room
+info:Stayed in June 2023
+info:Business travelers
+info:3 Reviews
+rating:4
+posted:Posted June 13, 2023
+msg:真心希望富虹能把玻璃擦擦，看不出去了已經，多少年沒清理過了，太子河河景根本看不清
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in October 2023
+info:Business travelers
+info:3 Reviews
+rating:2
+posted:Posted October 23, 2023
+msg:服務沒人人管 設施老舊 差評 真的不推薦這種酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in January 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 3, 2023
+msg:雖然富虹裝修的設施有些陳舊，但必竟是本溪唯一的五星級酒店，整體環境和服務還是不錯的，衞生方面早餐麪條裏發現根頭髮，希望改進
+----------------------------------------
+name:R‍y‍a‍n‍L‍i‍u‍1‍9‍8‍4
+info:Superior Twin Room
+info:Stayed in May 2023
+info:Friends
+info:11 Reviews
+rating:3.5
+posted:Posted May 3, 2023
+msg:五一期間漲價太多，浴室的水龍頭有些拉胯，房間設施也有些陳舊。游泳池不錯，值得表揚。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in December 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 5, 2023
+msg:前台熱情有禮貌 尤其安娜服務超好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in January 2024
+info:Business travelers
+info:10 Reviews
+rating:3
+posted:Posted February 22, 2024
+msg:設施陳舊，價格高，不推薦。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in March 2024
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted March 29, 2024
+msg:前台服務很熱情，謝謝
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room with River View
+info:Stayed in August 2023
+info:Couples
+info:9 Reviews
+rating:3.7
+posted:Posted September 24, 2023
+msg:房間是真的不錯，挺好的，房間比較大，值得入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in October 2023
+info:Couples
+info:8 Reviews
+rating:3.2
+posted:Posted October 19, 2023
+msg:所標五星級酒店，還有很大提升空間。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in January 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted January 3, 2024
+msg:前台Anna服務非常好
+----------------------------------------
+name:L‍u‍l‍a‍l‍a‍l‍u‍l‍a‍l‍a‍a
+info:Superior Twin Room
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 19, 2023
+msg:不錯的酒店，前台服務細心，年底回家的首選，三年沒回來了，一如既往的好！交通便捷！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in July 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted October 11, 2023
+msg:設施：好
+衞生：好
+環境：好
+服務：很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in July 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted September 24, 2023
+msg:可以涉外的酒店。房間很大，設施有點陳舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in February 2024
+info:Business travelers
+info:30 Reviews
+rating:5
+posted:Posted February 13, 2024
+msg:非常好，不錯😌😌😌
+----------------------------------------
+name:Y‍i‍x‍i‍a‍o‍z‍h‍u‍m‍i‍n‍e‍n‍c‍h‍o‍u
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 11, 2024
+msg:滿意
+ 環境好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:11 Reviews
+rating:4
+posted:Posted April 20, 2023
+msg:早餐餐具好多都有裂紋了，建議還一下，浴巾也建議更新一下
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in October 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted October 6, 2023
+msg:設施齊全，乾淨衞生，服務優秀
+----------------------------------------
+name:F‍e‍n‍g‍x‍i‍n‍g‍z‍h‍e
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:34 Reviews
+rating:3
+posted:Posted August 11, 2023
+msg:裝修太老舊了，早餐不錯，樣式比較多
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in September 2023
+info:Friends
+info:1 Review
+rating:4
+posted:Posted October 1, 2023
+msg:節假日人有點多 總體還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in February 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted February 3, 2024
+msg:環境温馨服務周到
+----------------------------------------
+name:T‍i‍a‍n‍n‍a‍x‍i‍z‍h‍o‍u‍c‍h‍u‍z‍h‍u‍a‍n‍g‍w‍a‍n‍g
+info:Superior Twin Room with River View
+info:Stayed in June 2022
+info:Family
+info:16 Reviews
+rating:4.7
+posted:Posted June 12, 2022
+msg:地理位置優越，自駕停車比較方便，本地最豪華的酒店之一，周邊景色不錯，早上的自助餐也挺好的！唯一感覺有點不滿意的就是設施有點舊了，畢竟是老酒店了！好多年沒裝修了！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:4
+posted:Posted October 1, 2023
+msg:設施有些舊，房間隔音一般
+----------------------------------------
+name:호‍랑‍이‍기‍운‍이‍펄‍펄
+info:Superior Twin Room
+info:Stayed in July 2022
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted July 3, 2022
+msg:번시 수중 동굴을 가기 위해 묵었어요. 강 옆에 위치해서 전망이 좋고 바로 앞에 공원이 있어 좋아요. 직원들이 친절해요.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in May 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 12, 2023
+msg:衞生清潔，環境優雅，服務貼心，非常滿意！
+----------------------------------------
+name:X‍i‍n‍y‍i‍r‍a‍n‍0‍2
+info:Superior Twin Room with River View
+info:Stayed in March 2023
+info:Couples
+info:10 Reviews
+rating:5
+posted:Posted March 16, 2023
+msg:非常好的酒店！早餐非常好吃！因為好住了兩晚。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in January 2023
+info:Booked for others
+info:2 Reviews
+rating:5
+posted:Posted January 27, 2023
+msg:衞生：好
+環境：好
+服務：好
+
+設施：好
+性價比高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:1
+posted:Posted November 18, 2023
+msg:小毛小任服務很好
+----------------------------------------
+name:�‍�‍s‍h‍i‍g‍u‍a‍n‍g‍c‍h‍u‍i‍l‍a‍o‍l‍e‍s‍h‍a‍o‍n‍i‍a‍n‍�‍�
+info:Superior King Room with River View
+info:Stayed in January 2024
+info:Business travelers
+info:31 Reviews
+rating:4
+posted:Posted February 17, 2024
+msg:還比較滿意吧
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in January 2024
+info:Family
+info:2 Reviews
+rating:3.5
+posted:Posted April 19, 2024
+msg:設施有點老舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 6, 2023
+msg:不錯。一直很喜歡這裏
+----------------------------------------
+name:M‍e‍n‍g‍h‍o‍n‍g‍y‍i
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:9 Reviews
+rating:3
+posted:Posted August 13, 2023
+msg:有股黴味，門不好開！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in April 2023
+info:Solo travelers
+info:5 Reviews
+rating:4
+posted:Posted June 21, 2023
+msg:沒有以前好了，河景房看下去是房頂
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in August 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted November 22, 2023
+msg:一般般
+衞生：可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in December 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted December 14, 2022
+msg:前台服務熱情，房間環境也不錯！下次再**溪首選！
+----------------------------------------
+name:T‍i‍e‍h‍a‍n‍h‍a‍n‍d‍e‍l‍v‍c‍h‍e‍n‍g
+info:Superior King Room
+info:Stayed in October 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted October 13, 2022
+msg:酒店老舊了建議更新一下！前台服務態度很好！衞生乾淨，風景優美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in November 2022
+info:Business travelers
+info:8 Reviews
+rating:3
+posted:Posted November 26, 2022
+msg:沒有以前好房間。枕頭沒有什麼可選性，睡着很不舒服。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 28, 2023
+msg:環境乾淨整潔 房間寬敞明亮 景色不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 19, 2023
+msg:乾淨衞生，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in January 2023
+info:Solo travelers
+info:8 Reviews
+rating:5
+posted:Posted January 31, 2023
+msg:河景房不錯的，衞生好，服務也不錯的。
+----------------------------------------
+name:J‍e‍f‍f‍e‍r‍y‍_‍x‍i‍e
+info:Deluxe King Room with River View
+info:Stayed in October 2023
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted October 6, 2023
+msg:特別好！點贊！
+----------------------------------------
+name:L‍o‍n‍g‍f‍u‍d‍a‍o‍r‍e‍n
+info:Superior King Room
+info:Stayed in July 2022
+info:Business travelers
+info:60 Reviews
+rating:3
+posted:Posted July 19, 2022
+msg:服務還可以吧。設備比較老舊，價格也不怎麼實惠。停車還算有地方停。很一般吧。
+----------------------------------------
+name:1‍1‍8‍6‍1‍3‍2‍6‍3‍8
+info:Deluxe Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted March 29, 2023
+msg:設施：房間超大
+
+環境：停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in November 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted January 27, 2023
+msg:設施：不錯
+衞生：不錯
+環境：不錯
+服務：不錯
+----------------------------------------
+name:H‍a‍n‍b‍a‍o‍h‍u‍i
+info:Superior King Room with River View
+info:Stayed in September 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted September 30, 2021
+msg:酒店樓下 還有商業配套
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in November 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted November 3, 2023
+msg:很不錯的環境
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in April 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted June 18, 2023
+msg:房間乾淨，服務態度很好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in December 2022
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted December 14, 2022
+msg:酒店很好，房間乾淨，前台服務態度特別好。
+----------------------------------------
+name:k‍a‍n‍g‍f‍u‍7‍7‍0‍8
+info:Superior King Room with River View
+info:Stayed in May 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted May 20, 2023
+msg:本溪最好的酒店，沒的説
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in December 2023
+info:Business travelers
+info:4 Reviews
+rating:4
+posted:Posted December 24, 2023
+msg:一樣沒特點
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in October 2021
+info:Business travelers
+info:15 Reviews
+rating:3
+posted:Posted October 4, 2021
+msg:十一假期來水洞。一進屋洗手池的水放出來是黃色的放了半小時好了。可能房間很久沒人住的原因。床品目測乾淨的但是真的潮。被子也重。一晚上穿自己外穿的長褲長袖睡得。酒店玻璃也不透亮乾淨。本來找的當地唯一五星。説實話七百多的品質特別差。還不如如家舒適。一晚沒怎麼睡。不過該誇的要誇前台服務超好。樓下停車方便。比較熱鬧很多舉行婚禮的。還有當地八大件家菜挺好吃的。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in November 2021
+info:Other
+info:1 Review
+rating:3
+posted:Posted November 28, 2021
+msg:我衹想説一個五星酒店的衞生是否可以做到位，鏡子都是污點，有的櫃門也關不上，小的桌子上全是灰，讓人心裏有那麼點不舒服，除了服務態度都很好，也沒別的可以算上五星了！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in May 2023
+info:Friends
+info:1 Review
+rating:2.2
+posted:Posted May 3, 2023
+msg:前台服務很差，希望改進
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 10, 2023
+msg:前台服務很好，房間有點舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted October 4, 2023
+msg:不錯。。。。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in September 2023
+info:Booked for others
+info:7 Reviews
+rating:5
+posted:Posted November 29, 2023
+msg:各方面都不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in October 2023
+info:Business travelers
+info:20 Reviews
+rating:1
+posted:Posted October 25, 2023
+msg:總體不太好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2023
+info:Friends
+info:6 Reviews
+rating:3
+posted:Posted October 6, 2023
+msg:酒店真的太舊了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room with River View
+info:Stayed in April 2023
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted June 8, 2023
+msg:房間寬敞，服務不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted June 7, 2023
+msg:非常滿意，入住首選
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:84 Reviews
+rating:3.7
+posted:Posted October 1, 2022
+msg:最不滿意的就是服務，無任何五星級酒店體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in July 2021
+info:Business travelers
+info:2 Reviews
+rating:2.5
+posted:Posted July 24, 2021
+msg:富虹酒店我已經不是第一次入住了，但每一次都有不愉快的事發生，起先我還選擇向酒店管理人員投訴可再次入住還是原樣根本沒有改變，這次更是差到極點所以我決定發表點評讓更多人看看自己選擇一下要不要入住這酒店，我們剛到酒店詢問前台哪有車位可以停車是否有保安管理，結果得到的答案是沒有管理隨便停，可問題是廣場上停滿了車根本無車位我想問一下把車停在酒店門口堵着門可以嗎？這酒店也不算小了管理那麼混亂不可思議！進房間暫且不説所有設施已經陳舊時間長了這也屬正常，衹是讓我搞不懂的是房間的餐巾紙為何放那麼一點點？用完問客房部阿姨要結果讓我大跌眼鏡，一包餐巾紙衹抽了一點點給我，我説能不能多給點回答是NO，我問為什麼她説是酒店規定的，這讓我百思不解我因為工作原因到處入住酒店從來沒有碰到過這種情況，請問一下貴酒店是你們的成本重要還是客人的需求重要？其二，第一天收拾房間我們用過的咖啡杯紅茶杯都沒有洗，更氣人的是拖鞋也沒有新的更換，在這我想告訴那些準備入住的客人這問題每次入住每次都投訴，可到現在還沒有改變！因為我們回來的晚所以衹能穿前天的拖鞋，等第二天又沒新拖鞋換實在忍無可忍了找他們要才給了拖鞋，我一共住了三晚拖鞋衹有兩雙除了頭一天房間預先配置的後一雙還是我去要的，在這我非常疑惑這星極酒店怎麼評來的？無論從管理到服務都是我所住的酒店中最差的一個！哪怕是小旅館都比這好！對待客人的提議和投訴從未真正的去解決和改善請問貴酒店有什麼資格被評為星級酒店！我寫這些希望入住的客人能慎重考慮，更希望這酒店該好好的整頓一下了，別以為本溪衹有你這一家酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in January 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 30, 2023
+msg:給前台個好評，服務超級棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room with River View
+info:Stayed in May 2023
+info:Friends
+info:16 Reviews
+rating:5
+posted:Posted June 23, 2023
+msg:位置好，環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in January 2023
+info:Friends
+info:19 Reviews
+rating:5
+posted:Posted January 26, 2023
+msg:不錯，服務到位，環境優雅
+----------------------------------------
+name:L‍Y‍U‍h‍a‍n‍y‍i‍n‍g
+info:Superior Twin Room
+info:Stayed in June 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 16, 2023
+msg:環境服務都不錯
+----------------------------------------
+name:G‍a‍n‍g‍g‍e
+info:Superior King Room with River View
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:3.7
+posted:Posted February 10, 2023
+msg:在那個級別城市還可以吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted June 14, 2021
+msg:房間寬敞，服務熱情。
+----------------------------------------
+name:f‍a‍t‍t‍1‍2‍3‍4
+info:Superior King Room with River View
+info:Stayed in October 2022
+info:Solo travelers
+info:127 Reviews
+rating:5
+posted:Posted October 28, 2022
+msg:地理位置優越，服務員熱情，價格合理
+----------------------------------------
+name:P‍i‍n‍g‍g‍u‍o‍q‍i‍a‍o‍k‍e‍l‍i‍t‍a‍n‍g
+info:Superior King Room
+info:Stayed in August 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted October 14, 2023
+msg:服務很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in July 2022
+info:Business travelers
+info:3 Reviews
+rating:1.5
+posted:Posted August 1, 2022
+msg:窗户很臟，衞生間放冷水是黃色的，被窩很潮濕。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room with River View
+info:Stayed in March 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted March 24, 2023
+msg:總體來説還可以吧！
+----------------------------------------
+name:y‍u‍a‍n‍y‍u‍a‍n‍d‍i‍a‍n‍a
+info:Superior Twin Room
+info:Stayed in March 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted May 21, 2023
+msg:本溪比較好的飯店了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:3
+posted:Posted February 25, 2023
+msg:有線電視竟然看不了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive King Room with River View
+info:Stayed in May 2023
+info:Friends
+info:2 Reviews
+rating:3.5
+posted:Posted May 3, 2023
+msg:前台服務血差！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2022
+info:Friends
+info:103 Reviews
+rating:3
+posted:Posted October 12, 2022
+msg:酒店很老 ，衞生也一般
+以後不會再去
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in November 2022
+info:Business travelers
+info:48 Reviews
+rating:3
+posted:Posted December 6, 2022
+msg:房間乾淨，前台服務態度一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in February 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 21, 2023
+msg:服務非常好。有禮貌
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room with River View
+info:Stayed in April 2023
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted May 16, 2023
+msg:服務熱情環境好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in January 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted March 26, 2023
+msg:環境衞生，安靜舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in February 2023
+info:Friends
+info:12 Reviews
+rating:5
+posted:Posted February 26, 2023
+msg:環境好，衞生好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in June 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted June 24, 2023
+msg:各方面不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room with River View
+info:Stayed in January 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 26, 2023
+msg:環境優美性價比超高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:4.7
+posted:Posted October 17, 2022
+msg:非常滿意，價格合理，環境好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room with River View
+info:Stayed in April 2023
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted April 22, 2023
+msg:臨河景色不錯
+----------------------------------------
+name:Z‍h‍u‍b‍u‍n‍i‍a‍n‍j‍i‍u
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:100 Reviews
+rating:4.2
+posted:Posted October 9, 2021
+msg:應該算市內最好的酒店了，不是第一次入住了，我一直認為老牌酒店除了設施老一點其他的應該不錯，此次入住接待人員服務比較讓人失望，其他方面中規中矩。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room with River View
+info:Stayed in April 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted June 18, 2023
+msg:非常好，滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 26, 2023
+msg:酒店服務很人性化
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in February 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 13, 2023
+msg:環境，服務很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in July 2022
+info:Business travelers
+info:31 Reviews
+rating:1.2
+posted:Posted September 1, 2022
+msg:環境差 住了兩晚換了無數個房間
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in October 2022
+info:Other
+info:5 Reviews
+rating:1
+posted:Posted October 3, 2022
+msg:非常差，同等價位選別家
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in April 2023
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted April 17, 2023
+msg:乾淨，不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in August 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted January 11, 2022
+msg:出差來本溪，老牌酒店，還不錯吧。設施齊全，雖然老了點，但是對得起價格。交通方便，早餐還行。服務也不錯。
+----------------------------------------
+name:H‍u‍a‍n‍z‍i‍d‍i‍a‍n‍a
+info:Deluxe Double Room
+info:Stayed in July 2022
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted October 16, 2022
+msg:本溪最好的酒店，居住舒適。
+----------------------------------------
+name:F‍a‍n‍y‍o‍u‍l‍i
+info:Superior King Room
+info:Stayed in June 2021
+info:Business travelers
+info:50 Reviews
+rating:4
+posted:Posted July 10, 2021
+msg:可以可以可以可以可以可以可以可以可以可以可以可以可以可以可以可以可以可以可以可以可以可以可以可以可以可以
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Twin Room with River View
+info:Stayed in October 2021
+info:Family
+info:22 Reviews
+rating:1.7
+posted:Posted October 4, 2021
+msg:作為本溪最好的酒店之一，真的太舊了，房間一股臭味……服務員也是一臉冷漠。
+----------------------------------------
+name:E‍n‍d‍e‍y‍u‍w‍e‍n‍t‍a‍i
+info:Superior Twin Room
+info:Stayed in August 2022
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted August 11, 2022
+msg:性價比很高，就是床品潮
+----------------------------------------
+name:X‍i‍a‍o‍w‍u‍x‍i‍a‍o‍w‍u
+info:Superior King Room
+info:Stayed in August 2022
+info:Business travelers
+info:19 Reviews
+rating:4
+posted:Posted August 28, 2022
+msg:空間比較大，有點舊了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in December 2021
+info:Business travelers
+info:1 Review
+rating:4.7
+posted:Posted December 14, 2021
+msg:🚗 交通：好
+🧹衞生：好
+🍃環境：好
+太子河夜色很美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in September 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 2, 2021
+msg:酒店前台禮賓服務特別好，幫忙行李送房間，前台熱情安排喜歡的房間，推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in February 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted April 9, 2023
+msg:非常滿意。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in November 2022
+info:Booked for others
+info:9 Reviews
+rating:5
+posted:Posted November 20, 2022
+msg:非常滿意 很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in August 2022
+info:Couples
+info:24 Reviews
+rating:4
+posted:Posted August 17, 2022
+msg:設施可以，服務一般。
+----------------------------------------
+name:d‍o‍n‍g‍8‍8‍8‍7
+info:Deluxe King Room with River View
+info:Stayed in February 2023
+info:Booked for others
+info:4 Reviews
+rating:5
+posted:Posted February 22, 2023
+msg:朋友住的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in June 2021
+info:Friends
+info:4 Reviews
+rating:4.7
+posted:Posted June 13, 2021
+msg:整體感覺還是挺好的，離特色吃的羊湯地方也不遠，裝修稍微有些老，6月13號早晨的前台服務態度很好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in January 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 30, 2023
+msg:非常的好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in March 2022
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted March 5, 2022
+msg:這個酒店保持的還可以，相對比較正規
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in January 2022
+info:Booked for others
+info:2 Reviews
+rating:5
+posted:Posted January 17, 2022
+msg:前台服務非常熱情，尤其是小王和小毛非常好
+----------------------------------------
+name:D‍L‍S‍7‍8‍9
+info:Deluxe Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted October 16, 2022
+msg:非常棒的酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in January 2022
+info:Friends
+info:14 Reviews
+rating:5
+posted:Posted January 25, 2022
+msg:前台接待負責開房間的小姐姐服務超級好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in October 2021
+info:Other
+info:1 Review
+rating:1.7
+posted:Posted October 16, 2021
+msg:孩子枕頭忘在房間，房務給扔了。告訴沒看見。呵呵了。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Twin Room with River View
+info:Stayed in May 2022
+info:Business travelers
+info:7 Reviews
+rating:2.2
+posted:Posted May 19, 2022
+msg:都沒有四星賓館的感覺
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in December 2021
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted December 26, 2021
+msg:滿意，環境較好，就是這個季節有點冷
+----------------------------------------
+name:l‍l‍g‍z‍z‍b
+info:Deluxe Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:73 Reviews
+rating:5
+posted:Posted October 4, 2022
+msg:房間大 老舊
+----------------------------------------
+name:R‍e‍n‍a‍i‍h‍e‍p‍i‍n‍g‍�‍�‍�‍�
+info:Superior King Room with River View
+info:Stayed in June 2022
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted June 7, 2022
+msg:**溪必住的酒店
+----------------------------------------
+name:T‍i‍a‍n‍j‍i‍n‍z‍h‍i‍z‍u‍n‍b‍a‍o
+info:Superior King Room
+info:Stayed in December 2021
+info:Business travelers
+info:54 Reviews
+rating:4
+posted:Posted December 25, 2021
+msg:當地最好的了！也就這個意思了！
+----------------------------------------
+name:h‍e‍y‍1‍2‍2‍3
+info:Deluxe Double Room
+info:Stayed in September 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 16, 2021
+msg:酒店前台荊小姐服務熱情，又問必答，推薦入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in October 2021
+info:Couples
+info:45 Reviews
+rating:5
+posted:Posted October 16, 2021
+msg:綜合條件俱佳，服務到位，印象非常好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in July 2021
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted July 14, 2021
+msg:前台很熱情，房間沒打掃好，還給免費升級了一個河景房
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in March 2022
+info:Business travelers
+info:45 Reviews
+rating:5
+posted:Posted May 14, 2022
+msg:交通便利  環境舒適
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in January 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 2, 2022
+msg:很不錯的商務旅居酒店🏨
+----------------------------------------
+name:G‍u‍s‍h‍e‍n‍g
+info:Superior Twin Room
+info:Stayed in August 2022
+info:Business travelers
+info:36 Reviews
+rating:4
+posted:Posted November 9, 2022
+msg:設施有點舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in February 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 14, 2022
+msg:前台小姐姐服務很好。
+----------------------------------------
+name:D‍o‍n‍g‍j‍i‍n‍g‍x‍i‍a‍o‍d‍i
+info:Superior Twin Room
+info:Stayed in October 2021
+info:Friends
+info:4 Reviews
+rating:2
+posted:Posted October 5, 2021
+msg:酒店設施太老，服務人員態度很好。
+----------------------------------------
+name:D‍o‍n‍g‍y‍e‍d‍o‍n‍g‍g‍e‍n‍h‍e‍b‍a‍b‍a
+info:Deluxe Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted September 16, 2022
+msg:值得入住的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in July 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted July 21, 2022
+msg:房間舒適.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room with River View
+info:Stayed in July 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted July 18, 2022
+msg:很乾凈很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Solo travelers
+info:1 Review
+rating:3
+posted:Posted October 24, 2021
+msg:房子足夠大，就是設施太陳舊
+----------------------------------------
+name:Y‍i‍x‍i
+info:Superior King Room
+info:Stayed in June 2021
+info:Family
+info:26 Reviews
+rating:5
+posted:Posted June 24, 2021
+msg:早餐 菜品和餐廳的服務特別好 下次還會選擇
+----------------------------------------
+name:W‍u‍d‍i‍d‍a‍z‍e‍g‍e
+info:Deluxe King Room with River View
+info:Stayed in June 2021
+info:Couples
+info:2 Reviews
+rating:1
+posted:Posted September 13, 2021
+msg:凌晨1點有其他房間的客人敲門，也是醉了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted September 20, 2021
+msg:【江河景房】房間寬敞 朝向不錯
+----------------------------------------
+name:L‍i‍a‍o‍y‍e‍b‍i‍c‍h‍e‍n‍g
+info:Superior Twin Room
+info:Stayed in July 2021
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted August 2, 2021
+msg:服務到位，早餐種類很多，推薦！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Solo travelers
+info:5 Reviews
+rating:4
+posted:Posted October 28, 2021
+msg:在本溪地區還算比較好的酒店了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room
+info:Stayed in June 2021
+info:Other
+info:8 Reviews
+rating:5
+posted:Posted July 5, 2021
+msg:游泳館和早餐不錯！價格便宜！衞生好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted October 11, 2021
+msg:住的舒服，訂很多次了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in July 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted July 21, 2021
+msg:酒店前台小張，小關服務很好！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior King Room with River View
+info:Stayed in August 2021
+info:Other
+info:1 Review
+rating:3.2
+posted:Posted September 3, 2021
+msg:房間空氣不好，被褥有味
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in December 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted February 3, 2022
+msg:很乾凈很好不錯
+----------------------------------------
+name:L‍i‍n‍g‍e
+info:Superior Twin Room with River View
+info:Stayed in February 2022
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted February 10, 2022
+msg:不錯不錯🤔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in August 2021
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted August 24, 2021
+msg:服務很好設施有點舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room with River View
+info:Stayed in October 2021
+info:Friends
+info:22 Reviews
+rating:5
+posted:Posted November 1, 2021
+msg:服務好，環境好
+----------------------------------------
+name:t‍e‍d‍y‍n‍i‍u
+info:Superior King Room
+info:Stayed in October 2021
+info:Other
+info:2 Reviews
+rating:3
+posted:Posted October 23, 2021
+msg:屋裡有點味道
+----------------------------------------
+name:J‍p‍z‍x‍f‍h
+info:Superior Twin Room with River View
+info:Stayed in October 2021
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted October 19, 2021
+msg:酒店位置不錯
+----------------------------------------
+name:H‍u‍i‍j‍i‍u
+info:Executive King Room with River View
+info:Stayed in June 2021
+info:Couples
+info:1 Review
+rating:4
+posted:Posted June 13, 2021
+msg:停車場管理急需改進
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin Room with River View
+info:Stayed in July 2021
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 13, 2021
+msg:每次都要住這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2021
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted July 24, 2021
+msg:挺好的挺好
+----------------------------------------

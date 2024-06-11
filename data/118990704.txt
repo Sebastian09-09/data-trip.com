@@ -1,0 +1,63 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Couples
+info:1 Review
+rating:4.7
+posted:Posted May 3, 2024
+msg:The environment is very good and the breakfast buffet is rich! I would like to make a suggestion, can you provide some emergency medicines such as band-aids and iodine? When I was staying at the hotel, I broke my hand and contacted the front desk, but there was no medicine. It was very inconvenient because there were no pharmacies nearby. I hope these details can be considered.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 26, 2024
+msg:The environment and service are good and the experience is great. I will try the suite next time
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in May 2024
+info:Friends
+info:5 Reviews
+rating:4.8
+posted:Posted May 19, 2024
+msg:The room is quite new. I would like to praise the service of Miss Xiang at the front desk.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted June 9, 2024
+msg:衞生：好
+環境：餐廳可以
+服務：都不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted May 14, 2024
+msg:酒店很新，服務周到，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+rating:5
+posted:Posted May 13, 2024
+msg:衞生乾淨滿意，以後再來
+----------------------------------------
+name:Z‍h‍a‍o‍y‍u‍n‍☁‍️
+info:Deluxe 2-bed Room
+info:Stayed in April 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted April 29, 2024
+msg:房間很大 很乾凈
+----------------------------------------

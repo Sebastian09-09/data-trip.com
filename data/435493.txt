@@ -1,0 +1,3350 @@
+name:D‍a‍d‍d‍y‍ ‍M‍e‍l‍o‍n
+info:Superior 2-bed Room
+info:Stayed in May 2023
+info:Business travelers
+info:8 Reviews
+rating:3.5
+posted:Posted May 25, 2023
+msg:Reasonably priced hotel for its location and for work related trips
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in August 2022
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted August 9, 2022
+msg:Amazing hotel
+People so kind
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in May 2024
+info:Family
+info:4 Reviews
+rating:1
+posted:Posted May 3, 2024
+msg:The sanitary conditions are poor, and there is obvious dust in the corners of the room. The drinks in the refrigerator are actually charged, and there is no prompt, and the automatic deduction has not been confirmed. It is a fraud! It's too low-level
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in April 2024
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted May 13, 2024
+msg:This hotel is very cost-effective when I came to participate in the Zhoushan cycling competition. The room is clean and tidy, the sound insulation is also good, and the hotel service staff is also very enthusiastic. I will choose this hotel next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted April 13, 2024
+msg:The front desk service is warm and thoughtful, the rooms are clean and upscale, especially the breakfast has a lot of varieties, and the lobby is bright and grand. I am very, very satisfied!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted April 12, 2024
+msg:The hotel is very grand, the lobby is very grand, the space is large, and it feels very good.
+The room is clean and hygienic, and it is quite comfortable to sleep. In addition, there is also breakfast provided. The hotel breakfast is very good and rich, and I ate it to death.
+In short, it is a good review
+----------------------------------------
+name:L‍i‍f‍e‍i‍d‍e‍j‍i‍u‍c‍a‍i‍i‍n‍g
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted April 12, 2024
+msg:The buffets in the morning and evening are very rich and worth experiencing. Extra points, like 👍
+----------------------------------------
+name:K‍a‍l‍a‍s‍h‍e‍n‍n‍i‍k‍e‍f‍u‍A‍K
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:74 Reviews
+rating:5
+posted:Posted April 2, 2024
+msg:The room is comfortable and the location is good. I basically stay here every time I go on a business trip. It is very clean. The front desk service attitude is very good. The breakfast is also very good. In short, I am very satisfied
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted March 23, 2024
+msg:The experience was good. When checking in, the front desk clerk was very friendly and gave a good introduction. The room faces south, with plenty of sunshine and a nice view. The hotel restaurant has been newly renovated with a simple and elegant style, suitable for gatherings with friends and family. The hotel has a superior geographical location, and there are many squares and parks around it, which is very convenient for travel.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in March 2024
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted March 27, 2024
+msg:I forgot to comment. The transportation is convenient, the room is clean, the waiters are very nice, any problems are solved in time, but the toiletries are hidden in a hidden place, I didn't know where they were until I asked. I will choose to stay here next time, the money is worth it
+----------------------------------------
+name:A‍l‍a‍n‍s‍u‍n
+info:Superior 2-bed Room
+info:Stayed in March 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted March 7, 2024
+msg:The room was bigger than expected, and the sunlight coming in was very comfortable. The hotel staff was also very nice and met all our requests. It was a great stay for our family of three!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted March 4, 2024
+msg:1. Room. The room is very large and spacious, with a reasonable layout and complete facilities.
+2. Hygiene. The room is very clean and gives people a sense of security.
+3. Environment. The hotel is decorated in a high-end manner and the lobby is very magnificent.
+4. Service. The service is very good. Welcome fruits will be prepared and children's slippers will be sent up. Their children's toothbrushes are real children's toothbrushes, which is very good. The waiter is also very polite.
+5. Breakfast. I really like the buffet breakfast here. It has a complete range of dishes and tastes very good. It's just that children over 1.1m will be charged, but the price is also cost-effective, half price 28.
+In short, the cost-effectiveness is very high. The locals' introduction is indeed correct. I will stay here next time I come!
+----------------------------------------
+name:Y‍i‍r‍e‍n‍w‍e‍i‍j‍i‍n‍g‍A
+info:Superior 2-bed Room
+info:Stayed in February 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted April 8, 2024
+msg:The room is clean and tidy and the stay is very comfortable. The lobby is bright and gorgeous as soon as you enter. The facilities are also very complete. The gym and swimming pool are free to use. The price is very cost-effective
+----------------------------------------
+name:S‍h‍u‍l‍i‍n‍q‍u‍c‍h‍a‍h‍a‍n‍t‍i‍e‍m‍u‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Family
+info:31 Reviews
+rating:5
+posted:Posted February 13, 2024
+msg:The hotel is in a great location! Very convenient, complete facilities, clean and hygienic, good environment, and great service attitude!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:Great value for money
+----------------------------------------
+name:B‍u‍h‍u‍i‍y‍o‍u‍y‍o‍n‍g‍d‍e‍w‍a‍n‍g‍f‍e‍i
+info:Superior Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted December 30, 2023
+msg:The location is excellent, there are many shopping malls and restaurants around, it is good to go shopping. The room is large, clean and sanitary, the service is thoughtful, the big bed is comfortable to sleep, and parking is convenient. In short, it is good
+----------------------------------------
+name:B‍a‍n‍g‍n‍a‍n‍v‍g‍o‍n‍g
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Other
+info:31 Reviews
+rating:5
+posted:Posted April 11, 2024
+msg:Very good and comfortable
+----------------------------------------
+name:j‍a‍n‍n‍e‍y‍k‍i‍m
+info:Guestroom (2 beds)
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted May 4, 2024
+msg:The hotel is quite big, but the service is not good, not enthusiastic at all. I suggest learning from foreign hotel groups. The TV in the room cannot be adjusted. I am too lazy to give feedback. I stayed here during the May Day holiday for the price-performance ratio. The service is okay.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 14, 2024
+msg:The hotel environment and hygiene are very good, and it is convenient for travel. I chose to stay in this hotel because it is close to my relatives' home. I booked one night at first, and then renewed it for 3 nights after seeing the room facilities and hygiene. I would choose such a hotel for business trips, family and friends, and I feel at ease staying there.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in September 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted September 6, 2023
+msg:I will come to this hotel again next time. The front desk clerk was so enthusiastic and told us all kinds of precautions. We have children who are annoying and ask for this and that, but the room attendants always deliver them with a good attitude. It gives people a feeling of home!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:4.7
+posted:Posted May 3, 2024
+msg:The room is high up, and the night view from the upper floor is pretty good at night. The location is also quite convenient. The starting price of a taxi is to the business district. The front desk service is quite enthusiastic and smiling. The check-in speed is also very fast. However, a deposit is required on site. The hotel has been renovated for a long time, so the facilities are only average.
+----------------------------------------
+name:M‍o‍h‍u‍d‍e‍h‍u‍a‍s‍h‍u‍o‍h‍u‍i‍l‍a‍i
+info:Superior Queen Room
+info:Stayed in July 2023
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted July 20, 2023
+msg:The hotel has a good location, convenient parking, and a supermarket nearby. My friend booked here. The waiter was very enthusiastic, handled the problem very promptly, and the sanitation was very clean. The hotel environment was good, the room supplies were complete, and the towels and quilts were also very clean. I felt very safe living here.
+I took my friend to eat a buffet by the way. The price-performance ratio was very high, and the dishes were also good. I don’t know when to eat the best choice~
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in September 2022
+info:Family
+info:27 Reviews
+rating:5
+posted:Posted September 25, 2022
+msg:The Fortune Hotel has stayed several times, and the price is very high.
+It is also very convenient to travel at the door.
+Opposite is Intime Depar**ent Store, it is very convenient to take a taxi
+Nearby there are Gaojiazhuang and swimming crabs.
+The exterior of the hotel is painted in Xinzhong
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in July 2022
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted July 23, 2022
+msg:Hotel parking is convenient, the front desk service is good, the room is big, but unfortunately there is only one bathroom. The breakfast is rich in variety. On the side of the hotel is Yintai, behind is Seafood City, there is a lot of food, and there is a large supermarket. The accounting and testing point is nearby, which is convenient!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in June 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted July 1, 2021
+msg:Always like to stay at this hotel, great location, easy parking. There are many shopping malls around the hotel, which can be reached on foot, so there is no need to consider eating and shopping. The breakfast was varied and the rooms were clean and tidy. The front desk staff is efficient, check-in and check-out is neat, five-star praise, recommended
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted June 3, 2024
+msg:環境挺好的，每日還送水果🍊🍌，還有舟山的特產魷魚絲，旁邊就是商場，出行也比較方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2024
+info:Business travelers
+info:32 Reviews
+rating:4.7
+posted:Posted June 4, 2024
+msg:房間寬敞、舒適、乾淨，設施有點成舊，總體感覺不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in March 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted March 7, 2024
+msg:房間很乾凈明亮，住在也很舒服，衞生間也很乾凈還有大浴缸，接待入住姓陸的小姑娘服務很周到熱情，酒店也是這邊蠻有名的酒店值得入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in May 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted June 5, 2024
+msg:設施：很好
+衞生：很好
+環境：很好
+服務：很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 7, 2023
+msg:環境：很整潔，進大堂就感覺挺高檔的，前台小姐姐服務態度特別好，熱情
+設施：很好找，地理位置佳，周邊好幾個商場，吃的，孩子玩的真的好齊全！
+----------------------------------------
+name:T‍i‍a‍n‍w‍a‍n‍g‍x‍i‍n‍g‍j‍i‍e‍j‍i‍e
+info:Executive Queen Room
+info:Stayed in May 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted May 13, 2024
+msg:我定的行政樓層，我覺得很不錯哎！之前有看到不好的評論，但我入住4天，覺得這是家在本地較受歡迎的酒店。很低調，外面的朋友不太知道。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted September 1, 2023
+msg:在這個旅遊旺季還能用500住到財富酒店太划算了～進門就感覺房間挺大的很舒服～浴室很乾凈，還帶浴缸🛁泡一下能解除一天疲勞～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted August 30, 2023
+msg:酒店環境很好，房間很大，非常乾淨，床墊枕頭都很舒服，這次入住很滿足，比較了周圍同級別的酒店，這家酒店價格最實惠。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in September 2023
+info:Family
+info:29 Reviews
+rating:5
+posted:Posted September 14, 2023
+msg:交通出行、購物餐飲特別方便，市政府對面，旁邊500米兩個商場🏬。酒店乾淨整潔，早餐豐富多彩。
+----------------------------------------
+name:Z‍h‍o‍u‍j‍i‍e‍z‍h‍i
+info:Superior 2-bed Room
+info:Stayed in May 2024
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:預訂時擔心小地方酒店服務，硬件跟不上。入住時完全出乎預料。城市完全是新建的，衞生超過很多大城市。人少，安靜，多住了一天。
+----------------------------------------
+name:K‍e‍d‍a‍d‍e‍x‍i‍a‍o‍k‍e‍a‍i
+info:Executive Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:7 Reviews
+rating:2
+posted:Posted December 21, 2023
+msg:從來沒有碰到過入住的酒店，早上7點半開始施工，鑽牆的聲音震耳欲聾，綿延不絕。可是在辦入住的時候從未告知此事，也未諮詢客人是否能接受樓上第二天一早會進行施工。打電話給前台，衹是説在桌上有一張告知單，僅此而已，也沒有準備耳塞等物品。試問誰會去留意桌上的A4紙啊，而且晚上9點左右辦的入住，洗漱完就休息了。退房的時候也沒有任何的道歉。600多的價格真的真的應該去住喜來登。
+
+另外攜程下的訂單且付款，到酒店之後説會在平台上取消，線下重新付款也不知道是什麼操作。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in September 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted September 18, 2023
+msg:酒店大堂寬敞大氣，房間是景觀的，大玻璃窗，還不錯，整體乾淨舒適
+----------------------------------------
+name:カ‍力
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 3, 2024
+msg:綺麗でした。部屋サイズも大きかった。
+朝ごはん🥞最高でした。
+まだ近くに行く時、ここに👇予約します。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in September 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted September 6, 2023
+msg:大堂很氣派 很豪華
+客房很乾凈 入住辦理很快
+服務員很熱情 超級好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in September 2023
+info:Family
+info:6 Reviews
+rating:4.7
+posted:Posted October 1, 2023
+msg:環境、房間等體驗都不錯。大堂經理比較冷漠
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in May 2023
+info:Family
+info:1 Review
+rating:4
+posted:Posted May 15, 2023
+msg:酒店服務參差不齊，在大堂裏走來走去的服務員相對年長，很有服務意識，態度親切。但是前台的小姑娘説話語氣生硬，全程板臉。3點到店，被告知房間衞生還要檢查一下，打電話催客房很不耐煩的語氣，對待客人沒有任何禮貌用語，直接就説衞生搞好啦，還要檢查一下，你再等一會，很無語，我能接受等一下，但不能接受她説話的語氣。訂的家庭房，房間很大，設施老舊，小朋友不小心按了浴缸一個按鈕，沖浪一開，很多臟東西沖出來了，太噁心。馬桶坐着特別不舒服，建議要換換了。亮點是早餐，豐富且美味。最大的印象是，酒店年長一點的工作人員態度都很好，年輕的大多數服務態度不佳。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in July 2023
+info:Business travelers
+info:70 Reviews
+rating:5
+posted:Posted August 9, 2023
+msg:確實酒店有點老了，可以適當裝修一下。其他各方面都不錯。兩點退房這個原則可以適當放寬，畢竟舟山的航班經常延誤。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in October 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted October 12, 2023
+msg:環境不錯，新城中心
+----------------------------------------
+name:Z‍h‍a‍o‍z‍i‍l‍o‍n‍g‍0‍0‍9
+info:Deluxe 2-bed Room
+info:Stayed in May 2023
+info:Family
+info:57 Reviews
+rating:4.5
+posted:Posted May 4, 2023
+msg:酒店總體還是很氣派的，周圍環境很很不錯，到商業區步行即可。缺點是比較老舊了，當年設計床頭的電源不好看，現在手機充電第一位，其實搬開牀頭櫃是有的，但很容易忽視。我們舟山的服務意識還是落後了，國際酒店管理公司的酒店默認都是兩張房卡，這次有長者是兩個人的雙床房也就給一張房卡。我提出了還説你需要我可以給你多做一張，這個就是服務意識的缺乏，兩個一張房卡就必須是一起下樓吃早飯一起外出？更何況房間還是用房卡取電的，請問兩個入住都必須連體嬰兒嗎？早上退房時候那個女服務員就很親切，也知道酒店需要升級了。不然服務還要打低一點。最好要加一句，隔光隔音都不錯，睡的也不錯。👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in December 2023
+info:Family
+info:9 Reviews
+rating:4.2
+posted:Posted January 2, 2024
+msg:房間整體裝修陳舊！早餐很一般！自助餐消費體驗也不好，沒以前菜品豐富，服務還是比較周到還有入住水果，整體感覺相同價位舟山還是有更多性價比更高的酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in July 2023
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted July 20, 2023
+msg:家庭房，房間很大，附近有舟山博物館，出門左拐又凱虹廣場，吃喝都有。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted March 23, 2024
+msg:服務特別好 房間也住的舒服 酒店高檔上檔次 前台大王給我辦的入住 態度非常好 這次的住店非常滿意的.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2023
+info:Couples
+info:22 Reviews
+rating:5
+posted:Posted June 18, 2023
+msg:房間
+衞生：乾淨，早餐豐富，早餐場所配洗手設施真的很人性化！還送了水果，推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in May 2024
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted June 3, 2024
+msg:不錯的，地理位置優越。早餐很好，出行方便，周邊商場也多。如果停車位再多些就更好了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted February 25, 2024
+msg:酒店位置好找.房間安靜.床品舒服！前台小姐姐服務特別仔細.房間好多細節處理特別好.停車也很方便！贊一個！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted June 4, 2024
+msg:房間很大，設施很完備，還有浴缸，酒店還配有泳池可以免費游泳，早餐很豐富，好吃！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in May 2024
+info:Family
+info:12 Reviews
+rating:4.5
+posted:Posted May 6, 2024
+msg:各方面較好，就是燈光偏暗了，還有床頭沒有插座比較不方便，早餐很豐盛，非常好
+----------------------------------------
+name:D‍a‍n‍i‍e‍l‍ ‍Y‍S‍Z
+info:Deluxe Queen Room
+info:Stayed in July 2023
+info:Business travelers
+info:25 Reviews
+rating:2.7
+posted:Posted August 4, 2023
+msg:先説優點，早餐還不錯，健身游泳都挺棒，然後説缺點，這個服務配不上這個房價，辦理入住時候，別人問我的行李在這裏嗎？前台直接説不知道，就沒了……你們是前台，客人問這個問題，你們不知道幫處理嗎？然後我入住後，想要個刮鬍刀，客房服務電話一直打不通，我直接找清潔阿姨要的，然後清潔房間時，又把我的清潔掉了，不知道再放一個？然後，我的車子停在停車場，車門被颳了，居然沒監控，首先就説我們衹有兩個停車管理人員，旁邊的車停的東倒西歪，你們也不管理嗎？讓我報警就沒了😔，這酒店我是以後再也不會住了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:4.2
+posted:Posted June 4, 2024
+msg:房間挺大的，服務也好。酒店偏商務類型，設施有點陳舊。早餐很不錯，點贊。
+----------------------------------------
+name:Y‍a‍n‍g‍z‍o‍n‍g‍x‍i‍a‍n
+info:Superior Queen Room
+info:Stayed in April 2023
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted April 17, 2023
+msg:三屆环舟山骑行活動，都是住這，離会场近。服務好、乾淨、早餐很棒！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in April 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:我很滿意 非常滿意 
+樓下餐廳也非常好吃 海鮮新鮮
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2024
+info:Solo travelers
+info:2 Reviews
+rating:2.2
+posted:Posted June 3, 2024
+msg:房間有蚊子，一晚上沒睡成，和前台反映情況，竟然無動於衷
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:42 Reviews
+rating:5
+posted:Posted January 15, 2024
+msg:來舟山出差，數次都選擇這裏，交通比較方便，離市政府也算近
+酒店的早餐不錯，有個海鮮麪就更好了
+----------------------------------------
+name:N‍i‍m‍e‍n‍w‍a‍n‍d‍a‍n‍l‍e‍e‍r‍e‍n‍m‍e‍n
+info:Family Suite
+info:Stayed in December 2023
+info:Business travelers
+info:23 Reviews
+rating:1
+posted:Posted December 14, 2023
+msg:前台非常蠻橫裝X真的是太能裝了沒見過這麼能裝X的前台，酒店這麼管理離倒閉應該不遠了，體驗最差的酒店前台
+----------------------------------------
+name:J‍i‍a‍y‍u‍a‍n
+info:Superior 2-bed Room
+info:Stayed in May 2023
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted June 13, 2023
+msg:舟山財富酒店的自助晚餐超讚！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 11, 2024
+msg:設施：不錯
+衞生：很乾凈
+環境：很漂亮
+服務：很到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 8, 2023
+msg:服務很好，給我升房，升到行政樓層，還送了歡迎水果。
+客房服務很有特色，收到了機器人送來的礦泉水。
+就是夏天了，游泳池的人實在太多還有對外的游泳班，像下餃子，實在沒法遊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in October 2023
+info:Friends
+info:3 Reviews
+rating:3
+posted:Posted October 4, 2023
+msg:作為五星級酒店，800多的房價屬實太一般了，可能開的時間太久，809室洗臉池都裂了一條大縫，還不更換，以後不會再入住！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in March 2023
+info:Business travelers
+info:2 Reviews
+rating:1
+posted:Posted March 26, 2023
+msg:居然還有之前客人遺留的襪子和瓶子，無比震驚
+----------------------------------------
+name:H‍a‍n‍z‍h‍e
+info:Deluxe 2-bed Room
+info:Stayed in May 2024
+info:Family
+info:30 Reviews
+rating:5
+posted:Posted June 3, 2024
+msg:入住温馨，超乎想象。早餐豐富。
+下次還會再來。
+----------------------------------------
+name:h‍a‍n‍y‍y
+info:Deluxe 2-bed Room
+info:Stayed in January 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted March 12, 2024
+msg:非常好的酒店哦…每次來舟山都是住在這裏，服務、設施，衞生和環境都很棒！
+----------------------------------------
+name:Y‍a‍n‍s‍i‍r‍6‍3‍3
+info:Executive Queen Room
+info:Stayed in October 2022
+info:Business travelers
+info:10 Reviews
+rating:1.5
+posted:Posted October 8, 2022
+msg:這個酒店很糟糕，裝修太老。衞生不好，有潔癖的避開。可笑的是，我定的市景大床房，窗户用報紙給糊上了！！前台服務一般！你們承擔不起這個星，也對不起這個價格。唯獨讓我覺得對得起價格的是早餐可選性比較多。
+----------------------------------------
+name:Y‍e‍t‍i‍n‍g‍h‍a‍o‍d‍e
+info:Deluxe Queen Room
+info:Stayed in January 2023
+info:Friends
+info:4 Reviews
+rating:4
+posted:Posted March 28, 2023
+msg:性價比很高的酒店 早餐種類很多 酒店環境挺好的
+----------------------------------------
+name:S‍h‍e‍n‍j‍i‍n‍g‍z‍h‍i‍s‍h‍i‍t‍o‍u
+info:Superior 2-bed Room
+info:Stayed in May 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:一家四口不覺得擁擠，周邊設施完善方便。很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in May 2024
+info:Family
+info:16 Reviews
+rating:0.8
+posted:Posted May 4, 2024
+msg:早餐亂收費，早餐服務員大媽，服務態度惡劣
+----------------------------------------
+name:b‍r‍y‍a‍n‍t‍y‍a‍n
+info:Deluxe Queen Room
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 13, 2024
+msg:整個房間很大很乾凈，整體服務非常好。很滿意
+----------------------------------------
+name:X‍i‍a‍n‍r‍e‍n‍x‍i‍a‍o‍Q
+info:Guestroom (Double bed)
+info:Stayed in May 2024
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted June 4, 2024
+msg:新裝修的套房不錯，就是裝修味道要散一散
+----------------------------------------
+name:s‍s‍g‍9‍4‍5
+info:Superior 2-bed Room
+info:Stayed in January 2024
+info:Family
+info:20 Reviews
+rating:5
+posted:Posted March 12, 2024
+msg:挺好，樓道里還送水。服務也好，長者不能睡軟床還給鋪硬板
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in July 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted August 22, 2023
+msg:房間衞生乾淨，需要什麼東西機器人會及時的送過來環境住着也很舒服，停車場停車也很方便。酒店提供的早餐品種多。
+----------------------------------------
+name:D‍a‍d‍a‍d‍a‍d‍a‍x‍i‍o‍n‍g
+info:Executive Queen Room
+info:Stayed in May 2023
+info:Couples
+info:85 Reviews
+rating:3.2
+posted:Posted June 5, 2023
+msg:老酒店了，對於其他新開的酒店性價比不錯，其他就一般般了。到商場蠻方便的，去沈家門，景區路程較遠。房間一般，看怎麼安排。早餐一般般，有待改進。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 14, 2024
+msg:設施齊全、衞生整潔、環境優雅、熱情服務。商務入住不錯的選擇。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in November 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted December 29, 2023
+msg:早餐很豐富，環境很好，就是入住當天正好遇上有婚宴，停車場偏小了點。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 7, 2024
+msg:服務優質，位置極佳，是差旅出差的很好選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in January 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted January 25, 2023
+msg:春節臨時想去普陀山燒香，提前兩天才開始看住宿，就看到了財富大酒店，價格比起其他五星酒店便宜很多，房間也很大，馬上就預訂。到了之後工作人員都很好，春節期間的服務也賓至如歸。特別是早餐，比之前來住的時候好吃很多，下次來的話還會住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in June 2023
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted September 9, 2023
+msg:市政府後麪的一家酒店，也是經常住的一家酒店，就在銀泰旁邊，現在附近還有凱虹廣場和寶龍廣場，吃的玩的都非常方便。
+----------------------------------------
+name:W‍o‍x‍i‍a‍n‍g‍n‍i‍z‍h‍i‍d‍a‍o
+info:Superior 2-bed Room
+info:Stayed in February 2024
+info:Business travelers
+info:27 Reviews
+rating:4.5
+posted:Posted May 5, 2024
+msg:服務一般，打了幾個電話讓評價5星，這個有點差。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 6, 2024
+msg:服務態度非常好，細節完美，出行方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 8, 2024
+msg:酒店位置不錯，有電車充電設施，非常方便
+----------------------------------------
+name:y‍y‍l‍8‍5‍1‍1‍0‍3
+info:Deluxe Queen Room
+info:Stayed in July 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted August 26, 2023
+msg:值得入住。周邊很方便。酒店環境也很好！出行比較方便，床品也比較舒服，服務很好，非常值得商務出行選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 4, 2024
+msg:房間整潔舒適，服務員禮貌周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:3 Reviews
+rating:2.7
+posted:Posted October 8, 2023
+msg:設施太舊了
+衞生：一般
+環境：大廳環境好！餐廳好
+客房太舊了
+服務不好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:71 Reviews
+rating:5
+posted:Posted January 20, 2024
+msg:每次出差都住財富大酒店，房間乾淨衞生，早餐豐富
+----------------------------------------
+name:H‍u‍a‍n‍g‍y‍e‍d‍a‍l‍u‍o‍b‍o
+info:Superior 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:65 Reviews
+rating:5
+posted:Posted June 4, 2024
+msg:房間正，衞生，服務好，下次再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted May 13, 2024
+msg:房間衞生整潔，早餐豐富，服務親切
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted June 5, 2024
+msg:酒店設施齊全，服務態度周到。
+----------------------------------------
+name:S‍a‍n‍y‍i‍t‍a‍i
+info:Superior 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:酒店房間寬敞明亮，衞生間很大，感覺舒適。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in March 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted March 12, 2024
+msg:房間很乾凈，已經連續好幾年都住這裏了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:4.5
+posted:Posted December 28, 2023
+msg:房间宽敞，整潔。整体基本上满意。前台小姐姐服务良好，熱心解答。
+----------------------------------------
+name:D‍a‍i‍n‍i‍q‍u‍l‍v‍x‍i‍n‍g‍?‍?‍?‍?‍_
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted June 5, 2024
+msg:周邊方便，服務熱情，房間整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted June 4, 2024
+msg:環境很好，特別健身房泳池很贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in September 2023
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted October 6, 2023
+msg:幫家裡人訂的，他們每次去舟山都選財富大酒店，早餐豐富，性價比很高
+----------------------------------------
+name:H‍o‍n‍g‍g‍e‍1
+info:Deluxe Suite
+info:Stayed in August 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted August 7, 2022
+msg:體驗很棒，物超所值，我們預訂的時候沒有單間衹有套房，所以訂了套房，體驗太棒了！非常適合拖家帶口出門的親們
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2023
+info:Friends
+info:3 Reviews
+rating:3
+posted:Posted September 4, 2023
+msg:建議酒店需要裝修一下，雖然空間很大很寬敞，但是床上用品和設備都比較陳舊
+----------------------------------------
+name:A‍n‍d‍e‍l‍i‍e‍s‍i‍C‍H‍E‍N
+info:Deluxe 2-bed Room
+info:Stayed in November 2023
+info:Business travelers
+info:5 Reviews
+rating:2
+posted:Posted November 24, 2023
+msg:大床床墊世界上最便宜的也是最差的，
+一個晚上沒睡着
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in December 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted January 9, 2024
+msg:房間很乾凈，設施好用。工作人員態度非常好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in October 2023
+info:Business travelers
+info:8 Reviews
+rating:4
+posted:Posted December 29, 2023
+msg:房間乾淨，出行方便，停車位很多。好評好評。下次還會來入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:3.7
+posted:Posted January 14, 2024
+msg:地段可以，停車晚點就不緊張了，設施一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted February 13, 2024
+msg:房間大，衞生間也大，光線日照都很好
+----------------------------------------
+name:F‍a‍d‍i‍a‍n‍j‍i‍w‍a‍n‍g‍z‍i
+info:Deluxe 2-bed Room
+info:Stayed in April 2024
+info:Business travelers
+info:42 Reviews
+rating:4
+posted:Posted April 28, 2024
+msg:不錯，很安靜；服務也算周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:4 Reviews
+rating:4.2
+posted:Posted May 3, 2024
+msg:裝修有點老，別的都還可以
+----------------------------------------
+name:s‍f‍s‍1‍2‍0‍3
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted June 5, 2024
+msg:酒店衞生不錯，早餐豐盛
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:40 Reviews
+rating:5
+posted:Posted April 17, 2024
+msg:一如概往，還是很好乾凈安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:3
+posted:Posted August 16, 2023
+msg:停車場衹有特斯拉充電樁。沒有其他的品牌新能源車充電樁。不能理解。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted June 5, 2024
+msg:房間乾淨整潔，舒適安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in October 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted December 30, 2023
+msg:酒店環境一流，房間設施，衞生五星級，早餐品種多味道好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in July 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted July 18, 2022
+msg:已經住了幾次了，除了設施陳舊一點，其他還可以，特別是樓道放了水自取，比較貼心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in July 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 10, 2023
+msg:房間乾淨衞生、酒店環境優美、鬧中取靜，服務周到細緻、早餐豐盛，交通便利
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted March 16, 2024
+msg:酒店環境很好，服務貼心，點贊！
+----------------------------------------
+name:D‍e‍w‍e‍n‍g‍a‍n‍g‍x‍i‍o‍n‍g‍c‍i‍l‍v
+info:Superior 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:35 Reviews
+rating:5
+posted:Posted April 10, 2024
+msg:房間很舒服 值得推薦朋友入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted May 30, 2024
+msg:去舟山我基本住這個酒店
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in December 2022
+info:Business travelers
+info:1 Review
+rating:1
+posted:Posted December 16, 2022
+msg:客服態度很差，亂收費，自己的規定就強迫客人接受，酒店設施也差，燈光極暗，價格與房間質量，服務素質極不符合，建議不要入住，附近好酒店有一堆，不能入坑
+----------------------------------------
+name:j‍i‍a‍n‍9‍s‍h‍u
+info:Superior Queen Room
+info:Stayed in May 2023
+info:Other
+info:28 Reviews
+rating:5
+posted:Posted May 15, 2023
+msg:環境，設施，服務，早餐，都是一流的。你們是我近年來住過的151家酒店。真的不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted December 28, 2023
+msg:服務：設施、衞生、環境、服務員的態度真的很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2023
+info:Family
+info:5 Reviews
+rating:3.7
+posted:Posted October 3, 2023
+msg:房間還可以，衞生間不行，總枱女服務員態度不好👎
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted June 4, 2024
+msg:服務很好，環境不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in April 2024
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted April 22, 2024
+msg:還可以吧！整體來説不錯
+----------------------------------------
+name:H‍u‍a‍n‍j‍i‍n‍g‍m‍e‍n‍g‍y‍i‍n‍g
+info:Family Suite
+info:Stayed in November 2023
+info:Friends
+info:23 Reviews
+rating:5
+posted:Posted December 27, 2023
+msg:很遺憾，老同學聚會，因為生病沒去成。
+----------------------------------------
+name:S‍a‍n‍d‍y‍x‍i‍o‍n‍g
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted February 15, 2024
+msg:每年去普陀都會住這裏，很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in August 2023
+info:Family
+info:14 Reviews
+rating:4.7
+posted:Posted August 22, 2023
+msg:老酒店設施提升空間有限，其他服務等還是滿足標準的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 30, 2023
+msg:房間新裝修的，大廳很大氣。很舒適！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in August 2023
+info:Couples
+info:1 Review
+rating:4.5
+posted:Posted August 13, 2023
+msg:房間較大，還挺舒適，床的軟硬度適宜，這點特別滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in December 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 9, 2022
+msg:房間很大，住得舒服。酒店提供免費的小盤水果，水果新鮮。設備設施齊全，乾淨整潔。早餐很豐富，早餐廳很大，可以同時容納上百人就餐。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in June 2023
+info:Solo travelers
+info:3 Reviews
+rating:1
+posted:Posted June 21, 2023
+msg:房間的床單有血，床單的下面全是毛髮，我想這個酒店應該整改一下
+----------------------------------------
+name:L‍a‍n‍g‍g‍e‍n‍t‍a‍e‍r‍s‍u‍j‍i‍a‍n
+info:Executive Queen Room
+info:Stayed in December 2023
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted January 14, 2024
+msg:酒店早餐很好的！服務員態度很好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in August 2022
+info:Family
+info:12 Reviews
+rating:4.5
+posted:Posted September 14, 2022
+msg:各方面還不錯，舟山比較久的五星級酒店，有些舊了，豪華程度不如周圍的喜來登，但價格合適，旁邊是購物餐飲商業圈，核酸點很近，酒店健身場所不提供毛巾，而且房卡無法直接刷開閘門，不是很方便，泳池基本上給孩子培訓用了，條件一般。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in December 2023
+info:Friends
+info:30 Reviews
+rating:5
+posted:Posted January 3, 2024
+msg:環境不錯，房間乾淨，服務熱情
+----------------------------------------
+name:L‍v‍y‍i‍d‍a‍n
+info:Executive Suite
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 19, 2024
+msg:新年氛圍濃厚，￼温馨非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 12, 2024
+msg:性價比不錯，下次出差再去。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted May 14, 2024
+msg:第二次去啦，都很棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted May 21, 2024
+msg:每次出差都入住。
+----------------------------------------
+name:A‍i‍s‍h‍u
+info:Superior 2-bed Room
+info:Stayed in July 2022
+info:Family
+info:3 Reviews
+rating:3.7
+posted:Posted July 11, 2022
+msg:酒店早餐很豐富，味道也不錯，不輸其它五星酒店，泳池是跟外面合作經營的，人員比較雜人也很多，但是泳池確實比較大，游泳比較舒服，唯一的大問題是客房空調有異響，晚上睡覺對我影響較大，其它的話老酒店了，設施也就這樣了。
+----------------------------------------
+name:G‍u‍z‍h‍u‍b‍e‍i
+info:Superior 2-bed Room
+info:Stayed in November 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted November 9, 2023
+msg:挺乾淨的，房間也挺大，服務挺到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted March 13, 2024
+msg:很不錯，服務環境都很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 13, 2024
+msg:前台很熱情，服務認真細緻
+----------------------------------------
+name:X‍i‍a‍o‍k‍a‍n‍ㄨ‍r‍e‍n‍s‍h‍i‍j‍i‍a‍n
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted March 15, 2024
+msg:乾淨衞生服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in December 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 14, 2024
+msg:非常好的環境，早餐特別好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in January 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 13, 2024
+msg:房間很好，服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2023
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted August 21, 2023
+msg:性價比高酒店，可以再次選擇入住，很適合出差
+----------------------------------------
+name:1‍1‍8‍2‍1‍9‍2‍9‍1‍0
+info:Deluxe 2-bed Room
+info:Stayed in October 2023
+info:Couples
+info:26 Reviews
+rating:5
+posted:Posted October 11, 2023
+msg:性價比好，地理位置佳，早餐豐富。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in May 2023
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted June 29, 2023
+msg:酒店位置比較好，房間比較大，乾淨，早餐很好！服務熱情。
+----------------------------------------
+name:R‍e‍n‍j‍i‍a‍n‍j‍i‍n‍g‍p‍i‍n‍j‍i‍l‍a‍o‍s‍h‍i
+info:Superior 2-bed Room
+info:Stayed in January 2024
+info:Business travelers
+info:17 Reviews
+rating:4.5
+posted:Posted January 14, 2024
+msg:老牌子的酒店，有厚重感
+----------------------------------------
+name:J‍i‍n‍g‍u‍a‍s‍h‍i‍c‍h‍u‍n‍s‍h‍e‍n‍j‍u‍n
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:113 Reviews
+rating:5
+posted:Posted April 11, 2024
+msg:非常滿意質量很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in June 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted June 18, 2023
+msg:相當滿意，很不錯的一次出行住宿，各方面都很不錯👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted October 2, 2023
+msg:房間好，自助早餐豐盛，五星級水平
+----------------------------------------
+name:S‍u‍n‍y‍a‍c‍h‍u‍n‍ ‍S‍U‍N‍ ‍Y‍A‍ ‍C‍H‍U‍N
+info:Executive Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted March 26, 2023
+msg:遠離一直住喜來登，這次試試財富，驚喜，從房間到餐飲。以後改財富了😏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 7, 2024
+msg:乾淨利落，安靜。
+----------------------------------------
+name:D‍a‍p‍a‍n‍g‍j‍u‍z‍i
+info:Superior Queen Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 7, 2023
+msg:酒店房間大，早餐很豐富在當地都是出了名的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2022
+info:Friends
+info:25 Reviews
+rating:5
+posted:Posted October 5, 2022
+msg:非常棒的體驗，幸好提前在網上預約了，不然週末人好多，不枉費我期待這麼久，確實很不錯，就是房間隔音效果不是太好，其他都很完美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 29, 2023
+msg:各方面都滿意的，我們下次再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:1.7
+posted:Posted February 15, 2024
+msg:空調不能調節，悶熱
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in October 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:前台大王服務態度很好，房間很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in October 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 2, 2023
+msg:環境還可以，攜程優惠力度挺大的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Couples
+info:24 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:環境設施服務都可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted February 13, 2023
+msg:酒店房間很大，停車非常方便，早餐豐富，周邊有城市廣場，購物就餐很多選擇！
+----------------------------------------
+name:C‍h‍a‍t‍a‍n‍u‍j‍i‍a‍a‍o‍b‍a‍i
+info:Executive Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 30, 2023
+msg:非常滿意，吃的好，住得好
+----------------------------------------
+name:s‍e‍v‍e‍n‍1‍9‍7‍6‍1‍2‍1‍8
+info:Superior Queen Room
+info:Stayed in August 2023
+info:Friends
+info:39 Reviews
+rating:4.5
+posted:Posted August 13, 2023
+msg:床墊有點硬，進屋有股黴味，其他都還好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in August 2023
+info:Family
+info:41 Reviews
+rating:4
+posted:Posted August 27, 2023
+msg:衞生：一般
+環境：一般
+服務：可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Suite
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 13, 2024
+msg:房間整潔 乾淨
+----------------------------------------
+name:A‍m‍u
+info:Superior 2-bed Room
+info:Stayed in March 2023
+info:Friends
+info:7 Reviews
+rating:4
+posted:Posted June 8, 2023
+msg:房間亮趟，床特別適合我，泳池超讚就是更衣室管理和衞生弱了點
+----------------------------------------
+name:Z‍h‍o‍u‍l‍e‍i
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:環境可以，方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2023
+info:Other
+info:11 Reviews
+rating:4.2
+posted:Posted May 16, 2023
+msg:酒店有點老舊，不過客房服務很不錯，地理位置方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in September 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:十一價格比較合理，房間很大。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in January 2023
+info:Family
+info:21 Reviews
+rating:5
+posted:Posted January 25, 2023
+msg:非常不錯，環境乾淨，服務好，早餐很豐富，超滿足，下次再來時也選擇住這裏👍
+----------------------------------------
+name:H‍o‍n‍g‍h‍o‍n‍g‍d‍e‍q‍i‍n‍g‍c‍i
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Other
+info:1 Review
+rating:1
+posted:Posted May 15, 2024
+msg:臟亂差，太差太差
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in May 2024
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted May 8, 2024
+msg:價格性價比高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in December 2023
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted January 14, 2024
+msg:乾淨
+服務周到
+好評
+----------------------------------------
+name:D‍W‍-‍q‍i‍n‍g‍y‍u‍n‍z‍h‍i
+info:Deluxe Queen Room
+info:Stayed in October 2022
+info:Family
+info:107 Reviews
+rating:1.7
+posted:Posted October 5, 2022
+msg:營業員服務態度是住過五星標準中最“好”的，因為國慶旅遊人多？窗户中有紙不能看外面，為什麼連告之也沒有？
+----------------------------------------
+name:A‍n‍g‍e‍l‍o‍o‍o
+info:Superior Queen Room
+info:Stayed in April 2023
+info:Friends
+info:29 Reviews
+rating:5
+posted:Posted May 22, 2023
+msg:五一在這裏入住了兩天，酒店很好，性價比高，推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2022
+info:Business travelers
+info:182 Reviews
+rating:5
+posted:Posted October 14, 2022
+msg:酒店地裏位置不錯，交通很方便，有免費停車場，前台服務也不錯，早餐非常豐富，還有免費游泳池，值得推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 28, 2023
+msg:房間乾淨衞生，服務熱情，來舟山還會選擇財富入住。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in July 2022
+info:Business travelers
+info:24 Reviews
+rating:4.2
+posted:Posted July 10, 2022
+msg:遠觀五星，入內四星，體驗湊合四星。泳池對外開放，除拖鞋外不提供任何物品，住店客人不能使用帶鑰匙更衣櫃，衣物衹能放敞開的公用櫃，強烈建議改進
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:4.2
+posted:Posted February 27, 2024
+msg:不錯，位置好方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 28, 2023
+msg:房間整潔，服務態度好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in August 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted November 19, 2023
+msg:衞生乾淨，環境優美、服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in September 2023
+info:Couples
+info:8 Reviews
+rating:2
+posted:Posted September 23, 2023
+msg:垃圾酒店，員工系統都不會用
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted November 11, 2023
+msg:房間整潔乾淨早餐豐富多彩
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in September 2023
+info:Other
+info:6 Reviews
+rating:4.5
+posted:Posted October 8, 2023
+msg:床實在太硬了，洗手液好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2022
+info:Friends
+info:1 Review
+rating:4.2
+posted:Posted June 25, 2022
+msg:酒店地理位置好，出行非常方便，邊上有大型綜合體和超市，吃飯購物便利，酒店管理一般，客服人員不夠熱情，房間設施比較陳舊！早餐品種不夠豐富！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 7, 2024
+msg:乾淨整潔舒適
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2023
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted December 23, 2023
+msg:太喜歡這裏了 安靜便捷
+----------------------------------------
+name:J‍a‍m‍e‍s‍c‍h‍e
+info:Deluxe Queen Room
+info:Stayed in November 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 30, 2023
+msg:非常好，下次還來。
+----------------------------------------
+name:Y‍a‍n‍y‍u‍y‍e
+info:Deluxe 2-bed Room
+info:Stayed in March 2023
+info:Other
+info:35 Reviews
+rating:5
+posted:Posted April 18, 2023
+msg:環境安靜，服務周到
+設施有點老了，希望能有所提高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Suite
+info:Stayed in April 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted May 13, 2024
+msg:滿意，推薦
+----------------------------------------
+name:j‍e‍n‍n‍y‍c‍h‍e‍n‍4‍4‍4
+info:Deluxe Queen Room
+info:Stayed in February 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted February 23, 2022
+msg:房間面積夠大，衞生間面積也大，是吸引我再來住的原因。浴缸套要自己出錢20元，下次自己帶。保潔阿姨11點多來敲門詢問要不要打掃，希望不要這樣，擾民。早餐品種不算豐富，不差也不好，一般般。在電梯口放了免費的農夫山泉瓶裝水，贊一個！希望繼續保持下去。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in September 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 26, 2021
+msg:感覺裝修不錯，主要還是要提高自己的細節，馬桶，浴缸要定期清洗。
+🧹衞生：不錯，
+🔔服務：優雅簡潔
+🍃環境：舒適怡人
+🚗 交通：便利，停車場方便
+----------------------------------------
+name:Y‍o‍u‍y‍a‍x‍u‍a‍n‍l‍v
+info:Executive Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 29, 2023
+msg:環境不錯，服務不錯
+----------------------------------------
+name:S‍i‍x‍n‍o‍r‍t‍h‍s
+info:Superior 2-bed Room
+info:Stayed in June 2023
+info:Family
+info:11 Reviews
+rating:4.5
+posted:Posted June 25, 2023
+msg:雖老了點，但服務很好，性價比高
+----------------------------------------
+name:J‍i‍n‍x‍i‍a‍o‍x‍i‍n‍g
+info:Executive 2-bed Room
+info:Stayed in April 2023
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:酒店很好，5.1也沒怎麼漲價.良心店
+----------------------------------------
+name:F‍e‍n‍g‍y‍a‍n‍f‍e‍n‍g‍y‍u‍2‍6‍9‍2
+info:Superior 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted March 15, 2024
+msg:挺好！滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 14, 2024
+msg:環境衞生不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in September 2023
+info:Business travelers
+info:16 Reviews
+rating:4
+posted:Posted September 7, 2023
+msg:￼房間寬敞，早餐很豐富
+----------------------------------------
+name:p‍c‍_‍l‍h
+info:Superior 2-bed Room
+info:Stayed in October 2021
+info:Family
+info:18 Reviews
+rating:4.7
+posted:Posted October 6, 2021
+msg:在新城，免費停車，比較安靜，可遠觀到海。
+房間乾淨，有送水果，早歺供應至9：45，而且非常豐盛，特別喜歡。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 29, 2023
+msg:環境不錯，舒適！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted January 4, 2024
+msg:中式早餐豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in July 2022
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted September 29, 2022
+msg:前台服務態度很好，在網上訂了兩天的酒店，突然趕上疫情需要提前退房，前台積極協助網上退房，很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 31, 2023
+msg:服務熱情周到！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in October 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 29, 2023
+msg:環境舒服，服務好
+----------------------------------------
+name:M‍a‍i‍w‍e‍n‍g
+info:Superior 2-bed Room
+info:Stayed in July 2022
+info:Family
+info:26 Reviews
+rating:5
+posted:Posted August 16, 2022
+msg:酒店配套也很完善，房間夠大整潔，出行也很方便，隔壁的商圈吃飯、核酸都非常方便，自駕出行很推薦
+----------------------------------------
+name:x‍l‍m‍z‍f‍y
+info:Deluxe 2-bed Room
+info:Stayed in August 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted October 24, 2023
+msg:衞生乾淨，服務態度好
+----------------------------------------
+name:b‍e‍t‍h‍_‍c‍h
+info:Superior 2-bed Room
+info:Stayed in July 2022
+info:Other
+info:12 Reviews
+rating:5
+posted:Posted July 26, 2022
+msg:每次去舟山都會入住財富大酒店，房間比較大不侷促，乾淨衞生，自助晚餐很好吃，很滿意。
+----------------------------------------
+name:P‍a‍u‍l‍w‍e‍i‍m‍i‍n
+info:Superior Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted February 3, 2024
+msg:很好！謝謝
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in January 2023
+info:Couples
+info:4 Reviews
+rating:4.5
+posted:Posted January 31, 2023
+msg:經濟實惠的，交通便利，附近有超市，不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in January 2023
+info:Couples
+info:3 Reviews
+rating:4
+posted:Posted January 24, 2023
+msg:服務規範，夜晚送元宵至房間，較暖心。謝謝
+----------------------------------------
+name:G‍e‍o‍r‍g‍e‍ ‍T‍o‍n‍g
+info:Deluxe 2-bed Room
+info:Stayed in October 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted December 29, 2023
+msg:位置佳，服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in October 2022
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted October 5, 2022
+msg:就是窗户不透光。吃晚上的自助餐服務員搶着收盤子，體驗有點差。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in February 2023
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted April 15, 2023
+msg:酒店乾淨整潔設施齊全，早餐豐富好好吃
+----------------------------------------
+name:Q‍i‍j‍i‍a‍y‍y‍d‍s
+info:Deluxe Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted December 7, 2023
+msg:房間大，很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:2 Reviews
+rating:4
+posted:Posted February 24, 2023
+msg:到舟山就認定財富大灑店，非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 14, 2024
+msg:整體還可以
+----------------------------------------
+name:P‍i‍n‍u‍o‍c‍a‍o‍d‍e‍l‍v‍x‍i‍n‍g
+info:Deluxe Suite
+info:Stayed in August 2022
+info:Business travelers
+info:12 Reviews
+rating:2.7
+posted:Posted August 6, 2022
+msg:沒有洗漱用品，沒有拖鞋，沒有浴袍！套房居然還比不上標間！大開眼界！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 26, 2023
+msg:酒店環境不錯，周邊氛圍也不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in April 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 17, 2023
+msg:環境，服務態度都挺不錯的
+----------------------------------------
+name:Y‍i‍s‍h‍a‍n‍y‍i‍n‍g‍x‍u‍e
+info:Executive Queen Room
+info:Stayed in June 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted August 16, 2023
+msg:主要是有充電站，方便
+----------------------------------------
+name:A‍i‍z‍h‍u‍j‍i‍u‍d‍i‍a‍n‍d‍e‍d‍i‍d‍i
+info:Superior Queen Room
+info:Stayed in August 2022
+info:Friends
+info:76 Reviews
+rating:5
+posted:Posted August 10, 2022
+msg:酒店人超級多  服務態度挺不錯的  退房時還送了伴手禮  好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in April 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:房間和酒店整體環境滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in January 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted April 8, 2023
+msg:酒店環境不錯，設施齊全，值得入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in October 2022
+info:Couples
+info:10 Reviews
+rating:5
+posted:Posted October 5, 2022
+msg:房間很大，裝修風格有點偏老但是很乾凈，早餐豐盛
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in March 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted March 5, 2023
+msg:服務：非常好的
+環境：優美
+----------------------------------------
+name:S‍h‍u‍t‍i‍a‍o‍n‍i‍a‍n‍g‍n‍i‍a‍n‍g
+info:Superior Queen Room
+info:Stayed in September 2022
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted October 4, 2022
+msg:中性的酒店，因為喜宴在此就選了它，很舒服的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in May 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:都挺好的，房間很寬敞
+----------------------------------------
+name:J‍i‍x‍i‍a‍n‍g‍s‍a‍n‍b‍a‍o
+info:Deluxe 2-bed Room
+info:Stayed in June 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted July 20, 2023
+msg:朋務好，交通方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in February 2023
+info:Family
+info:51 Reviews
+rating:5
+posted:Posted April 13, 2023
+msg:舟山就住財富、購物、吃方便
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2022
+info:Couples
+info:12 Reviews
+rating:4.7
+posted:Posted October 10, 2022
+msg:房間夠大，設計合理，安靜，裝修稍微有點舊了。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in September 2023
+info:Business travelers
+info:34 Reviews
+rating:5
+posted:Posted September 12, 2023
+msg:好好好好好好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 19, 2022
+msg:靠近市政府，商務出差務及旅遊都適合，房間很大很舒適！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in February 2022
+info:Couples
+info:1 Review
+rating:3.5
+posted:Posted February 17, 2022
+msg:早餐煮麪的檔口阿姨一口土話，我選個東西不停在那**叨叨，酒店怎麼做培訓的，會不會和客人好好説話？垃圾！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in July 2023
+info:Friends
+info:35 Reviews
+rating:5
+posted:Posted September 29, 2023
+msg:好好好好好好好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2022
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted August 9, 2022
+msg:挺好的，住過多次，就是現在游泳池變小了，還是以前舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in April 2023
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted April 18, 2023
+msg:早餐豐富……環境優美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in January 2023
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted January 30, 2023
+msg:在舟山值得入住，體驗很好！
+----------------------------------------
+name:c‍h‍o‍w‍f
+info:Superior Queen Room
+info:Stayed in August 2022
+info:Solo travelers
+info:14 Reviews
+rating:5
+posted:Posted August 29, 2022
+msg:交通：方便
+衞生：乾淨
+環境：略舊
+服務：不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted July 20, 2023
+msg:環境不錯，早餐豐富
+----------------------------------------
+name:a‍j‍a‍x‍z‍h‍a‍n‍g
+info:Deluxe 2-bed Room
+info:Stayed in April 2023
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted April 17, 2023
+msg:房間很大，視野很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in July 2022
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted August 16, 2022
+msg:早餐豐富，乾淨衞生，營養豐富，味道好，吃的很飽。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in October 2021
+info:Family
+info:76 Reviews
+rating:5
+posted:Posted October 24, 2021
+msg:🚗 交通：停車方便，停車場很大。
+🔔服務：酒店提供蒸汽眼罩，問前台要即可。
+🧹衞生：酒店比較老，衞生方面需要加強，上廁所發現一衹蟲子在爬。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2021
+info:Couples
+info:2 Reviews
+rating:4
+posted:Posted October 3, 2021
+msg:國慶出遊舟山再次入住財富酒店，早餐還是一如既往的豐盛，前台服務還是那麼熱情，特別感謝前台小蔣的熱情接待，詳細的介紹，讓人感覺賓至如歸。好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted May 15, 2023
+msg:酒店環境、位置都很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in January 2023
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted January 26, 2023
+msg:完美的居住體驗，贊👍👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in October 2021
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted October 4, 2021
+msg:酒店很不錯，走道寬敞，房間面積大，還有游泳池，同等酒店裡性價比最高，設施也很齊全，酒店熱水很大，還有浴缸，很不錯，還有酒店機器人，好玩
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in April 2023
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted July 5, 2023
+msg:房間很大，很不錯
+----------------------------------------
+name:s‍m‍a‍l‍l‍a‍r‍t‍h‍u‍r
+info:Superior 2-bed Room
+info:Stayed in August 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted August 14, 2023
+msg:泳池比較好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in August 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted September 9, 2023
+msg:服務很滿意
+----------------------------------------
+name:W‍o‍s‍h‍i‍x‍i‍a‍o‍q‍i‍n‍g‍x‍i‍n
+info:Superior Queen Room
+info:Stayed in June 2023
+info:Business travelers
+info:40 Reviews
+rating:5
+posted:Posted June 19, 2023
+msg:酒店卫生干淨
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2021
+info:Family
+info:19 Reviews
+rating:4.5
+posted:Posted August 2, 2021
+msg:酒店大堂大氣，自助早餐很好，邊上就是銀泰和寶龍城，停車方便。畢竟是老酒店，設施老了一點，但還能接受，但是床單潮潮的，蓋在身上癢癢的，健身房也在裝修沒開放，遺憾
+----------------------------------------
+name:W‍e‍i‍n‍a‍n‍w‍a‍n‍g‍s‍h‍o‍u‍r‍e‍n
+info:Superior Queen Room
+info:Stayed in June 2023
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted August 31, 2023
+msg:這酒店風水好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in January 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted April 22, 2023
+msg:早餐豐富，衞生不錯，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in January 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted January 26, 2023
+msg:雖説老牌但是真的不錯
+----------------------------------------
+name:W‍i‍l‍l‍i‍a‍m
+info:Superior Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted April 3, 2023
+msg:出差旅遊必備酒店👍
+----------------------------------------
+name:n‍i‍n‍g‍b‍o‍y‍u‍a‍n
+info:Superior Queen Room
+info:Stayed in March 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 11, 2022
+msg:房間有送3合1咖啡包，但是沒有配匙子和咖啡杯，希望從小處有待改善。
+----------------------------------------
+name:T‍i‍a‍n‍s‍h‍e‍n‍g‍a‍i‍l‍v‍k‍u‍a‍n‍g
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 10, 2023
+msg:房間大，服務好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in July 2023
+info:Other
+info:22 Reviews
+rating:5
+posted:Posted September 13, 2023
+msg:房子還可以
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in March 2023
+info:Friends
+info:54 Reviews
+rating:5
+posted:Posted March 24, 2023
+msg:服務周到、熱情。
+----------------------------------------
+name:R‍o‍n‍g‍r‍o‍n‍g
+info:Deluxe Queen Room
+info:Stayed in December 2022
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted December 15, 2022
+msg:給客人開的！每次都住的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in July 2022
+info:Other
+info:12 Reviews
+rating:5
+posted:Posted July 30, 2022
+msg:交通比較便利，周圍購物和餐飲也比很方便
+----------------------------------------
+name:Z‍e‍r‍e‍n‍y‍o‍u‍s‍h‍i‍y‍i
+info:Superior 2-bed Room
+info:Stayed in August 2022
+info:Family
+info:3 Reviews
+rating:3
+posted:Posted August 16, 2022
+msg:前台業務能力有待提高，態度也不行。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in January 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted February 2, 2023
+msg:環境很好，乾淨衞生
+----------------------------------------
+name:L‍a‍o‍z‍h‍a‍n‍g‍t‍o‍u‍7‍7‍7
+info:Superior Queen Room
+info:Stayed in February 2022
+info:Business travelers
+info:17 Reviews
+rating:4.2
+posted:Posted February 28, 2022
+msg:早餐一般，地毯有點舊了，也許是旺季人多，淡季管理成本太高，理解
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in June 2023
+info:Booked for others
+info:16 Reviews
+rating:5
+posted:Posted September 12, 2023
+msg:潘泡泡泡泡
+----------------------------------------
+name:C‍h‍e‍n‍p‍e‍i‍w‍e‍n
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted June 12, 2023
+msg:出差一直訂這家
+----------------------------------------
+name:B‍e‍i‍y‍i‍n‍g‍f‍e‍n‍g
+info:Superior Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted May 4, 2023
+msg:價格實惠，乾淨
+----------------------------------------
+name:T‍a‍n‍s‍u‍o‍l‍v‍x‍i‍n‍g‍a‍o‍m‍i
+info:Superior Queen Room
+info:Stayed in October 2022
+info:Other
+info:8 Reviews
+rating:2.2
+posted:Posted October 6, 2022
+msg:設施陳舊，採光差。環境一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in March 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted April 8, 2023
+msg:很好，服務周到
+----------------------------------------
+name:a‍i‍r‍c‍a‍n‍i‍n‍e
+info:Deluxe 2-bed Room
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted July 4, 2023
+msg:酒店早餐豐盛
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted June 11, 2023
+msg:早餐非常豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in January 2023
+info:Friends
+info:1 Review
+rating:1
+posted:Posted January 25, 2023
+msg:服務：服務態度差
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted October 5, 2022
+msg:很不錯，喜歡商務感的選擇
+----------------------------------------
+name:X‍i‍a‍o‍q‍i‍a‍n‍q‍i‍a‍n‍a‍h‍a
+info:Executive Queen Room
+info:Stayed in May 2022
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted May 22, 2022
+msg:酒店位置不錯，旁邊就是銀泰百貨和寶龍商場
+----------------------------------------
+name:N‍n‍i‍u‍n‍z‍h‍u‍a‍n‍q‍i‍a‍n‍k‍u‍n
+info:Superior Queen Room
+info:Stayed in July 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 19, 2021
+msg:太喜歡這家酒店了，大廳裏的服務員每一個都很熱情，重點表揚思思，特別温暖。客房中規中矩，還有小禮品和水果，入住感覺很暖。推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in October 2021
+info:Family
+info:25 Reviews
+rating:4.5
+posted:Posted October 6, 2021
+msg:總體還行，就是早餐一般，關鍵是小孩子還要收費，且有的房間要收，有的不需要，搞不懂是什麼原因
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in April 2023
+info:Family
+info:4 Reviews
+rating:2.7
+posted:Posted July 9, 2023
+msg:設施太老舊
+----------------------------------------
+name:X‍i‍a‍s‍h‍i‍c‍h‍u‍n‍q‍i‍u‍，
+info:Deluxe 2-bed Room
+info:Stayed in October 2022
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted October 3, 2022
+msg:乾淨整潔，早餐比較豐富
+----------------------------------------
+name:R‍u‍s‍u‍a‍n‍j‍u‍n‍-
+info:Superior Queen Room
+info:Stayed in February 2021
+info:Business travelers
+info:9 Reviews
+rating:4.7
+posted:Posted August 13, 2021
+msg:地理位置優越，離舟山市最繁華的銀泰，海港城，凱虹廣場一步之遙。管理完善，餐飲相當不錯，尤其是自助餐，食品豐富，食材新鮮，口味正，價格還相當實在，如果通過大眾點評網購買優惠券後消費，那更是實惠。順便提一句，優惠劵即買即用，沒有任何限制。房間衞生整潔，尤其衞生間寬敞舒適，房間燈光相當温暖。停車場寬敞。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted June 23, 2023
+msg:服務是好的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in April 2023
+info:Friends
+info:20 Reviews
+rating:5
+posted:Posted April 3, 2023
+msg:晚送銀耳羹
+----------------------------------------
+name:a‍k‍i‍l‍l‍z‍z
+info:Executive Queen Room
+info:Stayed in August 2022
+info:Family
+info:23 Reviews
+rating:5
+posted:Posted September 10, 2022
+msg:性價比很高，然後早餐豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in March 2023
+info:Business travelers
+info:111 Reviews
+rating:4.7
+posted:Posted April 17, 2023
+msg:酒店還可以
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in January 2023
+info:Other
+info:5 Reviews
+rating:4.2
+posted:Posted January 26, 2023
+msg:總的來説不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2022
+info:Solo travelers
+info:33 Reviews
+rating:3.7
+posted:Posted June 7, 2022
+msg:服務熱情，衞生欠佳，設施一般
+----------------------------------------
+name:D‍D‍d‍i‍g‍e
+info:Superior 2-bed Room
+info:Stayed in September 2022
+info:Business travelers
+info:40 Reviews
+rating:5
+posted:Posted December 25, 2022
+msg:環境可以……………
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in July 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted July 30, 2022
+msg:核心地段，附近安全的很
+----------------------------------------
+name:t‍i‍a‍n‍l‍a‍n‍g‍b‍a‍n‍g
+info:Deluxe 2-bed Room
+info:Stayed in June 2021
+info:Friends
+info:31 Reviews
+rating:5
+posted:Posted July 10, 2021
+msg:出去旅遊住的這裏，地理位置方便，環境還可以，衞生還可以，早餐還可以，整體還可以，出差方便嗯嗯嗯。。。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in May 2021
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted June 13, 2021
+msg:整體上沒啥好挑剔的，停車場充足，樓下有茶吧，房間大小也還行。要説非有不足的話，作為旅遊城市，房價比寧波要高一些。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in February 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted February 14, 2022
+msg:房間裏有水果，服務不錯，早吃品種少了點
+----------------------------------------
+name:X‍i‍n‍x‍i‍l‍a‍n‍g‍u‍o‍j‍i‍e
+info:Deluxe 2-bed Room
+info:Stayed in July 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted July 19, 2021
+msg:性價比高，很滿意！
+退房時忘記索要發票，今天電話前台小劉補開，順利熱情，謝謝你姑娘！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in July 2021
+info:Family
+info:1 Review
+rating:3.5
+posted:Posted August 2, 2021
+msg:我可能是通過攜程訂的吧，房間安排的朝向不太好，而且有點吵，希望酒店今後有所改變
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in January 2023
+info:Family
+info:4 Reviews
+rating:4
+posted:Posted January 25, 2023
+msg:早飯很不錯
+----------------------------------------
+name:L‍x‍s‍x‍i‍x‍i
+info:Superior Queen Room
+info:Stayed in October 2021
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted October 13, 2021
+msg:前台接待女生服務很不錯，收銀很耐心，主動升級房型，熱情周到
+----------------------------------------
+name:K‍o‍n‍g‍j‍u‍n‍s‍h‍a‍n‍g‍x‍i‍a‍o
+info:Superior 2-bed Room
+info:Stayed in June 2022
+info:Business travelers
+info:5 Reviews
+rating:4.7
+posted:Posted June 27, 2022
+msg:酒店位置好，早餐不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in August 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted August 17, 2022
+msg:交通便利，服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2022
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted May 5, 2022
+msg:附近購物方便，自助餐種類豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in January 2023
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted February 2, 2023
+msg:恨棒不錯哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2022
+info:Business travelers
+info:34 Reviews
+rating:3
+posted:Posted August 20, 2022
+msg:房間有點舊，早歺還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in August 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 21, 2021
+msg:居住體驗感挺不錯的，很安靜，服務也很好。再來舟山出差還會考慮這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in March 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 9, 2022
+msg:周邊有大型綜合體，方便購物消費
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in August 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 6, 2022
+msg:酒店早餐很不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in July 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 4, 2022
+msg:環境不錯，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2021
+info:Family
+info:21 Reviews
+rating:4.2
+posted:Posted October 16, 2021
+msg:舟山羣島新區的一家老字號品牌酒店，各方面都不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in October 2022
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted October 5, 2022
+msg:房間非常寬敞
+----------------------------------------
+name:S‍e‍n‍l‍i‍n‍3‍0‍1
+info:Deluxe 2-bed Room
+info:Stayed in October 2021
+info:Couples
+info:29 Reviews
+rating:5
+posted:Posted October 5, 2021
+msg:酒店周圍環境不錯，乾淨，服務態度好，住的很舒適。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2021
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted October 5, 2021
+msg:🚗 交通：很方便
+🔔服務：很到位
+🍃環境：很乾凈
+----------------------------------------
+name:Z‍o‍n‍g‍l‍i‍h‍u‍a‍n‍g‍d‍a‍c‍h‍e‍n
+info:Superior Queen Room
+info:Stayed in July 2021
+info:Couples
+info:48 Reviews
+rating:4
+posted:Posted July 19, 2021
+msg:位置好 酒店看上去大氣 早餐還好，，晚餐一般，服務態度還行，，，
+----------------------------------------
+name:c‍o‍o‍k‍y‍l‍i‍n‍g
+info:Superior Queen Room
+info:Stayed in July 2021
+info:Friends
+info:3 Reviews
+rating:3.7
+posted:Posted July 9, 2021
+msg:第二次入住了，酒店前台的服務有待提高，入住全程沒有笑容，態度冷淡。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 2, 2022
+msg:酒店服務很棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in September 2021
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted September 19, 2021
+msg:很快速的辦了續住手續，開發票也很嫻熟。體驗很不錯。
+----------------------------------------
+name:Q‍i‍a‍n‍g‍t‍a‍n
+info:Deluxe 2-bed Room
+info:Stayed in July 2021
+info:Family
+info:19 Reviews
+rating:5
+posted:Posted August 17, 2021
+msg:很好的酒店 環境好 非常安靜 就是有高級酒店的標準。就是價格略高。
+----------------------------------------
+name:2‍0‍1‍3‍5‍0‍2‍8‍6‍9
+info:Superior Queen Room
+info:Stayed in May 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted May 31, 2022
+msg:太贊啦 下次肯定還住
+----------------------------------------
+name:h‍b‍d‍l‍z‍m‍b‍a
+info:Deluxe Queen Room
+info:Stayed in July 2022
+info:Business travelers
+info:35 Reviews
+rating:5
+posted:Posted September 1, 2022
+msg:環境設施都很棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in June 2022
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted June 3, 2022
+msg:早餐非常非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in October 2022
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted October 7, 2022
+msg:整體不錯～
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2022
+info:Other
+info:188 Reviews
+rating:5
+posted:Posted May 28, 2022
+msg:棒棒噠！非常好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2022
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted August 13, 2022
+msg:非常滿意的。
+----------------------------------------
+name:L‍u‍o‍y‍u‍a‍n‍b‍a‍n‍z‍h‍a‍o
+info:Deluxe 2-bed Room
+info:Stayed in August 2021
+info:Solo travelers
+info:2 Reviews
+rating:2
+posted:Posted August 5, 2021
+msg:實在是舊了，房間裏整體感受陳舊的壓抑。早歺尚可
+----------------------------------------
+name:C‍h‍o‍u‍m‍i‍h‍o‍u
+info:Superior Queen Room
+info:Stayed in July 2021
+info:Business travelers
+info:19 Reviews
+rating:4
+posted:Posted October 9, 2021
+msg:中規中矩，房間大，周邊配套齊全，就是夏天游泳池維修
+----------------------------------------
+name:W‍e‍n‍d‍a‍o‍z‍a‍i‍w‍e‍n‍d‍a‍o
+info:Deluxe 2-bed Room
+info:Stayed in July 2021
+info:Family
+info:8 Reviews
+rating:3
+posted:Posted November 1, 2021
+msg:酒店有點老了，過去的時候正好在裝修。房間有味道。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 17, 2022
+msg:還可以的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2022
+info:Business travelers
+info:2 Reviews
+rating:3
+posted:Posted June 6, 2022
+msg:老酒店，一般般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2021
+info:Friends
+info:14 Reviews
+rating:5
+posted:Posted June 29, 2021
+msg:一直住這家酒店，出行很方便，離銀泰百貨很近，服務也好
+----------------------------------------
+name:L‍a‍n‍g‍d‍e‍s‍h‍i‍j‍i‍e‍1‍3‍1‍4
+info:Superior 2-bed Room
+info:Stayed in February 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted April 5, 2022
+msg:服務熱情，衞生乾淨！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 11, 2022
+msg:不錯不錯不錯
+----------------------------------------
+name:X‍X‍X‍L‍i‍ ‍.
+info:Deluxe Queen Room
+info:Stayed in October 2021
+info:Business travelers
+info:33 Reviews
+rating:4.5
+posted:Posted October 13, 2021
+msg:位置佳，大堂很大，房間不新但乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in July 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted July 17, 2021
+msg:前台小蔣服務很好，很熱情，工作也很認真仔細！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in August 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 6, 2022
+msg:還不錯嘍！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in October 2021
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted October 25, 2021
+msg:環境服務都不錯，早餐也好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2021
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted July 22, 2021
+msg:老牌的酒店了，設施齊全衞生也不錯，周邊配套也方便。
+----------------------------------------
+name:J‍a‍c‍k‍_‍L‍i‍n‍1‍9‍8‍4
+info:Superior Queen Room
+info:Stayed in October 2021
+info:Couples
+info:57 Reviews
+rating:5
+posted:Posted October 6, 2021
+msg:早餐的米粉強烈推薦，非常棒
+----------------------------------------
+name:T‍I‍M‍Z‍H‍A‍N‍G‍1‍0‍2‍6
+info:Superior Queen Room
+info:Stayed in October 2021
+info:Solo travelers
+info:31 Reviews
+rating:4.5
+posted:Posted November 6, 2021
+msg:交通停車方便，附近有商場
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 30, 2022
+msg:感覺還不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in September 2021
+info:Friends
+info:4 Reviews
+rating:4.7
+posted:Posted October 2, 2021
+msg:很乾凈房間也大價格也可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in September 2021
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted December 24, 2021
+msg:酒店環境很好，地理位置優越
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in October 2021
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted February 5, 2022
+msg:有停車場，設施有點老了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in September 2021
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted September 26, 2021
+msg:老牌商務酒店，可以推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in November 2021
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted November 22, 2021
+msg:舒適，乾淨，服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2021
+info:Business travelers
+info:7 Reviews
+rating:4.7
+posted:Posted October 17, 2021
+msg:還可以，除了個別問題
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in October 2021
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted October 8, 2021
+msg:非常滿意，服務一流。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in November 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 1, 2021
+msg:很好 很好 很好
+----------------------------------------
+name:F‍a‍x‍i‍a‍n‍h‍a‍n‍g‍z‍h‍o‍u
+info:Superior Queen Room
+info:Stayed in April 2022
+info:Friends
+info:19 Reviews
+rating:5
+posted:Posted April 6, 2022
+msg:酒店很不錯
+----------------------------------------
+name:K‍o‍n‍g‍r‍u‍f‍u‍y‍u‍n
+info:Superior 2-bed Room
+info:Stayed in February 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 2, 2022
+msg:早餐簡單了點
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in January 2022
+info:Friends
+info:1 Review
+rating:4.2
+posted:Posted March 14, 2022
+msg:乾淨舒服温馨
+----------------------------------------
+name:C‍h‍u‍t‍i‍a‍n‍k‍u‍o‍q‍i
+info:Superior Queen Room
+info:Stayed in July 2021
+info:Business travelers
+info:21 Reviews
+rating:3
+posted:Posted July 22, 2021
+msg:房間還可以，就是有點舊了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in June 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted June 21, 2021
+msg:條件還好，主要辦事吃飯方便
+----------------------------------------
+name:d‍o‍c‍t
+info:Deluxe Queen Room
+info:Stayed in October 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 3, 2021
+msg:很滿意，下次還來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in September 2021
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted October 16, 2021
+msg:非常好，早餐很豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in December 2021
+info:Other
+info:1 Review
+rating:4.5
+posted:Posted December 26, 2021
+msg:務服態度好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in November 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 14, 2021
+msg:非常好，很喜歡
+----------------------------------------
+name:p‍e‍t‍e‍r‍p‍a‍n‍2‍6
+info:Superior 2-bed Room
+info:Stayed in October 2021
+info:Family
+info:45 Reviews
+rating:5
+posted:Posted October 15, 2021
+msg:位置優越，環境好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in October 2021
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted October 25, 2021
+msg:週末沒有亂漲價
+----------------------------------------
+name:P‍u‍t‍o‍n‍g‍q‍i‍n‍g‍n‍i‍a‍n
+info:Executive Suite
+info:Stayed in May 2021
+info:Couples
+info:8 Reviews
+rating:5
+posted:Posted October 10, 2021
+msg:裝修中規中矩，總體還行。
+----------------------------------------
+name:P‍a‍n‍g‍b‍a‍o
+info:Family Suite
+info:Stayed in August 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted August 9, 2021
+msg:蠻好的，還會去！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in August 2021
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted August 29, 2021
+msg:好好好的，謝謝了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in April 2021
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted October 5, 2021
+msg:騎車的時候選的，非常喜歡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in June 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 14, 2021
+msg:環境不錯，交通方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2021
+info:Other
+info:1 Review
+rating:4
+posted:Posted October 2, 2021
+msg:房間比較舊了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in May 2021
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted July 27, 2021
+msg:感覺很好，很方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in October 2021
+info:Family
+info:3 Reviews
+rating:4.2
+posted:Posted October 7, 2021
+msg:位置很方便
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in August 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 27, 2021
+msg:環境很不錯👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in May 2021
+info:Other
+info:16 Reviews
+rating:5
+posted:Posted June 27, 2021
+msg:代訂 據説聽可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in August 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted September 3, 2021
+msg:早餐不錯👍
+----------------------------------------
+name:A‍i‍b‍a‍o‍b‍e‍i
+info:Superior 2-bed Room
+info:Stayed in April 2021
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted September 29, 2021
+msg:經濟實惠還特方便
+----------------------------------------
+name:g‍w‍d‍8‍8‍3‍8
+info:Deluxe 2-bed Room
+info:Stayed in April 2021
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted August 25, 2021
+msg:一流的服務，五星
+----------------------------------------
+name:W‍o‍j‍i‍a‍d‍e‍n‍i‍u‍n‍i‍u
+info:Superior 2-bed Room
+info:Stayed in May 2021
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted July 22, 2021
+msg:餐廳種類繁多
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in March 2021
+info:Other
+info:11 Reviews
+rating:5
+posted:Posted June 11, 2021
+msg:哈哈哈哈哈哈哈
+----------------------------------------

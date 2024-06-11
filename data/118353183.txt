@@ -1,0 +1,576 @@
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Family
+info:18 Reviews
+rating:4.5
+posted:Posted May 5, 2024
+msg:The hotel is surrounded by beautiful environment and very quiet at night. The hotel is big, big, big. Only the 2nd and 3rd floors are rooms. The state-owned enterprise has invested heavily in the development. It is still very cost-effective to stay at the current price. It may be because it is newly opened. I feel that the staff in all aspects are not proficient. The breakfast is only 4-star standard and not rich enough. I don’t know if it is because there are few people at the beginning (but the front desk informed that it was fully booked on the day)
+Facilities: Hard standard meets 5-star standards (toto bathroom, JBL Bluetooth speakers, Serta mattress (there is no coffee machine in the room and no gym is seen
+Hygiene: There is hair in the bathroom of the room,
+Environment: The surrounding area is quiet and leisurely.
+Service: At present, it feels that it is only 4-star standard, which is different from international 5-star chain hotels (hopefully only for now)
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Twin Room
+info:Stayed in April 2024
+info:Other
+info:45 Reviews
+rating:5
+posted:Posted May 1, 2024
+msg:Very satisfied! The newly opened hotel 🏨 has a very arrogant and magnificent appearance. The state-owned enterprise's handwriting is definitely not comparable to ordinary chain hotels. Manager Zhang and Xiao Tan at the front desk are warm and thoughtful. Praise 👍The room is spacious and bright, and the intelligent furniture configuration is great! The view outside the window, especially the night view, is beautiful. The only complaint is that the room has a decoration smell, which is inevitable for new hotels? Xiao Liu in the restaurant is polite, enthusiastic and empathetic, which makes people feel like spring breeze. The breakfast variety is rich, but unfortunately I didn't eat hot dry noodles. 😄When I left the hotel, I had a good chat with Xiao Zeng (?) supervisor, and I was happy 😆If I have the opportunity to come to Yichang again, I will choose to stay again.
+----------------------------------------
+name:X‍i‍a‍o‍y‍a‍o‍z‍i‍z‍a‍i‍d‍i
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Solo travelers
+info:16 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:Very very very good, the price is great value for money, the hardware is great, the decoration is great, the design is very good, I will come again next time
+----------------------------------------
+name:Q‍i‍n‍g‍c‍i‍_
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted May 6, 2024
+msg:The hotel opened in March. Overall it is very good. It is a little far from the city. It is more convenient if you have a car. The room has a little smell. The bedding is very comfortable. When I checked in at night, the floor waiter gave me ice powder. It is very good. Recommended.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:The location is good. Although it is in Dianjun District, it is very convenient to drive to CBD and Wujiagang, which takes only ten minutes. The price set during holidays is very nice compared to ordinary hotels in the city center, and the cost performance is very high. The room is large and spacious, and the scenery outside the window is very pleasant. There is a small refrigerator in the room. If you want to drink a little beer, you don’t have to find ice cubes. There is an ice bucket in the room refrigerator. You can quickly arrange ice cubes by calling the front desk. The sound insulation between the rooms is also very good, but the conversations in the corridor can still be heard in the room. Personally, I think the bad thing may be that there is nothing to eat nearby.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Family
+info:26 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:Everything is good. It's a newly opened hotel. The front desk and cleaning lady are all very welcoming. I hope the breakfast will be richer in the future. I will go to the gym next time.
+----------------------------------------
+name:X‍i‍o‍n‍g‍f‍u‍y‍u‍n
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Family
+info:22 Reviews
+rating:5
+posted:Posted May 9, 2024
+msg:New hotel, complete facilities, good service, also had dinner in the restaurant, the taste is very good, but the local taste is heavy, southerners feel a little salty, I told the restaurant about the situation, asked me if I want to redo it, I was full, forget it! Finally, the fruit was sent! The underground parking lot is also large and convenient
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted May 5, 2024
+msg:The most worthwhile thing to do when visiting Yichang is to stay here. It is a real treasure hotel. The environment is beautiful, the hotel decoration is very tasteful, and it is clean and hygienic. I especially want to praise the service staff for their good attitude, enthusiasm, and proactive greetings. I will stay here again next time I come to Yichang.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Couples
+info:83 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:The room environment is very good and grand. This is a newly opened hotel and there is no price increase during holidays. The location is a bit remote, but not too far. It is 8 kilometers to drive to the center, which is also OK.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Basic Suite
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted May 4, 2024
+msg:The room is OK and the facilities are new. But the capsule coffee machine does not have capsules.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Twin Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 27, 2024
+msg:The new hotel has opened with good environment, high-end facilities, good hygiene and good service!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 4, 2024
+msg:The room is large and comfortable, clean and sanitary, the service attitude is good, the breakfast is delicious, and the children like it very much.
+----------------------------------------
+name:W‍a‍n‍g‍x‍i‍a‍n‍s‍h‍e‍n‍g‍d‍e
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Family
+info:49 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:The hotel is quite high-end and a**ospheric, the environment is very ghostly and the air is very good. The lobby is very stylish, the rooms are spacious, bright and clean, the whole hotel is very large, and the breakfast is very good
+----------------------------------------
+name:W‍u‍s‍h‍i‍g‍u‍a‍n‍g‍h‍u‍o‍j‍i‍n‍g‍h‍a‍o
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Couples
+info:2 Reviews
+rating:2.2
+posted:Posted May 10, 2024
+msg:The hotel is newly opened, the facilities are very new, and many areas are not open yet. The front desk staff is quite unskilled in their business, and it takes less than half an hour to check in; the room is quite large, especially the washing space is very ample; there is a sofa in the room, the bedding is generally comfortable for sleeping, the immersion is not good, and the room is not smart. The biggest problem is that the hardware level in the room is worrying. I don’t know if the lamps in the room are intermittently lit or extinguished due to contact problems or control problems. At one o'clock in the middle of the night, I couldn’t stand it and asked the duty staff to deal with it. The duty staff responded slowly, and the maintenance staff provided slow service. Finally, I had to change the room. The room I changed was a mahjong room that had just been cleaned. The smell of smoke was super heavy. I could only bear it and barely fall asleep. It was a very bad night experience!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Couples
+info:11 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:Very good, the room is new, the facilities are also very good, the underground parking lot is large, parking is convenient, and the yard is also large. Disadvantages: Not in the central city, but in the outskirts.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Friends
+info:7 Reviews
+rating:4.5
+posted:Posted May 15, 2024
+msg:Driving tour, the hotel hardware is good. But the service awareness is really bad, the front desk is not enthusiastic enough, room upgrade? Floor? Are there children? Etc. The security is even more weird. On rainy days, you can't park at the hotel gate when waiting for children to come out, and there must be no cars at the door. Do you think black cars are soliciting passengers at your door?
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 8, 2024
+msg:Newly opened hotel with great environment and large rooms. It is much better than hotels in the city center. There is no price increase during holidays. I will choose this hotel again when I come to Yichang next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:This newly opened hotel has complete facilities, elegant environment, thoughtful service, convenient parking, and is surrounded by supermarkets, restaurants, and milk tea shops... If you are traveling by car, it is also very convenient to get to the city center. It is worth recommending!
+----------------------------------------
+name:A‍b‍u‍n‍i
+info:Premier Twin Room
+info:Stayed in April 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:The hotel is very upscale and meets the standards of a five-star hotel, but it is too new and has a bit of a decoration smell. Miss Liu Jingjing from the catering depar**ent is very good, the service is thoughtful, kind and professional. The child dripped vinegar on his hat, and it was handled very quickly. Thank you very much!
+----------------------------------------
+name:A‍p‍p‍l‍e‍0‍3‍4‍5
+info:Premier Twin Room
+info:Stayed in April 2024
+info:Family
+info:2 Reviews
+rating:4.5
+posted:Posted May 2, 2024
+msg:The hotel has just opened, the facilities are very new, the parking lot is super large, the facilities are first-class, the breakfast is OK, and there is room for further improvement. The stay experience is good. The only drawback is that the location is not in the city, it is a bit remote, but compared to the price, the cost performance is very high!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:環境位置一流，價格合理，性價比高。地下停車場很大，停車非常方便。新酒店，一切都很乾凈敞亮。
+但是九點鐘去吃早餐，明檔就已經收了，是否太早了。自助區的東西也所剩無幾且不再上新了，所以早餐感覺有點匹配不上酒店的檔次。另外前台和客房的服務態度都比較冷淡，可能是培訓還不太到位。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted May 6, 2024
+msg:設施：酒店外觀裝修豪華大氣，設施齊全，停車入住都很方便
+環境：外圍環境綠草葱綠，步道路燈優雅氣質，遠離城囂的小花園，乾淨舒適。
+衞生：房間整體比較整潔，衞生間佈局細節有待考量，不夠人性化，房型的隔音效果不佳，基本能聽到外面清晰的話音，中央空調製冷效果欠佳，有明顯的風燥，還是影響到睡眠質量，整體細節與豪華酒店有很大差距。
+服務：服務反饋，能及時處理
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:賓館的環境幽靜，設施齊全，大堂、公共區域、房間寬大明亮，床品舒適。前台美女主管張女士接待熱情、禮貌、專業，樓層服務人員熱心細緻。賓館新近開業，洗衣間尚未建設完工，臨時洗衣烘乾設備少，服務人員見我需求急迫，找來夜班工勤人員新開封安裝一台烘乾機為我烘乾衣服。
+----------------------------------------
+name:C‍h‍i‍m‍a‍n‍y‍i
+info:Privilege Queen Room
+info:Business travelers
+info:Stayed in May 2024
+info:17 Reviews
+rating:5
+posted:Posted May 21, 2024
+msg:一起訂了三間房，非常棒！
+設施：一流
+
+衞生：相當乾淨
+
+環境：高大尚來形容都不為過
+
+服務：熱情、有禮
+隔音很好，房間很大，床墊枕頭也很舒適，安睡！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Twin Room
+info:Stayed in June 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted June 10, 2024
+msg:端午節到宜昌旅遊，酒店環境很好，園林綠化都很漂亮，房間裏送的梔子花很香，早餐品種也很豐富，價格實惠，設施很新，非常滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Couples
+info:20 Reviews
+rating:4
+posted:Posted May 27, 2024
+msg:酒店外面還是蠻好的. 
+但是裏面就感覺有點舊了. 
+可能時間也比較長了. 
+但是裏面的東西質量還不錯. 
+ 
+價格不貴的時候可以定！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:五一在宜昌呆了4天，住了3家酒店，這家最棒！服務好環境好，我與先生非常滿意，下次有機會來宜昌還來這家住。真心不錯👍
+----------------------------------------
+name:B‍e‍n‍p‍a‍o‍d‍e‍w‍u‍g‍u‍i‍。
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:100 Reviews
+rating:5
+posted:Posted May 30, 2024
+msg:房間很大，安靜景色很美。當地最好的五星級酒店沒有之一。強烈推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Twin Room
+info:Stayed in April 2024
+info:Solo travelers
+info:40 Reviews
+rating:5
+posted:Posted May 16, 2024
+msg:乾淨衞生環境很好服務很棒設施齊全離三峽大壩很近，去三峽大壩和清江畫廊建議住這
+----------------------------------------
+name:Z‍e‍y‍e‍�‍�‍�‍�
+info:Premier Twin Room
+info:Stayed in June 2024
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted June 9, 2024
+msg:設施：新的酒店，設施很完善
+衞生：非常乾淨
+環境：挺舒服的。就是周邊可能清凈了一點
+服務：服務員都很熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted May 26, 2024
+msg:酒店服務設施都非常好。一進去就有安全感，像是政府接待酒店，早餐也很豐富，下次去還會選擇
+----------------------------------------
+name:c‍l‍i‍m‍b‍e‍r‍0‍2‍0‍4
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted May 17, 2024
+msg:新賓館，位置在新區，出去玩需要自己開車，但硬件設施齊全，地下車庫超級大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in May 2024
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted May 6, 2024
+msg:設施沒什麼好説的，前台私自把我們訂的房間給別人當房型升級，不誠實。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 5, 2024
+msg:這個酒店真的好好的呢！房間很大，有很乾凈！户外的綠化超級舒服。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:特別棒的體驗，設施更新，房間大，裝修新中式，服務態度也很好
+----------------------------------------
+name:l‍u‍c‍k‍s‍.‍¥
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:環境好，衞生很乾凈，高端酒店，在宜昌應該是最好的酒店了吧。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted June 1, 2024
+msg:酒店新開業，房間很寬敞。床單浴巾都是新的。非常漂亮
+----------------------------------------
+name:I‍s‍ ‍b‍a‍n‍g‍b‍a‍n‍g‍t‍a‍n‍g‍�‍�
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:4
+posted:Posted June 5, 2024
+msg:房間整潔乾淨，酒店剛剛開業不久，入住還是有點味道
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:安靜，周圍外賣不怎麼方便，有車住宿還是很方便的。
+----------------------------------------
+name:X‍i‍a‍o‍y‍a‍o‍k‍e
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 6, 2024
+msg:酒店非常不錯，很安靜，很乾凈，來宜昌還會選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:非常** 服務態度** 哪都** **就對了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 3, 2024
+msg:設施：好
+衞生：乾淨
+環境：舒適
+服務：周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Family
+info:34 Reviews
+rating:4.7
+posted:Posted May 22, 2024
+msg:房間很好，很新的酒店，就是還會有點味道
+----------------------------------------
+name:S‍a‍i‍w‍e‍i‍l‍i‍y‍a‍l‍i‍u‍y‍i‍l‍o‍n‍g
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:房間大，設備設施新，服務好，五星好評
+----------------------------------------
+name:N‍a‍n‍j‍i‍a‍z‍h‍o‍u‍y‍a‍n‍g‍g‍u‍a‍n‍g
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Family
+info:38 Reviews
+rating:5
+posted:Posted June 11, 2024
+msg:不錯哦，值得推薦，服務蠻好！家庭出遊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:酒店設施非常新，整體環境很好，值得推薦
+----------------------------------------
+name:D‍u‍x‍i‍n‍g‍k‍e‍3‍7‍0‍1
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Friends
+info:24 Reviews
+rating:5
+posted:Posted June 2, 2024
+msg:環境優雅舒適，房間寬敞，早餐豐盛
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted May 7, 2024
+msg:酒店非常氣派，乾淨衞生，早餐不錯👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in April 2024
+info:Family
+info:14 Reviews
+rating:4.1
+posted:Posted May 9, 2024
+msg:距離景區較遠，房間新裝修，有點味道
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Family
+info:26 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:房間很舒服，很大，酒店也漂亮。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:62 Reviews
+rating:5
+posted:Posted June 5, 2024
+msg:酒店很大很新 周圍環境很好
+----------------------------------------
+name:V‍i‍n‍s‍o‍n‍P
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Friends
+info:17 Reviews
+rating:5
+posted:Posted May 16, 2024
+msg:很厲害的酒店，服務也非常周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 4, 2024
+msg:總體還不錯，早餐可以更好
+----------------------------------------
+name:W‍a‍n‍w‍a‍n‍s‍h‍u‍n
+info:Privilege Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted April 26, 2024
+msg:環境優美，房間整潔衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Twin Room
+info:Stayed in April 2024
+info:Friends
+info:13 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:交通便利。環境優美舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in May 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:非常喜歡，環境很好👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Couples
+info:15 Reviews
+rating:4.7
+posted:Posted May 12, 2024
+msg:很好 但是還需提高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted May 18, 2024
+msg:房間很好，乾淨精緻
+----------------------------------------
+name:S‍h‍u‍t‍o‍u‍d‍e‍f‍a‍n‍q‍i‍e‍ ‍
+info:Business Queen Room
+info:Stayed in May 2024
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted May 22, 2024
+msg:非常滿意的酒店
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in April 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted April 14, 2024
+msg:整體感覺都很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Premier Twin Room
+info:Stayed in May 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted June 8, 2024
+msg:環境超級好
+----------------------------------------

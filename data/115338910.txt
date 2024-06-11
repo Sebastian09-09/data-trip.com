@@ -1,0 +1,339 @@
+name:D‍a‍d‍a‍o‍t‍i‍n‍g‍w‍u‍w‍a‍n‍g‍l‍i‍a‍o
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Family
+info:31 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:Located near the riverside village, the environment is elegant and convenient, and the night view is very unique. The front desk staff on the morning shift is enthusiastic, helping to introduce the surrounding environment and helping to upgrade to a river view room. The room has a strong sense of design, simple and practical.
+----------------------------------------
+name:m‍i‍m‍i‍f‍a‍s‍u‍o
+info:River-view Twin Room
+info:Stayed in May 2024
+info:Family
+info:24 Reviews
+rating:5
+posted:Posted May 6, 2024
+msg:The hotel is located in the Shanshui Shuanghe Scenic Area. The hotel design is simple and stylish. The viewing balcony can see the stream and the plum trees on the mountain. The room is clean and tidy. The waiter is friendly and kind. The breakfast is rich and delicious.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Courtyard Double Room (Hot spring)
+info:Stayed in February 2024
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:The hotel is very new, with a stylish layout and a rich breakfast variety. The front desk and cleaning ladies are very polite. There was a lot of traffic during the Spring Festival holiday, so it was understandable that the room delivery was delayed. During the waiting period, we thoughtfully provided coffee and upgraded to a suite for free. After experiencing the suite, from the perspective of the best among the best, we recommend: (1) Some of the power lines in room 388 are probably installed incorrectly, and the plug on one side of the bedside is dead; the lights in the living room and bathroom are directly connected to the toilet lights in the room. When turning on and off synchronously, the bathroom lights in the room cannot be controlled independently. In the middle of the night, the bathroom lights in the room cannot be turned on. When I want to use the toilet outside the living room, as soon as the light is turned on, the mirror lights in the room are directly turned on again. Frightened family members and children. (2) The bathroom partitions in the room are detailed, and there are two sets of wash basins and faucets, but there are no hooks for washing items, and there is no space to put clean clothes on the stone table. The bathroom space is not large, and there is no possibility to hang clothes to dry. After washing, you have to come out of the basin area to get dressed, but the door to the wash area does not close tightly at all, which is really inconvenient for families with children.
+----------------------------------------
+name:B‍r‍o‍k‍i‍l‍o
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted February 13, 2024
+msg:The newly opened hotel has good room facilities, a good view, and the service at the front desk is also very good. It is suitable for a vacation. The overall experience is very good. I will go again if I have the opportunity.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 29, 2024
+msg:The hotel environment is great and the staff's service attitude is very good. I'm tired of staying in the city. It's a good choice to come here to relax my body and mind. The room is clean and tidy, and the food is delicious. I will bring my family here next time. A super five-star experience, worth recommending to friends.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 29, 2024
+msg:I went on a trip with friends a few years ago. The environment was nice and the scenery was nice. The hotel provides breakfast and it tastes good. come back next time.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted January 29, 2024
+msg:The service at the front desk of the hotel is warm and thoughtful, and they can respond patiently to any questions raised. The hotel is in the mountains, so the temperature is low. The waiters are very warm and considerate and ask to keep warm. The room is also very clean, and the bedding is relatively comfortable. I think this hotel is excellent value for money. Value for money, recommended!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 17, 2024
+msg:This hotel is quite interesting, and the things to play in it are a little different from those in other hotels. The park is very large, with an orchard, a parent-child playground, and a bookstore. It will not be boring for a family trip!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 17, 2024
+msg:It seems that it is a newly opened hotel. I looked around and there are promotions in this hotel. In comparison, the price/performance ratio is relatively high. I thought about the price and tried to stay. I was unexpectedly satisfied. The environment is very beautiful and the room is very quiet. There is no peculiar smell, the facilities and equipment are very new, the service at the front desk is very good when checking in, and a welcome gift is given. It is worth recommending! 🌝🌝
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 12, 2024
+msg:The air is good, the environment is beautiful, the breakfast is rich, the hotel is clean, and the stay is very comfortable. Will come with my family next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted January 15, 2024
+msg:I am very satisfied with my stay. The environment is very comfortable. It is a new hotel with complete equipment and facilities. The breakfast is also very good. It is really quiet and very suitable for traveling. The plum blossoms in the nearby mountains are blooming all over the mountains and the air is very good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 9, 2024
+msg:I came back to my hometown from Guangzhou to do some work and take a vacation~
+Facilities: Very new. It’s a comfortable stay in a new hotel. Everything is new. It doesn’t feel like the facilities and equipment are old.
+Health: Very good, very clean
+Environment: The air is very good, very suitable for vacation⛱️
+Service: The staff’s service attitude is very good 👍
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 4, 2024
+msg:Went out to play with friends. The environment and air are very good. It is very suitable for a vacation to relax. It is recommended to take the family for a vacation during the Chinese New Year.
+After walking around the park, I found that there is actually a library, which is very suitable for bringing children to play.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted January 4, 2024
+msg:I booked this hotel for travel. The lobby was very beautiful as soon as I entered it. The room was clean and tidy with good sanitation. There was also a small hanging chair and the scenery outside the window was also very good.
+The hotel provides breakfast, which has a lot of varieties and tastes good. It feels like it's worth it.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in December 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted January 2, 2024
+msg:I looked at several hotels and finally chose this one. I thought that many things in the new hotel were not perfect, but after checking in, I found that it was different. The environment was really beautiful, the rooms were comfortable, and the housekeeping staff was very friendly and solved our doubts. Thumbs up. . . .
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2023
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted December 29, 2023
+msg:The hotel has complete facilities, the rooms are clean and tidy, the bedding is very comfortable, and the daily necessities are complete, giving people a comfortable living experience. The attitude of the service staff is very enthusiastic. Not only are they attentive, but they can also proactively provide all kinds of help. Whether it's cleaning or checking in, everything is very smooth and feels very comfortable. The service attitude is super good! !
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Themed Family Friendly Room
+info:Stayed in May 2024
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted May 6, 2024
+msg:The hotel is located in the Shanshui Shuanghe Scenic Area of ​​Qianpai Town, at the foot of Fengche Mountain, with a good location.
+Let's talk about the advantages first:
+The hotel is brand new, with a good design style. At least it can be ranked in the top ten among the hundreds of hotels I have stayed in. The service is in place, and they also helped me upgrade the room type for free, and took me to see several room types before letting me choose whether to upgrade or not. This is worth a thumbs up👍. The view from the viewing balcony is also very good! Although there are not many types of breakfast, they are all very exquisite. The key is that they are very hygienic, and the restaurant service is also impeccable!
+Let's talk about the disadvantages:
+The hotel navigation is very poor. After arriving at the navigation, there is no sign of where the door is and where to park. The key is to design the door at the back and the parking lot entrance on the side. This is incomprehensible.
+In addition, as a resort hotel, at this price, the room is indeed a bit small and cramped. The shower room should be designed in the middle, and the water will overflow directly to the bed when taking a shower. There is no leisure table and chair on the landscape balcony, only a hanging basket. It is a waste of such a good view without sitting and watching the scenery!
+Sincerely suggest that the hotel can improve as soon as possible, and don't let the originally good hotel lose in details!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 29, 2024
+msg:Very satisfied 👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe River-view Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 21, 2024
+msg:The room is clean and hygienic. Good service attitude. Breakfast quality is also very good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2024
+info:Family
+info:14 Reviews
+rating:4
+posted:Posted May 21, 2024
+msg:酒店比較新，配套的停車場、泳池和餐館等周邊環境正在施工。酒店整體裝修和氛圍檔次感不錯，房間隔音也不錯。最大不足是浴室是加建的，漏水比較嚴重。另外預訂的酒店訊息註明有泳池，但實際泳池正在施工，應該要註明提示，帶着小孩想去游泳最後落空。
+----------------------------------------
+name:Y‍i‍n‍g‍g‍e‍8‍0‍2‍8
+info:Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:14 Reviews
+rating:4.5
+posted:Posted May 19, 2024
+msg:酒店及周邊環境非常OK，房間衞生也可以，不足的房間太小，這個價格配這麼小的房間，我覺得不是很值吧，還有就是沐浴間連個鈎子也沒有，毛巾都沒地方掛，非常的不便，其他也沒什麼，還有早餐不錯，挺豐盛的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 29, 2024
+msg:服務好好，住的好舒服！十分滿意！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 29, 2024
+msg:酒店不錯，環境和服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:32 Reviews
+rating:3.7
+posted:Posted May 16, 2024
+msg:房間性價比不高，不值得這個價格，房間太小，衹有早餐是做得比較好！早餐的工作人員態度不錯。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 29, 2024
+msg:環境不錯，閨蜜都説服務態度好，下次春節看李花又過來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 29, 2024
+msg:酒店的設施完善，停車方便，很滿意的一次入住體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 29, 2024
+msg:房間不錯，衞生也很好，服務也好，確實不錯
+----------------------------------------
+name:1‍2‍3‍4‍5‍5‍4‍3‍2‍1‍0
+info:Deluxe River-view Queen Room
+info:Stayed in February 2024
+info:Friends
+info:24 Reviews
+rating:5
+posted:Posted April 22, 2024
+msg:設施：很好
+環境：很好
+服務：很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted January 29, 2024
+msg:房間整潔大方，裝修非常好，環境清幽。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 29, 2024
+msg:酒店房間入住舒適，衞生乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted June 8, 2024
+msg:非常不錯，服務好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Courtyard Double Room (Hot spring)
+info:Stayed in May 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:小姐姐
+服務好好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted January 29, 2024
+msg:服務不錯，早餐也好吃
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 29, 2024
+msg:酒店不錯，很滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted January 29, 2024
+msg:可以不錯，**
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Other
+info:6 Reviews
+rating:3.5
+posted:Posted January 23, 2024
+msg:空調風機很響
+----------------------------------------

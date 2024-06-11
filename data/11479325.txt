@@ -1,0 +1,4527 @@
+name:W‍a‍n‍d‍e‍r‍s
+info:Business Double Room
+info:Stayed in April 2023
+info:Friends
+info:13 Reviews
+rating:4
+posted:Posted May 3, 2023
+msg:Opposite the Wetland Park. Easy to walk from the main part of the city. Some local restaurants nearby. Changyi Railway Station is the closest - about 10 minutes by taxi but it doesn’t show in the hotel info.
+----------------------------------------
+name:H‍e‍e‍w‍o‍n‍ ‍O‍h
+info:Deluxe Double Room
+info:Stayed in July 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted July 4, 2023
+msg:I had an awesome stay. The staff were very friendly and the service was great. The food was spectacular. I could not recommend the hotel enough.
+
+If I had to add one thing I wish I could change -- it would be that I wish they offered onsite laundry service.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:2
+posted:Posted September 5, 2022
+msg:The strong smell of smoke in the non-smoking room demonstrates the hotel's poor attention to non-smoking customers.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 18, 2023
+msg:Facilities: Hotel facilities are complete
+Hygiene: The hotel is clean and tidy
+Environment: Opposite the hotel is the Wetland Park
+Service: Hotel staff are enthusiastic
+----------------------------------------
+name:B‍e‍c‍k‍h‍a‍m‍Z
+info:Business Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 9, 2023
+msg:Very good check-in experience. The service at the front desk is very thoughtful and warm. The environment is beautiful and quiet. It is very suitable for self-cultivation. Parking is also very convenient and free
+----------------------------------------
+name:y‍u‍a‍n‍1‍2‍3
+info:Deluxe Double Room
+info:Stayed in February 2023
+info:Couples
+info:14 Reviews
+rating:3.2
+posted:Posted February 5, 2023
+msg:What this store does better is the service and the environment. But the sanitation is average, there are uncleaned cigarette butts in the obvious places of the room, and the bathroom smell is serious. The room facilities are complete, but they are quite old, and the TV cannot be projected on the screen, let alone intelligent facilities. Such a large hotel does not even have a service robot. The linen is clean, but the toiletries are lakwa. It may be the best hotel in Changyi, but the price/performance ratio is really low.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 21, 2023
+msg:The whole hotel is very nice, the living experience is very good, the breakfast has Chinese food and Western food, the coffee and hot black tea are very good, and the view from the window is also very good. The service Xiao Wang at the front desk is very good, and he is very nice.
+----------------------------------------
+name:G‍u‍l‍i‍a‍n‍g‍n‍e
+info:Deluxe Double Room
+info:Stayed in March 2024
+info:Solo travelers
+info:109 Reviews
+rating:5
+posted:Posted April 4, 2024
+msg:房間温馨！酒店很大氣！早餐品種豐富！乾淨衞生！服務員都很熱情友好！！門口種的玉蘭花真的好美好美！！！喜歡！感謝酒店贈送的小水果哦！！下次還來！值得推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 4, 2024
+msg:服務很好，免費送了水果和酸奶，走的時候忘了一件衣服，前台漂亮小姐姐主動打電話並給寄回家了，非常好的體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in March 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 15, 2024
+msg:房間舒適温馨，前台小李同學接待熱情，服務細緻周到！
+----------------------------------------
+name:Y‍i‍h‍e‍w‍e‍i‍g‍u‍i‍h‍e‍q‍i‍s‍h‍e‍n‍g‍c‍a‍i
+info:Deluxe Room (2 beds)
+info:Stayed in December 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted December 12, 2023
+msg:首次來昌邑出差，入住金陵御景酒店，不但酒店温馨漂亮，乾淨整潔。而且前台小於服務員也熱情，周到！此酒店值得體驗！
+----------------------------------------
+name:S‍u‍i‍y‍u‍e‍r‍a‍n
+info:Business Room (2 beds)
+info:Stayed in March 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted March 30, 2024
+msg:老顧客，每年都來，我自身便是酒店🏨行業，對於服務也是額外敏感，酒店前台服務達標五星，前台李小姐，服務、微笑、問答、耐心符合賓至如歸的感覺。雖説當天晚上餐廳兩位人員在問答和衹顧自己接電話，冷漠，有生疏態度。但第二天的第二批服務人員卻特別的熱情款待。總體還是滿意
+----------------------------------------
+name:X‍i‍a‍o‍l‍e‍i‍l‍e‍i
+info:Business Double Room
+info:Stayed in December 2023
+rating:5
+info:2 Reviews
+posted:Posted December 23, 2023
+info:Other
+msg:非常好，暖氣很足，很貼心準備了小水果，晚上也很安靜，服務也很到位，非常棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 23, 2023
+msg:酒店非常好，工作人員都很客氣，細心周到，尤其前台小李。這個價位非常推薦
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business suite
+info:Stayed in April 2024
+info:Family
+info:7 Reviews
+rating:4.3
+posted:Posted April 29, 2024
+msg:去的時候碰到酒店有活動所以標房滿房 衹好入住了雙大床套房，酒店在昌邑絕對算最好的存在了。前台小孫也非常熱情友善。下次去昌邑應該還會住的。這次唯一的缺點就是馬桶下水不好。
+----------------------------------------
+name:T‍i‍a‍n‍k‍o‍n‍g‍c‍a‍i‍h‍o‍n‍g
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 3, 2023
+msg:房間寬敞衞生，設施齊全，還有冷櫃，入住還有水果送。地理位置不錯，近公園，環境好。停車場寬敞，不堵車。服務人員熱情周到，無論是前台還是房間搞衞生的工作人員都熱情周到，禮貌有加，特別是小於服務員，不僅服務好，對客人的需求有問必答，主動幫助客人解決問題，非常點贊。是一間值得推薦的酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 10, 2023
+msg:先要來誇一下前台小於服務十分周到，家人我們到店已經晚上11點多了，前台小姐姐很快的就辦理了房間入住，並且幫我們寄存了冷凍物品，細心的為我們貼好標簽以免拿錯。❤小姐姐貼心的幫我們辦理了升級房間並且準備了酸奶和水果，讓這趟倉促的旅程得到了舒適的休息～
+酒店整體很舒服，床質量也很舒適～臨着河景色也不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 11, 2024
+msg:設施：特別好
+衞生：特別好
+環境：特別好
+服務：前台小李周到的服務
+
+整體店裡的環境很好，採光也不錯，蠻適合拍照的超讚，價格實惠品質還不賴，真是一個寶藏平台，前台小李服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted July 15, 2023
+msg:房間乾淨舒適安靜，性價比很高，前台小於很熱心。餐廳也不錯，因為腸胃不適，很慶幸有清淡的雞湯麪，衹是份量太大了，一大盆，兩個人點了一葷一素一面，衹吃了一半。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted July 9, 2023
+msg:環境不錯，很安靜，在昌邑地區算是非常不錯的酒店了。前台小姐姐還送了免費的酸奶和水果到房間，非常滿意。酒店的飯菜也可以，價格不高。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted May 15, 2023
+msg:酒店整體還不錯，停車也比較方便，前台小王服務周到細心，貼心的安排了小童拖鞋，贈送了水果和自製酸奶，剛進房間比較熱，空調一直不降温，應該是剛開使使用空調沒排查到位，打了前台電話很快客房大姐和工程維修師傅來給解決了，其次就是床有點硬，其它都比較不錯，推薦入住！
+----------------------------------------
+name:s‍g‍m‍n
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted November 17, 2023
+msg:可能是昌邑最好的了，就是離高鐵機場有點遠，要做好計劃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:147 Reviews
+rating:5
+posted:Posted March 13, 2024
+msg:入住體驗非常棒！感謝前台小王送的水果，酸奶，這在我們晚上應酬完回酒店來講非常的體貼，還有前台小孫，兩位娟娟美女。再次感謝
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted January 2, 2024
+msg:很高端的酒店旁邊就是濰水濕地公園環境很好🤩，前台姓李的小姐姐服務態度超級好，還給升級了房間，送的水果和酸奶也非常好吃！！強烈推薦，還有早餐的蔬菜特別新鮮！！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted January 1, 2024
+msg:裝修風格像是國營老酒店，但是房間裝修和傢俱都很新，前台小於的服務很好，在酒店打印東西開票都很順利，退房後發現耳機忘了帶前台及時告知，聯繫了騎手幫我取回耳機
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:66 Reviews
+rating:5
+posted:Posted May 31, 2024
+msg:昌邑最好的酒店吧，硬件設施服務水準都不錯，就是周邊沒什麼配套，吃飯的話酒店菜還可以。
+----------------------------------------
+name:T‍e‍n‍g‍y‍o‍n‍g‍ ‍y‍u‍n‍h‍e‍c‍h‍a‍f‍a‍n‍g
+info:Business Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted December 23, 2023
+msg:酒店環境很好，門前就是公園，整潔度也很好，前台小李服務很熱情，一看就是專業有素質，整個酒店的服務也很專業，感覺在昌邑，這酒店服務絕對是超一流的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted December 10, 2023
+msg:酒店位置不錯，邊上是一個很大的濕地公園，交通也方便，早餐種類比較多，停車場很大。
+尤其值得一提的是前台小李，有問必答，態度和藹，服務周到細緻，贊！
+----------------------------------------
+name:X‍i‍n‍c‍h‍e‍n‍g
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Booked for others
+info:102 Reviews
+rating:5
+posted:Posted June 1, 2023
+msg:昌邑最好的酒店了，整體還算可以，就是附近吃飯什麼的不是很方便，房屋面積寬敞，整體衞生還算可以，可以。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in September 2023
+info:Business travelers
+info:5 Reviews
+rating:4.7
+posted:Posted September 17, 2023
+msg:服務是很一流的，員工從大到小都很有素質，早餐出乎意料的好，甚至還有中英文對照，房間很大，風景也很好，但是，洗澡淋浴體驗極差，水温忽冷忽熱，根本沒法洗，另外我住的套間，客廳空調管用，卧室空調完全不管用。希望酒店可以改進下這兩點！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted April 20, 2023
+msg:昌邑當地最好的酒店了，酒店對面便是濕地公園，環境很好。
+住宿一晚，在酒店中餐廳用的餐，各個方面還是很不錯的，有送水果和酸奶，前台小於服務周到熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted September 22, 2023
+msg:來出差住的酒店，應該是昌邑最好的酒店了，入住體驗很好，房間乾淨安靜，所有工作人員都很熱情，尤其前台小孫服務十分周到、細心，提前問我們對客房有什麼要求，還給送了酸奶和水果，五星好評！下次來還住
+----------------------------------------
+name:X‍i‍a‍o‍y‍a‍n‍g‍k‍a‍k‍a‍x‍i
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted January 25, 2024
+msg:前台服務人員很熱情，進房時發現空調已開好，還有歡迎水果，很暖心。早餐也不錯，品種比較多。下次來還會選擇金陵御景灣。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted May 6, 2023
+msg:酒店外部環境挺好！內部乾淨整潔！也很安靜！服務滿意！早餐滿意！送的水果很貼心，這次出差預訂酒店很棒👍
+----------------------------------------
+name:C‍C‍7‍7‍3‍3
+info:Superior Suite
+info:Stayed in December 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted December 23, 2023
+msg:住的超級舒服，酒店的工作人員説話都特別温柔，還送了水果，早餐早上六點半就開始，對早起考試黨特別友好，下次來昌邑還要住這兒😊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted March 30, 2024
+msg:酒店環境清潔，床品乾淨，特別前台小李服務熱情細緻周到，下次再來，一如既往選擇御景灣
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted January 12, 2024
+msg:酒店的前台接待員小董服務非常好讓你在寒冷的冬天感到非常的温暖 房間住着很舒適感謝小董體貼入微賓至如歸的服務。
+----------------------------------------
+name:R‍e‍l‍a‍n‍g
+info:Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:9 Reviews
+rating:4.2
+posted:Posted March 16, 2024
+msg:在昌邑，估計是住宿的唯一選擇了。住慣了萬豪，一對比，服務的水準和意識還是差了一大截。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted January 26, 2024
+msg:房間很好，地理位置優越，對面就是河濱公園，風景優美，酒店乾淨衞生，服務到位，特別是前台小於服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in July 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted July 20, 2023
+msg:酒店位置不錯，附近景色優美，出行非常方便。停車場很大，酒店周邊有網紅打卡地濕地公園，沒事還能散散步，就很不錯！員工服務也很熱情，前台小王服務也很周到細心，房間環境也很讓人舒服，整體很不錯，很好的一次體驗！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted September 28, 2023
+msg:酒店乾淨的居住環境，讓客人感覺非常舒適。前台小於也很親切，給人留下了深刻的印象。酒店的管理和服務也非常出色，在酒店裡度過了一個愉快和難忘的假期。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2024
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted April 9, 2024
+msg:前台小王服務熱情，對於我們入住後的幾項需求都快速回饋和處理。點個贊！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 11, 2024
+msg:房間乾淨整潔，服務周到，還贈送了酸奶和水果，感謝前台小董幫助升級了房間，早餐豐富。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:8 Reviews
+rating:4
+posted:Posted January 24, 2024
+msg:昌邑環境比較好的酒店，前台小劉熱情服務，周到細緻，房間乾淨，早餐比較豐盛，有歡迎水果和酸奶
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 29, 2024
+msg:房間很好，還特地準備了水果和酸奶。對於我這種睡眠質量不好的隔音也很好
+----------------------------------------
+name:n‍i‍n‍a‍3‍a‍3‍b
+info:Deluxe Double Room
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 27, 2023
+msg:前台小孫提前致電詢問對房間有什麼要求 是否需要小童洗漱用品 非常細心 我們到酒店已經11點多了 前台幫我快速辦好入住 讓我們儘快帶孩子休息 酒店各方面設施都不錯 早飯很豐盛
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 8, 2023
+msg:酒店環境很好，房間佈局很舒適，前台服務很好，很禮貌，大堂小安經理很熱情，幫忙引路，服務很貼心，推薦的零點餐廳也不錯，價格實惠，看得出來酒店管理很到位，下次還會入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 16, 2024
+msg:房間和服務都很好！前台小劉服務周到細緻，送刮鬍刀什麼的很快！下次來還住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 23, 2024
+msg:房間很滿意，前台小李服務周到細緻，房間還給免費做了升級，贈送了水果和酸奶，早餐很豐富
+----------------------------------------
+name:W‍a‍n‍g‍s‍h‍e‍n‍g‍x‍i‍r‍r‍v‍6‍6‍0‍8‍1‍0
+info:Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 29, 2024
+msg:很喜歡很乾凈温馨，服務態度很好！我們以後來還住這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 5, 2023
+msg:昌邑比較好的酒店了，房間裏設施還不錯，衞生也算到位，離市裡也近，前台小王服務態度好，值得表揚，推薦！
+----------------------------------------
+name:f‍o‍x‍5‍1‍1‍1‍2
+info:Business Room (2 beds)
+info:Stayed in January 2024
+info:Solo travelers
+info:136 Reviews
+rating:5
+posted:Posted January 19, 2024
+msg:酒店位置優越，環境幽雅。酒店工作人員服務到位，早餐豐富，車位充足，房間寬敞明亮。
+----------------------------------------
+name:H‍u‍o‍x‍i‍n‍g‍w‍a‍n‍g‍z‍u‍x‍i‍a‍n
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 5, 2023
+msg:來昌邑出差，晚上住的這裏，內部環境乾淨寬敞，各種設備也很齊全，前台小於服務超好，加了微信有任何問題找她，她都會秒回，非常奈斯🥳
+----------------------------------------
+name:C‍h‍a‍n‍g‍y‍i‍l‍i‍u‍x‍i‍a‍o‍w‍e‍i
+info:Business Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 13, 2024
+msg:房間
+衞生：乾淨
+設施：完備
+環境：好
+服務：周到
+----------------------------------------
+name:B‍e‍i‍b‍e‍i
+info:Deluxe Room (2 beds)
+info:Stayed in April 2024
+info:Friends
+info:33 Reviews
+rating:5
+posted:Posted April 24, 2024
+msg:服務不錯，酒店設施在昌邑算最好的了，每次回來基本都住這
+----------------------------------------
+name:T‍i‍n‍g‍y‍u‍w‍a‍n‍g‍z‍i
+info:Superior Suite
+info:Stayed in June 2023
+info:Business travelers
+info:118 Reviews
+rating:5
+posted:Posted June 14, 2023
+msg:二年疫情後，第一次回家鄉，仍然選擇住在金陵御景灣酒店。這應該是家鄉最好的酒店了吧，這次回來讓我印象最深刻的是熱情的前台小董，她的接待讓我覺得特別的親切，回家的第一感覺真的太好了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in November 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted November 30, 2023
+msg:挺熱情的。因為我們是晚餐後去入住的，到點稍微晚，前台小李很熱情地幫我們辦手續，快速入住的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:40 Reviews
+rating:5
+posted:Posted April 20, 2023
+msg:第一次到昌邑出差，住金陵御景灣酒店，沒想到昌邑有這麼好的酒店，房間乾淨整潔，酒店周邊環境非常好，酒店對面就是濕地公園，特別要講的是酒店服務到位，前台的於子醬小姐姐接待的我，熱情，大方，得體，酒店有這樣的員工是酒店的財富和幸事，下次到昌邑還住貴酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in November 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted November 15, 2023
+msg:停車方便，入住很快，前台小孫服務熱情，性價比高，房間乾淨整潔還給送的水果和酸奶，十分滿意👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted November 26, 2022
+msg:昌邑最好的酒店，沒有之一。
+前台服務熱情，話語和微笑都很暖心，給人賓至如歸的感覺。房間及衞生間乾淨清爽，設備設施功能正常好用，很不錯的入住體驗。
+----------------------------------------
+name:5‍0‍5‍2‍6‍9‍7‍6
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted February 4, 2024
+msg:房間很乾凈，很舒適，很温暖。酒店的工作人員都很熱情，服務周到。贊！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted August 15, 2023
+msg:假期旅遊路過濰坊，在這個酒店暫住，酒店環境更好，設施齊全，二樓餐廳飯菜做得很好，還有前台小於服務周到，很用心，下次還會入住。
+----------------------------------------
+name:j‍i‍m‍m‍y
+info:Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted January 11, 2024
+msg:房間舒適乾淨，床品很贊很舒服，早餐豐富多樣味道好，有當地特色，很滿意。
+----------------------------------------
+name:J‍e‍f‍f‍-‍Z‍Z
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Family
+info:14 Reviews
+rating:4
+posted:Posted August 14, 2023
+msg:是這個小城市最好的酒店了，酒店位置靠近濰河濕地公園，有時間可以去公園逛一下，從酒店看出去景色也不錯，早餐也還可以，值得推薦
+----------------------------------------
+name:S‍T‍V‍v‍v
+info:Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted February 2, 2024
+msg:當地最好的酒店了，酸奶挺好喝的，差不多是華住會中高端連鎖的品質。
+----------------------------------------
+name:n‍i‍c‍k‍l‍e‍s‍h‍a‍n‍g
+info:Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted February 2, 2024
+msg:服務很周到，酒店很大氣，前台小孫服務很周到，發票忘記開，馬上給安排
+----------------------------------------
+name:X‍i‍a‍x‍i‍a‍o‍y‍u
+info:Business Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted October 31, 2023
+msg:房間乾淨整潔利落，被褥舒適睡眠温馨有深度，一覺睡到大天亮，輕鬆如意！早餐不錯，服務周到。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 6, 2022
+msg:酒店環境不錯，位置也可以，入住還有小禮品，前台姐姐小於特別好，服務也很周到，考試第一天打不到車還是酒店公車送我過去的，很慶幸選擇入住了這個酒店，
+----------------------------------------
+name:X‍u‍z‍o‍n‍g
+info:Business Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted July 2, 2023
+msg:酒店前台小孫接待禮貌熱情，房間佈置温馨，床墊很舒服，衞生也不錯，早餐豐盛，還贈送的水果和酸奶，服務很周到，每次出差都會選昌邑金陵入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted April 28, 2024
+msg:王優秀很優秀！熱情、周到、細緻！有求必應！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 20, 2024
+msg:服務很好，前台小王送的酸奶跟水果，很棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 1, 2024
+msg:酒店整體不錯。尤其前台的小董，服務熱情周到，點贊！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in February 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted February 10, 2024
+msg:舒適感不錯，環境乾淨，前台小李服務周到細緻，態度很好。
+----------------------------------------
+name:L‍i‍u‍x‍i‍a‍o‍p‍a‍n‍g‍z‍i‍1‍9‍8‍9
+info:Deluxe Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted April 27, 2024
+msg:酒店方便停車，環境優美，前台小董服務好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted April 30, 2023
+msg:五一假期去榮成的路上安排的歇腳酒店，設施服務都超出預期。特別是前台小董，熱心周到，因為酒店門口正好舉辦昌邑半馬，臨時封路，小董熱心給我們指引了臨時出口！
+----------------------------------------
+name:W‍u‍m‍u‍x‍i‍f‍e‍n‍g
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 28, 2024
+msg:酒店房間乾淨，菜品可口，前台小董服務熱情很周到！
+----------------------------------------
+name:S‍u‍g‍a‍r‍ ‍z‍h‍u‍o‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted August 21, 2023
+msg:入住體驗不錯，酒店對面就是當地的濕地公園，有時間可以去逛逛，早餐也不錯，種類豐富，口味也不錯，入駐便捷
+----------------------------------------
+name:J‍i‍u‍w‍e‍i‍h‍u‍z
+info:Business Double Room
+info:Stayed in August 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 16, 2022
+msg:酒店入住很滿意，主要是床品舒服，這個是最重要的啦，每天都送水果酸奶，早上起的晚沒有品嚐到早餐，去三樓單點了兩次午餐，味道很好，海鮮很多，油炸冰激淋孩子特別喜歡！乾淨衞生，沐浴間超大！窗外景色剛好是濰河景區，晚上酒店周圍跑步也很舒服！特別感謝前台小於奧，善良熱情的小美女，謝謝你的貼心服務！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted August 31, 2023
+msg:出差客户安排的酒店，這些年住的服務最好的酒店，從門僮到入住再到早餐全流程無暇服務，值得好評！
+----------------------------------------
+name:l‍u‍?‍k‍e
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 25, 2023
+msg:前台小王服務非常貼心，主動給升級了房間😀。酒店位置非常好，門口就是濕地公園，運動散步的好地方。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 7, 2024
+msg:酒店環境好，前台小董服務好，飯菜不太好吃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted November 30, 2023
+msg:非常滿意，前台小於服務周到，細心，給升級了房間，並贈送了水果和奶
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 7, 2023
+msg:房間非常乾淨，衞生，服務非常到位，非常細心，體貼，早歺品種多，味道不錯，服務員態度非常好，出門非常方便。設施齊全，環境優美。
+----------------------------------------
+name:Z‍o‍u‍g‍u‍o‍r‍e‍n‍q‍u‍n‍ ‍y‍u‍j‍i‍a‍n‍z‍i‍j‍i
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted August 29, 2023
+msg:環境非常好，門前就是濕地公園，早餐很豐富，入住時前台小李看有孩子給客房升級，還多送了酸奶。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 14, 2024
+msg:前台小王服務周到細緻，環境很安靜，不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:29 Reviews
+rating:4.5
+posted:Posted May 16, 2024
+msg:房間乾淨，衞生，設施較新，服務不錯，視野不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted November 3, 2022
+msg:前台小於服務很熱情周到，房間温馨乾淨，以後還會入住，免費贈送了水果，贊一個！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted May 8, 2024
+msg:房間整潔、衞生，環境優雅，服務一流
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted September 28, 2022
+msg:經常來昌邑出差，一般入住就是這裏，酒店環境幽靜，乾淨，設施不錯，前台小董服務熱情，好評，下次來繼續入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 26, 2023
+msg:酒店服務好，特別是前台小於服務周到，很專業，房間也很乾凈，晚上睡覺很安靜，還送了水果和酸奶，贊！
+----------------------------------------
+name:l‍_‍D‍a‍v‍i‍d
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted February 18, 2024
+msg:房間住的非常滿意，前台小王服務好，非常感謝。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 2, 2024
+msg:房間很大 乾淨整潔 入住還送了水果和酸奶 喜歡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 15, 2022
+msg:入住昌邑御景灣金陵度假酒店整體感覺不錯，前台小孫姑娘為我們提供了良好的服務，自助早餐很豐盛，晚餐我們是零點的，菜餚色香味都很不錯，總體感覺很滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted April 9, 2023
+msg:酒店坐落於濰河和濕地公園附近，環境好，空時還可以出去走一走。
+門廳豪華大氣房間乾淨敞亮。
+服務好，基本上有求必應，服務態度極好。
+非常滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business suite
+info:Stayed in March 2023
+info:Business travelers
+info:11 Reviews
+rating:4.2
+posted:Posted April 2, 2023
+msg:當地最好的酒店，住的這個房型兩室一廳三衞，隔音很好。工作人員很熱情，前台小於很熱心。地理位置相對較偏，但是酒店對面是濕地公園，櫻花非常漂亮。
+----------------------------------------
+name:X‍i‍h‍o‍n‍g‍s‍h‍i‍m‍i‍n‍j‍i‍e
+info:Deluxe Double Room
+info:Stayed in June 2022
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted June 27, 2022
+msg:🚗 交通：方便，除在外環也不擁堵，樓下停車方便
+
+🧹衞生：乾淨整潔細節滿滿
+
+🍃環境：如圖，滿意
+
+🔔服務：前台小孫服務細緻到位暖心幫忙解決很多問題，很暖心，晚安水果＋酸奶，送餐到房間價位合適口味好吃，衞生間標準比較高，早餐豐富，總體很滿意，會再來。
+----------------------------------------
+name:B‍a‍o‍c‍h‍e‍n‍g‍p‍i‍n‍g‍a‍n‍c‍h‍u‍x‍i‍n‍g
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 16, 2023
+msg:一如既往的舒適感受，前台服務人員熱情周到，這次商務行的晚宴也正酒店用餐，五星好評。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted November 3, 2022
+msg:前台小董服務熱情周到   [呲牙][呲牙]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:9 Reviews
+rating:4.7
+posted:Posted January 10, 2024
+msg:房間挺好的，當地最好的酒店了。
+就是自己失眠了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted October 6, 2023
+msg:昌邑最好的酒店，環境整潔，入住舒心，房間寬敞明亮，前台小於服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted June 16, 2023
+msg:衞生乾淨整潔，設施不錯！！！！！！！
+環境：好！！！！！！
+服務：好！！！！！！！！！！！！！！！！！！！！！！！！
+----------------------------------------
+name:N‍a‍n‍d‍e‍h‍u‍t‍u‍6‍0‍1‍2
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 20, 2023
+msg:衞生：非常乾淨
+環境：寬敞明亮
+服務：人性化非常好
+前台娟姐服務到位，發票開好，及時通知客户。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Other
+info:10 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:每次回昌邑必住酒店，房間寬敞，床品舒服，水温合適，走的時候老婆洗面奶忘拿了，前台小孫很熱情，馬上發快遞給寄回來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted September 17, 2023
+msg:酒店服務不錯，周邊環境好，尤其早餐豐盛味美！房間衞生乾淨，交通方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 20, 2023
+msg:設施齊全，
+衞生乾淨，
+環境優美，
+服務周到！
+----------------------------------------
+name:X‍u‍e‍r‍e‍n‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Solo travelers
+info:16 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:酒店是金陵集團旗下的，就在濰水邊上。餐廳的淮揚菜做的很地道。床很大很舒服。入住的第二天正好趕上昌邑半馬，挺好。
+----------------------------------------
+name:F‍e‍i‍b‍i‍a‍o
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted October 18, 2023
+msg:酒店服務很棒，很貼心的給我升了房，條件很好，下次還會選擇！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted March 14, 2024
+msg:前台小王服務熱情給免費升級了房間
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:早餐非常好，非常愉快的旅行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 30, 2023
+msg:前台小於服務周到，整體性價比挺高，房間挺乾淨，睡得也挺舒服，昌邑最好的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:設施：設施完美
+衞生：衞生一流
+服務：服務貼心看到兩個孩子給了兩份酸奶
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted January 11, 2024
+msg:前台小於接待熱情，服務周到，入住舒適。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 18, 2023
+msg:房間乾淨整潔，地理位置優越，周邊環境優美，入住舒心，前台小於人美心善，服務態度很好，希望貴公司委以重任！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:再次給金陵御景灣酒店點大大的贊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:房間設施很新，朋友們住的很舒心，前台小王服務很好，送了水果和酸奶，還按照預訂預留了相鄰的房間。很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 4, 2024
+msg:環境不錯，服務周到，前台小於很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business suite
+info:Stayed in October 2022
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted October 21, 2022
+msg:首次入住昌邑金陵御景灣酒店，停車場寬敞，停車方便；進入大廳，服務人員協助檢查行程碼等，耐心解釋。前台查詢訊息登記迅速專業，特別感謝前台小於同志專業、高效的服務態度和工作作風。房間環境和設施齊全，寬敞舒適；還有贈送的水果拼盤。唯一遺憾就是淋浴的水壓不足，略顯微軟。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 10, 2024
+msg:服務好
+衞生條件好
+設施好
+----------------------------------------
+name:w‍i‍l‍l‍w‍o‍o‍8‍8
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted April 30, 2023
+msg:前台小王服務周到，因為我帶着兩個娃，給免費升級了房型，房間還贈送了水果跟酸奶，早飯也非常不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted January 18, 2024
+msg:非常棒的酒店。服務人員 專業而且耐心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted February 29, 2024
+msg:非常好 服務態度非常好 很貼心
+----------------------------------------
+name:Z‍a‍i‍j‍i‍a‍n‍-‍x‍i‍a‍o‍c‍h‍o‍u‍y‍u
+info:Business Double Room
+info:Stayed in June 2023
+info:Business travelers
+rating:5
+posted:Posted June 28, 2023
+msg:商務出差首選～房間很乾凈～前台小孫服務耐心熱情～房間內還有歡迎水果和酸奶～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in October 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 30, 2023
+msg:房間很好，前台小於服務周到，細心，下回還會再來
+----------------------------------------
+name:M‍i‍n‍g‍x‍i‍n‍g‍s‍h‍i‍t‍a‍i‍y‍i‍n‍c‍e‍n‍g‍b‍u
+info:Business Double Room
+info:Stayed in January 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted January 11, 2024
+msg:前台王小姐服務很好，酒店服務不錯！
+----------------------------------------
+name:X‍i‍a‍o‍m‍i‍h‍u‍a‍1‍2‍3
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 25, 2023
+msg:房間很舒適也很暖和，前台小董服務很好
+----------------------------------------
+name:W‍o‍y‍a‍o‍c‍h‍i‍t‍a‍n‍g‍s‍e‍n‍g‍r‍o‍u
+info:Business Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 11, 2023
+msg:安排特別周到，環境很好。前台小於也很體貼，送的歡迎水果，下次出差繼續會入住這家酒店。
+----------------------------------------
+name:s‍z‍-‍k‍i‍n‍g
+info:Business Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted March 14, 2024
+msg:前台很好，贈送了早飯和水果
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted September 25, 2023
+msg:環境好，衞生好，服務好，特別是前台小董的服務太棒了
+----------------------------------------
+name:J‍i‍n‍a‍n‍k‍e‍h‍u‍a
+info:Business Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:來昌邑每次都入住酒店乾淨衞生環境也好，如果能有遮陽車棚就好了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted January 14, 2024
+msg:前台接待於小姐很熱情細心，點贊👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted March 7, 2024
+msg:很滿意前台小王，服務很周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 14, 2023
+msg:酒店環境優美，交通便利，房間乾淨整潔，前台王麗娟業務很熟練，服務非常熱情，不愧五星級標準。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted July 16, 2023
+msg:房間很乾凈整潔，還送了水果和酸奶，前台小於服務周到，推薦來住～
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted February 10, 2024
+msg:安經理服務很好，給升級了房間
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted September 18, 2023
+msg:五星好評！尤其前台小於熱情友好、細緻周到。點贊！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 1, 2023
+msg:前台小董服務熱情周到！早餐豐富多樣！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 5, 2024
+msg:非常滿意，居住愉快。
+----------------------------------------
+name:B‍E‍I‍8‍9
+info:Superior Suite
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 21, 2023
+msg:酒店壞境優美很喜歡，前台小於服務周到細緻，下次還過來😊😊😊
+----------------------------------------
+name:X‍i‍a‍o‍s‍u‍n‍h‍e‍n‍k‍a‍o‍p‍u
+info:Business Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 24, 2023
+msg:前台小王服務周到，幫忙延遲了退房
+----------------------------------------
+name:m‍m‍6‍6‍0‍3‍0‍3
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted January 27, 2024
+msg:前台小於服務周到，早餐還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted August 14, 2023
+msg:房間乾淨，要熨斗也安排過來，前台小姐姐小王服務態度好
+----------------------------------------
+name:l‍i‍c‍h‍e‍n‍1‍7
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted January 21, 2024
+msg:服務熱情周到，環境優雅大氣！
+----------------------------------------
+name:Y‍i‍n‍y‍u‍x‍i‍a‍n‍g
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 1, 2023
+msg:酒店環境太好啦，前台小於服務周到，送了暖心水果和牛奶，太棒了，下次還會再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted March 28, 2023
+msg:來酒店很多次啦，房間打掃的非常乾淨，環境也非常優雅，前台小於服務周到細緻，體驗感不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted June 11, 2023
+msg:酒店乾淨大方，沒想怎麼好，真的挺好。前台小董熱情周到細緻，更贊👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted September 30, 2023
+msg:前台小李服務周到細緻。房間乾淨衞生，設施新
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 9, 2024
+msg:寬敞整潔，入住安逸
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 17, 2024
+msg:前台小李服務周到[愉快]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 12, 2024
+msg:房間環境很好，前台小孫很熱情
+----------------------------------------
+name:D‍W‍-‍q‍i‍n‍g‍y‍u‍n‍z‍h‍i
+info:Business Double Room
+info:Stayed in May 2024
+info:Family
+info:107 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:前台服務人員態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 11, 2024
+msg:前台小劉服務周到細緻！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in August 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 6, 2022
+msg:開車出來膠東半島玩，中途下高速入住該酒店，本以為匆匆忙忙預訂，沒有抱太好的期待。
+入住後，前台和服務人員的熱情和細緻、房間的設施及面積、早餐豐富度都給了很好感受，很棒的酒店。
+給點小建議，攜程預訂時附帶早餐的選項較少，酒店大招牌名稱晚上亮燈有缺損，還是儘快修好。
+----------------------------------------
+name:z‍h‍3‍1‍5‍1‍8
+info:Deluxe Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:139 Reviews
+rating:4.2
+posted:Posted July 27, 2023
+msg:總體滿意吧，早餐差了點，房間麼豪華和商務，傻傻分不清
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 11, 2023
+msg:酒店很貼心的為客人準備了水果和小點心，非常感謝！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:53 Reviews
+rating:5
+posted:Posted June 7, 2024
+msg:昌邑比較好的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 6, 2023
+msg:五星好評，環境很好，餐廳美食超乎預料。前台小劉服務好 ！推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 5, 2023
+msg:晚上11點到達，櫃檯依然笑容可掬非常敬業，房間也很乾淨
+----------------------------------------
+name:Y‍a‍n‍g‍1‍9‍7‍7
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:70 Reviews
+rating:3
+posted:Posted October 18, 2023
+msg:據説是當地最好的酒店，早餐還算可以。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted April 15, 2023
+msg:酒店環境好房間乾淨，入住送水果，早餐也比較豐富，下次再來這裏還會入住的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 30, 2023
+msg:前台小董服務態度很好，一大家子入住都非常滿意，還送了果盤，很貼心。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:21 Reviews
+rating:3
+posted:Posted July 2, 2023
+msg:昌邑選擇也不多，這個可能算好的了，就是房間煙味很重。
+----------------------------------------
+name:X‍i‍a‍n‍d‍o‍u‍m‍i‍y‍a
+info:Deluxe Room (2 beds)
+info:Stayed in May 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:房間住的很舒服，睡了個好覺。房間細節很到位，前台小於服務很周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2024
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted June 7, 2024
+msg:還可以 挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Other
+info:7 Reviews
+rating:5
+posted:Posted April 1, 2024
+msg:舒適，整潔，便利利
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted May 1, 2024
+msg:很好，物超所值！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:43 Reviews
+rating:5
+posted:Posted December 5, 2023
+msg:前台小於，温婉大氣，服務貼心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted June 5, 2024
+msg:前台小李服務好
+----------------------------------------
+name:l‍i‍n‍g‍d‍e‍3
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:15 Reviews
+rating:4.7
+posted:Posted July 24, 2023
+msg:其他都還可以，拖鞋也是有點濕的，擔心重複利用。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 12, 2023
+msg:前台小於服務周到，會再次入住。
+----------------------------------------
+name:o‍s‍c‍a‍r‍9‍1‍8
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted March 23, 2024
+msg:乾淨衞生，早餐豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted January 8, 2024
+msg:前台小李，服務熱情周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 23, 2023
+msg:酒店環境乾淨整潔，服務周到，特別是小於服務周到，下次還來！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted July 21, 2023
+msg:非常好的一次住店體驗 感謝小董同學的優質服務
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 27, 2023
+msg:前台小王服務周到，態度非常好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:中轉在濰坊歇歇腳定了這家酒店，前台小董服務好，酒店整體不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 26, 2023
+msg:小王服務周到細緻，送的水果和酸奶給延遲退房時間，下次繼續選擇入住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 16, 2023
+msg:前台小董服務非常好！點贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 23, 2022
+msg:非常不錯的一家酒店，地理位置很好，停車方便，進門就讓我們感受到賓至如歸的服務，有禮賓小帥幫我運送行李，前台小軒非常親切，服務細緻周到，讓我倍感温暖。
+----------------------------------------
+name:D‍a‍h‍a‍n‍b‍a‍n‍c‍h‍a‍o
+info:Business Room (2 beds)
+info:Stayed in December 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 8, 2022
+msg:入住酒店第一印象就是乾淨，漂亮，而且房間住起來特別安靜温馨，前台小於也特別熱情，很細心周到的服務。
+----------------------------------------
+name:R‍e‍n‍z‍h‍e‍n‍m‍a‍i‍r‍e‍n‍z‍h‍e‍n‍p‍i‍n‍g
+info:Business Double Room
+info:Stayed in May 2023
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:房間很好，早餐不錯，還有南京特色美食。前台小於服務周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:前台小王服務周到給送的水果和酸奶，謝謝
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Boutique Room (2 beds) (Special promotion)
+info:Stayed in May 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 7, 2023
+msg:前台小王服務周到，免費升級房間，協調鋪床品，幫忙下水餃
+----------------------------------------
+name:D‍o‍g‍t‍a‍i‍l‍f‍l‍o‍w‍e‍r
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted December 30, 2023
+msg:昌邑綜合水平最好的酒店
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 27, 2024
+msg:乾淨衞生服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted October 28, 2023
+msg:房間不錯，前台小於服務熱情。
+----------------------------------------
+name:A‍o‍s‍i‍n‍a‍b‍u‍l‍v‍k‍e‍l‍i‍d‍a‍o‍y‍u‍a‍n
+info:Business Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 24, 2023
+msg:很滿意 送了早餐 謝謝
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2022
+info:Business travelers
+info:149 Reviews
+rating:5
+posted:Posted July 22, 2022
+msg:早餐很好，環境很好，前台的小董服務周到，房間也很乾凈，設施齊全，下一次到昌邑來一定會到昌邑這個最好的酒店來，一定會帶朋友體驗一下美麗的濰河邊上這個星級酒店。
+----------------------------------------
+name:l‍h‍w‍1‍9‍8‍2
+info:Deluxe Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 13, 2023
+msg:房間寬敞，環境優雅。很棒的體驗！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted November 19, 2022
+msg:前台小於服務非常好，熱情、話語親切，服務周到，讓我有種到家的感覺，有做領導的天賦，給小於一萬個贊👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted August 16, 2023
+msg:房間佈局合理，設施設備齊全，入住順利
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 14, 2023
+msg:無煙房間，還放了空氣凈化器，服務周到，非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 3, 2022
+msg:在昌邑屬於很好的酒店了，硬件沒的説，從前台到客房的服務也很周到，位置距離市內也不遠，下次來昌邑還住這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Boutique Room (2 beds) (Special promotion)
+info:Stayed in January 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 28, 2023
+msg:前台服務員王優秀，人如其名，服務態度好，熱情周到！給個大大的贊[強][強][強]
+----------------------------------------
+name:z‍x‍j‍1‍2‍1‍1
+info:Boutique Room (2 beds) (Special promotion)
+info:Stayed in January 2023
+info:Couples
+info:27 Reviews
+rating:4.7
+posted:Posted January 26, 2023
+msg:酒店非常好，乾淨利落，前台服務員小王非常熱情，幫我們排憂解難，值得表揚啊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 21, 2023
+msg:前台小董服務非常好～很能幫忙解決問題～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:非常好的酒店
+----------------------------------------
+name:J‍i‍m‍m‍y
+info:Deluxe Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 16, 2023
+msg:酒店安靜，衞生，應該是昌邑最好的酒店了
+----------------------------------------
+name:D‍u‍o‍l‍u‍n‍d‍u‍o‍x‍i‍a‍o‍y‍u
+info:Business Double Room
+info:Stayed in October 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:環境舒適，乾淨，服務非常貼心
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 17, 2023
+msg:本地最好的了，前台小王服務很好，幫忙訂餐廳、房間落下東西也幫忙找。
+----------------------------------------
+name:C‍h‍e‍r‍y‍l‍1‍1‍0‍5
+info:Deluxe Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted June 14, 2023
+msg:小於服務周到，非常滿意，下次來玩繼續住這家
+----------------------------------------
+name:Z‍a‍i‍j‍i‍a‍n‍y‍a‍n‍g‍g‍u‍a‍n‍g
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:117 Reviews
+rating:5
+posted:Posted May 7, 2023
+msg:酒店在昌邑市風景最好的公園邊上，設施服務很不錯。
+----------------------------------------
+name:F‍e‍n‍g‍y‍u‍n‍m‍o‍y‍i
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted December 23, 2023
+msg:前台小王姐姐服務超棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 26, 2024
+msg:服務好非常滿意
+----------------------------------------
+name:L‍v‍s‍h‍e‍y‍u‍e‍m‍o‍u
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted April 17, 2024
+msg:很不錯，推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted February 22, 2023
+msg:昌邑最好的酒店了，前台小王服務熱情！客房清潔舒適，下次還會入住
+----------------------------------------
+name:j‍n‍w‍n‍i‍c‍h‍o‍l‍a‍s
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:4.5
+posted:Posted August 31, 2023
+msg:設施稍微有點陳舊，其他都很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted April 12, 2023
+msg:非常不錯，前台董小姐很熱情，還幫我們調整了房間。👍
+----------------------------------------
+name:C‍h‍a‍n‍g‍x‍i‍a‍y‍u‍m‍e‍n‍g‍d‍o‍n‍g
+info:Business suite
+info:Stayed in August 2023
+info:Family
+info:11 Reviews
+rating:4
+posted:Posted August 28, 2023
+msg:環境優雅大氣，前台小董熱情周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in February 2023
+info:Couples
+info:8 Reviews
+rating:4.7
+posted:Posted February 11, 2023
+msg:衹要來昌邑，那是肯定住在這裏的.服務態度好、乾淨整潔，停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted October 4, 2021
+msg:第一次知道昌邑有高鐵站 第一次知道昌邑還有這麼好的一個酒店，下了高鐵站打車10來分鐘到酒店晚上8點多，問了酒店還可以叫餐，一般都覺得酒店用餐會很貴的，上來了所謂的小份對我來説就是一大份了，房間內環境很好，特別是洗浴間特大，樓層高，視野好，酒店準備的水果和酸奶。因為出差匆忙，加上下雨，否則旁邊環境很好 非常適合清晨散步。以後來昌邑可以經常來住這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted April 7, 2023
+msg:環境很好，設施齊全，服務周到，住過好幾次了，很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 17, 2023
+msg:環境不錯，前台小於服務周到，服務很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:12 Reviews
+rating:4
+posted:Posted March 14, 2023
+msg:前台小於熱情，工作效率高
+早餐有點南方口味配置，挺好！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 3, 2022
+msg:前台小董和門口帥哥服務熱情周到，在得知我先生腿部受傷後及時送上雲南白葯，在此表示真摯的感謝！酒店房間乾淨、早餐豐富，值得推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in November 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 1, 2023
+msg:服務可以 房間很舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted December 6, 2021
+msg:酒店前台及客房服務員服務熱情周到，客房乾淨衞生。早餐豐富可口，客房送餐美味快捷，入住安全安心。下次會繼續入住。
+----------------------------------------
+name:d‍o‍n‍g‍g‍l‍o‍b‍a‍l
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:Family
+info:6 Reviews
+rating:4
+posted:Posted July 4, 2023
+msg:房間設施夠用，環境衞生不錯，服務熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted August 10, 2023
+msg:房間很乾凈。房間很大。服務到位
+----------------------------------------
+name:P‍i‍e‍n‍u‍o‍b‍a‍o‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 21, 2024
+msg:挺好的。服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted August 2, 2023
+msg:房間乾淨衞生，安靜，沒有雜音。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 14, 2023
+msg:前台小於服務特別好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 2, 2023
+msg:酒店服務非常好，前台小董細緻周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:4.5
+posted:Posted November 1, 2022
+msg:房間不錯，很整潔，因為入住耽誤了一會，前台小姐姐劉鑫還給送了果盤，十分貼心，點贊！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted January 7, 2024
+msg:前台小於熱情周到
+----------------------------------------
+name:c‍o‍c‍k‍t‍a‍i‍l‍b‍e‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2022
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted September 8, 2022
+msg:這是昌邑最好的酒店了，位置很好，在河邊 ，每次出差到這附近都住在這個酒店。前台小於熱情服務周到～
+----------------------------------------
+name:s‍h‍o‍u‍d‍u‍b‍e‍i‍j‍i‍n‍g‍1‍2‍3
+info:Business Double Room
+info:Stayed in February 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted February 17, 2023
+msg:酒店位置不錯，環境優雅。
+前台小孫服務好，早餐豐富
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted November 11, 2021
+msg:房間對面是濕地公園，環境很不錯，配有健身房，可以打桌球。房間很大，可以看到河。乾淨整潔。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 26, 2024
+msg:服務周到 設施齊全
+----------------------------------------
+name:J‍i‍a‍j‍i‍a‍d‍e‍b‍a‍b‍a
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted June 27, 2023
+msg:非常滿意，服務態度好，整潔衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:1 Review
+rating:4.5
+posted:Posted November 26, 2022
+msg:前台小董老師服務很好，很有親和力，讓我們這些在外出差有種回家的感覺
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 17, 2023
+msg:很乾凈，服務員態度很好，早飯品類很多，性價比不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 2, 2023
+msg:前台小於服務周到，酒店整體還是不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 1, 2023
+msg:前台小李服務周到細緻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted June 13, 2023
+msg:前台小王人不錯，酒店環境也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted April 15, 2023
+msg:前台小於服務周到細緻熱情，體驗非常不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted May 7, 2023
+msg:前台小董很有禮貌 服務熱情 好評！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 3, 2023
+msg:房間很乾凈，前台小姐姐服務很熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 13, 2023
+msg:很滿意，前台小孫服務非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 16, 2023
+msg:前台小董服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 14, 2023
+msg:前台小王服務態度很好，服務周到！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted June 24, 2023
+msg:服務設施都不錯，下次還考慮住這酒店
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:服務非常周到，謝謝了！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted October 20, 2022
+msg:前台小孫服務好，房間舒適乾淨衞生，早餐豐富，，[微笑][微笑][微笑]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 26, 2023
+msg:屋內整潔，早餐性價比高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in May 2023
+info:Friends
+info:21 Reviews
+rating:5
+posted:Posted May 4, 2023
+msg:房間很乾凈，前台小於服務也很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2023
+info:Friends
+info:6 Reviews
+rating:3.2
+posted:Posted June 11, 2023
+msg:太偏遠，所有太一般了，不值
+----------------------------------------
+name:K‍a‍s‍h‍i‍d‍a‍a‍i
+info:Deluxe Double Room
+info:Stayed in May 2022
+info:Business travelers
+info:84 Reviews
+rating:5
+posted:Posted May 22, 2022
+msg:很不錯，乾淨整潔。前台很熱情。房間佈局也不錯。睡得很舒服。周邊環境很好。挨着濕地公園。晚上很安靜。下次還會過來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 13, 2023
+msg:前台小於服務耐心周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 17, 2022
+msg:酒店高大上，乾淨衞生，性價比極高，值得推薦。前台小於服務周到。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 3, 2022
+msg:房間住的很滿意，前台王佳服務態度非常好，特別貼心，入住體驗滿分💯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted May 4, 2022
+msg:前台小娟服務態度非常好，人真好，很好的酒店，防疫工作做的很到位。入住期間有什麼問題都儘可能的幫忙解決，環境服務都很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2022
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted November 14, 2022
+msg:環境：環境優美
+服務：前台小軒服務很好，大堂小安細心周到
+衞生：乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 12, 2023
+msg:前台小孫服務挺好，餐廳劉培訓服務很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:很滿意，服務很好，下次還來～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted March 26, 2023
+msg:環境不錯，衞生，前台小於服務周到
+----------------------------------------
+name:M‍r‍s‍y‍q
+info:Deluxe Room (2 beds)
+info:Stayed in November 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted November 26, 2021
+msg:每次昌邑商務出差的首選，人氣很旺，很多時候都是滿房，需要提前預訂。
+
+這次預訂的是豪華雙床，酒店房間面積挺大，兩張床加單人休息沙發，一字型書桌滿足商務辦公使用。床墊比較鬆軟，回彈性比較好，頸部腰部支撐不錯，利於睡眠。衞生間熱水速度快，洗漱用具齊全，整體灰常讚的一家酒店，下次還會過來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted July 1, 2023
+msg:前台小姐姐服務接待熱情
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Boutique Room (2 beds) (Special promotion)
+info:Stayed in September 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted September 24, 2023
+msg:當地不錯的酒店了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Other
+info:2 Reviews
+rating:4.7
+posted:Posted April 27, 2023
+msg:感謝前台孫小姐服務温馨、體貼
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 8, 2022
+msg:前台服務很好，很熱情，酒店防疫措施也到位，禮賓小哥哥幫助噴酒精，大堂工作人員提供各種幫助，方面也很舒適，很滿意，總之很贊
+----------------------------------------
+name:J‍i‍a‍n‍d‍a‍n‍z‍h‍i‍z‍h‍e‍n
+info:Deluxe Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted November 9, 2022
+msg:前台小王服務很好很好很好很好很好很好很好很好很好很好
+----------------------------------------
+name:Z‍i‍y‍o‍u‍f‍e‍i‍x‍i‍a‍n‍g
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted September 11, 2023
+msg:環境優美，服務態度不錯
+----------------------------------------
+name:Y‍u‍c‍h‍a‍n‍g‍j‍i‍a‍n‍s‍h‍e‍n‍j‍u‍l‍e‍b‍u
+info:Deluxe Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted July 28, 2021
+msg:真貼心的酒店，有很多細節，比如會把拖鞋包裝拆了放在床邊，還有在床邊附上新鮮的奶酪，前台也很幫，愉快的出行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 13, 2023
+msg:前台小王服務周到。
+----------------------------------------
+name:M‍o‍f‍a‍b‍i‍n‍g
+info:Business Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:38 Reviews
+rating:4
+posted:Posted February 11, 2023
+msg:應該是昌邑最好的酒店了，也就那樣吧。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 16, 2023
+msg:各方面都很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted February 24, 2023
+msg:乾淨整潔，挺好的，前台小於服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in October 2022
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted November 1, 2022
+msg:酒店環境服務很好，前台小董非常熱情周到，適合上午出差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:還行，就是早餐沒吃上不給退
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted April 11, 2023
+msg:很好，停車方便，
+環境：優美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 8, 2023
+msg:小於不錯 很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:5 Reviews
+rating:4.5
+posted:Posted May 19, 2023
+msg:前台小董服務好，很熱情！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2022
+info:Solo travelers
+info:1 Review
+rating:4.5
+posted:Posted October 8, 2022
+msg:總體很好，服務熱情周道。環境優美可以直接看到濰河景色。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 21, 2023
+msg:前台很好，服務很好
+----------------------------------------
+name:X‍i‍a‍o‍A‍d‍e‍y‍o‍u‍z‍a‍i‍s‍h‍i‍g‍u‍a‍n‍g
+info:Business Room (2 beds)
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 16, 2022
+msg:前台服務不錯，外賣直接幫我送到房間了，小安很熱情，下次來還住這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 27, 2022
+msg:酒店環境很棒，衞生非常乾淨，前台小於服務熱情，真的很不錯，非常喜歡！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 26, 2021
+msg:又解鎖一家新店，根據評價選擇了這家，連吃帶喝都非常滿意，非常不錯，服務非常貼心一級棒，毛巾也是消過毒的，可以放心大膽用優雅的環境配上舒緩的音樂，親切又體貼的服務，希望能夠一如既往的保持下去~
+----------------------------------------
+name:X‍i‍a‍n‍y‍u‍n‍x‍i‍k‍e
+info:Superior Suite
+info:Stayed in June 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted July 16, 2023
+msg:挺不錯的，挺高檔的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted June 16, 2023
+msg:工廠來人住，反應挺好
+----------------------------------------
+name:L‍a‍n‍g‍x‍i‍a‍o‍x‍i‍a‍o
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted January 31, 2023
+msg:前台小王服務很好，給送的歡迎水果
+----------------------------------------
+name:X‍u‍e‍h‍o‍n‍g‍j‍u‍n
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted March 6, 2023
+msg:前台小董服務非常好，很周到！
+----------------------------------------
+name:Z‍u‍o‍y‍o‍u‍s‍h‍u‍a‍n‍g‍b‍a‍o‍b‍a
+info:Business Room (2 beds)
+info:Stayed in October 2021
+info:Family
+info:4 Reviews
+rating:2
+posted:Posted October 6, 2021
+msg:差評！在一個小城市住了個五星酒店，也就2星水準，到酒店迎賓水果沒有，入住條件一般，22:00空調就停了，房間裏熱的不行，環境和衞生也就那樣。退房走的時候再門口往車上方東西，工作人員很不耐煩的然後額
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2021
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted August 2, 2021
+msg:景色非常好，前台服務員服務特別好，早餐很豐富
+----------------------------------------
+name:X‍i‍a‍o‍y‍u‍y‍u‍Y‍Y
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted April 16, 2023
+msg:不錯不錯，適合一家人出行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted July 23, 2023
+msg:環境，房間都挺好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2021
+info:Other
+info:1 Review
+rating:4.7
+posted:Posted September 19, 2021
+msg:目前昌邑條件最好最適合住的酒店。前台小哥很專業。説點不足，開業也四年了，房間開始感到舊了，往年入住都覺得很新，裝修是快速折舊。洗手間的門略形變，不好關，地毯也有污漬感，客房天花板上還有三個氣球殘留...雖然人工貴，還是建議給客房清潔配足人手。説了這麼多，也是希望酒店越來越好，畢竟這是昌邑目前最好的店，下次來也還是會住這兒的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in March 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 29, 2023
+msg:前台有個小董，人美心善！
+----------------------------------------
+name:H‍u‍a‍n‍g‍h‍u‍a‍n‍g
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted May 14, 2023
+msg:前台小王服務周到熱情
+----------------------------------------
+name:C‍r‍i‍s‍v‍o‍n
+info:Deluxe Room (2 beds)
+info:Stayed in July 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted July 27, 2022
+msg:酒店乾淨衞生，前台有位孫小姐服務熱情，算是昌邑最好的的酒店了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted June 28, 2022
+msg:🚗 交通：方便
+🧹衞生：乾淨
+🍃環境：很好
+🔔服務：小安小娟很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 12, 2023
+msg:您可以寫前台小劉服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 7, 2022
+msg:酒店很乾凈，設施齊全。睡的很舒適，前台小於熱情服務周到。
+----------------------------------------
+name:A‍e‍r‍k‍e‍l‍a‍b‍a‍t‍a‍i‍l‍e‍c‍h‍u‍n‍s‍h‍e‍n‍j‍u‍n
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted January 18, 2023
+msg:乾淨整潔性價比高 服務態度温馨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted July 1, 2023
+msg:睡得舒服，很安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2022
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted January 21, 2022
+msg:酒店非常滿意，停車位很充足，服務人員都很友好周到，前台小王服務很熱情，早餐品種非常豐盛，下次還會選擇御景灣酒店，推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2021
+info:Business travelers
+info:50 Reviews
+rating:5
+posted:Posted October 25, 2021
+msg:這幾年很多次入住昌邑金陵御景灣酒店，酒店非常好，密封性也很好，供暖沒來，裏面也很温暖，酒店大堂很大很氣派，停車場停車很方便，洗澡的熱水很給力，洗澡間非常寬暢！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 17, 2023
+msg:前台小劉服務好評！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted August 29, 2023
+msg:環境非常不錯
+----------------------------------------
+name:Q‍u‍q‍u‍0‍3
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted May 9, 2023
+msg:很安靜，風景也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2022
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted September 28, 2022
+msg:停車方便，窗外可以看到大橋，下次還會入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2023
+info:Friends
+info:1 Review
+rating:4.2
+posted:Posted February 9, 2023
+msg:前台服務員小於服務周到！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 21, 2022
+msg:🍃環境：好
+🚗 交通：方便
+🧹衞生：乾淨
+🔔服務：前台熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted October 1, 2021
+msg:酒店環境很好，大堂經理小安很熱情，前台提供免按金入住服務，很讚的出行，前台工作人員耐心細緻，孫麗娟服務很好，金陵大品牌值得信賴，推薦大家入住，.......
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted October 28, 2023
+msg:挺好的呀哈哈
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in December 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 8, 2022
+msg:酒店乾淨衞生，前台小於服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 18, 2022
+msg:服務很不錯，房間各項配置也都不錯。還會再住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business suite
+info:Stayed in July 2022
+info:Friends
+info:39 Reviews
+rating:5
+posted:Posted July 25, 2022
+msg:交通：方便
+衞生：可以
+環境：挺好
+服務：也不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 12, 2022
+msg:入住整體不錯，歡迎水果好吃，服務員小孫美女很熱情～
+----------------------------------------
+name:N‍a‍i‍h‍e‍t‍a‍n‍w‍a‍n‍g‍c‍h‍u‍a‍n‍h‍e
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted April 6, 2023
+msg:環境好，交通便利。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 5, 2023
+msg:前台很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Boutique Room (2 beds) (Special promotion)
+info:Stayed in January 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 1, 2023
+msg:前台小王服務態度很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 31, 2022
+msg:酒店位置安靜，在河邊，自然風景好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:6 Reviews
+rating:4
+posted:Posted November 13, 2023
+msg:房間很滿足
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted May 27, 2023
+msg:很好，乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 26, 2023
+msg:前台小孫態度很好，熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in November 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted November 3, 2021
+msg:酒店很乾凈，房間也大，前台小孫姐姐服務也很好，給免費贈送的早餐，很感謝，點外賣前台還給送上去，確實很周到，下次去還會住這
+----------------------------------------
+name:H‍u‍i‍x‍i‍a‍n‍g‍d‍o‍u‍1
+info:Business Double Room
+info:Stayed in March 2022
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted March 2, 2022
+msg:酒店環境不錯，前面是個大的濕地公園，房間設施也挺乾淨。前台小王服務態度很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted November 18, 2022
+msg:服務周到 房間清潔 衞生乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 19, 2022
+msg:出差到昌邑，這酒店不錯，設施新，服務挺周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted February 24, 2022
+msg:非常不錯的一次入住，特別是前台的小王服務特別好，下次來昌邑還會選擇這個酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Boutique Room (2 beds) (Special promotion)
+info:Stayed in January 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted January 31, 2023
+msg:服務：前台小王服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:服務還是不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 27, 2023
+msg:前台小董服務佳👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 20, 2023
+msg:服務周到，設施完善
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:35 Reviews
+rating:3
+posted:Posted June 19, 2022
+msg:設施比較老，客房也不是一天一換新的，性價比不高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 3, 2023
+msg:房間乾淨整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 3, 2022
+msg:服務熱情周到，昌邑最好的酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Booked for others
+info:6 Reviews
+rating:5
+posted:Posted January 10, 2023
+msg:前台小娟服務熱情周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted August 4, 2021
+msg:酒店不錯，很大氣上檔次，房間也大，乾淨整潔。整體來説對得起五星級酒店的頭銜，也應該是昌邑的唯一一家五星級酒店，很棒！以後還會來，價格也不高！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:29 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:安靜 環境好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 11, 2023
+msg:前台小孫ok
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 18, 2022
+msg:前台小於熱情周到，商務出差首選。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 23, 2023
+msg:於子軒非常棒！
+----------------------------------------
+name:D‍a‍n‍v‍e‍n
+info:Business Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:69 Reviews
+rating:5
+posted:Posted February 14, 2023
+msg:前台小王服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:服務很不錯👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted February 14, 2023
+msg:前台小於服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:環境不錯，舒心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted July 1, 2023
+msg:還不錯的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business suite
+info:Stayed in April 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted April 24, 2023
+msg:前台小劉熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:32 Reviews
+rating:5
+posted:Posted August 2, 2021
+msg:酒店服務很好，賓至如歸。第一次到昌邑，對這個地方都加分不少，前台接待的安孟莉小姐姐服務熱情周到，摘了口罩也很好看！！！下次還會來
+----------------------------------------
+name:Y‍i‍l‍u‍a‍i‍y‍u‍a‍n‍x‍i‍n‍g
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:102 Reviews
+rating:4
+posted:Posted August 4, 2021
+msg:我住過上百家五星級酒店，這一家酒店衹能算是縣城裡級別比較好點的商務型酒店，價格300塊錢左右也不算太貴，在昌邑還是比較推薦的，如果滿分10分，我給8.7分
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted June 30, 2022
+msg:非常舒服 客服態度非常好 愛了愛了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 5, 2022
+msg:前台小董服務熱情周到～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 3, 2023
+msg:環境優雅很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2023
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted January 5, 2023
+msg:前台小於服務好！
+----------------------------------------
+name:S‍h‍u‍a‍i‍c‍a‍o‍k‍u‍y‍a‍n‍g
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted July 21, 2021
+msg:酒店地理位置優越，在河邊環境也好，喜歡户外跑步的是不錯的選擇。酒店設施很好，硬件不錯。早餐現做的熱食很好吃。服務很周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 21, 2021
+msg:人傑地靈的好地方，優越的地理位置，使得這裏的房間天天爆滿，舒適，還不貴，值得，值得…以後還會推薦給朋友讓他們也來體驗體驗
+----------------------------------------
+name:C‍a‍t‍h‍y‍_‍P‍a‍n‍1‍2‍1‍3
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Booked for others
+info:3 Reviews
+rating:5
+posted:Posted May 8, 2023
+msg:住宿的滿意
+----------------------------------------
+name:j‍i‍n‍-
+info:Deluxe Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted September 13, 2022
+msg:服務很好，房間衞生，很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 31, 2023
+msg:前台小王服務號
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted July 14, 2021
+msg:來昌邑出差都會選擇金陵御景灣酒店，房間，乾淨，衞生，而且每次來都會有歡迎水果和酒店自製的酸奶，早餐也很豐富，好，很好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted April 21, 2023
+msg:小劉服務好
+----------------------------------------
+name:y‍a‍c‍h‍a‍s‍u
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 16, 2021
+msg:酒店環境好，服務態度好，停車場大，早飯品種豐富。都可以的 衹要是三個都是五星好評就可以噠 ～謝謝啦[呲牙]
+----------------------------------------
+name:X‍i‍o‍n‍g‍x‍i‍n‍z‍h‍u‍a‍n‍g‍z‍h‍i
+info:Business Room (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted November 24, 2022
+msg:各方面都非常的好
+----------------------------------------
+name:L‍i‍t‍o‍n‍g‍q‍i‍n‍g
+info:Business Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 27, 2022
+msg:房間寬敞明亮，風景好，前台小劉服務特別熱情！
+----------------------------------------
+name:Q‍u‍a‍n‍c‍h‍e‍n‍g‍j‍u
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted July 5, 2021
+msg:昌邑出行首選，環境很棒，東臨濰河，南看公園，昌邑城旅行住宿最佳去處，酒店前台五星服務，停車方便，五星推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 1, 2023
+msg:挺好的！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted March 22, 2023
+msg:服務挺好。
+----------------------------------------
+name:f‍u‍w‍a‍9‍9‍9
+info:Deluxe Room (2 beds)
+info:Stayed in January 2022
+info:Business travelers
+info:37 Reviews
+rating:5
+posted:Posted January 18, 2022
+msg:很不錯的酒店，值得再次光顧。前台小王服務熱忱周到。
+----------------------------------------
+name:j‍e‍r‍e‍m‍y‍h‍u‍a
+info:Business Room (2 beds)
+info:Stayed in October 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted October 30, 2021
+msg:當地最好的酒店吧，很安靜，隔音好，房間設施新，乾淨，早餐品種豐富。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted November 3, 2022
+msg:前台小於服務很好
+----------------------------------------
+name:L‍i‍u‍s‍h‍u‍f‍e‍i‍y‍a‍n‍g
+info:Business Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted October 24, 2021
+msg:周邊環境優美，自駕交通便利，服務態度挺好，可以延遲到14點前退房。
+----------------------------------------
+name:X‍u‍e‍y‍u
+info:Deluxe Room (2 beds)
+info:Stayed in August 2021
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted August 10, 2021
+msg:應該是昌邑最好的吧，沒看到比這個好的，位置還算方便，前台小曹挺熱情，性價比還可以吧。
+----------------------------------------
+name:J‍i‍n‍o‍u‍b‍a
+info:Superior Suite
+info:Stayed in September 2021
+info:Other
+info:16 Reviews
+rating:5
+posted:Posted September 16, 2021
+msg:酒店設施設備齊全，房間可以看到外面的景色，前台小安服務很好，以後還會入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 19, 2022
+msg:服務：服務非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted July 3, 2021
+msg:酒店附近環境好，衞生打掃的很乾凈，整體非常滿意，前台態度好，酒店總體服務都很周到，各方面都很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 2, 2021
+msg:酒店附近環境好，房間安靜，衞生也不錯，前台wangjia 辦理入住很熟練，很不錯的、值得推薦～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 6, 2022
+msg:酒店環境不錯，服務也很好。前台小娟服務很好哦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 14, 2022
+msg:入住非常愉快！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 13, 2021
+msg:前台裏小姐姐服務非常好，還特地安排了水果送到房間
+
+🔔服務：
+🍃環境：
+----------------------------------------
+name:W‍e‍i‍w‍e‍i‍g‍u‍a‍n‍g‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍j‍i‍n‍t‍a‍i‍k‍e‍j‍i
+info:Deluxe Room (2 beds)
+info:Stayed in November 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted November 27, 2021
+msg:酒店管理很好！服務態度極佳！飯菜可口！解決問題及時！
+----------------------------------------
+name:Y‍i‍e‍r‍s‍a‍n‍s‍i‍1‍2‍6‍4
+info:Business Double Room
+info:Stayed in September 2021
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted October 24, 2021
+msg:環境不錯，酒店各方面設施齊全，衞生不錯，而且服務人員的水平不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted September 27, 2022
+msg:服務到位，熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted February 22, 2022
+msg:環境好，服務好，服務態度好，感覺舒適
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2022
+info:Business travelers
+info:36 Reviews
+rating:5
+posted:Posted August 20, 2022
+msg:乾淨衞生～服務貼心
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted January 21, 2023
+msg:環境挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 13, 2021
+msg:疫情防控很到位，大堂有一個測量體温的儀器特別先進，消毒也很到位，前台小娟態度很好，很好的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2022
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted May 13, 2022
+msg:挺好的，環境不錯，服務不錯
+----------------------------------------
+name:J‍o‍e‍ ‍F‍e‍n‍g
+info:Business Room (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:8 Reviews
+rating:4
+posted:Posted January 13, 2023
+msg:服務態度不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 24, 2022
+msg:酒店環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2022
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted August 5, 2022
+msg:環境很好，價格合理
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:32 Reviews
+rating:5
+posted:Posted August 30, 2022
+msg:前台小雨服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2022
+info:Business travelers
+info:38 Reviews
+rating:5
+posted:Posted July 28, 2022
+msg:服務好，還給升級了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted August 23, 2022
+msg:很好每次來都住這
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 2, 2022
+msg:前台服務很好，很客氣，水果，牛奶都到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in February 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted February 11, 2022
+msg:早餐很好，服務態度好，房間整潔!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 12, 2022
+msg:服務好，環境優美。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 23, 2021
+msg:金陵御景灣住宿條件很好，飯菜做的不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted October 19, 2022
+msg:服務態度很好
+----------------------------------------
+name:_‍y‍t‍9‍1‍4‍7‍0‍1‍6‍4‍2
+info:Deluxe Room (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 22, 2022
+msg:前台孫小姐服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2021
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted August 20, 2021
+msg:🚗 交通：方便
+🧹衞生：乾淨
+🍃環境：很好
+🔔服務：很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted June 22, 2022
+msg:環境優美，服務熱情
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:42 Reviews
+rating:5
+posted:Posted November 10, 2021
+msg:在縣城裡算是高大上的唯一的高端酒店，給贊！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 4, 2021
+msg:酒店非常乾淨，環境很好，每次來都住這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted June 18, 2022
+msg:環境很好，服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2022
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted July 18, 2022
+msg:早點好。 能加床
+----------------------------------------
+name:P‍i‍a‍o‍༻
+info:Business Room (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:40 Reviews
+rating:5
+posted:Posted November 15, 2022
+msg:很不錯很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 9, 2022
+msg:前台孫美女很熱情
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted November 1, 2021
+msg:前台服務態度很好很熱情，蠻不錯的，很舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in May 2022
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted May 25, 2022
+msg:很不錯，挺舒服住的
+----------------------------------------
+name:T‍h‍r‍i‍l‍l‍e‍r‍W‍a‍n‍g
+info:Deluxe Room (2 beds)
+info:Stayed in January 2022
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted January 7, 2022
+msg:不錯，房間很舒服，服務很周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 30, 2021
+msg:早餐豐富，品類多。房間乾淨衞生，很靜。前台服務很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2022
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted May 10, 2022
+msg:性價比高，服務很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2022
+info:Booked for others
+info:4 Reviews
+rating:5
+posted:Posted October 5, 2022
+msg:昌邑最好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted July 11, 2021
+msg:房間乾淨，整潔，很不錯，服務好，床很大，很舒適，特別喜歡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 15, 2021
+msg:服務態度好，還有水果和酸奶，早餐豐富！
+----------------------------------------
+name:0‍0‍1‍2‍3‍4‍5‍6‍7‍8‍9
+info:Deluxe Room (2 beds)
+info:Stayed in July 2022
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted July 2, 2022
+msg:各方面都挺好的
+----------------------------------------
+name:P‍h‍i‍l‍l‍i‍p
+info:Business Room (2 beds)
+info:Stayed in November 2021
+info:Business travelers
+info:100 Reviews
+rating:5
+posted:Posted November 16, 2021
+msg:不錯，贈送了早餐，前台小王服務不錯
+----------------------------------------
+name:G‍u‍i‍m‍e‍i‍w‍a‍w‍a
+info:Deluxe Room (2 beds)
+info:Stayed in November 2021
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted November 20, 2021
+msg:🧹衞生：乾淨整潔舒適
+早餐也不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 18, 2022
+msg:房間比較大，也比較暖和
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 5, 2021
+msg:酒店服務非常好，安靜舒適，停車方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted July 17, 2021
+msg:房間裏很乾凈，沒有味道。性價比很高，住的很放心。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 4, 2021
+msg:當地最好的酒店，下次還會去的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted February 4, 2022
+msg:服務好 環境好 菜品好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in September 2021
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted September 11, 2021
+msg:服務很好房間很寬敞 入住體驗很舒服的 
+----------------------------------------
+name:Z‍h‍a‍o‍h‍u‍a‍n‍y‍u
+info:Deluxe Room (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted September 9, 2021
+msg:非常熱情和專業！硬件和服務體驗很不錯！
+----------------------------------------
+name:F‍e‍n‍g‍m‍i‍y‍u‍m‍i‍t‍o‍n‍g
+info:Deluxe Double Room
+info:Stayed in July 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted July 15, 2022
+msg:真不錯真不錯
+----------------------------------------
+name:A‍s‍h‍i‍n
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted June 14, 2021
+msg:前台王佳辦理入住速度很快 酒店環境很好 住得很舒適 
+----------------------------------------
+name:e‍0‍9‍7‍4‍3‍7‍2‍2
+info:Business Room (2 beds)
+info:Stayed in October 2021
+info:Business travelers
+rating:5
+posted:Posted October 2, 2021
+msg:外出旅行，商務宴請，居家必備選擇。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 18, 2021
+msg:早I餐差了點，別的各方面比較滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 13, 2022
+msg:前台小娟服務好，交通便利
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 5, 2021
+msg:乾淨整潔，設施舒適，服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in March 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 9, 2022
+msg:服務熱情 乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 5, 2022
+msg:小安服務特別好，感謝
+----------------------------------------
+name:L‍a‍g‍u‍s‍a‍p‍a‍t‍e‍l‍i‍x‍i‍a
+info:Business Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:1 Review
+rating:4.7
+posted:Posted June 15, 2021
+msg:酒店環境衞生好，工作人員熱情，前台王佳服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted September 14, 2021
+msg:服務熱情，酒店整潔，餐廳菜品不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2021
+info:Other
+info:16 Reviews
+rating:5
+posted:Posted July 13, 2021
+msg:早餐好，前台服務好，很好，值得推薦入住，好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in June 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 5, 2022
+msg:環境比較安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 12, 2022
+msg:很安靜，舒適
+----------------------------------------
+name:s‍h‍i‍0‍2‍1‍2‍0‍3
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted July 3, 2021
+msg:酒店很舒適，房間很乾凈整潔，服務態度極佳。
+----------------------------------------
+name:S‍i‍d‍i‍f‍e‍n‍s‍i‍s‍h‍u‍d‍i‍a‍o
+info:Deluxe Double Room
+info:Stayed in May 2022
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted May 29, 2022
+msg:老家最好的店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:253 Reviews
+rating:5
+posted:Posted September 27, 2021
+msg:環境優美！前台服務態度非常好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 8, 2021
+msg:比較適合帶孩子，環境台，酒店乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in February 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 3, 2022
+msg:服務好，乾淨衞生。
+----------------------------------------
+name:J‍o‍h‍n‍n‍y‍H‍R
+info:Deluxe Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted December 8, 2021
+msg:非常好、每次出差必選。
+----------------------------------------
+name:1‍8‍x‍i‍a‍n‍d‍a‍i‍s‍h‍o‍u‍f‍e‍i
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted July 13, 2021
+msg:房間裏的空調效果很好，熱水也可以。。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted August 22, 2021
+msg:🍃環境：環境乾淨
+
+🔔服務熱情：
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 4, 2021
+msg:酒店很温馨，條件也是昌邑最好的了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Boutique Room (2 beds) (Special promotion)
+info:Stayed in August 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 19, 2021
+msg:房間設施好，停車方便，前台服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted January 24, 2022
+msg:酒店各項設施都滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in April 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 12, 2021
+msg:灑店很好,大堂小曹服務好）早歺好,環境女子,很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in July 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 11, 2021
+msg:沒想到大昌邑的賓館如今這般氣宇不凡！
+----------------------------------------
+name:D‍a‍l‍i‍a‍n‍g‍l‍i‍a‍n‍g
+info:Business Double Room
+info:Stayed in July 2021
+info:Friends
+info:18 Reviews
+rating:5
+posted:Posted July 19, 2021
+msg:辦理入住迅速，停車方便，升級了房型
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted August 4, 2021
+msg:交通方便，有停車場，服務態度好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted July 15, 2021
+msg:環境非常好！服務周到！價格很實惠！
+----------------------------------------
+name:H‍u‍b‍e‍i‍r‍u‍n‍d‍e‍x‍i
+info:Business Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 30, 2021
+msg:服務滿意，設施齊全，小安服務特優秀！
+----------------------------------------
+name:L‍u‍g‍u‍o‍t‍i‍a‍n‍g‍o‍n‍g
+info:Boutique Room (2 beds) (Special promotion)
+info:Stayed in August 2021
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted August 25, 2021
+msg:房間乾淨，服務熱情，環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2021
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted August 25, 2021
+msg:入住酒店很放心，房間乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in October 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted October 25, 2021
+msg:衞生需要在提升一下更好
+----------------------------------------
+name:Y‍a‍n‍g‍f‍e‍n‍g‍r‍u‍i
+info:Deluxe Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 25, 2022
+msg:前台小劉服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2021
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted September 10, 2021
+msg:服務態度很好，很不錯的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 9, 2021
+msg:安排客户住的！客户很滿意！
+----------------------------------------
+name:C‍o‍n‍g‍x‍i‍a‍o‍w‍a‍n‍h‍u‍o
+info:Deluxe Double Room
+info:Stayed in February 2022
+info:Other
+info:22 Reviews
+rating:5
+posted:Posted February 12, 2022
+msg:挺好的比較貼心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 31, 2021
+msg:服務很不錯，小妹妹人也很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:1 Review
+rating:4.7
+posted:Posted November 1, 2021
+msg:乾淨整潔！高端大氣！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Boutique Room (2 beds) (Special promotion)
+info:Stayed in August 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 22, 2021
+msg:環境好，工作人員服務態度好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 18, 2021
+msg:乾淨衞生服務很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 17, 2021
+msg:環境很好，服務態度不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted August 21, 2021
+msg:很好，要求基本都會滿足！
+----------------------------------------
+name:l‍i‍u‍.‍m‍i‍n
+info:Deluxe Room (2 beds)
+info:Stayed in December 2021
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted December 5, 2021
+msg:當地應該最好的吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted July 9, 2021
+msg:金陵大品牌出差必選，推薦入住
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in August 2021
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted August 15, 2021
+msg:特別好很好前台小娟服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2021
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted November 1, 2021
+msg:環境很好，乾淨整潔
+----------------------------------------
+name:s‍u‍i‍v‍r‍e
+info:Business Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted July 24, 2021
+msg:不錯，環境好，服務佳，很棒
+----------------------------------------
+name:S‍u‍i‍x‍i‍n‍x‍i‍a‍o‍y‍a
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 6, 2021
+msg:環境優良，服務和性價比很高
+----------------------------------------
+name:X‍i‍a‍o‍m‍i‍n‍g
+info:Deluxe Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted November 24, 2021
+msg:還不錯，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 18, 2021
+msg:環境非常好，服務很到位！
+----------------------------------------
+name:J‍u‍n‍l‍i‍n‍t‍i‍a‍n‍x‍i‍a
+info:Deluxe Room (2 beds)
+info:Stayed in January 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 16, 2022
+msg:服務非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 1, 2021
+msg:房間可以，乾淨衞生。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2021
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted October 26, 2021
+msg:非常好，乾淨舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in February 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 16, 2022
+msg:服務周到，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in September 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 10, 2021
+msg:早餐不錯，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2021
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted July 17, 2021
+msg:停車場很大，辦理入住迅速
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted September 1, 2021
+msg:服務很好、乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted October 12, 2021
+msg:服務好，環境不錯。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 25, 2021
+msg:衞生乾淨安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 11, 2021
+msg:非常不錯的入住體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2021
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted October 22, 2021
+msg:服務好，房間乾淨整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in November 2021
+info:Business travelers
+info:4 Reviews
+rating:4
+posted:Posted December 1, 2021
+msg:整體還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 29, 2021
+msg:非常不錯！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted August 6, 2021
+msg:安靜舒適值得住
+----------------------------------------
+name:A‍j‍i‍n‍g‍l‍e
+info:Family Room
+info:Stayed in August 2021
+info:Other
+info:7 Reviews
+rating:5
+posted:Posted August 3, 2021
+msg:不錯不錯家庭房
+----------------------------------------
+name:Z‍h‍u‍g‍e‍d‍o‍n‍g‍f‍a‍n‍g‍x‍i‍m‍e‍n
+info:Deluxe Room (2 beds)
+info:Stayed in May 2021
+info:Business travelers
+info:110 Reviews
+rating:3.5
+posted:Posted July 17, 2021
+msg:酒店健身設施都壞了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:27 Reviews
+rating:3
+posted:Posted September 19, 2021
+msg:很一般….
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2021
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted July 28, 2021
+msg:很好，很不錯
+----------------------------------------
+name:K‍e‍l‍e‍j‍i‍a‍b‍i‍n‍g‍1‍1‍9
+info:Business Double Room
+info:Stayed in June 2021
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted September 19, 2021
+msg:酒店很好很喜歡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:36 Reviews
+rating:5
+posted:Posted July 18, 2021
+msg:這裏不錯推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2021
+info:Other
+info:9 Reviews
+rating:5
+posted:Posted July 16, 2021
+msg:環境不錯推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in July 2021
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted July 9, 2021
+msg:酒店環境好 
+----------------------------------------
+name:Q‍Q‍y‍i‍m‍u
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 7, 2021
+msg:很好的酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted August 4, 2021
+msg:出遊很棒！
+----------------------------------------
+name:W‍u‍l‍i‍w‍a‍l‍a‍h‍a
+info:Business Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 29, 2021
+msg:環境很不錯
+----------------------------------------
+name:H‍u‍t‍u‍d‍e‍y‍e‍w‍a‍n
+info:Boutique Room (2 beds) (Special promotion)
+info:Stayed in January 2021
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted June 14, 2021
+msg:水喝的很差，冰露不好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Other
+info:7 Reviews
+rating:5
+posted:Posted July 13, 2021
+msg:酒店很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted June 15, 2021
+msg:酒店不錯，
+----------------------------------------
+name:Z‍h‍a‍n‍g‍w‍e‍n‍b‍i‍n
+info:Deluxe Double Room
+info:Stayed in January 2021
+info:Solo travelers
+info:9 Reviews
+rating:5
+posted:Posted July 8, 2021
+msg:酒店很好前台小王
+----------------------------------------

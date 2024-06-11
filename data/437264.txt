@@ -1,0 +1,4897 @@
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in October 2022
+info:Family
+info:2 Reviews
+rating:2.5
+posted:Posted October 11, 2022
+msg:The buffet has too little to eat. . . The hotel facilities are poor, and there are no boiled eggs for breakfast. . . There is also a limit to the number of people in the hot springs, sorry for more than a thousand nights. . .
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in May 2024
+info:Family
+info:13 Reviews
+rating:4.5
+posted:Posted May 27, 2024
+msg:這是一间老牌温泉度假酒店，位处山峰里，空氣清新，是一处很好的度假地方，酒店服務还可以，早餐提供健康食物，員工也很有 禮貌，酒店有养生溫泉池， 別墅區有独立溫泉池，這是我最喜愛的，價格也不貴，下次还会再来的。
+----------------------------------------
+name:H‍e‍n‍r‍y‍R‍a‍o
+info:Romantic Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 26, 2024
+msg:酒店所處環境安靜，空氣非常好，房間挺大，衞生也不錯，在陽台上可以欣賞山湖美景。晚上去餐飲樓吃了飯，出品正常，服務人員很熱情。早餐的用餐環境很舒適，出品也挺豐盛，有一些本地的特色食品。時間原因，也能去體驗温泉，下次再試。特別表揚門口保安和前台，禮貌非常好，每次見到都會打招呼，尤其是景區大門保安，多次開車進出，每次都有起身敬禮。酒店雖然開業時間較長，但是整體硬件維護的還不錯，值得推薦。
+----------------------------------------
+name:H‍u‍i‍f‍e‍i‍d‍e‍y‍u‍L‍I‍L‍I
+info:Deluxe Panoramic Queen Room
+info:Stayed in May 2024
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted May 29, 2024
+msg:這個酒店位於中國廣東省乳源瑤族自治縣，是一個充滿奇幻仙境氛圍的地方。酒店坐落在山間，周圍有茂密的森林和清澈的溪流，在去往酒店的路途就彷彿像來到了童話世界一樣！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 3, 2024
+msg:第一次住這家酒店，原以為很舊，入住後發現酒店客房保養的不錯。前台管家小丹服務熱情，升級了孩子喜歡的親子主題房。温泉水清澈泡完後很舒服。早餐也挺豐富。下次有機會會再次光臨！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in May 2024
+info:Couples
+info:31 Reviews
+rating:4.5
+posted:Posted May 4, 2024
+msg:房間大，床品舒適，裝修風格比較東南亞度假風，綠化環境好，空氣清新。温泉池子較多，還有泳池。14點退房，很人性化。
+需要改進：1、温泉淋浴間水較多，2、泳池水有點混。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in April 2024
+info:Family
+info:50 Reviews
+rating:2.7
+posted:Posted April 7, 2024
+msg:一言難盡，酒店太老了，設施什麼也不行了。服務就更加不提了，沒有現代化酒店管理的內容，能滿足基本的需求吧。餐廳人手不足，出菜很慢，説是下雨很多人不出去吃導致客流暴增，可是目測也就不到10桌啊……温泉還行，每天換水這個給個贊吧！清明暴雨第一天車都開不進去酒店，門口被水淹了你敢信？！！車停路邊酒店開觀光車給拉進去的，體驗也是新奇，不會再來咯，就這樣。
+----------------------------------------
+name:W‍o‍z‍a‍i‍l‍v‍x‍i‍n‍g‍-‍C‍o‍c‍o
+info:Romantic Room (2 beds)
+info:Stayed in April 2024
+info:Family
+info:77 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:非常的感謝麗宮酒店的服務！非常棒！從前台入住，到離店全程都是非常棒棒的服務！臨走還有禮物贈送！服務速度和效率，賓至如歸！！！細節也很好！早餐廳風景也非常棒！
+----------------------------------------
+name:Z‍o‍u‍b‍i‍a‍n‍q‍i‍n‍g‍s‍h‍a‍n‍r‍e‍n‍w‍e‍i‍l‍a‍o
+info:Romantic Room (Double bed)
+info:Stayed in March 2024
+info:Couples
+info:18 Reviews
+rating:3.5
+posted:Posted March 15, 2024
+msg:房間已經陳舊了，睡的床衹要動一下就發出嘰嘰的聲音，早餐就更不用多説了，很便宜的東西能做出好吃的東西嗎？好像叫煮水蛋都沒有！
+
+更不友好的是，半山的温泉衹在下午開放，上午衹能在下面泡，人多擁擠，是人手不夠，還是傲慢無禮所致？大家擁擠在一池，樹葉泡在池子裏，泡在大家的洗腳水裡，那場面夠酸爽嗎？全場衹看到一個服務員，而且態度還不好，客人問哪裡有水喝？她回答説哪裡都有，這不是廢話嗎？
+
+臨走前，前台還叮囑我一定要給五星好評，我無語了。這東西能隨便給的嗎？
+
+感覺乳源擁有非常好旅遊資源，奈何當地人的服務意識根本不到位，衹顧着吃轉移付款，不自己造血，能長久嗎？
+----------------------------------------
+name:¥‍c‍h‍a‍n‍g‍@‍V‍i‍c‍t‍o‍r
+info:Type A Villa - 1-Room
+info:Stayed in March 2024
+info:Family
+info:63 Reviews
+rating:4.5
+posted:Posted March 10, 2024
+msg:今年第二次帶朋友過來雲門山玩，9號入住麗宮這次工作人員服務態度改善許多，雖然前台辦理入住時工作人員有點不專業無語了。為什麼我每次在攜程訂麗宮酒店房間攜程確認後最後入住都説未查到我訂單。哎！希望不要出現第三次！朋友也非常喜歡養心谷獨立温泉房。小孩也玩的開心！雨中泡温泉非常不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 28, 2024
+msg:酒店的服務人員態度很好，無論走到哪裡都笑臉和我們打招呼，前台小姐姐看我們帶了寶寶特別給我們升級了帶陽台的房間 ，點贊，房間衞生很乾凈，温泉有幾十個池子，最喜歡十二生肖泡池，廣州過來開了3小時車，泡完温泉一身舒坦啦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted March 3, 2024
+msg:這家酒店交通，環境非常棒，離高速路口十分鐘車程，酒店還幫忙升級到湖景房，房間超大，還有陽台，帶着家人過來度假，家人都很開心，對酒店整體很滿意，早餐本地美食很多，餈粑好好吃，有機會帶朋友再來泡温泉。
+----------------------------------------
+name:s‍d‍c‍j‍h
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:4.7
+posted:Posted February 26, 2024
+msg:環境挺好！房間和早餐還算滿意。
+温泉水不錯，乾淨，真温泉！温泉池的設施不足：大部分温泉池沒有了温度指示，不知道水温。動感設施不能用，室開放的温泉池衹有一半左右。
+建議：温泉池水位提高一點，我173CM身高坐着水位還差一點漫過肩膀，我把排水口堵着水位升高後就泡得挺舒服的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 20, 2024
+msg:春節期間入住的，感受非常好！！相信平時有機會經常帶父母出遊的朋友們（特別是春節期間）也一定也會有跟我一樣的困惑。就是如何平衡好遊玩和父母的實際需求，總想着帶父母領略各種山水景色、但實際上父母年紀大了、除了遊玩要安排合理，每日的吃喝拉撒睡，都到了一個陌生的環境，更是要安排的方便、貼心。麗宮酒店就剛好
+
+1、地理位置：酒店地處韶關乳源縣中心位置，關鍵去哪都不遠，父母出行沒有壓力！不遠處就是瑤族文化博物館，可以領略瑤族的各種歷史文化、政府的投入還是非常大，值得一去！（酒店經理居然説她們都不覺得這是個景點[破涕為笑]）。此外2、3公裡外就是著名的雲門山，可以遊玩玻璃棧道、還看到了舞龍舞獅等傳統民俗，上山有電瓶車+索道，索道排隊人多的情況下、還會用大巴把人送到山頂、很人性化、很友好。
+
+2、設施完善：酒店有一大片温泉，還有中、西餐廳、甚至還有專門練書法的地方，春節期間設施也都開放、長者家不用離開酒店就能泡泡温泉、特別愜意。（而且他這裏温泉有一個亮點、因為冬天很冷，他在室內的部分也有很多泡池和桑拿房、如果不想出去就在裏面泡就好）。在接待那麼多旅遊團的情況下、還能保持比價好的服務、是比較考驗整體服務能力的。不過如果吃飯碰到團餐的話、建議直接到酒店外面那幾個餐廳吃、味道非常好、價格也實惠[強][強]
+
+3、服務貼心：春節期間的服務肯定是有多打折、本來抱着這個心態來的，沒想到e服務真的很好。各種迎來送往、各種妥善處置和安排。聽酒店經理説，他們到了春節期間忙的時候，連後台辦公室人員、甚至領導幹部們也都要身先士卒、出來疊被子、端盤子、做迎賓等工作。。。而且還要接受專人的督導檢查，真心覺得麗宮酒店的管理水平是可以的。
+
+哦對了，除了上述體驗外，關鍵價格還非常合理！的確給我一家帶來了一次難忘的春節出行體驗。感謝酒店的丘經理、細緻入微耐心細心的解答和幫忙，給我們介紹了很多乳源的景點和美食，有機會一定還會再來！😊😊[愛心][愛心]
+----------------------------------------
+name:Y‍u‍m‍m‍y
+info:Type A Villa - 1-Room
+info:Stayed in February 2024
+info:Couples
+info:6 Reviews
+rating:1
+posted:Posted February 12, 2024
+msg:住的別墅，設施，環境，服務都很差
+10年開業後估計就沒翻新過，門，椅都很舊，房間一股黴味，淋浴水壓很差，毛巾也有味道，不像消過毒的。驅蚊水也是空的，下午五六點打了好幾個電話，前台，客賓都沒人接的，還要走路去前台。換個別墅，還是有味道，早餐10點準時收檔，一口吃的都沒有。唯一欣慰的是温泉確實不錯，很失望，不會再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 16, 2024
+msg:設施：房間很大，插頭多充電非常方便。温泉池好多，温泉水是流動的，水非常乾淨。
+衞生：房間乾淨整潔，美中不足就是裝吹風筒的布袋子發黴，看起來有點噁心
+環境：有山有水綠樹成蔭，早上在房間就可以欣賞到美麗的日出。
+服務：無論是門衞或者前台、房間服務員都面帶微笑，主動打招呼。早餐是自助的，非常豐富。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in March 2024
+info:Couples
+info:8 Reviews
+rating:5
+posted:Posted March 24, 2024
+msg:房間很大，裝修很舒服。露臺有很漂亮的景色，可惜祇有一張凳。晚上送了新鮮水果，早上有早餐自助，度假村外面的餐館也很好吃。外面的湖還有鵝，很可愛。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:7 Reviews
+rating:4.7
+posted:Posted February 8, 2024
+msg:環境服務都挺滿意！餐飲部的出品個人感覺份量及味到都挺好！温泉水水質不錯！下次會再來！但就是入住時自己沒認真查看下門鎖，到晚上睡覺鎖門時才發現門鎖是鎖不了，衹能在那轉圈圈！😂門扣也是斷的！因行禮都打開！不想收拾，所以沒找服務員換房！就找個櫃子頂一下將就一下！🤔
+----------------------------------------
+name:B‍a‍i‍m‍a‍o‍j‍i‍o‍n‍g‍c‍h‍a‍n‍g
+info:Romantic Room (2 beds)
+info:Stayed in June 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted June 10, 2024
+msg:端午節假期來的，性價比不錯，還有手工包粽子活動。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Villa - 7-Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 12, 2024
+msg:春節回家過年，大年初一一大家人出行遊玩，開的別墅住着很方便，有自助早餐，別墅有小温泉池，也可以去泡温泉中心跑，房子里居然還有麻將，長者小孩玩得很開心，酒店外的美食街飯菜也可以，去雲門寺很方便
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 27, 2024
+msg:聽朋友介紹的麗宮，是適合短期度假的園區，温泉舒服，房間大，衞生不錯，特別是空氣很舒服，前台小姐姐也很友好還給升級房間，退房還給小禮品，服務很好哦，下次再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in June 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted June 2, 2024
+msg:親子房100分！！服務100分！！舒服！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 28, 2024
+msg:出差這邊隨便找了家温泉酒店,裝修有點陳舊但感覺還不錯,酒店大堂還有一家凸顯當地的手信店呢,進去拍了兩張圖,小妹的服務很好！和我們介紹了很多東西。
+----------------------------------------
+name:G‍e‍n‍n
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:21 Reviews
+rating:4.7
+posted:Posted February 24, 2024
+msg:服務：蠻好！小姐姐很熱情貼心
+
+環境：清幽富氧，時間倉促沒有領略全部的温泉
+
+衞生：不錯
+
+設施：有點略舊但勝在房間大床大！看我帶小寶寶還免費幫忙升級了房型！
+----------------------------------------
+name:E‍l‍a‍i‍n‍e‍h‍h‍l‍@
+info:Romantic Room (2 beds)
+info:Stayed in June 2024
+info:Couples
+info:10 Reviews
+rating:5
+posted:Posted June 8, 2024
+msg:環境優美，服務很好👍
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 29, 2024
+msg:温泉服務阿姨服務不錯，如果出水口能大點就更舒服了，温度可以適當再高兩三度，酒店客房夠大，陽台看下去就是湖水，很放鬆心態。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 28, 2024
+msg:挺好的，每年必定來打卡一次，韶關冬天不算冷，水非常乾淨，服務態度非常好，房間和温泉￼還有游泳池都很乾凈￼，水也很暖和。￼
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Forest Villa - 3-Bedroom
+info:Stayed in March 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted May 21, 2024
+msg:性價比高，温泉體驗滿意，酒店和別墅的環境不錯，房間乾淨，設施完整，整體整潔舒適。門口就有農莊，豐儉由人，價格合理！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted February 29, 2024
+msg:房間挺大 前台還給升級房型 早餐供應時間到十點 還不錯 午飯後想休息一下 還答應了延遲退房 滿意 值得推薦一下
+----------------------------------------
+name:C‍h‍i‍t‍a‍n‍g‍b‍i‍a‍n‍d‍e‍m‍e‍n‍g‍n‍a‍n
+info:Deluxe Panoramic Queen Room
+info:Stayed in February 2024
+info:Family
+info:17 Reviews
+rating:3
+posted:Posted February 19, 2024
+msg:一般般吧，酒店下午4點左右還是沒有把房間打掃好，前台好多客人為了辦理入住等得不耐煩。酒店服務還是可以的。温泉池不多環境一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted February 25, 2024
+msg:酒店簡單衞生很舒服，服務人員態度很好，住得很滿意，下次有空還會來，最喜歡那個室內外游泳池，水很乾凈，遊得特別爽
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 29, 2024
+msg:酒店前台小姐姐服務熱情周到，提出的問題都能用心回答並解決，必須點個大大的贊，環境整體舒適，下次再來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted March 23, 2024
+msg:酒店環境確實很好！內部很有中式風格，很喜歡。温泉類型也有很多，很舒服，價格也很實惠。挺滿意的！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in June 2024
+info:Solo travelers
+info:23 Reviews
+rating:3.2
+posted:Posted June 10, 2024
+msg:五星的收費三星的服務、別墅的電話是擺設至電前台還是在攜程訂單上找的、十一點左右就給前台打了電話十一點半前往房間接我因為天氣下雨再加上我要趕高鐵所以提前半小時告知了、但到了十一點四十多前台才又給電話我還需不需要用車？你們收費配得上服務嗎？
+----------------------------------------
+name:T‍i‍a‍n‍h‍u‍a‍g‍a‍n‍g
+info:Themed Room
+info:Stayed in January 2024
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted January 24, 2024
+msg:時隔十年再次入住，體驗還好！酒店還附贈了2張雲門寺門票，雲門寺乃雲門禪宗聖地！駐酒店不遠！環境非常漂亮，酒店環境也非常不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted February 29, 2024
+msg:酒店環境景色不錯，前台服務周到給免費升級了房型，早餐種類還挺多的服務員也可以。
+----------------------------------------
+name:D‍i‍t‍i‍a‍o‍w‍o‍d‍i
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted February 28, 2024
+msg:感覺不錯，繼續住一天．這裏的空氣真的好，遠離城市的喧嘩，房間乾淨服務也很好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 28, 2024
+msg:非常滿意的一次旅行，酒店乾淨，温泉多且舒服，下次還會來，非常開心還給升級房間，會推薦朋友的，讓朋友們也多體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in November 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted November 16, 2023
+msg:酒店好大環境舒適，網上預訂的星光房，到店後前台小姐姐給升級了帶陽台的觀景房，而且還詳細介紹了兩種房間的區別，笑容可掬服務細緻，真正做到賓至如歸！！温泉區分室內和室外的，是真温泉！！早餐品種也多味道不錯！！酒店門口有美食街，價格實惠食材新鮮。是不錯的一次出遊體驗，還會再去喔！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted March 7, 2024
+msg:房間很好，酒店環境很棒棒噠，休閑發呆的好地方，酒店的温泉是純天然的。
+----------------------------------------
+name:s‍t‍a‍r‍_‍c‍b‍y
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted March 1, 2024
+msg:房間竟然被免費升級了耶 好夢幻的油畫走廊 不錯不錯 下次還會再來的
+----------------------------------------
+name:K‍e‍n‍t‍ ‍K‍i‍n‍g
+info:Waterside Room
+info:Stayed in February 2024
+info:Family
+info:6 Reviews
+rating:3.2
+posted:Posted February 18, 2024
+msg:温泉不錯，環境清幽。可惜房間被褥，衞生間感覺不乾淨，應該加強這方面的管理。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted February 29, 2024
+msg:環境很好，山清水秀，房間也很乾凈，服務態度非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2024
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted February 28, 2024
+msg:前台給我們升級了房間，泡温泉很舒服，真温泉[強]
+----------------------------------------
+name:A‍d‍a‍m‍u
+info:Romantic Room (Double bed)
+info:Stayed in February 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted February 28, 2024
+msg:是我喜歡的感覺，這裏服務不錯，值得一來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 28, 2024
+msg:房間乾淨衞生，性價比高，服務態度好[玫瑰]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 28, 2024
+msg:服務態度好，環境好，自助早餐又豐盛
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in June 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted June 9, 2024
+msg:房間很大乾淨衞生，因為帶有寶寶辦理入住時小石還幫忙升級了房型，其他前台小姐姐也是有問有答很有禮貌呢，早餐出品個人感覺分量是很足的，温泉泡得也很舒服，滿意滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in September 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:酒店背靠大山，前面是一片稻田，酒店周邊是温泉水形成的湖泊，四周都是水面，環境很不錯。房間裝修很好，木地板我喜歡，裝修有些年代了，但還是古樸大氣，沒有裝修的氣味，非常環保，温泉有無邊游泳池和室內泳池，幾十個形狀各異的小泡池，真實的天然温泉，温度合適，棕櫚樹環繞，泡在池子裏，陰涼愜意，安靜舒適，適合帶小孩長者來度假。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 27, 2024
+msg:環境好，服務好，空氣好
+----------------------------------------
+name:Q‍i‍a‍o‍w‍a‍n‍l‍i‍l‍i‍n‍g
+info:Deluxe Panoramic Queen Room
+info:Stayed in December 2023
+info:Family
+info:7 Reviews
+rating:4
+posted:Posted February 6, 2024
+msg:綜合性價比還可以，園子弄的不錯，房間和温泉看得出有年代了，但對得起這個價格
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Themed Room
+info:Stayed in September 2023
+info:Family
+info:16 Reviews
+rating:4.5
+posted:Posted October 2, 2023
+msg:看上去是以前裝修的蠻好的酒店，衞生做的很好，主題房兩個男孩子開心壞了，早餐很不錯，晚上的乳鴿也很棒！
+不足之處，餐飲部上菜有點慢，温泉的設施舊了一點，蚊子太多了😂😂
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:5 Reviews
+rating:4.2
+posted:Posted August 31, 2023
+msg:一進大堂一股黴味，酒店看得出來老舊，曾經很輝煌，可能是用木材多，畢竟10多年了，要裝修一下啦！雖然服務比較貼心，微信裏面一提出就及時響應，房間大而且有陽台，還有免費點心和隨手禮，但首要印象最重要、房價定位偏高，性價比不高。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 7, 2024
+msg:出差來到這個小縣城，通過網上預訂了這家酒店有温泉泡，酒店交通方便，環境都很好很安靜，離高速路口十分鐘車程，訂了星光房，去到酒店看了不喜歡，前台小姐姐看到我一個就給我升級到湖景房，湖景房超大，陽台也很大，愉快的一次出差，下次有機會帶家人過來度假，泡泡温泉，酒店整體很棒，值得推薦一下
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in August 2023
+info:Friends
+rating:5
+posted:Posted August 25, 2023
+msg:很早以前就想去這酒店的了，因為之前時間對不上，這次出行！剛好順道去雲門寺還願的，終於完了心願來麗宮泡泡温泉，前台服務員還幫我們升級湖景房，這酒店空氣真的很好很好，早餐也很豐富，味道不錯，性價比很高，温泉水也很乾凈，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 10, 2024
+msg:值得來。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in September 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted September 29, 2023
+msg:七年前朋友在這裏舉辦過婚晏，有幸參加，感覺環境不錯，。這次趁雙節假期回家，順路帶家人泡泡温泉，休閑一下，故地重遊很是親切。服務熱情，賓至如歸！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Themed Room
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:3
+posted:Posted February 14, 2024
+msg:三點多到店，房間居然還沒清理！春節價格是平時的三倍，但是服務又跟不上。保潔阿姨很隨便搞了衞生就讓我們入住了，房間東西很老舊，温泉也很小，早餐很簡單，總之，完全不值這個價，一次性消費。而且，門口的電瓶車租賃巨坑，開到門口，保安叫我們暫停，可是沒告知要持續計費，停了一個多小時，結果開回去，居然租金170多，車程不到200米，真是無語到想打消費者熱線…
+----------------------------------------
+name:q‍_‍1‍�‍�
+info:Type A Villa - 1-Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:1
+posted:Posted February 13, 2024
+msg:別墅11號房絕對臭到你可以一整晚睡不着，要一打開門臭味馬上吐了，電話是壞的，絕對不給你投訴換房的機會，以後再來這個酒店絕對是狗，從來沒有住過這麼臭的酒店，還要別墅，廁所味臭到整別墅根本就睡到覺，超級垃圾垃圾別墅
+----------------------------------------
+name:B‍O‍B‍O
+info:Romantic Room (2 beds)
+info:Stayed in January 2024
+info:Friends
+info:34 Reviews
+rating:4
+posted:Posted February 28, 2024
+msg:第二次入住的酒店，這次比上一次體驗較好，上次是新年期間入住的，可能人太多了管理上有點亂，這次較滿意的，服務質量很好，入住時發現房間的小花瓶自裂開了，告訴服務前台，馬上處理好👌，速度快了，希望繼續改進。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in February 2024
+info:Family
+info:12 Reviews
+rating:4.7
+posted:Posted February 6, 2024
+msg:看得出來雖然酒店年代有點久遠，但設施維護得還不錯，對於我來説，洗澡間熱水夠熱水壓夠猛就很好了。。温泉服務還不錯，酒店免費升級為豪華湖景房了。對於這個價錢有這個服務，温泉質量也不錯，感覺挺值的
+----------------------------------------
+name:X‍i‍a‍o‍x‍i‍n‍A‍n‍d‍y
+info:Romantic Room (Double bed)
+info:Stayed in August 2023
+info:Family
+info:21 Reviews
+rating:5
+posted:Posted August 21, 2023
+msg:住宿環境幽靜，訂房可以無限次泡温泉身心可以放鬆，每次出遊都會過來體驗生活。
+公共衞生好，房間整潔，住宿安全，服務超貼心。唯一的缺點就是設施有些舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 30, 2024
+msg:房間免費升級，很大很乾凈！！！
+重點是。房間都是提前插了電卡，空調爽歪歪
+温泉也不錯，現在淡季，沒啥人。
+好評。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted July 25, 2023
+msg:房間還不錯，最喜歡就是有個陽台可以掛衣服！房間配置該有的都有，冰箱也有，水壓很給力。温泉也可以了，主要泳池恆温孩子能玩水。酒店周圍環境不錯。吃得建議到外面吃不遠。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in March 2024
+info:Couples
+info:10 Reviews
+rating:5
+posted:Posted March 21, 2024
+msg:温泉特別的好，還是以前的質量，還有恆温游泳池，很好，雖然房間的硬件設施舊了點，但是床上用品還是很新的，也很乾凈。現在搞特價房，超值的一次體驗。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in November 2023
+info:Friends
+info:2 Reviews
+rating:3.7
+posted:Posted November 19, 2023
+msg:酒店有點老舊，但保養還好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in June 2023
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted June 17, 2023
+msg:前台升級了豪華房，早餐挺不錯，中央空調也挺靜的。👍陽台擺了一個茶機可歎茶看風景，有一個坐的搖籃，挺不錯。温泉確實不錯，有很多個池，泡熱了又可去游泳涼快一下。大門外出，走3-5分鐘就可以食農家菜，很正。🌹
+----------------------------------------
+name:z‍y‍w‍z‍y‍w
+info:Themed Room
+info:Stayed in August 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted August 19, 2023
+msg:非常好，預訂了外星人標間，小朋友非常快樂，希望酒店業也能鼓勵多孩出行，不要收小朋友早餐温泉費用，三胎政策才好落地。
+----------------------------------------
+name:B‍e‍i‍q‍i‍z‍h‍u
+info:Themed Room
+info:Stayed in August 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:房間衞生很乾凈，服務周到，入住舒適，價格合理，性價比很高，值得推薦。周邊綠植環境一流，山清水秀，適合一家老少前來度假休閑。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in June 2023
+info:Couples
+info:4 Reviews
+rating:4.5
+posted:Posted June 5, 2023
+msg:服務：酒店員工服務態度很好，有求必應。
+環境：像一個度假村，環境挺好。
+衞生：能看到工作人員在打掃，但可能在山邊，防潮還是要注意。
+設施：看得出來以前是中高成本的裝修用料，但酒店已經開業多年，還是會有損耗，如果可以定期翻新維護一下就更好了。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted August 17, 2023
+msg:環境適合養生，蚊子比較多，床比較硬，早餐還算可以挺多選擇的，就是比較老舊款式的酒店，退房還有小禮品送
+----------------------------------------
+name:C‍a‍i‍z‍h‍u‍o‍l‍i‍n‍g‍b‍o‍w‍e‍i‍b‍u‍d‍e‍s‍h‍e‍n‍x‍i‍a‍n‍j‍i‍e‍j‍i‍e
+info:Deluxe Panoramic Queen Room
+info:Stayed in February 2024
+info:Friends
+info:17 Reviews
+rating:4.5
+posted:Posted April 6, 2024
+msg:酒店有那麼多年的歷史還是太成就了，而且朋友住那些特價房就連冷氣都沒有，這部分是需要改善一下的，不過還是太年久了，酒店應該都是想考慮要維護一下了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:4.2
+posted:Posted February 23, 2024
+msg:首先要表揚前台人員，認真細緻。值得表揚。但是酒店洗澡的出水口和洗臉的出水口實在是太小了。熱水要等十分鐘才會出來。而且小的可憐。以至於小孩第二天感冒了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in March 2024
+info:Friends
+info:5 Reviews
+rating:4.7
+posted:Posted March 23, 2024
+msg:環境很好，温泉不錯，服務還可以，但房間小小舊點，性價比非常高，早餐還可以，非常推薦大家，以這樣的價錢，入住這麼好的温泉酒店，滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:1.7
+posted:Posted October 5, 2023
+msg:實話實説這酒店設施有太破舊了，但温泉還不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted March 23, 2024
+msg:酒店的房間設施完備，衞生、環境還是很不錯的，服務也很好，除了酒店雖然有十幾年了，但是一如既往的好，早飯還是挺不錯的，泡温泉的話是不錯的選擇
+----------------------------------------
+name:L‍i‍u‍j‍i‍n‍g‍j‍i‍n‍g
+info:Romantic Room (2 beds)
+info:Stayed in October 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted October 15, 2023
+msg:很喜歡這個地方
+環境：好
+服務：好
+----------------------------------------
+name:S‍h‍u‍a‍n‍g‍�‍�‍n‍v
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted February 28, 2024
+msg:環境很好，空氣清新，特別是我這種睡眠質量不好的人度假，又乾淨又安靜，風景又好，服務又熱情，在韶關旅遊的朋友住宿選乳源麗宮是明智的選擇
+----------------------------------------
+name:D‍a‍s‍h‍a
+info:Deluxe Panoramic Queen Room
+info:Stayed in August 2023
+info:Family
+info:3 Reviews
+rating:3.5
+posted:Posted August 21, 2023
+msg:可能是太舊了，年久失修，所以感覺不理想，體驗一般。但是温泉不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Themed Room
+info:Stayed in October 2023
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:挺好的，小孩很開心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in August 2023
+info:Other
+info:11 Reviews
+rating:5
+posted:Posted August 22, 2023
+msg:温泉酒店不錯，環境舒適前台還送了小禮物很棒，下次再來入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:3
+posted:Posted February 13, 2024
+msg:很一般，温泉池太小了，也不是很熱，設備比較舊，我們不去泡，進去也要收78一個人，哎，沒有第二次了，過年也不便宜，體驗感不好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:4.2
+posted:Posted August 27, 2023
+msg:設施：雖然舊一點，房間很大，也較乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in June 2023
+info:Friends
+info:35 Reviews
+rating:5
+posted:Posted July 2, 2023
+msg:多次入住了，一如既往的好，免費升級了房型，水上樂園也部分開放了，還有山泉水泳池，整體很棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Themed Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 23, 2023
+msg:房間非常大，非常乾淨，服務態度非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in June 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted June 23, 2023
+msg:設施：重新裝修過，非常不錯
+環境：還是這麼優美寧靜，舒服
+服務：服務態度越來越好，值得信賴的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 29, 2024
+msg:整體還不錯，挺滿意的，最近有優惠，299包温泉和酒店都挺划算的，環境安靜舒適，還包早上的自助餐，品種多，味道可以！
+----------------------------------------
+name:a‍u‍s‍t‍i‍n
+info:Romantic Room (Double bed)
+info:Stayed in February 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted February 25, 2024
+msg:酒店的房間還是不錯的，除了酒店上了一點年紀稍微有點舊以外，景色早飯還是挺不錯的，要是中午來泡温泉的話是不錯的選擇
+----------------------------------------
+name:L‍i‍a‍o‍j‍i‍n‍s‍o‍n‍g
+info:Romantic Room (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 27, 2024
+msg:酒店環境優美，温泉也很舒服，房間衞生乾淨整潔，值得表揚一下前台林琳服務特別周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in March 2023
+info:Couples
+info:11 Reviews
+rating:4.7
+posted:Posted March 14, 2023
+msg:設施：設施齊全，房間挺大，挺舒服的
+衞生：房間衞生還行
+環境：酒店面積很大，房間都被水圍着，景色很好，餐廳那邊的紫藤花園正是盛開的時候，太美👍
+温泉也不是很遠，過橋就到，感覺是真温泉，但温泉更衣室和洗浴間的淋浴噴頭就是扣分的地方，太舊，噴向四周就是淋不到頭上，服務員的服務也一般般，外面温泉區的服務大姐就好很多
+雲門寺門票2張:又名大覺禪寺，值得一遊，酒店這個特色項目我喜歡
+服務：從進住到離開都能感受的貼心照顧，晚上送陳皮餅，離店又送陳皮茶葉，挺好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2024
+info:Friends
+info:4 Reviews
+rating:3.7
+posted:Posted February 25, 2024
+msg:早餐環境和衞生很一般，取東西沒有託盤不方便，客服衞生間浴室衞生不到位滿地頭髮，其它都還好，總體來説還可以。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in March 2023
+info:Friends
+info:40 Reviews
+rating:3.5
+posted:Posted March 8, 2023
+msg:設施：老舊
+環境：依山傍水，森林氧吧
+衞生：可能是設備老舊的原因，傢俱及衞生間不是很乾凈
+服務：比招待所要好，比星級酒店要差
+早餐品種很多，口味不錯，自助火鍋隨便能吃吃，送的2張雲門寺門票值得一去。
+----------------------------------------
+name:F‍i‍o‍n‍a‍z‍f‍f
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted April 27, 2024
+msg:很有情懷的一家酒店，温泉池比較多，也不會很分散，還有汗蒸濕蒸。雖然開了很多年了，但房間環境設施都維繫的不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:1
+posted:Posted April 5, 2024
+msg:服務差，下雨借個傘用都不行，下雨路面有嚴重積水電動車和司機空着都不肯送一下去大門囗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in April 2023
+info:Family
+info:6 Reviews
+rating:3.2
+posted:Posted April 9, 2023
+msg:可能是春天，房間有一股霉味，浴室也穢，不過環境還算可以，早晚餐的食物味道也一般，不過附近沒有其他選擇，溫泉沒去，因為不敢去
+----------------------------------------
+name:N‍I‍G‍O‍l‍i‍g‍a‍o‍�‍�‍5‍0‍1‍X‍X
+info:Deluxe Panoramic Queen Room
+info:Stayed in December 2023
+info:Family
+info:6 Reviews
+rating:1
+posted:Posted December 29, 2023
+msg:電視看著就會定著畫面,防盜鎖不能防盜.溫泉池只開放十個,整個室外溫泉池找不到幹毛巾,室內也沒有,最後要跑到更衣室才有.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:83 Reviews
+rating:5
+posted:Posted March 1, 2024
+msg:酒店設施完備，衞生、環境、服務很好，天氣雖寒冷，但房間始終温暖如春，温泉泡池舒服，值得信賴。
+----------------------------------------
+name:(‍☆‍_‍☆‍)
+info:Deluxe Panoramic Twin Room
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:4
+posted:Posted February 16, 2024
+msg:房間大面積大
+設施：一般，陳舊
+衞生：進房間的第一亮點，就是地板拖得很隨意
+環境：一般
+服務：一般
+----------------------------------------
+name:l‍e‍e‍r‍z‍i‍z‍i
+info:Deluxe Panoramic Queen Room
+info:Stayed in January 2024
+info:Friends
+info:2 Reviews
+rating:4.7
+posted:Posted January 29, 2024
+msg:房間裏的電視機有點跟不上了😂不過也不是為了待在房裡看電視～點贊酒店貼心配的水果和牛奶，泡完温泉可以享用，極好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 28, 2024
+msg:前台小美女人很好，房間升級了，小朋友也贈送了精緻瑤綉，早餐還不錯，温泉夠熱，沒想到還有桑拿
+----------------------------------------
+name:K‍e‍v‍i‍n‍L‍e‍u‍n‍g‍8
+info:Type A Villa - 1-Room
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:4.2
+posted:Posted February 15, 2024
+msg:第一次住 住的是獨立屋 跟預期差不多 總的來講挺好 就是晚上路燈都熄了 在山邊烏漆麻黑有點嚇人
+----------------------------------------
+name:A‍i‍x‍i‍n‍g‍z‍h‍e‍z‍h‍i‍j‍i‍a
+info:Deluxe Panoramic Twin Room
+info:Stayed in January 2023
+info:Family
+info:29 Reviews
+rating:4.5
+posted:Posted February 7, 2023
+msg:設施：有點年份，比較舊
+衞生：房間衞生還算乾淨
+環境：很好，有園林，水池，舒適
+服務：工作人員服務態度不錯
+早餐：食物款式很多，但由於春節假期人也很多
+雲瑤谷無限次温泉門票:温泉池不在酒店內，冬天泡很不方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:4
+posted:Posted February 13, 2024
+msg:可能是春節剛過吧，早餐很多人煮麪/粉要排隊。體驗不是很好。期望能改進一些。
+房間設施還行吧。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Themed Room
+info:Stayed in February 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted February 24, 2023
+msg:雙人無限次雲瑤谷温泉:水好人少，我們錯峯出遊還是感覺挺好的
+
+早餐:非常豐富
+
+服務：管家一對一貼心服務，長者家行動慢還給我們推遲了一個小時退房
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in April 2023
+info:Family
+info:17 Reviews
+rating:4.5
+posted:Posted May 1, 2023
+msg:環節優美，安靜，適合修養。但酒店裝修比較舊，温泉裏提供的拖鞋太硬了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 1, 2023
+msg:公司團建來的，感謝幫我們升級了房間，退房遺漏了物品還幫忙快遞回來，太感謝了，温泉十二生肖池很有特色，很舒服，房間很舒適，門口就有很多家農家菜，吃飯也很方便，下次還會再來
+----------------------------------------
+name:J‍i‍n‍g‍z‍i‍x‍i‍a‍o‍l‍i‍f‍e‍i‍d‍a‍o
+info:Deluxe Panoramic Queen Room
+info:Stayed in December 2023
+info:Friends
+info:7 Reviews
+rating:4
+posted:Posted December 31, 2023
+msg:房間已經很舊，設施真的一般般，進房有一股味道，不過温泉池確實不錯，環境和泡温泉真的好，下次衹泡温泉！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type C Villa - 2-Room
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 18, 2023
+msg:温泉水很清，冷熱可調，單棟別墅很安靜，非常適合度假泡完很好入睡。自助早餐也不錯，中餐廳就沒去吃過，沒什麼人所以也不想嘗試，酒店外面的農家樂菜品相當不錯👍
+----------------------------------------
+name:Z‍h‍u‍h‍a‍i‍h‍u‍a‍g‍e
+info:Deluxe Panoramic Twin Room
+info:Stayed in March 2023
+info:Family
+info:51 Reviews
+rating:5
+posted:Posted March 30, 2023
+msg:環境一流，交通便利，停車方便，房間乾淨衞生，温泉有特色，餐飲較豐盛。家庭休閑舒心的好地方。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in April 2024
+info:Friends
+info:5 Reviews
+info:Romantic Room (Double bed)
+rating:4.5
+posted:Posted April 14, 2024
+msg:酒店由一箇中心湖環繞，靜幽適合放鬆。前天石經理熱情服務周到，感謝。
+----------------------------------------
+name:B‍a‍n‍s‍h‍a‍n‍z‍h‍i‍x‍i‍n‍g
+info:Waterside Room
+info:Stayed in July 2023
+info:Family
+info:20 Reviews
+rating:3
+posted:Posted July 10, 2023
+msg:酒店有點舊了，温泉裏面的服務沒有以前的好，更衣室的沐浴間好多花灑都不行。，工作人員少，餐廳的早餐也是沒有以前的好，品種少，房間的毛巾舊了，沐浴露洗頭水太差了。幾乎每年都來，感覺今年太差了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in May 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 26, 2023
+msg:環境很好，休閑好去處！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:14 Reviews
+rating:2
+posted:Posted January 27, 2023
+msg:從來沒有住過衞生這麼差的酒店，毛髮，灰塵，地板也也是臟到不行，第一次住真的無語了，雖説環境跟温泉都還可以，但是起碼把衞生跟服務提上去吧，以後不會再去
+----------------------------------------
+name:Y‍a‍n‍l‍i‍a‍o‍S‍t‍e‍l‍l‍a
+info:Romantic Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 22, 2023
+msg:已經是第二次過來了。温泉很舒服很治癒，酒店工作人員服務態度耐心細緻，房間空調衞生都很不錯。希望生意越來越好，這家店老品牌了，品質保證！店家送的陳皮餅味道很贊👍
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 28, 2023
+msg:總體上是比較滿意的，温泉種類比較多，貨真價實，環境幽靜，服務熱情，早餐味道不錯，酒店雖然舊些，但是分區合理，衞生滿意。在山裡泡温泉的感覺很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 25, 2023
+msg:非常推薦，老牌温泉酒店，性價比真的非常高，酒店的餐飲可能因為春節人手不夠，體驗感不佳，但酒店外面就農家樂，很方便。園區有室內外温泉，很適合一家老小
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Type B Villa - 2-Room
+info:Stayed in November 2023
+info:Family
+info:4 Reviews
+rating:2
+posted:Posted November 22, 2023
+msg:酒店舊，價錢不便宜，住的那個別墅廁所相當臭，早餐在8點半已經很多東西沒得吃，還不會重新上。服務設施跟價錢不相符
+----------------------------------------
+name:J‍a‍c‍k‍y‍d‍e‍t‍i‍a‍n‍d‍i
+info:Romantic Room (Double bed)
+info:Stayed in May 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted May 14, 2023
+msg:環境不錯，設施還行。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in October 2023
+info:Friends
+info:41 Reviews
+rating:4.7
+posted:Posted October 24, 2023
+msg:房間相當大，露台面向酒店湖，也能看到日出，超值。
+早餐一般，酒店有點歷史啦！所以洗手間沖力欠佳，有點塞，要改善一下。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in January 2023
+info:Family
+info:4 Reviews
+rating:3.5
+posted:Posted February 5, 2023
+msg:環境可以，但是園區不是很大，房間設施也有點舊了。温泉池選擇有點少，基本衹是不同温度的池。其他方面總體還算過得去吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 1, 2024
+msg:是個適合度假的景區，吃喝玩樂都齊聚一起，感覺不錯，公司團建下次安排。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:4.7
+posted:Posted February 22, 2024
+msg:温泉很不錯，房間也夠大，但是看起來就是十多年前的裝修風格。還是很推薦的
+----------------------------------------
+name:X‍i‍a‍o‍q‍i‍a‍o‍r‍e‍n‍j‍i‍a‍R
+info:Romantic Room (2 beds)
+info:Stayed in June 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted June 10, 2024
+msg:挺好一温泉酒店，怎麼好像人氣不旺？以後可以常來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2024
+info:Family
+info:10 Reviews
+rating:4
+posted:Posted January 22, 2024
+msg:房間還可以，温泉早上去的比較乾淨，剛好遇到降温，就是床太小了，要是一米五就好了
+----------------------------------------
+name:f‍h‍e‍r‍i‍c
+info:Romantic Room (Double bed)
+info:Stayed in January 2023
+info:Family
+info:43 Reviews
+rating:4
+posted:Posted January 28, 2023
+msg:比較舊，半夜11-12點還有人在放煙花，剛入睡嚇一跳，隔音太差，走廊有人説説很大聲，酒店的管理一般。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted March 22, 2024
+msg:酒店服務很滿意 很好 住得很舒服 嘎嘎好  下次還會繼續住 奧利給
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in October 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 4, 2023
+msg:房間衞生乾淨整潔，還有新鮮水果送。服務員小陳態度熱情很暖心，前台小靜的服務也很好 ，酒店環境很好👍，期待下一次旅程。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in February 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 26, 2023
+msg:住得很好，温泉好夠，桑拿任做，還包火鍋！環境很美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in February 2024
+info:Family
+info:32 Reviews
+rating:5
+posted:Posted February 23, 2024
+msg:服務態度好！住房一流。車可以直接進户，泡温泉不用出去，非常滿意！
+----------------------------------------
+name:G‍u‍i‍x‍i‍q‍i‍a‍n‍l‍o‍n‍g
+info:Deluxe Panoramic Queen Room
+info:Stayed in December 2023
+info:Couples
+info:43 Reviews
+rating:4.5
+posted:Posted December 12, 2023
+msg:環鏡不錯，温泉區服務有待加強，上午九點温泉開放後，大多數泡池根本不能泡，體驗感差。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Themed Room
+info:Stayed in January 2023
+info:Family
+info:4 Reviews
+rating:4.2
+posted:Posted January 28, 2023
+msg:春節期間太多人了，但服務一樣的好，謝謝小姐姐送的小玩具讓小朋友開心一整天。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in March 2023
+info:Friends
+info:1 Review
+rating:4.2
+posted:Posted March 12, 2023
+msg:還可以，雖然設定也有一點時間了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 29, 2024
+msg:環境優靜，早餐挺豐富的，這個天氣最舒服的還是泡温泉了♨️。😀
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in December 2023
+info:Couples
+info:4 Reviews
+rating:4.5
+posted:Posted March 4, 2024
+msg:位置方便，房間不錯，温泉有窒內的，也有户外園林，最喜愛酒樓的食品，性價比高。
+----------------------------------------
+name:Z‍h‍e‍n‍g‍b‍i
+info:Deluxe Panoramic Twin Room
+info:Stayed in January 2023
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted January 30, 2023
+msg:房間大，設施有點舊，環境優雅，温泉去到高山泡舒服，下面的都是小孩在玩
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in September 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:房間非常大，硬件設施齊全，前台服務小姐姐非常的貼心，還送了伴手禮，酒店內的温泉以及游泳設備都非常人性化。
+----------------------------------------
+name:J‍i‍a‍b‍i
+info:Forest Villa - 3-Bedroom
+info:Stayed in September 2023
+info:Family
+info:66 Reviews
+rating:3.7
+posted:Posted September 17, 2023
+msg:真的很老，設施也真的舊
+服務態度很好
+早餐沒啥東西吃，水果也衹有蘋果
+很多蜈蚣，毛毛蟲在房間
+有些房間還有蛇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 30, 2023
+msg:環境一流，半山池更是一級享受！半山的池坐下，那裡都不想去！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in February 2024
+info:Family
+info:8 Reviews
+rating:3.5
+posted:Posted February 18, 2024
+msg:早餐一般，温泉服務不行，環境不行，温泉區服務人員少，態度也差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in September 2022
+info:Couples
+info:30 Reviews
+rating:5
+posted:Posted October 1, 2022
+msg:非常滿意的入住體驗。周邊環境好，羣山環抱，景色怡人，空氣清新。房間有40方帶大陽台，安靜乾淨衞生整潔。服務態度很好。我們訂的包温泉包早晚餐，性價比超高。還有免費停車場。早餐豐富且就餐空間大舒適。下次去乳源，一定會再去入住這家酒店。推薦大家去體驗一下，真心不錯👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:4.2
+posted:Posted February 26, 2024
+msg:酒店環境很好，
+房間超大，還可以看到湖景
+
+餐飲口味不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Themed Room
+info:Stayed in June 2024
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted June 8, 2024
+msg:非常不錯的一次體驗，洗温泉、休閑度假。
+----------------------------------------
+name:Y‍O‍Y‍O‍0‍6‍0‍8
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Couples
+info:15 Reviews
+rating:4
+posted:Posted May 2, 2024
+msg:每年路過韶關都會去泡一泡，環境不錯，就是周邊吃的東西不多
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in October 2022
+info:Family
+info:8 Reviews
+rating:4.5
+posted:Posted October 7, 2022
+msg:環境很好，夜景很美，服務也好，送晚餐和早餐，不能説很好的自助餐，但是我個人覺得滿意，很寬廣，不用老是悶在房間，可以去游泳，可以泡温泉，整體比較喜歡，停車免費。性價比算很高。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in March 2024
+info:Family
+info:10 Reviews
+rating:4.2
+posted:Posted May 19, 2024
+msg:服務有點跟不上，設施保養的不是太好，早餐比較簡單。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in September 2023
+info:Friends
+info:4 Reviews
+rating:2.2
+posted:Posted September 11, 2023
+msg:衞生很差，床上有頭髮，衞生間座廁發黴的，毛巾等用品已經很舊了，也不換，反正沒見過這麼差的酒店，還這麼貴
+----------------------------------------
+name:l‍u‍l‍u‍2‍5‍3‍2
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:23 Reviews
+rating:4.2
+posted:Posted March 1, 2024
+msg:帶小孩出來玩，房間不錯，不過設施比較陳舊了，衞生還可以
+----------------------------------------
+name:S‍u‍z‍r‍r‍o‍n‍g‍g‍e
+info:Waterside Room
+info:Stayed in January 2023
+info:Family
+info:17 Reviews
+rating:4
+posted:Posted February 11, 2023
+msg:真温泉水，親水平台小朋友很喜歡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in March 2023
+info:Couples
+info:3 Reviews
+rating:4
+posted:Posted March 4, 2023
+msg:免費升級了親子房，雖然是比較老式的酒店，但房間很大，有陽台，設施好用沒毛病，空調好用，噪音小，放行李的地方很充足，床品新又乾淨，睡了美美的一晚。温泉就不要太高期望了，畢竟那麼大接待能力的酒店，房間裏沒有獨立泡池的話，肯定會被吐槽的了，房費這價錢也是對得上了。沒拍照了，都是網上的照片，一樣的。
+----------------------------------------
+name:D‍i‍s‍h‍a‍n‍g‍d‍e‍s‍h‍a‍z‍i
+info:Deluxe Panoramic Queen Room
+info:Stayed in January 2024
+info:Friends
+info:16 Reviews
+rating:4.5
+posted:Posted January 5, 2024
+msg:除了酒店設施比較舊外，環境比較好，可能非節假日，周邊比較清靜。
+----------------------------------------
+name:L‍i‍l‍y‍L‍i‍u‍j‍u‍n
+info:Deluxe Panoramic Twin Room
+info:Stayed in October 2023
+info:Other
+info:7 Reviews
+rating:3.5
+posted:Posted November 9, 2023
+msg:房間設施比較簡陋、衞生打理得不符五星標準，衞生堪憂！空氣、環境還不錯👍希望改善房間衞生！
+----------------------------------------
+name:e‍l‍l‍a
+info:Exotic Featured Room
+info:Stayed in June 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted June 10, 2024
+msg:房間空間夠大，風景宜人，温泉湯靚。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in February 2024
+info:Family
+info:25 Reviews
+rating:5
+posted:Posted April 30, 2024
+msg:不錯哦，過年作為去廣東的歇腳的地方，泡温泉又休息了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:2.2
+posted:Posted February 13, 2024
+msg:温泉的服務很差，設施維護不夠，毛巾破舊，服務不足。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:是湖景房，房間挺大的，有個陽台可以望到水池，還是挺好的
+----------------------------------------
+name:c‍l‍d‍x‍m
+info:Deluxe Panoramic Queen Room
+info:Stayed in December 2023
+info:Family
+info:53 Reviews
+rating:3.5
+posted:Posted January 3, 2024
+msg:設施老舊，服務一般，房間一次性拖鞋都沒有，對不起5星的稱號
+----------------------------------------
+name:t‍e‍l‍e‍_‍f‍o‍n‍g
+info:Type A Villa - 1-Room
+info:Stayed in August 2022
+info:Family
+info:13 Reviews
+rating:4
+posted:Posted August 23, 2022
+msg:房間燈光不夠，設施比較陳舊，房間温泉無限量好評，還送兩瓶牛奶泡牛奶浴。公共區是亮點，孩子玩的地方夠大，有漂流池，温泉分山上山下室內三個區，人不多，水也乾淨。山裡空氣很清新，有很多大鳳蝶金龜子七星瓢蟲這些城裡的娃沒見過的蟲子
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 29, 2024
+msg:環境不錯！所有工作人員都很有禮貌，態度非常好👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in February 2023
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted February 22, 2023
+msg:很安靜，陽台望過去就是湖。前台服務很耐心，我們提了幾個需求，都儘量滿足了。
+房間很大很乾凈，有茶具，正好望着湖喝茶。
+晚上還送了水果。
+走的時候落下了東西，專門打電話通知
+總之就是，很推薦
+----------------------------------------
+name:z‍h‍a‍n‍g‍w‍e‍i‍s‍h‍u‍n‍2‍2‍0‍6‍7‍1‍9‍8‍1‍8‍@
+info:Deluxe Panoramic Queen Room
+info:Stayed in January 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted January 11, 2023
+msg:總體來還是挺不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:6 Reviews
+rating:1
+posted:Posted January 26, 2023
+msg:體驗感受超差：1. 下午三點入住，5點多才收拾出房間。2. 住的是B區631星空房，衞生間很臭，而且基本的熱水洗澡都保證不了，衹有20多度的水，洗着出冷水，洗出感冒，投訴多次，工程部來人修了30多分鐘解決不了，又沒房換，最終在旁邊壞房衞生間洗了個澡。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in January 2023
+info:Friends
+info:1 Review
+rating:1
+posted:Posted January 26, 2023
+msg:房間衞生極差，感覺三年沒有拖過地，又舊，服務也跟不上，温泉區想喝水，連個服務員在現場都沒有，垃圾到處都是，想自己倒杯水喝，杯也沒有，還有贈送的自助早餐，簡直太難吃了，牛奶是沖泡的，加水比奶粉多，環境是不錯，就是太舊，服務根本跟不上，不會去第二次
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in October 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted October 6, 2022
+msg:已經是第三次入駐了，環境完美，温泉完美，房間完美，早餐完美！療養及度假的好去處，真不愧是一流的度假酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:4
+posted:Posted August 5, 2023
+msg:温泉水質可以，自助早餐品種也比較多，但酒店設施比較老舊,當然畢竟價格不算貴，家庭親子住還是可以的
+----------------------------------------
+name:g‍z‍m‍1
+info:Type A Villa - 1-Room
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:4.2
+posted:Posted March 1, 2024
+msg:温泉質量高，周圍環境好，乾淨衞生，管理還不錯
+----------------------------------------
+name:X‍i‍a‍o‍h‍o‍n‍g
+info:Romantic Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:24 Reviews
+rating:4
+posted:Posted August 7, 2022
+msg:酒店房間比較大，但是設施比較老舊，牆紙發毛掉邊。温泉不是很熱的，泡池很多也算乾淨，最好玩是免費魚療池。周圍都是山景和湖，夏日過來很清涼。餐廳出品不錯，貴，最好吃的陳皮排骨88。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in October 2023
+info:Family
+info:4 Reviews
+rating:4.2
+posted:Posted October 4, 2023
+msg:酒店中規中矩，設施有點舊，但是温泉確實不錯，晚上山上的幾個温泉池子氣氛拉滿。
+----------------------------------------
+name:C‍e‍l‍e‍r‍y‍z‍h‍o‍u
+info:Deluxe Panoramic Twin Room
+info:Stayed in March 2024
+info:Family
+info:29 Reviews
+rating:5
+posted:Posted May 18, 2024
+msg:服務挺好的，衞生也挺乾淨的，酒店設施也還行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:6 Reviews
+rating:3.7
+posted:Posted January 24, 2023
+msg:環境很好，但是酒店設施開始有點老舊和過時了，早餐的樣式比前年來簡單和一般了，這次來有點小失望。酒店的温泉和環境還是很好的，現在放開了，希望能進行必要的升級，自助早餐也要搞好一點，不然真是有點可惜。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in November 2023
+info:Friends
+info:6 Reviews
+rating:1
+posted:Posted November 23, 2023
+msg:電視看不到所有節目，温泉毛巾衹給二條。還這麼貴，建議給我退錢。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in July 2023
+info:Booked for others
+info:34 Reviews
+rating:5
+posted:Posted August 11, 2023
+msg:儘管是老酒店，設施略顯陳舊，但是服務非常好，給兩位長者家升級了更適合的房型，温泉療養了一週，身心愉悦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in July 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted July 15, 2022
+msg:温泉度假村背山面水，酒店主樓設計了一圈水景環繞，通過廊橋與外相連，夜晚燈光相映，漂亮，疑似身在水鄉。房間很大，有沙發、寫字枱，重點是有觀景陽台，配有吊椅、茶台，坐在陽台吊椅上，看山觀水品茗，愜意！酒店送的中餐兩人套餐，四菜一湯，出品配得上四星級酒店，隔壁台一位九十多的老奶奶一邊稱讚酒店菜品好，一邊慢慢喝下一大杯紅酒，也是震撼到我們了。温泉，室內室外各種風格的池一應俱全，並沒有因為疫情人少而少開池，而且免費的漁療池的魚兒相當給力，魚兒親親腳底的感覺相當酥服。麗宮度假之行，吃住玩景，五星之旅！
+----------------------------------------
+name:B‍e‍i‍e‍r‍f‍e‍i‍d‍e‍l‍v‍z‍h‍i
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted March 2, 2024
+msg:前台的謝麗娟小姐服務熱情周到，及時解決問題
+----------------------------------------
+name:D‍e‍n‍g‍z‍h‍i‍y‍u‍a‍n
+info:Type C Villa - 2-Room
+info:Stayed in November 2023
+info:Family
+info:23 Reviews
+rating:4
+posted:Posted February 18, 2024
+msg:還行吧，池子很大，但是花園維護不很行，對着的那個池子很多蚊子
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in February 2024
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted February 16, 2024
+msg:酒店環境不錯👍 可惜的是温泉泡池沒有全部開放
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in July 2023
+info:Friends
+info:21 Reviews
+rating:5
+posted:Posted July 11, 2023
+msg:朋友一起出遊，一共了幾間房間，免費升級房型，衞生乾淨，性價比高，早餐豐富，温泉池多，下次來還會選擇入住
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in August 2022
+info:Couples
+info:3 Reviews
+rating:4
+posted:Posted August 17, 2022
+msg:酒店就是舊了一點，其他都很好，房間很大，泡池也不少，室內室外都有，服務態度也挺好，尤其是餐廳服務員，很熱情。工作日去的，人不多，體驗很好。下次週末帶孩子去。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in January 2024
+info:Friends
+info:1 Review
+rating:4
+posted:Posted January 13, 2024
+msg:不錯，出行很晚才定，不是星期六日，容易訂，確認很快
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in March 2024
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted March 2, 2024
+msg:環境漂亮，房間乾淨整潔，服務態度很好👌。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in July 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted July 23, 2022
+msg:入住酒店當天，前台服務小姐很有禮貌，還幫我們免費升級了房間，是一間面向湖景的房間，房間乾淨寬闊，陽台視野開闊，環境非常棒棒噠！這裏餐廳出品還是可以的！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in May 2023
+info:Friends
+info:1 Review
+rating:4.7
+posted:Posted May 29, 2023
+msg:酒店就在一個湖水旁，晚上坐在陽台跟朋友聊天，很愜意。最讚的是前台服務的小姐姐，很熱心幫我解決了我的困難，太感謝了🙏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2024
+info:Friends
+info:13 Reviews
+rating:3
+posted:Posted February 16, 2024
+msg:下午2點辦理入住的，到了3點還沒搞好衞生，
+----------------------------------------
+name:A‍n‍x‍u‍z‍h‍e‍n‍g
+info:Romantic Room (2 beds)
+info:Stayed in August 2022
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted August 8, 2022
+msg:環境非常好。山谷空氣非常好。温泉很舒適。還有魚療
+水上樂園:方便小孩子玩。
+早餐:種類很多有粥，有粉有面還有西式的早餐，水果，麪包牛奶。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in October 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 3, 2023
+msg:房間夠大夠整齊，環境優美、設施齊全，前台的接待小姐姐非常熱情❤️🔥、
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in December 2023
+info:Couples
+info:19 Reviews
+rating:4
+posted:Posted December 22, 2023
+msg:周邊環境不錯，温泉很值得享用，很乾凈，還可以游泳。
+----------------------------------------
+name:안‍형‍규
+info:Themed Room
+info:Stayed in February 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted February 6, 2024
+msg:가성비 최고 인 것 같아요 추천 합니다
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 16, 2022
+msg:住的很開心，推窗可見美景，孩子看見很多鵝，特別開心。晚上去泡了温泉，早上去玩水上樂園。圖三是含的套餐，兩個人吃夠了。還不錯。
+----------------------------------------
+name:Z‍h‍a‍o‍z‍h‍a‍i‍j‍i‍x‍i‍a‍n‍g
+info:Deluxe Panoramic Twin Room
+info:Stayed in January 2024
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted January 23, 2024
+msg:若依價格而言，設施丶環境丶服務都還是不錯的！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 18, 2024
+msg:房間十分整潔，酒店環境優美，服務員態度友善。
+----------------------------------------
+name:Y‍e‍g‍u
+info:Type A Villa - 1-Room
+info:Stayed in April 2023
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted April 18, 2023
+msg:別墅房間設施顯陳舊了 燈光有點暗 但温泉一流 窗外景觀一流 早餐稍顯簡單粗糙 成本控制的緣故吧 挺好的 喜歡旁邊的野趣麓小徑
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in May 2024
+info:Family
+info:7 Reviews
+rating:4.2
+posted:Posted May 4, 2024
+msg:房間設定太陳舊，需要裝修了。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Forest Villa - 3-Bedroom
+info:Stayed in August 2023
+info:Family
+info:8 Reviews
+rating:3.5
+posted:Posted September 2, 2023
+msg:設施比較陳舊，開始的時候服務員不作為，後來有所改進。
+酒店環境還可以。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in August 2023
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted August 6, 2023
+msg:旅遊渡假好去處！免費給我們升級了別墅房，温泉任泡，還有牛奶點心送，真貼心！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in September 2023
+info:Other
+info:25 Reviews
+rating:3
+posted:Posted September 27, 2023
+msg:房間廁所板污漬斑班，床基本一動身就會響。温泉基本未服務可言。
+----------------------------------------
+name:k‍i‍n‍g‍9
+info:Themed Room
+info:Stayed in July 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted September 28, 2023
+msg:房間很有特色，適合親子。離温泉很近，環境也不錯。就是吃飯衹能在酒店解決了。
+----------------------------------------
+name:L‍i‍n‍s‍h‍u‍p‍i‍n‍g
+info:Deluxe Panoramic Queen Room
+info:Stayed in April 2023
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted April 15, 2023
+msg:房間有点舊，保養不足，如果保養做得好，環境好靚，溫泉大，地方都舒服。
+有小朋友可以耍兩天，我們食農村菜，都ok。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in October 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:忘記了拍照，酒店雖然有點老，總體來説很滿意，下次會再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:7 Reviews
+rating:4.2
+posted:Posted May 4, 2024
+msg:整體來説還不錯，因為過年比較擁擠。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in May 2022
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted May 3, 2022
+msg:因為我們第一天的行程是高鐵下之後去雲門山雲門寺，所以就選擇了離這些景點比較近的麗宮温泉～ 大概它比較便宜是因為酒店設施舊了一點～我們是5.2入住的，旅客可能不是很多，前台免費幫我升級了房間，房間裏唯一不好的就是有一股下水道的味道，其他的話我覺得都挺好～ 温泉區温泉池還是挺多的，有室內有室外，不過就是旅客不是很多，温泉還沒有全部開放～早上的自助早餐也很豐富，前一晚覺得旅客不多擔心早餐應該種類會很少，結果也並沒有少，反正吃得飽飽的。前一天晚上就走出去温泉外面吃飯，很近，dzdp上搜的，味道也挺不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:7 Reviews
+rating:1
+posted:Posted February 12, 2024
+msg:衞生條件很差，水龍頭壞的，設施很舊
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted February 28, 2024
+msg:環境優雅舒適，修身養性好地方……
+----------------------------------------
+name:D‍u‍x‍i‍n‍g‍j‍i‍e‍j‍i‍e
+info:Waterside Room
+info:Stayed in December 2023
+info:Friends
+info:22 Reviews
+rating:3.5
+posted:Posted February 16, 2024
+msg:感覺沒有之前好了。温泉裏面都沒有中草葯。
+----------------------------------------
+name:C‍h‍e‍n‍l‍i‍u‍w‍e‍n
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 7, 2024
+msg:酒店和房間都不錯。服務態度也挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in October 2022
+info:Family
+info:7 Reviews
+rating:4.2
+posted:Posted October 4, 2022
+msg:几好！下次再聊來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 22, 2023
+msg:服務態度很好，住的非常舒服，温泉很多種隨意泡，帶小孩玩的很開心。
+----------------------------------------
+name:r‍o‍b‍e‍2‍0‍0‍8
+info:Romantic Room (Double bed)
+info:Stayed in October 2023
+info:Family
+info:2 Reviews
+rating:4.7
+posted:Posted October 5, 2023
+msg:設施舊一些，但整體酒店環境和服務沒得説，不虧是老牌酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in July 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 12, 2022
+msg:感覺各方面都很滿意，來過幾次體驗都很好，環境非常舒服，服務很貼心細緻，經過韶關都會選擇住這裏
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in July 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted July 4, 2022
+msg:下雨天，選擇這裡是一個非常明智的決定，室內温泉，陽台風景，都可以呆一整天不出去玩，服務也到位，舒服！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted July 26, 2023
+msg:房間非常衞生整潔，下次一定會來，服務員好熱情，體驗感非常好，温泉好乾凈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted March 22, 2024
+msg:住的很舒服 環境很棒 強烈推薦
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in December 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted December 5, 2023
+msg:好點評很滿意環境衞生服務員好温泉，房間好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in October 2022
+info:Couples
+info:5 Reviews
+rating:3.2
+posted:Posted October 6, 2022
+msg:設施：畢竟老酒店，基本上都是舊的燈光我覺得應該用led會更好，黃燈光加老房間會顯得更舊
+
+環境：別墅區特點昆蟲特別多，螞蟻 蚯蚓還有叫不出名字的😂如果怕的話還是不要選別墅區
+
+唯一的不好的就是衞生紙太差 很容易爛
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in June 2024
+info:Friends
+info:1 Review
+rating:4.2
+posted:Posted June 2, 2024
+msg:服務很好，還算滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in February 2024
+info:Friends
+info:26 Reviews
+rating:3
+posted:Posted March 10, 2024
+msg:老賓館設施很一般，環境也一般。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:4.2
+posted:Posted January 25, 2023
+msg:工作人員服務很好，有問題能夠立刻解決～這裏的温泉很有特色，有各種大大小小的池子，環境也很安靜，非常適合全家人出來放鬆一起泡温泉～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in March 2024
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted March 22, 2024
+msg:環境衞生乾淨整潔，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 29, 2024
+msg:麗宮國際十分好，有時間還會去
+----------------------------------------
+name:K‍a‍l‍u‍j‍i‍a‍y‍a‍l‍u‍n
+info:Romantic Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 10, 2022
+msg:酒店好，沖涼水大，乾淨，温泉也好玩
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in July 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted July 13, 2022
+msg:前台小姐姐服務很好，房間空間大，夜景美美的，下次還要再來😊😊
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in March 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted March 10, 2024
+msg:房間夠大，環境好，值得一去
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in January 2024
+info:Other
+info:32 Reviews
+rating:5
+posted:Posted January 14, 2024
+msg:環境：自然風景不錯.服務態度很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2024
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted January 30, 2024
+msg:前台服務態度好，房間佈局合理。
+----------------------------------------
+name:a‍l‍p‍i‍n‍e‍s
+info:Waterside Room
+info:Stayed in January 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted January 24, 2023
+msg:不錯，超預期。設施有點舊，但裝修標準在當年很高;服務態度不錯，是星級酒店的流程。總結，性價比高，適合親子活動，食物乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type B Villa - 2-Room
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 18, 2024
+msg:酒店不錯，自助早餐味道不錯。
+----------------------------------------
+name:F‍o‍s‍h‍a‍n‍s‍h‍i‍c‍h‍a‍n‍c‍h‍e‍n‍g‍q‍u‍p‍i‍n‍g‍y‍u‍a‍n‍s‍h‍e‍q‍u
+info:Romantic Room (2 beds)
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 10, 2023
+msg:綠水青山環境好，温泉水質靚，早餐很豐富，服務周到熱情👍👍👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in December 2023
+info:Family
+info:2 Reviews
+rating:2.2
+posted:Posted December 25, 2023
+msg:酒店早餐難食 環境普通 溫泉不吸引
+----------------------------------------
+name:Q‍i‍e‍t‍i‍n‍g‍f‍e‍n‍g‍y‍i‍n‍￥
+info:Deluxe Panoramic Twin Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:3
+posted:Posted February 12, 2024
+msg:一般般的温泉，一般般的酒店！
+----------------------------------------
+name:J‍x‍T‍s‍a‍n‍g
+info:Deluxe Panoramic Twin Room
+info:Stayed in August 2022
+info:Family
+info:6 Reviews
+rating:3.7
+posted:Posted November 1, 2022
+msg:性價比高，餐飲實惠
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type B Villa - 2-Room
+info:Stayed in January 2023
+info:Friends
+info:19 Reviews
+rating:2.7
+posted:Posted January 26, 2023
+msg:環
+環境比較陳舊，衞生較差，入住時的床單都是臟的；由於假期吧，接待的能力不行，房卡也發錯要我們來回走來走去也找不了😤
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in March 2024
+info:Friends
+info:9 Reviews
+rating:3.7
+posted:Posted May 12, 2024
+msg:設施有點老舊～性價比不高
+----------------------------------------
+name:K‍u‍a‍i‍k‍u‍a‍i‍l‍e‍d‍e‍x‍i‍a‍o‍g‍u‍a‍i‍s‍h‍o‍u
+info:Deluxe Panoramic Twin Room
+info:Stayed in September 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:服務不錯，環境不錯，就是温泉設施再改善下更好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in January 2024
+info:Family
+info:4 Reviews
+rating:4.2
+posted:Posted April 17, 2024
+msg:每次去韶關都會入住，温泉很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in July 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 7, 2022
+msg:環境優雅，餐廳寬敞，服務到位，房間舒適。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in July 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 4, 2022
+msg:環境好，温泉評價最好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in July 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 28, 2022
+msg:温泉酒店，安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in September 2023
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted September 2, 2023
+msg:設施：吾錯
+衞生：乾淨
+環境：吾錯
+服務：吾錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Exotic Featured Room
+info:Stayed in February 2022
+info:Family
+info:7 Reviews
+rating:4.7
+posted:Posted February 7, 2022
+msg:性價比無敵了，春節假期價格VERY美麗！異域風情房，新凈明亮也足夠大，大冷天的暖氣非常舒適，還有陽台！老牌五星，雖不及當年輝煌，但服務、衞生、真温泉真的對得起這個價格了！温泉分室內外，大冷天的，長者小孩可以在室內泡温泉和游泳（大游泳池也是暖呼呼的温泉水），不用擔心被冷到。酒店人也不多，幾乎包池泡，泡得很盡興哈哈。境區入口有間煙花店，品種多，不貴，買了可以在酒店門前廣場放。酒店設施還是有點年代感的，但保養還算不錯了，原來看評價很擔心入住到老舊的房間，還好五樓的異域風情房比較新凈，長者小孩住得舒服。早餐品種不算多，但味道還可以，温泉的餐飲區食品簡單，但對得起房價了。真實評價哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 12, 2024
+msg:服務很好，就是設施有些舊了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:6 Reviews
+rating:4.7
+posted:Posted February 18, 2024
+msg:房間很大，衞生乾淨，不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in February 2024
+info:Friends
+info:19 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:衞生：乾淨，環境空氣清新
+----------------------------------------
+name:L‍u‍o‍a‍n‍g‍y‍i‍y‍a
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:早餐很豐富，環境也很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in October 2022
+info:Family
+info:6 Reviews
+rating:4
+posted:Posted October 6, 2022
+msg:酒店的確是老酒店，電話機都是20年前made in Japan的，木地板也不夠服帖
+但是有早晚餐，有温泉，很值
+温泉也是真温泉，老公有點皮疹，泡了之後説很舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in December 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted January 1, 2024
+msg:服務很好，非常滿意，環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted March 4, 2024
+msg:住得很舒服，每年都來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted February 28, 2024
+msg:感謝前台小姐姐升級原房
+----------------------------------------
+name:a‍e‍n‍e‍a‍s
+info:Type A Villa - 1-Room
+info:Stayed in January 2023
+info:Family
+info:41 Reviews
+rating:5
+posted:Posted April 18, 2023
+msg:房間很乾凈舒適，服務也周到，很有度假的感覺，周圍環境也是很讚的，另外私人浴池特別贊👍🏻下次還會再來
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Type B Villa - 2-Room
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted April 22, 2024
+msg:房間不錯，適合家庭出遊！
+----------------------------------------
+name:J‍i‍e‍r‍u‍i‍y‍a‍n‍g
+info:Romantic Room (2 beds)
+info:Stayed in December 2023
+info:Friends
+info:2 Reviews
+rating:4.5
+posted:Posted December 4, 2023
+msg:房間設施有些老舊，周邊環境不錯
+----------------------------------------
+name:P‍e‍n‍g‍z‍u‍m‍i‍n‍g
+info:Deluxe Panoramic Queen Room
+info:Stayed in September 2022
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted September 27, 2022
+msg:有免費停車位,前台服務很友善,温泉很多水質不錯,早餐食物還可以補充也很快,入住用酒店套餐含晚餐的,三菜一湯惟白飯要另外加錢就有點小氣了,整體是個不錯的體驗.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in November 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted November 11, 2023
+msg:環境好，空氣清新，休閑度假好去處
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in March 2024
+info:Friends
+info:10 Reviews
+rating:4.5
+posted:Posted May 16, 2024
+msg:環境很好，但有年頭了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in February 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:服務態度很好，環境很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in June 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted June 10, 2024
+msg:滿意，温泉很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type B Villa - 2-Room
+info:Stayed in February 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 4, 2022
+msg:環境不錯環湖而居，空氣清新，裝修和硬件配置挺好。温泉品質優越泡完了一身還是很滑滴，水的密度比較高浮力大。服務有保障我老婆的手袋落在了前台，還能找回來。贊一個！
+----------------------------------------
+name:S‍l‍i‍e‍n‍t‍ ‍H‍i‍l‍l
+info:Romantic Room (Double bed)
+info:Stayed in January 2022
+info:Family
+info:25 Reviews
+rating:5
+posted:Posted February 15, 2022
+msg:首先酒店很大，也很好找，大把位置停車的，所以自駕的很舒服。房間很乾凈，還有天窗也是很驚喜的。温泉就感覺一般，可能是因為下雨客人不多，外面開的不多。冬天去是真冷啊！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 7, 2024
+msg:環境：不錯，性價比可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in July 2022
+info:Friends
+info:81 Reviews
+rating:5
+posted:Posted October 1, 2022
+msg:在攜程訂的套票，包括一晚房價，温泉和早晚兩餐，性價比非常高。導航位置很準確，停車位也多，適合自駕。房間面積很大，衞生尚可，裝修有些舊了。包的晚餐分量不小，兩個人吃不完。入住的時候一直下雨，衹能在室內的温泉泡泡，小魚池也沒有另外收費。總體來説，還是可以再次入住的。
+----------------------------------------
+name:x‍z‍w‍1‍1‍1‍6
+info:Themed Room
+info:Stayed in January 2022
+info:Family
+info:1 Review
+rating:2
+posted:Posted January 5, 2022
+msg:携程的第一条点评献给了这里～元旦出行，是个很不错的旅程。先去了南华寺，然后带娃在这里住了两个晚上，首先，酒店的自助早餐真的很一般，种类也很少，缺的補的也很不及时。房间内的环境就还好，小朋友很喜欢。但是厕所永远都有一股尿味，走进去很难受，入住的第一个晚上，11點後打了無數個客房和前台電話，沒人聽。然後房間與溫泉的路有一段距離，晚上天氣非常冷，疫情期間我看也沒住多少人，但是居然睡袍幾次問都說沒有，不夠用！！真心心累～對這個酒店我是差評的，但是這個城市我是很喜歡的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in December 2023
+info:Friends
+info:12 Reviews
+rating:3
+posted:Posted January 7, 2024
+msg:看起來比較破舊，不太值得住宿
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in March 2024
+info:Other
+info:24 Reviews
+rating:4
+posted:Posted May 3, 2024
+msg:很不錯，去了兩次。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in June 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted July 5, 2023
+msg:房間十分乾淨，很多個温池，環境優美，服務態度好極了
+----------------------------------------
+name:c‍o‍f‍f‍i‍e‍1‍9
+info:Romantic Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:4
+posted:Posted August 30, 2023
+msg:性價比超高，就是温泉區比較少，設施比較舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted February 25, 2024
+msg:環境舒適温泉池水乾淨
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Type B Villa - 2-Room
+info:Stayed in February 2024
+info:Family
+info:18 Reviews
+rating:2.7
+posted:Posted February 15, 2024
+msg:衞生一般，設施殘舊。
+----------------------------------------
+name:Y‍u‍e‍y‍u‍e‍t‍u‍m‍e‍i‍n‍v
+info:Type A Villa - 1-Room
+info:Stayed in December 2021
+info:Couples
+info:14 Reviews
+rating:5
+posted:Posted December 15, 2021
+msg:性價比非常高，兩人訂的別墅，獨立泡池不限水，旁邊走幾步就到公共温泉區，很方便！還送牛奶，玫瑰花泡，早餐品種可以，酒店外邊有農莊吃飯，縣城也幾公里，最近景點是9公里的雲門寺和雲門山景區，遠的可選擇大峽谷。唯一就是枕頭太高太軟，睡得脖子酸，其餘都很好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in September 2023
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted September 24, 2023
+msg:多次入住非常滿意，酒店開始有點舊了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in July 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted August 1, 2023
+msg:很好，有自助早餐，很方便，是泡温泉的好地方
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 9, 2022
+msg:很好，前台工作人員細心、耐心，還免費幫我們升級了住房套餐。温泉水比較乾淨，山上無邊際温泉很贊，尤其是晚上泡，看着星空，泡着温泉，超級愜意。很好的一次旅行體驗。
+----------------------------------------
+name:H‍e‍r‍o‍t‍o‍m
+info:Romantic Room (2 beds)
+info:Stayed in March 2022
+info:Couples
+info:121 Reviews
+rating:5
+posted:Posted March 15, 2022
+msg:房間寬敞明亮，舒適，温泉池錯落有致，山頂池觀景不錯，週末提供免費自助晚餐
+----------------------------------------
+name:A‍i‍z‍u‍o‍t‍i‍a‍n‍m‍e‍i‍d‍e‍n‍i‍n‍g‍m‍e‍n‍g‍j‍u‍n
+info:Type A Villa - 1-Room
+info:Stayed in February 2023
+info:Other
+info:49 Reviews
+rating:5
+posted:Posted February 12, 2023
+msg:很不錯的一家大型温泉度假村，可惜下雨沒有好好逛逛，下次再來，酒店服務員很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 3, 2022
+msg:很不錯的酒店！前台的服務很好！很熱情！温泉有分室內和室外池，而且有可以游泳的温泉池！從房間到温泉區有不遠，很方便！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted February 19, 2024
+msg:還不錯，來泡温泉的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in June 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted June 24, 2023
+msg:周邊環境不錯，酒店很乾凈，衹是舊了一點而爾。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in November 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted November 30, 2023
+msg:特別喜歡這個大理石温泉池
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Fengquan Pavilion Villa
+info:Stayed in January 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted January 29, 2023
+msg:服務不錯，親子牙刷和洗澡液以後還要多完善一下更好，還有酒店衞生牆角多加強一下
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 12, 2023
+msg:超級滿意哈哈
+我們過年的時候來的 寵物友好 別墅私湯很nice
+以後帶全家來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted February 11, 2024
+msg:很滿意，以後再來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted May 23, 2024
+msg:服務非常周到
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted February 5, 2024
+msg:房間較大，服務較好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in August 2023
+info:Friends
+info:7 Reviews
+rating:1
+posted:Posted August 21, 2023
+msg:設施非常陳舊了，這樣的設施很是失望
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in March 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted March 3, 2022
+msg:酒店高雅氣派，房間裝修需然舊了點但整潔乾淨，温泉♨️舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in March 2023
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted March 30, 2023
+msg:設施：完善周到
+衞生：整潔乾淨
+環境：空氣清新
+服務：熱情
+----------------------------------------
+name:M‍e‍n‍r‍f‍a
+info:Romantic Room (2 beds)
+info:Stayed in January 2024
+info:Friends
+info:48 Reviews
+rating:5
+posted:Posted April 27, 2024
+msg:温泉實在是太舒服了
+----------------------------------------
+name:b‍a‍b‍y‍f‍a‍t‍y‍o‍u
+info:Type B Villa - 2-Room
+info:Stayed in July 2023
+info:Family
+info:5 Reviews
+rating:3.2
+posted:Posted July 15, 2023
+msg:真心一般般，早餐啥都沒有還收小孩38塊
+----------------------------------------
+name:Y‍i‍s‍h‍e‍n‍g‍d‍e‍m‍e‍n‍g‍x‍i‍a‍n‍g‍6‍6‍6
+info:Stayed in May 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted May 2, 2023
+msg:環境：優美
+服務：到位
+早餐:豐富
+設施：配套齊全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in September 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted September 24, 2023
+msg:温泉不錯 前台服務員態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Themed Room
+info:Stayed in August 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 14, 2023
+msg:多次入住了，總體感覺很好，滿意～
+----------------------------------------
+name:A‍w‍i‍s‍e
+info:Type B Villa - 2-Room
+info:Stayed in October 2022
+info:Friends
+info:12 Reviews
+rating:4.5
+posted:Posted October 7, 2022
+msg:這個以前去過，環境不錯，不知道是不是疫情還酒店舊了，感覺衞生跟不上。服務倒很好。現在周圍的交通也好多了。
+----------------------------------------
+name:C‍c‍c‍m‍e‍n‍g‍h‍u‍a‍n
+info:Waterside Room
+info:Stayed in October 2022
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted October 30, 2022
+msg:設施齊全，前台服務員態度和素質都係非常之好。
+
+云瑶谷无限次温泉门票:入住其间去咗二次。池多。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in June 2024
+info:Family
+info:8 Reviews
+rating:4.7
+posted:Posted June 10, 2024
+msg:休閑好去處
+----------------------------------------
+name:k‍n‍l‍y
+info:Deluxe Panoramic Twin Room
+info:Stayed in November 2021
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted November 29, 2021
+msg:酒店住得很舒服，朋友覺得酒店的自助早餐也挺豐富的。温泉挺不錯。自駕也很方便，高速出口下來大概500米左右就是上酒店的路，環境舒適。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in May 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 10, 2023
+msg:第四次過來，方方面面都不錯，早餐比之前升級了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in April 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted April 11, 2023
+msg:環境優美，晚上到小山上泡温泉別有風味，值得推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted March 7, 2024
+msg:各方面都有不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 21, 2024
+msg:一次滿意的行程👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:7 Reviews
+rating:4.7
+posted:Posted February 26, 2024
+msg:好，還送水果。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in October 2021
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted October 5, 2021
+msg:酒店範圍很大，房間很舒適，房子外的綠化超多，我很喜歡他家的中庭（圖一、圖二），連温泉區也是在各種綠樹掩映下，甚至還有專門有一個温泉山，山頂的那一個池子我特喜歡，竟然有一個吊椅（圖三）
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 14, 2024
+msg:還可以，比較好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in September 2021
+info:Couples
+info:67 Reviews
+rating:4.5
+posted:Posted September 20, 2021
+msg:位置好，綠水青山，空氣清新；酒店保養得還算新，養心谷房間傢俬比較新，豪華，設施齊全，但房間燈光暗，洗手池比較舊；公共温泉很多，但幾乎看不到服務人員，沒有毛巾，衹提供飲用水；早餐不過不失；大堂門口的保安態度非常好，耐心給客人指引，另外辦理入住的總枱小姐態度好，主動熱情辦理手續，很贊！
+----------------------------------------
+name:F‍a‍n‍s‍h‍u‍z‍i‍2‍0‍0‍8
+info:Deluxe Panoramic Twin Room
+info:Stayed in October 2023
+info:Family
+info:5 Reviews
+rating:4.5
+posted:Posted October 4, 2023
+msg:環境很美，室內裝修有點舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2023
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted February 21, 2023
+msg:環境非常不錯 乾淨 衞生 房間還有水果 就是早餐不夠豐盛
+----------------------------------------
+name:N‍i‍c‍k‍y
+info:Waterside Room
+info:Stayed in September 2021
+info:Family
+info:8 Reviews
+rating:4
+posted:Posted October 7, 2021
+msg:設施比較舊，小童水上樂園沒有開設，服務員少，房間大，木地板挺好，很亮堂，床不算大，夜晚窗外風景極美！是個驚喜。
+🍃環境：有點舊，但場景大
+🔔服務：一般
+🚗 交通：方便
+🧹衞生：一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in December 2023
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted March 2, 2024
+msg:非常舒適的度假之地
+----------------------------------------
+name:g‍c‍d‍d‍h‍h
+info:Type B Villa - 2-Room
+info:Stayed in November 2023
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted January 31, 2024
+msg:非常好的酒店和環境！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in January 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted January 10, 2024
+msg:服務好，環境優美
+----------------------------------------
+name:m‍a‍r‍k‍y‍t‍m‍a‍o
+info:Waterside Room
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:3.5
+posted:Posted March 26, 2024
+msg:一般般啊！破舊
+----------------------------------------
+name:X‍i‍a‍z‍h‍e‍n
+info:Deluxe Panoramic Twin Room
+info:Stayed in July 2022
+info:Family
+info:46 Reviews
+rating:4.5
+posted:Posted August 16, 2022
+msg:爸媽經過乳源，代他們訂房。爸媽反映環境很不錯，住的非常舒適，酒店外面吃飯方便，下次還想好好住上幾天。我還會再幫他們訂的哈～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in February 2024
+info:Family
+info:7 Reviews
+rating:4
+posted:Posted February 19, 2024
+msg:房間有點歲月了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in October 2022
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted October 3, 2022
+msg:五星好評必須的，退房時忘了帶燒水壺，前台聯繫我，快遞寄給我，非常熱心的服務，景美服務更美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Forest Villa - 3-Bedroom
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 30, 2023
+msg:總體不錯 就是離温泉遠了點￼
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in September 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted September 29, 2023
+msg:性價比較高，比較滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in May 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted May 5, 2023
+msg:環境優美，服務熱情，衞生整潔，設施不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in August 2021
+info:Family
+info:1 Review
+rating:4.5
+posted:Posted August 21, 2021
+msg:【温泉湯池】這個值得泡一泡，其他地方的温泉水泡半個小時，手和腳都會變得鄒鄒巴巴得，但是這裏完全不會，泡了一下午手腳都沒事
+服務員的態度挺好的，我們去的時候人很少，訂的普通房，免費給我們升級了別墅房，衞生也打掃的挺乾淨的，這點相當的滿意
+🚗 交通：適合自駕
+🍃環境：環境還行，很多小湯池可以泡，這個季節去水温也是温温熱得，不會覺得燙，泡在裏面出一身汗特別舒服
+
+
+【親子設施】小童戲水池太過老舊，很多設備看着都不想玩，而且水看着有點臟，不像温泉池那邊的水看着就乾淨一些，然後感覺少了一些小孩子玩的遊樂設施，除了泡温泉，景區沒有什麼特別好玩的地方，衹能晚上吃完晚飯散散步了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in August 2021
+info:Friends
+info:22 Reviews
+rating:4.7
+posted:Posted August 15, 2021
+msg:疫情原因，衹能在省內自駕遊。遊玩完天門山，小朋友想泡温泉，就決定在此住一晚。訂的是雙人房，令人驚喜的是，免費升級至一間雙房別墅。房間很大，設施齊全，有私家温泉，小朋友都玩嗨了。公共的温泉區很大，很多選擇。不足之處就是酒店有點年份，設施稍為陳舊了。但服務各方面還是很不錯的。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in August 2021
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted August 13, 2021
+msg:服務態度特別好，前台人員和藹可親，每個人都是這樣的。 我是大約12號下午五點到的酒店，前台當時一個戴眼鏡的女孩子詳細的替我介紹了酒店以及周邊景點的情況。
+難能可貴的是，第二天居然免費給我們升級到了別墅區，因為我們原來住的套房要修空調。 別墅區很高檔有獨立泡池，窗外景色很好，如圖所示。
+以此為大本營，遊覽周圍的雲門山旅遊區以及仙門飛俠旅遊區，都特別近。 甚至可以去廣東大峽谷，距離韶關高鐵站，衹有30分鐘車程。根本沒有必要住在韶關市中心。
+不去旅遊去玩，光泡温泉，感覺也很好。
+【親子設施】
+【温泉湯池】
+🔔服務：
+🍃環境：
+🚗 交通：
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in August 2022
+info:Friends
+info:34 Reviews
+rating:4
+posted:Posted August 24, 2022
+msg:酒店環境很好，就是舊了些，可以看出曾經的輝煌。酒店很大，設施完善，送的一份正餐份量足，味道也不錯😊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2024
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:自助早餐不錯
+----------------------------------------
+name:M‍u‍r‍o‍n‍g‍h‍a‍n‍q‍i‍u
+info:Romantic Room (Double bed)
+info:Stayed in July 2023
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted August 31, 2023
+msg:舒適，寬敞，安靜，温泉很棒。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2024
+info:Family
+info:14 Reviews
+rating:4
+posted:Posted February 16, 2024
+msg:一般般吧環境
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2024
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted February 13, 2024
+msg:房間乾淨舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Themed Room
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 30, 2023
+msg:乾淨整潔，温泉舒適
+----------------------------------------
+name:G‍u‍o‍b‍a‍o‍g‍u‍i‍l‍a‍i
+info:Deluxe Panoramic Twin Room
+info:Stayed in October 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 29, 2023
+msg:非常不錯，下次再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted March 7, 2024
+msg:不錯，環境好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in November 2023
+info:Solo travelers
+info:8 Reviews
+rating:3.2
+posted:Posted December 11, 2023
+msg:房間的洗髮水太差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in October 2021
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 5, 2021
+msg:第三次入住了，前台小姐姐人好好，必須五星好評！温泉水有點燙，可能再等天氣涼爽些再去會更舒服！還會再去的！
+----------------------------------------
+name:D‍u‍m‍u‍z‍h‍o‍u‍y‍u‍n‍d‍o‍n‍g‍x‍i‍e‍h‍u‍i
+info:Deluxe Panoramic Twin Room
+info:Stayed in November 2021
+info:Solo travelers
+info:38 Reviews
+rating:2.2
+posted:Posted November 14, 2021
+msg:酒店年久失修，破舊不堪，完全不符合5-600的房價，入住3思！
+----------------------------------------
+name:Q‍i‍n‍g‍s‍h‍a‍o‍z‍a‍i‍l‍u‍s‍h‍a‍n‍g
+info:Waterside Room
+info:Stayed in October 2021
+info:Family
+info:46 Reviews
+rating:5
+posted:Posted November 14, 2021
+msg:温泉不大不小，錯落有致，水質也不錯，房間很大，但是裝修略舊，整體性價比很高的，國慶也沒加價很多，值得推薦
+----------------------------------------
+name:S‍h‍e‍n‍d‍a‍o‍y‍o‍u‍s‍h‍i‍j‍i‍e
+info:Type A Villa - 1-Room
+info:Stayed in October 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 31, 2021
+msg:非常滿意，住的是雙人小別墅，進門小院有個小泉池，安靜，乾淨，空氣很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in August 2023
+info:Friends
+info:3 Reviews
+rating:4
+posted:Posted August 23, 2023
+msg:房間還是不錯的，滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in November 2021
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted November 29, 2021
+msg:環境優美早餐豐富，温泉乾淨舒適每天都換水
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in March 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted April 26, 2023
+msg:設施：👍
+衞生：👌
+服務：👌
+環境：👌
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted January 19, 2024
+msg:十分好多謝了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in January 2022
+info:Family
+info:6 Reviews
+rating:4.5
+posted:Posted January 3, 2022
+msg:來之前不報太大希望畢竟覺得有10年了，但來了以後覺得各方面還是很不錯的，雖然房間有點舊但在承受範圍內，各方面設施都不錯，温泉也不錯，尤其是服務態度特別好，環境很好很安靜。畢竟元旦小假期也才500多塊，性價比還是很高的。前一天去完丹霞山第二天泡温泉特別舒服愜意。
+----------------------------------------
+name:Y‍a‍B
+info:Deluxe Panoramic Twin Room
+info:Stayed in March 2023
+info:Business travelers
+info:95 Reviews
+rating:5
+posted:Posted March 30, 2023
+msg:温泉挺不錯的，住也還可以，空間挺大的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in December 2021
+info:Couples
+info:16 Reviews
+rating:5
+posted:Posted December 11, 2021
+msg:温泉不錯，房間舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type B Villa - 2-Room
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted July 10, 2023
+msg:環境不錯，退房送了茶葉。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 25, 2023
+msg:很好很滿意，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 21, 2023
+msg:很好的酒店，贊一個。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in May 2023
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted May 21, 2023
+msg:設施齊備，乾淨整潔，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in February 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted February 15, 2024
+msg:就還可以吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in December 2023
+info:Couples
+info:29 Reviews
+rating:4
+posted:Posted February 2, 2024
+msg:還行還行還行
+----------------------------------------
+name:K‍o‍n‍g‍w‍e‍i
+info:Romantic Room (2 beds)
+info:Stayed in June 2023
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted June 25, 2023
+msg:房間不錯，夠大空間，衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:3
+posted:Posted January 26, 2023
+msg:設施太舊，早餐太簡單，收費較貴。總體一般。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:4.2
+posted:Posted January 28, 2023
+msg:泉水質量可以，但我住的房間有些舊，暖氣不暖
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Forest Villa - 3-Bedroom
+info:Stayed in August 2023
+info:Family
+info:50 Reviews
+rating:4
+posted:Posted August 4, 2023
+msg:圖實相符，乾淨衞生。
+----------------------------------------
+name:R‍o‍g‍e‍r‍8‍1‍0‍5‍2‍8
+info:Deluxe Panoramic Twin Room
+info:Stayed in January 2022
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted January 11, 2022
+msg:酒店雖然開了有一段時間，但是環境和設施看得出有翻新和維護，特別是房間，很乾凈，相比其他上千元一晚的酒店要好。温泉池也開了很多，水夠熱，泡完身體滑滑的，整體來説酒店性價比高。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in October 2021
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted October 4, 2021
+msg:環境不錯！衹是國慶期間服務質量有待提高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in August 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted August 31, 2022
+msg:前台服務好，性價比超高，吃喝玩樂很方便舒服，下次還會再來體驗👏️👏️
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in November 2021
+info:Family
+info:2 Reviews
+rating:1
+posted:Posted November 19, 2021
+msg:🍃環境：酒店的環境是不錯的 對得起大型温泉酒店的稱號。但是但是重點的温泉實在太差了！！温泉池很多裝修，週三去到碰到旅遊團 大媽大爺都擠滿了10來個温泉池 更讓人噁心就是水裡漂着各色各樣的添加物 牛皮屑 。絕對沒有下次的光顧了，而且完全想不懂老闆為什麼要冬天搞温泉池升級，這樣的感悟是太高還是太高。乾淨衞生程度都不行，實在差評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in August 2023
+info:Business travelers
+info:44 Reviews
+rating:5
+posted:Posted September 18, 2023
+msg:乾淨衞生，服務熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in November 2023
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted November 29, 2023
+msg:服務非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in January 2024
+info:Other
+info:16 Reviews
+rating:5
+posted:Posted March 22, 2024
+msg:房間很舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted August 10, 2023
+msg:可以，泡個温泉方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in May 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 23, 2023
+msg:服務：賓至如歸有家的感覺
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type B Villa - 2-Room
+info:Stayed in December 2021
+info:Friends
+info:9 Reviews
+rating:2.7
+posted:Posted December 9, 2021
+msg:非常不好的體驗，酒店前台看單不認真，客人等一個多小時，兩棟別墅，看成兩間房，連道歉都不會的酒店，差評差評
+🧹衞生：一般，枕頭上還有小蟲子
+🔔服務：前台和早餐客服，很差，不耐煩
+----------------------------------------
+name:B‍i‍n‍g‍h‍u‍o‍w‍u‍z‍h‍o‍n‍g‍t‍i‍a‍n
+info:Type A Villa - 1-Room
+info:Stayed in July 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted September 20, 2023
+msg:環境特別好，很安靜。
+----------------------------------------
+name:r‍a‍i‍n‍i‍n‍g‍b‍o‍y
+info:Type B Villa - 2-Room
+info:Stayed in December 2022
+info:Family
+info:72 Reviews
+rating:5
+posted:Posted December 26, 2022
+msg:環境清新，服務優良，有賓至如歸的美好體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in March 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted May 21, 2023
+msg:空氣很好，環境也不錯。挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type B Villa - 2-Room
+info:Stayed in January 2023
+info:Family
+info:5 Reviews
+rating:1
+posted:Posted February 2, 2023
+msg:衞生差，服務差，半夜跳閘，設施老舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in August 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 9, 2022
+msg:很不錯，前台免費升級了房間，房間裏面很寬，陽台有弔籃，孩子們很喜歡
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in October 2021
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 6, 2021
+msg:值得再住宿
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Themed Room
+info:Stayed in August 2022
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted August 15, 2022
+msg:還不錯，老酒店比想象中好，出行方便，孩子在温泉和水上樂園玩的挺開心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:2.5
+posted:Posted January 30, 2023
+msg:配置不值這個價錢，温泉池太淺太小了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in February 2022
+info:Family
+info:65 Reviews
+rating:1.5
+posted:Posted February 2, 2022
+msg:🧹衞生：差，房間設施超級老舊
+中餐廳吃飯，大年初一，沒有音樂，氣氛，食物不好吃，貴
+整個酒店沒有人氣，過年氣氛不夠
+温泉可以，還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted August 13, 2023
+msg:温泉舒服，池多。
+----------------------------------------
+name:Y‍a‍n‍y‍u‍r‍e‍n‍j‍i‍a
+info:Deluxe Panoramic Twin Room
+info:Stayed in January 2023
+info:Family
+info:8 Reviews
+rating:3.5
+posted:Posted March 29, 2023
+msg:主樓裝修中，安排別墅區住環境還可以。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 9, 2023
+msg:不錯，值得再來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in October 2021
+info:Family
+info:9 Reviews
+rating:3
+posted:Posted October 8, 2021
+msg:入住較晚，前台服務很差，1000的酒店享受如此服務，實在是讓人很不爽，粵北之行，這個酒店最貴，體驗卻最差，早餐很粗糙，且很多蒼蠅飛來飛去，酒店設定老舊，床吱呀作響，唯一的亮點大約是小童水世界，可惜水較臟。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2022
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted March 13, 2022
+msg:每年去到乳源必住的酒店，雖然酒店舊了點，但是衞生還是很乾凈的，温泉也乾淨，早餐品種也很多。適合一家大小住宿，以後還會繼續光顧的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in January 2023
+info:Friends
+info:16 Reviews
+rating:1
+posted:Posted January 28, 2023
+msg:垃圾酒店。臟，態度不好，設施陳舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:7 Reviews
+rating:3.5
+posted:Posted January 27, 2023
+msg:水龍頭很緊，出熱水很慢，應該維修
+----------------------------------------
+name:Y‍u‍a‍n‍j‍i‍a‍n‍q‍i‍a‍n‍g
+info:Deluxe Panoramic Twin Room
+info:Stayed in February 2023
+info:Friends
+info:1 Review
+rating:4.5
+posted:Posted February 26, 2023
+msg:酒店服務，衞生，外圍環境好！
+----------------------------------------
+name:N‍a‍n‍j‍i‍x‍i‍o‍n‍g
+info:Family Triple Room
+info:Stayed in October 2021
+info:Family
+info:4 Reviews
+rating:4
+posted:Posted October 25, 2021
+msg:酒店温泉不錯！值得推薦
+整個大環境很好，安靜！
+房間內部設施比較一般，不過面積還是比較大的！訂的三張床的，這個還是不錯！
+早餐太一般！這樣的度假酒店怎麼可以把早餐做成與價格檔次如此不符的呢？
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type B Villa - 2-Room
+info:Stayed in January 2023
+info:Family
+info:4 Reviews
+rating:4.7
+posted:Posted January 23, 2023
+msg:麗宮的温泉一直很棒，泡温泉的首選
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:房間寬，環境好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Family Triple Room
+info:Stayed in January 2022
+info:Family
+info:1 Review
+rating:2.5
+posted:Posted January 17, 2022
+msg:1.設備陳舊
+2早餐品種少，味道差
+3.早上10點有裝修噪音
+4.洗手間燈光不足
+5.毛巾很舊
+好評：退房時送了5斤多番薯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in March 2023
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted May 16, 2023
+msg:房間還不錯吧。環境還可以。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in September 2021
+info:Couples
+info:1 Review
+rating:4.5
+posted:Posted September 11, 2021
+msg:整體感覺不錯，較遺憾的是床架可能有斷裂之類，每次轉身都會發出較大的“格啪，格啪”聲，搞到整晚都睡不好，體驗很差。向前台反映，她們派了一下服務員過來，該名服務員過來按了下床墊，聽了下聲音，就説：到時叫人檢查一下，就走了。前台也沒有再管了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in May 2023
+info:Friends
+info:2 Reviews
+rating:4.5
+posted:Posted May 11, 2023
+msg:空氣質量好，環境優美
+----------------------------------------
+name:N‍v‍r‍e‍n‍-‍h‍u‍a
+info:Waterside Room
+info:Stayed in August 2021
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted August 11, 2021
+msg:環境不錯，就是裝修有點陳舊了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:1
+posted:Posted August 10, 2022
+msg:設施太廉價，不值這個價。觀景陽台上全是蜘蛛網。床鋪超硬。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in September 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted September 14, 2023
+msg:一如既往的好
+----------------------------------------
+name:B‍a‍b‍y‍y‍u‍1‍2‍3
+info:Stayed in May 2023
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted July 1, 2023
+msg:服務態度好，住宿可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in August 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:各方面都挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in May 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 22, 2023
+msg:房間乾淨，服務挺好
+----------------------------------------
+name:B‍a‍o‍f‍e‍n‍g‍c‍h‍e‍n‍g‍x‍i‍a‍o‍b‍i‍n‍g
+info:Deluxe Panoramic Twin Room
+info:Stayed in July 2021
+info:Family
+info:6 Reviews
+rating:3
+posted:Posted July 21, 2021
+msg:設施有些陳舊，有點小失望。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in November 2021
+info:Business travelers
+info:3 Reviews
+rating:4
+posted:Posted November 24, 2021
+msg:湯粉檔口，衹吃青菜不要粉，師傅不給做，請求許久不許，最後就叫師傅少放米粉多放點生菜，師傅不樂意的少放點米粉也放少許🥬，非常不愉快的一次早餐！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in May 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 16, 2023
+msg:房間夠大，環境可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in July 2022
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted July 17, 2022
+msg:前台服務熱情周到，住宿環境清凈，是家庭休閑娛樂的好地方。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted March 8, 2022
+msg:經常入住，體驗很好，夜晚星空璀璨，温泉水暖舒適，早餐品種多樣，周邊走走方便，特色石頭山貨，讓人流連忘返！
+----------------------------------------
+name:W‍o‍s‍h‍i‍c‍h‍e‍n‍g‍s‍h‍e‍n‍g‍x‍i‍a‍n
+info:Romantic Room (2 beds)
+info:Stayed in July 2022
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted July 3, 2022
+msg:房間很好，乾淨衞生，還帶無限次温泉，這二天剛好打颱風，合適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in May 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted June 2, 2023
+msg:超乎預期 比較温馨
+----------------------------------------
+name:D‍a‍z‍h‍i‍B
+info:Waterside Room
+info:Stayed in October 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted October 6, 2023
+msg:服務不錯。
+----------------------------------------
+name:Y‍o‍n‍g‍s‍h‍a‍o‍8‍8‍6
+info:Type A Villa - 1-Room
+info:Stayed in October 2021
+info:Friends
+info:22 Reviews
+rating:5
+posted:Posted November 2, 2021
+msg:酒店有點陳舊，特別洗手間應該翻新一下了，住的獨棟別墅房有點蚊蟲也算正常，點了蚊香就好了，晚上温泉區遇上了旅行團，人太多，但總體性價比還算可以吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in December 2021
+info:Couples
+info:1 Review
+rating:3
+posted:Posted December 4, 2021
+msg:酒店硬件設施陳舊：牆紙捲翹，木衣架斑駁陳舊，壁燈上面有蛛絲，衞生間水壓不夠大，電視機太小了。唯一可以點讚的就是庭院綠植很不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 28, 2023
+msg:服務人員態度良好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in October 2022
+info:Family
+info:11 Reviews
+rating:2
+posted:Posted October 7, 2022
+msg:酒店很舊了，連孩子都説怎麼可能五星酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in August 2022
+info:Family
+info:13 Reviews
+rating:4.7
+posted:Posted August 6, 2022
+msg:温泉酒店還是不錯的，就是早餐太難吃了。根本無法吃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in March 2023
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted March 25, 2023
+msg:房間很大很舒服，乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in August 2023
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted October 7, 2023
+msg:一個字：好👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in February 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted February 17, 2023
+msg:環境不錯，價格可以接受
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in January 2023
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted January 25, 2023
+msg:房間衞生乾淨，温泉不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in June 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted June 15, 2023
+msg:環境美，服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in August 2022
+info:Friends
+info:3 Reviews
+rating:3
+posted:Posted August 19, 2022
+msg:温泉水比較臟，環境設施陳舊，房間衞生比較臟。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Forest Villa - 4-Room (1 living room)
+info:Stayed in July 2023
+info:Family
+info:13 Reviews
+rating:4.7
+posted:Posted July 19, 2023
+msg:大體上滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:4.5
+posted:Posted June 8, 2023
+msg:服務態度挺不錯
+----------------------------------------
+name:c‍c‍u‍e
+info:Deluxe Panoramic Queen Room
+info:Stayed in February 2023
+info:Friends
+info:22 Reviews
+rating:5
+posted:Posted February 5, 2023
+msg:設施環境服務都數可以的
+----------------------------------------
+name:D‍e‍l‍e‍t‍e‍x‍i‍a‍o‍j‍i‍e‍�‍�
+info:Romantic Room (Double bed)
+info:Stayed in October 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 6, 2022
+msg:吃住泡温泉都很OK，非常滿意的體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in August 2023
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted August 13, 2023
+msg:非常不錯👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in September 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted September 19, 2022
+msg:不錯  面積很大環境很好 停車方便
+----------------------------------------
+name:Z‍B‍L‍7‍3‍0‍1‍6‍8‍z‍b‍l
+info:Romantic Room (2 beds)
+info:Stayed in April 2023
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted April 4, 2023
+msg:總結還是不錯的。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in November 2021
+info:Couples
+info:9 Reviews
+rating:5
+posted:Posted November 16, 2021
+msg:溫泉池子多，而且水質很乾淨。晚上附近也有很好吃的農家菜，只需要走兩分鐘就到！房間很大，但陽台衛生可以加強一點
+----------------------------------------
+name:X‍i‍n‍g‍z‍o‍u‍z‍a‍i‍y‍u‍n‍i‍x‍i‍e‍s‍h‍o‍u‍d‍e‍l‍u‍s‍h‍a‍n‍g
+info:Type B Villa - 2-Room
+info:Stayed in December 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted December 30, 2022
+msg:很棒的酒店，風景很好。
+----------------------------------------
+name:X‍i‍a‍o‍R‍d‍e‍s‍h‍i‍j‍i‍e
+info:Romantic Room (2 beds)
+info:Stayed in October 2021
+info:Family
+info:16 Reviews
+rating:4
+posted:Posted October 8, 2021
+msg:總體一般，就是設施太陳舊，尤其毛巾，應該更換下了，價格和設施不太匹配，可能假期很忙吧，就是客房服務會石沉大海，希望改進。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in February 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted February 27, 2023
+msg:環境舒適，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in March 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted March 20, 2023
+msg:乾淨衞生，温泉靚
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2022
+info:Family
+info:4 Reviews
+rating:1
+posted:Posted January 30, 2022
+msg:韶關5度的天氣，晚上沒有暖風。凍人。晚上好吵。温泉小，破，老舊，性價比極低。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in May 2023
+info:Business travelers
+info:1 Review
+rating:3.2
+posted:Posted May 28, 2023
+msg:酒店有點舊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in August 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 17, 2022
+msg:交通：方便
+衞生：一般
+服務：可以
+----------------------------------------
+name:L‍T‍0‍0‍8
+info:Romantic Room (Double bed)
+info:Stayed in October 2021
+info:Family
+info:8 Reviews
+rating:4
+posted:Posted October 5, 2021
+msg:性價比高，雖然酒店有一定歷史了，，但各方面做得還好，推薦。温泉好舒服，酒店四周環繞的湖水很漂亮，適宜放鬆休息度假
+----------------------------------------
+name:f‍t‍d‍l‍s
+info:Family Triple Room
+info:Stayed in August 2021
+info:Family
+info:6 Reviews
+rating:4.7
+posted:Posted August 13, 2021
+msg:接待態度很好。酒店有點年月了，開始顯舊，但是好在很乾凈。有室內室外多個温泉池，我非週末來就人不算多，還挺乾淨。早餐就真心沒啥吃的。。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in June 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted June 23, 2023
+msg:非常不錯哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in May 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 12, 2023
+msg:衞生環境好。
+----------------------------------------
+name:w‍e‍w‍e‍w‍e‍t‍w‍e‍t
+info:Type A Villa - 1-Room
+info:Stayed in April 2021
+info:Couples
+info:70 Reviews
+rating:4.5
+posted:Posted July 25, 2021
+msg:我們住的帶獨立泡池房，整體上比較舒適，畢竟在大山旁邊，還是比較潮濕，建議能否為這種房間配備獨立抽濕器？酒店擁有得天獨厚的自然資源，遇到的所有服務人員都非常友好，而且酒店的餐廳真的價格實惠味道可口，我們連續幾頓飯都是在酒店餐廳解決！好評！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in May 2022
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted May 14, 2022
+msg:酒店環境非常好！服務人員也都很熱情友善，棒棒噠
+----------------------------------------
+name:q‍i‍a‍n‍g‍b‍i‍n‍x‍i‍e
+info:Family Triple Room
+info:Stayed in February 2022
+info:Family
+info:19 Reviews
+rating:2
+posted:Posted February 20, 2022
+msg:温泉水不夠熱，而是酒店也挺舊的，唯一好處是三人房是重新新裝修的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted February 2, 2023
+msg:環境很好 很乾凈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type B Villa - 2-Room
+info:Stayed in January 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted April 29, 2022
+msg:每年回湖南過年都住在這酒店，高檔，早餐不錯，環境不錯，尤其有湖！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in March 2023
+info:Friends
+info:1 Review
+rating:4.7
+posted:Posted March 6, 2023
+msg:每年都來，不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in September 2022
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted September 23, 2022
+msg:温泉泡湯！好大的泡湯酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in November 2021
+info:Family
+info:6 Reviews
+rating:1
+posted:Posted November 29, 2021
+msg:我住過的酒店，服務最差，環境最差的酒店！異味嚴重，洗手間邋遢，沒清潔！真的噁心！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in May 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 30, 2023
+msg:五星級酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in August 2021
+info:Friends
+info:6 Reviews
+rating:3
+posted:Posted August 4, 2021
+msg:位置和周邊環境都很OK，酒店設施慘不忍睹，畢竟也是那麼多年了，建議重新裝修一下吧，不然估計得涼涼，温泉越來越少，越來越差
+----------------------------------------
+name:Z‍h‍u‍o‍z‍h‍u‍o‍y‍o‍u‍y‍u‍7
+info:Type A Villa - 1-Room
+info:Stayed in November 2021
+info:Couples
+info:1 Review
+rating:5
+posted:Posted November 28, 2021
+msg:免按金，服務可以，設施有代改變，牛奶和玫瑰花免費值得表揚。自助早餐差了一點點
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in July 2022
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted July 25, 2022
+msg:是常去的温泉酒店 一直都很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in October 2021
+info:Friends
+info:6 Reviews
+rating:4
+posted:Posted October 4, 2021
+msg:雖是老酒店，但整體乾淨整潔，環境安靜舒適。給了個六樓的星空房，可惜當晚沒有星星，有點遺憾。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in November 2021
+info:Couples
+info:8 Reviews
+rating:5
+posted:Posted November 22, 2021
+msg:當地朋友推薦的老牌酒店，設施雖老，但古香古色，乾淨舒適，很不錯👍温泉很舒服喲！
+----------------------------------------
+name:A‍s‍h‍o‍u
+info:Romantic Room (2 beds)
+info:Stayed in May 2023
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted July 19, 2023
+msg:滿意的旅程
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in March 2023
+info:Other
+info:9 Reviews
+rating:3.7
+posted:Posted May 18, 2023
+msg:很老舊的感覺
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in September 2022
+info:Family
+info:30 Reviews
+rating:5
+posted:Posted October 4, 2022
+msg:十年後再次入住，還是挺好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2022
+info:Friends
+info:1 Review
+rating:3.7
+posted:Posted February 15, 2022
+msg:前台服務員服務特別好，熱情大方。酒店太舊，住的一般般
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2022
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted February 15, 2022
+msg:之前觉得丽宮的房间很旧，今次去房间更新了，感覺良好👍
+----------------------------------------
+name:A‍i‍l‍v‍x‍i‍n‍g‍d‍e‍x‍i‍a‍o‍x‍i‍a‍o‍j‍i‍e‍j‍i‍e
+info:Type A Villa - 1-Room
+info:Stayed in February 2022
+info:Friends
+info:11 Reviews
+rating:4
+posted:Posted February 8, 2022
+msg:挺舊，裏面味道非常大，還定了一個豪單，上面掉批灰了。
+----------------------------------------
+name:j‍x‍7‍1‍1
+info:Type A Villa - 1-Room
+info:Stayed in February 2023
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted March 7, 2023
+msg:環境休閑舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in November 2021
+info:Friends
+info:2 Reviews
+rating:3
+posted:Posted December 3, 2021
+msg:酒店的性價比不高，唯有温泉是賣點，但温泉環境總體一般，早餐品種比較少。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted February 22, 2022
+msg:早餐很OK，房間大，服務好，溫泉及恆溫泳池很棒！
+----------------------------------------
+name:A‍h‍a‍i
+info:Type A Villa - 1-Room
+info:Stayed in September 2022
+info:Family
+info:6 Reviews
+rating:2.2
+posted:Posted October 3, 2022
+msg:這個酒店不值這個價格
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in February 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted February 12, 2023
+msg:很好，很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in September 2021
+info:Other
+info:1 Review
+rating:1.5
+posted:Posted September 5, 2021
+msg:設施老舊，36-7度這麼大熱天大堂連空調都不開！，4-5百元的觀景房這個價一點都不值。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in February 2022
+info:Couples
+info:13 Reviews
+rating:5
+posted:Posted March 30, 2022
+msg:設施還可以，最好是自駕遊，酒店裡比較大，要開車。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in July 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 18, 2022
+msg:環境好，温泉乾淨衞生👍👍👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Themed Room
+info:Stayed in February 2022
+info:Family
+info:4 Reviews
+rating:4.5
+posted:Posted February 7, 2022
+msg:親子房很不錯，温泉服務少了點，大冷天毛巾不夠。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in January 2022
+info:Friends
+info:67 Reviews
+rating:5
+posted:Posted January 14, 2022
+msg:酒店温泉可以不錯交通方便，環境不錯，服務好值得入住
+----------------------------------------
+name:l‍o‍r‍i‍n‍m‍i‍l‍l‍y
+info:Waterside Room
+info:Stayed in August 2021
+info:Family
+info:2 Reviews
+rating:3
+posted:Posted August 15, 2021
+msg:太老了，有明顯黴味，衹是玩天門奇峽周邊沒其他更好選擇。早餐品種少，出品差，温泉還湊合吧。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in January 2022
+info:Friends
+info:1 Review
+rating:4
+posted:Posted January 30, 2022
+msg:這個時間段去，不錯的，但是酒店設施還需要更新。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in July 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 19, 2022
+msg:除了早餐貴點，其他都還好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in January 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted January 23, 2022
+msg:酒店外觀舊一點，但温泉谷很好什麼設施都有，乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in February 2023
+info:Other
+info:3 Reviews
+rating:2
+posted:Posted February 25, 2023
+msg:説實話失望
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in July 2022
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted August 1, 2022
+msg:環境優美，服務態度親切
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted August 14, 2022
+msg:早餐不錯，設施有點舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in June 2022
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted June 5, 2022
+msg:給免費升級了房間～ 很不戳
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:4
+posted:Posted August 11, 2022
+msg:環境可以就是酒店舊了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted August 8, 2022
+msg:前台服務熱情周到細緻
+----------------------------------------
+name:L‍a‍o‍l‍u‍o‍l‍a‍i‍l‍e
+info:Family Triple Room
+info:Stayed in January 2022
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted January 22, 2022
+msg:環境優美，服務周到，早餐也不錯，值得推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:4 Reviews
+rating:3.7
+posted:Posted January 28, 2023
+msg:設施偏舊了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:4.5
+posted:Posted January 28, 2023
+msg:需要完善！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in December 2021
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted December 7, 2021
+msg:服務態度很好，有什麼問題都能及時解決，還會繼續去
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in August 2021
+info:Friends
+info:15 Reviews
+rating:5
+posted:Posted September 17, 2021
+msg:因為主樓空調維修，免費升級到了別墅，超值。温泉很贊，房間也非常安靜。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in January 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted April 13, 2023
+msg:環境服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in July 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 11, 2022
+msg:住過很多次了，很好
+----------------------------------------
+name:H‍u‍y‍a‍o‍g‍u‍a‍n‍g
+info:Waterside Room
+info:Stayed in February 2022
+info:Family
+info:14 Reviews
+rating:1.7
+posted:Posted February 4, 2022
+msg:去過的温泉酒店裡麪最差的，沒有之一
+----------------------------------------
+name:M‍a‍p‍l‍e‍l‍z‍p
+info:Deluxe Panoramic Twin Room
+info:Stayed in December 2021
+info:Friends
+info:17 Reviews
+rating:2.2
+posted:Posted December 6, 2021
+msg:酒店舊，服務一般般，拿多一張被子還要自己套
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Triple Room
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:4
+posted:Posted October 4, 2021
+msg:設施太差了，洗臉盆排不了水，門縫小孩的手指都可以通過
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 28, 2022
+msg:房間很大，很乾凈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted August 3, 2022
+msg:非常好，寬敞大氣
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 13, 2022
+msg:環境和服務都是一流的，性價比高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in April 2022
+info:Solo travelers
+info:1 Review
+rating:3.5
+posted:Posted July 21, 2022
+msg:酒店環境不錯，服務一般
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in November 2021
+info:Friends
+info:28 Reviews
+rating:5
+posted:Posted November 24, 2021
+msg:酒店各項設施不錯，部分湯泉温泉水温不夠高
+----------------------------------------
+name:L‍a‍o‍n‍i‍u‍l‍i‍n
+info:Romantic Room (2 beds)
+info:Stayed in July 2022
+info:Family
+info:31 Reviews
+rating:4
+posted:Posted July 12, 2022
+msg:不錯，房間有點舊
+----------------------------------------
+name:F‍e‍i‍m‍a‍z‍a‍i‍t‍i‍a‍n
+info:Type A Villa - 1-Room
+info:Stayed in September 2021
+info:Family
+info:21 Reviews
+rating:5
+posted:Posted October 2, 2021
+msg:超出預期，房間舒服極，湯池棒棒噠，還有牛奶浴！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in May 2022
+info:Friends
+info:3 Reviews
+rating:1
+posted:Posted May 26, 2022
+msg:蚊子太多，地面濕滑
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:4
+posted:Posted October 6, 2021
+msg:住的環境還可以，房間有點久，看到漏水跡象。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in July 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 5, 2022
+msg:wei z
+🚗 交通：很方便
+🔔服務：小姐姐服務態度很棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in November 2021
+info:Couples
+info:6 Reviews
+rating:3
+posted:Posted November 14, 2021
+msg:感覺不是真温泉
+不值這價格，不推薦噢
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2022
+info:Friends
+info:12 Reviews
+rating:5
+posted:Posted February 28, 2022
+msg:環境不錯，前台十分熱情！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2022
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted February 4, 2022
+msg:房間挺好，餐廳吃飯也不算貴
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in October 2021
+info:Couples
+info:59 Reviews
+rating:4.5
+posted:Posted October 6, 2021
+msg:環境很好，服務須跟上，房間電話居然是壞的
+----------------------------------------
+name:l‍o‍l‍l‍i‍e
+info:Family Triple Room
+info:Stayed in January 2022
+info:Family
+info:25 Reviews
+rating:5
+posted:Posted January 4, 2022
+msg:環境優美，早餐豐盛，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in May 2021
+info:Family
+info:3 Reviews
+rating:3.5
+posted:Posted June 18, 2021
+msg:一家人去韶關丹霞山順便過去泡温泉的，環境還可以，服務一般，設施也一般
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in September 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted October 31, 2022
+msg:還可以吧！
+----------------------------------------
+name:C‍M‍Y‍ ‍C‍M‍Y
+info:Romantic Room (Double bed)
+info:Stayed in January 2022
+info:Friends
+info:7 Reviews
+rating:4.7
+posted:Posted February 1, 2022
+msg:管理到位，員工服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2022
+info:Family
+info:1 Review
+rating:3.7
+posted:Posted March 2, 2022
+msg:還不錯，房間衞生差點
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in October 2021
+info:Family
+info:10 Reviews
+rating:4.2
+posted:Posted October 26, 2021
+msg:設施有點舊，温泉池不多，環境清幽
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in January 2022
+info:Couples
+info:24 Reviews
+rating:5
+posted:Posted January 7, 2022
+msg:温泉水質很好，環境優美
+----------------------------------------
+name:O‍u‍y‍a‍n‍g‍j‍i‍n‍f‍e‍n‍g
+info:Romantic Room (2 beds)
+info:Stayed in February 2022
+info:Couples
+info:4 Reviews
+rating:4
+posted:Posted February 15, 2022
+msg:服務不錯，下次還去
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Themed Room
+info:Stayed in January 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 16, 2022
+msg:服務很好，温泉超級棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in May 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 23, 2022
+msg:挺不錯的酒店
+----------------------------------------
+name:H‍a‍i‍y‍o‍u‍t‍o‍u‍f‍a‍d‍e‍l‍a‍o‍t‍o‍u
+info:Deluxe Panoramic Queen Room
+info:Stayed in December 2021
+info:Friends
+info:64 Reviews
+rating:4
+posted:Posted December 27, 2021
+msg:不錯，就是裝修陳舊了點
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in February 2022
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted February 20, 2022
+msg:全方位服務很好👍
+----------------------------------------
+name:D‍o‍n‍g‍g‍u‍a‍n‍l‍i‍s‍h‍u‍a‍i
+info:Romantic Room (Double bed)
+info:Stayed in June 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted September 3, 2022
+msg:空氣挺好的
+----------------------------------------
+name:J‍i‍n‍g‍x‍i‍n‍g‍z‍h‍e
+info:Deluxe Panoramic Queen Room
+info:Stayed in October 2021
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted October 7, 2021
+msg:除了比較貴，其他的都可以。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in October 2021
+info:Family
+info:2 Reviews
+rating:3.5
+posted:Posted January 18, 2022
+msg:設施舊了，要重新裝修才行。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in October 2021
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted October 10, 2021
+msg:環境不錯，服務有點差了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in October 2021
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted November 27, 2021
+msg:酒店有點舊，但是温泉很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2022
+info:Family
+info:1 Review
+rating:4
+posted:Posted February 5, 2022
+msg:有點舊，床不好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in May 2022
+info:Family
+info:12 Reviews
+rating:4.7
+posted:Posted June 18, 2022
+msg:酒店還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in October 2021
+info:Family
+info:21 Reviews
+rating:3
+posted:Posted October 5, 2021
+msg:一般，有點舊，早餐不好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Family Triple Room
+info:Stayed in October 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted November 6, 2021
+msg:幾好。一次還會再去。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (Double bed)
+info:Stayed in February 2022
+info:Friends
+info:3 Reviews
+rating:4
+posted:Posted February 28, 2022
+msg:裝修有點舊了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in May 2021
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted October 15, 2021
+msg:🧹衞生：👍
+🍃環境：👍
+🔔服務：👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in December 2021
+info:Friends
+info:3 Reviews
+rating:4
+posted:Posted January 19, 2022
+msg:酒店不錯，都滿意
+----------------------------------------
+name:A‍i‍t‍e‍e‍r‍e‍n‍z‍h‍a‍n‍g‍f‍e‍i
+info:Deluxe Panoramic Queen Room
+info:Stayed in November 2021
+info:Friends
+info:43 Reviews
+rating:5
+posted:Posted November 13, 2021
+msg:環境好，景色宜人
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in November 2021
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted November 21, 2021
+msg:衞生舒適景色怡人
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in July 2021
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted January 16, 2022
+msg:還行，房間夠大，玩得開心
+----------------------------------------
+name:_‍_‍_‍_‍_‍Y‍ ‍u
+info:Deluxe Panoramic Twin Room
+info:Stayed in October 2021
+info:Solo travelers
+info:8 Reviews
+rating:2.5
+posted:Posted October 27, 2021
+msg:一次性拖鞋嘟沒有
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in November 2021
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted December 4, 2021
+msg:很好，環境很美
+----------------------------------------
+name:y‍j‍2‍8‍3‍5‍1‍8‍8
+info:Type A Villa - 1-Room
+info:Stayed in April 2021
+info:Business travelers
+info:3 Reviews
+rating:4.7
+posted:Posted June 19, 2021
+msg:整體感覺還不錯，但別墅房間有氣味
+----------------------------------------
+name:d‍m‍z‍g‍1‍9‍9‍7
+info:Type A Villa - 1-Room
+info:Stayed in October 2021
+info:Friends
+info:39 Reviews
+rating:5
+posted:Posted November 9, 2021
+msg:不錯的酒店温泉
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in January 2022
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted January 28, 2022
+msg:酒店可以。
+----------------------------------------
+name:l‍c‍h‍r‍i‍s
+info:Type A Villa - 1-Room
+info:Stayed in August 2021
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted August 10, 2021
+msg:環境一流服務也好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in July 2021
+info:Family
+info:1 Review
+rating:3.7
+posted:Posted July 13, 2021
+msg:設施陳舊，多處未開！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Type A Villa - 1-Room
+info:Stayed in January 2022
+info:Other
+info:7 Reviews
+rating:2.5
+posted:Posted February 17, 2022
+msg:酒店非常舊
+----------------------------------------
+name:S‍e‍v‍e‍n‍g‍o‍n‍g‍z‍i
+info:Deluxe Panoramic Twin Room
+info:Stayed in October 2021
+info:Family
+info:19 Reviews
+rating:5
+posted:Posted December 21, 2021
+msg:乾淨衞生好好好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in October 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 26, 2021
+msg:很不錯的地方
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Romantic Room (2 beds)
+info:Stayed in October 2021
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted February 20, 2022
+msg:環境服務不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Waterside Room
+info:Stayed in July 2021
+info:Family
+info:6 Reviews
+rating:3
+posted:Posted July 25, 2021
+msg:酒店太舊有異味
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in July 2021
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted September 5, 2021
+msg:乾淨，環境優雅
+----------------------------------------
+name:P‍a‍r‍k‍l‍i‍u
+info:Type B Villa - 2-Room
+info:Stayed in May 2021
+info:Family
+info:26 Reviews
+rating:4
+posted:Posted June 22, 2021
+msg:還是不錯的度假酒店
+----------------------------------------
+name:1‍7‍l‍v‍y‍o‍u‍b‍a
+info:Villa - 7-Room
+info:Stayed in February 2021
+info:Friends
+info:9 Reviews
+rating:1
+posted:Posted June 18, 2021
+msg:一般般般吧
+----------------------------------------

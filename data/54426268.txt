@@ -1,0 +1,373 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:6 Room
+info:Stayed in January 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 1, 2024
+msg:Very good, nice
+
+Environment: beautiful
+Sanitation: clean
+Service: considerate
+Facilities: complete
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:7 Room
+info:Stayed in September 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 11, 2023
+msg:As an elderly person with mysophobia, the cleanliness of the room is very important. The service is very good, and the dried fruits given are delicious. It's a pity that the dried figs bought elsewhere are not as delicious as this one. Haha
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:7 Room
+info:Stayed in September 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:A very good holiday experience! We arrived in Hemu just during the Mid-Autumn Festival. After experiencing a 16-square-meter room in Kanas that was falsely reported as 35 square meters and no way to complain, I felt like I was in heaven! As soon as we were about to arrive in Hemu, they began to guide us on how to take the bus and how to plan our time. They also helped us plan dinner in advance and carefully prepared free Mid-Autumn moon cakes. The two girls, Xiao Zhai and Jinjin, were very considerate and patient. Thank you for your arrangement, which allowed our group of five to spend an unforgettable Mid-Autumn Festival! The room is also very comfortable, with three rooms and a living room, which is very suitable for family travel or a small group of 5-6 people traveling together!
+----------------------------------------
+name:Y‍a‍n‍y‍u‍e‍y‍u‍e
+info:7 Room
+info:Stayed in September 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 23, 2023
+msg:The new village feels much more comfortable than the old village. The environment of the cabin is also OK. The service of the housekeepers is also very good. I like the dinner very much. The taste is very good. There are also more varieties of breakfast. I like the cats in the yard🐱kawaii. They also help to pick up and drop off luggage at the station🧳thank you🙏
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:3 Room
+info:Stayed in September 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted September 22, 2023
+msg:I booked the hotel long in advance. When I took the through bus to Kanas, I also had a Xinjiang meal in Kanas Old Village. With the comparison, I must say that the chefs in Xirong are better! Whether it is Xinjiang cuisine or northern cuisine, the taste and ingredients are very good.
+As soon as I entered the room, the floor heating skirting humidifier was turned on, and it was warm. There was also a welcome fruit plate, snacks every night, and the hot water for bathing at night was also stable. Usually there is nothing to say about these, it is what it should be, but after reading other tourists who stayed in Hemu on Xiaohongshu, I felt satisfied 😂 Fortunately, I booked here, otherwise I might...
+On the last day of the trip, the autumn scenery also came, and it finally started to turn yellow. Everyone is rushing to Kanas now, just in time! hhhh
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:6 Room
+info:Stayed in September 2023
+info:Solo travelers
+info:23 Reviews
+rating:5
+posted:Posted September 17, 2023
+msg:The experience was very good, everything was perfect!
+
+Location: The B&B is in the new village, without the hustle and bustle of the old village, very suitable for friends who want to experience the courtyard of Hemu quietly. Their courtyard may be the best maintained in the whole village, a colorful sea of ​​flowers, plus the cabin and the mountain behind, this is not a paradise! And it is very close to the Hemu River, just a few steps away, you can go to the riverside plank road to walk around, there are few people and beautiful scenery
+Service: The B&B has its own coffee and restaurant, you can order in advance, and the breakfast is delicious. The staff is also very friendly, answering all questions and responding to all requests. Because I have to walk into the village, the staff helped me pick up my luggage from the transfer center, which solved a big problem for me, which is really great
+I hope I will have the opportunity to experience Hemu in winter next time
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:7 Room
+info:Stayed in September 2023
+info:Family
+rating:3.5
+posted:Posted September 7, 2023
+msg:The cabin, which cost 6867 yuan per night, is not worth the money. Although the interior is simple and clean, and the facilities are normal, the price is very high and the service is basically non-existent. After we checked in, a tour group also came to stay. The waiter said that because they had to accommodate the tour group, they postponed our dinner and asked us to find a restaurant elsewhere to eat. Maybe the waiter felt bad and said that he would arrange for us to have breakfast before the tour group at 8:30 the next morning, but at the agreed breakfast time the next day, he asked us to wait until the tour group finished eating before eating. So we had very little breakfast food left and there was nothing to eat.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:3 Room
+info:Stayed in November 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted November 7, 2023
+msg:Very good value for money. You can see the stars at night.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:7 Room
+info:Stayed in August 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted August 26, 2023
+msg:Awesome B&B. In Hemu New Village, take the bus to Hemu New Village at the transfer center. Get off at stop 2 and walk five minutes to the destination. The breakfast and dinner at the B&B are very delicious. They have Xinjiang characteristics and also take into account the tastes of us southerners. I booked dinner at the B&B for both nights in Hemu. It was delicious! The old village is quite lively and there are many restaurants, but I prefer to eat quietly with my family! There is a small wooden door in the garden of the B&B. Go in and walk along the wooden plank road to the viewing platform. The scenery along the way is amazing. You can also see wild mushrooms in the forest! The ladies and brothers at the front desk are very enthusiastic. If it weren't for their reminder, I might have missed the starry sky and the Milky Way in Hemu at night!
+----------------------------------------
+name:h‍u‍g‍e‍p‍u‍m‍p
+info:7 Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 24, 2023
+msg:The hotel has good facilities and is comfortable to stay in. The path behind the door leads directly to the Hemu River, close to the Yuanjiang Bridge and the viewing platform. A good choice.
+----------------------------------------
+name:M‍a‍n‍b‍a
+info:1 Room
+info:Stayed in February 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:Stayed for a few days during the Spring Festival, the staff was very nice, a group of young people spent the New Year with us!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:1 Room
+info:Stayed in July 2023
+info:Solo travelers
+info:21 Reviews
+rating:5
+posted:Posted July 18, 2023
+msg:Facilities: Xirong has the best supporting facilities. It must be reasonable to choose it first on the list. The day before I stayed in Xirong, I stayed in the most expensive Yunding Pavilion in Kanas for 8,000+ and booked 2 rooms, which cost 17,000 yuan in total. To be honest, the scenery is really shocking, but the supporting facilities are not very good. The most important thing is that there are too many bugs to kill. Xirong is much better. I think the scenery is second. Comfort is still more important. Otherwise, you won’t be in the mood to live and how can you feel the nature better? Hahaha... It depends on what everyone likes. , the new village is quieter, the old village is a bit lively, people who like to hang out can go there, there are all kinds of people, it's more mixed I don't like that, and it feels unsafe, and those who plan to go to Hemu must be careful not to drive an electric car across the Hemu Bridge, the caravan will forcibly pull out the keys, it's unreasonable, and finally alarmed the police, just like **, the ethnic behavior is very strong, the Hemu Bridge is in the old village, so I like the new village, and the Abin Restaurant in the new village is also delicious, and the proprietress and boss of the electric car rental are very enthusiastic, they are all in the new village, whether the people are good or not is in their bones, I will come again in the future!
+Hygiene: Very clean, complete supporting facilities, there are sweet watermelons in the store, and there are also beverages and beers in the refrigerator, and the juice wine is super delicious. Only the equipment is fully automatic, and this price is really OK
+Environment: The environment is beautiful, quiet, and gives people a very relaxing feeling. It is very beautiful to take pictures around
+Service: The service is nothing to say. I chartered all the cars in Kanas and Hemu without doing the shuttle bus. It is not convenient for the elderly and children to carry a lot of luggage. In Kanas, I asked Yundingge B&B to call a chartered car for 3,500 a day. In Hemu, I asked Xirong to call it for me for only 1,500. They said that Kanas and Hemu only cost 1,500 for a whole day! This is the difference, alas! The next morning, I asked the store to help me charter a car for a one-way trip and send it out for only 500. It was so touching. Some people just make money for the sake of making money. This kind of business is a one-time business. I am also a businessman. I evaluate it seriously. Before leaving, I gave Xirong a positive evaluation. It is the best here, hahaha, I like it and can help everyone
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:3 Room
+info:Stayed in July 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted July 17, 2023
+msg:Very good, the staff are very enthusiastic and enthusiastic. They handle problems very promptly.
+The food is clean and hygienic
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in November 2023
+info:Other
+rating:5
+posted:Posted November 30, 2023
+msg:Thank you to the lady from the B&B for accompanying me to the health center. She always greeted and cared for me when I was not feeling well! Full marks for both hardware and software!!!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:1 Room
+info:Stayed in September 2023
+info:Family
+info:10 Reviews
+rating:1
+posted:Posted October 2, 2023
+msg:Service: The service is extremely poor. It is the worst five-star hotel I have ever stayed in. The price of 7,000 yuan a night can be said to have no front desk service, which is even worse than that of ordinary express hotels. It only enters the guest's ID card information and does nothing else. The hotel is in the new village in the scenic area. Self-driving vehicles are not allowed to drive to the scenic area. They can only take the bus and then transfer to the bus in the scenic area (there are very few buses to the new village. We waited for 0 minutes before the bus left, and the accommodation and transportation were particularly inconvenient). The hotel never took the initiative to contact me from beginning to end to confirm the check-in date and tell me how to get to the hotel, such as which bus to take, which stop to take, and how to walk to the hotel after arriving at the stop. According to other comments, the hotel can help pick up and drop off luggage, but when I contacted the front desk to ask about the route to the hotel, the service staff never mentioned that they could help us. After our family walked a long way with large and small bags, the front desk told us that they could help pick up and drop off luggage. There is no appearance and level of a five-star hotel, and it is not as reliable as a battery car that costs 30 yuan an hour. When booking a room on Ctrip, we reserved welcome fruit with points, but it was not provided until we came back from playing in the evening. The explanation given by the front desk was that the fruit was replaced with dried fruit, but it was never informed in advance. After reading the check-in instructions, the dried fruit is brought by each room, which is completely different from the fruit we requested on the platform. The attitude of the front desk was extremely poor, the reply was perfunctory, and we were asked more than once whether we "needed" fruit, and did not fulfill the requirements confirmed in the order.
+
+Environment: There is no essential difference from other cabin environments, the vegetation in the yard is messy, and you can even see empty cigarette boxes on the wooden plank road and handrails, which is completely unrelated to high-end hotels.
+
+Breakfast: It is edible and coffee is provided, but the variety of food is very poor. The so-called Chinese and Western breakfast only has bread slices and steamed buns.
+
+The only one star is given to the kitten in the yard. It is friendly, well-behaved and cute, and I don’t know how much higher it is than the hotel service staff.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:7 Room
+info:Stayed in September 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 16, 2023
+msg:There is someone to pick up the luggage. The hotel is very warm and clean. The toiletries are special for Xirong. Fruit plates and night desserts are also given. There are induction lights at night. There is a sea of ​​flowers outside the house. There are people who cook and barbecue by themselves, and there is a big iron pot. It is well received.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:6 Room
+info:Stayed in September 2023
+info:Friends
+info:59 Reviews
+rating:5
+posted:Posted October 13, 2023
+msg:The most satisfying night in Xinjiang in 13 days. The room is small but well-structured and comfortable. The service is also good. The breakfast is simple, after all, the location is limited. I went to Hemu and realized that you should not stay in the old village during the peak tourist season. It is very easy to quarrel when crowded. The new village is quiet and there are many restaurants.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:3 Room
+info:Stayed in September 2023
+info:Couples
+info:11 Reviews
+rating:4.7
+posted:Posted September 21, 2023
+msg:A bit expensive, but almost all hotels in Hemu are expensive. Advantages: 1. The room facilities are good in Hemu Village, 2. The housekeeper service is very good, 3. The hotel's own courtyard is very good, Disadvantages: Tourists are not allowed to drive up, and have to transfer to the scenic area's shuttle bus at the transfer station. It is really inconvenient to take the shuttle bus with large bags. I hope the hotel can communicate more with the scenic area
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:6 Room
+info:Stayed in September 2023
+info:Friends
+info:53 Reviews
+rating:3.5
+posted:Posted September 8, 2023
+msg:The courtyard environment is nice, and the room decoration is OK. But the water heater is too low-end, and there is no way to take a normal shower. It is hot and cold. The room with such a low-end water heater for 3680 yuan/night is not worth the price. The breakfast is also relatively poor, and it is a perfunctory breakfast.
+----------------------------------------
+name:c‍o‍o‍k‍i‍e‍0‍0
+info:1 Room
+info:Stayed in July 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted July 13, 2023
+msg:Hemu is indeed a fairytale village with beautiful scenery. Xirong is in the new village, a distance from the old village commercial street, but it is a little quieter.
+The scenery is outside the window, and the room facilities are complete and very comfortable. I originally booked a two-bedroom room, but I was upgraded to the largest Hailan No. 5, which has three rooms and a tea room, which is very spacious. I must stay a few more nights next time.
+----------------------------------------
+name:S‍i‍s‍i
+info:3 Room
+info:Stayed in July 2021
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted August 5, 2021
+msg:For the accommodation along the way, the one that satisfies us the most. We live in Kunyuan No. 3, a two-story loft, very comfortable. The bedding is great and the bathroom is very clean. The only fly in the oin**ent is that the sofa downstairs looks a bit dirty. The reception for check-in and breakfast is very warm and upscale. The breakfast is simple but delicious. You can also choose to have breakfast in your room. I like it very much!
+----------------------------------------
+name:J‍a‍n‍e
+info:2 Room
+info:Stayed in July 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 8, 2021
+msg:The local car charter master I found said this is the best hotel in Quanhemu. The flowers and plants in the small courtyard are well maintained. The back door can lead directly to a small river. The water is as clear as the Kanas River. There is also a small forest. You can climb up the hill at the front door to see the entire Hemu Villa. At that time, someone was singing in a chorus on the hillside, so I don't have a feeling. Needless to say, the hardware facilities of the hotel, come to Hemu to pursue comfort and choose this place, you can make a big movie without leaving the hotel.
+----------------------------------------
+name:X‍i‍a‍o‍w‍a‍n‍z‍i‍1‍0‍1‍5
+info:5 Room
+info:Stayed in June 2021
+info:Family
+info:19 Reviews
+rating:5
+posted:Posted July 9, 2021
+msg:Only the best, no better! As the handsome guy at the front desk said, this is considered the best hotel in Hemu and even Kanas area, breakfast, lunch and dinner are great, the service staff are responsive, and the service is warm and thoughtful
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:6 Room
+info:Stayed in June 2021
+info:Solo travelers
+info:20 Reviews
+rating:5
+posted:Posted June 12, 2021
+msg:The housekeeper is gentle and caring. The "Five Black" fish in Hemu River are super delicious. You can also drink freshly ground coffee in the village. I really don't want to leave and will definitely come again.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:6 Room
+info:Stayed in September 2023
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted September 8, 2023
+msg:￼😃😃😃😃😃😃房間衞生乾淨晚餐也特別好吃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:6 Room
+info:Stayed in September 2023
+info:Solo travelers
+info:8 Reviews
+rating:3
+posted:Posted October 3, 2023
+msg:停水，這麼貴的房間最基本的水都沒有
+----------------------------------------
+name:S‍a‍i‍m‍e‍i‍l‍i
+info:1 Room
+info:Stayed in July 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted August 2, 2023
+msg:管家服務很好
+智能馬桶
+鬧中取靜 不錯的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:6 Room
+info:Stayed in October 2021
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted October 16, 2021
+msg:全喀納斯禾木天花板的民宿，沒有之一。
+知名設計師設計，資深木工匠人建造，高端的住宿條件，搭配了一年四季的不同美景，讓前來感受大美新疆的遊人能夠有最好的旅遊體驗。
+
+🚗 交通：位處禾木新村核心位置，依山伴水，還有白樺林的自然景觀；
+
+🧹衞生：作為單獨最高端的民宿，衞生條件自然也是最好的，品牌衞浴設備，舒適的床品，是能給到你不一樣的當地體驗；
+
+🍃環境：一年四季，各具特色的美景，讓你在院子裏就能欣賞到各種美景；
+
+🔔服務：高端的住宿體驗自然也離不開高品質的服務，民宿的小哥哥小姐姐既有顏值又有禮貌；
+
+☕️餐飲：餐飲是他們的特色之一，結合新疆美食，自創了一些菜品，最愛的就是囊披薩，非常好吃，冷水魚、牛羊肉就不用説了，做法都是符合內地遊客的口味；早餐也是按照內地遊客的餐飲習慣給準備的，有粥、鹹蛋等等；午後的下午茶，咖啡配上禾木當地的點心，給你不一樣的體驗；
+
+民宿價格是屬於小貴的那種，但是品質和服務是值得的。
+----------------------------------------
+name:P‍a‍o‍c‍a‍i‍x‍i‍a‍o‍n‍i‍a‍n‍g‍z‍i
+info:3 Room
+info:Stayed in October 2021
+info:Friends
+info:14 Reviews
+rating:5
+posted:Posted October 15, 2021
+msg:全喀納斯最好的民宿，木有之一！
+知名設計師設計，無論暖春還是寒冬，都有不一樣的美（美到不用修圖）。
+
+🚗 交通：位於禾木新村的核心位置，民宿對面就是白樺林，背後還有喀納斯湖
+
+🍃環境：自成一派的景色，不用出院子就可以愜意渡過一整天
+
+🧹衞生：應該是我住過全疆最好的了。設施也是絕對的五星級配置。
+
+🔔服務：管家小哥哥又帥有客氣，服務員小姐姐也是温柔如水。
+
+🍽餐飲：早餐特地考慮了內地人的胃，準備了粥，其他品種也很齊全。晚餐有當地特色，也有川菜可以選擇，喜歡炒牛舌和白菜炒肉。下午茶的咖啡真的是冬天裏的温暖。
+
+民宿是那種小貴但很值的品質，可以一來再來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2 Room
+info:Stayed in December 2021
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted December 13, 2021
+msg:早餐特別好 房間很大 冬天房間很温暖 住的挺舒服的 老闆服務也很貼心 餐廳的飯也不錯 👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:3 Room
+info:Stayed in January 2022
+info:Friends
+info:14 Reviews
+rating:3.2
+posted:Posted January 29, 2022
+msg:不知道為什麼大家都説是天花板。實際上衹是普通的loft民宿啊。尺寸完全沒有照片裏面那麼大 比較狹窄 人多可能不太方便 建築的質量也很一般 樓梯一個人走在上面都有點顫巍巍的 本人衹有100來斤。地板也是很ins風的民宿地板。沒有什麼質感。屋內不是很暖。住了一晚早上起來有點感冒了。有的地暖地方燙腳。有的地方卻很冷。廁所洗澡的地方也很冷。頭頂有暖風。但是地上很冷。而且水壓不太夠所以暖水很小的水量。我覺得在零下30度的地方這樣真的有點扛不住。另外住宿的時候廁所發生問題沖不了馬桶。後來修好了但是我也不想半夜要是再發生沖不了馬桶的問題我要去找管家吧很尷尬。跟管家協調換房被拒絕。後面雖然答應了但是相比較價格來説這樣的服務我也是有點不滿意。
+管家的服務可以説是比較禮貌但是比較流程化沒有真的為顧客着想的感覺。廁所有問題也衹想打個哈哈敷衍過去😊3k一晚的房費真的不應該有些關懷向的服務意識嗎？
+菜品倒是還可以。送到房間也挺好。位置比較偏。衞生也還可以。如果想住現代化一點的民宿可以考慮這裏。但是相比價格需要做的還有很多。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:8 Room
+info:Stayed in September 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted September 16, 2023
+msg:很滿意，會推薦給朋友
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:3 Room
+info:Stayed in July 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted July 12, 2023
+msg:環境優美、服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:3 Room
+info:Stayed in June 2021
+info:Couples
+info:24 Reviews
+rating:4.5
+posted:Posted June 27, 2021
+msg:小度語音有些不能用，出水不夠熱。但是環境是真的好。有很多小紅花可以拍照。在禾木新村毫無疑問的第一名。早上可以走後門上山看日出。早飯也很好吃。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:6 Room
+info:Stayed in June 2021
+info:Friends
+info:15 Reviews
+rating:5
+posted:Posted June 28, 2021
+msg:禾木地區最高級的民宿哦，服務很不錯，大家一起玩的很開心。有KTV和桑拿
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:1 Room
+info:Stayed in June 2021
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted June 12, 2021
+msg:應該是禾木村最好的民俗了。早餐非常美味，一整天都有免費咖啡喝
+----------------------------------------

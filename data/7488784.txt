@@ -1,0 +1,843 @@
+name:C‍E‍D‍R‍I‍C‍ ‍J‍A‍C‍Q‍U‍E‍S‍ ‍A‍N‍D‍R‍E
+info:Good Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:3.7
+posted:Posted April 13, 2024
+msg:Location of the hotel is convenient for me. There are some restaurants/cafe around and metro is like 3 minutes away.
+Gym is good, pool is indoor but I like the balcony to relax.
+
+The room itself is clean and modern, just the AC is a bit noisy.
+----------------------------------------
+name:l‍e‍e
+info:Good Room Twin
+info:Stayed in March 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 12, 2024
+msg:It's expensive, but it's nice because the hotel is quiet and clean.
+It's already my third time using it, and I'm thinking of using it continuously.
+----------------------------------------
+name:W‍e‍n‍d‍y‍L‍a‍m‍_
+info:Greater 2 Bedroom
+info:Stayed in July 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted July 4, 2023
+msg:Had a really nice stay at Residence G SZ. Hotel is very close to subway and bus station. The room is really clean and comfy and staff are nice.
+----------------------------------------
+name:L‍i‍D‍a‍n‍i‍e‍l
+info:Good Room
+info:Stayed in February 2024
+info:Solo travelers
+info:3 Reviews
+rating:4.7
+posted:Posted February 12, 2024
+msg:The hotel is located in a quiet place. 
+It is very clean and the price is reasonable
+----------------------------------------
+name:Y‍i‍g‍e‍x‍i‍a‍n‍g‍h‍u‍a‍n‍y‍o‍u‍s‍h‍i‍j‍i‍e‍d‍e‍t‍r‍a‍v‍e‍l‍e‍r
+info:Good Room
+info:Stayed in May 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted May 23, 2023
+msg:Wonderful, fancy decoration, nice staffs, room is super comfortable for stay.
+----------------------------------------
+name:E‍r‍i‍n
+info:Good Room Twin
+info:Stayed in October 2023
+info:Solo travelers
+info:8 Reviews
+rating:5
+posted:Posted October 14, 2023
+msg:Great hotel. 
+Great food, a little outside of seaworld, so you can avoid the crowds.
+----------------------------------------
+name:F‍r‍a‍n‍c‍o‍i‍s
+info:Good Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 31, 2024
+msg:Nice hotel
+----------------------------------------
+name:J‍A‍S‍.‍M‍U‍.
+info:Good Room
+info:Stayed in July 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted July 11, 2021
+msg:Good service. Great personality. Catherine Zhang great work done 
+----------------------------------------
+name:A‍n‍g‍e‍K‍e‍l‍l‍e‍r‍m‍a‍n
+info:Good Room
+info:Stayed in June 2021
+info:Business travelers
+info:4 Reviews
+rating:4.7
+posted:Posted September 28, 2021
+msg:Residence G is a fantastic place to stay. The internet is unrestricted and good for communicating with people overseas. It would be great for a business trip. The facilities are great. Can't recommend enough. 
+----------------------------------------
+name:G‍e‍l‍u‍o‍s‍u‍p‍u‍j‍i‍e‍c‍a‍i‍y‍o‍n‍g
+info:Good Room
+info:Stayed in October 2021
+info:Business travelers
+info:45 Reviews
+rating:4
+posted:Posted October 26, 2021
+msg:so far so good
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in March 2024
+info:Business travelers
+info:7 Reviews
+rating:1.2
+posted:Posted March 30, 2024
+msg:Not worth the price, not recommended
+I had to ask for a toothbrush from the front desk. The next day, the aunt took the toothbrush away and asked the front desk for it again. The phone number at the front desk couldn't be reached.
+The hygiene was particularly bad. The water that the aunt came in to mop the floor after cleaning had not dried up the smell of sewage in the house, so she opened the window for a long time to ventilate the room.
+The paper was not replenished the next day, and even the paper in the room was used up.
+The toiletries are extremely poor and damage the skin.
+The surrounding area is inconvenient, there is construction outside, and it is very noisy and dusty when the windows are opened.
+The air conditioner is loud and the internet is poor.
+The room is very small. There is only one leg between the bed and the desk. I don’t know how many times I bumped into it. You can see the picture.
+----------------------------------------
+name:Y‍u‍i‍¿
+info:Good Room
+info:Stayed in December 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted December 25, 2023
+msg:The room is as comfortable as ever. Toby at the front desk is very friendly and can arrange and solve any problems in time. The apar**ent has also done a lot of Chris**as decorations in the past few days, giving it a strong festive a**osphere. Very suitable for taking photos and checking in🥰
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in November 2023
+info:Couples
+info:1 Review
+rating:4
+posted:Posted November 19, 2023
+msg:The room is very neat, clean, and the decoration is relatively new.
+The house prices are affordable and the basic facilities are complete, but the location is relatively remote.
+I really like the hotel's simple and environmentally friendly design concept.
+----------------------------------------
+name:s‍s‍s‍z‍z‍z‍z‍m‍m‍m
+info:Greater 2 Bedroom
+info:Stayed in November 2023
+info:Family
+info:39 Reviews
+rating:5
+posted:Posted November 18, 2023
+msg:The hotel has a good texture and is convenient for going anywhere. It's good and recommended!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in November 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted November 8, 2023
+msg:First time staying in G Apar**ent
+The location is very good. It's in the center of Nanshan District. It's convenient to go anywhere.
+The room is large and spacious, more comfortable for business travel
+There is a good swimming pool and baby club, which is also suitable for bringing babies.
+The restaurant is classic French style
+The service staff are smiling and very polite
+The whole stay experience was very pleasant
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in April 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted May 7, 2024
+msg:The hotel entrance is a little hidden, but there is a side door that leads directly to the subway entrance, which is very convenient. A front desk guy named Sean helped me check in, which was very fast and nice. The room was nice, the bed was big and comfortable. I haven't used the restaurant yet, but the swimming pool is very heated.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Great 1 Bedroom
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:4.5
+posted:Posted April 18, 2024
+msg:The room was great.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in March 2024
+info:Business travelers
+info:7 Reviews
+rating:4
+posted:Posted March 15, 2024
+msg:I am very dissatisfied because the shower gel and shampoo that comes with this price are very poor. My newly dyed hair has almost lost its color after washing, and there is a lot of dandruff. My boyfriend also has dandruff all over his shoulders after washing with the shower gel. It was extremely dry, and my whole body began to peel off layers of white skin. Doesn’t it come with normal bath products at this price? ?
+The decoration is very good, the room is very small, the toilet is very poor, the toilet seat is the kind that moves accidentally, and there is no capsule coffee machine.
+The hotel couldn't connect to the Internet for half an hour.
+Very poor value for money, not recommended.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in August 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 2, 2023
+msg:The breakfast is very rich. The hotel has complete facilities, including a gym and a swimming pool, so you can exercise after a business trip. The hotel is very clean and the service is attentive.
+----------------------------------------
+name:Z‍h‍u‍a‍n‍g‍n‍e‍n‍d‍e‍x‍i‍a‍o‍b‍a‍o
+info:Good Room Twin
+info:Stayed in February 2024
+info:Friends
+info:21 Reviews
+rating:4
+posted:Posted February 13, 2024
+msg:The hotel and the room are very good, light and luxurious; the bed is a little small, but very clean and comfortable; the shower angle cannot be adjusted, I hope it can be improved; the breakfast is a bit chaotic and not eaten well.
+Another note: "Yongxinhui", the shopping mall downstairs, is like an empty city and the experience is lacking.
+----------------------------------------
+name:L‍i‍y‍i‍w‍e‍i
+info:Good Room Twin
+info:Stayed in August 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:The biggest personal feeling of this apar**ent is the accent, from the facade, the lobby, the service staff, the air-conditioned elevator, and the carton-packed drinking water provided free of charge in the room. The slight disadvantage is that the bedding is a bit damp, but everything else is good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in November 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 30, 2023
+msg:Still quite satisfied!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in July 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted July 6, 2023
+msg:The room is very beautiful. This time I came from Beijing for a business trip. The sanitation and service are very good. The service attitude at the front desk is very good, and the breakfast is good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in December 2023
+info:Friends
+info:3 Reviews
+rating:1
+posted:Posted December 25, 2023
+msg:Why is there no air conditioning, no fresh air in the room, no tools for brushing teeth, and no comb? Tell me in advance. You should tell me in advance before revising the money. Otherwise, there is not enough cash. The breakfast is not diverse. I don’t eat well. The orange juice is not strong enough.
+----------------------------------------
+name:C‍h‍r‍i‍s‍ ‍k‍e
+info:Good Room
+info:Stayed in November 2023
+info:Couples
+info:12 Reviews
+rating:3.7
+posted:Posted November 30, 2023
+msg:The shower head in the bathroom is at a right angle of 90 degrees. Normal people need to hold it up to take a shower.
+----------------------------------------
+name:L‍i‍u‍x‍i‍a‍6‍2
+info:Good Room
+info:Stayed in May 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:I live here every time I go on a business trip. It’s like my second home in Shenzhen. The room is very beautiful and you can take pictures casually. The front desk will help me reserve the room I like. The service is great
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Great 1 Bedroom
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 15, 2023
+msg:This time I came here with my friends and booked a one-bedroom room. I have to say that the room is really big, and the supporting facilities and services can be called five-star standards. The staff of the hotel greeted us very warmly. When they saw that we had a lot of luggage, they would take the initiative to help. The first time I checked in, I had such an unforgettable experience! Very satisfied!
+----------------------------------------
+name:L‍e‍u‍n‍g‍K‍e‍n‍i‍t‍h
+info:Greater 2 Bedroom
+info:Stayed in December 2023
+info:Friends
+info:1 Review
+rating:4.5
+posted:Posted December 25, 2023
+msg:The hotel staff service is very good and worth recommending
+----------------------------------------
+name:L‍a‍n‍b‍a‍i‍h‍e
+info:Good Room
+info:Stayed in May 2023
+info:Business travelers
+info:3 Reviews
+rating:4.7
+posted:Posted June 25, 2023
+msg:The hotel room is clean, the location is good, the subway entrance, and there are many delicious foods nearby, but the drinking water in the room is very small. Although it is an environmentally friendly Tetra Pak package, it is not equipped with a straw. It is unhygienic to tear off the sealing glue and drink directly. I hope it can be Improve
+----------------------------------------
+name:M‍i‍h‍a‍y‍i‍n‍u‍o‍w‍e‍i‍q‍i
+info:Great 1 Bedroom
+info:Stayed in January 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted January 28, 2023
+msg:Clean, refreshing and comfortable to settle in
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Studio
+info:Stayed in April 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted May 28, 2023
+msg:Facilities: A**ospheric high-end
+Hygiene: clean and comfortable
+Environment: convenient transportation
+Service: considerate
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in April 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted April 11, 2023
+msg:Clean and well-organized, the white room decoration feels comfortable, the staff service is good, just next to the subway station Nanyouxi Station.
+It's just that the water temperature in the swimming pool is slightly cooler, so it's very convenient to visit other parts of Qianhai.
+----------------------------------------
+name:C‍h‍e‍n‍g‍l‍i‍w‍e‍n‍y‍i‍b‍i‍n‍g
+info:Good Room
+info:Stayed in March 2023
+info:Business travelers
+info:9 Reviews
+rating:2.5
+posted:Posted March 29, 2023
+msg:The third floor is very very noisy, the air conditioner is noisy, but the air conditioner is turned off, but there is still low frequency noise from nowhere. At 7:30 in the morning, I heard the sound of construction, as well as the continuous sound of opening and closing doors. Every time, it was like smashing a wall. The sound insulation is really bad, and I didn't sleep well at all.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in March 2023
+info:Friends
+info:1 Review
+rating:2.7
+posted:Posted March 26, 2023
+msg:I have stayed several times. I called at 3:00 pm on March 26th. A woman answered the phone. The service attitude was poor. Before the customer finished speaking, she just said a word and hung up the phone. The experience was very bad. The hotel has only facilities In general, it is not as good as the All Season Hotel next to it. In short, I will not consider G Apar**ent next time
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Studio
+info:Stayed in March 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 7, 2023
+msg:The room is very spacious and bright. The service from Ellen at the front desk is very good. Every time I come here, I will eat breakfast. It is very good and there are many types. I will come here often in the future
+----------------------------------------
+name:W‍o‍a‍i‍m‍e‍n‍g‍q‍i‍q‍i
+info:Good Room
+info:Stayed in February 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 8, 2023
+msg:The transportation is convenient, and the clothing wholesale market is nearby. A place worth buying.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:2.2
+posted:Posted November 21, 2023
+msg:The front desk phone cannot be reached
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Studio
+info:Stayed in August 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted November 11, 2022
+msg:Facilities: good environment and convenient transportation
+Commuting is very convenient, the room is big and cozy
+----------------------------------------
+name:X‍i‍a‍n‍g‍b‍a‍b‍a‍d‍e‍l‍i‍z‍i
+info:Greater 2 Bedroom
+info:Stayed in July 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 4, 2022
+msg:Nice hotel, the kids had a great time, and the sanitation is OK. The taste of the food and drink is good, the types of breakfast are normal (price ratio is average), the service is relatively friendly, and the scenery is good.
+----------------------------------------
+name:J‍e‍n‍n‍y‍ ‍X‍u‍e
+info:Good Room
+info:Stayed in April 2023
+info:Family
+info:6 Reviews
+rating:4
+posted:Posted May 26, 2023
+msg:Very good value for money hotel
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in October 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 14, 2021
+msg:Very good, very satisfied in all aspects, especially the style of the building and rooms are very beautiful.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Great 1 Bedroom
+info:Stayed in October 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 10, 2021
+msg:The decoration is stylish and clean, the ceiling is high, the room is large, and you can sleep comfortably. The staff are friendly and attentive. I bought a package ticket, with a high personality ratio.
+----------------------------------------
+name:Y‍u‍e‍w‍e‍i‍l‍e‍n‍g
+info:Good Room
+info:Stayed in February 2023
+info:Business travelers
+info:8 Reviews
+rating:4
+posted:Posted March 26, 2023
+msg:is the bed is a bit small
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Greater 2 Bedroom
+info:Stayed in August 2021
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted August 7, 2021
+msg:🔔Service: Often no one answers the phone at the front desk. The room is not equipped with toothbrushes, combs, and slippers, so you have to ask them for them.
+🍃Environment: Overall it's pretty good.
+[Internet celebrity swimming pool]: The swimming pool is very small, with only three lanes of about 50 meters, and it is often occupied by children who come outside to take swimming lessons. Hotel residents have to wait for their swimming lessons to finish before they can go swimming.
+🧹Hygiene: Overall it's pretty good.
+🍴Restaurant: quite satisfied, the service attitude and environment are very good, the food is also good, especially the breakfast is very rich.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in July 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 27, 2021
+msg:Hotel apar**ent style, European style, mainly white, because we are shooting clothes, it suits us! Ellen at the front desk service is very good, guide and introduce us, like it, and will come again next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in July 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted July 27, 2021
+msg:The room is very beautiful, European style. Due to work, the front desk manager gave a late check-out and will come next time.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in December 2021
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted December 17, 2021
+msg:I liked it very much, but the staff entered the room without knocking.
+The bed, pillows and quilt are very clean and the breakfast is also very delicious. The environment is very good and I like it very much.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in November 2021
+info:Business travelers
+info:2 Reviews
+rating:4.7
+posted:Posted November 30, 2021
+msg:The service from the little girl at the front desk is very good, although you wear a mask, you can still feel your smile. It is that the design of the faucet of 🚿 is not very reasonable.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Great 1 Bedroom
+info:Stayed in July 2021
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted July 30, 2021
+msg:The room was very clean and the stay was very comfortable.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Great 1 Bedroom
+info:Stayed in October 2021
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted November 10, 2021
+msg:An apar**ent with perfect facilities, equipment and services. The restaurant’s products are very delicious and inexpensive. I look forward to staying again. Even if I don’t live, it’s a good choice to come over for a meal. Finally, I would like to thank Sean for helping me book a car and move. Luggage, very caring
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in July 2021
+info:Business travelers
+info:10 Reviews
+rating:2.2
+posted:Posted July 31, 2021
+msg:The hotel environment is average, the toilet light is in the toilet, the design is unreasonable, there is no light switch at the bedside, and there are no basic supplies, such as slippers, toothbrushes, etc., and the attitude of the waiter is still very good and excellent!
+----------------------------------------
+name:c‍h‍r‍i‍s‍t‍y‍f‍e‍n‍g
+info:Good Room
+info:Stayed in July 2021
+info:Business travelers
+info:11 Reviews
+rating:3.7
+posted:Posted August 4, 2021
+msg:Meeting is convenient, cost-effective is not high
+----------------------------------------
+name:T‍o‍y‍s‍c‍u‍b‍e
+info:Greater 2 Bedroom
+info:Stayed in January 2024
+info:Family
+info:11 Reviews
+rating:4.7
+posted:Posted January 21, 2024
+msg:酒店設施完善 附近亦有相多餐廳 但交通有少少擠塞 附近有非常多電瓶車在街道上左穿右插
+----------------------------------------
+name:A‍a‍g‍_‍h‍u‍a‍n‍g‍j‍i‍e‍l‍o‍u‍✨
+info:Good Room Twin
+info:Stayed in April 2024
+info:Business travelers
+info:35 Reviews
+rating:5
+posted:Posted April 21, 2024
+msg:衞生：乾淨 整潔
+環境：出行比較方便
+服務：態度佳
+----------------------------------------
+name:N‍i‍u‍H‍C‍H
+info:Good Room
+info:Stayed in April 2024
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted May 12, 2024
+msg:高端一點，適合在所在地出差，服務很好，設施齊全
+----------------------------------------
+name:C‍i‍c‍i‍m‍a‍m‍a‍2‍0‍2‍1
+info:Good Room
+info:Stayed in January 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted January 13, 2024
+msg:Greyson服務很好,安排到了我想要的房間 很滿意的體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:4.5
+posted:Posted February 13, 2024
+msg:酒店環境優美、房間整潔，交通十分方便，下次會再入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in June 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 5, 2024
+msg:깨끗하고 위치좋고 친절했어요
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in September 2023
+info:Business travelers
+info:21 Reviews
+rating:3
+posted:Posted September 22, 2023
+msg:比快捷酒店好點 位置好 其他服務什麼的都沒有 性價比不高 價格偏貴
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in September 2023
+info:Business travelers
+info:10 Reviews
+rating:4
+posted:Posted September 29, 2023
+msg:這裏的保潔不給洗碗，我覺得也真是挺逗的。提供廚具，但要自己清洗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Studio
+info:Stayed in August 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 13, 2023
+msg:房間很滿意，這家酒店是第一次過來住，很驚喜，有洗衣機方便洗衣服，服務也很好
+----------------------------------------
+name:j‍a‍k‍y‍1‍1‍8
+info:Good Room
+info:Stayed in May 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted June 10, 2024
+msg:環境地理位置都很優越
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Great 1 Bedroom
+info:Stayed in November 2023
+info:Business travelers
+info:4 Reviews
+rating:4
+posted:Posted February 16, 2024
+msg:房間比較大，但是好像一股味道。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in March 2024
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted May 30, 2024
+msg:房間整潔乾淨。服務很好
+----------------------------------------
+name:i‍_‍m‍e‍o‍w‍_‍a‍n‍i‍t‍a
+info:Good Room
+info:Stayed in February 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted February 27, 2024
+msg:環境舒適 
+服務：好
+----------------------------------------
+name:j‍a‍s‍o‍n‍l‍y‍2‍0‍0‍7
+info:Good Room
+info:Stayed in December 2023
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted January 19, 2024
+msg:性價比不錯的酒店式公寓
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room Twin
+info:Stayed in February 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted March 1, 2024
+msg:非常好的一次住宿
+----------------------------------------
+name:N‍E‍A‍L‍.‍Z‍H‍A‍O
+info:Great 1 Bedroom
+info:Stayed in September 2023
+info:Business travelers
+info:40 Reviews
+rating:5
+posted:Posted October 28, 2023
+msg:可以燒飯做菜，有洗碗機非常滿意
+----------------------------------------
+name:S‍h‍a‍n‍m‍i‍a‍o‍m‍i‍a‍o
+info:Great 1 Bedroom
+info:Stayed in November 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted February 1, 2024
+msg:出差必選，大房型還不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in October 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted November 1, 2023
+msg:滿意 入住滿分好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in February 2023
+info:Solo travelers
+info:21 Reviews
+rating:4
+posted:Posted April 25, 2023
+msg:整體體驗不錯，但是衞生間有一些返味
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in December 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 12, 2024
+msg:好好的地方
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Studio
+info:Stayed in April 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted July 8, 2023
+msg:價格公道，入住體驗感好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in March 2023
+info:Business travelers
+info:72 Reviews
+rating:5
+posted:Posted April 11, 2023
+msg:乾淨，早餐精緻，點贊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in June 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 10, 2023
+msg:很好，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in August 2021
+info:Friends
+info:1 Review
+rating:4.7
+posted:Posted August 9, 2021
+msg:各方面都符合我的期望，房間是那種大落地窗的，光線特別好，清新舒適，配套設施全部都有，健身房挺安靜的，餐廳軟裝很有格調，早餐不錯，服務也跟得上
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Great 1 Bedroom
+info:Stayed in February 2022
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted February 21, 2022
+msg:房間很好看，適合拍照，燈光很充足，衞生乾淨，藝術效果滿分
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Greater 2 Bedroom
+info:Stayed in July 2021
+info:Friends
+info:15 Reviews
+rating:5
+posted:Posted January 10, 2022
+msg:雖然中間有一點點不愉快
+但是店家很快處理了
+整理入住體驗還不錯
+性價比高
+希望店家對於衞生細節可以更加註重吧
+----------------------------------------
+name:C‍y‍r‍i‍l‍-‍c‍a‍o
+info:Greater 2 Bedroom
+info:Stayed in August 2022
+info:Family
+info:58 Reviews
+rating:4
+posted:Posted August 15, 2022
+msg:還是不錯的，期待下次。
+----------------------------------------
+name:f‍i‍o‍n‍a
+info:Good Room
+info:Stayed in October 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 24, 2021
+msg:出差深圳首選 非常乾淨 滿意 推薦給你們 還幫我做了升級
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Great 1 Bedroom
+info:Stayed in January 2023
+info:Other
+info:36 Reviews
+rating:5
+posted:Posted January 30, 2023
+msg:這酒店乾淨
+----------------------------------------
+name:L‍i‍u‍y‍a‍n‍g‍x‍i‍z‍i
+info:Good Studio
+info:Stayed in December 2021
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted February 1, 2022
+msg:房間很乾凈 燈光很温馨，環境很棒的，還會再來
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Great 1 Bedroom
+info:Stayed in November 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 23, 2021
+msg:酒店房間還是不錯的，就是枕頭太軟睡不着
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in May 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 7, 2021
+msg:每次來深圳出差指定住的酒店，最舒服,早餐也好吃
+----------------------------------------
+name:Z‍h‍a‍i‍e‍r‍h‍u‍o
+info:Good Room
+info:Stayed in October 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 10, 2021
+msg:客人入住，反映都很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Great 1 Bedroom
+info:Stayed in October 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted October 23, 2021
+msg:環境整潔，服務良好
+----------------------------------------
+name:Z‍h‍a‍o‍z‍h‍a‍o
+info:Good Room
+info:Stayed in September 2021
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted October 6, 2021
+msg:我很喜歡酒店的環境
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in August 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 16, 2021
+msg:入住體驗非常棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Good Room
+info:Stayed in August 2021
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted August 6, 2021
+msg:入住體驗很好
+----------------------------------------

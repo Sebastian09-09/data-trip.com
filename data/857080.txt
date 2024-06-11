@@ -1,0 +1,2583 @@
+name:A‍w‍e‍n
+info:Business Double Room
+info:Stayed in September 2023
+info:Couples
+info:56 Reviews
+rating:5
+posted:Posted September 26, 2023
+msg:设施：ok
+卫生：ok
+环境：ok
+服务：ok
+----------------------------------------
+name:*‍.‍.‍*
+info:Business Double Room
+info:Stayed in July 2022
+info:Solo travelers
+info:7 Reviews
+rating:5
+posted:Posted July 4, 2022
+msg:The breakfast is good and very rich. The hotel is also very close to the train station. It is very convenient
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted July 2, 2022
+msg:The environment is very good, the service attitude is good, and the facilities are complete. Overall very satisfied.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in December 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 23, 2021
+msg:The environment is very good, clean and tidy, the stay is very comfortable, the lady at the front desk is very polite and the service attitude is very good! In your spare time, you can go to the gym, take a hot spring bath, and drink tea, which is very good!
+----------------------------------------
+name:B‍i‍n‍g‍m‍e‍n‍g‍q‍i‍y‍a
+info:Business Room (2 beds)
+info:Stayed in November 2021
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted December 1, 2021
+msg:Xiaodu is very smart...
+Nice night light design 👌
+There is also a coffee place on the first floor where you can drink hot water for free. It is very convenient to have a friend and talk about things.👍
+🔔Service: The food in the restaurant on the first floor is average, but the attitude of the service staff is really good...
+🍃Environment: Easy parking
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 27, 2021
+msg:The environment is very good, the room is very clean and it makes people feel very comfortable and satisfied. The hotel service is also very friendly, and the breakfast dishes are also good and very satisfied.
+----------------------------------------
+name:S‍i‍m‍a‍l‍i‍a‍n‍g‍f‍e‍n‍g
+info:Standard Single Room
+info:Stayed in June 2021
+info:Business travelers
+info:90 Reviews
+rating:5
+posted:Posted July 21, 2021
+msg:The grade and environment are not good, it's relatively high-end, and the attitude of the service staff is also very good. There is a street for eating nearby, which is very convenient
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in June 2021
+info:Other
+info:16 Reviews
+rating:1.5
+posted:Posted July 6, 2021
+msg:The accommodation experience was very poor, when I was going to sleep I found that there were cockroaches on the quilt! ! Although I changed the room later, but I felt very separated!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in June 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted June 9, 2024
+msg:衞生  好
+環境  非常好
+服務  特別好
+設施  五星
+入住前台服務很好，詳細講解各功能區，並送了我們宵夜的體驗，負一層桑拿推薦體驗，據説是温泉水。房間智能控制。下次還選這裏。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted June 4, 2024
+msg:位置好，距離奧萊和高鐵站都很方便。服務很周到，房間舒適，給前台打電話要硬枕頭和洗衣液，很快就送來了.早餐自助，人挺多，退房主動提醒免費掃碼停車，不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in June 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted June 9, 2024
+msg:房間智能化，有浴缸，可以看到後院露天温泉夜景，一層有餐廳，煙火氣👍服務周到，前台小姑娘還送了我們水果吃。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted June 10, 2024
+msg:滿意，環境好，房間窗簾厚實，可以好好睡一覺，雖然是老牌酒店，但房間裝修一點不輸，應該是重新裝修過了。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted June 7, 2024
+msg:衞生  滿意
+環境  滿意
+服務  滿意
+設施  高檔
+前台  服務熱情，很滿意
+停車場  寬敞，園區內都可停
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 17, 2024
+msg:酒店的整個環境服務是不錯的，離出差的地方也很近，房間乾淨早餐豐富滿意，前台接待也很滿意，非常熱情和和專業
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in March 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted April 2, 2024
+msg:乾淨衞生，早餐豐盛，環境不錯，綠化做的很好👍🏻，前台提示我們入住後可以去免費體驗游泳健身和温泉水洗浴👍🏻交通便利，距離景點也是最近的。免費停車，還能給車充電👍🏻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in June 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted June 4, 2024
+msg:環境很好，房間寬敞，停車也方便，前台服務很好送了晚餐代金券讓我們體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted June 3, 2024
+msg:環境好，服務好，房間智能化，前台還推薦體驗零壓房，下次再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted June 4, 2024
+msg:挺好的，入住退房都辦理很迅速。還送了我們晚餐的代金券。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in June 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted June 4, 2024
+msg:房間供應温泉水，挺用心的酒店。環境服務都不錯。
+----------------------------------------
+name:X‍u‍e‍d‍u‍a‍n
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Friends
+info:25 Reviews
+rating:2.5
+posted:Posted December 24, 2023
+msg:我再房間要了幾瓶礦泉水。結果我退房了也沒送上來！最後我和前台説了，前台説和小杜下單沒用。得和前台説！既然這樣。為啥小杜還弄個下單的功能？還有温泉票。為啥訂房的時候不能和房卡一塊給我！非得進了房間了才去讓前台取！還有電話上寫的房間號居然是錯的，早上我朋友來找我。我看了電話上寫的房號。我告我朋友了，我朋友找不到我，給我打電話了才知道我再15樓。電話上的房號是13樓和實際房號不一致！上個廁所把。馬桶蓋上全是尿點。馬桶墊底下也都是尿點。馬桶還沒刷乾淨！泡個澡把，浴盆裏都是頭髮，刷牙杯子也沒洗。杯子上還有膠未除！也不消毒！就是上個客人用下。然後你們乾擦了一下！吹風扇上的水點！無語了。這是星級酒店！真拉跨！衞生衞生不行，前台前台沒服務！沒話術！前台遇到事也沒補救措施！還有酒店的一次性用品。牙刷了沐浴露這些，啥年代的了？該換新一代產品了！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:4.8
+posted:Posted June 10, 2024
+msg:服務周到，設施也很齊全，衞生很棒，前台服務員周到熱情，床墊很舒服，0壓床墊很給力，下次還來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:30 Reviews
+rating:5
+posted:Posted February 15, 2024
+msg:房間很大，很暖和，床也很舒服軟軟的。房間內的水給的量也很足，一樓的餐廳很便宜，半自助，可以選很多種類，停車方便，出行好選擇，以後有機會還會再來住。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in March 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted April 2, 2024
+msg:房間很大很安靜，非常滿意，早餐豐盛，前台態度友善，幫忙要來蕎麥枕頭。走的時候還送了小禮物🤫
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in May 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted June 3, 2024
+msg:挺不錯，都很滿意，停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in December 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 21, 2023
+msg:房間裝修過，老酒店看着保養的很好，全屋智能，外賣會幫忙送到房間，游泳健身都是温泉水，很贊。周圍交通便利，服務周到，前台很熱心，一層新開了宵夜，入住時前台小妹贈送了優惠券給我們體驗。停車場很大，也有電車充電樁。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in February 2024
+info:Other
+info:5 Reviews
+rating:4
+posted:Posted April 20, 2024
+msg:格局不錯乾濕分離 每天還有水果 一樓晚上還有宵夜  房間每天都有人打掃衞生 保潔人員做的不錯  就是房間有點小 放兩個人行李箱不夠
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in March 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted April 19, 2024
+msg:房間寬敞，還有浴缸可以泡澡，前台告知房間用水都是温泉水，挺不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in January 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 8, 2024
+msg:乾淨衞生，環境優雅，房間設施先進，有小度智能控制，早餐也很豐盛。前台有求必應，有點水土不服，前台還幫忙找來葯品和👍🏻服務熱情周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 8, 2024
+msg:酒店很好，智能遙控，離開時還送了熱的礦泉水，真貼心！房間很好，乾淨衞生，距離高鐵站，飛機場都近，還可以帶家人去逛奧萊
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in December 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 25, 2023
+msg:房間很安靜，很舒適，床品也很乾凈衞生。下次還會選擇。前台服務很好，贈送了小禮物，還推薦了最近活動的宵夜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in December 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted December 21, 2023
+msg:👍滿意.房間很暖和，空調給力，早餐豐富，前台服務人員態度好，距離奧萊很近。健身游泳桑拿都免費。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in January 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 6, 2024
+msg:窗外夜景不錯，距離萬達奧萊很近，交通方便，性價比高，早餐豐富，乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted January 12, 2024
+msg:設施：非常好
+衞生：非常好
+環境：非常好
+服務：非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in November 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 23, 2023
+msg:酒店服務👌你好，同行小朋友還得到一個前台姑娘給的小禮物，很有耐心，酒店有機器人送餐。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 22, 2023
+msg:房間安靜，空調很足，大廳小機器人很方便，可以把外賣啊什麼的送房間，門僮小哥還幫忙拉來行李。早餐很不錯。停車方便。退房前台還送了小禮物，太好太貼心。唯一一點就是打掃房間收走毛巾，沒有給新的。
+----------------------------------------
+name:h‍a‍o‍x‍i‍n‍t‍t
+info:Business Room (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:10 Reviews
+rating:0.5
+posted:Posted May 10, 2024
+msg:非常差，到目前為止住過最差的五星酒店，洗澡等了半個小時沒有熱水，無奈又穿上衣服等人來修，花灑還有頂噴水流特別小，感覺根本沖不乾淨，總之很差的體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:酒店非常漂亮，距離高鐵站很近。一進門就有迎賓員走上來迎接，感到很親切。前台的小姑娘非常有愛心❤，還給孩子贈送了小禮物。客房很寬敞，打掃的也很乾凈，舒舒服服洗了個澡，大夏天的空調效果也很好。早餐豐富，各式麪包🍞，西點，還有壽司🍣，現場製作的山西麪食，終於讓我品嚐了一下山西美食。總之，下次再來，還會住這裏。。。不愧是五星級的老牌酒店。。
+----------------------------------------
+name:K‍a‍i‍y‍a‍n‍g‍d‍e‍z‍a‍o
+info:Standard Single Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 15, 2024
+msg:位置好，服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 7, 2024
+msg:服務態度好，環境好
+----------------------------------------
+name:F‍e‍i‍m‍a‍o‍j‍i‍e‍l‍a‍d‍e
+info:Standard Single Room
+info:Stayed in October 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 8, 2023
+msg:老一代的豪華酒店大家親子去試住一下同城也有同層次的五星大家也可以去後對比對比大床軟軟的睡的慣的還是會覺得舒服的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in January 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted January 19, 2024
+msg:非常非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 26, 2023
+msg:設施：房間挺不錯，衞生又安全，也安靜
+衞生：挺好
+環境：距離周邊幾個景點都不遠，酒店也有熱鬧的夜市和環境好的温泉
+服務：前台和收銀服務都很好，送了網紅夜市優惠券，耐心告訴怎麼連網。
+免費體驗了樓下的洗浴。挺好。
+----------------------------------------
+name:Y‍a‍n‍g‍y‍o‍n‍g‍d‍e‍y‍u‍1‍8‍9
+info:Business Double Room
+info:Stayed in February 2024
+info:Family
+info:5 Reviews
+rating:3.2
+posted:Posted February 14, 2024
+msg:8個人預訂了4間房間，因為要開車7個多小時，特意選了有洗浴的門票，結果什麼服務都沒有，按摩搓澡都沒有。前台回覆説是衹提供門票，房間裏有浴缸，衹是洗澡的話，誰需要你這幾張門票！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 24, 2023
+msg:環境很不錯，酒店泳池很舒服，前台説是温泉水的，適合帶娃，看到暑期有游泳班。挺不錯，適合出差。房間很大，樓下有獨立的洗浴，看到窗户外有個温泉區，服務員説也是酒店一起的，娛樂項目不用跑太遠啦～
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 25, 2023
+msg:第一次來榆次，很有趣的地方，前台服務人員幫忙推薦了這裏的打卡景點和他們家的特色温泉，都很不錯，預訂有洗浴的房間，還可以下樓體驗温泉水洗浴，真不錯。水質很好。服務也很好哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted July 20, 2023
+msg:房間舒服又安靜，還能智能小度定叫醒。房間配的被子和特色蕎麥枕頭很適合我。前台服務不錯，有求必應，還主動送了我們旁邊的網紅夜市的優惠券。還介紹了周邊的特色飯館。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in August 2023
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted August 6, 2023
+msg:帶着孩子，進來還給了孩子禮物，真好。
+環境不錯，院子裏有温泉，有夜市，有籃球場和羽毛球場
+服務也很好，找服務員借指甲刀，立馬就送來了。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 24, 2023
+msg:這邊最舒服了，因為需要離學校近，所以選擇了這家酒店，沒想到性價比這麼高；房間非常大。前台告知健身房和泳池免費，非常棒。整體來説性價比非常高了。夜市不錯。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 28, 2023
+msg:環境不錯，房間安靜衞生，門前飯店超市也很方便，距離奧萊.萬達也很近哦～早餐豐富，品種很多。酒店自己有個夜市，前台給送了代金券，還有小禮物收～
+----------------------------------------
+name:W‍s‍h‍u‍a‍i‍s‍h‍u‍a‍i
+info:Business Room (2 beds)
+info:Stayed in June 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 4, 2024
+msg:前台小姐姐服務態度超好，酒店環境乾淨衞生 安靜舒適 出行方便 特別感謝保潔阿姨撿到我的身份證並及時歸還
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 22, 2023
+msg:有停車場，有很漂亮的早餐廳，環境很好，有五星級的氣派，院裏有噴泉。走兩步還有個噴泉。讓前台幫忙叫車出去、態度也很好。贊。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 22, 2023
+msg:不錯，房間小度管所有，還能聲控開空調，前台挺熱情，早餐人挺多。很推薦，去哪都方便。有停車場。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2023
+info:Other
+info:2 Reviews
+rating:3
+posted:Posted June 6, 2023
+msg:連續住了2晚 第一晚空調不製冷 半夜被熱醒 衹有呼呼的風聲沒有冷氣，第二天換了房間還是一樣的情況，晚上又讓修理工來房間檢查，而且窗户的衞生太差了，邊框劃痕都可以理解 玻璃都是臟的平時都不擦的嗎？還有衞生間馬桶不提供一次性馬桶墊。總之下次來不會再選擇了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 19, 2023
+msg:老牌酒店了，設施設備都挺全的，房間裝修之後挺不錯，前台服務也不錯，來了就送了小禮物，看着我們帶着孩子還送了我們孩子小玩具，真不錯。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 29, 2023
+msg:空間開闊 硬件一流
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 28, 2023
+msg:很有藝術氣息的酒店、我們老姐妹在這裏的温泉玩的很開心。房間安靜睡得香，交通方便，前台小姑娘幫忙教我們手機叫車。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 2, 2023
+msg:各個方面都挺好，房間安靜，空調也給力。非常好的酒店。前台告知房間供應了温泉水，正好房間有浴缸，好好泡一會兒。推薦！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 9, 2023
+msg:性價比很高，早餐豐富，房間周邊環境很好很安靜。房間智能化，前台服務還不錯，早餐的服務員也很熱情。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 2, 2023
+msg:服務不錯，看到我們帶了孩子一起來，幫我們送來了孩子的牙膏牙刷和拖鞋。離開時前台還送了當地的特產小吃。表揚。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 10, 2023
+msg:房間不錯，智能化，空調給力，前台服務相當不錯，還贈送了身份證套和小禮物，還送了孩子小恐龍和網紅夜市的代金券，贊一個。
+----------------------------------------
+name:A‍d‍a‍m‍8‍0‍8‍8
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Couples
+info:39 Reviews
+rating:4.2
+posted:Posted January 1, 2024
+msg:房間有浴缸 前台服務好 辦理入住極快 房間朝南鄰街並不超 隔音效果好！房間温度合適，可能酒店經營時間長了水池和馬桶出水的地方有水銹。早餐一般品種不多咖啡是速溶的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 5, 2023
+msg:環境：有專門的小童房，訂房時不知道，有機會可以試試~入住時跟前台説了有小朋友入住，給房間送來小童牙膏牙刷。
+服務：酒店使用機器人服務（見圖六），很有特色。服務周到熱情，點贊。
+早餐: 比較豐富，中西都有，小童免費。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted September 17, 2023
+msg:環境幽靜，出行方便，服務一如既往地贊
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted August 25, 2023
+msg:酒店的位置交通很便利，園內環境很好適合度假早餐餐品豐盛，房間內一家三口住也很寬敞。值得推薦哦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 11, 2023
+msg:房間還行，服務也挺好，前台還告訴我們可以去樓下體驗洗浴，和游泳'健身。停車免費，院子挺大，哪都能停。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 3, 2023
+msg:服務不錯，房間乾淨面積挺大，整體不錯，酒店位置好，離機場，高鐵都近。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2023
+info:Family
+info:12 Reviews
+rating:3.7
+posted:Posted October 6, 2023
+msg:好評：前台知道帶娃主動送了早餐，游泳池不錯。
+建議改進點：因為是一家三口睡大床，床邊的夜燈是紅外感應的，導致輕微翻身或者抬腿，夜燈就會亮，影響睡眠。
+另因為天氣變涼，中央空調衹能是吹風（但晚上還是有些熱），但這個問題好似是共性問題。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 3, 2023
+msg:房間不錯，樓下洗澡的地方也很寬敞。
+搓背師傅很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 26, 2023
+msg:交通便利，離火車站機場都很近。房間安靜舒適，適合出行遊玩
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 29, 2023
+msg:酒店還算比較新的，房間挺大，地理位置好，總體不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 2, 2023
+msg:房間很大很舒服，冷氣很足，送了夜市的優惠券，不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 9, 2023
+msg:真心滿意，環境好，衞生好，早餐豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:31 Reviews
+rating:3.5
+posted:Posted February 14, 2024
+msg:酒店位置設施都不錯，不太令人滿意的是酒店前台接待人員，態度生冷，待客敷衍，有待加強培訓，強化賓客至上的服務意識。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 2, 2023
+msg:住的好，吃的好，都好。泡個温泉剛剛好
+----------------------------------------
+name:L‍i‍n‍b‍e‍i‍h‍u‍m‍a‍o
+info:Business Double Room
+info:Stayed in October 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 6, 2023
+msg:酒店位置挺好的，停車也挺不錯，五星級酒店應價設施軟件都挺好，美中不足就是市區限速太低了，而且攝像頭特別多開車一不小心就被拍照，但這個跟酒店本身沒關係，酒店是挺好的，但值得推薦￼
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 3, 2023
+msg:不錯：，早點品種很多，房間也大。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:2 Reviews
+rating:4.7
+posted:Posted April 26, 2023
+msg:房間設施很好，且有智能機器人（小杜）使得入住體驗比較方便，衞生狀況良好 ，早餐品種豐富，而且有幾種是現場製作，很貼心
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in June 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted June 5, 2023
+msg:早餐豐盛，服務很好，住這裏也很安靜，點了外賣，貼心的讓機器人送來房間。
+----------------------------------------
+name:Y‍i‍z‍h‍i‍m‍a‍y‍i‍p‍a
+info:Business Suite
+info:Stayed in October 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 30, 2023
+msg:先前入住的華夏温泉酒店，進去衞生，氣味以及室温都無法接受。帶老婆孩子果斷換回以前住過的萬豪美悦，自己有實力才配的上攜程的高星級，室內還提供有加濕器，很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:3 Reviews
+rating:2.7
+posted:Posted August 16, 2023
+msg:房間隔音較差，房間內部有味道。
+夜裡想要一個蚊香，打電話讓在房間找，沒找到説他們也沒有。夜裡實在被蚊子弄的無法入睡，打前台客房服務電話一直不接，沒辦法衹能下樓，前台沒人，衹有一個禮賓部小夥子，叫醒前台才給送了蚊香，服務態度冷漠，根本配不上萬豪五星這個名頭。體驗非常差！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in June 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted June 14, 2023
+msg:環境好，綠化好，晚上睡覺也安靜，停車方便。前台服務態度很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted June 9, 2024
+msg:乾淨衞生，温泉水直接接入房間，早餐很好，性價比高，愉快的入住體驗
+----------------------------------------
+name:t‍i‍g‍e‍r‍1‍6‍3‍4‍3‍2
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 9, 2024
+msg:房間不錯，值得表揚的是晚上的充卡晚餐，經濟實惠，量不大，價格不貴，人少的話可以多點幾個品種，贊一個！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in June 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 21, 2023
+msg:還不錯，值得再去，停車方便，住宿安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2023
+info:Friends
+info:4 Reviews
+rating:2.2
+posted:Posted January 26, 2023
+msg:專門訂了商務大床房，以為會好一點。結果入住的時候已經下午三點左右，房間還沒有收拾打掃出來，換了房間衞生剛打掃了，但是確實不好，浴缸裏有黑色的東西。下去樓下負一層洗浴中心，沒有服務大姐，衹有一個大叔，也沒有搓背的大姐，沒人看管，都不敢下去洗澡了！體驗感真不好！因為鑽石會員有迎賓水果，給總枱打了三次電話才半夜送到房間！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Other
+info:2 Reviews
+rating:2.7
+posted:Posted August 1, 2023
+msg:此次入住，本來預住兩日，但酒店空調讓人大跌眼球，那麼熱的天氣房間温度27.8℃，降不下來了，根本就沒冷氣，換了個房間仍然如此，房間還沒大堂涼快，服務員説都是這樣的，鬱悶，那麼上檔次的酒店就這樣，而且設施都比較陳舊，連個掛毛巾的地方都沒有，當晚就取消了一天，第二一早天趕快離開，下次去我是不會再去了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 9, 2023
+msg:隔音好，很安靜，還幫忙推薦了後院的温泉，停車場挺大，去前台退房，還主動提醒領上免費停車票。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in May 2024
+info:Friends
+info:8 Reviews
+rating:4.5
+posted:Posted May 7, 2024
+msg:沒有温泉設施，沒有洗衣房，可能是偏僻人不多，酒店早餐品種也不多。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in June 2023
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted June 13, 2023
+msg:衞生乾淨，服務很好！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:30 Reviews
+rating:3.2
+posted:Posted June 20, 2023
+msg:晚上12點多室温29度，沒空調、有蚊子沒蚊香，總枱很熱情，送來蚊香片並讓服務員查看，服務員回答：空調總機關了，沒辦法！房間沒有電子蚊香器，也是沒辦法！自己花了四百多，沒法睡覺，衹好凌晨2點退房，沒辦法！
+----------------------------------------
+name:C‍a‍i‍n‍i‍a‍o‍3‍5‍0‍4
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:乾淨，挺好，下次出行必選的，很滿意
+----------------------------------------
+name:m‍u‍c‍h‍o‍n‍g‍q‍i‍a‍o
+info:Standard Single Room
+info:Stayed in May 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted May 10, 2024
+msg:酒店環境舒適安靜。
+設施：齊全。配有浴缸
+早餐種類略微偏少
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted April 10, 2023
+msg:入住環境舒適，乾淨，服務挺好，餐廳菜品不錯，好吃
+----------------------------------------
+name:L‍i‍n‍k‍o‍u‍h‍u‍a‍n‍w‍e‍n
+info:Business Room (2 beds)
+info:Stayed in November 2023
+info:Family
+info:4 Reviews
+rating:3.2
+posted:Posted November 26, 2023
+msg:温泉洗浴真的一般，山西很冷，本想去燙燙，暖和一下，水温一般，洗着洗着就感覺要感冒，趕緊走了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Other
+info:8 Reviews
+rating:5
+posted:Posted September 23, 2023
+msg:酒店智能燈光設計風格新穎實用，早餐地方風味小吃口味可口，床上用品乾淨，室內無吸煙味道，停車便捷，遠離鬧市區安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 8, 2024
+msg:酒店很乾凈，交通方便，前台服務很貼心，特意安排了抽煙房
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in March 2024
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted March 3, 2024
+msg:服務態度好，衞生好，早餐品種多，味道不錯，居住舒服，滿意
+----------------------------------------
+name:Q‍i‍a‍n‍l‍i‍g‍u
+info:Business Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:41 Reviews
+rating:5
+posted:Posted April 5, 2024
+msg:設施：好
+衞生：好
+環境：好
+服務：好
+前台：好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in February 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted May 8, 2024
+msg:無論是房間衞生和房間的大小，還是第二天的自助早餐都很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Business travelers
+info:4 Reviews
+rating:2
+posted:Posted December 23, 2023
+msg:設施：不咋地，浴缸不出水，東西舊
+服務：不咋地，可惜了萬豪這品牌
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in November 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 28, 2023
+msg:住的很舒服，房間很乾凈。外賣直接送到房間服務到位！下次去還會選擇入住。
+----------------------------------------
+name:m‍a‍y‍a‍0‍4‍0‍8
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Business travelers
+info:5 Reviews
+rating:3.7
+posted:Posted December 12, 2023
+msg:整體感覺衞生比較差，電視機下面很厚的灰塵，洗手間坐便堵塞，體驗很差
+----------------------------------------
+name:K‍a‍m‍e‍i‍l‍u‍n‍b‍u‍l‍a‍i‍k‍e
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted July 30, 2023
+msg:房間舒適，床鋪鬆軟，客房智能升級了，體驗感很好。早餐豐盛，地理位置優越，旁邊就是温泉度假村，適合全家出行。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted December 25, 2023
+msg:温泉很舒服；酒店房間內也有浴缸，可以直接泡澡，停車場車位挺多
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in December 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 22, 2023
+msg:早餐好豐富。大床帶孩子有點小，房務部還特意給加了床 非常感謝
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in March 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted April 5, 2024
+msg:酒店特別好，環境乾淨，帶着孩子，感覺不錯
+----------------------------------------
+name:K‍o‍n‍g‍k‍o‍n‍g
+info:Business Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:44 Reviews
+rating:5
+posted:Posted August 16, 2023
+msg:酒店很標準的設施，前台服務特別好，有温泉和游泳池，早餐很棒，有山西的特色，就是周邊不太熱鬧，不過很安靜，下次過來還會住這裏
+----------------------------------------
+name:�‍�‍t‍a‍o‍^‍_‍^‍x‍i‍a‍n‍s‍h‍e‍n‍g
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted November 2, 2023
+msg:酒店年齡有些大，但是各類設施還能正常使用，在山西住的住一晚比較舒服，安靜，舒適
+----------------------------------------
+name:C‍h‍e‍n‍g‍c‍h‍e‍n‍g‍j‍i‍n‍h‍u‍a‍n‍g‍s‍e
+info:Business Double Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 21, 2023
+msg:酒店前廳部房麗娜服務熱情，辦理入住很快，酒店房間乾淨整潔  交通便利，體驗很好，還會再來。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:2 Reviews
+rating:2.7
+posted:Posted April 16, 2023
+msg:酒店住的還可以，畢竟是上星的酒店，前台服務人員耐心和態度都很差。沒好聲沒好氣的，工作上宮鬥鬥嘴，然後就遷怒客人？後悔當時忍住沒發火，憑什麼吃這個氣
+----------------------------------------
+name:D‍a‍l‍i‍s‍u‍i‍f‍e‍n‍g
+info:Business Room (2 beds)
+info:Stayed in October 2023
+info:Other
+info:6 Reviews
+rating:4
+posted:Posted October 4, 2023
+msg:有點失望  房間衞生差一點 環境餐廳都不錯 希望細節上能做的更好一點
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:2 Reviews
+rating:3
+posted:Posted April 19, 2023
+msg:挺一般的，尤其是早上在酒店吃飯，飯的質量和品質差也就算了，還能碰到好些沒素質的人抽煙，工作人員也不管，毫無專業性可言，總體很不好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted December 24, 2023
+msg:整潔、乾淨，舒適、暖和，名符其實的五星級大酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:38 Reviews
+rating:5
+posted:Posted January 6, 2024
+msg:酒店非常乾淨、服務非常好！一樓餐飲也非常便宜！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in February 2023
+info:Business travelers
+info:6 Reviews
+rating:2.2
+posted:Posted February 12, 2023
+msg:衞生工作極差！本來想上圖，這樣可能會扣房嫂的獎金，房嫂後續服務態度很好。另外洗澡時候居然有水溢出來，衞生間到處是水汪汪。一個老牌五星酒店，不應該這樣！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in November 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted November 26, 2023
+msg:離機場火車站都很近，位置便利，房間舒適，服務熱情～
+----------------------------------------
+name:G‍u‍o‍ ‍ ‍ ‍p‍e‍n‍g
+info:Business Room (2 beds)
+info:Stayed in November 2023
+info:Business travelers
+info:105 Reviews
+rating:5
+posted:Posted November 23, 2023
+msg:設施：齊全
+衞生：乾淨
+環境：優雅
+服務：熱情❤️
+----------------------------------------
+name:p‍a‍n‍！‍！
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:21 Reviews
+rating:5
+posted:Posted October 2, 2023
+msg:早餐豐富，房間乾淨。停車方便，出行方便，衞生間乾淨，毛巾乾淨。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 19, 2023
+msg:房間智能，酒店性價比高，乾淨寬敞。周邊環境很好，很清凈，院子挺大，停車位挺多，
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2023
+info:Other
+info:1 Review
+rating:4
+posted:Posted October 23, 2023
+msg:總體較好，最好能註明一下距離高速公路口有多遠就更好了
+----------------------------------------
+name:T‍i‍a‍n‍t‍i‍a‍n‍q‍i‍n‍g‍q‍i‍n‍g
+info:Business Room (2 beds)
+info:Stayed in May 2024
+info:Solo travelers
+info:2 Reviews
+rating:4.2
+posted:Posted May 30, 2024
+msg:設施舊一點，其實它都好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 25, 2022
+msg:房間挺大，整體體驗還不錯，入住還贈送了歡迎水果，很滿意
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:32 Reviews
+rating:5
+posted:Posted May 21, 2024
+msg:第一次入住，感覺挺好🙂～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2023
+info:Family
+info:10 Reviews
+rating:4.7
+posted:Posted January 30, 2023
+msg:酒店正門停車位少，客人停車不方便。這是疫情期間入住率少還可以停下，要是全面放開就不方便了，建議正面擴建一些車位。其它方面酒店做的很好！
+----------------------------------------
+name:Z‍h‍o‍u‍C‍h‍i‍l‍d‍e
+info:Business Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:81 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:山西晉中市榆次區最好的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:環境不錯，服務周到，價錢合適。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 22, 2023
+msg:環境衞生不錯，早餐菜品豐富，口味好，廚師服務態度好！值得大家入住！
+----------------------------------------
+name:Y‍u‍w‍a‍n‍g‍w‍w‍y
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted February 13, 2024
+msg:衞生：衞生很好
+環境：環境可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 7, 2024
+msg:入住體驗非常好，推薦大家選擇萬豪🕘
+----------------------------------------
+name:P‍e‍i‍s‍i‍k‍a‍l‍a‍a‍n‍n‍i
+info:Standard Single Room
+info:Stayed in August 2023
+info:Solo travelers
+info:3 Reviews
+rating:2.2
+posted:Posted August 29, 2023
+msg:房間不大，價位高，位置較偏，離市裡遠一點，吃東西不方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted June 9, 2024
+msg:服務態度好 很滿意
+----------------------------------------
+name:G‍Y‍Z‍H‍1‍2‍3‍4
+info:Standard Single Room
+info:Stayed in June 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted June 7, 2024
+msg:服務熱情，乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted September 22, 2023
+msg:服務很周到，房間很安靜，內部設施都很新，非常滿意
+----------------------------------------
+name:I‍r‍i‍s
+info:Standard Single Room
+info:Stayed in January 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 2, 2024
+msg:挺好，出差，酒店的性價比很高。
+----------------------------------------
+name:C‍h‍a‍o‍y‍a‍n‍g‍f‍e‍i‍l‍o‍n‍g
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Friends
+info:51 Reviews
+rating:3.7
+posted:Posted December 4, 2023
+msg:衹是感覺酒店裝修和硬件水平有點太老了
+----------------------------------------
+name:J‍i‍e‍j‍i‍a‍o‍l‍u‍d‍e‍n‍g
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted October 6, 2023
+msg:挺好的酒店
+服務：好
+環境：好
+衞生：好
+設施：好
+----------------------------------------
+name:(‍^‍_‍^‍)‍Q‍i‍a‍n‍g
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:入住很棒，服務也很好，但就是自己有些感冒睡了一天
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:房間還行，沒有寫的那麼大，走的時候送小禮物挺暖心，孩子很開心，總的來説還不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:設施：完善
+衞生：乾淨
+環境：怡人
+服務：周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 2, 2024
+msg:房間很好，服務也好。非常棒。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 16, 2023
+msg:環境好，衞生乾淨，服務還好，早餐豐富，交通便利，有免費停車場，還會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in April 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted May 4, 2023
+msg:房間不錯，是間五星級的標準，服務也出乎意料，能想客人所想，不錯，下次還來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:20 Reviews
+rating:4
+posted:Posted December 21, 2023
+msg:スタッフの皆さんが親切だった。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in January 2024
+info:Friends
+info:12 Reviews
+rating:5
+posted:Posted April 17, 2024
+msg:服務熱情，房間寬敞明亮舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted February 2, 2024
+msg:住的很滿意，下次還會入住。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted February 7, 2024
+msg:總體來説很不錯，洗浴很棒
+----------------------------------------
+name:S‍h‍a‍n‍g‍s‍h‍a‍n‍r‍u‍o‍s‍h‍u‍i
+info:Standard Single Room
+info:Stayed in February 2024
+info:Business travelers
+info:38 Reviews
+rating:4.7
+posted:Posted April 7, 2024
+msg:房間平米和攜程説的不一樣
+----------------------------------------
+name:B‍i‍e‍n‍a‍o‍6‍8‍5‍7
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Couples
+info:9 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:總體還是挺好的。不知道有沒有連鎖，如果有的話，到其他城市也可以考慮。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:不錯，滿意的一次
+----------------------------------------
+name:S‍h‍e‍d‍e
+info:Business Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 15, 2023
+msg:設施：棒棒
+衞生：橫着走
+環境：美美噠
+服務：強
+早餐:👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 8, 2023
+msg:智能化房間 房間舒適 服務態度好 還能免費游泳洗浴
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in June 2024
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted June 9, 2024
+msg:不錯啊挺好的＇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted April 2, 2024
+msg:前台服務態度很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in August 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:衞生超級棒，服務員服務態度也不錯。值得大家來
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted December 11, 2023
+msg:酒店乾淨整潔，下次還會再來的，贊一個
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 17, 2024
+msg:不錯。。。。。
+----------------------------------------
+name:Z‍h‍a‍n‍g‍y‍u‍x‍i‍a‍o‍w‍a‍n‍z‍i‍A‍m‍y
+info:Standard Single Room
+info:Stayed in December 2022
+info:Solo travelers
+info:9 Reviews
+rating:4
+posted:Posted March 3, 2023
+msg:衞生：整體環境挺好 就是衞生間有些味道
+設施：設備看起來也比較新 沒有很陳舊
+服務：服務態度也還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:臨時網上訂的，有驚喜，整體好評。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 13, 2023
+msg:停車方便 夜景不錯 經典的商務風格下次出差還會再來
+----------------------------------------
+name:D‍a‍b‍a‍i
+info:Business Room (2 beds)
+info:Stayed in June 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted June 25, 2023
+msg:設施：良好
+衞生：良好
+環境：良好
+服務：良好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 2, 2024
+msg:房間可以，服務滿意。
+----------------------------------------
+name:j‍a‍k‍e‍h‍a‍n‍0‍0‍7
+info:Business Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:房間很棒，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted April 8, 2024
+msg:滿意，下次還入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted January 21, 2024
+msg:交通不太方便，價格合適
+----------------------------------------
+name:k‍m‍z‍a‍c‍h
+info:Standard Single Room
+info:Stayed in November 2023
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted February 7, 2024
+msg:很好 舒服 二樓餐廳不錯
+----------------------------------------
+name:e‍p‍o‍k‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:6 Reviews
+rating:1
+posted:Posted August 5, 2023
+msg:酒店太老了！各項服務及五星都差很多！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted February 23, 2024
+msg:衞生：乾淨，位置好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in May 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 19, 2024
+msg:住宿條件很好
+----------------------------------------
+name:l‍e‍e‍b‍a‍i
+info:Standard Single Room
+info:Stayed in November 2023
+info:Business travelers
+info:6 Reviews
+rating:4
+posted:Posted January 9, 2024
+msg:房間較小的啊，設施還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted March 19, 2024
+msg:各方面性價比不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Friends
+info:1 Review
+rating:1
+posted:Posted April 3, 2023
+msg:顯示的是免費停車，結果是收費的，典型的欺騙消費者，差評。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in January 2024
+info:Solo travelers
+info:4 Reviews
+rating:4.5
+posted:Posted January 31, 2024
+msg:還不錯！早餐很豐盛
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted January 20, 2023
+msg:不錯 乾淨衞生 隔音很好 早飯也還可以 前台服務也很熱情 就是沒有充電樁
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 30, 2023
+msg:房間非常舒適，由其陽面房間，太陽曬的暖暖的。服務態度很好。停車方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:37 Reviews
+rating:5
+posted:Posted April 3, 2024
+msg:服務態度很好！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Single Room
+info:Stayed in October 2023
+info:Business travelers
+info:17 Reviews
+rating:3.2
+posted:Posted November 25, 2023
+msg:還可以吧，服務總體可以～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Other
+info:16 Reviews
+rating:1
+posted:Posted November 17, 2023
+msg:不好不好不好，差勁差勁差勁
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 25, 2024
+msg:服務很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted July 14, 2023
+msg:衞生很好，服務好，而且空調涼爽。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Family
+info:9 Reviews
+rating:4
+posted:Posted December 24, 2023
+msg:正好維修呢，水不行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2022
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted November 12, 2022
+msg:設施衞生房間都非常好，就是位置有點偏，正好趕上會議婚禮，熱熱鬧鬧，餐廳沒吃上飯有點遺憾，以後必須補上
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in September 2023
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted September 15, 2023
+msg:豪華大氣，服務質量超好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Booked for others
+info:9 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:服務挺周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted January 2, 2024
+msg:服務：各方面都很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted August 9, 2023
+msg:安靜衞生，環境好，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:服務：非常到位
+環境：還不錯
+----------------------------------------
+name:M‍e‍i‍l‍a‍m‍a‍z‍h‍a‍o‍g‍o‍u
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted June 15, 2023
+msg:晉中性價比很高的酒店 有免費游泳池
+----------------------------------------
+name:G‍a‍o‍s‍h‍a‍n‍g‍l‍i‍n‍g‍y‍u
+info:Business Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:29 Reviews
+rating:4
+posted:Posted April 17, 2023
+msg:房間環境很好，設施可以，但服務不太好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2024
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted February 2, 2024
+msg:不錯，挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in January 2024
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted March 13, 2024
+msg:房間乾淨整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:3 Reviews
+rating:1
+posted:Posted July 22, 2023
+msg:房間有味道，服務意識差。
+----------------------------------------
+name:T‍i‍a‍n‍c‍h‍e‍n‍g‍z‍u‍o‍d‍e‍_‍R‍a‍m‍o‍n
+info:Business Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 24, 2023
+msg:還不錯
+設施：設施較老
+
+環境：環境可以
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 4, 2022
+msg:🚗 交通：停車很方便 就是停車掃碼有點不方便😉
+
+🍃環境：奢華大氣的大酒店
+
+🔔服務：服務態度很好👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2023
+info:Other
+info:23 Reviews
+rating:4
+posted:Posted February 25, 2023
+msg:環境：酒店環境不錯
+服務：服務人員態度熱情
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted September 28, 2023
+msg:房間環境挺好，服務滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 29, 2023
+msg:整體還是比較滿意的！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Friends
+info:33 Reviews
+rating:5
+posted:Posted January 8, 2024
+msg:各方面都不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted June 24, 2023
+msg:房間寬敞明亮，服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in May 2022
+info:Business travelers
+info:15 Reviews
+rating:3.7
+posted:Posted May 20, 2022
+msg:贈送的果盤沒有 早餐前就把房卡交給大堂退房 然後落下了洗面奶 查房也不告之。服務一般。房間不錯 設施也不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Family
+info:20 Reviews
+rating:5
+posted:Posted September 26, 2023
+msg:非常好的一次閃住
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted July 24, 2023
+msg:各方面都非常滿意，對得起價格
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Booked for others
+info:4 Reviews
+rating:5
+posted:Posted April 27, 2023
+msg:房間挺好，服務不錯。有温泉。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted February 2, 2024
+msg:挺好的不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 8, 2022
+msg:入住了很多酒店，對這家酒店很滿意，前廳服務態度好，酒店乾淨整潔，浴區環境服務特別好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted January 29, 2023
+msg:環境好服務態度好，價格不貴，非常喜歡
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 27, 2023
+msg:環境不錯，早餐豐富
+----------------------------------------
+name:c‍h‍x‍8‍8‍8
+info:Business Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted September 26, 2023
+msg:乾淨衞生服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in September 2022
+info:Business travelers
+info:11 Reviews
+rating:4.5
+posted:Posted September 23, 2022
+msg:早餐不錯，房間有些小，空調沒開但風口一直嗡嗡嗡的聲音
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted April 16, 2023
+msg:服務：非常滿意，早餐可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted July 30, 2023
+msg:房間乾淨，位置很合適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in May 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 19, 2023
+msg:早餐和房間對得起價格
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in December 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 3, 2021
+msg:酒店檔次挺高，內有健身房，游泳館，洗浴，乾淨整潔，床也挺舒服，就是早餐有點晚，7點才開始，沒吃上就走了，前台接待也很熱情，讓人感覺很温暖，總體打九分
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in September 2023
+info:Business travelers
+info:11 Reviews
+rating:4
+posted:Posted September 24, 2023
+msg:滿意🈵🈵🈵🈵
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted December 23, 2022
+msg:酒店設施服務齊全，疫情期間一樣不少
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted September 15, 2023
+msg:房間不錯，乾淨的
+----------------------------------------
+name:N‍i‍a‍n‍-‍x‍i‍n‍l‍u‍l‍i‍c‍h‍e‍n‍g
+info:Business Room (2 beds)
+info:Stayed in December 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted December 29, 2022
+msg:總體還不錯！就是稍微裝修有點舊了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted January 27, 2023
+msg:非常不錯，下面的洗浴也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:30 Reviews
+rating:5
+posted:Posted February 19, 2023
+msg:設施挺好，衞生環境也不賴。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in August 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted August 10, 2023
+msg:一般般吧
+，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:13 Reviews
+rating:4.2
+posted:Posted May 16, 2023
+msg:好好好好好好好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted July 29, 2023
+msg:房間非常不錯👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 11, 2022
+msg:設施齊全   周邊環境不錯   房間乾淨整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in December 2022
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted March 20, 2023
+msg:位置很好，服務熱情❤。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in June 2022
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted July 1, 2022
+msg:酒店環境好 房間也很温馨 早餐種類豐富
+----------------------------------------
+name:C‍h‍a‍n‍c‍i‍c‍a‍d‍a
+info:Business Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:55 Reviews
+rating:5
+posted:Posted January 9, 2023
+msg:酒店是温泉水，很棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Friends
+info:18 Reviews
+rating:5
+posted:Posted May 15, 2023
+msg:酒店豪華乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 26, 2023
+msg:非常好一家酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2023
+info:Other
+info:4 Reviews
+rating:4.7
+posted:Posted January 25, 2023
+msg:酒店硬件設施不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in August 2022
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted August 24, 2022
+msg:已經連住三天了，一如既往好
+----------------------------------------
+name:W‍o‍e‍n‍p‍a‍i‍s‍e‍n‍b‍o‍g‍e‍l‍v‍h‍u‍i‍q‍i‍n‍g
+info:Business Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 26, 2023
+msg:不錯不錯的體驗
+----------------------------------------
+name:y‍u‍a‍n‍_‍Z‍z‍z
+info:Business Double Room
+info:Stayed in August 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted September 19, 2022
+msg:還不錯 就是設備相對老一些
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in October 2021
+info:Booked for others
+info:4 Reviews
+rating:5
+posted:Posted October 15, 2021
+msg:酒店環境不錯，距離動車站，飛機場都十分近 ，房間挺乾淨，服務也好，菜品也不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:37 Reviews
+rating:5
+posted:Posted April 2, 2023
+msg:不錯，還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 21, 2023
+msg:挺好的 很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted August 1, 2021
+msg:院子挺大 晚上燈光温馨
+客房是新裝修過得 還不錯 
+游泳館 健身房都有
+温泉就幾步遠
+旅遊 休閑好地方
+----------------------------------------
+name:H‍a‍h‍a‍s‍h‍a‍n‍g‍l‍u
+info:Standard Single Room
+info:Stayed in October 2022
+info:Business travelers
+info:37 Reviews
+rating:5
+posted:Posted November 21, 2022
+msg:非常滿意住了好多天
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2021
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted July 16, 2021
+msg:入住感覺還不錯，前台小姐姐挺熱情的，房間也乾淨，設備齊全，位置好找，交通也比較便利，離晉中高鐵站很近。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted March 15, 2023
+msg:好好好好好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 29, 2022
+msg:環境優美，服務好，特情切！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 1, 2023
+msg:早餐不錯。
+----------------------------------------
+name:�‍�‍T‍I‍M‍E‍�‍�‍�‍�
+info:Standard Single Room
+info:Stayed in August 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 5, 2022
+msg:乾淨整潔，環境很私密
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted November 19, 2022
+msg:不錯不錯不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in October 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 3, 2022
+msg:房間簡單大氣，住着舒適，很適合我們出來辦公或是度假！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2021
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted July 22, 2021
+msg:門口禮賓的小哥哥太帥了，簡直就是我男神，希望可以要到小哥哥微信
+----------------------------------------
+name:S‍h‍a‍n‍g‍a‍e‍r‍b‍e‍i‍s‍i‍s‍h‍e‍n‍g‍z‍h‍a‍n‍g‍e‍r
+info:Business Room (2 beds)
+info:Stayed in October 2021
+info:Family
+info:32 Reviews
+rating:5
+posted:Posted October 7, 2021
+msg:性價比很高，房間很大，很舒服，早餐沒吃不評價
+----------------------------------------
+name:W‍o‍x‍i‍n‍f‍e‍i‍x‍i‍a‍n‍g
+info:Business Room (2 beds)
+info:Stayed in December 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted December 21, 2021
+msg:服務很好，環境不錯，適合商務出行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 25, 2021
+msg:服務不錯，早餐挺好，停車方便，佔地面積挺大可以遛彎。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted July 23, 2021
+msg:酒店很乾凈，也很安靜，早餐是自助，很豐盛，停車場也大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted October 15, 2022
+msg:酒店真的很好
+----------------------------------------
+name:w‍x‍l‍1‍9‍8‍0‍0‍4‍3‍0
+info:Business Double Room
+info:Stayed in June 2022
+info:Other
+info:13 Reviews
+rating:2.2
+posted:Posted June 25, 2022
+msg:總之不好 不好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in October 2021
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted October 16, 2021
+msg:房間新裝修過，很新。夜燈很人性化
+----------------------------------------
+name:S‍u‍p‍p‍e‍r‍m‍e‍n‍g
+info:Business Suite
+info:Stayed in July 2022
+info:Couples
+info:17 Reviews
+rating:3
+posted:Posted July 24, 2022
+msg:真的很一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in October 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 26, 2021
+msg:環境很好   服務也很滿意
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in December 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 6, 2021
+msg:衞生好服務好免費升房啦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in December 2021
+info:Solo travelers
+info:1 Review
+rating:4
+posted:Posted December 25, 2021
+msg:環境不錯，乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2021
+info:Business travelers
+info:5 Reviews
+rating:2.7
+posted:Posted September 1, 2021
+msg:服務如此差的酒店居然還能活着
+----------------------------------------
+name:Y‍i‍q‍i‍l‍v‍x‍i‍n‍g‍5‍1‍8‍2
+info:Standard Single Room
+info:Stayed in October 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 10, 2022
+msg:非常好，就是有點偏僻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 19, 2021
+msg:服務態度非常好，滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2021
+info:Other
+info:1 Review
+rating:4
+posted:Posted August 4, 2021
+msg:環境不錯，停車便利，性價比高
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in October 2021
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted October 9, 2021
+msg:早餐豐富，服務周到！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in August 2021
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted August 12, 2021
+msg:美麗的萬豪美悦五星大酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in October 2021
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted October 24, 2021
+msg:環境不錯，服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in October 2021
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted October 5, 2021
+msg:環境不錯👍餐食可口
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted July 19, 2021
+msg:早餐很豐富，服務態度也好
+----------------------------------------
+name:B‍i‍n‍g‍k‍a‍f‍e‍i
+info:Business Room (2 beds)
+info:Stayed in September 2021
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted October 1, 2021
+msg:不錯，服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in September 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 2, 2021
+msg:環境不錯，性價比高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2021
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted December 10, 2021
+msg:原來應該是非常好的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in October 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 3, 2021
+msg:不錯，還是挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in December 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 11, 2021
+msg:非常滿意滿意
+----------------------------------------
+name:M‍a‍d‍u‍l‍a‍i‍y‍i‍n‍s‍i‍m‍a‍z‍h‍o‍n‍g
+info:Standard Single Room
+info:Stayed in August 2021
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted August 19, 2021
+msg:環境一流，服務一流
+----------------------------------------
+name:o‍n‍c‍e‍r
+info:Business Double Room
+info:Stayed in May 2021
+info:Family
+info:10 Reviews
+rating:3.2
+posted:Posted June 14, 2021
+msg:泳池還算可以，其他比較老舊
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in December 2021
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted March 13, 2022
+msg:環境很好！
+----------------------------------------
+name:K‍o‍n‍g‍q‍u‍e‍l‍i‍n‍g‍3‍6‍9
+info:Business Room (2 beds)
+info:Stayed in October 2021
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted October 17, 2021
+msg:環境還行就是
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Single Room
+info:Stayed in June 2021
+info:Friends
+info:58 Reviews
+rating:5
+posted:Posted October 28, 2021
+msg:環境還可以感覺不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in October 2021
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted October 19, 2021
+msg:服務還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Single Room
+info:Stayed in July 2021
+info:Other
+info:1 Review
+rating:4
+posted:Posted July 19, 2021
+msg:環境服務還行吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:6 Reviews
+rating:4
+posted:Posted October 25, 2021
+msg:環境還可以
+----------------------------------------
+name:B‍i‍k‍e‍l‍e‍i‍z‍u‍o‍s‍i
+info:Business Room (2 beds)
+info:Stayed in June 2021
+info:Business travelers
+info:31 Reviews
+rating:1.5
+posted:Posted August 19, 2021
+msg:不推薦的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2021
+info:Couples
+info:47 Reviews
+rating:4
+posted:Posted June 18, 2021
+msg:感覺一般般。
+----------------------------------------

@@ -1,0 +1,383 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in May 2024
+info:Business travelers
+info:14 Reviews
+rating:1
+posted:Posted May 30, 2024
+msg:The hotel is newly opened and is completely unprepared. It is marked as five diamonds on the platform, but it is only three diamonds. I hope the platform can strictly review and correct it in time.
+There are no other supporting facilities except the breakfast room and gym;
+The sheets and bedding were obviously not washed often enough, and I quickly became allergic when I put them on my body. I immediately changed hotels the next day.
+----------------------------------------
+name:A‍0‍0‍1‍4‍1‍4
+info:Classics Double Bed
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 25, 2024
+msg:The overall feeling of the hotel is pretty good. The guy Calvin is very enthusiastic and willing to provide all kinds of help! The location of the hotel is also very good, very convenient, and overall it is great. I will stay here again next time. Very satisfied!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in May 2024
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted May 22, 2024
+msg:This is my first time staying at the Four Points by Sheraton. I have heard of it before as a hotel brand owned by Marriott. The experience was really great.
+We arrived at the hotel at around 2 o'clock in the morning. We parked our car directly in the parking lot next to it, and then we went up to the lobby in the elevator. There was also a handsome guy in the lobby. I made a reservation in advance and got my room card within one minute after handing over my ID card. Service was provided with a smile throughout the process. It’s really convenient and allows me to go to sleep quickly👍
+When I woke up the next day and took a photo of the room, I found that the room was very atmospheric, with plenty of storage space and not too crowded. The overall design was very youthful, and you could even sit down and take a shower in the bathroom. Can you bear this? Then I went to the breakfast room to have breakfast. The variety was very rich among the hotels I have ever eaten in. The ingredients were fresh and the soy milk and coffee were delicious. It's a pity that I didn't have time to taste the craft beer. Friends who come to stay in the future should not miss it ~
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in May 2024
+info:Solo travelers
+info:6 Reviews
+rating:4.2
+posted:Posted May 21, 2024
+msg:The hotel service is very good, and Estella at the front desk provides excellent service. The breakfast is good, the room is clean and tidy, and there are few hardware elevators. I will choose Four Points Hotel next time I come here.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 15, 2024
+msg:The hotel is in a great location, very convenient and new. The front desk service is super good. It's very comfortable to live in. It's newly opened and has no smell at all. It's great. I stayed for a few more days!
+----------------------------------------
+name:B‍a‍w‍e‍i‍b‍u‍c‍h‍i‍t‍a‍n‍g
+info:Classics Double Bed
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 10, 2024
+msg:A very satisfying experience. Because I was not sure about the itinerary, I only booked a hotel for one day. When we wanted to extend our stay the next day, we found that the hotel was full and we had to wait for other people to check out before we could extend our stay. Calvin from the front office helped us deal with this problem in a timely manner. We also encountered some minor troubles during the period and solved them in time. Yes, very satisfied!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected King Room
+info:Stayed in May 2024
+info:Business travelers
+info:23 Reviews
+rating:2
+posted:Posted May 4, 2024
+msg:It was renovated from an old office building. The hotel lobby is too small, the elevator lobby and restaurant entrances and exits are too narrow, the garage entrance is too trashy, the elevator buttons don't light up, and the tone is too different from the Sheraton. The space and facilities in the room are satisfactory. The minibar and refrigerator are just decorations.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:4.8
+posted:Posted May 3, 2024
+msg:This is my first time staying at the Sheraton. The hotel is really good. The surrounding environment is quiet, the room is clean and hygienic, and the breakfast food is rich and hygienic. Since the hotel had just opened, the handsome guy at the front desk took the initiative to upgrade our room, which was great (as shown in the picture). The room price is very cost-effective. I will go there next time.
+----------------------------------------
+name:X‍i‍a‍o‍p‍a‍n‍g‍x‍i‍e‍l‍l
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:34 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:Stayed for two days in a row, everything was good
+----------------------------------------
+name:T‍i‍m‍e‍d‍a‍s‍h‍u
+info:Superior King Room
+info:Stayed in May 2024
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:The hotel is very new and the bedding is comfortable.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Classicsg King Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 30, 2024
+msg:The geographical conditions are excellent. There are many restaurants around. The hotel lobby is bright and the rooms are high-end and atmospheric.
+I will choose Sheraton next time
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 28, 2024
+msg:The room is very new, the equipment is good, the location is excellent, the first choice for business trips, there are many restaurants nearby, the transportation is convenient, the front desk is very professional, I will come again next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected King Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:3.5
+posted:Posted May 27, 2024
+msg:There is no phone signal in the room, the phone cannot be received or made, not even in the lobby. The smell of new decoration is still strong, and the quilt is too thick to cover it. The front desk was unprofessional and told me that she didn't want to leave a phone number. She also repeatedly emphasized that the phone number was for balabala. The overall experience was very bad.
+----------------------------------------
+name:X‍i‍e‍y‍e‍y‍u‍n‍x‍i‍a‍n‍g
+info:Classicsg King Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:4
+posted:Posted May 26, 2024
+msg:The breakfast was average. The water temperature was unstable and the shower was hot and cold. The service was very good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted May 24, 2024
+msg:The room was clean, tidy and quiet. The location is also very good. However, there are small bugs on the buns in the breakfast area and need to be improved.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in May 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 15, 2024
+msg:The hotel environment is clean and tidy, the service attitude is friendly, thank you Kathy at the front desk
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected King Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 15, 2024
+msg:The hotel just opened, I came to check in, it is really new, the facilities and equipment are very modern, the room has been upgraded, I am very grateful for the recommendation of the front desk lady, all aspects are very professional, I called to ask about the needs before check-in, the staff are very enthusiastic, they look very professional, and they will respond to the needs in time. Although the air conditioner made a little noise, it was handled immediately. I am very grateful for the reception of the front desk lady Kathy. I will choose this next time and recommend it to my friends. [Happy][Happy]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in May 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted May 8, 2024
+msg:I was quite satisfied with my stay in the room. The breakfast was a buffet that combined Chinese and Western styles. Jerry's service in the front office was very good. The room was very quiet. The view at night is better near the lake. It's a newly opened hotel. It's very new. I will come back next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in May 2024
+info:Other
+info:2 Reviews
+rating:3.7
+posted:Posted May 6, 2024
+msg:Overall it's good. The hotel is relatively new, but the temperature of the water from the shower is unstable and the experience of being hot and cold is not good.
+----------------------------------------
+name:W‍A‍N‍G‍J‍H‍O‍O
+info:Classics Double Bed
+info:Stayed in May 2024
+info:Family
+info:19 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:I booked my own room and thought it was good, so I booked it for others for two days. The room was clean, the breakfast was good, and the service attitude was OK.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in May 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:very satisfied. There are snacks at home, and the windows are opened in advance for ventilation. Good location and high cost performance (note: front office)
+----------------------------------------
+name:M‍u‍m‍a‍g‍e
+info:Selected King Room
+info:Stayed in May 2024
+info:Couples
+info:51 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:The location of the hotel is very good, parking is convenient, and the front desk service is very good. It only opened on May 1st. All facilities are new. The room does not have any peculiar smell and the breakfast is rich. The Global Center is right next to it, very convenient!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in May 2024
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:The hotel has just been renovated and the facilities are great👍The service is also very satisfying
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:The room is spacious and bright. The breakfast is delicious and rich.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 10, 2024
+msg:The facilities are great and the service is in place.
+----------------------------------------
+name:W‍a‍n‍g‍g‍u‍a‍n‍g‍f‍u‍J‍a‍c‍k‍W‍a‍n‍g
+info:Superior King Room
+info:Stayed in May 2024
+info:Business travelers
+info:30 Reviews
+rating:5
+posted:Posted May 27, 2024
+msg:Environmental facilities and services are good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:100 Reviews
+rating:4.5
+posted:Posted May 24, 2024
+msg:Not high-end enough, but the room is nice
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 12, 2024
+msg:Excellent service, comfortable room
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Classics Double Bed
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 16, 2024
+msg:Very satisfied with the feedback
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Classicsg King Room
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 28, 2024
+msg:The room was clean and quiet
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Classics Double Bed
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:Clean, hygienic and quiet￼
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 30, 2024
+msg:The hotel is super good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in May 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted May 10, 2024
+msg:Overall it's pretty good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:Newly renovated hotel
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in May 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 8, 2024
+msg:Quiet and satisfied.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 8, 2024
+msg:Very good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected King Room
+info:Stayed in May 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted June 4, 2024
+msg:這間新入住的酒店可說是非常賞心悅目。首先,酒店大堂設計時尚大氣,給人耳目一新的感覺。客房空間寬敞明亮,配有高級床品和先進的智能控制系統。浴室設備更是一流,有大浴缸和高壓花灑。酒店設有健身房、室內游泳池和多間餐廳,滿足各種娛樂需求。服務人員亦非常專業熱情,隨時準備提供協助。整體而言,這間酒店無論在設施設備還是服務品質上都達到了很高水準,給我一個舒適愉快的入住體驗。值得推薦給所有旅客。
+----------------------------------------
+name:G‍L‍~‍j‍i‍n‍g‍x‍i‍n‍g
+info:Superior King Room
+info:Stayed in June 2024
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted June 2, 2024
+msg:乾淨 大氣 上檔次 服務熱情 下次還來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 4, 2024
+msg:房間舒適不錯，床鋪軟硬適中～熱水稍有不穩前台小哥免費給升級加了兩天早餐～服務點贊，後續有需求還會入住
+----------------------------------------
+name:w‍i‍l‍l‍i‍m‍m‍b
+info:Selected King Room
+info:Stayed in June 2024
+info:Couples
+info:6 Reviews
+rating:4.5
+posted:Posted June 6, 2024
+msg:服務還是挺好的，唯一不足就是停車場停車不太好停。
+----------------------------------------
+name:D‍u‍a‍n‍g‍d‍u‍a‍n‍g
+info:Superior King Room
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 17, 2024
+msg:服務好，乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior King Room
+info:Stayed in May 2024
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted June 2, 2024
+msg:酒店新，挺滿意
+----------------------------------------

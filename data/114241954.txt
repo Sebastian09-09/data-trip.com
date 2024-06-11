@@ -1,0 +1,225 @@
+name:C‍o‍o‍k‍i‍e
+info:2-bed Room
+info:Stayed in June 2024
+info:Friends
+info:16 Reviews
+rating:5
+posted:Posted June 4, 2024
+msg:合肥必住的避世度假酒店必須是詩莉莉  
+環境：非常適合朋友出行 親子度假 繁忙的都市生活怎麼給自己抽空放空的好去處呀 距離世中心差不多45分鐘吧，不遠又安靜的一片凈土
+
+設施：早餐 酒吧 温泉 泳池皮划艇 棋牌室 圖書館 療愈 也太齊全了吧 
+
+服務：前台小哥哥很哇塞哦 二話不説免費給我們升級了房間  哈哈哈下次還去
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Cabin
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 31, 2024
+msg:非常不錯的體驗，很舒適，環境非常幽雅，選擇一個雨天過來真的很享受，聽着雨享受寧靜與愜意，度假村的服務人員很熱情也非常周到細緻，非常值得和家人一起過去度假休息，早餐和下午茶的品質也是很抗打的！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Cabin
+info:Stayed in June 2024
+info:Solo travelers
+info:10 Reviews
+rating:5
+posted:Posted June 2, 2024
+msg:房間寬敞，體驗感不錯，提供的物品都是高品質的，中餐的味道也不錯，特別是那個燒饃。這個地方還是很適合週末度假的，安靜，遠離城市喧囂和工作壓力，值得下次再來的地方。
+----------------------------------------
+name:L‍a‍n‍j‍i‍a‍n‍y‍u‍n
+info:Suite
+info:Stayed in April 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted April 28, 2024
+msg:酒店整體環境很棒，房間設施也較齊全，人員服務也很熱情，早餐和晚餐製作比較精緻，味道也很贊。酒店內親子活動，温泉，篝火晚會等活動也較為豐富，建議可適當延長活動時間，在增加一些親子體驗，畢竟除了酒店本身，周邊也沒其他娛樂休閑場地和設施。另外停車場也配套了快充及慢充設施！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Cabin
+info:Stayed in May 2024
+info:Friends
+info:18 Reviews
+rating:4
+posted:Posted May 4, 2024
+msg:攜程現在靠什麼攬客，價格比其他平台都貴，好在地方確實不錯，五一期間估計人手不夠，退房打掃不夠仔細，牆面、沙發、衞生間的一些污漬沒有清理乾淨。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+rating:5
+posted:Posted May 21, 2024
+msg:客房環境很好，餐廳的菜很好吃，前台小張服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in June 2024
+info:Other
+rating:5
+posted:Posted June 2, 2024
+msg:張蝶小姐姐很棒，推薦!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Cabin
+info:Stayed in March 2024
+info:Solo travelers
+info:14 Reviews
+rating:5
+posted:Posted March 23, 2024
+msg:環境很好，適合休假，管家張蝶，王婉晴服務態度很親切！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room
+info:Stayed in March 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted March 17, 2024
+msg:體驗不錯，喜歡寧靜。空氣不錯，環境好，屋內設計不錯，推薦
+----------------------------------------
+name:C‍a‍i‍j‍u‍d‍o‍n‍g‍l‍i‍x‍i‍a‍0
+info:Deluxe Queen Room
+info:Stayed in April 2024
+info:Couples
+info:18 Reviews
+rating:5
+posted:Posted April 10, 2024
+msg:荒野裏的度假村，環境設施不錯，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted April 8, 2024
+msg:很好，吃的也好，體驗高端
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room - 2-Bedroom, Courtyard-View
+info:Stayed in March 2024
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted March 24, 2024
+msg:好、非常好、環境優美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:4.5
+posted:Posted May 6, 2024
+msg:房間很大，整體環境不錯
+提建議：早餐種類少，且結束收餐時大廳並沒有幾桌，可以挨個問下客人是否加餐再收
+假期房價超過一千，需要泡澡袋被告知衹能免費一個？？？第一個就是因為質量太差破洞了
+----------------------------------------
+name:K‍u‍l‍a‍m‍a‍d‍i‍s‍i‍m‍a‍z‍h‍a‍o
+info:Cabin
+info:Stayed in February 2024
+info:Family
+info:11 Reviews
+rating:4.7
+posted:Posted February 27, 2024
+msg:整體還不錯吧！圍爐煮茶的瓜子有點走油了，不是啥大問題，但是還是細心些。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room
+info:Stayed in April 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted April 7, 2024
+msg:就是房間的地漏衞生間好像不漏水。這次住的浮嵐 其它沒毛病。
+----------------------------------------
+name:w‍u‍y‍i‍n
+info:Suite
+info:Stayed in May 2024
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted May 27, 2024
+msg:體驗很好，服務貼心，療愈好去處，安靜又有小驚喜。
+----------------------------------------
+name:D‍i‍q‍i‍u‍d‍e‍x‍i‍a‍o‍b‍i‍a‍o‍d‍i‍a‍n
+info:Cabin
+info:Stayed in May 2024
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:環境優美，清靜，遠離鬧市，休閑度假推薦
+----------------------------------------
+name:A‍l‍e‍x‍H‍u‍a‍n‍g‍a‍i‍l‍i‍s‍u
+info:2-bed Room
+info:Stayed in March 2024
+info:Family
+info:1 Review
+rating:3.2
+posted:Posted April 30, 2024
+msg:篝火晚會，確實糟糕。說的溫泉….真的也不敢領教
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in January 2024
+info:Other
+rating:5
+posted:Posted January 13, 2024
+msg:環境服務都很好，尤其是管家張蝶態度非常好服務很貼心。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:2.7
+posted:Posted April 8, 2024
+msg:對於民宿我衹想説管理水平永遠跟不上
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Cabin
+info:Stayed in April 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:房間很大很乾凈
+餐廳真心很好吃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Cabin
+info:Stayed in April 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted April 5, 2024
+msg:非常滿意，希望下次有機會再去
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room - 2-Bedroom, Courtyard-View (Double bed)
+info:Stayed in March 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted April 1, 2024
+msg:非常滿意，適合週末一家度假
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+rating:5
+posted:Posted June 1, 2024
+msg:非常好服務好乾凈衞生
+----------------------------------------
+name:R‍o‍n‍n‍a‍Z‍h‍u
+info:2-bed Room
+info:Stayed in February 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 9, 2024
+msg:家境很好，很棒的體驗！
+----------------------------------------

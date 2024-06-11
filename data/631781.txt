@@ -1,0 +1,390 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in October 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:I couldn't sleep after changing beds, but I slept very contentedly! !
+I was so moved that I almost cried😭
+
+Also, the hotel’s homemade yogurt is really delicious!
+
+If I come to Lanzhou again in the future, I will definitely stay here🫶
+----------------------------------------
+name:J‍u‍l‍i‍e‍ ‍D‍e‍n‍g
+info:2 Deluxe Standard Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 10, 2023
+msg:Very good hotel experience in Lanzhou. The hotel has a very good environment, close to attractions, and the staff have a strong sense of service. It really makes you feel at home. The room is very clean and tidy, with welcome fruits and special yogurt that is changed every day, as well as a large bottle of drinking water and a cute bunny towel. I will stay at this hotel again next time I come to Lanzhou. I hope they will get better and better~
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:2 Deluxe Standard Room
+info:Stayed in June 2023
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted July 1, 2023
+msg:Ningwozhuang Hotel is a place I have admired since I was a student at Lanzhou University. I will definitely stay in Ningwozhuang when I return to Lanzhou after many years. It is a geomantic treasure. It is close to Lanzhou University and not far from Waterwheel Park.
+----------------------------------------
+name:K‍u‍a‍i‍l‍e‍d‍e‍c‍h‍u‍s‍h‍i
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in May 2024
+info:Other
+info:46 Reviews
+rating:5
+posted:Posted June 3, 2024
+msg:寧卧莊是鬧市中的綠洲，園林式賓館。在蘭州旅遊的幾天裏，深感賓館的硬件和軟件都屬上乘，舒適度甚好。尤其是瓶裝礦泉水提供充足。在樓層走廊就可以任取。每天送的自製酸奶十分好吃。一號樓中歺廳的出品不錯，手抓羊肉和百合人蔘果連着幾頓飯都愛吃。出行也便捷，一兩分鐘都可以約到出租車。總之，這是一次非常滿意的住店體驗，值得推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2 Deluxe Standard Room
+info:Stayed in April 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted June 6, 2023
+msg:非常滿意的酒店，賓館環境十分優美，住店期間正值蘭州牡丹盛開時節，院子裏的牡丹園奼紫嫣紅爭奇鬥艷，古樹參天綠茵遍地，黃刺玫凌霄花在晴日陽光裏安靜的盛放。2號樓氣勢恢宏有宮殿似的氣派，房間更不必説，前台服務也很到位。強烈推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2 Deluxe Standard Room
+info:Stayed in April 2023
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted April 8, 2023
+msg:以往去蘭州一直想住住寧卧莊賓館，但由於各種原因都訂不上，這次從終於如願以償，入住後驚喜不斷，進入賓館大門映入眼簾的是盛開的迎春花，玉蘭花和鬱鬱葱葱的松樹，一片春意盎然的美景使人心曠神怡。賓館前台接待非常熱情。晚上回到房間有贈送的酸奶和水果，酒後吃點酸奶戒酒助睡眠，一次非常滿意的入住體驗。以後去蘭州住會繼續選寧卧莊賓館。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2 Deluxe Standard Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted September 21, 2023
+msg:床特別的舒服，還乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2 Deluxe Standard Room
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:很好很滿意，還住這個賓館，帶孩子很方便
+----------------------------------------
+name:x‍u‍l‍i‍n
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:96 Reviews
+rating:5
+posted:Posted October 22, 2023
+msg:房間寬敞，非常舒適。酒店位於市中心，環境很好，彷彿置身於一個大的公園，這在蘭州非常不容易。酒店早餐豐富，停車位多。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2 Deluxe Standard Room
+info:Stayed in October 2023
+info:Couples
+info:10 Reviews
+rating:5
+posted:Posted January 13, 2024
+msg:大堂特別氣派的！房間乾淨備品足，環境綠化都特別好，入住正逢銀杏葉黃的時候，院子裏特別好看
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2 Deluxe Standard Room
+info:Stayed in May 2024
+info:Family
+info:15 Reviews
+rating:4.5
+posted:Posted May 31, 2024
+msg:裝修一般，早餐也一般，服務也一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2 Deluxe Standard Room
+info:Stayed in November 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted November 30, 2023
+msg:非常好的酒店，就是外賣不能入內，那是不是讓保安拿前台？要有配套
+----------------------------------------
+name:L‍a‍n‍q‍i‍a‍o‍f‍e‍n‍g‍y‍u‍e
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in June 2022
+info:Family
+info:24 Reviews
+rating:5
+posted:Posted July 1, 2022
+msg:住過很多政府背景的酒店，覺得寧卧莊太值得表揚。首先，風景優美，房間衞生超好，入往時免費升級成套房，心情超好；其次特別大方送了1大桶＋6小瓶礦泉水，加上酸奶，晚上送的足診，豪氣！再次，前台解決問題快，想續訂升級房型很快答覆（雖然後麪因故未續住），各類問題諮詢解答也快。早餐的牛肉麪味道好，湯頭是這幾天在蘭州吃過的麪中最好的。挑幾個刺：1.所住2號樓前也許因為商務活動多，車得停很遠，不方便；2.早餐結束時間有點早
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2 Deluxe Standard Room
+info:Stayed in April 2024
+info:Business travelers
+info:121 Reviews
+rating:5
+posted:Posted May 11, 2024
+msg:房間乾淨整潔服務周到環境很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2 Deluxe Standard Room
+info:Stayed in September 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 20, 2023
+msg:乾淨整潔，寬敞舒適，尤其是早餐，種類特別豐富，味道非常不錯。
+----------------------------------------
+name:0‍0‍0‍0‍8‍2‍6‍0‍5
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in February 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted April 11, 2024
+msg:各方面服務都非常好！
+----------------------------------------
+name:S‍h‍e‍n‍g‍x‍i‍a‍o
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in May 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 18, 2022
+msg:服務周到，環境優美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in August 2023
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted August 7, 2023
+msg:除了價格貴，沒有不滿意的地方了，哈哈哈
+----------------------------------------
+name:X‍i‍a‍o‍f‍e‍n‍g‍r‍u‍y‍i
+info:2 Deluxe Standard Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 16, 2023
+msg:很好的，服務很好，下次還會選擇住這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:服務人員態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2 Deluxe Standard Room
+info:Stayed in February 2024
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted March 7, 2024
+msg:房好，服務好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2 Deluxe Standard Room
+info:Stayed in May 2024
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted May 26, 2024
+msg:請繼續保持
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in April 2023
+info:Couples
+info:65 Reviews
+rating:5
+posted:Posted June 7, 2023
+msg:環境優美，服務熱情。大堂經理服務特貼心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2 Deluxe Standard Room
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted April 9, 2023
+msg:設施有點舊，衞生不錯，環境非常好，服務好
+----------------------------------------
+name:D‍a‍y‍u‍t‍o‍u‍b‍a‍b‍a
+info:2 Deluxe Standard Room
+info:Stayed in July 2023
+info:Family
+info:53 Reviews
+rating:5
+posted:Posted July 10, 2023
+msg:反正來蘭州衹要能定到就住這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2 Deluxe Standard Room
+info:Stayed in May 2023
+info:Other
+info:18 Reviews
+rating:5
+posted:Posted May 14, 2023
+msg:環境優雅，服務周到熱情，早餐豐富。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2 Deluxe Standard Room
+info:Stayed in October 2023
+info:Other
+info:31 Reviews
+rating:5
+posted:Posted October 23, 2023
+msg:非常好非常好非常好
+----------------------------------------
+name:j‍e‍r‍e‍m‍y‍G
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:36 Reviews
+rating:5
+posted:Posted July 7, 2023
+msg:不錯的酒店，房間內配了泡腳桶，温馨。
+----------------------------------------
+name:6‍8‍0‍8‍0‍8‍p‍z
+info:2 Deluxe Standard Room
+info:Stayed in June 2023
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted June 12, 2023
+msg:房間很大，服務超五星級，貼心
+----------------------------------------
+name:A‍o‍s‍i‍l‍u‍x‍i‍a‍o‍h‍u‍o‍c‍h‍e
+info:2 Deluxe Standard Room
+info:Stayed in August 2023
+info:Family
+info:23 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:環境優美服務熱情周到
+----------------------------------------
+name:D‍o‍n‍g‍f‍a‍n‍g‍l‍o‍n‍g‍m‍a
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in March 2022
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted March 12, 2022
+msg:🧹衞生：
+🍃環境：
+🔔服務：
+【精品酒店】
+🧹衞生：
+🚗 交通：
+【人氣熱搜】
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 24, 2023
+msg:設施？衞生和服務均好
+----------------------------------------
+name:r‍a‍u‍l‍w‍s‍y
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in February 2023
+info:Solo travelers
+info:42 Reviews
+rating:5
+posted:Posted March 6, 2023
+msg:環境設施衞生都挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted April 24, 2023
+msg:庭院非常有特色
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in July 2023
+info:Other
+info:26 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:很好的酒店
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in October 2021
+info:Business travelers
+info:28 Reviews
+rating:5
+posted:Posted November 27, 2021
+msg:甘肅挺有名的接待賓館，有很大的院子。預訂的2號樓設施良好，晚上還贈送木盆和中葯泡腳，很有特色！早餐較為豐盛，推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 24, 2023
+msg:乾淨衞生服務貼心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2 Deluxe Standard Room
+info:Stayed in March 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted March 19, 2023
+msg:挺好的，繼續
+----------------------------------------
+name:F‍u‍l‍i‍a‍n‍g‍y‍e‍r‍e‍n‍w‍o‍x‍i‍n‍g
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in October 2021
+info:Friends
+info:51 Reviews
+rating:5
+posted:Posted October 7, 2021
+msg:酒店高端大氣服務也很好，衞生
+環境都很好，早餐很豐富。
+----------------------------------------
+name:Y‍u‍l‍i‍l‍i‍m‍s
+info:2 Deluxe Standard Room
+info:Stayed in October 2021
+info:Couples
+info:69 Reviews
+rating:5
+posted:Posted October 21, 2021
+msg:很不錯的酒店，環境、服務、設施等等都是一流的。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:No.2 Building Deluxe Standard Queen Room
+info:Stayed in September 2021
+info:Business travelers
+info:106 Reviews
+rating:5
+posted:Posted September 9, 2021
+msg:衞生環境真是太好啦。服務素質高。非常推薦！
+----------------------------------------
+name:C‍h‍a‍n‍g‍a‍n‍m‍e‍n‍g‍c‍h‍a‍n‍g‍j‍u‍n
+info:2 Deluxe Standard Room
+info:Stayed in October 2021
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted February 28, 2022
+msg:很好很舒適的國賓館
+----------------------------------------

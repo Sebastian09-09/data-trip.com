@@ -1,0 +1,4830 @@
+name:N‍i‍k
+info:Holiday Inn Superior Room
+info:Stayed in March 2024
+info:Business travelers
+info:5 Reviews
+rating:4.7
+posted:Posted March 15, 2024
+msg:Very neat clean hotel near airport snd train station. Nice friendly staff. Do not forget to have coffee in coffee lobby. Amazing stay i had.
+----------------------------------------
+name:K‍r‍i‍s‍t‍a
+info:Holiday Standard Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted June 21, 2023
+msg:Helpful and friendly staff. Great breakfast and comfortable room.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in May 2024
+info:Family
+info:37 Reviews
+rating:4.7
+posted:Posted May 10, 2024
+msg:The hotel is near Beishan Park, and behind it is a government reception area, which has a strong official a**osphere. The surrounding environment is open, and there is a nice forest.
+The front desk service is very good, communicate in advance, upgrade the room, and respond to any request.
+In comparison, the restaurant service is not so good, and it seems to be more eager to get off work and finish the day's work.
+----------------------------------------
+name:W‍a‍s‍a‍i‍c‍a‍i‍j‍i‍a‍o‍n‍i
+info:Holiday Superior Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 22, 2024
+msg:This is my third stay here. I am very satisfied. The room is very clean, the environment is good, and the service attitude is also very good.
+----------------------------------------
+name:L‍a‍o‍c‍a‍i‍n‍i‍a‍o‍e‍r‍h‍a‍o
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2024
+info:Family
+info:68 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:I stayed here when I went skiing in Hengdao. The room was nice, the breakfast was also good, and many tour groups also stayed here. It is worth recommending!
+----------------------------------------
+name:A‍i‍l‍v‍y‍o‍u‍a‍i‍l‍i‍u‍d‍a
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2024
+info:Solo travelers
+info:9 Reviews
+rating:5
+posted:Posted February 3, 2024
+msg:The room was nice, no odor, very clean. The bed was very comfortable, and each person had two pillows, one soft and one hard, suitable for different people. When taking a shower, the water in the bathroom heater was really powerful, and the water flow was really strong. I give it a thumbs up! I will stay at Holiday Inn again when I come to Mudanjiang next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:4.5
+posted:Posted January 22, 2024
+msg:The hotel is excellent. Be sure to take rooms with a park view. In the evening it looks simply wonderful.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in January 2024
+info:Family
+info:22 Reviews
+rating:5
+posted:Posted January 11, 2024
+msg:Stayed for a few days in a row, everything was very good, played in the hotel garden for 2 days and it was fun, it was convenient to go anywhere, the room was well heated, the waiter cleaned very promptly every day, the breakfast was very rich, and the hot dishes were different every day, which was really rare, 5 points!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in May 2024
+info:Family
+info:5 Reviews
+rating:4.6
+posted:Posted May 4, 2024
+msg:I have stayed here many times. I must stay at this hotel when I come to Mudanjiang. The hardware facilities are excellent. The lobby service is friendly and thoughtful. However, the breakfast service is average. I arrived at 9 o'clock for two consecutive days. There was not much food left. The waiters were chatting loudly. I asked the waiter for a napkin, but he threw it impatiently on my table. I took it out of my bag silently the next day. People in Mudanjiang say that we get up early here, and it is generally more popular to have breakfast at 7 o'clock.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted March 12, 2024
+msg:Great stay experience!!! ...
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:60 Reviews
+rating:5
+posted:Posted October 11, 2023
+msg:The hotel environment is very good, very high quality, 5-star standard. The room is clean and comfortable, and the big window is the colorful Wuhua Mountain in Beishan Park. The breakfast is good and parking is convenient.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in January 2024
+info:Family
+info:8 Reviews
+rating:4.5
+posted:Posted January 9, 2024
+msg:The room is clean and the lobby is grand
+----------------------------------------
+name:s‍a‍n‍d‍y‍x‍c
+info:Holiday Standard Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:15 Reviews
+rating:4
+posted:Posted October 5, 2023
+msg:On the way from Harbin to Jingbo Lake, I chose to stay in Mudanjiang for one night. I chose the Holiday Inn, where I usually stay. The hotel has a grand exterior and a decent room. The bedding is comfortable, with soft and hard pillows. The breakfast is not bad, with both Chinese and Western food.
+----------------------------------------
+name:d‍a‍z‍u‍g‍e
+info:Holiday Superior Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:48 Reviews
+rating:5
+posted:Posted April 12, 2024
+msg:I am an old customer. Every time I go to Mudanjiang on a business trip, I will choose to stay in this hotel. It has a superior geographical location and is an InterContinental hotel. I can check in with confidence. The front desk reception service is warm, especially considerate and attentive. The hotel pays attention to the customer's stay experience and turns on the heater in the room in advance so that guests can feel warm when they check in. The breakfast is rich. This is the best and most worthwhile hotel in Mudanjiang. Thanks to the front desk, customer service, and restaurant staff for providing customers with considerate, enthusiastic, and supreme service!
+----------------------------------------
+name:Z‍h‍a‍n‍g‍x‍i‍a‍o‍r‍o‍u
+info:Holiday Inn Superior Room
+info:Stayed in September 2023
+info:Family
+info:4 Reviews
+rating:4.5
+posted:Posted October 2, 2023
+msg:I came to Mudanjiang for National Day. When I checked in, the front desk of the hotel gave me small gifts and national flags, which was very appropriate.
+Service: The staff are very enthusiastic❤️ If there is a need, the front desk can solve it.
+Sanitation: The overall sanitation is not bad, after all, it is not a new hotel.
+Environment: The hotel has a parking lot🅿️, but when I come back at night, I basically park on both sides of the pool. Behind the hotel is Beishan Park, where you can get up early and take your children for a stroll and feed squirrels🐿️.
+Travel type: Snacks bought by the hotel, the price of dinner is still quite conscientious, suitable for parent-child travel, business, etc.
+Finally, I complain about the breakfast, which is really too ordinary. There are a lot of weddings held in the hotel during the National Day. I saw 7 or 8 weddings in two days.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in January 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted January 20, 2024
+msg:Extended stay, cheap price!
+----------------------------------------
+name:M‍a‍h‍u‍w‍a‍n‍g
+info:Holiday Superior Room (2 beds)
+info:Stayed in September 2023
+info:Couples
+info:70 Reviews
+rating:3.7
+posted:Posted September 20, 2023
+msg:The hotel is too old, the facilities are aging, the sofa looks dirty, there are mold spots on the bathroom countertop, the toilet seat looks defective, and what is particularly uncomfortable is that the bathroom mirror is heated, and it becomes very hot after staying in the bathroom for a while. It is worth mentioning that the breakfast is quite rich, and there is a large forest outside the hotel.
+----------------------------------------
+name:A‍i‍l‍v‍y‍o‍u‍d‍e‍h‍e‍i‍h‍e‍i
+info:Holiday Superior Room (2 beds)
+info:Stayed in September 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted September 13, 2023
+msg:This time I brought my child to experience the four-star brand Holiday Inn, which is under the InterContinental Group, the only international chain brand in Mudanjiang. The hotel is located at the foot of Beishan Park in Mudanjiang. The whole hotel is like a forest park, with pine trees and lawns for walking children. Although it has been open for more than ten years, the entire room facilities are still well maintained. The room can see the park. I booked a baby crib in advance. It is still a parent-child hotel. The bedding and service quality are still highly recommended. There is a gym and swimming pool. The gym is relatively new and not very crowded. The breakfast is average, but you can eat smoked chicken skin rolls, which is my favorite!
+----------------------------------------
+name:z‍j‍b‍o‍y‍j‍a‍z‍z
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted February 27, 2024
+msg:During the Spring Festival, my family visited relatives in Mudanjiang and stayed at the World Trade Holiday Hotel. The hotel was clean and tidy. The front desk reception was quick and easy to check in. In particular, the cleaning lady on the seventh floor was very hospitable and attentive. The breakfast in the restaurant was of various quality and very rich. I will stay at the World Trade Holiday Hotel again next time I come to Mudanjiang
+----------------------------------------
+name:Y‍i‍l‍u‍f‍e‍n‍g‍j‍i‍n‍g
+info:Holiday Inn Superior Room
+info:Stayed in July 2023
+info:Couples
+info:132 Reviews
+rating:4.7
+posted:Posted July 23, 2023
+msg:This is an old hotel with a good location. Beishan Park is nearby. The courtyard is well greened and quiet at night. Although the room facilities are not up to five-star standards (such as toiletries, disposable slippers, etc.), they are generally clean and hygienic. Breakfast is also available, and parking is available in the courtyard and underground garage.
+----------------------------------------
+name:s‍u‍p‍e‍r‍7‍4‍6‍6
+info:Holiday Inn Superior Room
+info:Stayed in July 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 13, 2023
+msg:Facilities: A bit old, no problem in using, the toilet was blocked for 2 minutes and someone came to fix it
+
+Hygiene: OK, no obvious problems found
+
+Environment: There is a forest in the yard, lush and green, the environment is very good, the scenery is very comfortable, the internal environment is worthy of its star rating, the gym closes at 9 o'clock, the breakfast is rich and tastes good, but there are fewer seats, and it is difficult to find a seat when there are many people
+Service: Check-in and check-out are fast, take-out needs to be delivered downstairs
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in June 2023
+info:Business travelers
+info:32 Reviews
+rating:2.5
+posted:Posted June 24, 2023
+msg:The sewer pipe leaked and I almost fell down. The air conditioner is a decoration, but the temperature was 28 degrees, which was hotter than outside. It was so hot that I woke up at night. You have to ask someone to open the small refrigerator separately, so what's the use of leaving it there? Overall, it is not as fast as Quanji Lifeng.
+----------------------------------------
+name:V‍i‍n‍i‍x
+info:Holiday Inn Superior Room
+info:Stayed in May 2023
+info:Friends
+info:62 Reviews
+rating:3.5
+posted:Posted May 21, 2023
+msg:The hotel is located in the north of the city, at the foot of Beishan. Since it is not in the central city, the surrounding area is not too busy. The hotel has a garden with good air.
+It has been an old store for decades, and the facilities are not well maintained, but they are still clean. There are basic breakfast varieties, but that's all.
+The biggest shortcoming is probably that the professional training of the staff has been neglected. Several times it felt like the aunts at the food stalls were serving the food.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2023
+info:Solo travelers
+info:52 Reviews
+rating:5
+posted:Posted July 30, 2023
+msg:As a language model AI assistant, I will help you write a satisfactory hotel review. Note that this is an example, you can adapt and extend it based on your experience.
+
+Title: Wonderful stay!
+
+Dear readers, it is my great honor to share my wonderful stay experience at XX Hotel. Here is my review of this hotel:
+
+First of all, I would like to commend the staff at the hotel. Whenever I need help or ask a question, they are always friendly and helpful. They took great care of me and my needs and made me feel valued and taken care of here. I really appreciate the professionalism and hospitality of the hotel staff.
+
+Second, the hotel facilities are excellent. My room was very clean, spacious, and simply and comfortably decorated. The bed is very comfortable and I can get enough rest every night. The bathroom amenities are also well stocked, complementing all my needs. Plus, the hotel's free Wi-Fi has a strong signal, making it easy for me to work and stay connected.
+
+The dining options at the hotel are also excellent. Breakfast offers a variety of options, whether it is traditional Chinese dim sum or western continental dishes, it can satisfy different tastes. The waiters at the restaurant are always helpful in advising me and making sure I have a delicious dining experience.
+
+Also, the location of the hotel is very convenient. It is located in the city center and there are many famous attractions and shopping areas nearby. Whether I wanted to visit the local tourist attractions or go shopping at the mall, it was easily accessible. There are also plenty of public transport options in the surrounding area for easy access to other places.
+
+All in all, I am very satisfied with my stay at XX Hotel. I was very impressed with the professional service of the hotel staff, the quality of the facilities and the convenient location. If you're planning a trip to the city for business or business, I highly recommend you consider staying at this hotel.
+
+Hope this review was helpful to you and have a nice trip!
+----------------------------------------
+name:D‍i‍n‍g‍d‍o‍n‍g‍d‍i‍n‍g‍d‍o‍n‍g‍m‍a‍m‍a
+info:Holiday Superior Room (2 beds)
+info:Stayed in March 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted March 5, 2024
+msg:房間很乾凈，特別謝謝打掃衞生的姐姐周淑萍，很暖心，因為帶孩子，姐姐馬上給拿熱風機，怕孩子第一次來東北冷，其他服務人都很好很熱情，下次還會來，環境好乾凈～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in May 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted May 14, 2024
+msg:入住當天進門保安就熱情指揮車輛停靠，前台服務員熱情迅速辦理入住手續。
+房間寬敞明亮，窗外山景養眼，特別是晚間山上的彩燈更加絢麗…
+晚餐服務員服務主動周到，菜品擺盤造型漂亮，味道可口…
+早餐服務員更加熱情，前台唐洪巖笑臉相迎引導安排座位，張丹主動詢問需求，親自送來咖啡紅茶…
+總之這次旅行入住世茂假日享受到了非常體貼入微的服務，有機會還會選擇世茂假日。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:20 Reviews
+rating:5
+posted:Posted May 28, 2024
+msg:酒店坐落於公園邊環境優美，服務員熱情周到，周淑平為我們打掃的房間乾淨整潔。早餐時沒有小米粥，聽説我想吃，服務員王慧珺特意給我從後廚端了一碗她們吃的。這些點滴給我們帶來了温暖。
+----------------------------------------
+name:c‍z‍1‍7‍7‍8‍6‍6
+info:Holiday Inn Superior Room
+info:Stayed in June 2024
+info:Solo travelers
+info:12 Reviews
+rating:5
+posted:Posted June 8, 2024
+msg:很好的酒店，價格也很好，服務態度很好！特別要表楊打掃房間衞生的服務員周女士，想客户之所想，儘量滿足顧客的需求。下次來牡丹江還會住世茂假日酒店！￼
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in February 2024
+info:Business travelers
+info:53 Reviews
+rating:5
+posted:Posted March 5, 2024
+msg:挺滿意的，前台熱情高效，專業！景色特別好，安靜，舒適！房間也很乾凈整潔，洗漱用品齊全，乾濕分離的衞生間設計很棒，淋浴水量也很大，空調也很給力，酒店距離各個景點也很近，打車開車都很方便！停車也是免費的，整體來説都很不錯，值得入住，以後有機會再來，性價比高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 28, 2023
+msg:酒店特別好，房間大氣舒適，房間安靜優雅，非常喜歡！
+洲際旗下的酒店真的是優質精品，房間和服務都非常好，貼心細緻，衞生方面也放心舒心。
+床鋪和枕頭很舒服。地理交通方便。
+工作人員都非常彬彬有禮、笑容親切、真誠熱忱！感覺洲際酒店就是這座城市温馨的新家！
+以後還會去不同城市的洲際酒店！非常贊！
+前廳部的所有工作人員非常好，細心耐心、無可挑剔！任經理美麗大方、笑容可親！這家酒店總體人員給人感覺形象好、氣質佳！大讚特贊酒店人文這一塊！！👍👍👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted September 10, 2023
+msg:哈哈離考場最近的酒店，前台小姐姐人美嘴甜，聲音悦耳，服務很好，基本上有求必應，走之前還送了小禮物，總體上感覺不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in May 2024
+info:Other
+info:25 Reviews
+rating:4.6
+posted:Posted May 11, 2024
+msg:除了設施太舊了，其他都挺好，枕頭是一軟一硬。早餐也比較豐富，就是補餐比較慢，建議水果可以切的小一點，那天切的塊太大了。
+----------------------------------------
+name:B‍e‍i‍b‍e‍i‍1‍2‍3‍4‍5‍6‍7‍8
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:96 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:酒店位於北山公園附近，有個大院子，院內綠化很好，有樹，有草坪，停車方便。酒店外觀很氣派，老牌連鎖酒店，服務規範，房間乾淨，晚上透過房間窗户，看到北山夜景，很漂亮。早餐也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in December 2023
+info:Solo travelers
+info:37 Reviews
+rating:2
+posted:Posted December 13, 2023
+msg:隔音效果極差！連續入住了兩晚，第一晚遇到了一個大媽團入住，我在房間裏面，晚上10點左右了，走廊過道還是有很大的走動敲門聲音，隔壁房間大聲交談聲，心裏想着，隔一天會好點吧，誰知道第二天還是一樣！第一是運氣不好遇到這幫大媽團入住，第二是酒店門隔音實在太差！本想着住這星級酒店會好點，房間軟硬件，或者入住人員檔次會高點，誰知道都不咋滴！在雪鄉遊玩結識一個驢友，就住附近維也納，一晚才100出頭還含早餐，綜合性價比高多了！後面要注意了，並不是價格越高星級越高體驗感就越好！
+
+真是見了鬼了，第二天一早6點多開始又吵雜起來，説話聲，走動聲，敲門聲，互相交談大聲喧嘩，連綿不絕！並且一直持續到8點左右，出遊N次，第一次遇到這麼差的體驗！
+
+酒店人員太不專業，應該集中把這個團的住到一起，把獨立的客人住到別的樓層！或者提醒他們注意不要影響其他客人，還有最主要還是酒店自身隔音太差，一塌糊塗！對不起攜程4鑽，根本不值5星級標準！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in January 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 4, 2024
+msg:入住十天 客服服務周淑平、齊桂艷、陳顏精心打掃客房 更換用品 在本人意外受傷後給予了許多幫助 讓我們感受到了家一樣的温暖 希望明年再次度假來到這裏 感受她們熱情的服務
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2023
+info:Family
+info:15 Reviews
+rating:4
+posted:Posted July 28, 2023
+msg:酒店位置很好，前台工作人員免費給升級的套房，環境很難説，設施比較老舊，應該是市裡還不錯的酒店，早餐還可以，算是驚喜。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:42 Reviews
+rating:5
+posted:Posted August 9, 2023
+msg:房間維護很不錯，可以看出在當地是個老牌酒店了，位置很好，早餐豐盛，晚餐單點也很好吃，非常滿意的入住體驗
+----------------------------------------
+name:N‍i‍c‍h‍e‍n‍g
+info:Holiday Superior Room (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted May 22, 2024
+msg:可能是當地唯一的星級連鎖酒店了，離火車站10分鐘車程，很方便，去市內也很近，酒店健身房設備比較齊全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:很滿意，環境舒適，出遊首選
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in May 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 10, 2023
+msg:酒店前台服務很好 快速辦理入住 帶好小孩給免費升級了，衹是升級的房間是套房 房間內與隔壁有一道門 隔音效果非常不好 隔壁房間早上五點多就起床洗澡，吹風機噪音很大，沒再睡着。當時入住後馬上提出擔心隔音問題 前台問我現在隔壁有聲音嗎，我説沒有 那是因為沒有人 後來半夜回來就有聲音。早飯一般 五一人比較多 亂哄哄。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:8 Reviews
+rating:4.2
+posted:Posted May 21, 2023
+msg:正好趕上五一假期的時候預訂的房間，總共在那住了三天，房間很大，雖然酒店不是很新，但是確實有高檔酒店的氣質，晚上看見窗外的夜景，真的是太漂亮了，第1天看到的時候感覺非常震撼。五一期間不到300元的價格還包括雙早，孩子小於12歲也沒收費。早餐也品種比較多，早餐的質量比全季好。
+----------------------------------------
+name:X‍i‍a‍o‍l‍i‍n
+info:Family Friendly Room
+info:Stayed in October 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 6, 2023
+msg:體驗不錯，孩子很喜歡
+----------------------------------------
+name:M‍i‍k‍e‍j‍o‍e‍y
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2024
+info:Family
+info:29 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:設施：還可以，中規中矩
+衞生：很乾凈
+環境：出行很方便，沒有那麼堵車！
+服務：還行，就是房間不太隔音，門口説話房間裏聽得很清楚
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 7, 2023
+msg:酒店不錯 有地下停車 緊鄰北山 可去北山晨練夜遊 都非常方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in October 2023
+info:Couples
+info:22 Reviews
+rating:4.7
+posted:Posted October 16, 2023
+msg:酒店比較大，本來網上預訂時就專門備註預留安靜的房間，前台服務也説了給我們安排安靜的房間，沒想到面山靠公園的房間本來很安靜，但是早上5點過就被廣場舞的音樂吵醒，一直持續1個小時6點半結束，這有點鬱悶。不過特別感謝酒店客房服務員周淑平，跟人説話笑起來有一對可愛的的酒窩。她整理房間還幫忙把衣服掛好，看我們喝水多又多贈送了兩瓶水，從客户角度想得很周到，非常熱心給我們介紹推薦牡丹江附近景點，是一位很熱心、細緻、主動、温暖的客服。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:2.5
+posted:Posted March 24, 2024
+msg:住宿過程還OK，訂單溝通和管理上太死板。
+攜程都可以協商，攜程幫忙跟酒店協商，酒店卻反饋不能協商。
+呵呵🙃
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in May 2023
+info:Solo travelers
+info:123 Reviews
+rating:4.7
+posted:Posted May 3, 2023
+msg:酒店離開火車站3/4公里，還算方便。環境很好，花園式酒店，不過泳池沒開放。酒店早餐相比其他五星差了點兒，沒有肉🥩，衹有蛋。但價格不貴。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in September 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted September 8, 2023
+msg:這次在假日酒店的入住，遇到了那麼多貼心的服務人員。我們在酒店的牡丹軒點菜，第一次遇到趙錦榮時，我沒有記住她的名字，我們當時不太會點，一遍一遍的詢問菜的做法和配料，她不厭其煩的一一回答。最後點到了老公愛吃的食物，老公決定多住一天，第二天我們又來到牡丹軒，吃到了想吃的食物，而且她還幫我們寄存了酒水，這時我才記住了她的名字！趙錦榮，一個貼心的好妹妹！謝謝！謝謝假日酒店！牡丹軒的菜品從味道到品質，都是我們在牡丹江吃到的最可口的飯菜！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in April 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted April 12, 2024
+msg:部分硬件設施有些陳舊，整體不錯。退房後前台的小孫還幫忙提醒遺忘在房間的東西並寄回，感謝。
+----------------------------------------
+name:C‍h‍a‍l‍i‍d‍a‍i‍w‍a‍n‍g
+info:Holiday Superior Room (Double bed)
+info:Stayed in August 2023
+info:Family
+info:39 Reviews
+rating:4.7
+posted:Posted August 14, 2023
+msg:安排到了一個婚房旁邊，大早上六點滿樓道都是人，隔音也不太好，説話好像在耳朵邊上，和前台反映了，説酒店也不知情，是客人私自把隔壁房間當做婚房，最後給送了兩份早餐，還説給換一間房，但吵都吵起來了換房也沒意義了，收拾收拾趕緊走算了，離店時又給打包贈送了一份水果。這種情況也是無妄之災。門口的保安人員需要加強一下培訓，沒有門僮可以理解，但好歹停車卸行李等人之類的事不能上來就説此處不能停車，哪怕委婉點提醒一下客人卸行李需不需要搭把手或者等的人需不需要幫忙去大堂裏解決下問題也是個服務業該説的話啊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in April 2024
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted April 11, 2024
+msg:設施：很好
+衞生：很好
+環境：很好
+服務：很好
+空調故障，給更換了房間，很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:牡丹江首屈一指的五星酒店，這麼住的很舒服！後面就是北山，環境風景一流！
+----------------------------------------
+name:L‍o‍o‍k‍l‍e‍f‍t‍l‍o‍o‍k‍r‍i‍g‍h‍t
+info:Holiday Superior Room (Double bed)
+info:Stayed in January 2023
+info:Friends
+info:15 Reviews
+rating:5
+posted:Posted January 26, 2023
+msg:旁邊就是北山公園，起來就能溜個彎。旁邊還有體育場，零下二十多度的天氣也擋不住廣場舞的熱情哈。
+感受最好的是地下車庫能到零上6度，大讚。難怪都停滿了。
+周邊走1公里內有很多好吃的。
+另外看地圖周邊被醫院環繞，感覺很有保障的樣子
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted July 27, 2023
+msg:疫情之後，再回故鄉，入住世貿，還是賓至如歸的感受。酒店地理位置卓越，靠近天然氧吧北山公園，早餐後出酒店大門左轉，沿路上山，金龍踏步，銀龍踏步，還有烈士紀念碑都是兒時最深刻的記憶。酒店佔地面積大，停車方便，綠化好，環境好。祝故鄉越來越好，祝世貿假日生意興隆。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 9, 2024
+msg:服務好！房間舒適，温馨。環境好，停車方便，有公園，早餐豐富，好吃，温度適宜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in June 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted June 26, 2023
+msg:房間寬敞，乾淨整潔
+----------------------------------------
+name:L‍u‍c‍a‍_‍d‍w
+info:Holiday Superior Room (Double bed)
+info:Stayed in April 2023
+info:Solo travelers
+info:36 Reviews
+rating:5
+posted:Posted April 21, 2023
+msg:酒店位置好，房間乾淨整潔，早餐美味可口，所有員工都是熱情周到，給酒店點贊。
+----------------------------------------
+name:z‍u‍o‍y‍p
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:18 Reviews
+rating:4.5
+posted:Posted July 29, 2023
+msg:酒店總體很好！一直是假日酒店的粉絲，服務很贊！背靠北山晚上很漂亮。但設施有些舊了，如房間的燈分控不合理。衞生方面做的不細心，有些地方出錯。另外趕上北山公園啤酒節，晚上高音喇叭太吵了，擾民。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2024
+info:Family
+info:65 Reviews
+rating:5
+posted:Posted March 1, 2024
+msg:服務非常好，因為孕婦還給升級了房間，酒店管理體系非常到位，服務人員也很熱情，
+----------------------------------------
+name:X‍i‍n‍s‍h‍a‍n‍g‍l‍v‍t‍u‍d‍e‍f‍e‍n‍g‍j‍i‍n‍g
+info:Holiday Inn Superior Room
+info:Stayed in February 2023
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted February 23, 2023
+msg:連續住了三天，酒店還給送了果盤，非常貼心，服務非常到位，又推薦了同事也來住，下次去牡丹江還會入住的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in March 2024
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted March 13, 2024
+msg:設施：齊全
+衞生：清潔阿姨很熱情，打掃得很乾凈
+環境：舒適，還會再來的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in August 2023
+info:Friends
+info:87 Reviews
+rating:5
+posted:Posted August 5, 2023
+msg:運氣好啊，升級了套房，房間大，床品優，洗護用品好！酒店的環境很好，周邊不吵不鬧，睡眠特別安穩!
+這家酒店的餐飲特別值得稱道，如有機會，一點要點餐試一下，好吃不貴!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted October 22, 2023
+msg:房間非常乾淨，尤其是衞生間非常乾淨，感覺非常舒服，送餐的飯菜非常好吃，超級好吃，低鹽低油，味道超級棒，非常滿意的一次體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in October 2023
+info:Couples
+info:43 Reviews
+rating:4
+posted:Posted October 31, 2023
+msg:房間還可以，我們住的標間在背面，面積不大，但感覺挺暖和的，早餐品種豐富，有停車場，停車方便，離市區不遠，去哪裡感覺都挺方便的。
+----------------------------------------
+name:E‍r‍i‍c‍ ‍q‍i‍l‍i‍n
+info:Holiday Superior Room (Double bed)
+info:Stayed in March 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 10, 2023
+msg:周邊環境好，靠近北山公園。內部環境也不錯。早餐品種多，服務員態度好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 17, 2024
+msg:服務很好，環境好，房間舒適，房間舒適，乾淨，整潔，停車場大，方便
+----------------------------------------
+name:3‍0‍0‍8‍9‍9‍2‍4‍6‍5
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2023
+info:Business travelers
+info:80 Reviews
+rating:4
+posted:Posted October 22, 2023
+msg:房間設施還算可以，環境不錯，早餐一般，衞生還算乾淨，比較安靜，價格還算可以，有健身房，房門鎖不太好，要用力才能鎖上
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in April 2024
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted April 16, 2024
+msg:房間乾淨，服務很好，還幫免費升級了房間，交通便利，空氣好
+----------------------------------------
+name:B‍e‍i‍j‍i‍a‍m‍o‍s‍h‍e‍n‍k‍e‍q‍i‍n‍g
+info:Holiday Superior Room (2 beds)
+info:Stayed in January 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted January 4, 2023
+msg:入住體驗非常好，前台非常有禮貌。房間很暖和，入住前大堂值班經理主動聯繫，確認相關入住喜好，房型。交通出行便利，值的選擇。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in December 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted December 25, 2023
+msg:衞生：酒店衞生不錯
+環境：酒店環境優雅
+服務：前台小姐姐和工作人員態度很好，賓至如歸
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Club Suite
+info:Stayed in May 2023
+info:Family
+info:4 Reviews
+rating:2.5
+posted:Posted May 2, 2023
+msg:世貿假日也是上星級的酒店，訂的行政套房，屋內設施陳舊，窗户透風，氣温低，還要用電暖風，屋裡除了給兩瓶免費的水，其他消費品啥也沒有，一共3個桌子。沒有一個腿不是活動的，一碰就要倒的感覺，客廳一個電視，卧室一個電視，衹有客廳能看。卧室那個電視就是擺設。早餐更是稀裏糊塗，五一本身人多，吃的東西沒了不及時補充，能吃的東西很少。酒店價格還比較高，體驗感很差。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 22, 2024
+msg:酒店很好，服務人員周淑萍熱情周到，下次還會選擇入住。
+----------------------------------------
+name:C‍h‍u‍a‍n‍y‍u‍e‍q‍i‍a‍n‍q‍i‍u
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:非常滿意，前台服務態度很好，小童房間還佈置了海底小眾隊的風格，房間很大，乾淨衞生，床睡的很舒服，以後還會來住。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 3, 2023
+msg:每次回來都會住的酒店，環境很好，服務也很到位，這次六樓這邊一位周姐姐的客房服務也非常好，很細心周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in June 2023
+info:Couples
+info:18 Reviews
+rating:4
+posted:Posted June 10, 2023
+msg:酒店挺安靜，離北山公園很近，晚上去溜達一下挺好的
+
+地下停車場出入口開關門不靈敏（不知道是不是人工操作的），而且地下停車場進電梯有幾節台階且沒有坡道，推車或者拉行李不太方便
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 13, 2022
+msg:北國風光，千里冰封，萬里雪飄，何其有幸，恰逢牡丹江的第一場雪。天氣寒冷抵擋不住前台的熱情，此次入住牡丹江世茂假日酒店體驗到了真正的賓至如歸，服務人員事無鉅細，素質高，很貼心，有水果贈送，客房乾淨，裝飾高級，不愧是品牌酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted March 7, 2024
+msg:酒店服務熱情 前台服務態度好 房間乾淨整潔 空氣好 交通方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2022
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted November 23, 2022
+msg:環境優雅，看起來一塵不染，這是給我的第一感覺。酒店的房間高端大氣上檔次，房間內物品擺放的整整齊齊，房間也打掃的乾乾淨淨，最主要的是服務人員也很熱情，方方面面都想的比較周到，酒店的餐廳也很乾凈整潔衞生，菜品齊全，味道也很好吃，前台小姐姐很熱情，客房服務員態度也很好，早餐的阿姨也很熱情，以後還會入住，店家還給沒吃午飯的人送來了水果點心，贊一個！
+----------------------------------------
+name:B‍e‍r‍K‍w‍u‍q‍i‍n‍g
+info:Holiday Superior Room (2 beds)
+info:Stayed in October 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 7, 2022
+msg:酒店的設計風格很特別，古色古香的很有韻味，房間簡約，乾淨，配的拖鞋和洗護用品都很高檔，早餐種類也挺多的，葷素搭配吃的很好，很滿意的一次入住體驗，服務超好，超出預期，有提供甜品，汽水，茶水還有水果，非常安靜，我平時睡覺很輕，但是在這裏完全聽不到樓道和隔壁的聲音，非常贊，離公交站很近很方便，旁邊的小路一直走，步行也就五分鐘，好吃的很多， 最後點贊一下最後一天幫忙辦理退房的短髮前台小姐姐，服務態度很好，很貼心 。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 5, 2022
+msg:真的算是牡丹江最大的酒店了，門面很大氣，辦完入住在酒店周圍溜達了一圈，綠化特別好，現在正好秋季，落葉特別美，我喜歡樓層高一點，幫我免費升級了房間，在房間就能看見外面的山，真的不錯，在市裡還能有這樣的風景真的很不錯，雖然現在有疫情，但是酒店的工作人員真的都很熱心，有問題真的都是盡心盡力幫我解決，真的很暖心，就衝著這樣的熱情和服務，以後有機會來我還會選擇這個酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in August 2023
+info:Other
+info:2 Reviews
+rating:4.7
+posted:Posted August 30, 2023
+msg:酒店整體環境很不錯，乾淨，衞生，房間設施有些稍陳舊，早餐也挺豐富，服務人員態度非常好，交通便利，離火車站及中心區域都很近。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 20, 2022
+msg:還算中規中矩的一個酒店，開業十多年了！裝修佈置還是以前的風格，但是酒店的環境很好，有獨立的院子，可以飯後散步這個還是很好的！大酒店大堂很商務風沒走奢華範，但是前台的服務很專業！包括門口的防疫也做得很好！前台辦理入住很快，態度也很好！但是等電梯等的蠻久不知道為什麼！房間的裝修依舊是十幾年前的風格，但是打掃的很乾凈，讓人很放心使用！洗手間的備品也很全，但是包裝可以再高大上一點就更好了！值得一提的是房間的床和枕頭我真是愛了！很舒服，我頸椎不好平時都是用蕎麥枕，但是酒店的枕頭我睡的很好，這個是別的本地酒店沒法比的！酒店有健身房，與其説是健身房更像是私人健身房的感覺！器械很全，蠻不錯！現在應該是網上搞活動，價格比之前看到的優惠了很多，酒店的院子停車很方便！性價比還算可以，畢竟是全國連鎖集團酒店，這個價格算是良心的了！如果酒店能裝修一下就更好了
+----------------------------------------
+name:M‍L‍J‍d‍a‍y‍u‍a‍n
+info:Holiday Inn Superior Room
+info:Stayed in February 2023
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted March 1, 2023
+msg:各方面專業的酒店，早餐乾淨，衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in May 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted May 17, 2024
+msg:前台和樓層服務都非常好！每次回來必入住這裏！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 17, 2022
+msg:位置好，環境好，衞生好！服務好！整體都不錯，房間乾淨，房間燈光助睡眠！性價比很高！對得起這個價格！值得推薦，下次有機會還會選擇！非要提一個意見的話那就是設施設備該更新了！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in January 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 28, 2024
+msg:房間舒適，已經入住很多天了，前台服務很好  以後還會嚐嚐來入住的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:房間乾淨，温度合適，
+
+環境：很好
+服務：周到
+設施：齊全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in December 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted December 24, 2023
+msg:房間設施齊全，服務人員態度熱情，衞生清掃及時徹底，適合旅遊、公務居住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 2, 2024
+msg:房間乾淨，熱水充足，隔音效果好，服務也到位。希望有機會再來～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 26, 2023
+msg:房間夠大、乾淨整潔、服務很好。帶孩子出門在外，買一盒雞蛋又不方便，跟酒店要了一顆雞蛋給孩子做輔食，很快就給送過來了。貼心
+----------------------------------------
+name:S‍i‍m‍o‍n‍y‍w‍p
+info:Holiday Superior Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted January 30, 2023
+msg:傳統豪華酒店的典範，一如既往地優秀
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in January 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted January 23, 2024
+msg:前台服務好，周到，乾淨，經濟實惠，
+設施：好，有公園，樓層好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:18 Reviews
+rating:4
+posted:Posted August 12, 2023
+msg:對酒店服務不滿意提了意見，反饋很快，解決方案也説的過去，表揚一下攜程，對老會員還是很負責任，從中協調，最後妥善解決
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Deluxe Room
+info:Stayed in May 2024
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted May 31, 2024
+msg:房間舒適，多次入住，經常來此酒店入住👍🏼
+----------------------------------------
+name:B‍e‍t‍s‍y‍7‍7‍7
+info:Holiday Inn Deluxe Room
+info:Stayed in March 2023
+info:Solo travelers
+info:1 Review
+rating:3.7
+posted:Posted March 24, 2023
+msg:設施不太好 小冰箱不製冷 🛁浴缸漏水有問題找人修好的 衞生間洗澡水會到地板，非常滑！一定要小心。
+服務也一般吧，入住的時候沒跟我説可以享受行政待遇（下午茶之類的），後來去問才知道
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted October 12, 2023
+msg:挺好，很暖和，酒店工作人員也很熱情，尤其前台小姐姐張穎，幫聯繫洗衣等，開發票，點贊
+----------------------------------------
+name:H‍i‍M‍i‍s‍s‍C
+info:Holiday Superior Room (Double bed)
+info:Stayed in August 2022
+info:Couples
+info:2 Reviews
+rating:3.2
+posted:Posted August 22, 2022
+msg:從小時候經常來散步的北山賓館到現在的世貿假日酒店，爸媽家門口的這個酒店對於我來説有着太多回憶。多年未回，這次回家領證就選擇住在這裏。
+但是很可惜，酒店內部環境衹能説普通、住了幾日衞生打掃的很潦草、冰箱要經過維修才能使用、早餐選擇太少食物一般、泳池和行政酒廊都不開、院子裏面很荒亂也沒有了曾經的清幽…衹有從窗户看向北山公園還是很賞心悦目的！
+唯一值得稱讚的是服務，雖然出了一點小插曲，但酒店前台及時溝通補救很用心～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in January 2024
+info:Family
+info:92 Reviews
+rating:5
+posted:Posted February 2, 2024
+msg:第一次入住，很貼心的升級到了小童主題房，贊，早餐也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:酒店大堂寬敞明亮，後面有個花園秋天的景色不錯 前台服務很好 態度親切 值得推薦 贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 1, 2024
+msg:衞生：乾淨
+服務：熱情
+環境：很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted May 10, 2024
+msg:老牌酒店這個價格夠用了，早餐一般，其他ok
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in November 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted November 28, 2023
+msg:前台服務很熱情，酒店房間很乾凈，早餐豐富，地理位置好，下次改來這住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in September 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted September 8, 2023
+msg:很不錯的入住體驗。酒店整體給人感覺簡潔乾淨，前台服務熱情周到，房間比較舒適，早餐營養全面。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Stayed in February 2024
+info:Family
+info:19 Reviews
+rating:5
+posted:Posted March 17, 2024
+msg:設施：好
+衞生：好
+環境：好
+服務：好
+交通：好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in April 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 5, 2023
+msg:五一帶孩子去玩，看上去偏僻但其實在北山腳下很方便去遊玩！牡丹江也不太大，去哪裡都方便，房間温暖向陽～保潔人員都熱情的打招呼！早飯很好吃～總之很
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in January 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted January 22, 2024
+msg:酒店住了五天，環境衞生很好，晚上很安靜，出行也方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted December 3, 2022
+msg:環境很好，房間收拾的很乾凈，服務人員也很親切到位，很滿意的一次入住體驗！會推薦朋友來哦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2024
+info:Business travelers
+info:28 Reviews
+rating:5
+posted:Posted April 19, 2024
+msg:設施：齊全
+衞生：乾淨
+環境：不錯
+服務：熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in August 2022
+info:Solo travelers
+info:8 Reviews
+rating:5
+posted:Posted August 11, 2022
+msg:這是兩天以後又回來住的，酒店的服務、早餐、衞生、環境、交通都很不錯。酒店的價格還是很公平的，性價比很高。酒店的位置緊鄰北山公園，空氣、環境都很不錯，可以作為回頭酒店之用矣！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in January 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted January 14, 2023
+msg:我定的是大床房。那個床很舒服。很快就睡著了。總之房間設施我是很滿意。大唐裝修很氣派。很漂亮。還有小吧枱。可以喝點茶水。前台真的很熱情。很周到。一開始忘記開發票。後來前台小姐姐。又幫忙開。又幫着郵寄。真的很感動。總之就是哪哪都好！！推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2022
+info:Solo travelers
+info:31 Reviews
+rating:4
+posted:Posted July 13, 2022
+msg:房間雖然是老式裝修，但實際住着很舒服，該有都有。
+
+但服務確實不像洲際集團的酒店，客房服務很一般，態度冷淡，而且要了蕎麥枕頭，抱進來竟放在門口行李架上。辦入住的前台服務雖然沒有過失，但和南方的洲際酒店明顯不一樣，很生澀。
+總之整體的感覺就是全體工作人員都不專業，早餐結束沒有逐一提醒收餐，大堂領取飲料工作人不在，來了也是一般的態度。房間沙發污垢明顯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Executive Room (2 beds)
+info:Stayed in December 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted January 2, 2024
+msg:入住體驗非常好 房間很暖和 服務也很熱情周到 推薦推薦
+----------------------------------------
+name:B‍a‍o‍r‍o‍n‍g
+info:Holiday Superior Room (Double bed)
+info:Stayed in April 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted April 19, 2023
+msg:設施：很多
+衞生：乾淨
+環境：很舒服
+服務：前台服務態度不錯👍優秀很開心。環境很好。對於這種酒店很推薦。這裏的環境很好。真心推薦。喜歡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:3.5
+posted:Posted August 7, 2023
+msg:前台服務熱情。設備中規中矩，空調異響。房間有一股怪味，餐廳打掃不是很乾凈。早餐種類較少。
+----------------------------------------
+name:D‍a‍n‍s‍h‍i‍y‍o‍u‍n‍a‍i‍h‍e
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:2.7
+posted:Posted October 15, 2023
+msg:城市等級在這，服務業的整體意識還不夠，本身也是個老牌酒店，整體需要大翻新，屬實夠不上5星標準
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in March 2024
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted March 15, 2024
+msg:房間很滿意，前台小姐姐態度非常熱情友善
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 16, 2023
+msg:酒店環境好，銷售李經理和前台徐曉宇熱情接待，整體感覺很好，酒店工作人員的服務態度一流。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted July 21, 2023
+msg:服務態度好。環境優美。房間舒適。温馨。環境好。早餐豐富美味。停車方便 停車場大。温度適宜。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 4, 2023
+msg:服務好，環境好，房間舒適，乾淨，早餐好吃，停車場大，交通方便，有公園，前台韓女士很專業
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:房間舒適寬敞，住着很舒服，乾淨整潔，大廳寬敞明亮，不愧是老牌星級酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:趕緊給我，整潔，設施好，位置好，停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in May 2023
+info:Business travelers
+info:1 Review
+rating:4
+posted:Posted May 22, 2023
+msg:房間不錯，就是比較老舊，
+衞生：入住時有小插曲 打電話給前台説明瞭一下，前台馬上就幫忙換了房間也升級了，總體來説不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:48 Reviews
+rating:5
+posted:Posted March 29, 2024
+msg:環境優美，服務熱情周到，房間舒適衞生
+----------------------------------------
+name:S‍t‍o‍n‍e‍z‍s‍q
+info:Holiday Superior Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:29 Reviews
+rating:5
+posted:Posted June 16, 2023
+msg:我在這個酒店入住了一個星期了，總的感覺賓館服務人員態度很好，有什麼要求都能儘量滿足，周圍環境也很不錯。
+----------------------------------------
+name:Z‍N‍6‍7‍7‍7
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2024
+info:Family
+info:18 Reviews
+rating:4.5
+posted:Posted February 14, 2024
+msg:服務很熱情，酒店設施有些老舊了，性價比高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in December 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 21, 2023
+msg:房間乾淨，整潔，空氣好，服務態度很好，交通便利，很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted October 12, 2023
+msg:前台服務熱情 、酒店寬敞明亮，房間舒適、交通便利、值得推薦、贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted July 8, 2023
+msg:服務很好，早餐豐富多彩，環境好，房間舒適，温馨，停車場大，停車方便，公園很近，温度適宜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in September 2023
+info:Couples
+info:10 Reviews
+rating:5
+posted:Posted September 21, 2023
+msg:已經是很多次入住了，前台給了我兩天的套餐價很划算，體驗整體不錯👌
+----------------------------------------
+name:j‍u‍l‍i‍a‍6‍2‍8
+info:Holiday Superior Room (Double bed)
+info:Stayed in August 2022
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted August 5, 2022
+msg:真的非常非常好，性價比太高了！！很舒服，也很喜歡、房間夠大！疫情快過去吧、讓我們開始愉快的度假⛱️
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in November 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 18, 2023
+msg:房間乾淨 服務態度好 酒店位置不錯 早餐不錯 推薦
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in September 2023
+info:Solo travelers
+info:1 Review
+rating:4.7
+posted:Posted October 3, 2023
+msg:房間各方面都可以，就是洗手間的鏡子是發熱的，房間因此非常熱。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in December 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted January 30, 2024
+msg:服務好，環境優美，房間乾淨，停車方便，整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted August 11, 2023
+msg:酒店環境很好，周邊就是北山公園，銷售部李經理和前台王經理特別熱情。[害羞]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in August 2023
+info:Other
+info:1 Review
+rating:4
+posted:Posted August 30, 2023
+msg:不要到攜程定，價格比到店貴多了，起碼貴100一晚，我就上當了受騙了。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in April 2023
+info:Business travelers
+info:3 Reviews
+rating:4.2
+posted:Posted April 5, 2023
+msg:馬桶有點堵，洗手池需要手動打開按鈕才會下水，這些小問題需要定期檢查才行啊！ 酒店真的夠安靜，下次回來還會來這邊住的。
+----------------------------------------
+name:M‍e‍i‍g‍u‍i‍x‍i‍n‍z‍o‍u‍b‍i‍a‍n‍s‍h‍i‍j‍i‍e
+info:Holiday Superior Room (Double bed)
+info:Stayed in December 2023
+info:Business travelers
+info:12 Reviews
+rating:4.5
+posted:Posted January 31, 2024
+msg:總體而言比較滿意，尤其預訂過程，前台也很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in January 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 1, 2024
+msg:旅途滿意，酒店地理位置不錯，服務挺好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in September 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted September 10, 2023
+msg:服務好，環境好，停車場大，早餐豐富多彩，房間舒適温馨，停車方便
+----------------------------------------
+name:H‍u‍a‍n‍x‍i‍n‍g‍s‍h‍i‍j‍i‍e
+info:Holiday Inn Superior Room
+info:Stayed in November 2023
+info:Solo travelers
+info:12 Reviews
+rating:5
+posted:Posted December 30, 2023
+msg:多次入住，十分滿意。餐廳點的飯菜味道非常不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in March 2023
+info:Business travelers
+info:2 Reviews
+rating:4.2
+posted:Posted May 23, 2023
+msg:服務人員，尤其是樓層服務員，給做衞生阿姨的工作點贊，做的又快又好，也很熱心，早餐還算可以，晚餐餐廳做的飯菜不好吃，品種少還很鹹
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 25, 2023
+msg:服務好，環境也好，停車方便，早餐豐富多彩，房間舒適乾淨整潔有公園
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 21, 2022
+msg:住着舒服，酒店周邊配套設施還算齊全！離機場和車站都很近，出行很方便！打車也很便宜！酒店服務很好，前台很熱情！細節方面做得很好！房間打掃的也很仔細！給人的感覺就是很乾凈，很放心！出門在外住着舒服是最重要！完全符合我的要求！是來牡丹江的不二選擇！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted December 13, 2022
+msg:作為四星酒店來説，價格很合理，物有所值，地理位置優越，周邊配套成熟，房間內設施中規中矩，性價比算很高，詳細説一下地理位置，酒店旁邊就是公園，散步很方便，願意爬山的話也可以爬山鍛鍊一下身體，不願意的話在酒店裡散散步空氣也是很好的，吃飯的選擇也很多，酒店外面臨近一條街都是飯店，東北菜，燒烤，烤肉，火鍋店配套完善，想吃什麼走過去就可以，離火車站打車的話也就十分鐘左右的路程，很方便，酒店外面也有公共自行車，酒店服務也很有耐心，有求必應，十分周到，有些細節做的很不錯，還贈送了小禮物，我們喜歡安靜，特意幫忙安排避開了團隊入住的樓層，很貼心的，我平時是不喜歡幫忙填評價的，但是這次真心覺得值得給一個好評，整體來説非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 4, 2022
+msg:酒店位置很方便，院子裏是個花園風景很好，冬天樹上都掛滿了雪，拍起照片很好看，如果是南方的朋友更加推薦入住了，酒店是星級，服務相當周到，配得上專業二字，酒店到市中心打車也就十幾分鍾，整體來説很方便，旁邊有條街有飯店超市，步行就可以到，酒店有地下停車場，停車很方便，前台服務很周到，熱情，彬彬有禮，辦理入住和退房速度都很快，體驗不錯，整體來説非常滿意，以後來了就住這裏了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 1, 2022
+msg:出差到了牡丹江，選擇了唯一一家全球連鎖酒店，酒店門臉很氣派，內部裝修是歐式風格的，房間內的燈光很温暖，我很喜歡暖色調的風格，讓人很安心，前台的小姐姐都好漂亮好温柔，特別喜歡聽她們説話的聲音，都特別熱情，真的讓人很安心，以後來都會選擇這裏的。😘😘
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 28, 2022
+msg:整體環境不錯！外觀大氣，員工服務很好！前台很專業，提前會問我需求！我是之前出差來的，一直住洲際的酒店，果然沒讓我失望！房間衞生很好，睡的很好！入住之後前台還送了我説過，可以説是服務的很貼心了！從頭到尾都很貼心！早餐也挺豐富的，很可口！早餐品種挺多的！總之是一次不錯的入住體驗！為酒店點贊👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:4.7
+posted:Posted February 5, 2024
+msg:房間不錯 院內很大 酒店環境很喜歡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 29, 2022
+msg:住的舒心、放心、安心！整體服務都很好，酒店環境也不錯，目測來看應該是開業很久了，裝修還是以前的風格！早餐味道也不錯，服務都很貼心！房間衞生、乾淨！打掃得很好！房間的燈光真的很助眠！平時在家經常熬夜，在這很早就入睡了，而且睡得很好，窗簾跟着光不會被陽光曬醒！前台服務也很貼心，小姐姐都很漂亮哦！下次有機會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 19, 2022
+msg:各方面都挺好，服務好，環境好！房間打掃的挺乾淨的！前台很體貼，貼心，還送了暖手的小禮物！位置也很好找，旁邊是北山公園，地標性建築！對得起這個價格！會推薦給朋友
+設施：非常好
+衞生：非常好
+環境：非常好
+服務：非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2022
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted December 16, 2022
+msg:自己出門旅遊，住宿要求就是乾淨，安全，安靜，世貿假期酒店滿足了我所有的要求，地點便利臨近北山公園但是很安靜，我一個人住的大床房採光特別好，前台小姐姐們都特別專業，熱心，還有免費的水果贈送，真是一個非常好的住宿體驗。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 26, 2022
+msg:住的安心！房間乾淨、衞生！前台服務好，停車方便！房間備品齊全，很適合出差人士選擇！床墊和枕頭都很助眠，餐廳的菜品也很可口！消費也不高，是不錯的選擇，不用出酒店很方便！很定型的商務酒店，各方面都很規範，沒有亂七八糟的！很安靜，很適合獨處，很有意境！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in September 2023
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted October 9, 2023
+msg:特別好！設施 衞生 環境 服務 餐食各方面都無可挑剔！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in October 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted December 7, 2022
+msg:酒店位置很好，交通便利，設施齊全，靠近北山公園，空氣很清新，晚上山景很漂亮。前台服務態度非常好，非常熱情，看帶小朋友來，還幫免費升級了小童房，孩子很喜歡。家庭出行選擇最適合。房間內乾淨整潔，還給加了加濕器很貼心，特別房間內的床品真的非常舒適，很喜歡。下次過來還會選擇這裏，值得推薦。
+----------------------------------------
+name:2‍0‍0‍8‍7‍0‍3‍8‍7‍0
+info:Holiday Standard Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:25 Reviews
+rating:4.5
+posted:Posted August 3, 2023
+msg:整體滿意，唯一不足是大清早窗外機器的轟鳴聲，5點就開始了，難以入睡。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in December 2022
+info:Business travelers
+info:2 Reviews
+rating:1
+posted:Posted December 16, 2022
+msg:太差了，一個三星的都不如，早餐也不好，晚上身體不舒服讓幫忙送個外賣，態度特別強硬，一點都不舒服，最多和150塊錢的酒店一樣，不會有下次了，夏威夷多香，何必來這。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 21, 2023
+msg:服務很好，前台很細心，服務態度很好，辦入住快，專業素質高，有禮品贈送 ，地下停車場很方便，房間乾淨，整潔，很推薦，下次還來住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted February 25, 2023
+msg:很滿意。服務很好。環境很好。衞生也乾淨。前台很專業。有要求都滿足。真開心能入住。早餐也好。有停車場。北山環境美。 視野好。
+----------------------------------------
+name:L‍u‍o‍y‍i‍s‍i‍m‍a‍y‍o‍u
+info:Holiday Superior Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:23 Reviews
+rating:4.7
+posted:Posted August 15, 2023
+msg:設施比較陳舊一些，房間有股味兒。服務很好，響應很及時，其它都很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in October 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted December 17, 2022
+msg:價格在市區不算貴，住宿環境都挺好的，服務態度特別規範，營業時間比較長，但是一點異味都沒有，值得推薦。交通特別便利，出租車，公交車，附近都有，晚上還可以去北山公園散步，再來牡丹江首選世貿假日酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 19, 2022
+msg:性價比很高的一家酒店，首先外觀就很喜歡，很大氣，再加上有自己的院子有一種度假村的感覺！市裡很少有這種帶院子的酒店，這也算是一個優勢吧，如果是夏天的話可以在院子裏散步，非常不錯！前台辦理入住也很專業，很快，沒有繁瑣的過程也不需要等待很長時間，到房間之後還送了我水果🍉！房間雖然不大但是應有盡有，衞生很好，朝向很好，很安靜！睡的很沉很舒服！早餐也很可口，總之物有所值了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Executive Room (Double bed)
+info:Stayed in December 2023
+info:Booked for others
+info:2 Reviews
+rating:5
+posted:Posted December 24, 2023
+msg:房間乾淨整潔，服務態度很好，設施齊全！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in October 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted December 13, 2022
+msg:房間採光很好，衞生搞的真不錯，足夠安靜，對於我這個睡眠質量不佳的人，已經非常友好了，酒店附近沒有鬧區，各方面設施也比較完善，距離公園，醫院，各種餐館都比較近，服務人員都事無鉅細，非常值得推薦。
+----------------------------------------
+name:L‍e‍f‍u‍m‍a‍m‍a
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2022
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted October 12, 2022
+msg:酒店外觀大氣，內部設施完善！前台服務熱情，專業！房間很乾凈！枕頭和床墊都很舒服！我睡眠質量不是很好但是在這睡的很好！酒店很安靜，打掃得也很乾凈！酒店的價格很優惠，性價比蠻高的！之前一直住在市中心，這次的體驗很好！下次還會光顧！
+----------------------------------------
+name:A‍o‍b‍e‍i‍w‍e‍i‍l‍i‍a‍i‍z‍h‍o‍u‍c‍h‍u‍s‍h‍a‍n
+info:Holiday Superior Room (2 beds)
+info:Stayed in March 2023
+info:Other
+info:11 Reviews
+rating:5
+posted:Posted March 12, 2023
+msg:酒店位於北山公園附近，出行便利。院內綠化好，停車方便。室內設施新，床上用品潔凈。早餐品種豐富，工作人員服務熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted September 20, 2023
+msg:服務好。好👌好
+衞生：好
+設施：好
+環境：好
+服務：好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2024
+info:Booked for others
+info:1 Review
+rating:4.2
+posted:Posted February 27, 2024
+msg:環境優美安靜，衞生很好，服務一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Deluxe Room
+info:Stayed in July 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 29, 2023
+msg:服務好，前台專業，熱情，周到，房間舒適，環境好，停車場大，交通方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted July 27, 2023
+msg:牡丹江世茂假日酒店位置好，服務好，環境好，房間舒適，温馨，停車場大
+----------------------------------------
+name:R‍i‍x‍i‍n‍g‍q‍i‍a‍n‍l‍i‍m‍u
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2024
+info:Family
+info:47 Reviews
+rating:4.7
+posted:Posted February 19, 2024
+msg:除了房間設施老了點，其他均不錯
+----------------------------------------
+name:e‍0‍0‍5‍5‍9‍1‍7‍5
+info:Holiday Superior Room (Double bed)
+info:Stayed in December 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted December 31, 2023
+msg:酒店很好，給我升級了行政樓層！點贊！
+----------------------------------------
+name:o‍u‍t‍d‍r‍i‍v‍e
+info:Holiday Superior Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted October 6, 2023
+msg:非常好的酒店，但房間內稍微有點舊了，總體還是不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted July 16, 2023
+msg:酒店各方面都很好，服務也可以的。房間寬敞明亮，清潔衞生，價格合理。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted July 14, 2023
+msg:對酒店服務很滿意！對攜程平台服務也很滿意！快速處理申請，感謝你們！
+----------------------------------------
+name:D‍a‍f‍e‍i‍h‍u‍l‍i
+info:Holiday Superior Room (Double bed)
+info:Stayed in June 2023
+info:Family
+info:36 Reviews
+rating:4
+posted:Posted June 18, 2023
+msg:早餐不評價了 七點去的，東西沒了就不加了   豆漿也就一桶   頭一次啊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 16, 2022
+msg:很大氣的酒店，符合我的要求！衹要是停車很方便！前台服務很好！房間乾淨、衞生！打掃得也很乾凈，早餐也還可以，很適合商務出差，酒店有會議室，大小都有，選擇性很多，下次但又有活動可以考慮下
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in February 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 18, 2024
+msg:非常滿意！舒適，下回還住這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in May 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 5, 2023
+msg:每次來牡丹江都住這裏，環境舒適，早餐豐富，停車方便。適合商務出差，朋友出遊，家庭旅行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted July 10, 2023
+msg:很好  很喜歡  
+環境：很乾凈  很衞生  服務好   前台好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:6 Reviews
+rating:4.2
+posted:Posted February 7, 2023
+msg:酒店位置可能在牡丹江比較偏，但是由於這也導致了周邊的環境比較安靜，服務不錯！但是看得出，很多設備已略顯老舊沒有更新！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in September 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 24, 2022
+msg:酒店位置安靜，全程服務很貼心！經濟舒適型酒店！服務很熱情，酒店院內環境很好，環境優美，房間雖談不上豪華但整潔乾淨，停車位也很充裕，停車方便！出差一直住這個酒店，酒店房間設施一般，但床很舒服，睡得不錯，整體滿意，旁邊有個公園，適合早上晨練，升級了房間，性價比還算可以，價格不貴！前台辦理很專業，很快！退房也很快，省去了不少等待時間！早餐也挺可口的，點個贊！棒！
+----------------------------------------
+name:r‍e‍n‍s‍i‍x‍i‍a‍o‍1‍9‍8‍7‍1‍8
+info:Holiday Inn Superior Room
+info:Stayed in September 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 14, 2022
+msg:非常好！我是一個比較挑剔的人，對住宿要求還算是比較高的！來之前一直在做攻略，在夏威夷和假日之間做抉擇！因為看到假日是洲際旗下的連鎖酒店。果斷選擇了牌子[調皮]！果然沒有讓我失望！到酒店門口的時候就被這環境吸引了！環境很不錯，停車簡直太方便了，地方很大，空氣也很好！有點像度假酒店的感覺，主要是很安靜，我最怕吵了！來之前我看酒店是2010年開業的，但是看着很新，不像是開業那麼久的酒店！辦理入住的過程也很舒心！熟悉的品牌感！前台很熱情，小姐姐長得也很好看哈哈！東北姑娘的熱情真不是吹的！很快辦理了入住手續。大堂經理送我到電梯口，很熱心！房間雖然不像大城市假日那麼大，但是很乾凈！房間的裝修應該是當時那個年代最好的了🤔，房間保養的很好！我最怕早上的陽光，喜歡睡覺的時候不被陽光晃醒，這個酒店完全達到了我的要求！遮光非常棒！我還有輕微的潔癖，對床上的用品要求比較高，世茂假日也是沒讓我失望，很乾凈，床和枕頭也很舒服，我喜歡睡蕎麥枕。給前台打電話房嫂很快就給我送到了，服務很及時。總體來説性價比很高！價格合理，服務一流！推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 15, 2022
+msg:很實在的一個酒店，入店大大的驚喜！從前台到客房的服務都
+是感覺賓至如歸，每位酒店的工作人員都非常大的熱情。酒店環境整潔，房間佈置簡潔温馨，服務周到，讓人無比舒心。給我營造了一種家的感覺。而且不得不説，我覺得服務很體貼，會主動告知早餐及位置。辦理入住後還會詢問對房間是否滿意。這個很難得。退房的時候同樣會再次很熱情的詢問我的入住體驗。前台很樂於提供幫助，有什麼問題都能耐心的幫助解決。酒店的位置很安靜，有個花園一樣的院子。停車很方便。後面還是個公園，步行很快就會到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in August 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted September 10, 2023
+msg:房屋乾淨整潔，隔音超級好，酒店環境很贊，服務人員態度好。
+----------------------------------------
+name:M‍e‍i‍l‍i‍y‍e‍z‍u‍o‍s‍i
+info:Holiday Inn Superior Room
+info:Stayed in May 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 14, 2024
+msg:老牌酒店了，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in May 2024
+info:Business travelers
+info:41 Reviews
+rating:5
+posted:Posted June 1, 2024
+msg:服務好，乾淨，舒適
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 29, 2024
+msg:房間乾淨，服務滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 19, 2023
+msg:前台服務很滿意，退房速度快，人很好
+衞生：很好
+環境：優秀
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:春節期間住了幾天，還不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted February 15, 2024
+msg:服務很好，酒店乾淨衞生。f
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 7, 2022
+msg:酒店位置很好找，下了高速口就是，提前打電話問了前台住酒店的防疫政策，前台熱心的幫忙解答了，大堂經理也在我到店前提前打電話聯繫我告知可以提前提供行程碼及核酸和牡疫控，這樣真的太棒了，提告了辦入住的效率而且節省了我們的時間，酒店院子很有秋天氣息，葉子落了，在院子裏溜達空氣很好，前台看到我喜歡朝山的房間給我免費升級了房間，可以看到山景，是我喜歡的，房間很乾凈，寬敞，服務人員都很熱情，會熱情的打招呼，還收到了贈送的果盤，入住簡直太貼心了，退房前一天還友情提示我們如果需要做核酸酒店附近就有個醫院可以做，很方便，希望下次再來還能入住這裏，謝謝工作人員，不愧是連鎖的品牌
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 21, 2023
+msg:設施很齊全，
+衞生：衞生很好，牡丹江很好的酒店，很推薦，服務也特別好，很喜歡，味道很好聞，
+----------------------------------------
+name:H‍a‍i‍z‍e‍h‍u‍s‍e‍n‍e‍h‍u‍a‍n‍g‍g‍o‍n‍g‍w‍a‍n‍g
+info:Holiday Inn Superior Room
+info:Stayed in October 2022
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted December 16, 2022
+msg:很專業的酒店，品牌連鎖，酒店整體服務還算不錯，環境好，房間住的很舒服！停車很方便，有自己的停車場，房間乾淨、整潔！位置安靜，交通方便！值得推薦，性價比很高
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in July 2023
+info:Couples
+info:18 Reviews
+rating:4
+posted:Posted July 27, 2023
+msg:設施：一般！
+衞生：一般！
+環境：較好！
+服務：很好！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in May 2024
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted May 9, 2024
+msg:環境不錯
+設施：好
+----------------------------------------
+name:L‍u‍m‍a‍n‍m‍a‍n‍q‍i‍x‍i‍u‍y‍u‍a‍n‍f‍e‍n
+info:Holiday Superior Room (Double bed)
+info:Stayed in August 2022
+info:Friends
+info:12 Reviews
+rating:5
+posted:Posted August 11, 2022
+msg:近日我們6人來牡丹江小住，在家提前就選擇來這裏住世貿假日酒店。在這裏小住期間，真正讓我們感受到家的温暖。客服部裴經理親自到房間及時為我們解決了我們提出的相關要求，酒店車隊的盧師傅為我們提供了在當地的旅遊諮詢，親自駕車給我們提供了非常周到熱情的服務，客服部周淑平在我們小住期間也給了我們很周到的服務。在此我們一併表示衷心的感謝。我們住期間期間很快樂，很温馨。謝謝！謝謝！下次來牡丹江我們還要來世貿假日酒店住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted February 25, 2023
+msg:在本市考試，選了離考點最近的一家酒店，很熱情地給升級了行政層！小城市算是服務最好的一家了，點贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in June 2024
+info:Business travelers
+info:4 Reviews
+rating:4
+posted:Posted June 2, 2024
+msg:電視等設施太老了
+----------------------------------------
+name:J‍u‍l‍v‍f‍u‍r‍e‍n
+info:Holiday Superior Room (Double bed)
+info:Stayed in June 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted June 15, 2023
+msg:房間乾淨，客房服務員細心，服務很好，交通便利，空氣好。很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2022
+info:Family
+info:5 Reviews
+rating:1.2
+posted:Posted August 30, 2022
+msg:這酒店很離譜，叫着假日，感覺洲際集團的牌子都要給你們做塌了，最大問題是衞生，感覺整個酒店就很臟，住了嚴重過敏出蕁麻疹，進酒店的時候門衞態度惡劣，毫無服務可言，前台也一個樣子，讓人體驗很差，價格倒是完全是假日酒店的價格一點都不便宜。這酒店體驗差到我以後直接拉黑所有假日酒店，不到逼不得已堅決不考慮的那種。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in April 2023
+info:Business travelers
+info:2 Reviews
+rating:3.5
+posted:Posted April 28, 2023
+msg:牡丹江算是比較大的酒店，讓人費解的事東北現在這個天氣，告訴我，沒有空調，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted July 29, 2023
+msg:都還不錯，就是難訂房，定了一天，第二天想住都續不上
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted July 25, 2023
+msg:很好，服務好，前台專業，有水果，早餐很好，很喜歡，
+----------------------------------------
+name:p‍e‍r‍s‍a‍h
+info:Holiday Inn Superior Room
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 4, 2023
+msg:服務好，環境好，房間舒適，乾淨 有公園 早餐好吃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in July 2023
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted July 22, 2023
+msg:服務周到，啥都很好，除了早餐餐品略少，但是味道不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in October 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted October 12, 2023
+msg:房間很好，服務很好。值得推薦。很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2023
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted July 20, 2023
+msg:酒店環境很好，周邊就是北山公園，尤其李經理特別熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 11, 2023
+msg:設施：好
+衞生：好
+衞生：好好好
+----------------------------------------
+name:K‍e‍y‍o‍u‍x‍u‍a‍n‍j‍i
+info:Holiday Superior Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted September 11, 2023
+msg:環境很好的酒店，早餐也不錯，第二次住了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in April 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted April 14, 2024
+msg:不錯的，環境條件好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in September 2023
+info:Business travelers
+info:68 Reviews
+rating:5
+posted:Posted October 20, 2023
+msg:設施：不錯
+
+服務：很好
+
+衞生：乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in December 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted February 2, 2024
+msg:很好，很不錯，下次還會來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted January 21, 2024
+msg:房間很不錯，服務也很好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in July 2022
+info:Booked for others
+info:9 Reviews
+rating:5
+posted:Posted October 5, 2022
+msg:環境優美，地理位置好，交通便利，房間舒適衞生，前台員工服務熱情，周到，細心解決問題，樂於提供各種幫助，早餐豐富，設施人性化，網絡速度快，網絡信號好，窗外風景好，房間擺件有設計有特色，價格適中，在市區不算貴，營業時間長但是房間保持狀態很好，也沒有異味，房間足夠安靜，無噪音對我這種睡眠質量要求很高的人很好，值得入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 2, 2023
+msg:服務
+設施：熱情服務，温經理安排了家庭房，周到
+----------------------------------------
+name:z‍y‍x‍2‍8
+info:Holiday Superior Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:5 Reviews
+rating:4.7
+posted:Posted October 2, 2023
+msg:設施比較舊了，另外一直沒有算IHG房晚
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in December 2023
+info:Couples
+info:8 Reviews
+rating:5
+posted:Posted December 29, 2023
+msg:空氣好，服務好，前台服務棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 4, 2022
+msg:酒店環境特別好，綠化也特別好，在住停車免費，有免費停車場，非常方便，前台服務非常細緻，非常熱情，安排的樓層我也很滿意，早餐自助形式，品種多樣很好，附近出行非常方便，還贈送了水果，真的很貼心，下次出行還會選擇住這裏，旁邊就有北山，空氣特別好，附近飯店也很多，吃東西也方便，下次還會來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in December 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted December 28, 2023
+msg:衞生：好
+服務：好
+有點熱
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in June 2022
+info:Friends
+info:17 Reviews
+rating:5
+posted:Posted July 1, 2022
+msg:房間屬實，房間很好，早餐好吃。種類豐富，免費停車，免費網絡，有水果，又有歡迎飲料，環境舒適，空氣很好，離公園進。遠離社區，房間屬實，房間很好，早餐好吃。種類豐富，免費停車，免費網絡，有水果，又有歡迎飲料，環境舒適，空氣很好，離公園進。遠離社區，。前台服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:酒店入住體驗感非常好服務態度到位如家般的温暖
+----------------------------------------
+name:W‍1‍3‍5
+info:Holiday Superior Room (Double bed)
+info:Stayed in January 2024
+info:Business travelers
+info:17 Reviews
+rating:4.7
+posted:Posted January 12, 2024
+msg:房間整體很好，電視小了點
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Deluxe Room
+info:Stayed in October 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:房間乾淨，服務好，空氣好，交通便利
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2023
+info:Booked for others
+info:4 Reviews
+rating:5
+posted:Posted July 25, 2023
+msg:很好，設施不錯，服務好，衞生很好，環境不錯。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in June 2022
+info:Business travelers
+rating:5
+posted:Posted July 17, 2022
+msg:第三次入住啦！ 🚗 交通：很方便， 🧹衞生：乾淨整潔 🍃環境：環境優美，！（出來旅遊就是放鬆心情的，一定要找個服務好的、環境安靜的酒店不是嗎）這裏的早餐豐盛！中餐廳的菜也不錯！ 🔔服務：服務那是更沒話説了，我體驗了很多酒店，牡丹江假日是最棒噠！服務真的非常周到，不需要等你開口，就提前問你有沒有需要的，這才是服務的宗旨！酒店比想象中還好，除了硬件老一些服務很出色，非常棒。前台辦理入住很速度，熱情，給我的房間視野極好，房間蠻大的窗户看出去使人心境平和寬廣，樓層很高很喜歡，房間特別滿意，風格很喜歡，也很大，設備齊全位置還不錯，景色也是很好的，景色真是值得一誇，夏天看山別有風味！空氣很好！床的舒適度也不錯，還是比較舒服的的。酒店主動幫助解決了早餐問題，早餐非常棒，種類很多，用餐環境也不錯，食物還算豐富，口味中規中矩，位置好，環境優美，服務態度很好！離市裡很近，吃飯逛街很方便，喜歡！位置很好找，樓下就是商公交站，想着坐公交欣賞一下城市沿街風景，前台很熱情的幫我換了零錢，很方便。 附近走路就能到北山公園、看看山景，美極了，酒店門口還有很多飯店。離市中心不遠，酒店的環境還是可以的，酒店標誌很醒目，附近的便利設施也不少。而且打車也很方便。大堂很寬闊，性價比很高，總體還是給全五星，非常不錯的酒店，方方面面都很滿意！出行便捷，很好，環境好，服務好，下次還會來住假日。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in January 2024
+info:Solo travelers
+info:24 Reviews
+rating:5
+posted:Posted January 20, 2024
+msg:老牌星級酒店，服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 21, 2023
+msg:服務態度好，環境好，房間大，乾淨衞生，早晨好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in June 2023
+info:Other
+info:27 Reviews
+rating:4.7
+posted:Posted June 28, 2023
+msg:房间設施及卫生很好，中餐馆服务人员态度欠佳待改进
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2022
+info:Couples
+info:10 Reviews
+rating:5
+posted:Posted August 2, 2022
+msg:房間舒適，透氣，整潔，乾淨，衞生，前台服務好，耐心，細心，貼心，早餐，好吃，美味，交通便利，早餐種類多，，房間乾淨，樓層舒適，有水果，有禮物，有飲料，免費停車，免費網絡，適合居住，公園近
+----------------------------------------
+name:Z‍h‍u‍z‍h‍u‍7‍1‍9‍9
+info:Holiday Standard Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 25, 2023
+msg:房間很滿意，已經入住很多天，房間很舒適
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in June 2023
+info:Business travelers
+info:4 Reviews
+rating:3.7
+posted:Posted June 24, 2023
+msg:服務人員水平能力一般，接待旅行團，業務還不熟練。
+----------------------------------------
+name:L‍a‍n‍g‍f‍a‍n‍g
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Couples
+info:51 Reviews
+rating:5
+posted:Posted July 5, 2023
+msg:在北山公園下面，環境不錯，衞生條件和設施都不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in December 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 28, 2022
+msg:設施：好，衞生很好，服務很不錯，很周到，很貼心，喜歡這裏，設施齊全，前台很專業，很喜歡，推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in December 2021
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted December 28, 2021
+msg:很nice的酒店，衞生也很好，主要工作人員很有素質和耐心，搞錯了日期也很快的就幫我解決了，十分感謝。入住很舒心，希望之後的出差考試都可以在這附近的學校還會再選擇世茂的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in September 2022
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted September 9, 2022
+msg:服務好，熱情，周到，專業，人性化管理，房間舒適，温馨，環境好，乾淨，整潔，早餐豐富，好吃，停車場大，方便，管理很到位，推薦，環境很美，公園很
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2023
+info:Solo travelers
+info:44 Reviews
+rating:5
+posted:Posted July 14, 2023
+msg:房間乾淨整潔 餐食標準衞生乾淨 整體感覺良好
+----------------------------------------
+name:L‍e‍e‍2‍0
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2023
+info:Business travelers
+info:71 Reviews
+rating:5
+posted:Posted October 19, 2023
+msg:十一期間房源緊張，不過入駐感很好
+----------------------------------------
+name:a‍i‍t‍h‍i‍n‍e‍y
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2022
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted July 21, 2022
+msg:，酒店服務特別人性化，服務好，熱情，周到，細心，耐心，專業，早餐好吃，豐富，房間舒適，温馨，温度適宜，環境比較好，，停車場大，方便，服務細緻，有水果送，態度特別好，推薦
+----------------------------------------
+name:K‍A‍S‍l‍a‍o‍g‍e
+info:Holiday Standard Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:36 Reviews
+rating:5
+posted:Posted March 27, 2024
+msg:每次去牡丹江都住在這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:4
+posted:Posted September 16, 2023
+msg:衞生：乾淨
+服務：周到
+設施：不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in June 2023
+info:Family
+info:22 Reviews
+rating:5
+posted:Posted June 25, 2023
+msg:設施：齊全
+衞生：較好
+環境：較好
+服務：較好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in August 2022
+info:Business travelers
+info:9 Reviews
+rating:3.7
+posted:Posted August 30, 2022
+msg:這個酒店太老舊了，怎麼也是個五星級酒店啊，裏面的東西和十年前的一樣。房間格局和佈置也就那個樣。雖然服務還過得去。但硬件設備太一般了。不會再考慮了
+----------------------------------------
+name:L‍i‍n‍h‍a‍i‍x‍u‍e‍y‍u‍a‍n
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted July 18, 2022
+msg:房間舒適，乾淨，整潔，環境優美，早餐好吃，種類豐富，有停車場，免費網絡，免費停車，免費飲品，前台服務好，有耐心，細心，貼心，下次還會再來入住，環境優美，安靜，離公園近
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in January 2024
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted April 5, 2024
+msg:老酒店了，一直很好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 10, 2024
+msg:房間乾淨，服務熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in December 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted December 27, 2022
+msg:挺好的，安靜舒適，就是房間內中央空調好響....外面的停車場地的雪清理的不及時，總體不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted November 14, 2022
+msg:房間很乾凈，前台工作人員很熱情，客房阿姨服務也很好，讓人感覺很親切。房間對着山 景色也很好，旁邊就是公園，空氣很好👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted February 18, 2024
+msg:乾淨衞生，服務熱情
+----------------------------------------
+name:S‍h‍a‍n‍g‍s‍h‍a‍n‍r‍u‍o‍s‍h‍u‍i
+info:Holiday Inn Superior Room
+info:Stayed in August 2023
+info:Other
+info:18 Reviews
+rating:5
+posted:Posted August 20, 2023
+msg:很好，非常棒。趕上了開會，熱鬧的很。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in November 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted November 9, 2023
+msg:房間住宿體驗很好，乾淨舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in March 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted March 15, 2024
+msg:以前住過。好評！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:32 Reviews
+rating:4.2
+posted:Posted July 30, 2023
+msg:有蚊子、有蚊子、有蚊子…太折磨了，差評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:1
+posted:Posted June 28, 2023
+msg:房間設施舊，前台服務差，位置偏僻，能力較差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 18, 2022
+msg:房間舒適，整潔，乾淨，環境優美，前台服務很好，專業，有耐心，早班好吃，種類豐富，免費停車，免費網絡，離公園近，出行便利，服務人員專業，房間安靜，適合休息，
+----------------------------------------
+name:A‍o‍t‍e‍l‍a‍n‍z‍i‍x‍u‍n‍y‍u
+info:Holiday Inn Superior Room
+info:Stayed in April 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted June 2, 2023
+msg:地點好，緊鄰萬達，衞生好，設施不錯，環境不錯，服務不錯
+----------------------------------------
+name:Z‍h‍e‍n‍g‍y‍i‍w‍e‍n‍c‍h‍e‍n‍z‍h‍e‍n‍y‍u
+info:Holiday Inn Deluxe Room
+info:Stayed in August 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted September 2, 2023
+msg:很滿意，下次來牡丹江還會住這裏！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:非常乾淨，而且服務態度非常好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in June 2022
+info:Business travelers
+info:14 Reviews
+rating:4
+posted:Posted August 12, 2022
+msg:還不錯，每次來第二故鄉牡丹江都會住北山假日酒店，但是説實話酒店稍微有點兒舊了，這兩年疫情原因人少，行政酒廊都沒有開放。如果服務員再熱情一些，服務再好一點就更好了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted May 4, 2023
+msg:很滿意的客房體驗，五一假期客流劇增，但都有條不紊。
+----------------------------------------
+name:w‍a‍t‍8‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in June 2023
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted June 5, 2023
+msg:不錯不錯，特別是離北山公園近，公園值得一去。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 12, 2023
+msg:服務號 前台很熱心，房間還贈送了水果。
+----------------------------------------
+name:p‍h‍y‍l‍l‍i‍s‍6‍7‍1‍2
+info:Holiday Standard Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted October 13, 2023
+msg:前台小姐姐給免費升級的親子房！特別棒
+----------------------------------------
+name:S‍i‍f‍a‍j‍i‍a‍n‍d‍i‍n‍g
+info:Holiday Superior Room (Double bed)
+info:Stayed in November 2023
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:環境不錯，衞生條件好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in May 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:酒店位置很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2022
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted July 31, 2022
+msg:服務好，熱情，周到，細心，專業，人性化管理，房間舒適，温馨，乾淨，衞生，早餐豐富，好吃，停車場大，方便，推薦，有水果送，温度適宜，環境好
+----------------------------------------
+name:Z‍a‍i‍w‍u‍n‍i‍a‍n‍1‍3‍1‍4
+info:Holiday Superior Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:3 Reviews
+rating:1
+posted:Posted August 7, 2022
+msg:前台如同火車站售票員，門口迎賓如同小區保安，大堂經理如同洗浴中心領班，餐廳服務員如同菜市場大媽，房間如同七天如家，好一個五星級酒店👎
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 4, 2022
+msg:服務好，熱情，周到。細心，耐心，專業，房間舒適，温馨，乾淨，停車場大，方便。早餐豐富，好吃，有水果送，人性化管理，很好，很温馨，有公園
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in August 2023
+info:Solo travelers
+info:38 Reviews
+rating:5
+posted:Posted August 29, 2023
+msg:服務很好，早餐很棒，環境優美。
+----------------------------------------
+name:H‍e‍l‍o‍n‍g‍y‍u‍a‍n‍c‍a‍n
+info:Holiday Superior Room (Double bed)
+info:Stayed in June 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted June 24, 2023
+msg:早餐不錯，就是房間有點小，不過也夠用。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in August 2022
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted August 12, 2022
+msg:來牡丹江每次都入住此家酒店，酒店服務態度好，床上用品乾淨舒適，早餐挺豐盛的，酒店後面就是北山公園，交通方便，是旅行住宿的首選。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in November 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 16, 2023
+msg:入住感受不錯（^.^）
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 18, 2022
+msg:房間舒適，整潔，乾淨，前台服務好，有禮貌，有耐心，前台人員很專業，有水果，有禮物，有飲品，免費停車，免費網絡，早餐好吃，種類豐富，很多，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in August 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted August 9, 2022
+msg:一切都很好。很喜歡。服務好。很周到。喜歡這裏的環境。早餐好吃。前台很專業 可以説是很喜歡。推薦。停車 方便。免費水果。衞生好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in November 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted November 8, 2023
+msg:服務很好 房間也很乾凈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:12 Reviews
+rating:3.2
+posted:Posted March 3, 2024
+msg:房間隔音不太好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in August 2023
+info:Couples
+info:39 Reviews
+rating:5
+posted:Posted August 31, 2023
+msg:除了空調有點不美麗其他都OK
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in April 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted April 16, 2023
+msg:設施：較好
+衞生：較好
+環境：較好
+服務：較好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted September 15, 2023
+msg:房間很好，很安靜，推薦！！
+----------------------------------------
+name:H‍o‍n‍g‍f‍e‍i‍n‍a‍f‍u‍j‍i‍d‍o‍n‍g‍x‍i
+info:Holiday Superior Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:57 Reviews
+rating:5
+posted:Posted February 25, 2023
+msg:在城市北側，不過離市中心也不遠，有較大的室外停車場。房間也很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in August 2023
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:很高檔，很乾凈，很用心，贈水果
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 1, 2022
+msg:酒店主動送迎賓水果，對於房間打掃的很乾凈。而且能夠提前給了額外的枕頭，室內温度調解的也很好。另外，能夠主動告訴當地美事。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in March 2022
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted March 29, 2022
+msg:讓人住着心曠神怡的酒店，周圍的空氣很好，這個季節很適合飯後散步或者晨練，酒店有自己的院子，很安靜，很方便，停車很方便，地方充足，酒店的設計也很大氣，大堂寬敞，明亮，有獨特的香味，前台很有禮貌，訓練有素，很專業！也很注重和我的感受！房間舒適，乾淨，可以安慰的睡個好覺，打掃房間的大姐們也很和藹，住在這裏真的有種賓至如歸的感覺，房間可以看出來是老的裝修風格但是各個細節還是做的很不錯的，開了這麼久的酒店服務可以做到這樣也是很不錯的了👍！房間是含早餐的，性價比這一點就很不錯，早餐搭配很健康，適合我的口味，！酒店的防疫做的還是很不錯的，門口的保安盡職盡責，也很有禮貌，總體來説我對這家酒店的印象很不錯，下次再來牡丹江還會選擇這裏，強烈推薦！
+----------------------------------------
+name:H‍a‍t‍i‍a‍n‍t‍i‍a‍n
+info:Holiday Superior Room (Double bed)
+info:Stayed in January 2023
+info:Business travelers
+info:23 Reviews
+rating:4.7
+posted:Posted March 31, 2023
+msg:春節前商務出差，總體相當不錯。早餐也很不錯，周邊相對安靜一點。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Deluxe Room
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 2, 2022
+msg:前台小姐姐服務周到，房間整潔温馨，陳設十分大氣簡潔。位置也處於城市相對鬧中取靜的地段，非常值得再次入住。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2023
+info:Business travelers
+info:6 Reviews
+rating:2.7
+posted:Posted October 16, 2023
+msg:衞生一般，設施一般，外部環境👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 18, 2023
+msg:房間挺好的！尤其是早餐！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in January 2023
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted January 14, 2023
+msg:大冬天的，洗澡水温舒適、房間暖氣很暖和，開窗能通風..可以的。
+----------------------------------------
+name:Z‍i‍x‍i‍n
+info:Family Friendly Room
+info:Stayed in February 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 26, 2023
+msg:優質服務，環境典雅，小孩子很喜歡，下次還考慮住這裏…
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 22, 2024
+msg:酒店環境好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in October 2023
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted October 9, 2023
+msg:服務 環境一流 非常好
+----------------------------------------
+name:w‍w‍l‍u‍l‍u‍2‍3
+info:Family Friendly Room
+info:Stayed in August 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 15, 2022
+msg:愉快的入住體驗，房間環境很好，給孩子們準備的小驚喜非常棒，服務人員態度非常好，很熱情，下次再來還會選擇這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in April 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted May 14, 2024
+msg:非常的滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in August 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted August 27, 2023
+msg:很不錯。希望牡丹江越來越好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 21, 2022
+msg:服務好，衞生好！環境好！交通蠻方便！停車也方便！安靜、衞生！價格也不高住的很舒服
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2023
+info:Friends
+info:3 Reviews
+rating:3.7
+posted:Posted July 30, 2023
+msg:房間衞生還好，服務態度很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 9, 2022
+msg:服務好，住着舒適，房間乾淨整潔，設施齊全，態度温和，熱情，有回到家裡一樣的感覺！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2022
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted July 20, 2022
+msg:房間的條件很不錯，但是隔音效果不算特別好。價格對比市區的酒店來説略高。早餐很好，推薦，電梯系統一般般，希望有所改進。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in June 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted July 2, 2022
+msg:早餐好吃，種類繁多，
+🚗 交通：便利
+🧹衞生：衞生好
+🍃環境：優美，有水果贈送，有小禮物，服務態度好，前台認真，房間好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted February 26, 2023
+msg:乾淨的，
+設施：好
+衞生：好
+環境：好
+服務：好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in August 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 18, 2021
+msg:來牡丹江一定要住這家酒店，位置很好，下了高速就到了，酒店房間舒適就不説了，服務更是王牌，所有細節都照顧得很周到，酒店無論是設施服務我覺得都非常的OK，會主動詢問我們的入住體驗，住的舒適，服務貼心，設施齊備，很多物品都能及時供應，很多生活細節都注意到並提供，太人性化，前台熱情，而且有禮貌，讓我們感受到回家一樣的感覺，環境也很好，綠化做的很好，早起可以散步，後面還有公園，整體來説體驗感很棒
+【精品酒店】
+----------------------------------------
+name:W‍e‍i‍k‍e
+info:Holiday Inn Deluxe Room
+info:Stayed in July 2023
+info:Business travelers
+info:14 Reviews
+rating:4
+posted:Posted August 6, 2023
+msg:酒店管理不錯，
+設施：老舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Club Suite
+info:Stayed in August 2021
+info:Other
+info:97 Reviews
+rating:5
+posted:Posted August 10, 2021
+msg:酒店近北山公園和市體育場館、新華街，遛彎飲食方便。酒店外形歐風，內設大氣，給人高貴典雅之印象。停車方便，衞生乾淨，早餐一流。服務乃國際水準，無論前台、大堂經理、保安師傅，還是餐廳服務員和客房清潔員，所遇之人皆待客主動熱情、耐心細緻周到，給人以賓至如家之感。唯一不足乃第二天傍晚後停用空調，伏天房間悶熱，但及時拿來水冷空調以解熱躁，理解。所以戰返回市區後仍訂此酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 1, 2023
+msg:設施：豪華
+衞生：乾淨
+環境：優雅
+服務：滿意
+----------------------------------------
+name:S‍e‍g‍u‍b‍u‍l‍u‍n‍t‍e
+info:Holiday Inn Deluxe Room
+info:Stayed in April 2023
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted May 4, 2023
+msg:環境好，早餐不錯，服務好，下次還去住
+----------------------------------------
+name:Y‍u‍t‍i‍a‍n‍l‍i‍d‍e‍x‍u‍e
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Family
+info:19 Reviews
+rating:2.5
+posted:Posted July 28, 2021
+msg:所訂房型圖片和實際不符 到店工作人員對房間設施不瞭解 一直説我看的套房 截圖給攜程介入 實際上酒店居然沒有產品描述的帶長沙發的高級大床房 折騰一個小時換成標間 影響了孩子作息 標間又小比較簡陋 酒店也沒有歉意 業務水平和服務都很有提高空間 性價比較低
+----------------------------------------
+name:W‍a‍n‍g‍h‍a‍o‍s‍e‍n‍z‍h‍i‍f‍u
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Other
+info:13 Reviews
+rating:5
+posted:Posted July 19, 2023
+msg:非常不錯，下次也會選擇這家
+----------------------------------------
+name:L‍i‍z‍e‍w‍a‍n
+info:Holiday Superior Room (Double bed)
+info:Stayed in January 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted January 27, 2023
+msg:房間寬敞舒適，
+設施：齊全
+衞生：乾淨
+環境：高檔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in December 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 29, 2023
+msg:總的來説還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2023
+info:Family
+info:22 Reviews
+rating:4
+posted:Posted September 2, 2023
+msg:不具體評論了，東北的縮影
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 27, 2023
+msg:服務：非常好
+
+環境：周邊配套齊全
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 5, 2022
+msg:交通：房間，舒適、很好 早餐好 環境好：服務好，前台服務細緻，熱心，幫助解決問題，很及時，衞生乾淨
+----------------------------------------
+name:W‍a‍n‍g‍c‍a‍n‍g‍1
+info:Holiday Superior Room (Double bed)
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 16, 2024
+msg:環境挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 16, 2024
+msg:住的很舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in January 2023
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted January 28, 2023
+msg:酒店設施乾淨整潔，服務也非常熱情，非常不錯的體驗
+----------------------------------------
+name:2‍0‍0‍1‍1‍9‍2‍0‍1‍5
+info:Holiday Superior Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:7 Reviews
+rating:3.5
+posted:Posted August 17, 2023
+msg:酒店太老了，服務不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted January 22, 2024
+msg:安靜，設施好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in September 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 8, 2023
+msg:酒店服務比較標準。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 10, 2022
+msg:前台服務很好，主動推薦當地特色，安靜，熱情.服務很專業，強烈推薦，適合帶孩子入住.點個贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in March 2023
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted March 28, 2023
+msg:在牡市應該是非常好的一家酒店，非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:1 Review
+rating:4.5
+posted:Posted September 13, 2021
+msg:據當地司機説在牡丹江市屬於不錯的酒店了。下午4點的飛機，酒店退房可免費延遲到2點，這點還是很貼心滴。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in November 2023
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted December 7, 2023
+msg:房間乾淨衞生，
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in November 2023
+info:Couples
+info:10 Reviews
+rating:4
+posted:Posted November 29, 2023
+msg:設備比較老舊樂
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in June 2021
+info:Solo travelers
+info:9 Reviews
+rating:5
+posted:Posted June 28, 2021
+msg:牡丹江世貿假日酒店，我在這裏入住了六天五個晚上，這裏的一切都讓我非常喜歡，也是我一再推遲行程的重要原因；當時在網上篩選酒店時，我感覺它的裝修時間久遠了些，也是報着試試看的念頭，訂了一個晚上，然而當我從火車站打車的路上，出租車司機就給了好評，説是他們這裏最好的酒店，這讓我心中充滿了希望，下車保安就把行李幫我拿到前台，雖然一個微小的舉動，卻讓我心生暖意，辦好入住，走到通往房間的走廊，那種深幽的感覺，暖暖的色調都是我的最愛，房間確實不新了，但是乾乾淨淨，反倒平添了一份歲月的厚重和古樸，房間的燈光都是暖色調的，看着特別温馨，好多酒店雖然貴為五星，但是冰冷的白色、灰色讓人喜歡不起來，從美學角度説，暖色調是讓人靠近高雅的顏色，這也是所有國賓館的主色調，端詳了一會，心情愉悦；第二天去吃早餐，發現環境優雅，餐食種類多，口感也不錯，酒店位置離火車站3站地，去哪都非常方便，一個鬧中取靜的好地方，我果斷又續了4天；員工的服務特別好，特別耐心，素質高，有任何問題打前台電話，都會第一時間解決，還有餐廳服務員還幫助客人端盤子，保管手機，一句話，就是為客人着想，問她們名字誰都不説，太難得了，酒店怎麼培養出來的呢。還有酒店的枕頭特別軟，但是這裏可以根據客人的需要，有各種枕頭讓你選擇，我打個電話，馬上服務員就送來我愛的蕎麥枕頭，這裏的一切都讓我舒服，這也是我住5天的根本所在，酒店出門不遠的新華路，水果店，超市，飯店很多，裝修都好還乾淨，價位也不高，交通也是，步行幾分鐘就可以乘公交車去任何地方。牡丹江這個城市人口少，車少，不堵車，物價低，空氣新鮮，水質好柔軟，開車不必擔心停車的問題，大街小巷的車很少有停在路邊上的，去了6天，沒看見警察👮‍♀️但交通秩序井然，讓人有安全感的城市。離開那天，打車打不到，保安馬上到路邊幫我攔了一台車，解除了我後顧之憂，它日我想我還會再來這裏，還會選擇世貿假日酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 20, 2023
+msg:好好好好好非常棒棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in December 2023
+info:Other
+info:28 Reviews
+rating:5
+posted:Posted February 24, 2024
+msg:性價比超高👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in November 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 26, 2023
+msg:滿意滿意很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in August 2022
+info:Family
+info:4 Reviews
+rating:4.5
+posted:Posted August 14, 2022
+msg:前台一位女士人超好，入住時她一人送了五個房間的行李，不知道她叫什麼，服務超級好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in November 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 12, 2023
+msg:整體舒適度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in June 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 11, 2023
+msg:房間很滿意，服務也很滿意
+----------------------------------------
+name:y‍a‍j‍i‍e‍_‍l‍i
+info:Holiday Superior Room (Double bed)
+info:Stayed in June 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted June 17, 2023
+msg:酒店位置方便。服務很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in May 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted May 5, 2023
+msg:設施：好房間幹j凈
+服務：好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 26, 2023
+msg:環境很好，
+服務：很棒
+衞生：很乾凈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 18, 2023
+msg:服務很好，早餐好，環境好，滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in April 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted May 4, 2023
+msg:服務很好，酒店住着也很舒適！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Deluxe Room
+info:Stayed in July 2021
+info:Friends
+info:45 Reviews
+rating:5
+posted:Posted October 16, 2021
+msg:酒店位置不錯，出行方便，設施雖然有些陳舊，但衞生還好，前台接待服務態度也不錯，會推薦朋友去的。下次也還會去住的。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Other
+info:46 Reviews
+rating:4.5
+posted:Posted August 15, 2021
+msg:酒店位於牡丹江的市中心，交通方便，環境不錯。停車也很方便，有充足的停車位。早餐也不錯。假日酒店的管理和服務。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:29 Reviews
+rating:4.7
+posted:Posted August 5, 2022
+msg:離高速口近，位置不錯！房間乾淨整潔，整體服務規範，早餐豐富。整體值得推薦！
+----------------------------------------
+name:B‍e‍i‍l‍e‍a‍i‍g‍e‍l‍i‍s‍i‍y‍i‍n‍s‍h‍o‍u
+info:Holiday Inn Superior Room
+info:Stayed in August 2023
+info:Friends
+info:39 Reviews
+rating:5
+posted:Posted August 11, 2023
+msg:房間很大，停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted July 12, 2023
+msg:服務好，房間安靜整潔
+----------------------------------------
+name:Y‍u‍a‍n‍y‍u‍a‍n‍w‍s‍y
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted July 16, 2023
+msg:房間潔凈，服務熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in August 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted August 3, 2023
+msg:服務細心，環境整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted October 8, 2023
+msg:非常好 很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in January 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted January 26, 2022
+msg:房間舒適，早餐好吃，豐富，前台服務態度好，設施好，有免費停車，有歡迎水果，離公園進，空氣清晰，，有歡迎水果，有小禮物贈送，環境舒適，睡眠質量好，
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted February 26, 2023
+msg:非常好酒店 下次旅遊路過還會再訂
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in September 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 8, 2023
+msg:環境好，服務號
+----------------------------------------
+name:X‍i‍a‍k‍e‍f‍u‍c‍h‍e‍n
+info:Holiday Inn Club Suite
+info:Stayed in January 2023
+info:Solo travelers
+info:110 Reviews
+rating:4
+posted:Posted February 20, 2023
+msg:牡丹江市裡相對較好的酒店了，很安靜。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in August 2022
+info:Friends
+info:46 Reviews
+rating:3.7
+posted:Posted August 17, 2022
+msg:酒店周邊的環境一般，也沒有什麼特別的可評論，總之感覺跟假日酒店不符。
+----------------------------------------
+name:S‍h‍u‍o‍f‍e‍i‍y‍i‍f‍e‍i
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Couples
+info:65 Reviews
+rating:5
+posted:Posted July 23, 2023
+msg:房間不錯，服務貼心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in May 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted May 29, 2023
+msg:挺好的，推開窗户就是山
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in December 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 23, 2023
+msg:酒店很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in December 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted December 26, 2022
+msg:乾淨 衞生 服務好 交通便利 前台服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in January 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted February 1, 2023
+msg:服務好 房間舒適 環境好 早餐好吃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in January 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted January 16, 2023
+msg:整潔舒適，服務温馨，每次去牡的首選。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2023
+info:Other
+info:45 Reviews
+rating:5
+posted:Posted November 2, 2023
+msg:温馨，服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Booked for others
+info:11 Reviews
+rating:5
+posted:Posted July 12, 2023
+msg:環境好！服務周到！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in October 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted March 3, 2022
+msg:辦理入住快捷，服務周到，前台管理水平高。很好的酒店，符合假日的一貫標準，服務和房間設施都不錯，地理位置也很好。酒店給的樓層特別好，因此白天的景色和夜景都很不錯下次應該還會考慮預訂這裏。很滿意，服務周到，有求必應。早飯多樣，符合各種口味。帶着女朋友來的，前台貼心送了暖手的禮物，還很貼心幫我延遲了退房，很照顧客人的感受，很人性化。退房速度也很快。酒店非常不錯，各方面服務都很周到。房間乾淨整潔，位置便利。房間大，位置好，去哪都方便，打電話到前台也很快的幫我解決問題，反應迅速，前台還給升級了一級房間，早餐地方也大，當地最高的酒店，停車免費，房間乾淨整潔，服務細緻貼心，酒店還送了早餐，早餐品種豐富，特別棒的一次體驗，性價比高，樓層高，安靜，位置好，價格適合，完美，位置非常好，附近吃的很多，早餐中西口味都有，會推薦身邊朋友。酒店位置、設施、服務都非常好，乾淨舒適，服務好，一次很棒的入住，環境好，服務好，一次很舒適的入住，客房大、衞生，交通便利，視野很好，酒店人員很熱情，下次再來還會光顧。酒店住的非常舒適，送了我餐廳代金券，服務也很貼心，酒店環境挺好，服務人員也很客氣，房間相對寬敞，視野不錯。房間大，早餐豐盛，衞生乾淨，洗漱用品也不錯，挺好，入住非常滿意，服務非常好，謝謝，旁邊環境都很好，房間也很乾凈。服務很好。樓層阿姨服務很好，熱情周到，業務能力強，善於溝通，非常滿意，早餐也很好，下次會再來還住牡丹江世茂假日酒店。服務超級棒！推薦。前台，樓層服務都很好，熱情。進酒店就很舒適，華麗的建築外觀，高雅不凡的設計風格，在主路上就能看到酒店。位置還不錯，離機場很近，很方便，距離市區景點什麼都近，打車也是起步價。周邊都是飯店，附近吃的喝的很多，步行十分鐘是北山公園。酒店院子裏都很乾凈，閑逛也不錯。就是冬天太冷了，很滿意，出差就住這裏，方便！都很好，地理位置也方便，晚上逛街吃飯都很近。非常適合出差或者家庭旅遊，首選！酒店擁有完善的高品質設施，一流的服務，一進門就有一種淡淡的香味，很不錯。無論是房間設施還是服務都非常好，酒店的安全性感覺很好，安全方面比較好。酒店設備維護的很不錯了。畢竟開業十多年了，房間很温馨，乾淨衞生，床很軟，又大又舒服，夠舒適。窗外景色很美，視野非常好，景觀也算不錯了。麻雀雖小五臟俱全，幹應有盡有，洗澡水大，水很熱很舒服。很安靜，隔音效果不錯。電視大點就好了。房間設施齊全，也很乾凈，很温馨，晚上北山很美！客房的服務生都不錯，值得表揚。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted February 10, 2023
+msg:很好，貼心，前台好，
+服務：很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted February 28, 2023
+msg:環境蠻不錯的，地毯踩上去很舒服
+----------------------------------------
+name:D‍u‍n‍l‍i‍l‍i
+info:Stayed in October 2022
+info:Couples
+info:5 Reviews
+rating:4.5
+posted:Posted October 4, 2022
+msg:因為入秋以後不開空調，所以有點熱，其他都很好服務熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:12 Reviews
+rating:4
+posted:Posted August 10, 2022
+msg:老酒店，基本滿意，比較安靜，早餐豐富。在三線城市算最好的酒店了，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in December 2022
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted December 26, 2022
+msg:前台服務好 房間舒適 交通便利 空氣好
+----------------------------------------
+name:X‍i‍n‍y‍o‍u
+info:Holiday Superior Room (Double bed)
+info:Stayed in April 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted April 22, 2023
+msg:出差到牡丹江，首選這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Executive Room (2 beds)
+info:Stayed in August 2023
+info:Couples
+info:7 Reviews
+rating:3
+posted:Posted August 13, 2023
+msg:酒店設施過於老舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in March 2022
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted March 12, 2022
+msg:服務熱心，周到，環境好，温馨，房間舒適，温度適宜，停車方便，早餐豐富，好吃，多樣，服務好，熱情，專業，停車場大
+----------------------------------------
+name:B‍e‍i‍p‍u‍y‍u‍a‍n‍j‍u‍n‍l‍v‍b‍u‍w‍e‍i
+info:Holiday Inn Superior Room
+info:Stayed in February 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 13, 2022
+msg:房間屬實，有水果贈送，早餐好吃，豐富，種類多，有禮物送，停車便利，前台服務好，樓層高，
+環境好，
+🔔服務：交通便利，離公園近
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:14 Reviews
+rating:5
+posted:Posted November 12, 2023
+msg:牡丹江好酒店！
+----------------------------------------
+name:X‍u‍x‍i‍a‍n‍s‍e‍n
+info:Holiday Inn Superior Room
+info:Stayed in March 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 17, 2023
+msg:雖然設施陳舊 但還算乾淨吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in January 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted March 9, 2023
+msg:酒店地處牡丹江北山公園，環境優美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 13, 2022
+msg:前台服務好，早餐好吃，豐富，種類多，入住有水果，有小禮物，房間舒適，房間好，離公園近，，會再次入住，停車方便，有免費網絡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in February 2022
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted February 16, 2022
+msg:非常舒適的酒店，早餐很好吃，可以免費停車十分方便。前台熱心專業，提出的需求都可以及時反饋解決。以後來牡丹江還會選擇入住
+----------------------------------------
+name:F‍e‍n‍g‍ ‍ ‍h‍u‍i‍l‍u‍z‍h‍u‍a‍n
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2023
+info:Business travelers
+info:32 Reviews
+rating:5
+posted:Posted December 14, 2023
+msg:乾淨利落整潔
+----------------------------------------
+name:t‍r‍i‍c‍i‍a‍0‍4
+info:Stayed in December 2021
+info:Business travelers
+info:11 Reviews
+rating:4.5
+posted:Posted December 15, 2021
+msg:硬件設施房間內的較為陳舊，建議翻新，浴室洗澡後漏水，地面很多水
+
+洗手盆的下水塞不是很好用
+
+房間的硬件均為開業時11年前的，比較舊
+
+軟件服務不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in March 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted March 19, 2023
+msg:酒店環境不錯，服務也很周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in October 2023
+info:Couples
+info:14 Reviews
+rating:5
+posted:Posted October 6, 2023
+msg:各方面都可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2023
+info:Family
+info:30 Reviews
+rating:4
+posted:Posted October 6, 2023
+msg:不錯不錯不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in March 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted March 17, 2022
+msg:好，方便，服務好，專業，有免費水果，推薦，
+🚗 交通：方便
+🧹衞生：好，乾淨
+🍃環境：好
+🔔服務：專業
+----------------------------------------
+name:T‍o‍n‍g‍b‍r‍a‍v‍e
+info:Holiday Inn Superior Room
+info:Stayed in November 2023
+info:Other
+info:43 Reviews
+rating:5
+posted:Posted December 24, 2023
+msg:很不錯呀～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted July 15, 2023
+msg:服務很好，很滿意
+----------------------------------------
+name:l‍e‍o‍l‍e‍o‍h‍l
+info:Holiday Inn Superior Room
+info:Stayed in April 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted May 6, 2023
+msg:老牌假日酒店，飯菜不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in November 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted November 15, 2023
+msg:地庫很方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 1, 2023
+msg:很不錯，每次去牡丹江都住在這裏
+----------------------------------------
+name:J‍i‍j‍i‍w‍a‍i‍w‍a‍i
+info:Holiday Inn Superior Room
+info:Stayed in June 2023
+info:Family
+info:57 Reviews
+rating:5
+posted:Posted June 11, 2023
+msg:房間乾淨衞生整潔！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in June 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted July 19, 2023
+msg:房間滿意，態度好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in September 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 8, 2021
+msg:早餐種類豐富，中西式都有，一應俱全。前台退房速度很快，主動熱情，免費停車，很貼心！性價比很高，值得推薦！星級酒店的服務水準！周邊環境也很棒，環境真的特別好！停車免費，車位充足！整體位置一流，服務一流，設備設施一流，賓至如歸！繼續保持高水準的服務！推薦，點贊，下次一定還來！
+----------------------------------------
+name:L‍a‍i‍s‍u‍o‍t‍u‍o‍y‍u‍x‍i‍n
+info:Holiday Inn Superior Room
+info:Stayed in February 2022
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted March 4, 2022
+msg:早餐種類多，豐富好吃，服務態度好，房間舒適，整潔，空氣好，有停車位，有水果贈送，有小禮物，交通便利，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2022
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted February 16, 2022
+msg:服務好，熱情，周到，專業，細心，房間舒適，温馨，温度適宜，環境優美，停車方便，早餐豐富，好吃，服務態度好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in September 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 4, 2023
+msg:好，價格合適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2023
+info:Friends
+info:64 Reviews
+rating:4
+posted:Posted July 28, 2023
+msg:一般吧，太老了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted October 10, 2023
+msg:很好，真的很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 24, 2023
+msg:環境好，內部設施齊全。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Other
+info:15 Reviews
+rating:5
+posted:Posted July 16, 2023
+msg:離北山公園很近
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in August 2023
+info:Friends
+info:61 Reviews
+rating:5
+posted:Posted September 24, 2023
+msg:衞生好環境好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 20, 2023
+msg:房間很安靜。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2023
+info:Family
+info:20 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:早餐很不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in August 2022
+info:Business travelers
+info:7 Reviews
+rating:2
+posted:Posted August 5, 2022
+msg:床上居然有好多不知道哪來的黑色小蟲子，床上用品還潮
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in January 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted February 7, 2023
+msg:服務好，設施👌，乾淨衞生。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 11, 2022
+msg:服務好，熱情，周到，專業，早餐好，豐富，環境優雅，好，房間乾淨，舒適。温馨，停車方便，離公園很近
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in October 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted March 1, 2022
+msg:很好，服務好，前台服務特別到位，很耐心，儘量滿足要求，環境非常好，靠近北山，空氣很好，早餐不錯，衞生打掃的不錯，大堂很氣派，來牡丹江的首選，推薦入住
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in February 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 18, 2022
+msg:服務好，熱情，周到，專業，房間舒適，温馨，早餐豐富，好吃，停車場大，方便，環境好，温度適宜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in August 2023
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted August 3, 2023
+msg:服務非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Other
+info:1 Review
+rating:2.5
+posted:Posted July 25, 2021
+msg:前台服務極差，小孩子拿走一次性洗衣袋裝東西，前台要收費十塊錢，然後要求在網上給好評就不收費，明顯帶有脅迫性果斷付費，堅決不能縱容這毛病，四星五星酒店住的太多了，你家是第一個一次性洗衣袋收費的！
+----------------------------------------
+name:D‍i‍n‍a‍e‍r‍n‍i‍d‍a‍y‍e
+info:Holiday Superior Room (Double bed)
+info:Stayed in June 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted June 28, 2023
+msg:隔音效果超級好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 15, 2023
+msg:非常好的體驗
+----------------------------------------
+name:L‍a‍l‍a‍l‍a‍5‍8‍8
+info:Holiday Inn Superior Room
+info:Stayed in June 2021
+info:Couples
+info:93 Reviews
+rating:5
+posted:Posted June 23, 2021
+msg:房間非常的不錯，入住時前台帥哥美女幫我送了水果，服務很熱情，非常的暖心，這點做的很好，房間有免費的礦泉水，不夠了找前台拿還免費給我兩瓶，不收費哦，還幫我辦了會員，這點很不錯，還是免費的，服務真的沒得説，非常棒，非常推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 12, 2021
+msg:床很大，服務很好，非常讚的一家酒店！！爸媽妹妹都覺得住的很舒服，標間是一米二的床，真的很適合家人一起住，空間超大，東西都很乾凈，不錯的一次酒店體驗！酒店服務態度很好，前台接待很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Executive Room (Double bed)
+info:Stayed in February 2023
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted February 20, 2023
+msg:環境不錯，停車很方便
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Stayed in July 2022
+info:Friends
+info:28 Reviews
+rating:3.2
+posted:Posted August 1, 2022
+msg:酒店交通方便，有停車場，衞生可以早餐一般。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in May 2023
+info:Booked for others
+info:10 Reviews
+rating:5
+posted:Posted May 12, 2023
+msg:方便，價格合理
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in June 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 23, 2023
+msg:房間乾淨整潔
+----------------------------------------
+name:Y‍u‍r‍u‍n‍z‍h‍i‍t‍i‍a‍n
+info:Holiday Superior Room (2 beds)
+info:Stayed in October 2022
+info:Business travelers
+info:4 Reviews
+rating:4.7
+posted:Posted January 12, 2023
+msg:服務非常好，衞士整潔。非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 1, 2022
+msg:房間安靜，服務好，環境好，安靜，乾淨，舒適，服務好，熱情，友好，推薦入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2023
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted February 26, 2023
+msg:很舒適，服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2023
+info:Business travelers
+info:66 Reviews
+rating:5
+posted:Posted February 23, 2023
+msg:服務周到，服務滿意
+----------------------------------------
+name:F‍i‍r‍e‍F‍o‍u‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in January 2023
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted January 17, 2023
+msg:服務很周到，環境不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2021
+info:Booked for others
+info:17 Reviews
+rating:4.2
+posted:Posted November 4, 2021
+msg:酒店前台的工作人員訓練有素，關於預訂入住的諮詢問題，回答的很清晰、很完整，而且很有禮貌，在當地挺難得的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Deluxe Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 13, 2023
+msg:很好很強大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in July 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 25, 2022
+msg:環境好，衞生好，服務好，贈送了免費早餐
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in March 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted March 5, 2023
+msg:推薦，很好，貼心
+----------------------------------------
+name:F‍e‍i‍z‍h‍o‍u‍k‍a‍n‍k‍e
+info:Holiday Inn Superior Room
+info:Stayed in June 2021
+info:Solo travelers
+info:1 Review
+rating:3.2
+posted:Posted June 16, 2021
+msg:酒店唯一吸引人的是位置好，環境不錯，但我住這個酒店很多年了，酒店設施太舊了，眼看着跟好的酒店各方面差距越來越大。下次準備試試夏威夷酒店，網上評價好像比世貿假日酒店好一些。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted March 3, 2023
+msg:很乾凈，服務也好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2023
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted February 26, 2023
+msg:挺好的。下次繼續
+----------------------------------------
+name:K‍a‍m‍e‍i‍e‍r‍z‍h‍a‍o‍y‍u‍n
+info:Holiday Inn Deluxe Room
+info:Stayed in June 2023
+info:Family
+info:32 Reviews
+rating:5
+posted:Posted July 6, 2023
+msg:房間非常好
+----------------------------------------
+name:X‍i‍a‍o‍b‍a‍i‍q‍i‍u‍j‍u‍l‍e‍b‍u
+info:Holiday Superior Room (2 beds)
+info:Stayed in June 2023
+info:Friends
+info:37 Reviews
+rating:4
+posted:Posted June 29, 2023
+msg:還可以吧！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 8, 2022
+msg:服務好，熱情，友好，推薦入住，安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in September 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 20, 2021
+msg:服務好 熱情 周到 細心 耐心 專業 環境優美 房間舒適 乾淨 停車場很大 停車方便
+🚗 交通：
+【家庭主題房】
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in April 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:很好，服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in August 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 9, 2021
+msg:牡丹江最好的酒店，前台服務很好，高端大氣上檔次，特別是服務質量，出差在外難免遇到一些困難，酒店有求必應，耐心幫忙，很貼心。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 6, 2022
+msg:房間好！服務好！熱心！安靜！推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in March 2022
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted March 24, 2022
+msg:服務超好
+環境很棒
+室內環境好
+門面裝潢很特別
+方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2022
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted March 3, 2022
+msg:好，服務好，早餐好，周到，前台優秀，人員專業，值得推薦。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in July 2021
+info:Family
+info:24 Reviews
+rating:4
+posted:Posted July 28, 2021
+msg:酒店位置也很方便，旁邊是公園，酒店設施齊全 洗漱備品品質也可以，房間還配備空氣凈化器，還有香薰。點贊👍🏻 這幾天高温房間空調很給力
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2023
+info:Solo travelers
+info:4 Reviews
+rating:4
+posted:Posted March 21, 2023
+msg:總體還是不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 28, 2023
+msg:好。。。。。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Deluxe Room
+info:Stayed in May 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted August 6, 2023
+msg:房間挺乾淨
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 20, 2022
+msg:每次出差都來這裏，牡丹江區域最好的了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in August 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 10, 2022
+msg:出行方便，早餐好，前台服務好
+----------------------------------------
+name:L‍a‍n‍b‍i‍b‍i‍d‍e‍h‍a‍i
+info:Holiday Standard Room (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:6 Reviews
+rating:4.7
+posted:Posted July 21, 2021
+msg:賓館環境好，周邊空氣清新，服務熱情周到。離北山公園近。交通便利。距牡丹江火車站不到4公里。距牡丹江師範學院也不到3公里。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in October 2022
+info:Business travelers
+info:7 Reviews
+rating:3
+posted:Posted October 5, 2022
+msg:還可以，沒有什麼大期望
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in December 2022
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted December 27, 2022
+msg:非常好的一家酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in March 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 8, 2023
+msg:乾淨整潔舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in August 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 28, 2021
+msg:服務好，房間乾淨，整潔，房間舒適，温馨，服務熱情，周到，專業，停車方便，停車場很大，早餐豐富，好吃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted August 1, 2021
+msg:酒店衞生整潔，早餐豐富可口。前台服務熱情周到，是到牡丹江入住的首選。我會向親朋好友捱薦這個酒店。謝謝服務！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 13, 2023
+msg:好好好好好好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in August 2022
+info:Friends
+info:8 Reviews
+rating:2
+posted:Posted August 8, 2022
+msg:太舊了，衞生情況還算可以。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 25, 2023
+msg:服務好，很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in September 2022
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted October 9, 2022
+msg:挺好的，乾淨衞生服務好
+----------------------------------------
+name:X‍i‍e‍r‍d‍e‍b‍a‍o‍h‍a‍o‍s‍e‍n‍z‍h‍a‍n‍g‍h‍e
+info:Holiday Superior Room (2 beds)
+info:Stayed in July 2022
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted July 13, 2022
+msg:酒店環境非常好 服務非常到位
+----------------------------------------
+name:H‍e‍n‍g‍z‍h‍e‍g‍o‍u
+info:Holiday Superior Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted April 12, 2023
+msg:風景環境很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in August 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted August 3, 2021
+msg:服務好，熱情，周到，細心，耐心，專業，，交通方便，停車方便，環境優美，早餐豐富，房間舒適，乾淨。整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Deluxe Room
+info:Stayed in June 2021
+info:Family
+info:25 Reviews
+rating:2.2
+posted:Posted June 11, 2021
+msg:缺點：
+1、設施陳舊
+2、下水不暢
+3、房間異味
+4、空調沒用
+應該是路過的最差的五鑽了，攜程怎能這樣辜負自己的會員？
+----------------------------------------
+name:B‍u‍d‍u‍i‍l‍u‍_
+info:Holiday Standard Room (2 beds)
+info:Stayed in February 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 8, 2023
+msg:酒店服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted July 10, 2021
+msg:服務好 熱情 周到 專業 環境好 房間舒適 温度適宜 早餐豐富 好吃 服務特別個性化 離公園近 停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 26, 2021
+msg:服務態度好，熱情 周到，信心，耐心 專業，房間舒適，停車方便，環境好，温度適宜，早餐豐富，好吃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted July 24, 2021
+msg:停車方便 環境好 公園近 房間舒適 乾淨 温度好 服務好 有水果送 早餐豐富 好吃 服務很專業
+----------------------------------------
+name:e‍f‍a‍n‍2‍0‍1‍0
+info:Holiday Inn Deluxe Room
+info:Stayed in July 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 25, 2021
+msg:服務好，專業，熱情，周到，耐心，環境美，停車方便，公園近，早餐好吃，豐富，房間舒適，乾淨，衞生
+----------------------------------------
+name:W‍u‍x‍i‍a‍o‍x‍i
+info:Holiday Superior Room (2 beds)
+info:Stayed in January 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 7, 2023
+msg:商務出行首選
+----------------------------------------
+name:W‍o‍d‍e‍s‍h‍o‍u‍b‍i‍n‍g‍q‍u‍n‍a‍e‍r‍l‍e
+info:Holiday Standard Room (2 beds)
+info:Stayed in May 2021
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted June 21, 2021
+msg:假期招待從南方來的朋友就選擇了這裏，果然沒讓我失望，環境超級好，酒店後面就是公園，朋友也很滿意，對牡丹江的印象直網上升😏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in February 2023
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted February 17, 2023
+msg:很好的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in February 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted February 14, 2023
+msg:環境不錯，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in June 2021
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted June 13, 2021
+msg:這才是人住的賓館 隔音超級好 環境也棒棒的 千萬別定南江酒店 什麼玩意 沒有對比就沒有傷害！！！！！
+----------------------------------------
+name:W‍e‍i‍g‍e‍w‍a‍n‍q‍u‍l‍e
+info:Holiday Superior Room (Double bed)
+info:Stayed in August 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted August 13, 2022
+msg:服務很好，熱情，周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Club Suite
+info:Stayed in July 2021
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted July 18, 2021
+msg:前台服務好，熱情，細緻，出行方便，早餐好，明亮，離北山近，空氣好，乾淨，整潔，停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 22, 2021
+msg:安靜，環境好，位置好，服務好，細緻，耐心，周到，方便，服務特別好，送了孩子玩具，推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 26, 2022
+msg:豪華，服務到位貼心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in July 2022
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted July 31, 2022
+msg:環境優美，近北山公園
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in May 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 11, 2021
+msg:服務好 熱情 周到 專業 細心 耐心 房間舒適 温馨 環境優美 停車方便 早餐豐富 好吃
+【動人夜景】
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in December 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 20, 2021
+msg:房間乾淨，整潔，前台服務好，交通便利，好環境
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted June 10, 2022
+msg:安靜，舒服，位置稍微遠點
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in January 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted January 13, 2023
+msg:乾淨、舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in August 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted August 3, 2022
+msg:不錯不錯不錯哈哈哈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in July 2022
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted July 27, 2022
+msg:很好的酒店，服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in June 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 18, 2021
+msg:酒店前台服務很好，房間乾淨整潔，有游泳池，大廳寬敞，附近有公園，空氣好，有停車場。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (2 beds)
+info:Stayed in December 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted December 27, 2022
+msg:服務可以的
+----------------------------------------
+name:N‍o‍r‍m‍a‍n‍1‍0‍8‍5
+info:Holiday Inn Superior Room
+info:Stayed in September 2021
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted September 7, 2021
+msg:酒店環境好服務好 前台還特別熱情 早餐也不錯。真的很好的體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in August 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 20, 2022
+msg:非常棒，強烈推薦
+----------------------------------------
+name:W‍a‍n‍y‍i‍n‍s‍u‍n‍r‍u‍i
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2022
+info:Business travelers
+info:11 Reviews
+rating:1
+posted:Posted October 19, 2022
+msg:屋內潮濕異味嚴重
+----------------------------------------
+name:W‍o‍j‍i‍u‍z‍h‍e‍y‍a‍n‍g
+info:Holiday Inn Superior Room
+info:Stayed in April 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 12, 2021
+msg:服務好 熱情 周到 環境好 房間舒適 温度適宜 早餐豐富 好吃 公園很近 停車方便 環境美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2022
+info:Business travelers
+info:28 Reviews
+rating:5
+posted:Posted July 29, 2022
+msg:很不錯，也安靜。
+----------------------------------------
+name:H‍u‍a‍i‍r‍e‍n‍j‍i‍a
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 17, 2022
+msg:環境：都是非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2022
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted July 16, 2022
+msg:很滿意，都很到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in September 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 24, 2021
+msg:服務好 熱情 周到 細心 專業 管理好 環境優
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted July 22, 2021
+msg:非常好，服務比較專業，早餐豐富，客房乾淨，前台認真，細緻，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 30, 2021
+msg:服務好，早餐好，一致，細緻，乾淨，舒適，離北山近，空氣好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 28, 2022
+msg:乾淨，環境好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in December 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 26, 2021
+msg:房間很乾凈，工作人員態度也很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in April 2021
+info:Business travelers
+info:9 Reviews
+rating:4.7
+posted:Posted August 31, 2021
+msg:酒店是牡丹江數一數二的高檔酒店，環境服務都很不錯，美中不足是早餐品種較少
+----------------------------------------
+name:h‍e‍l‍i‍r‍e‍n‍1
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Solo travelers
+info:8 Reviews
+rating:4
+posted:Posted July 27, 2021
+msg:酒店實施和衞生都好，就是周圍什麼都沒有，不太方便。
+----------------------------------------
+name:Z‍h‍e‍n‍x‍i‍n‍5‍2‍1
+info:Holiday Inn Superior Room
+info:Stayed in October 2021
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted November 25, 2021
+msg:環境不錯，就是裝修時間長了，顯得落後了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in August 2021
+info:Couples
+info:1 Review
+rating:5
+posted:Posted August 30, 2021
+msg:比想象中要好很多.，服務人員非常熱情周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in May 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 8, 2022
+msg:好，乾淨，環境好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in September 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 14, 2021
+msg:服務熱情周到，仔細認真
+早餐還不錯的
+----------------------------------------
+name:A‍i‍�‍�‍⑨‍d‍e‍J‍o‍n
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Business travelers
+info:153 Reviews
+rating:5
+posted:Posted July 20, 2021
+msg:還可以，就是大廳不開空調，被我點名後才開空調
+----------------------------------------
+name:S‍h‍u‍i‍s‍h‍i‍m‍u‍t‍o‍u
+info:Holiday Superior Room (Double bed)
+info:Stayed in August 2022
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted August 27, 2022
+msg:環境很安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Family
+info:9 Reviews
+rating:3.5
+posted:Posted August 1, 2021
+msg:設施陳舊需要更新重裝了，畢竟十來年的老店了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Superior Room (Double bed)
+info:Stayed in July 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 1, 2022
+msg:好好好剛昂
+----------------------------------------
+name:（‍x‍i‍a‍o‍z‍h‍o‍n‍g‍）
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Couples
+info:57 Reviews
+rating:5
+posted:Posted July 4, 2021
+msg:地理位置優越 服務周到 有問題能夠及時反饋！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 17, 2022
+msg:有水果，就是有點冷
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Friends
+info:31 Reviews
+rating:5
+posted:Posted January 2, 2022
+msg:林業局的賓館也是很好的了，住着很舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 14, 2021
+msg:好好，服務好，安靜，友好，熱情，位置好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in February 2022
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted February 21, 2022
+msg:還不錯，環境可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in June 2021
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted June 10, 2021
+msg:位置好，安靜整潔，服務態度很好，值得推薦
+----------------------------------------
+name:S‍h‍o‍u‍m‍i‍z‍u‍o‍w‍o‍d‍e‍m‍i
+info:Holiday Standard Room (2 beds)
+info:Stayed in February 2022
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted March 1, 2022
+msg:好 前台服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in September 2021
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted September 14, 2021
+msg:環境好服務好，下次還會去住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in June 2021
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted July 2, 2021
+msg:經常入住，感覺很好，很安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in August 2021
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted August 5, 2021
+msg:早餐非常好，服務熱情。
+----------------------------------------
+name:d‍o‍r‍i‍s‍1‍6‍7
+info:Holiday Inn Superior Room
+info:Stayed in October 2021
+info:Family
+info:50 Reviews
+rating:4.7
+posted:Posted October 30, 2021
+msg:服務和衞生都很棒
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in October 2021
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted October 5, 2021
+msg:服務很好，熱情。
+----------------------------------------
+name:L‍i‍x‍i‍a‍o‍f‍e‍n‍g‍s‍u‍i
+info:Holiday Standard Room (2 beds)
+info:Stayed in July 2021
+info:Other
+info:9 Reviews
+rating:4
+posted:Posted September 22, 2021
+msg:酒店設施稍微有些陳舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Solo travelers
+info:46 Reviews
+rating:5
+posted:Posted August 2, 2021
+msg:衞生，安全，服務周到
+----------------------------------------
+name:s‍t‍e‍v‍e‍n‍x‍u‍e‍7
+info:Holiday Standard Room (2 beds)
+info:Stayed in July 2021
+info:Other
+info:11 Reviews
+rating:5
+posted:Posted July 18, 2021
+msg:這個是牡丹江最好的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Family
+info:11 Reviews
+rating:4.7
+posted:Posted July 27, 2021
+msg:環境還行，早餐可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in August 2021
+info:Business travelers
+info:8 Reviews
+rating:3.2
+posted:Posted September 29, 2021
+msg:在假日酒店裡一般
+----------------------------------------
+name:H‍P‍m‍a‍o
+info:Holiday Inn Superior Room
+info:Stayed in June 2021
+info:Other
+info:13 Reviews
+rating:5
+posted:Posted June 14, 2021
+msg:乾淨舒服，環境很好
+----------------------------------------
+name:X‍u‍e‍z‍h‍i‍k‍u‍n‍j‍i‍n‍k‍a‍o
+info:Holiday Inn Superior Room
+info:Stayed in July 2021
+info:Family
+info:179 Reviews
+rating:5
+posted:Posted July 31, 2021
+msg:前台服務不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in June 2021
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted June 14, 2021
+msg:乾淨整潔，舒服
+----------------------------------------
+name:S‍h‍i‍d‍a‍c‍a‍i‍y‍a
+info:Holiday Inn Deluxe Room
+info:Stayed in July 2021
+info:Other
+info:120 Reviews
+rating:3
+posted:Posted July 31, 2021
+msg:一般一般4星
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in September 2021
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted February 26, 2022
+msg:服務很到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Standard Room (2 beds)
+info:Stayed in April 2021
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted September 7, 2021
+msg:特色酒店服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Holiday Inn Superior Room
+info:Stayed in June 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted June 21, 2021
+msg:早餐較可口
+----------------------------------------

@@ -1,0 +1,438 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:The room is clean and tidy, the environment is beautiful, even the carpet in the elevator is very attentive
+There is a large shopping mall next to it, which is very convenient for shopping and leisure
+I was in a hurry and didn't have time to go to the restaurant for breakfast. The front desk helped me pack it in advance. The service was thoughtful. 🥟The taste is also great. I can have a good breakfast on the high-speed rail🎊🎊🎊
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in November 2023
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted January 17, 2024
+msg:The location is convenient, the transportation is convenient, the environment is beautiful, the night view is quite good, the service is considerate, the room is clean and hygienic, and the facilities in the room are complete. It is a very satisfactory experience.
+----------------------------------------
+name:J‍a‍y‍a
+info:Superior Queen
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:4.5
+posted:Posted May 12, 2024
+msg:The hotel facilities are too simple, there are not enough bedside sockets, and the light switches in the room are not convenient
+----------------------------------------
+name:Z‍h‍i‍n‍e‍i‍s‍o‍n‍g‍x‍i‍a‍n‍g‍g‍o‍n‍g
+info:Superior Queen
+info:Stayed in March 2024
+info:Business travelers
+info:5 Reviews
+rating:4.7
+posted:Posted April 3, 2024
+msg:The hotel is located in a new district, and it is convenient for shopping and dining around. The towels are yellowed. The hotel can still replace the towels with new ones after a long time. The service is very good.
+----------------------------------------
+name:M‍U‍H‍O‍N‍G‍Q‍I‍A‍N
+info:Superior Queen
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 1, 2024
+msg:The service was very good, and they also sent fruit. It was clean, comfortable and quiet
+----------------------------------------
+name:Z‍u‍g‍u‍o‍d‍e‍j‍i‍a‍n‍d‍a‍o‍s‍h‍o‍u
+info:Deluxe Panoramic Queen Room
+info:Stayed in August 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted August 20, 2023
+msg:The room is large and spacious
+Facilities: good
+
+Sanitation: good
+
+Environment: good
+
+Service: good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin
+info:Stayed in June 2023
+info:Other
+info:6 Reviews
+rating:4
+posted:Posted August 28, 2023
+msg:The hotel facilities are a bit old, the room facilities are not good, the location is in the development zone, it is only used for business meetings and large gatherings! The renovation time is a bit long, the hotel industry does not update the facilities
+----------------------------------------
+name:M‍i‍n‍g‍m‍i‍n‍g
+info:Deluxe Panoramic Twin Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:4
+posted:Posted November 5, 2023
+msg:The receptionist at the front desk was very professional, empathetic and gave positive feedback.
+The breakfast was quite rich
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in December 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 3, 2024
+msg:The service was very good, breakfast was provided, I will order again next time
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 18, 2024
+msg:Large room, rich breakfast, convenient transportation
+----------------------------------------
+name:L‍a‍c‍h‍a‍b‍u‍l‍i‍w‍a‍n‍g‍z‍h‍i‍h‍u‍a‍n
+info:Deluxe Panoramic Twin Room
+info:Stayed in July 2023
+info:Friends
+info:19 Reviews
+rating:2.7
+posted:Posted August 3, 2023
+msg:The room is old, the facilities are old, the breakfast is OK, the place is remote...there are almost no places to eat around...suggest...don't stay here...it's too remote...
+----------------------------------------
+name:k‍u‍a‍n‍g‍k‍u‍a‍n‍g‍3‍2‍8‍1
+info:Executive Queen Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 13, 2023
+msg:The room is clean and odorless, the service is super good, the geographical environment is good, and the price is affordable
+----------------------------------------
+name:w‍x‍m‍7‍5‍2‍7
+info:Deluxe Panoramic Twin Room
+info:Stayed in August 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:The room rate is spacious, bright and comfortable, very satisfied
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in June 2023
+info:Business travelers
+info:17 Reviews
+rating:4
+posted:Posted July 13, 2023
+msg:The hotel is quite spacious, cost-effective and suitable for business travel.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen
+info:Stayed in August 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted August 8, 2023
+msg:Hygiene: Good,
+Environment: Good
+Service: Good
+Facilities: Good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 26, 2024
+msg:Old hotel, overall good
+----------------------------------------
+name:w‍h‍j‍s‍n‍z‍u‍z‍n‍j‍a‍j‍a
+info:Superior Queen
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 27, 2024
+msg:Old hotel, good service
+----------------------------------------
+name:H‍a‍o‍y‍u‍n‍l‍a‍i
+info:Superior Queen
+info:Stayed in June 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted June 25, 2023
+msg:Service and hygiene are both very good!
+----------------------------------------
+name:G‍e‍z‍i‍s‍h‍a‍n
+info:Deluxe Panoramic Twin Room
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 10, 2023
+msg:The hotel room is very clean
+----------------------------------------
+name:A‍t‍a‍o‍l‍a‍o‍w‍a‍n‍g
+info:Superior Twin
+info:Stayed in October 2021
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted October 5, 2021
+msg:I have stayed here many times. The service and environment are good, and the food is also good, but don't have too high expectations. After all, it is a conference center. Like many large hotels, the standards and specifications are just standards and specifications. The location is in the east, and it is quite convenient to enter and exit Jining city. If you don't have a car, it's not very convenient. The price of about 500 yuan is also getting more and more sincere.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 24, 2024
+msg:前台服務周到，早餐豐盛，中西式都有，是一次非常值得的體驗
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Twin
+info:Stayed in February 2024
+info:Booked for others
+info:2 Reviews
+rating:4.7
+posted:Posted May 19, 2024
+msg:環境不錯，服務也很好
+----------------------------------------
+name:g‍y‍w‍j‍j‍j
+info:Superior Twin
+info:Stayed in September 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted December 10, 2023
+msg:服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted April 3, 2023
+msg:周圍配套全，也很安靜。
+----------------------------------------
+name:s‍k‍y‍5‍0‍9‍3‍1‍1‍4‍1
+info:Superior Twin
+info:Stayed in June 2021
+info:Business travelers
+info:2 Reviews
+rating:2.2
+posted:Posted June 22, 2021
+msg:1、酒店床燈的開關很不人性化，衹能關不能開；旁邊的枱燈有靜電還是漏電，不清楚，碰了一下沒敢再碰。
+2、入住酒店必須另外付300按金，退房的時候不能及時退回，工作人員聲稱大酒店讓你放心，次日上午10點原路退回，但是實際則需要接下來反複電話催催催；一遍兩遍是沒用的！本人按金到現在都未退回！（應該經常有人電話過去催按金，我入住期間就有聽到過）
+
+本人全國各地經常出差，也有遇到過酒店需要按金的情況，但是沒有説按金退房時不能及時退回的，更沒有遇到反覆催促都沒退回的！體驗度極差！
+----------------------------------------
+name:V‍i‍c‍t‍o‍r‍w‍e‍i‍k‍e‍d‍u‍o
+info:Superior Twin
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 14, 2023
+msg:出行方便，房間寬敞。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Panoramic Twin Room
+info:Stayed in June 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted June 15, 2023
+msg:環境不錯。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin
+info:Stayed in July 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted September 20, 2021
+msg:我們一家三口到濟寧住一天，所以就定了聖都因為我在網上查，衹有聖都的床是一米三五寬，我們一家三口訂個標間，這麼寬的床，也能睡的開的。早餐在公眾號訂38一位自助 ，還是很實惠的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin
+info:Stayed in December 2021
+info:Family
+info:1 Review
+rating:1
+posted:Posted December 27, 2021
+msg:差評。大冬天都要凍**了。吃早餐都dei穿着羽絨服。孩子在這裏參加活動。遭罪。不會再選。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin
+info:Stayed in February 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted March 12, 2023
+msg:新區中心，出行方便
+----------------------------------------
+name:Q‍i‍a‍n‍q‍i‍u‍b‍a‍i‍s‍h‍i
+info:Superior Twin
+info:Stayed in February 2023
+info:Business travelers
+info:87 Reviews
+rating:4
+posted:Posted April 2, 2023
+msg:空間很大，設施齊全
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Twin
+info:Stayed in January 2023
+info:Other
+info:9 Reviews
+rating:3.2
+posted:Posted March 3, 2023
+msg:太老了酒店該裝修了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in July 2022
+info:Business travelers
+info:41 Reviews
+rating:5
+posted:Posted July 27, 2022
+msg:房間很安靜，服務態度好，大酒店
+----------------------------------------
+name:j‍a‍n‍e‍s‍t‍0
+info:Superior Twin
+info:Stayed in February 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted April 9, 2023
+msg:酒店服務不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen
+info:Stayed in April 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted June 8, 2023
+msg:酒店還不錯
+----------------------------------------
+name:�‍�‍y‍i‍n‍u‍o
+info:Superior Queen
+info:Stayed in March 2022
+info:Couples
+info:23 Reviews
+rating:5
+posted:Posted May 21, 2022
+msg:還可以吧，裝修有點舊了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin
+info:Stayed in August 2021
+info:Other
+info:7 Reviews
+rating:4
+posted:Posted January 16, 2022
+msg:店面面積很大，環境真挺好，價格也真不貴！沖鴨！
+----------------------------------------
+name:Q‍D‍b‍e‍s‍t‍H‍B
+info:Superior Twin
+info:Stayed in September 2021
+info:Business travelers
+info:87 Reviews
+rating:5
+posted:Posted January 8, 2022
+msg:酒店挺不錯，周邊環境挺好，就是稍微有點偏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin
+info:Stayed in July 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted September 17, 2022
+msg:很不錯！老牌
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen
+info:Stayed in October 2021
+info:Business travelers
+info:24 Reviews
+rating:3
+posted:Posted October 14, 2021
+msg:服務，早餐，房間設施一般
+----------------------------------------
+name:H‍a‍n‍j‍i‍a‍n‍g‍l‍u‍o‍y‍a‍n
+info:Superior Twin
+info:Stayed in May 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 9, 2021
+msg:乾淨衞生，房間很大，洗澡很舒服。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin
+info:Stayed in November 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted November 17, 2021
+msg:酒店很好，很方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen
+info:Stayed in May 2021
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted June 14, 2021
+msg:每次住這裏！！！！！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Queen
+info:Stayed in June 2021
+info:Business travelers
+info:41 Reviews
+rating:3
+posted:Posted October 24, 2021
+msg:酒店有點老了
+----------------------------------------
+name:H‍u‍a‍j‍i‍a‍o‍g‍o‍n‍g‍z‍i
+info:Superior Twin
+info:Stayed in May 2021
+info:Other
+info:71 Reviews
+rating:5
+posted:Posted July 26, 2021
+msg:適合出差居住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Twin
+info:Stayed in May 2021
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted June 24, 2021
+msg:非常好的酒店
+----------------------------------------
+name:Z‍h‍a‍n‍g‍r‍u‍i‍f‍a‍n‍g‍f‍a‍n‍g
+info:Deluxe Panoramic Queen Room
+info:Stayed in January 2021
+info:Business travelers
+info:37 Reviews
+rating:5
+posted:Posted June 19, 2021
+msg:好牌酒店，服務挺好
+----------------------------------------

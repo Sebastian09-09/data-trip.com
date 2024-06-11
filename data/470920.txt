@@ -1,0 +1,524 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in December 2023
+info:Family
+info:2 Reviews
+rating:1
+posted:Posted January 2, 2024
+msg:Two orders, double bed room, standard room, the system can't be wrong! ! I really can't believe that in such a large hotel, the quality of the management staff is really beyond words.
+----------------------------------------
+name:T‍i‍a‍o‍y‍u‍e‍2‍0‍0‍0
+info:Deluxe Twin Room
+info:Stayed in September 2022
+info:Other
+info:8 Reviews
+rating:2.7
+posted:Posted September 2, 2022
+msg:The external environment of the hotel is very good, but the internal facilities are outdated and the service staff's state-owned unit work style really wastes such a good external environment! First of all, after checking in at 2 o'clock in the afternoon, I wanted to order a meal. I told the chef that he was off work and could wait until later. The second room had a musty smell, and the window was open to let in half the weather. In the end, I stayed in such a squat hotel on a business trip. I have never seen such a bad breakfast, with poor taste and less variety! So this hotel is strongly not recommended.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in December 2023
+info:Business travelers
+info:6 Reviews
+rating:4.7
+posted:Posted January 31, 2024
+msg:酒店比較偏遠，自駕遊的話還可以，自由行的可能遠了一些，酒店洗澡水比較冷和小，不知道是不是天冷的緣故，酒店離各個景區都要接近20公里這樣子，離牛首山還是比較近的，早餐總體一般吧，沒啥特別好吃的，總體還行
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in March 2024
+info:Business travelers
+info:21 Reviews
+rating:3.2
+posted:Posted March 28, 2024
+msg:早餐值20元，裝修值200，面積值280，加起來房價500差不多
+----------------------------------------
+name:S‍h‍e‍n‍q‍i‍y‍a‍n‍g‍y‍a‍n‍g
+info:Superior Room
+info:Stayed in May 2024
+info:Friends
+info:32 Reviews
+rating:5
+posted:Posted May 16, 2024
+msg:房價不錯，服務一流
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:4
+posted:Posted April 29, 2024
+msg:服務：很好
+衞生：乾淨
+環境：優雅
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in October 2023
+info:Family
+info:11 Reviews
+rating:3
+posted:Posted October 6, 2023
+msg:不喜歡這個裝修風格，菜品種類不夠豐富，味道還行，價格還算合理，希望能有所改進，跟上時代進步的步伐，沒有什麼娛樂設施
+----------------------------------------
+name:l‍a‍t‍e‍s‍t‍-‍s‍a‍m
+info:Deluxe Twin Room
+info:Stayed in May 2024
+info:Business travelers
+info:8 Reviews
+rating:4
+posted:Posted May 29, 2024
+msg:方便，環境優美，設施有待更新，餐廳不賣白酒和紅酒，衹有啤酒，奇怪🤔
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in June 2023
+info:Other
+info:11 Reviews
+rating:3.2
+posted:Posted June 26, 2023
+msg:房間很不錯。不止一次入住過。但這次入住體驗極差。點名前台服務員***。辦入住的時候，大概晚上十一點出頭。衹有一個工作人員。他全程沒有説話。無比高冷。我跟他説什麼平台預訂包括希望是安靜一點的房間。他也完全不搭理。我最後提出要兩張房卡。他也是態度很差説有取電卡。我解釋説因為兩個人入住並且第二天行程不同。多一張卡會方便些。他才不情不願做房卡。而且還給錯樓層導致去不了房間再回到前台。更換房卡的過程也是非常怠慢，臉色難看。東西丟來丟去的。之前也有晚間入住，但從未遇到如此怠慢的工作人員。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted May 3, 2023
+msg:整體還是很不錯的，特別是安全性很高，進入電梯區域和坐電梯都要刷房卡，讓人特別放心！最讓人印象深刻的是。酒店每天都送兩瓶自製的酸奶，特別好喝，還有一些零食點心什麼的，特別温馨。就是位置稍微偏了一點，離購物區比較遠，但是離地鐵站S3線的下村站特別近，直達南京南站，非常方便。另外酒店內部有早餐 總體也還可以。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in January 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted January 10, 2024
+msg:商務出差，酒店環境不錯，房間空間也大。前台服務員小杲服務到位，非常熱情!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in December 2023
+info:Solo travelers
+info:17 Reviews
+rating:4.5
+posted:Posted January 1, 2024
+msg:雖然因為一些客觀原因，但是開個房間從凌晨0時等到1點左右房間才開好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in October 2023
+info:Friends
+info:5 Reviews
+rating:4.2
+posted:Posted October 15, 2023
+msg:設施：有點舊
+衞生：還不錯
+環境：很好
+服務：還可以，就是早餐不怎麼樣，咖啡機壞的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in September 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:位置有點偏，交通是方便的，而且環境很好，酒店很大，房間乾淨，洗手間也很大，很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in December 2023
+info:Solo travelers
+info:2 Reviews
+rating:4
+posted:Posted March 21, 2024
+msg:酒店還行，就是服務太慢了，在前台辦入住，排隊一個多小時
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 17, 2022
+msg:酒店環境很好，服務態度不錯。入住各種小要求，都能及時滿足。尤其是有個姓宋的小姐姐，服務特別周到，待人接物讓人賓至如歸，不厭其煩的解答問題、協調需求。非常滿意的一次住宿體驗。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in February 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted February 29, 2024
+msg:環境不錯，老乾部風，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted November 4, 2023
+msg:服務：很好
+環境：很好
+衞生：乾淨
+----------------------------------------
+name:B‍u‍z‍h‍i‍m‍i‍n‍g
+info:Deluxe Twin Room
+info:Stayed in October 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted October 31, 2023
+msg:衞生：不錯
+環境：很好
+服務：都好
+----------------------------------------
+name:M‍X‍Z‍6‍6‍6‍2
+info:Superior Room
+info:Stayed in October 2022
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted October 7, 2022
+msg:這家金陵酒店還是很不錯的，衹可惜前天下雨，要不那可以逛逛酒店周邊的風景了。房間衞生畢竟乾淨，睡覺也比較安靜，值得入住的一家酒店
+----------------------------------------
+name:R‍i‍z‍i‍z‍a‍i‍f‍e‍n‍g‍c‍h‍a‍n‍g
+info:Business Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted October 17, 2023
+msg:服務周到。環境好，乾淨衞生。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in February 2023
+info:Other
+info:55 Reviews
+rating:5
+posted:Posted February 27, 2023
+msg:該價位能得到此等服務與環境的酒店，南京怕是挑不出第二家，性價比極高！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in April 2023
+info:Business travelers
+info:10 Reviews
+rating:4
+posted:Posted June 27, 2023
+msg:早飯不含在房費中，比較偏
+衹能在哪兒付費吃早飯。
+----------------------------------------
+name:y‍i‍d‍a‍o‍_‍g‍a‍o
+info:Deluxe King Room
+info:Stayed in February 2023
+info:Business travelers
+info:64 Reviews
+rating:5
+posted:Posted March 1, 2023
+msg:停車方便，房間設施也不錯，服務好，主動幫忙升級房間
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in September 2021
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted October 3, 2021
+msg:免費升級了商務雙床房，中秋節過去還喜提一盒金陵飯店的月餅。實名錶揚下姓諸的妹子，服務態度棒。在這荒郊野地收穫舒心的入住體驗。就是早餐品種少味道不太行。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Jinling Executive King Room
+info:Stayed in May 2023
+info:Solo travelers
+info:11 Reviews
+rating:5
+posted:Posted May 16, 2023
+msg:服務態度好！環境優美、早餐很豐富。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 23, 2023
+msg:前台服務非常好，小姐姐很漂亮。還免費升級了房間。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in December 2023
+info:Business travelers
+info:43 Reviews
+rating:5
+posted:Posted February 26, 2024
+msg:環境不錯。可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 28, 2023
+msg:服務：不錯
+環境：不錯
+衞生：不錯
+----------------------------------------
+name:f‍l‍1‍9‍9‍5
+info:Superior Room
+info:Stayed in November 2021
+info:Business travelers
+info:37 Reviews
+rating:5
+posted:Posted December 1, 2021
+msg:設施微舊但很乾凈，服務很好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted January 17, 2024
+msg:乾淨乾淨很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in May 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted June 7, 2023
+msg:環境安靜，服務熱情，贈送水果
+----------------------------------------
+name:v‍a‍v‍e‍n‍X
+info:Stayed in February 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted February 13, 2023
+msg:酒店整體環境蠻不錯的，服務也到位。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in April 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted May 17, 2023
+msg:衞生：很乾凈
+環境：挺好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in January 2022
+info:Business travelers
+info:4 Reviews
+rating:4.2
+posted:Posted January 12, 2022
+msg:環境很好，如在公園之中；交通便捷，居於江北新區和南站之間；服務熱情，態度很好，尤其是前台杲小姐，很專業也很職業；房間設施較為陳舊一些。
+----------------------------------------
+name:E‍N‍S‍Y‍O‍E‍I
+info:Deluxe King Room
+info:Stayed in November 2021
+info:Business travelers
+info:26 Reviews
+rating:4
+posted:Posted November 11, 2021
+msg:酒店距離出差目的地較近，房間衞生整潔，還送了果盤和點心；晚上還有晚安的留言和問候，比較貼心。入住時，服務員諸玥還特地幫忙將行李送到房間，服務挺不錯。今後還會繼續入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in March 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted April 24, 2023
+msg:環境還行，附近就餐不行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in January 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted January 7, 2022
+msg:前台服務熱情周到，房間乾淨整潔，餐飲可口，非常推薦。前台小王、小杲為我做了免費延時退房，點贊，以後還會選擇這裏入住
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in April 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted July 23, 2023
+msg:早餐很豐盛，滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in June 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted July 23, 2023
+msg:晚上特安靜！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in May 2023
+info:Business travelers
+info:40 Reviews
+rating:5
+posted:Posted May 15, 2023
+msg:蠻好的地方
+----------------------------------------
+name:D‍a‍n‍f‍a‍n‍z‍h‍i‍s‍h‍e‍n‍g
+info:Deluxe King Room
+info:Stayed in September 2021
+info:Business travelers
+info:23 Reviews
+rating:4
+posted:Posted December 30, 2021
+msg:離市區有點遠，周邊什麼也沒有，離我辦事的地方比較近，衹能選擇這裏，還可以吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in June 2022
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted July 3, 2022
+msg:服務十分熱情，環境很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in October 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 15, 2021
+msg:前台服務很好，尤其是前台杲景慧，下次有機會還會選擇貴酒店。
+----------------------------------------
+name:H‍F‍J‍U‍N‍L‍E
+info:Superior Room
+info:Stayed in September 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 12, 2021
+msg:酒店很不錯，尤其是前台杲景慧服務熱情周到，下次有機會還會選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in June 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 17, 2021
+msg:酒店房間很大，前台小杲很熱情，退房了也可以寄存取放東西，來十四所面試的很推薦這家。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in September 2021
+info:Business travelers
+info:36 Reviews
+rating:5
+posted:Posted September 10, 2021
+msg:酒店環境不錯，性價比很好，就是早餐改進下就好了，種類太少了
+----------------------------------------
+name:P‍a‍n‍g‍z‍i‍1‍9‍9‍1
+info:Superior Room
+info:Stayed in June 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted June 17, 2021
+msg:酒店很好，離地鐵站很近，前台服務員小杲熱情周到，下次開會還會選擇這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in August 2022
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted August 28, 2022
+msg:總體還可以！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in June 2021
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted June 14, 2021
+msg:前台張園園女士服務態度很好，酒店環境也很不錯，總體很滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2022
+info:Business travelers
+info:114 Reviews
+rating:4
+posted:Posted February 9, 2022
+msg:酒店設施比較舊，服務還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in September 2021
+info:Business travelers
+info:21 Reviews
+rating:3
+posted:Posted November 2, 2021
+msg:太老舊了，房間裏簡陋並且有黴味，不推薦哈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2021
+info:Business travelers
+info:49 Reviews
+rating:5
+posted:Posted July 9, 2021
+msg:酒店周邊很清凈，很適於休息。
+----------------------------------------
+name:M‍e‍i‍y‍o‍u‍g‍a‍o‍q‍i‍n‍g‍c‍h‍u
+info:Superior Room
+info:Stayed in October 2021
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted March 4, 2022
+msg:去出差的單位很方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in July 2021
+info:Business travelers
+info:2 Reviews
+rating:4.2
+posted:Posted July 8, 2021
+msg:總枱小張服務態度很贊
+----------------------------------------
+name:Z‍h‍a‍n‍g‍e‍r‍y‍e‍d‍o‍u
+info:Business Double Room
+info:Stayed in September 2021
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted December 29, 2021
+msg:也是五星吧
+----------------------------------------
+name:T‍I‍G‍E‍R‍-‍d‍d‍d
+info:Jinling Executive King Room
+info:Stayed in April 2021
+info:Couples
+info:5 Reviews
+rating:4.7
+posted:Posted June 11, 2021
+msg:去機場比較方便
+----------------------------------------

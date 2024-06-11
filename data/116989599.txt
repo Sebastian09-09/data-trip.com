@@ -1,0 +1,579 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:4.7
+posted:Posted March 24, 2024
+msg:Clean and good service. The room was quite big and clean. The hotel front desk service very good and helpful. Every night have free small snack. Location is near to the metro station.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 20, 2024
+msg:The facilities are complete, the transportation is convenient, the environment is very good, the food is also unique, and the service is very enthusiastic. In summary, this is a very good hotel
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted April 19, 2024
+msg:This hotel is very good. It makes me feel like I am at home. The guys and girls at the front desk are very enthusiastic. They will answer any questions I don't know. As soon as I entered the hotel, a concierge took my luggage, which made me feel embarrassed. The room is also very good, with fruits sent by the hotel. The room is also very clean and tidy. The girl at the front desk also gave me souvenirs. There is also a calligraphy area. The overall feeling is great! I will continue to book this hotel next time I come!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in March 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted March 30, 2024
+msg:I came to Chengdu Tianfu International Conference Center for a meeting. The hotel is relatively close to the venue. Many surrounding hotels are full. It is about 2 kilometers away and a 20-minute walk. The hotel is right at the subway entrance. It is convenient to get to and from the venue.
+In terms of hardware, the hotel facilities are relatively new. It seems to have been newly opened at the end of last year. The room area is large enough. The introduction said more than 30, but it actually feels more than 40. The bedding is also relatively comfortable to sleep on. In particular, the hotel staff contacted me in advance and asked if there was anything else they needed assistance with. They also sent us some Chengdu guides (although I am more familiar with Chengdu) and gave us welcome fruits. I learned that I didn't go out to eat one night due to work reasons during my stay. The girl at the front desk specially arranged a set meal for one person, which was quick and solved my dining problem that night. Thank you very much.
+There are quite a lot of people at breakfast, mainly for companies having meetings. The taste is not bad. If you come to Tianfu Conference Center for a meeting, it is recommended to stay here.
+There is construction in the surrounding area, but it does not affect your sleep at night. Parking is easy. (There was some minor incident in the room at night, but it was resolved quickly)
+(The mouse was broken, so I asked the front desk to borrow one, and finally gave me my own personal mouse; I would like to thank you here)
+The biggest feeling: no matter the young man pulling the luggage, the sister at the front desk, or the elder sister delivering fruits, the service is very enthusiastic, the service is very enthusiastic, the service is very enthusiastic.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 4, 2024
+msg:The hotel is very good. The room facilities and equipment are very new. The room is also spacious and clean. There is Honglian Station on Line 19 at the door. It is more than half an hour away from the airport. It is also very convenient to travel. Especially the front desk and room service are very good. Whether it is consulting a problem or needing to send something, they are very enthusiastic. It is a very good hotel and a good choice for travel~
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted March 25, 2024
+msg:Hygiene: It's quite clean. Their lobby looks nice and clean.
+Service: I want to praise the service. The waiters are very nice. They contacted me in advance to reserve a room on a high floor. They also sent fruit plates and snacks, which is pretty good! When we left, because we had a lot of things with us, the porter also helped us to the subway. It's very convenient to go from the hotel to the subway. It's just that the guide signs may need to be made a little more. Everything else is good! Like it 👍
+----------------------------------------
+name:M‍r‍-‍W‍l
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted March 22, 2024
+msg:The hotel is in a good location. I am very satisfied with my stay. Caiyun, the front desk clerk, is very patient and enthusiastic. It is very convenient to go to the airport.
+----------------------------------------
+name:K‍e‍d‍a
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted March 20, 2024
+msg:The room is very good, five-star standard, the service is above average, parking is also convenient, rest assured to stay here, I took the photos casually, it does not affect the actual standard of the room
+----------------------------------------
+name:T‍a‍n‍g‍q‍i‍a‍n‍s‍u‍n
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 20, 2024
+msg:When traveling for work, the hotel I want most is this kind of hotel, with a quiet environment and enough rest space. The washroom and rest area are separated by a wall, so you don’t have to worry about covering the bathroom glass when living with colleagues.
+Moreover, as a newly opened hotel, it is clean and tidy, the service staff is very enthusiastic, and the luggage delivery, storage and consultation services are all great. The guest room also provides free desserts in the evening. In short, I will choose it again next time I go on a business trip!
+----------------------------------------
+name:L‍v‍x‍i‍n‍g‍y‍i‍n‍z‍h‍e
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:27 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:A new hotel with a very high cost performance ratio. The surrounding area was a little deserted during the Spring Festival, but it is very close to Qinhuang Lake. If you stay here on New Year's Eve, you may be able to see a drone show. There is a subway downstairs, and both Shuangliu Tianfu Airports can be reached directly, which is very convenient. The hotel facilities are perfect, and the staff are very enthusiastic, the kind of enthusiasm that is sincere, manual praise 😀
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 13, 2024
+msg:The room was very clean, the bedding was very comfortable, the room service was also very enthusiastic, and they sent milk at night. The transportation was convenient, the Honglian subway station was directly accessible by elevator, the scenery was also very good, the front desk lady was also very attentive, and asked us if we needed a crib. The concierge was also good, and took the initiative to help us carry our luggage and look at the room. I was a little embarrassed by their enthusiasm! Although it is a newly opened hotel, it doesn't have any smell, the service is very good, I will come again next time😀😀
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 27, 2024
+msg:Service: Very good 👍
+----------------------------------------
+name:L‍i‍u‍x‍i‍a‍n‍g‍g‍a‍n‍g
+info:Superior 2-bed Room
+info:Stayed in May 2024
+info:Family
+info:8 Reviews
+rating:2.2
+posted:Posted May 14, 2024
+msg:It's a new hotel. The room has a bit of smell. There is construction going on all around, making travel inconvenient. The price is not low, and the cost performance is not high. Ctrip should have given some reminders, but there is no information about this on the official website.
+----------------------------------------
+name:J‍e‍s‍s‍i‍e‍q‍e‍e
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted May 9, 2024
+msg:The new hotel has a good environment and is suitable for business travel. It is just outside the airport subway station. It is a business hotel supporting central enterprises. The facilities and equipment in the room are online. There are free fruits. The fruits in summer are all frozen and put in the room. It is very good. The details are in place.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in May 2024
+info:Family
+info:3 Reviews
+rating:4.8
+posted:Posted May 3, 2024
+msg:The room is big, the bedding is comfortable, it's a new hotel, the hygiene is good, but the surrounding environment is under construction, it's very convenient to get there from the subway exit, generally very satisfied
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 3, 2024
+msg:I have to give a super five-star praise to the front desk girl for her service. We had a great time on the night of May 1st, and we didn't check in until 2 a.m. on May 2nd. Even so late, the front desk girl on duty was still very friendly and patiently helped me deal with the order problem. Super five-star praise.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment Double Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 3, 2024
+msg:This is my first review. I am very satisfied. They upgraded our room type because we brought our children. It is a hotel with high standards. There are also charging stations, which is very convenient. The service is very good in all aspects.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in March 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted March 29, 2024
+msg:The room is clean and tidy, very warm! The service attitude of the handsome guys and beautiful girls is super good! Although it is full today, they still squeezed out the room they stayed in last time for us. Thank you very much! A hotel worth recommending!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:The service is super good, but I forgot to take pictures. The front desk is very friendly and has a good image. The doorman will deliver the luggage to the room (because my luggage is too heavy). The overall service and environment are very good, better than the five-star hotels in the city.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:I chose this hotel because I was going to Xibo City. I was pleasantly surprised! The price-performance ratio is very high. The hotel is directly connected to Metro Line 19 underground, which is very convenient to go anywhere. The hotel services and facilities are all five-star standards. It is very comfortable to stay in Chengdu. It is worth the trip!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Apartment Double Room
+info:Stayed in June 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted June 6, 2024
+msg:酒店比較新，門口就是19號線，去往兩邊機場都很方便，工作人員都很熱情，提前就給我打了電話，發了停車和地鐵的路線圖，到前台還送了端午節主題的書簽，感覺很棒，客房寬敞整潔，餐廳很漂亮，就餐環境很好，整個入住讓我心情愉悦，下次還會來的～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in May 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 19, 2024
+msg:是到這邊來旅遊的，入住體驗很不錯，前台服務態度很好，房間衞生乾淨舒適，相對於其他的性價比很高，餐廳食物也很豐富，吃飽了休息會還可以去健身房鍛鍊🏋️，走的時候前台小姐姐還送了他們自繪的書簽🔖棒棒噠，好評！！下次還會再來滴！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:很好的酒店，入住時送了水果和飲料，晚上還送了堅果小零食和晚安牛奶，因為帶了小朋友不小心穿着鞋子上床，床單被套弄臟了，他們客房過來看過之後説可以清洗掉還幫我們換了一套新的，服務態度很好，還給我們拿了小朋友的洗漱用具，非常不錯！房間空間也很大，採光好很明亮，早餐也很不錯小朋友很喜歡，有煎蛋，小蛋糕沙拉什麼的，反正種類挺多的應該有2、30種，味道也很不錯，退房的時候還送了小朋友禮物，服務很好，房間也很好，雖然酒店外部有施工單位，但是不影響晚上的入睡，酒店門口有地鐵，也有免費停車場，出行也很方便，非常推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 19, 2024
+msg:很滿意的一次入住體驗，訂完訂單的時候就有工作人員聯繫我詢問對房間有沒有特殊要求，因為我對煙味比較敏感，所以特意給他們説了要無煙房，到酒店的時候，前台也説給我準備好了無煙房間，進到房間以後確實還是對房間很滿意，而且他們的房間比平台上説的感覺要大很多房間，裏面的衞生間是乾濕分離的，而且化粧鏡很大對愛美人士非常友好，礦泉水一次性配了四瓶也很贊！因為可能我以前住的酒店都衹會配兩瓶吧，所以覺得還蠻不錯的，房間設施齊全，而且窗簾都是可以智能控制，由於第二天飛機是下午的聯繫前台也幫我做了免費延時退房，工作人員的服務態度都很好，早上去早餐廳的時候因為去的有點晚，他們也特意為我重新煮了一份早餐，非常感謝！很不錯的酒店，工作人員都很好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 18, 2024
+msg:對這家酒店的第一感受就是每個工作人員的服務態度都很好，很熱情，酒店的裝修風格不錯，設施相對來説比較齊全，大廳很大，前台辦理入住快專業度很不錯，房間乾淨整潔，網絡給力，床很大，衞生間乾淨，值得一提的是，這家酒店的淋浴是那種大噴頭洗澡很舒服，早餐的品類也很多分中西式兩種，還有一些現煮的麪條餃子一類的，包括水果沙拉也很豐富，酒店是可以免費停車的而且停車場很大，有自助的洗衣房和烘乾機，總體來説是一次很棒的入住體驗！退房的時候前台還送了小熊貓的鑰匙扣給我，如果下次有機會來成都，還會選擇入住這裏！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 17, 2024
+msg:來西博城附近參會，看到這家新開業的酒店，打電話問了去天府機場門前的19號線可以直達，由於是早班機，問了酒店可以準備路早，酒店到地鐵口也很方便，直接就定了，工作人員的服務態度很好，很熱情，辦入住的時候還送了他們員工手工做的文創卡片書簽，真的很不錯啊！還有行李員幫忙一直送行李到房間，房間很大很舒服，因為前台小姐姐幫我免費升級了帶浴缸的房間，真的很好！到房間的時候還送了水果和睡前牛奶，客房姐姐也很温柔，因為自己很晚的時候洗漱完，沒找到吹風機也很耐心的過來幫我解決問題…雖然酒店周邊還在發展建設，但是前台也送了耳塞給我，所以一夜好眠，忙完了可以認真給這家店寫評論是因為對奔波在路上的打工人來説，遇到這麼多温柔的人是很温暖的一件事，5分好評給前台小姐姐、行李員帥哥以及客房姐姐，當然酒店的設施也是超讚的，雖然酒店外部存在一些不可抗力的因素可能會影響大家對這家店的認識，但是對我來説工作人員的態度和專業度我很認可，同為打工人，感謝你們帶給我美好的一次入住體驗，下次再來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 3, 2024
+msg:酒店很棒，離地鐵非常近，去哪兒都很方便，當時出來打電話給前台，還特地來接了，白雲姐姐人美服務也很貼心，入住還有熊貓禮，太可愛辣！
+酒店比較新，我們訂的雙人床，寬敞且非常乾淨！
+因為第二天出行，還要了熨燙機，晚上準備了晚安奶，服務真的沒話説～
+還會再來的！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 27, 2024
+msg:服務：服務很不錯，很專業非常nice~尤其是前台妹妹小萬服務周到熱情，感謝～
+衞生：非常整潔乾淨，很舒適呢
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 26, 2024
+msg:房間非常大，很乾凈，住起來很舒服，工作人員特別友好，晚上房間還送飲料和水果，很喜歡這個酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted April 23, 2024
+msg:挺好的，算這一片比較好的酒店了，不想住公寓民宿，早餐不錯，前台彩雲很好的服務幫我安排了家裡人入住，以後親戚來訪還是會考慮這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Solo travelers
+info:3 Reviews
+rating:4.7
+posted:Posted June 5, 2024
+msg:新酒店 設施床品衞生都很好。服務也好。性價比高。唯一缺點就是離玩的地方遠 坐地鐵時間較長。不過酒店就在地鐵上面。入口不太好找。對有大件行李的客人來説有台階要提， 地鐵出來要繞道前面入口。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:62 Reviews
+rating:5
+posted:Posted May 26, 2024
+msg:新開的星級酒店，各方面考慮的很周到，房間裏還有體重秤，入住還送了小吃水果，房間也很安靜舒適，很乾凈整潔，前台小姐姐小萬服務也很好，很温柔，還免費給我多延長了一個小時。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in April 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 21, 2024
+msg:位置不錯，紅蓮站就有專屬通道，酒店比較新但沒有異味，這一點比較難得，服務不錯，很熱情很熱心，我小孩生病，服務人員忙前忙後的幫忙。
+----------------------------------------
+name:X‍i‍a‍o‍x‍i‍a‍o‍x‍i‍a‍o
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:十分的滿意，服務態度好，而且想的特別的周全，還有地下停車場，出門就是地鐵站，實在是太方便了！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in May 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 26, 2024
+msg:房間很乾乾淨整潔，還有一個會客廳，私密性很好，商務出行，家庭親子旅行都合適，很不錯體驗感。
+----------------------------------------
+name:B‍a‍i‍l‍o‍n‍g‍x‍i‍n‍g
+info:Apartment Double Room
+info:Stayed in June 2024
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted June 3, 2024
+msg:酒店地理位置很便利，門口有地鐵站，趕路很方便，酒店小姐姐服務態度很好，房間很乾凈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 22, 2024
+msg:第二次入住了，過來開會路程還挺方便的所以選擇這個酒店，酒店員工服務不錯，前台有個小萬姑娘笑容很好看，值得保持哈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:25 Reviews
+rating:3
+posted:Posted May 13, 2024
+msg:酒店設施還不錯，都是新的，就是地理位置實在太難找了，在郊區，還是一片工地中。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:酒店很新，房間也比較大，前台彩雲和小楊態度很好，續住還升級送了早餐，非常滿意！
+----------------------------------------
+name:X‍i‍a‍o‍z‍h‍a‍o
+info:Sunshine Queen Room
+info:Stayed in April 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted April 12, 2024
+msg:房間很大很舒適，洗浴用品很不錯，服務熱情，位置好，緊鄰19地鐵線，出行非常便利！
+----------------------------------------
+name:M‍E‍0‍5‍7‍6
+info:Apartment Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted May 9, 2024
+msg:一次定了6個房間，服務很好，離紅蓮地鐵最多100米，交通方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in March 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted March 21, 2024
+msg:丹丹，彩雲服務很好，滿意。
+位置很靠近展會，出差方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in March 2024
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted April 24, 2024
+msg:房間衞生舒適，服務周到熱情，酒店近地鐵口，方便快捷。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 24, 2024
+msg:感覺很不錯，服務很貼心，房間很大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment Double Room
+info:Stayed in June 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted June 6, 2024
+msg:環境和服務以及管理都十分滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in April 2024
+info:1 Review
+info:Business travelers
+rating:5
+posted:Posted May 20, 2024
+msg:很不錯 服務到位 房間寬敞乾淨嗯嗯
+----------------------------------------
+name:K‍a‍f‍e‍i‍j‍i‍y‍i
+info:Sunshine Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 27, 2024
+msg:全台小萬服務很熱情微笑服務做得好👍
+----------------------------------------
+name:L‍e‍o‍n‍0‍7‍1‍3‍y‍u
+info:Apartment Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted May 26, 2024
+msg:房間很好，櫃枱很友善也很有耐心
+----------------------------------------
+name:Q‍i‍n‍g‍s‍u‍c‍a‍n‍g‍y‍u‍e‍m‍i‍n‍g
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Family
+info:40 Reviews
+rating:5
+posted:Posted March 20, 2024
+msg:很好的酒店，在成都，性價比高，推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted May 29, 2024
+msg:房間體驗很好，很新的酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted April 12, 2024
+msg:房間很不錯。以後還會入住。
+----------------------------------------
+name:l‍e‍s‍o‍n‍g‍0‍0‍7
+info:Deluxe Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 25, 2024
+msg:乾淨整潔，寬敞舒適。
+----------------------------------------
+name:Y‍a‍n‍g‍t‍a‍o
+info:Sunshine Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:312 Reviews
+rating:5
+posted:Posted May 13, 2024
+msg:地鐵口附近，交通方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:8 Reviews
+info:Business travelers
+info:Stayed in May 2024
+rating:5
+posted:Posted May 16, 2024
+msg:乾淨，衞生，非常好！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior 2-bed Room
+info:Stayed in April 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:位置就在地鐵站上面
+----------------------------------------
+name:M‍o‍d‍a‍o‍r‍u‍g‍u‍o
+info:Sunshine Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 23, 2024
+msg:非常棒的消費體驗
+----------------------------------------
+name:X‍i‍n‍y‍e‍k‍o‍n‍g‍g‍u‍j‍i‍t‍u‍a‍n
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:18 Reviews
+rating:4.2
+posted:Posted March 22, 2024
+msg:工作人員要加強培訓。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:9 Reviews
+rating:4
+posted:Posted May 26, 2024
+msg:中規中矩 沒什麼特別
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in April 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted May 16, 2024
+msg:很滿意，還會再去
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Apartment Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 19, 2024
+msg:房間很好，很新
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Sunshine Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:24 Reviews
+rating:4.7
+posted:Posted April 30, 2024
+msg:新酒店挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted May 9, 2024
+msg:房間非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:住的很滿意
+----------------------------------------

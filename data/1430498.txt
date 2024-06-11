@@ -1,0 +1,2770 @@
+name:B‍e‍a‍l‍l
+info:Executive Double Room
+info:Stayed in April 2021
+info:Couples
+info:3 Reviews
+rating:4
+posted:Posted July 11, 2021
+msg:Hotel was in need of an upgrade, rooms were very tired.
+Typical 3 star chinese hotel. 
+
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Double Room
+info:Stayed in March 2024
+info:Family
+info:7 Reviews
+rating:4
+posted:Posted April 2, 2024
+msg:The room is very large and very comfortable. After returning, I found that the original charger was left in the room. The hotel found it and sent it to me the same day. Thank you very much.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 30, 2023
+msg:I have stayed at Mingfa Hotel several times and I am very satisfied every time. Parking is very convenient, the rooms are clean and hygienic, and the staff are very enthusiastic. The takeaways ordered are delivered upstairs by robots, which is very user-friendly. The check-in service at the front desk is very considerate. I will return it in the future. I will come here often and wish the hotel a prosperous business!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 20, 2023
+msg:The hotel environment in the lobby is very good, the rooms are clean and hygienic, the service staff are very warm and thoughtful, and the front desk service is considerate. Mingfa Hotel will be the first choice in the future!
+----------------------------------------
+name:z‍a‍l‍z‍h‍a‍n‍g
+info:Superior Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:3.7
+posted:Posted October 23, 2023
+msg:There is no air conditioning in this weather, and I was so hot all night that I opened the window and danced in the square at night. The sound was extremely loud. I also had morning exercises early in the morning, so I didn’t get a good rest anyway.
+----------------------------------------
+name:J‍i‍a‍n‍g‍c‍h‍e‍n‍g‍z‍i
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:6 Reviews
+rating:1
+posted:Posted September 7, 2023
+msg:The service is so bad. There is a do not disturb sign at the door, and the front desk calls to harass, which affects the rest. I didn't do any sanitation for one day. I went to the front desk at 9 a.m. the next day and asked for sanitation. The cleaning staff came late. The cleaning lady said that the manager asked and said that guests don't need to do sanitation. I don't know which guest said this. It's inexplicable!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 8, 2024
+msg:酒店環境很好，整體很乾凈，前台接待倩倩美女服務很熱情周到，體驗感很不錯，好評！下次還來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in May 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:和朋友一起出行，訂的這個酒店，環境相對比較清凈，非常安逸。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted April 20, 2024
+msg:房間乾淨整潔，前廳瑞雪熱情，入住很快，非常方便，下次還會選擇這裏[愉快]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:75 Reviews
+rating:5
+posted:Posted February 3, 2024
+msg:房間不錯 早餐到十點 時間很充足 酒店旁邊有永輝超市 還有商場 位置挺好 吃飯的地方也很多 挺方便的  物美價廉 推薦推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Double Room
+info:Stayed in November 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted November 26, 2023
+msg:這家酒店真的很棒！500塊行政房非常大，設施一應俱全，衹有你想不到的，沒有他沒有的，浴缸，電動馬桶，沙發書桌，茶桌等等，還有衣帽間，所以的細節小物件都考慮到了，一次性浴缸套，馬桶墊，還很乾凈，餐飲口味也很不多，物超所值！以後去合肥就住他家
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in May 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted May 2, 2024
+msg:第二次住  不錯
+----------------------------------------
+name:D‍a‍o‍y‍a‍n‍～‍w‍o‍t‍a‍n‍g‍n‍a‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in November 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted November 20, 2023
+msg:設施以及裝修都讓人眼前一亮，這個價位真是物超所值了，還有超大的停車場，唯有部分細節讓人略顯遺憾，這麼好的酒店隔音居然很差，早晨隔壁打掃的聲音呯呯作響，淋浴間地漏下水的聲音猶如跑火車。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Couples
+info:6 Reviews
+rating:1
+posted:Posted May 7, 2024
+msg:體驗感不好  前台不會提醒客人停車券 進來幾分鐘出去就要5塊錢 設施都比較老化了 服務也很差 拽的要死 我定好幾天套房和大床房 送個早餐都不送 嘰嘰喳喳講一大堆  不推薦不推薦 ！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in December 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted February 13, 2024
+msg:還可以吧。停車比較方便，靠近高速公路，算非常豪華的酒店，早餐非常的豐盛。符合大部分人的習慣，我覺得還能接受
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:54 Reviews
+rating:5
+posted:Posted October 30, 2023
+msg:衞生整潔，服務態度好，性價比好，早餐也還可以，值得推薦。等過幾個月，四里河路道路解除封閉後，交通會很便利。
+----------------------------------------
+name:M‍u‍n‍i‍a‍n‍k‍u‍x‍i‍n‍g‍s‍e‍n‍g
+info:Deluxe Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted November 20, 2023
+msg:中規中矩，位置比較偏，所以價格比較划算。明發一直給人很土的感覺，這家還算行吧。周邊有一點小飯店可以解決吃飯的問題。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in November 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 27, 2023
+msg:很好的體驗，環境衞生都很不錯，附近商圈也很近，很方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Friends
+info:109 Reviews
+rating:5
+posted:Posted May 7, 2024
+msg:酒店環境很好，房間很大，設施齊全，附近交通便利，有商場和超市，吃喝都很方便，入住很舒適，體驗很不錯。相當可以。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 22, 2023
+msg:挺不錯的！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:酒店整體環境很好，前台胡女士服務周到，幫忙把行李送到房間還送了水果🍏，非常值得推薦
+----------------------------------------
+name:K‍u‍n‍k‍u‍n‍1‍9‍9‍1‍1‍2
+info:Superior Double Room
+info:Stayed in May 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted June 7, 2024
+msg:ruirui服務效率高，需要一次性刮鬍刀，馬上送來，房間面積大，早餐也很好👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted April 24, 2024
+msg:大堂經理路生很熱情，酒店整體環境很好，非常高大尚，也很安靜，非常一次滿意的入住[微笑]
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 19, 2024
+msg:酒店環境很好，停車廠很大，附近交通也很方便，前台小晴服務很好，辦理入住很快。
+----------------------------------------
+name:M‍a‍k‍e‍c‍h‍e‍n
+info:Superior Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:78 Reviews
+rating:5
+posted:Posted March 18, 2024
+msg:每次來合肥基本都住這家店，衞生服務和設施很滿意，早餐也很好吃，還沒有機會體驗健身房，下次一定去遊個泳
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted April 12, 2024
+msg:酒店環境非常好，乾淨衞生，早餐非常豐富，設施配套齊全，露露服務很好，下次還會再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted January 13, 2024
+msg:乾淨整潔，配套設施齊全，服務非常周到，門口有大型停車廠，交通便利
+設施：齊全
+衞生：乾淨
+環境：優美
+服務：周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted January 11, 2024
+msg:位置佳，酒店早餐還可以。以前也是個響噹噹的酒店，現在在北二環那邊也還行。周邊有商業。餐飲行業不錯，歡迎來合肥
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted January 30, 2024
+msg:房間乾淨衞生，附近會客吃飯都非常方便，服務態度很好，房間設施完善，好像還有自助餐不知道什麼時候開放。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted May 16, 2023
+msg:酒店床品乾淨整潔 ，舒適。前台曉潔熱情周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:前台路路服務很好，酒店環境很不錯，房間很安靜，住的很舒服。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in October 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted October 29, 2023
+msg:各方面都很好，酒店性價比高，保潔阿姨很有笑容態度好，但前台真的很扣分，辦入住表情一點都不好，讓客人感受到冷漠的表情和不舒服～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted June 4, 2024
+msg:酒店停車很方便，衞生乾淨，小何月女士服務態度非常滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted August 27, 2023
+msg:酒店裝修不錯，設施齊全，還有游泳池，服務非常到位，建議到合肥的朋友首選住宿酒店，價格非常優惠，知道我們有小朋友，還送了一份小朋友吃的水果糕點，非常到位。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 12, 2024
+msg:房間乾淨，服務熱情，前台lulu服務很好，還送了一份精美水果。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted May 3, 2024
+msg:交通便利，酒店位置很好找，前台服務很好，露露服務也很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in November 2023
+info:Solo travelers
+info:8 Reviews
+rating:5
+posted:Posted November 26, 2023
+msg:前台服務員張昊很贊，幫忙升級到更安靜的房型。床很舒服。房間也比較大。好停車，有專門的區域和專人看管。
+----------------------------------------
+name:Y‍i‍m‍i‍n‍g‍j‍i‍e
+info:Deluxe Room (2 beds)
+info:Stayed in October 2023
+info:Couples
+info:15 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:合肥明發大酒店，停車位準備的充分，客房舒適潔凈，電梯不擁擠。早餐實惠花樣多，服務員禮貌客氣。下次去合肥還住明發大酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted April 24, 2024
+msg:酒店環境很好，前台服務也不錯，大廳露露服務很熱情[微笑]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted September 17, 2023
+msg:之前住過很多酒店，依然覺得明發酒店服務細緻，每次來就像回家的感覺，尤其是前台計經理給人感覺專業，自然，衝著這種服務和配置，以後會繼續支持！
+----------------------------------------
+name:L‍i‍s‍u‍o‍n‍e‍i‍p‍i‍z‍h‍e‍n‍g
+info:Superior Double Room
+info:Stayed in May 2024
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:房間舒適，早餐豐富，小姚工作用心，下次還會選擇這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 7, 2024
+msg:酒店何茂月服務很好很滿意，下次還會再來入住
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted March 5, 2023
+msg:酒店衞生非常棒，房間很温馨
+----------------------------------------
+name:Y‍i‍g‍e‍d‍a‍g‍u‍a‍n‍r‍e‍n
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:地理位置好，環境也很好，前台小姚熱情，滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in April 2024
+info:Other
+info:8 Reviews
+rating:4.7
+posted:Posted April 18, 2024
+msg:房間設施齊全，前廳小姚熱情，下次還會選擇這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted April 25, 2024
+msg:房間乾淨整潔，前廳瑞雪熱情，下次還會選擇這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:5 Reviews
+rating:1
+posted:Posted March 11, 2024
+msg:早餐太差，早上7.30去吃早餐，幾乎沒什麼菜，服務差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted August 26, 2023
+msg:酒店服務熱情周到，貼心的贈送了果盤，房間環境整潔，環境氛圍安靜，服務細心，早餐可選種類多，下次出差會再次選擇
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2023
+info:Other
+info:18 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:房間很好，酒店入住非常愉快，服務也不錯，前台張.昊妥妥的，很nice。
+----------------------------------------
+name:Y‍i‍n‍g‍j‍i‍c‍h‍a‍n‍g‍k‍o‍n‍g‍T‍Z
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Family
+info:4 Reviews
+rating:4
+posted:Posted March 19, 2024
+msg:服務很好，以前來的時候早餐很豐富有牛肉拉麪，現在檔次直接下來了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:13 Reviews
+rating:4.7
+posted:Posted May 13, 2023
+msg:應該説入住時兩位男士前台接待專業但缺乏温度，離店是兩位女士同樣專業但在她們的臉上掛着微笑，且讓人能感覺到她們的友善。前者沒錯，但後者更為酒店加分。
+----------------------------------------
+name:l‍j‍r‍2‍0‍0‍7
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted August 18, 2023
+msg:每次到合肥都入住這家酒店，體驗感很好，酒店服務很貼心，設施條件乾淨衞生，周邊交通便利，早茶十分豐盛。
+----------------------------------------
+name:7‍6‍7‍6
+info:Deluxe Room (2 beds)
+info:Stayed in November 2023
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted November 21, 2023
+msg:性價比非常高，值得推薦👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted January 12, 2024
+msg:非常滿意
+設施：棒
+衞生：棒
+環境：非常好
+服務：到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2024
+info:Solo travelers
+info:11 Reviews
+rating:5
+posted:Posted March 5, 2024
+msg:入住體驗良好，環境衞生服務都沒得説，值得推薦
+----------------------------------------
+name:t‍a‍n‍g‍n‍a‍n‍ ‍k‍k
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:環境很舒適，服務態度也好，衞生環境也很好！下次還會來
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted August 31, 2022
+msg:很好，住的很舒服，服務人員態度很好，前台工作人員效率很高，早餐豐富，價格也不算貴，性價比很高，酒店門口購物方便，很不錯的一次差旅之行！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 19, 2023
+msg:點評模板：房間不錯，很乾凈。前台小楊服務熱情周到，退房贈送了小禮品。給酒店點贊！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:88 Reviews
+rating:4.2
+posted:Posted April 23, 2023
+msg:還可以吧。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。性價比高。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted January 12, 2024
+msg:房間很好，價格實惠，前台李玉欣服務很好，走的時候還有水果
+----------------------------------------
+name:F‍e‍i‍y‍u‍e‍d‍e‍q‍i‍e
+info:Guestroom (Double bed)
+info:Stayed in June 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted June 29, 2023
+msg:房間寬敞明亮，衞生乾淨，還有入室的精緻水果，非常不錯。前台服務人員熱情大方，服務細緻，有賓至如歸的感覺
+----------------------------------------
+name:D‍a‍d‍e‍n‍g‍9‍7‍2
+info:Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted May 18, 2024
+msg:房間舒適自在，出行方便，服務好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted January 7, 2024
+msg:酒店前台小傑服務很好、退房有送水！各方面不錯😌👍
+----------------------------------------
+name:B‍a‍l‍i‍d‍e‍x‍u‍a‍n‍l‍v
+info:Guestroom (2 beds)
+info:Stayed in December 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted January 1, 2024
+msg:酒店環境很好，房間衞生乾淨，
+設施齊全，交通便利
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted April 27, 2024
+msg:茂月服務很温柔有耐心，專業水平高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted April 21, 2023
+msg:朋友推薦去住，住的很舒服，前台美女小關很不錯哦，熱情，開朗，身份證丟在前台了還幫我用機器人送給我，還有充電器接頭，很好的小姑娘
+----------------------------------------
+name:‍y‍u‍e‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 11, 2023
+msg:酒店非常乾淨，夏天很喜歡可以游泳，前台劉彩霞服務很好很好，非常熱情周到，以後經常來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in December 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted December 31, 2023
+msg:房間很滿意，退房前台還送了小孩一份水果，很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted July 24, 2023
+msg:劉彩霞服務很好，非常細心！酒店也非常值得推薦！
+家庭旅行，商務出差都很不錯👍下次還來
+----------------------------------------
+name:S‍a‍n‍l‍a‍n‍g‍h‍u‍i‍h‍u‍i
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:經常入住明發，這次帶孩子一起，很滿意，早餐很豐富，衞生也很好。停車場非常方便。
+----------------------------------------
+name:c‍a‍r‍d‍s‍u
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:6 Reviews
+rating:3.5
+posted:Posted September 17, 2023
+msg:房間面積較寬敞，設備配置優良 但是煙味太大了，酒店周邊環境也比較亂
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2023
+info:Booked for others
+info:2 Reviews
+rating:5
+posted:Posted June 22, 2023
+msg:環境不錯，
+設施：設備設施不錯
+環境：環境不錯
+服務：服務很贊，前台，小哥張。昊入住辦理很快。點贊
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted August 8, 2023
+msg:酒店環境很好，房間乾淨衞生，服務熱情周到，感謝前台小查的貼心服務，以後常來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted January 11, 2024
+msg:前台小傑服務熱情，入住有贈送水果，很貼心！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Suite
+info:Stayed in May 2024
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted May 16, 2024
+msg:房間很乾凈，前台服務很好！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted June 22, 2023
+msg:酒店環境很好，離超市很近，前台還有機器人可以幫忙送外賣，前台工作人員張.昊非常nice 非常好
+----------------------------------------
+name:N‍i‍c‍a‍i
+info:Deluxe Room (2 beds)
+info:Stayed in September 2023
+info:Other
+info:27 Reviews
+rating:5
+posted:Posted September 14, 2023
+msg:房間挺乾淨的，周邊交通停車都方便，早上的早餐也很豐富，味道也不錯！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted April 16, 2023
+msg:雖然是老酒店，環境挺好的，服務特別好，去的晚，前台美女關亞茹很貼心地幫我升級了房型，下次去合肥還會選擇去住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted January 13, 2024
+msg:前台李玉欣服務很好，酒店環境設施也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 20, 2023
+msg:常客，前台服務細緻入微，非常感謝前台小傑延遲退房，想顧客所想，點👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in April 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted April 21, 2024
+msg:酒店不錯，前廳小張非常好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:83 Reviews
+rating:4.5
+posted:Posted February 23, 2024
+msg:酒店比較老，但是服務不錯，交通也方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Double Room
+info:Stayed in April 2024
+info:Other
+info:22 Reviews
+rating:5
+posted:Posted April 19, 2024
+msg:房間很好前台劉彩霞服務熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 21, 2022
+msg:酒店環境地理位置優越，旁邊有商場和大型超市，停車場非常大，停車非常方便。前台服務很好，入住和辦理退房速度都很快，效率很高，服務很貼心特別是小查，酒店沒有因為疫情原因降低服務標準，希望一直保持，以後還會選擇明發！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted April 17, 2023
+msg:客房環境不錯，早餐很豐盛，辦理入住時一個姓楊的小夥子熱情的介紹了周邊景點以及可以散步的公園，很不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:50 Reviews
+rating:5
+posted:Posted May 26, 2024
+msg:環境優美、服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:1
+posted:Posted April 21, 2023
+msg:預訂錯日期辦理續住前台沒發現告訴我沒問題結果第二天發現有問題了又讓我重新走流程預訂及其不人性
+----------------------------------------
+name:L‍i‍u‍q‍i‍n‍g‍_‍L‍u‍c‍y
+info:Deluxe Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted June 4, 2023
+msg:住了一段時間了，體驗很不錯。點贊前台孫丹丹小姐姐的體貼服務。健身房也很不錯。
+----------------------------------------
+name:Y‍a‍o‍l‍i‍a‍n‍g‍y‍o‍n‍g
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:90 Reviews
+rating:5
+posted:Posted December 5, 2023
+msg:常客＇服務態度一直很好＇特別前台小計＇會繼續支持
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in January 2024
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted January 18, 2024
+msg:很滿意，特別是計服務的非常周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:23 Reviews
+rating:4.5
+posted:Posted April 8, 2023
+msg:老牌五星酒店，位置很好，前台丹丹特別熱情～各方面服務都很棒，入住前還送了一份禮品，好棒👍
+----------------------------------------
+name:A‍h‍u‍i‍-‍P‍e‍t‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in February 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted February 12, 2024
+msg:總體還行，感覺沒上次性價比高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted August 21, 2023
+msg:酒店環境很好，房間很大很乾凈，前台小查服務熱情體貼！
+----------------------------------------
+name:X‍i‍a‍o‍y‍u‍g‍e‍g‍e
+info:Superior Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:61 Reviews
+rating:5
+posted:Posted February 22, 2023
+msg:酒店位置很方便，邊上就是廣場，離萬達廣場也很近，吃喝住行非常便利，性價比很高，下次會繼續選擇的～～～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2022
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted October 4, 2022
+msg:第一次帶小孩來合肥旅遊，在辦理入住時小查很貼心的送上小童拖鞋牙具，還送了伴手禮，小朋友很開心，房間也超乎想象的滿意，很大很乾凈，早餐也很豐富，品種多樣，祝明發生意興隆！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2024
+info:Booked for others
+info:5 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:反應入住的很滿意。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2024
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted March 18, 2024
+msg:酒店不錯，雯雯工作認真
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Parent-child Room
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 1, 2023
+msg:每次出行合肥首選
+衞生：乾淨
+服務：周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in November 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted November 12, 2023
+msg:房間很好，前台的小林服務態度很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 28, 2023
+msg:入住非常滿意，免費升級還有貼心打印服務，丹丹耐心服務，點贊!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted May 29, 2023
+msg:乾淨衞生，舒適整潔。性價比超高，廬陽首選酒店前台孫丹丹服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in March 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted June 10, 2023
+msg:廬陽區比較好的酒店，出行也比較方便，升級了套房，這個房型不錯，推薦，鎖定
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Couples
+info:11 Reviews
+rating:5
+posted:Posted April 10, 2023
+msg:酒店服務很好，衞生乾淨，何茂月小姐姐服務很滿意、下次還會繼續入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 11, 2023
+msg:每次出差都會選擇明發酒店，跟回家一樣，前台小查服務很貼心！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 12, 2023
+msg:房間很不錯 查經理很熱情 很不錯還會再來
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted September 12, 2023
+msg:房間寬敞，採光充足，前台小潔服務熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2023
+info:Solo travelers
+info:1 Review
+rating:1.7
+posted:Posted December 21, 2023
+msg:吧枱服務員女生説話態度差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 19, 2023
+msg:性價比高，老牌酒店，中規中矩，沒特色，也沒毛病。房間乾淨整潔，洗漱用品齊全。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:2 Reviews
+rating:2
+posted:Posted November 21, 2022
+msg:攜程上訂的房間298元，體驗感不好，前台服務差，房間空調沒有暖風。反饋後告訴我可以提供一個電暖爐給我！！！
+----------------------------------------
+name:F‍f‍-‍f‍a‍n‍g
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:4
+posted:Posted January 1, 2024
+msg:環境：隔音效果好
+
+衞生：衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in May 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:不錯，性價比高
+----------------------------------------
+name:f‍e‍l‍i‍x
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:59 Reviews
+rating:5
+posted:Posted May 11, 2023
+msg:酒店前台服務很好，前台彩霞給予了免費升級！點贊！強烈推薦。
+----------------------------------------
+name:D‍a‍n‍g‍n‍i‍a‍n‍m‍i‍n‍g‍y‍u‍e‍j‍i‍e‍g‍e
+info:Guestroom (2 beds)
+info:Stayed in November 2023
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted December 24, 2023
+msg:服務貼心，裝修可，位置不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2024
+info:Booked for others
+info:3 Reviews
+rating:5
+posted:Posted April 23, 2024
+msg:好👌！！！！！
+----------------------------------------
+name:B‍e‍i‍k‍e‍l‍a‍o‍z‍h‍o‍u
+info:Superior Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted May 15, 2023
+msg:經常入住，非常不錯，前台張龍辰服務很好，免費升級了房間，乾淨衞生。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 4, 2022
+msg:酒店周邊交通便利，附近有港榮百貨永輝超市，停車場很大，很方便，出來旅遊的，小查很熱情給我介紹合肥周邊旅遊景點，很暖心！
+----------------------------------------
+name:X‍i‍n‍g‍z‍o‍u‍z‍a‍i‍l‍u‍s‍h‍a‍n‍g
+info:Deluxe Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:30 Reviews
+rating:5
+posted:Posted December 29, 2023
+msg:房間很舒適 早飯很豐盛
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 14, 2023
+msg:體驗非常棒！酒店工作人員也很nice，感謝丹丹的耐心幫助
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 8, 2024
+msg:服務好，乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room (2 beds)
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 3, 2024
+msg:前天劉彩霞服務熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted May 20, 2023
+msg:這家酒店各方面都滿意，前台丹丹很熱情客氣，好評！
+----------------------------------------
+name:Y‍a‍o‍b‍a‍o‍S‍I‍R
+info:Superior Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:82 Reviews
+rating:4.7
+posted:Posted April 4, 2024
+msg:在這個位置，還算不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted November 4, 2023
+msg:給家人定的，他們很滿意，服務好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2023
+info:Other
+info:26 Reviews
+rating:5
+posted:Posted September 22, 2023
+msg:房間乾淨衞生，小查服務熱情周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted October 21, 2022
+msg:已經是明發酒店的常客了，多次入住，每次體驗都很好，小查服務很熱情，房間很大很寬敞，衞生也很乾凈，nice！
+----------------------------------------
+name:C‍h‍u‍c‍h‍a‍d‍u‍o‍l‍a
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:22 Reviews
+rating:1
+posted:Posted April 16, 2023
+msg:服務：差
+衞生：差
+設施：老
+算是今年所有住宿酒店最差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted April 30, 2024
+msg:房間很大很舒適
+----------------------------------------
+name:s‍w‍e‍e‍t‍3‍2‍6‍4
+info:Deluxe Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 9, 2023
+msg:衞生：乾淨
+環境：漂亮
+服務：好
+設施：乾淨安全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in November 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted November 10, 2022
+msg:床很舒服，睡得很好，位置很好，附近是購物中心，吃的很多。房間很大，隔音很好，前台小查服務超級好！
+----------------------------------------
+name:S‍h‍a‍n‍c‍h‍u‍a‍n‍x‍i‍l‍i‍u
+info:Superior Double Room
+info:Stayed in February 2022
+info:Couples
+info:26 Reviews
+rating:5
+posted:Posted February 23, 2022
+msg:五星豪華酒店，房間寬敞、衞生乾淨，早餐品種豐富，酒店服務周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 27, 2022
+msg:酒店環境不錯，服務可以，房間乾淨衞生，入住非常好，前台寶生非常nice，周到。旁邊還有永輝超市，購物也很方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted September 29, 2022
+msg:酒店衞生環境很棒，前台.張.昊入住幫了很多忙，非常好，設備齊全，衞生好，環境好，服務幫。附近購物也很方便。
+----------------------------------------
+name:J‍a‍s‍o‍n‍_‍S‍u‍n‍.
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 31, 2023
+msg:每次來合肥出差，都住這一家酒店，服務是一如既往的好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted October 25, 2022
+msg:明發大酒店依舊温馨舒適，工作人員熱情周到，房間乾淨衞生，早班味道很好，品種多樣！給小查服務點贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:55 Reviews
+rating:5
+posted:Posted April 23, 2024
+msg:特別好的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted December 17, 2023
+msg:前台劉彩霞服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in December 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted January 1, 2024
+msg:前台劉彩㇏霞服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 3, 2024
+msg:很好很滿意
+----------------------------------------
+name:K‍u‍j‍i‍n‍g‍a‍n‍l‍a‍i‍h‍a‍o
+info:Superior Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:48 Reviews
+rating:3.8
+posted:Posted May 14, 2024
+msg:前台服務很熱情
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 10, 2022
+msg:酒店環境不錯，客房舒適，早餐豐盛。前台姓楊的服務員還贈送了伴手禮很開心，下次還回來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 28, 2022
+msg:酒店衞生不錯，入住非常愉快，酒店環境不錯，周圍買東西也方便，早餐非常好，前台.雨.晴幫了很多忙，點贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 24, 2023
+msg:劉彩霞服務很好，酒店房間衞生乾淨
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2022
+info:Business travelers
+info:56 Reviews
+rating:1
+posted:Posted May 16, 2022
+msg:可能這個酒店已經進入倒閉倒計時了。每一次入住早餐的規模就在縮小30%。現在已經有一個枱子，直接不擺東西了。那既然搞成這樣，你還不如關閉算了，你還何必在這裏這麼辛苦呢。不知道是哪裡來的開發商這麼大的勇氣，在這種服務質量直線跳水的情況下，仍然在開着這個酒店。全酒店最敬業的就是前台查行程碼的老頭子，反覆的看，什麼碼都要看，還得拍照。不知道大洋鎮的防疫領導看了以後作何感想。以後我要再住，我全家死光
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2023
+info:Booked for others
+info:3 Reviews
+rating:5
+posted:Posted May 12, 2023
+msg:整體還是很不錯的，性價比高，朋友反映不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted October 28, 2023
+msg:房間安靜，服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2023
+info:Other
+info:20 Reviews
+rating:5
+posted:Posted June 7, 2023
+msg:衞生：乾淨整潔
+環境：舒服
+服務：非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:18 Reviews
+rating:4.5
+posted:Posted July 9, 2023
+msg:酒店服務人員態度很好，就是酒店的位置道路教窄
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:5 Reviews
+rating:4.7
+posted:Posted April 3, 2023
+msg:酒店性價比高，前台關亞茹很熱情，下次還會選擇。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted February 28, 2023
+msg:環境，服務，設施，衞生，優秀，在合肥是值得入住的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:41 Reviews
+rating:5
+posted:Posted May 7, 2024
+msg:不錯挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted June 2, 2023
+msg:前廳張昊服務好 入住贈送了小禮物 點贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 28, 2022
+msg:酒店衞生不錯，空調舒適，交通方便，環境不錯，早餐非常好，入住期間幫了很多忙，給雨.晴，點贊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)
+info:Stayed in May 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted June 4, 2024
+msg:早餐很豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted October 3, 2022
+msg:酒店環境不錯，入住非常愉快，周邊購物方便，還有免費的健身房可以使用，前台張。浩。服務不錯，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted April 2, 2024
+msg:很好，非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in March 2024
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted April 5, 2024
+msg:劉彩霞服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 21, 2024
+msg:十分的滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 14, 2022
+msg:酒店環境好，前台秦小傑服務好，有贈送温水捂手 很暖心。非常不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:值得推薦的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)
+info:Stayed in February 2022
+info:Couples
+info:8 Reviews
+rating:5
+posted:Posted February 11, 2022
+msg:以前住在北二環這邊都沒發現明發這個寶藏酒店，相當滿意，訂的明尊房，價格相比合肥其他老牌5星太划算了。房間寬敞安靜舒適，前台服務也很棒，走的時候還送了台曆，還有零食和加熱的瓶裝水，太貼心了，下次回合肥還來住😁
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:17 Reviews
+rating:4
+posted:Posted October 12, 2023
+msg:房間豪華稍舊，房間寬敞安靜
+----------------------------------------
+name:P‍i‍n‍g‍m‍a‍k‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:16 Reviews
+rating:4.5
+posted:Posted June 22, 2022
+msg:酒店的服務不錯，早餐比較一般。亮點是帶游泳池。附近做核酸的地方比較近。
+在前台入住時，還免費升級到行政樓層，非常贊。
+----------------------------------------
+name:Y‍a‍n‍n‍a‍n‍t‍i‍a‍n‍2‍2‍2
+info:Suite
+info:Stayed in April 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted July 19, 2023
+msg:設施：齊全
+
+環境：很好
+服務：不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 8, 2023
+msg:出差真的體驗不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Couples
+info:1 Review
+rating:5
+posted:Posted October 3, 2021
+msg:體驗感極好，前廳小姐姐非常熱情的接待。還送上了入住水果，特別新鮮。早餐也特別好吃。感謝每一位員工帶來的温暖。
+----------------------------------------
+name:m‍a‍r‍k
+info:Deluxe Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted June 6, 2023
+msg:房間乾淨，很寬敞，前台服務也好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in November 2022
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted December 1, 2022
+msg:安全防疫做的很好，酒店前台小傑也很有耐心，會一如既往的支持！
+----------------------------------------
+name:D‍i‍e‍r‍e‍n‍t‍e‍n‍g‍s‍h‍e‍n‍k‍e‍q‍i‍n‍g
+info:Deluxe Room (2 beds)
+info:Stayed in October 2023
+info:Business travelers
+info:11 Reviews
+rating:3
+posted:Posted January 1, 2024
+msg:隔音不好，夜裡太吵
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 17, 2024
+msg:整體服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 4, 2023
+msg:環境挺好！入住舒適！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:44 Reviews
+rating:5
+posted:Posted November 23, 2023
+msg:酒店離高鐵站很近
+----------------------------------------
+name:T‍i‍a‍n‍h‍u‍a‍b‍a‍n‍g‍c‍h‍u
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:75 Reviews
+rating:4
+posted:Posted September 7, 2023
+msg:整體不錯，就是一樓吵
+----------------------------------------
+name:W‍e‍i‍e‍r‍d‍e‍n‍g‍w‍u‍j‍i‍a‍n‍z‍h‍a‍n‍g
+info:Deluxe Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted March 7, 2024
+msg:整體還不錯
+----------------------------------------
+name:P‍a‍n‍g‍z‍i
+info:Guestroom (Double bed)
+info:Stayed in February 2024
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted February 15, 2024
+msg:性價比高。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 11, 2023
+msg:前台孫丹丹態度很不錯，值得表揚👍
+----------------------------------------
+name:Z‍h‍e‍n‍g‍z‍a‍w‍o‍b‍u‍z‍h‍u‍d‍e‍l‍i‍u‍s‍h‍a
+info:Guestroom (2 beds)
+info:Stayed in February 2024
+info:Solo travelers
+info:13 Reviews
+rating:5
+posted:Posted May 1, 2024
+msg:好好好好好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 26, 2023
+msg:非常不錯的入住體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:2 Reviews
+rating:3.2
+posted:Posted September 27, 2022
+msg:連個送外賣的機器人都沒有，要自己下來拿，要送上去給10塊，服了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted December 4, 2023
+msg:安靜舒適衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted October 25, 2022
+msg:服務環境都槓槓的，交通便利，停車方便，感謝小查熱情接待
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted October 7, 2022
+msg:酒店很不錯，周邊購物出行便利，前台小傑服務熱情，床品舒適。
+----------------------------------------
+name:L‍e‍o‍ ‍X‍u‍1‍2‍3
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 20, 2023
+msg:挺大，很好
+服務：很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 17, 2023
+msg:房間環境衞生乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:進出方便 環境不錯
+----------------------------------------
+name:A‍n‍h‍u‍i‍j‍i‍n‍t‍i‍a‍n
+info:Deluxe Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:66 Reviews
+rating:4
+posted:Posted August 6, 2023
+msg:環境一般好服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)
+info:Stayed in April 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted April 26, 2023
+msg:其他還好，就是空調不能製冷
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 30, 2023
+msg:賓館不錯，早餐差點。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2022
+info:Business travelers
+info:62 Reviews
+rating:4
+posted:Posted December 28, 2022
+msg:還可以，衞生也還不錯。關鍵房間裏啥也沒有
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Parent-child Room
+info:Stayed in June 2023
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted June 29, 2023
+msg:酒店服務好，小查熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2023
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted May 7, 2023
+msg:前台小關很熱情，很滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2023
+info:Booked for others
+info:11 Reviews
+rating:5
+posted:Posted October 26, 2023
+msg:停車方便價格不高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 24, 2023
+msg:酒店環境乾淨整潔，住得放心！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 23, 2022
+msg:酒店環境很好，防疫工作很到位，感謝小查熱情接待！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:10 Reviews
+rating:4.7
+posted:Posted March 10, 2023
+msg:環境好，停車方便，服務非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2022
+info:Other
+info:20 Reviews
+rating:5
+posted:Posted September 28, 2022
+msg:不錯，客服處理問題很高效，必須要點贊🌟前台劉彩霞服務也很好！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)
+info:Stayed in February 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted February 20, 2023
+msg:很好，服務周到，環境優雅 安靜
+----------------------------------------
+name:W‍e‍i‍w‍e‍i‍2‍2‍2‍0
+info:Superior Double Room
+info:Stayed in October 2023
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted October 15, 2023
+msg:房間環境很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)
+info:Stayed in May 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 14, 2023
+msg:環境不錯，早餐可以。
+----------------------------------------
+name:C‍a‍i‍s‍h‍e‍n‍g‍x‍i‍a‍n
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 9, 2023
+msg:就是電視打開了遙控器關不掉
+----------------------------------------
+name:H‍a‍n‍b‍a‍o‍b‍a‍o‍d‍a‍d‍d‍y
+info:Superior Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 8, 2021
+msg:第一次入住這家酒店，整體體驗還是不錯的，防疫工作也做得很到位，前台小秦服務也很好，入住是還贈送了熱的礦泉水和小吃，特別暖心，下次會繼續選擇！
+----------------------------------------
+name:M‍x‍i‍a‍o‍g‍e‍g‍e
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 23, 2023
+msg:還不錯，乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2023
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted June 27, 2023
+msg:非常滿意，入住方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted November 5, 2022
+msg:還不錯，服務態度很好，希望生意越來越好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:18 Reviews
+rating:4.5
+posted:Posted December 7, 2023
+msg:臨街有點鬧
+----------------------------------------
+name:J‍i‍u‍m‍e‍i‍。
+info:Deluxe Room (2 beds)
+info:Stayed in September 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted September 25, 2022
+msg:環境還不錯，服務熱情，交通方便，下次還會入住
+----------------------------------------
+name:S‍h‍i‍g‍u‍a‍n‍g‍b‍o‍j‍u‍e
+info:Superior Double Room
+info:Stayed in September 2022
+info:Other
+info:7 Reviews
+rating:3.5
+posted:Posted September 10, 2022
+msg:空調無力吐槽 調到16度 最大風速 還是熱……
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 22, 2023
+msg:房間舒適，早餐不錯👍。
+----------------------------------------
+name:D‍a‍p‍e‍n‍g‍b‍a‍n‍c‍h‍a‍n‍g
+info:Deluxe Double Room
+info:Stayed in April 2022
+info:Solo travelers
+info:12 Reviews
+rating:5
+posted:Posted April 8, 2022
+msg:服務不錯，乾淨衞生！免費給升房了！停車場就在酒店門口，很方便。早餐沒有吃，不清楚。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in July 2022
+info:Friends
+info:16 Reviews
+rating:5
+posted:Posted July 21, 2022
+msg:體驗很棒，周邊環境好，每次都來這邊入住，小魏服務非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 2, 2023
+msg:早餐不錯，裝修還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2021
+info:Business travelers
+info:27 Reviews
+rating:1
+posted:Posted October 3, 2021
+msg:🔔服務：特別差，打電話到吧枱要浴巾跟洗髮水，一個小時都沒給送，打完第二遍電話才給送來。
+衣服洗了，沒法下樓吃早餐，打電話叫的外賣，還加我服務費才給送來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted August 10, 2021
+msg:酒店環境衞生不錯，工作人員服務態度很到位！尤其是前台接待人員劉彩霞，譚麗萍等人，非常熱情，服務非常貼心！給您們點贊！但是，早餐需要有待提高，早點品種太少，品質一般，與酒店服務無法匹配！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted September 1, 2023
+msg:房間很大，很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted August 30, 2023
+msg:非常不錯的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted July 16, 2023
+msg:房間乾淨整潔
+----------------------------------------
+name:l‍i‍n‍j‍o‍n‍n‍y
+info:Deluxe Room (2 beds)
+info:Stayed in November 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 2, 2022
+msg:酒店環境很好，服務也很到位。
+----------------------------------------
+name:J‍e‍r‍r‍y‍ ‍s‍u‍n‍j‍i‍n‍g‍y‍i‍n‍g
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 12, 2023
+msg:衞生好，服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted July 15, 2023
+msg:房間還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted May 14, 2023
+msg:環境優美服務周到
+----------------------------------------
+name:Z‍h‍e‍n‍a‍i‍9‍5‍7
+info:Superior Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:4 Reviews
+rating:4
+posted:Posted May 24, 2023
+msg:還行，都可以
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2023
+info:Solo travelers
+info:44 Reviews
+rating:4
+posted:Posted July 8, 2023
+msg:睡覺挺安靜的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2023
+info:Other
+rating:5
+posted:Posted March 29, 2023
+msg:不錯！！！！！
+----------------------------------------
+name:p‍a‍u‍l
+info:Superior Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted March 24, 2023
+msg:空間大乾淨舒適
+----------------------------------------
+name:L‍i‍u‍r‍u‍n‍t‍o‍n‍g
+info:Deluxe Room (2 beds)
+info:Stayed in June 2023
+info:Business travelers
+info:80 Reviews
+rating:5
+posted:Posted August 5, 2023
+msg:挺好的酒店
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in November 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted November 30, 2021
+msg:住宿手續簡單迅速。
+飯店很好吃，蝦球甜辣口，鱸魚很嫩，四百多一頓飯合理性價比高。
+----------------------------------------
+name:-‍c‍h‍a‍n‍z‍i
+info:Guestroom (2 beds)
+info:Stayed in December 2021
+info:Business travelers
+info:55 Reviews
+rating:5
+posted:Posted December 24, 2021
+msg:房間乾淨整潔，前台小秦服務特別熱情，而且酒店還有健身房和泳池，特別方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted March 19, 2023
+msg:經常入住，挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted October 15, 2021
+msg:這次水果沒了，服務質量下來了！而且房間沒有上次好，不知道是不是房型問題！可能接了團隊！
+----------------------------------------
+name:Y‍o‍u‍g‍u‍s‍h‍i‍d‍e‍n‍a‍n‍r‍e‍n‍z‍h‍u
+info:Guestroom (Double bed)
+info:Stayed in June 2022
+info:Other
+info:20 Reviews
+rating:5
+posted:Posted July 26, 2022
+msg:前台工作態度好，自助早餐是特色。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted November 23, 2021
+msg:🚗 交通：很便利
+🧹衞生：挺好的
+🍃環境：樓層高，但還是會有車聲
+🔔服務：很好
+----------------------------------------
+name:D‍e‍n‍g‍f‍e‍n‍g‍l‍a‍i‍，‍，
+info:Deluxe Room (2 beds)
+info:Stayed in December 2021
+info:Business travelers
+info:233 Reviews
+rating:1
+posted:Posted December 4, 2021
+msg:酒店有點吵，杯子很臟，而且一進房間熱的離譜！作為高檔酒店非常差體驗！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2021
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted December 6, 2021
+msg:房間乾淨整潔，住得很舒服。前台人員小楊服務都很好，很主動，熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted May 19, 2023
+msg:性價比高些
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 8, 2021
+msg:出差來住的 總體來説非常滿意！房間十分寬敞明亮 設施裝修什麼的也都比較新 周圍商場很多 交通比較便利 晚上睡覺也很安靜 酒店早餐也不錯
+----------------------------------------
+name:Y‍i‍p‍i‍n‍t‍i‍a‍n‍d‍o‍u
+info:Executive Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 21, 2022
+msg:服務熱情，環境優美！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 27, 2023
+msg:環境不錯哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted December 31, 2022
+msg:非常舒服的旅遊
+----------------------------------------
+name:Y‍a‍n‍y‍u‍x‍i‍t‍a‍n‍g‍゛‍d‍u‍a‍n‍q‍i‍a‍o‍s‍h‍a‍n‍g
+info:Guestroom (Double bed)
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 24, 2022
+msg:更好的，高端大氣上檔次
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 4, 2023
+msg:服務細緻入微
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2021
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted December 12, 2021
+msg:非常適合家人們一起住，每次回合肥我們家都住在這裏。
+----------------------------------------
+name:S‍h‍e‍n‍g‍b‍u‍l‍a‍s‍i‍c‍h‍a‍h‍a‍n‍t‍i‍e‍m‍u‍e‍r
+info:Superior Double Room
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 11, 2022
+msg:服務熱情，乾淨衞生！
+----------------------------------------
+name:w‍y‍5‍2‍5‍5
+info:Deluxe Room (2 beds)
+info:Stayed in August 2022
+info:Other
+info:15 Reviews
+rating:5
+posted:Posted September 21, 2022
+msg:星際夠了。還不錯的
+----------------------------------------
+name:Q‍i‍n‍g‍y‍u‍w‍u‍y‍o‍u‍z‍h‍u
+info:Deluxe Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted December 2, 2021
+msg:高端大氣上檔次！服務到位，每個工作人員都很熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in November 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted November 14, 2021
+msg:🚗 交通：不錯
+🧹衞生：
+🍃環境：
+🔔服務：都挺好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in December 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted December 12, 2021
+msg:有停車場，早餐不錯，服務態度很好還有禮品贈送
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in May 2022
+info:Business travelers
+info:1 Review
+rating:4.5
+posted:Posted May 21, 2022
+msg:超值五星酒店，性價比高！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in September 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 1, 2021
+msg:設計的比較華麗，但是周邊環境不太好，酒店早餐不錯，品種豐富
+----------------------------------------
+name:B‍u‍l‍e‍i‍m‍u‍j‍i‍a
+info:Deluxe Suite
+info:Stayed in June 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 28, 2021
+msg:酒店環境不錯 性價比很高 前台俞佳蕙服務熱情❤️ 性格開朗活潑 給人感覺很好👍👍👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2022
+info:Business travelers
+info:13 Reviews
+rating:4
+posted:Posted August 27, 2022
+msg:老牌酒店，房間大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in March 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted March 10, 2022
+msg:安徽地區連鎖酒店，服務不錯！
+----------------------------------------
+name:D‍a‍h‍a‍i‍d‍e‍s‍h‍u‍i
+info:Superior Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:2 Reviews
+rating:3.5
+posted:Posted October 21, 2021
+msg:酒店前台服務很好，就是早餐品種太少，選擇餘地小，
+----------------------------------------
+name:J‍a‍y‍L‍o‍n‍1
+info:Guestroom (Double bed)
+info:Stayed in June 2022
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted August 27, 2022
+msg:非常滿意
+非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted September 19, 2022
+msg:服務態度挺好
+----------------------------------------
+name:Z‍h‍e‍n‍g‍l‍i‍a‍n‍g‍l‍i‍a‍n‍g‍d‍e‍r‍o‍u‍r‍o‍u
+info:Deluxe Room (2 beds)
+info:Stayed in August 2021
+info:Other
+info:9 Reviews
+rating:4.7
+posted:Posted August 23, 2021
+msg:地處北二環，晚上的噪音還行，設施齊全，內部設備還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2022
+info:Other
+info:9 Reviews
+rating:5
+posted:Posted October 31, 2022
+msg:不錯服務。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted December 22, 2021
+msg:服務和好。很周到。房間空間很大
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2022
+info:Couples
+info:28 Reviews
+rating:5
+posted:Posted May 18, 2022
+msg:張浩服務好 點贊
+----------------------------------------
+name:D‍o‍u‍t‍i‍a‍n‍z‍u‍s‍h‍i
+info:Deluxe Double Room
+info:Stayed in January 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 12, 2022
+msg:不錯的酒店，陳設有點老舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2021
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted September 8, 2021
+msg:張浩服務好
+
+🍃環境：環境不錯
+非常好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in December 2021
+info:Solo travelers
+info:8 Reviews
+rating:5
+posted:Posted December 10, 2021
+msg:房間乾淨整潔 服務態度極好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted February 7, 2022
+msg:早餐豐富，客服温馨舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 2, 2021
+msg:房間很好的，前台的劉彩霞還給免費升級了，非常號
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2021
+info:Solo travelers
+info:4 Reviews
+rating:2
+posted:Posted February 19, 2022
+msg:一個拿外賣需要十塊錢的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted November 14, 2021
+msg:便宜 環境不錯 環境好 停車方便
+----------------------------------------
+name:l‍i‍m‍u‍l‍u‍l‍u‍8‍8‍8
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 20, 2021
+msg:酒店性價比不錯，值得入住，以後還會再住的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in October 2021
+info:Business travelers
+info:5 Reviews
+rating:4
+posted:Posted October 14, 2021
+msg:酒店比較老，設備陳舊，早餐不行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted February 17, 2022
+msg:出行方便，房間整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 18, 2021
+msg:停車方便，房間乾淨衞生，服務態度也很好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2022
+info:Business travelers
+info:49 Reviews
+rating:4
+posted:Posted January 16, 2022
+msg:酒店還行。停車挺方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2022
+info:Other
+info:5 Reviews
+rating:4.5
+posted:Posted February 8, 2022
+msg:衞生在提高點就更好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 3, 2022
+msg:乾淨.舒適．方便
+----------------------------------------
+name:R‍a‍i‍n‍b‍o‍w‍ ‍k‍k
+info:Deluxe Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 28, 2022
+msg:很好，衞生不錯😄
+----------------------------------------
+name:J‍i‍a‍n‍z‍h‍i‍f‍u‍J‍e‍f‍f
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:37 Reviews
+rating:5
+posted:Posted October 2, 2021
+msg:服務好，離萬科廣場近，出行方便。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in October 2021
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted December 13, 2021
+msg:住的很好 小魏服務也很好
+----------------------------------------
+name:Z‍h‍u‍m‍i‍n‍g
+info:Deluxe Room (2 beds)
+info:Stayed in November 2021
+info:Business travelers
+info:48 Reviews
+rating:5
+posted:Posted November 29, 2021
+msg:不錯，在四里河算好的了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double bed)
+info:Stayed in October 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 28, 2021
+msg:環境很好，服務熱情周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:11 Reviews
+rating:4.2
+posted:Posted September 5, 2021
+msg:性價比來説比較貴，周邊環境差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in January 2022
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted February 9, 2022
+msg:服務非常的貼心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2021
+info:Business travelers
+info:48 Reviews
+rating:4
+posted:Posted January 14, 2022
+msg:服務酒店都一般吧
+----------------------------------------
+name:S‍w‍e‍e‍t‍�‍�‍z‍h‍a‍n‍g‍x‍i‍a‍o‍j‍i‍e‍�‍�
+info:Superior Double Room
+info:Stayed in January 2022
+info:Other
+info:22 Reviews
+rating:5
+posted:Posted March 23, 2022
+msg:很不錯，值得住
+----------------------------------------
+name:Y‍u‍w‍a‍n‍g‍s‍h‍i‍g‍a‍n‍y‍i‍b‍e‍i
+info:Superior Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted October 13, 2021
+msg:還行，不過早餐好像有點降檔了
+----------------------------------------
+name:J‍i‍a‍n‍b‍u‍r‍u‍f‍e‍i
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:32 Reviews
+rating:5
+posted:Posted January 6, 2022
+msg:安排客户住宿，比較滿意
+----------------------------------------
+name:h‍e‍f‍e‍i‍y‍a‍o‍d‍e‍y‍i
+info:Superior Double Room
+info:Stayed in November 2021
+info:Other
+info:8 Reviews
+rating:5
+posted:Posted February 17, 2022
+msg:環境及價格適中。
+----------------------------------------
+name:T‍i‍a‍n‍d‍i‍z‍h‍o‍u
+info:Deluxe Room (2 beds)
+info:Stayed in October 2021
+info:Business travelers
+info:55 Reviews
+rating:5
+posted:Posted October 26, 2021
+msg:一直以來的都更喜歡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 30, 2021
+msg:整體還不錯，還會再去
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in November 2021
+info:Business travelers
+info:1 Review
+rating:4.2
+posted:Posted November 5, 2021
+msg:比較老的一個酒店
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted November 21, 2021
+msg:豪華酒店不錯值得信賴
+----------------------------------------
+name:J‍a‍m‍e‍s‍x‍i‍e‍w‍u
+info:Deluxe Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:120 Reviews
+rating:5
+posted:Posted April 19, 2022
+msg:非常不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2021
+info:Other
+info:27 Reviews
+rating:5
+posted:Posted January 17, 2022
+msg:自己家附近 方便
+----------------------------------------
+name:Q‍i‍y‍i‍g‍u‍o‍l‍e‍y‍u‍a‍n‍ ‍�‍�
+info:Guestroom (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted July 30, 2021
+msg:服務態度好、房間舒適
+----------------------------------------
+name:D‍a‍n‍g‍h‍o‍n‍g‍8‍0‍h‍o‍u
+info:Deluxe Room (2 beds)
+info:Stayed in June 2021
+info:Other
+info:12 Reviews
+rating:5
+posted:Posted July 4, 2021
+msg:住了N次了。乾淨衞生好！
+----------------------------------------
+name:S‍e‍a‍n
+info:Superior Double Room
+info:Stayed in June 2021
+info:Other
+info:1 Review
+rating:4.2
+posted:Posted June 30, 2021
+msg:網絡很差，還算安靜！
+----------------------------------------
+name:W‍e‍i‍g‍u‍a‍n
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:13 Reviews
+rating:4.5
+posted:Posted December 29, 2021
+msg:交通比較方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted August 8, 2021
+msg:小查，小魏服務好
+----------------------------------------
+name:C‍h‍a‍o‍r‍o‍n‍g‍h‍e‍V‍S‍c‍h‍e‍s‍h‍a‍n‍g
+info:Superior Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:36 Reviews
+rating:5
+posted:Posted July 21, 2021
+msg:舒適寬敞停車免費
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in June 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 18, 2021
+msg:劉彩霞服務態度好
+----------------------------------------
+name:L‍i‍n‍t‍i‍n‍g‍1‍6‍8
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:28 Reviews
+rating:5
+posted:Posted October 17, 2021
+msg:不錯的酒店
+----------------------------------------
+name:J‍i‍n‍g‍a‍n‍g‍h‍u‍l‍u‍b‍a‍6‍6‍6
+info:Deluxe Room (2 beds)
+info:Stayed in August 2021
+info:Business travelers
+info:13 Reviews
+rating:4
+posted:Posted August 23, 2021
+msg:性價比比較高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in July 2021
+info:Business travelers
+info:27 Reviews
+rating:4
+posted:Posted July 21, 2021
+msg:房間空調不行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in July 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 18, 2021
+msg:價格太合理了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in February 2021
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted June 16, 2021
+msg:保持住優秀的狀態！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Room (2 beds)
+info:Stayed in June 2021
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted July 15, 2021
+msg:環境一級棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in April 2021
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted June 18, 2021
+msg:不錯啊啊啊
+----------------------------------------

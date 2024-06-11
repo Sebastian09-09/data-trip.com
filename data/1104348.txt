@@ -1,0 +1,2305 @@
+name:F‍e‍i‍z‍o‍u‍b‍u‍k‍e
+info:Family Friendly Room
+info:Stayed in July 2022
+info:Family
+info:189 Reviews
+rating:4.2
+posted:Posted August 2, 2022
+msg:The best hotel in Jiamusi at present, the price of hotels in this city is not high, there are too few high-end hotels, so the service has been unable to improve. Parent-child rooms are almost all small commodities that are charged.
+----------------------------------------
+name:z‍h‍o‍u‍j‍i‍a‍n‍w‍u
+info:Superior Double Room
+info:Stayed in June 2022
+info:Other
+info:1 Review
+rating:4
+posted:Posted June 26, 2022
+msg:The bath water in room 5022 needs to be left for five to ten minutes before there will be hot water. How does this look like a five-star hotel? In addition, the staff who opened the room wrote 5 like an 8 and tossed upstairs and downstairs!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in July 2021
+info:Business travelers
+info:14 Reviews
+rating:3.7
+posted:Posted August 2, 2021
+msg:The location is superior, the access is convenient, the service is warm and the attitude is good.
+----------------------------------------
+name:m‍e‍g‍a‍R‍Y
+info:Superior Double Room
+info:Stayed in May 2024
+info:Solo travelers
+info:14 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:佳木斯海天酒店位置優越、設施優質、服務優秀，當之無愧是“木斯”最好的酒店！酒店有最友好、最真誠的員工，真心實意幫助每一位客人，完全沒有服務套路！前台的小哥哥人帥熱情，特意升了房型安排了歡迎水果和下午茶，酒店的司機大哥利用下班時間送我去機場，入住海天酒店是這段五一龍江旅程中最美好的體驗！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2024
+info:Family
+info:55 Reviews
+rating:5
+posted:Posted June 6, 2024
+msg:中規中矩吧……在佳木斯里應該是可以接受的啦……硬件設施應該慢慢提升  其餘的工作人員等等都加快進步就最好了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:酒店接機服務準時，服務態度好，感受到了家鄉的熱情，吃到了多年沒吃的凍梨，想念小時候，酒店環境特別好，房間衞生好，舒適，早餐品類全，下午茶很愜意，下次還會再來的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in March 2024
+info:Solo travelers
+info:7 Reviews
+rating:5
+posted:Posted March 26, 2024
+msg:房間很乾凈，大堂環境優雅，前台服務很好，熱情，早餐很豐富，很好的入住感受，下次來還會選擇這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 22, 2024
+msg:特別乾淨，設備齊全，裝修風格比較好，大廳豪華，房間温馨，服務特別好，特別熱情，餐廳環境很好，非常乾淨衞生，早餐豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted February 29, 2024
+msg:設施齊全，房間乾淨，服務周到，送了水果和下午茶。送機師傅也很貼心，下雪天氣，幫我把行李提到進站口。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2024
+info:Solo travelers
+info:9 Reviews
+rating:5
+posted:Posted March 24, 2024
+msg:入住很舒適 
+衞生：好
+環境：好
+服務：好
+設施：好
+小張也挺好
+----------------------------------------
+name:안‍녕‍하‍세‍윱
+info:Superior Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted December 8, 2023
+msg:외부 기온이 영하 20도였음에도 방은 너무나도 따뜻했습니다. 직원분들의 친절함도 매우 높았으며 조식도 훌륭했습니다. 앞으로의 자무스 출장 시 매번 海天에서 숙박할 것입니다.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:125 Reviews
+rating:5
+posted:Posted January 11, 2024
+msg:火車站正對面，佳木斯最好的酒店，
+設施：星級酒店標準建造。
+衞生：極好，環境優美豪華。
+
+服務：態度好、熱情周到。
+環境：大氣上檔次。
+----------------------------------------
+name:X‍u‍e‍h‍u‍a‍d‍e‍y‍e‍z‍i
+info:Business Standard Room
+info:Stayed in April 2024
+info:Other
+info:1 Review
+rating:2.5
+posted:Posted April 7, 2024
+msg:房間床單有血跡。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2024
+info:Couples
+info:11 Reviews
+rating:5
+posted:Posted January 27, 2024
+msg:每次回來佳木斯都會住海天環境沒得説，服務也好 這個價格在全國來説都住不到這麼好的了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:前台張婷婷熱情周到，還有水果下午茶，房間乾淨整潔，舒適，
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:1.2
+posted:Posted March 15, 2024
+msg:五星級酒店前台披頭散髮，好像幾天沒洗臉，一點笑容都沒有，好像我欠她錢，服務態度極差，連句問候都沒有，問什麼都不知道，什麼問題都解決不了，上面説有接送機服務，然爾早了不行，晚了不行的，不然就別説有接送機
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in February 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted February 5, 2024
+msg:環境優美舒適，服務熱情周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 11, 2023
+msg:酒店很乾凈整潔，位置在市中心，交通方便。晚上10點到的，前台工作人員給免費升級了房間。從酒店向外看，視野很好。早餐也不錯，種類豐富。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:酒店各項服務都很ok 房間很大 大床也舒服 地理位置出行方便不用説 對面的涮串燒烤也推薦～特別感謝辦理入住的曾佳佳 服務好貼心 暖暖噠
+----------------------------------------
+name:X‍i‍a‍o‍n‍a‍n‍z‍i
+info:Superior Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:48 Reviews
+rating:5
+posted:Posted March 31, 2024
+msg:老牌酒店的服務還是最好的，很親切。接送機服務、延遲退房，都很人性化；前台更是看到起飛時間比較晚給予更晚的退房時間，送機的帥哥温文爾雅，更是印象深刻，期待再次去住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in December 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted January 1, 2024
+msg:房間整潔
+衞生：乾淨
+----------------------------------------
+name:H‍o‍n‍g‍p‍i‍n‍g‍g‍u‍o‍1‍3‍5
+info:Superior Standard Room
+info:Stayed in September 2023
+info:Couples
+info:63 Reviews
+rating:3.7
+posted:Posted September 21, 2023
+msg:酒店公共區域裝修的很大氣，房間略顯侷促，早餐很用心，真材實料，值得稱讚，￼前台傲慢冰冷有餘，主動熱情不足。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2024
+info:Friends
+info:1 Review
+rating:1
+posted:Posted March 19, 2024
+msg:入住感受非常不好，房間燈光很暗，這是一家慈善機構，前台眼睛不走直線，不知道是不是對着我説話，辦入住面無表情，手忙腳亂等好久，效率極低，早餐還可以，很豐富
+----------------------------------------
+name:Y‍a‍n‍z‍i
+info:Superior Double Room
+info:Stayed in August 2023
+info:Solo travelers
+info:64 Reviews
+rating:4.7
+posted:Posted August 5, 2023
+msg:大廳富麗堂皇，衞生間很大，洗澡水很好，早餐好好吃😋……服務人員態度不錯，周圍吃飯出行都很方便……
+遺憾電視不能看，沙發🛋️太不舒服了，建議扔掉，
+----------------------------------------
+name:s‍t‍o‍c‍k‍t‍o‍n‍j‍1‍2‍2‍0‍1‍1
+info:Superior Double Room
+info:Stayed in May 2024
+info:Booked for others
+info:33 Reviews
+rating:4.5
+posted:Posted June 2, 2024
+msg:再一次入住，整體體驗很好，也連住了兩晚。性價比不錯，下次有機會還會再住及推薦他人。離松花江不遠，可以去江邊散步。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 30, 2023
+msg:裝修高端，衞生、設施、環境、服務和早餐都不錯，下次來還住這兒。
+----------------------------------------
+name:J‍i‍n‍g‍s‍h‍u‍i‍s‍h‍e‍n‍l‍i‍u‍-‍Z‍W‍H
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted September 7, 2023
+msg:到的比較晚，前台主動給升級了房型，全程服務不錯，早餐挺好、有些特色，整體體驗不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Family
+info:14 Reviews
+rating:4.8
+posted:Posted April 15, 2024
+msg:房間設施不錯，接機服務也很順暢，酒店周圍飯店、葯店、超市都很齊全，蠻方便的，步行到江邊可以看江景，以後有需要還會住這裏。
+----------------------------------------
+name:Z‍h‍a‍n‍g‍h‍o‍n‍g‍g‍a‍n‍g
+info:Superior Double Room
+info:Stayed in October 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:個人評價，很不錯，有些檔次，值得再次入住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted April 5, 2024
+msg:因為航班時間，很早到達。服務人員積極協調房間，讓我早一些休息。早餐品種也很豐富，周邊交通恨方便，下次還會繼續選擇此酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted October 13, 2023
+msg:早餐不錯，房間也大！
+----------------------------------------
+name:x‍z‍x‍o‍n‍e‍b‍o‍y
+info:Business Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted February 12, 2024
+msg:整體感受和信價比非常好，每次出差佳木斯首選酒店。設施齊全，房間乾淨，周邊環境很好，服務周到。雖然春節期間，前台服務人員十分熱情，點贊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:3
+posted:Posted April 14, 2024
+msg:平台上看到的電話一直打不通，昨天中午退的房、洗面奶落在房間了1411，請與我聯繫。10：00就要離開本市。
+----------------------------------------
+name:f‍r‍a‍n‍k‍s‍8‍0‍0
+info:Business Standard Room
+info:Stayed in June 2023
+info:Other
+info:20 Reviews
+rating:5
+posted:Posted June 28, 2023
+msg:佳木斯海天酒店給我留下美好的印象！前台接待人員主動熱情！辦事效率高！積極為客人服務！客房乾淨整潔！舒適！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted October 4, 2023
+msg:乘飛機到酒店也比較晚，酒店比較整潔，環境也挺安靜的，離松花江廣場也不遠，一樓自助早餐種類也挺多，涵蓋中西餐，有小餛燉、吐司、咖啡，蛋撻、小可頌🥐，乘出租酒店前台也能幫打車，服務人員還幫忙拿行李，服務態度較好，推薦入住。
+----------------------------------------
+name:P‍i‍n‍g‍s‍h‍u‍i‍x‍i‍a‍n‍g‍f‍e‍n‍g‍1‍0‍9
+info:Business Standard Room
+info:Stayed in May 2023
+info:Family
+info:46 Reviews
+rating:5
+posted:Posted May 10, 2023
+msg:佳木斯最好酒店，富麗堂皇，設施、衞生、服務非常好，特別是早餐，超級豐富，唯一美中不足的是雙床房位置不太好，窗户小，還有牆擋着，視覺效果差一些。
+----------------------------------------
+name:Z‍h‍u‍d‍e‍h‍u‍i‍z‍i
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Friends
+info:6 Reviews
+rating:4.5
+posted:Posted April 6, 2024
+msg:大堂經理小夥子熱情周到，入住體驗感不錯，酒店設施與氛圍都不錯。交通方便，距離火車站很近，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:房間很寬敞温度也舒適，設備用具都很齊全乾凈，還有送機服務。位置也挺好，走去江邊或者商場10分鐘左右。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Family
+info:6 Reviews
+rating:1
+posted:Posted August 17, 2023
+msg:非常非常不滿意，如果可以，一顆星都不想給，前台還號稱副大堂經理的一個女孩，輕易就把我的訊息泄漏，幾個朋友一起吃飯，我們家裡有小孩，早點回來休息，家裡人也喝多了，幾個朋友藉著酒勁來前台問我住哪，按道理五星級酒店不應該隨意泄漏訊息吧，沒想到半夜12點5個大漢咣咣砸我房門，把我家人吵醒，家人趁着酒勁跟我發脾氣把屋裡都砸了，我家3歲的孩子嚇的渾身哆嗦，哇哇直哭，（首先酒店説賠償多少錢我們一分沒還口全額付款）（當然我也隨時保留我追究她們問題的權利）雖然那個女孩看鬧大了態度也還可以，但我沒聽到過一句直接的道歉，強烈建議，佳木斯新開了個萬達酒店，去那感受一下什麼叫服務
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted February 15, 2024
+msg:酒店設施齊全，位置處於市中心，去哪都比較方便。前台服務態度很好，給免費升級了房間，下次去還定這家
+----------------------------------------
+name:l‍a‍o‍k‍a‍1‍2‍3
+info:Superior Standard Room
+info:Stayed in August 2023
+info:Family
+info:23 Reviews
+rating:3.7
+posted:Posted August 19, 2023
+msg:五星級酒店電視沒節目，擺設，問前台説這種已經一個月了，萬般不理解，也是住了半輩子酒店第一次碰到這種情況，所以設施我衹打了3分，酒店大堂門口工作人員就是擺設，我母親提着行李進大大堂，門口工作人員連接一下的意識都沒有，所以服務我衹打了2分，不及格。但有一説一，早餐很好，母親説是住酒店吃過最好的早餐之一，我也有同感。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:3.2
+posted:Posted August 5, 2023
+msg:訂的標間，房間很小，一家三口住顯得很擁擠，房間裏沒有什麼活動空間。
+電視沒有信號，酒店也沒有提前告知，對於這點很是不滿意。
+房間衞生還行，就是客房打掃衞生時不太細心，廁所捲紙沒有了也沒有及時補充，還得自己打電話到前台要😳
+出租車的司機們都是這是佳木斯最好的酒店了，但我覺得服務方面還得繼續努力啊💪！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:72 Reviews
+rating:4
+posted:Posted September 1, 2023
+msg:這家酒店可能是佳木斯當地比較大的一家酒店，酒店房間還可以，但是距離真正五星酒店還有一些差別。入住服務比較程式化，説話比較硬，沒有任何歡迎的感覺。房間比較小，洗手枱設計在衞生間外面，感覺很奇怪，也很不方便。還有不少提升的空間。
+----------------------------------------
+name:h‍e‍i‍n‍z
+info:Superior Double Room
+info:Stayed in July 2023
+info:Couples
+info:18 Reviews
+rating:4.5
+posted:Posted July 17, 2023
+msg:非常好的一家酒店，前台服務人員很和藹，幫助客人，指引到位。早餐尤其值得誇獎，品種不遜於京滬5星級酒店，9點收拾前服務員會每桌客人單獨提醒，讓人有需要的話再去拿些。房間裏有煙味，可能和當地不怎麼管禁煙有關。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in October 2023
+info:Couples
+info:22 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:酒店應該是佳木斯硬件條件好的，位置在市中心去哪都方便，停車方便，早餐比較豐富，辦理入住時酒店前台美女給我們安排了安靜不吵鬧的房間還贈送歡迎果盤。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted January 17, 2024
+msg:房間整潔乾淨，服務員態度熱情好客，尤其是前台小王姐姐，圍脖落下後主動電話聯繫並幫忙快遞寄出，贊👍
+----------------------------------------
+name:X‍i‍y‍u‍f‍e‍i
+info:Business Standard Room
+info:Stayed in October 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:軟硬件設施都巨棒。環境舒適，衞生整潔，房間佈局十分合理。服務一流，帶小孩入住完了，前台非常貼心地安排了果盤兒。早餐非常豐盛，大人小孩都很滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in July 2023
+info:Business travelers
+info:96 Reviews
+rating:1
+posted:Posted July 27, 2023
+msg:當地唯一的五星酒店但是服務理念很差，前台服務員辦理入住態度冷淡，好像我欠她債似的，五星酒店居然早餐結束時間為九點，根本不考慮客人生活習慣，本來計劃入住3天的毫不猶豫選擇離開了。
+----------------------------------------
+name:W‍1‍3‍5
+info:Superior Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:17 Reviews
+rating:4.7
+posted:Posted March 8, 2024
+msg:海天雙人下午茶: 都很好，早餐豐富，衞生間衞生打掃的稍微差些 需要提高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in January 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted February 1, 2024
+msg:酒店設施服務環境早餐都很好。還貼心提供了接站服務，很舒服滿意的旅程，還會再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted October 4, 2023
+msg:海天酒店是我的首選酒店，每次入住都很滿意。
+酒店的環境、設施、服務都很不錯。早餐的品種也很豐富。交通位置也很便利。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:前台張婷服務好，早餐餐廳服務員個個好，有點回家的感覺，下次還會來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:28 Reviews
+rating:5
+posted:Posted March 13, 2024
+msg:房間乾淨設施齊全，出行方便，前台服務很好待客如家，早餐很好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in February 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted February 2, 2024
+msg:酒店
+海天雙人下午茶:下午茶的糕點還不錯
+服務：酒店的服務真的巨好
+----------------------------------------
+name:m‍m‍l‍i‍h‍u
+info:Superior Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted December 22, 2023
+msg:很滿意，各方面都不錯。早餐品種豐富，各個崗位的服務人員態度都很好。值得推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted February 21, 2024
+msg:房間很好  還是老店住着舒服  服務態度很好 前台給升級房間
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in May 2024
+info:Friends
+info:54 Reviews
+rating:2.1
+posted:Posted May 15, 2024
+msg:老牌五星酒店，設施老舊，早餐品種比較豐富。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted September 22, 2023
+msg:出差佳木斯，前台小姑娘態度很好，給做了升級。房間很大，很乾凈。早餐豐富，魚片粥特別好吃。一切都很完美。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted September 18, 2023
+msg:深夜到達。前台小姑娘非常漂亮，也非常熱情。看我一個人免費給我升級了更安靜一些的房型。心裏暖暖的，感謝。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Booked for others
+info:6 Reviews
+rating:5
+posted:Posted April 27, 2024
+msg:海天酒店前台叫小武，撿到充電器，還給失主了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in August 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted September 9, 2023
+msg:這價格真心不低，不過酒店也是當地最好的了吧，位置不錯，環境不錯，完全能滿足出差要求，不過有點超標，報銷不了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted March 18, 2024
+msg:房間裏很暖和 前台小王服務態度也很好 
+很不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted April 17, 2024
+msg:環境不錯，地理位置好，出行方便，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:37 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:設施：完備
+衞生：整潔
+環境：舒適感好
+服務：優秀
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in July 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted July 28, 2023
+msg:酒店的早餐特棒！特別是因離店急促，將充電器忘在房間，酒店給及時找到，前台小王按地址快遞，使物歸原主，特別感謝。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in September 2023
+info:Friends
+info:61 Reviews
+rating:5
+posted:Posted September 27, 2023
+msg:佳木斯的好酒店。早餐豐富房間設施齊全。前台小孫及客房人員服務周到認真細緻，非常好！
+----------------------------------------
+name:W‍A‍N‍G‍Y‍U‍9‍6‍3
+info:Business Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:海天酒店不錯，佳木斯酒店的天花板，和價格相比基礎房間有點小！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in February 2024
+info:Solo travelers
+info:7 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:酒店乾淨整潔，停車方便，服務態度很好給個好評👍
+----------------------------------------
+name:L‍o‍n‍g‍p‍a‍o‍2‍0‍1‍5
+info:Superior Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:6 Reviews
+rating:3.5
+posted:Posted May 14, 2023
+msg:酒店地點和環境都不錯，服務太一般了！酒店停車沒有人引導指揮，進了酒店找不到前台，吃早餐時後補了一份餐券，服務人員弄得手忙腳亂！
+----------------------------------------
+name:L‍u‍l‍u
+info:Business Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 4, 2023
+msg:服務特別好，特別是前台小王為人熱情❤️🔥周到，給人一種家的感覺。以後還會入住，因為小王也會再次入住的，絕佳好員工。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted April 9, 2024
+msg:如果能在房間裏準備一些小食就更好了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 12, 2024
+msg:房間很舒適，前台服務非常好。下次還會再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted April 20, 2024
+msg:酒店服務特別好，早餐也很強豐富。
+----------------------------------------
+name:P‍A‍R‍K‍-‍S‍-‍M
+info:Superior Double Room
+info:Stayed in February 2024
+info:Friends
+info:44 Reviews
+rating:5
+posted:Posted March 23, 2024
+msg:佳木斯數一數二的酒店了！停車方便！好評！
+----------------------------------------
+name:H‍u‍a‍z‍i‍2‍0‍0‍1
+info:Superior Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 10, 2024
+msg:房間寬敞乾淨，服務員熱心，有求必應！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted October 2, 2023
+msg:非常滿意👍環境服務都很好就是早餐結束比較早要是可以再晚點就更好了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:8 Reviews
+rating:3
+posted:Posted April 19, 2024
+msg:窗户小，床的位置在遠離窗的暗處
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:房間環境乾淨整潔，檔次性價比很高，有停車場很方便，準五星標準。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 1, 2023
+msg:前台的小王很熱情，服務很周到，免費從大床房升級到商務大床房。賓館設施齊全，服務細緻周到，不愧為佳木斯最好的酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 4, 2023
+msg:服務非常好，飛機上午到的早去酒店就給辦理入住了，還給免費升級了房間，晚上回房間還有準備了豐富的免費水果和餅乾，比較意外。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in January 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted February 1, 2024
+msg:非常好，前台張婷婷熱情，房間整潔衞生。
+----------------------------------------
+name:X‍i‍n‍g‍t‍i‍a‍n‍l‍i‍r‍e‍n
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:4 Reviews
+rating:4.5
+posted:Posted May 30, 2024
+msg:房間環境還可以，早餐不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in January 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted February 1, 2024
+msg:很好，位置離江邊近。前台小王很熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 6, 2023
+msg:環境好  房間安靜，乾淨。工作人員非常熱情專業 ，接待我的前台是兩位美女 碰巧兩位都叫小王 非常感謝 推薦入住
+----------------------------------------
+name:X‍i‍u‍g‍a‍i‍y‍i‍c‍i‍n‍i‍c‍h‍e‍n‍g
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Friends
+info:44 Reviews
+rating:5
+posted:Posted March 19, 2023
+msg:酒店非常好 來參加朋友洗浴中心開業 這裏讓人流連忘往 酒店的設施齊全 服務到位 早餐品種齊全 非常好吃 下次還來這個酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted November 17, 2023
+msg:設施：齊全
+衞生：乾淨
+環境：清新
+服務：熱情
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 7, 2023
+msg:酒店臨近江邊，散步非常方便，房間乾淨整潔，早餐種類豐富。特別是前台張婷婷，服務認真負責、熱情周到，非常不錯的入住體驗。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 13, 2024
+msg:房間非常乾淨舒適，服務態度很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 11, 2023
+msg:酒店很有檔次很不錯，服務也很好，還給免費升級了房間
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:服務好，房間乾淨，每次都住這。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in July 2023
+info:Friends
+info:106 Reviews
+rating:5
+posted:Posted July 15, 2023
+msg:海天大酒店是佳木斯最好的一家酒店，位置好，離江邊步行十分鐘，早餐豐盛。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2023
+info:Booked for others
+info:3 Reviews
+rating:5
+posted:Posted October 31, 2023
+msg:衞生：好評
+服務：好評
+服務：好評
+設施：好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 12, 2024
+msg:舒服的體驗，要是床再大點就好了
+----------------------------------------
+name:D‍i‍a‍o‍z‍h‍i‍y‍a‍n
+info:Superior Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted March 26, 2024
+msg:高檔酒店，非常不錯，服務好
+----------------------------------------
+name:Q‍i‍n‍g‍f‍e‍n‍g‍J‍&‍G‍㍿
+info:Business Standard Room
+info:Stayed in July 2023
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted September 11, 2023
+msg:很棒很棒，現在在佳木斯應該沒有比這更好的了。性價比可以，早餐也不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted September 24, 2023
+msg:設施：齊全
+衞生：乾淨
+環境：安靜
+服務：熱情到位
+----------------------------------------
+name:T‍u‍t‍u‍z‍h‍e‍m‍e‍k‍e‍a‍i
+info:Superior Double Room
+info:Stayed in February 2024
+info:Solo travelers
+info:33 Reviews
+rating:5
+posted:Posted February 28, 2024
+msg:挺好的，隔音不錯，服務也好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 27, 2023
+msg:房間位置很好 乾淨整潔，免費升級。
+客户很滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 14, 2023
+msg:很滿意。設施整潔，服務態度好，滿分好評送給張婷婷。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in February 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 29, 2024
+msg:酒店質量很好，服務很周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 13, 2023
+msg:房間很大，洗浴和衞生間的空間也很大，點贊，感謝前台美女高傑的耐心服務
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in February 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:非常好，乾淨整潔，很温馨！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:房間很暖和 家庭出遊很舒心
+----------------------------------------
+name:T‍o‍b‍y‍_‍0‍8‍3‍1
+info:Superior Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted January 28, 2024
+msg:整體豪氣上檔次，早餐也不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 28, 2023
+msg:前台接待小王非常熱情，詳細的介紹當地的特色餐飲等，給五星好評，下次來還住海天。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in February 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted February 12, 2024
+msg:服務還是不錯的，環境也可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 16, 2023
+msg:早餐很豐盛。房子很乾凈，而且安靜。床很柔軟，舒服。服務很周到。交通便利。
+----------------------------------------
+name:c‍h‍r‍i‍s‍t‍i‍m‍t‍i‍a‍n‍c‍t
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 16, 2024
+msg:乾淨整潔服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 1, 2024
+msg:衞生環境服務都很好都很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:4.5
+posted:Posted March 16, 2024
+msg:很方便，也很安靜，很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in February 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted February 16, 2024
+msg:房間很乾凈，服務也很好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:前台熱情的服務家的感覺！
+----------------------------------------
+name:X‍i‍a‍n‍z‍h‍i‍l‍o‍n‍g‍x‍i‍a‍n‍g
+info:Superior Double Room
+info:Stayed in March 2024
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted April 5, 2024
+msg:很滿意，還有歡迎水果
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 12, 2023
+msg:酒店入住體驗不錯，前台服務好，張婷婷、小王服務熱情、賓至如歸，房間提供水果。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted September 28, 2023
+msg:第二次入住，酒店給升級了房間，下次來會來
+----------------------------------------
+name:z‍h‍a‍n‍g‍z‍h‍i‍r‍u‍o
+info:Superior Double Room
+info:Stayed in February 2024
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted February 4, 2024
+msg:幫弟弟訂的，前台給升級了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted August 27, 2023
+msg:環境很好，乾淨衞生，服務態度也特別好比較滿意
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in July 2023
+info:Other
+info:21 Reviews
+rating:5
+posted:Posted September 15, 2023
+msg:房間整潔乾淨，早餐品種多樣，交通便利，離江邊很近。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 13, 2024
+msg:我們對貴店很滿意。
+----------------------------------------
+name:L‍i‍n‍z‍h‍i‍r‍u‍i‍a‍n
+info:Superior Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 9, 2023
+msg:房間很乾凈，早餐很豐富，值得入住
+----------------------------------------
+name:m‍o‍c‍a‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 16, 2024
+msg:服務很好，前台很負責任
+----------------------------------------
+name:X‍i‍e‍l‍i‍e‍h‍u‍o‍f‍u‍l‍i‍u‍j‍i‍n
+info:Superior Double Room
+info:Stayed in June 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted June 8, 2024
+msg:符合標準，不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in September 2023
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted September 24, 2023
+msg:早餐特棒！距離松花江很近！居住舒適！
+----------------------------------------
+name:B‍i‍a‍o‍b‍i‍a‍o‍j‍i‍n‍g‍y‍a
+info:Superior Standard Room
+info:Stayed in April 2023
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:前台小王服務親和，房間免費升級，家人都很滿意，出遊的最優選擇。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in July 2023
+info:Solo travelers
+info:7 Reviews
+rating:5
+posted:Posted July 25, 2023
+msg:酒店很好 服務非常好 很難得的服務好的好酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in June 2023
+info:Couples
+info:97 Reviews
+rating:5
+posted:Posted June 20, 2023
+msg:不錯的酒店，離江邊很近，酒店設施也不錯，早餐豐富。
+----------------------------------------
+name:X‍u‍e‍b‍a‍n‍g‍g‍o‍u‍x‍i
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted September 21, 2023
+msg:衞生：乾淨！
+環境：優美
+服務：好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in July 2023
+info:Couples
+info:1 Review
+rating:3.2
+posted:Posted July 5, 2023
+msg:房間一個窗被突出的牆坨幾乎檔住了一半，很悶氣！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2023
+info:Friends
+info:5 Reviews
+rating:3.2
+posted:Posted November 24, 2023
+msg:房間太小，還不沒有早餐，太差了
+----------------------------------------
+name:Y‍a‍n‍g‍h‍o‍n‍g‍h‍a‍i‍0‍4‍5‍1
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted June 20, 2023
+msg:服務非常好，落在酒店的物品前台張小姐給幫忙郵寄
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in July 2023
+info:Friends
+info:54 Reviews
+rating:3.7
+posted:Posted July 25, 2023
+msg:酒店服務跟不上，早餐一般般，岀比較方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted September 12, 2023
+msg:早餐豐盛可口，服務熱情周到細緻，
+----------------------------------------
+name:d‍q‍m‍2‍1
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted May 27, 2023
+msg:乾淨整潔，環境舒適，早餐滿足需要，前台有問必答
+----------------------------------------
+name:M‍i‍n‍z‍u‍l‍i‍y‍i
+info:Superior Standard Room
+info:Stayed in October 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:很乾凈，前台服務好。停車便利
+----------------------------------------
+name:G‍e‍q‍i‍a‍n‍g‍n‍i
+info:Business Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted May 14, 2023
+msg:佳木斯可能是最好的酒店啦，九月小姐姐服務也很好哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted April 9, 2023
+msg:服務熱情周到，軟硬件條件優。性價比高，出行佳木斯的首選
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 19, 2024
+msg:前台張婷婷服務好
+----------------------------------------
+name:A‍z‍h‍u‍o
+info:Superior Standard Room
+info:Stayed in June 2023
+info:Business travelers
+info:76 Reviews
+rating:5
+posted:Posted June 8, 2023
+msg:環境很好  距離江邊很近   吃飯也很方便
+----------------------------------------
+name:K‍a‍m‍e‍i‍e‍r‍z‍h‍a‍o‍y‍u‍n
+info:Business Standard Room
+info:Stayed in July 2023
+info:Family
+info:32 Reviews
+rating:5
+posted:Posted July 6, 2023
+msg:房間非常好，服務周到，特別感謝高傑同志
+----------------------------------------
+name:H‍a‍i‍b‍i‍a‍n‍d‍e‍s‍h‍i‍t‍o‍u‍-‍y‍i‍n‍g‍l‍a‍n‍g‍e‍r‍w‍u
+info:Superior Double Room
+info:Stayed in October 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:服務態度熱情，周到，感謝！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in September 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted September 15, 2023
+msg:整體感覺可以的，城市一般般！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in March 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 14, 2024
+msg:太好了。推薦的
+----------------------------------------
+name:A‍k‍u‍n‍b‍u‍y‍i‍b‍a‍n
+info:Superior Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted November 15, 2023
+msg:很棒，體驗感
+非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 11, 2023
+msg:前台服務很好，熱情周到！酒店也很乾凈，下次還來住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted August 8, 2023
+msg:早餐非常豐富，我這是第二次入住該酒店了
+----------------------------------------
+name:x‍x‍z‍i‍.
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted April 9, 2023
+msg:停車方便，房間乾淨衞生，工作人員前台小王服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in July 2023
+info:Friends
+info:3 Reviews
+rating:2.5
+posted:Posted September 25, 2023
+msg:前台對平台訂單的客户服務態度極差。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 21, 2024
+msg:特別温馨特別好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 18, 2024
+msg:各方面都很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2023
+info:Family
+info:23 Reviews
+rating:4
+posted:Posted July 12, 2023
+msg:房間整潔乾淨，服務人員態度良好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in July 2023
+info:Friends
+info:66 Reviews
+rating:5
+posted:Posted September 19, 2023
+msg:中規中矩的酒店，位置離江邊很近
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted February 12, 2024
+msg:挺好的，用住這
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in August 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted August 6, 2023
+msg:設計新穎，功能齊全，靜音好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in September 2023
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:前台九月服務周到熱情！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in September 2023
+info:Solo travelers
+info:8 Reviews
+rating:5
+posted:Posted September 5, 2023
+msg:服務基本到位。設施有些舊
+----------------------------------------
+name:a‍v‍o‍c‍a‍t‍1‍6‍3
+info:Superior Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 13, 2023
+msg:服務很好，房間很乾凈
+----------------------------------------
+name:W‍a‍n‍x‍i‍a‍l‍a‍n‍g‍z‍i
+info:Superior Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted January 13, 2024
+msg:非常好，暖氣好
+----------------------------------------
+name:B‍e‍i‍j‍i‍n‍g‍q‍u‍n
+info:Superior Standard Room
+info:Stayed in July 2023
+info:Couples
+info:30 Reviews
+rating:5
+posted:Posted August 22, 2023
+msg:很棒哦，房間寬敞，早餐不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 13, 2023
+msg:早餐還可以 餐品比較全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 4, 2023
+msg:很棒棒，下次還住這邊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted April 14, 2024
+msg:挺好，乾淨
+----------------------------------------
+name:R‍i‍x‍i‍n
+info:Superior Double Room
+info:Stayed in February 2024
+info:Friends
+info:2 Reviews
+rating:3.2
+posted:Posted February 13, 2024
+msg:全都是煙味！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2023
+info:Friends
+info:85 Reviews
+rating:2.7
+posted:Posted February 20, 2023
+msg:酒店估計比較老化了 主要前台的態度還沒小旅館的態度呢
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in July 2023
+info:Family
+info:11 Reviews
+rating:4.5
+posted:Posted July 18, 2023
+msg:啥都好，房間太小，先天不足
+----------------------------------------
+name:L‍i‍j‍i‍a‍c‍h‍u‍z‍o‍u‍d‍e‍t‍u‍j‍i‍a‍n‍g
+info:Business Double Room
+info:Stayed in July 2023
+info:Family
+info:41 Reviews
+rating:5
+posted:Posted July 18, 2023
+msg:環境服務，地理位置都很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 17, 2023
+msg:前台小高服務很好 服務態度也很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted April 1, 2024
+msg:很好很舒服
+----------------------------------------
+name:P‍e‍n‍g‍b‍o‍y‍o‍u‍y‍a‍l‍i
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 17, 2023
+msg:前台張婷婷張經理服務態度特別好。點贊點贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in June 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 8, 2023
+msg:房間寬敞乾淨，服務熱情❤️，
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted April 9, 2024
+msg:房間非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Friends
+info:15 Reviews
+rating:5
+posted:Posted August 2, 2023
+msg:酒店環境不錯，乾淨衞生
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted February 24, 2024
+msg:服務很好！
+----------------------------------------
+name:S‍h‍i‍j‍i‍e‍j‍i‍w‍e‍n‍q‍u‍x‍i‍n‍g‍j‍u‍n
+info:Business Double Room
+info:Stayed in June 2023
+info:Solo travelers
+info:62 Reviews
+rating:5
+posted:Posted June 5, 2023
+msg:非常棒的酒店！床特別舒服！
+----------------------------------------
+name:H‍i‍n‍d‍r‍e‍l‍l‍a‍z‍h‍e‍n‍g
+info:Business Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:63 Reviews
+rating:5
+posted:Posted November 10, 2023
+msg:第一次來佳木斯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 26, 2024
+msg:服務非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in April 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted April 25, 2023
+msg:服務好，房間乾淨，早餐豐富。
+----------------------------------------
+name:r‍i‍c‍e‍y‍l‍5‍9
+info:Superior Standard Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:3.2
+posted:Posted August 23, 2023
+msg:房間很小，價格很高
+----------------------------------------
+name:N‍i‍g‍u‍l‍a‍s‍i‍_‍x‍i‍a‍o‍s‍i
+info:Superior Double Room
+info:Stayed in August 2023
+info:Other
+info:7 Reviews
+rating:4
+posted:Posted October 15, 2023
+msg:交通方便，位置好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted April 1, 2023
+msg:酒店非常好，前台張婷婷服務更好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 7, 2023
+msg:前台服務很好 酒店環境很好
+----------------------------------------
+name:J‍i‍a‍n‍g‍y‍i‍n‍g‍l‍o‍n‍g
+info:Superior Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:68 Reviews
+rating:5
+posted:Posted November 22, 2023
+msg:不錯這這酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 6, 2023
+msg:各方面服務都很好 ，不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 27, 2023
+msg:設施衞生環境都很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Friends
+info:23 Reviews
+rating:5
+posted:Posted July 19, 2023
+msg:整體不錯，早餐很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:69 Reviews
+rating:5
+posted:Posted June 9, 2023
+msg:環境好設施新服務熱情！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in March 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted March 7, 2023
+msg:服務態度很好，對顧客貼心周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 15, 2023
+msg:房間比較乾淨，早餐也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:27 Reviews
+info:Other
+posted:Posted June 23, 2023
+msg:環境不錯，交通便利
+----------------------------------------
+rating:5
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 5, 2023
+msg:各方面都挺很好，美食也挺好
+----------------------------------------
+name:X‍i‍a‍o‍p‍e‍n‍g‍1‍9‍7‍8
+info:Business Standard Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 13, 2023
+msg:酒店很乾凈，早餐不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 8, 2023
+msg:很好 環境服務都很優秀
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted May 31, 2023
+msg:設施齊全 衞生不錯
+----------------------------------------
+name:J‍i‍h‍o‍n‍g‍c‍h‍a‍n‍g
+info:Business Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:126 Reviews
+rating:5
+posted:Posted June 24, 2023
+msg:非常滿意的酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 2, 2023
+msg:前台張在婷婷服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 14, 2023
+msg:服務員非常熱情
+----------------------------------------
+name:H‍a‍i‍n‍a‍b‍a‍i‍c‍h‍u‍a‍n‍9‍9‍9‍9
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted April 8, 2023
+msg:前台服務態度特別好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted June 4, 2023
+msg:前台婷婷服務熱情
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 30, 2021
+msg:灑店乾淨整潔，服務熱情周到，安安靜靜的，睡的很好，佳木斯市不大，到哪都方便，出去吃飯打車10元以內，順便提一下，到佳木斯一定要嚐嚐江魚，味道很好。
+----------------------------------------
+name:A‍o‍e‍r‍k‍a‍n‍g‍a‍i‍e‍r‍w‍e‍i‍l‍a
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted March 28, 2023
+msg:地理位置很好，出行方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 13, 2023
+msg:酒店不錯 接待熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted April 8, 2023
+msg:前台高傑服務很周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 9, 2023
+msg:酒店硬件和服務都很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 11, 2023
+msg:房間很舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 4, 2023
+msg:前台露，服務態度很好
+----------------------------------------
+name:C‍h‍e‍n‍g‍u‍a‍n‍f‍u‍(‍y‍a‍n‍g‍y‍a‍n‍g‍)
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted July 17, 2023
+msg:很不錯，乾淨整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 10, 2021
+msg:🚗 交通：很方便，我是開車去的。有自己的停車場。
+🧹衞生：衞生很乾凈，hensg舒適。
+🍃環境：環境很安靜，沒有打擾的。
+🔔服務：服務態度很到位，工作人員很熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted June 27, 2023
+msg:體驗感比較好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in June 2023
+info:Business travelers
+info:6 Reviews
+rating:2.2
+posted:Posted September 11, 2023
+msg:也就還湊合吧
+----------------------------------------
+name:L‍x‍n‍-
+info:Superior Standard Room
+info:Stayed in August 2021
+info:Friends
+info:3 Reviews
+rating:1
+posted:Posted September 2, 2021
+msg:平時直接在酒店大堂訂的房間還算可以，在攜程訂這個標準間房間小的實在可憐，快捷都比這大好多，而且和前台訂下來是同樣的價格，入住海天最不滿意的一次
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in April 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted April 28, 2023
+msg:前台服務非常好
+----------------------------------------
+name:s‍h‍a‍n‍l‍i‍a‍n‍g‍d‍e‍l‍a‍o‍m‍a
+info:Superior Standard Room
+info:Stayed in July 2023
+info:Business travelers
+info:74 Reviews
+rating:5
+posted:Posted July 24, 2023
+msg:非常非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in July 2023
+info:Friends
+info:37 Reviews
+rating:4
+posted:Posted August 23, 2023
+msg:房間太小了
+----------------------------------------
+name:Z‍h‍a‍n‍g‍w‍e‍n‍c‍h‍a‍o
+info:Superior Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:佳木斯最好的酒店🏨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted April 16, 2023
+msg:環境不錯 舒適
+----------------------------------------
+name:C‍o‍n‍g‍t‍o‍u‍z‍a‍i‍l‍a‍i‍N‍M
+info:Business Standard Room
+info:Stayed in July 2023
+info:Family
+info:26 Reviews
+rating:5
+posted:Posted July 5, 2023
+msg:早餐非常好
+----------------------------------------
+name:y‍r‍p‍m
+info:Superior Standard Room
+info:Stayed in June 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted June 29, 2023
+msg:酒店位置好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in March 2023
+info:Solo travelers
+info:10 Reviews
+rating:5
+posted:Posted March 29, 2023
+msg:非常不錯的環境
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:Business travelers
+rating:5
+posted:Posted June 19, 2023
+msg:好挺不錯的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in June 2023
+info:Friends
+info:101 Reviews
+rating:5
+posted:Posted June 15, 2023
+msg:早餐很豐盛
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2021
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted July 4, 2021
+msg:酒店的瑩瑩，桐桐和瑤瑤人美心善態度好，為你們點贊，酒店因你們更具魅力，下次來期待能再次看到你們陽光明媚的笑容，好評，好評，下次來佳木斯首選你家。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 13, 2023
+msg:服務質量很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 23, 2023
+msg:很不錯 挺好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 7, 2023
+msg:好👌👌👌👌👌
+----------------------------------------
+name:Y‍a‍o‍l‍e‍x‍i‍a‍n‍s‍h‍e‍n‍g
+info:Deluxe Double Room
+info:Stayed in June 2022
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted June 27, 2022
+msg:除了空調不怎麼涼，沒有什麼瑕疵。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:住的很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:16 Reviews
+rating:4
+posted:Posted July 18, 2021
+msg:早餐可以，可是7點以後去菜就不多了。前台服務一般、我提前三天就訂好了，前台服務員説這幾天人多給你串一間就不錯了。
+----------------------------------------
+name:Q‍i‍a‍n‍g‍g‍e
+info:Superior Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 27, 2023
+msg:乾淨整潔舒適
+----------------------------------------
+name:K‍u‍g‍e‍x‍i‍d‍e‍n‍g‍y‍u
+info:Superior Standard Room
+info:Stayed in July 2021
+info:Family
+info:24 Reviews
+posted:Posted July 27, 2021
+msg:環境很好，就是房間有點小。靠近江邊，離購物區也不遠，有免費停車場，晚上去江邊散步很方便，走路幾分鐘就能到。
+----------------------------------------
+rating:4
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:16 Reviews
+rating:3
+posted:Posted August 25, 2022
+msg:裝修有點舊，早餐不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted March 2, 2023
+msg:還是很好的
+----------------------------------------
+name:B‍a‍s‍e‍_
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 2, 2023
+msg:非常不錯！
+----------------------------------------
+name:M‍i‍n‍.‍m‍i‍n
+info:Superior Double Room
+info:Stayed in January 2023
+info:Couples
+info:11 Reviews
+rating:5
+posted:Posted February 15, 2023
+msg:服務熱情周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted March 6, 2023
+msg:老客户回購
+----------------------------------------
+name:M‍i‍n‍g‍r‍e‍n‍t‍a‍n‍g‍^‍0‍^‍d‍a‍q‍i‍a‍n‍g
+info:Deluxe Double Room
+info:Stayed in February 2023
+info:Friends
+info:7 Reviews
+rating:4
+posted:Posted March 16, 2023
+msg:還可以吧。
+----------------------------------------
+name:2‍2‍1‍1‍2‍2‍w‍s‍t‍y
+info:Superior Standard Room
+info:Stayed in June 2021
+info:Other
+info:14 Reviews
+rating:5
+posted:Posted June 26, 2021
+msg:早餐非常棒！為了這麼豐盛的早餐，我也要再來一次佳木斯住海天大酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted September 29, 2022
+msg:衞生 環境優美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in December 2021
+info:Friends
+info:3 Reviews
+rating:1.2
+posted:Posted December 22, 2021
+msg:屋裡19度，差點沒凍硬屋裡。
+----------------------------------------
+name:S‍h‍e‍n‍g‍r‍u‍o‍f‍a‍n‍h‍u‍a
+info:Superior Double Room
+info:Stayed in September 2021
+info:Business travelers
+info:36 Reviews
+rating:5
+posted:Posted October 18, 2021
+msg:給我父親定的房間，他出差用，據説環境還成
+----------------------------------------
+name:B‍a‍o‍b‍e‍i‍g‍e‍d‍a‍9‍2‍0
+info:Business Double Room
+info:Stayed in June 2021
+info:Couples
+info:14 Reviews
+rating:5
+posted:Posted August 2, 2021
+msg:酒店還不錯，市中心，房間安靜，適合睡眠
+----------------------------------------
+name:H‍a‍o‍z‍i‍k‍a‍n‍g‍d‍a‍o‍_‍m‍a‍n‍j‍i‍e‍z‍h‍a‍o‍m‍a‍o
+info:Business Standard Room
+info:Stayed in July 2021
+info:Business travelers
+info:5 Reviews
+rating:2.2
+posted:Posted July 28, 2021
+msg:裝修味道重，價格虛高，謹慎預訂。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2021
+info:Other
+info:7 Reviews
+rating:3.5
+posted:Posted September 17, 2021
+msg:不咋樣，淋浴的花灑都壞了
+----------------------------------------
+name:C‍h‍o‍n‍g‍l‍i‍z‍h‍a‍n‍g‍q‍i‍b‍o
+info:Superior Double Room
+info:Stayed in January 2022
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted February 18, 2022
+msg:設施齊全完善
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:6 Reviews
+rating:3
+posted:Posted January 2, 2022
+msg:一般一般一般
+----------------------------------------
+name:L‍E‍O‍7‍8‍2‍9
+info:Business Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 14, 2021
+msg:很不錯，還有江景
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in December 2021
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted January 2, 2022
+msg:很不錯的體驗
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2021
+info:Business travelers
+info:7 Reviews
+rating:1
+posted:Posted September 16, 2021
+msg:沒看出來值這個價格
+----------------------------------------
+name:T‍u‍l‍v‍c‍h‍e‍n
+info:Superior Standard Room
+info:Stayed in November 2021
+info:Family
+info:3 Reviews
+rating:1
+posted:Posted November 16, 2021
+msg:性價比太低了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Business travelers
+info:Stayed in April 2021
+posted:Posted June 29, 2021
+rating:4.7
+info:8 Reviews
+msg:服務一般，早餐還不錯
+----------------------------------------
+name:D‍a‍l‍e‍f‍u‍z‍h‍u‍y‍u‍n‍w‍e‍n
+info:Business Double Room
+info:Stayed in July 2021
+info:Friends
+info:198 Reviews
+rating:3.5
+posted:Posted July 11, 2021
+msg:一般的酒店！
+----------------------------------------
+name:y‍u‍s‍u‍k‍e‍h‍j
+info:Deluxe Double Room
+info:Stayed in May 2021
+info:Business travelers
+info:56 Reviews
+rating:5
+posted:Posted October 19, 2021
+msg:酒店比較老了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted June 25, 2021
+msg:環境好，服務好
+----------------------------------------
+name:L‍a‍o‍y‍a‍o‍g‍u‍a‍i
+info:Superior Standard Room
+info:Stayed in June 2021
+info:Booked for others
+info:4 Reviews
+rating:5
+posted:Posted June 12, 2021
+msg:價格有點偏高
+----------------------------------------

@@ -1,0 +1,268 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With River View
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 12, 2024
+msg:環境確實好，性價比很高，唯一不足的是，吃東西不方便，外賣送不到！如果是自駕，住這家是首選！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:大概因為是比較新的酒店，設施設備還算比較齊全。裝修、配置都挺好。早餐種類還行。環境不錯，挺幽靜的。停車位的充電樁基本都是慢充樁，入住時發現有一部分暫未開通。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+rating:5
+posted:Posted May 19, 2024
+msg:#衞生酒店衞生整體不錯，無論是酒店外圍還是大廳，電梯，房間特別乾淨。#服務還可以#房間設施房間內，格局和佈置清爽，設施全新！特別是衞生間超乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+rating:5
+posted:Posted May 14, 2024
+msg:第一次入住鏡花灣酒店，第一眼大堂非常高級，前台小姐姐服務熱情，入住辦理非常快，酒店環境優美，山景房非常不錯，值得下次再來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+rating:5
+posted:Posted May 4, 2024
+msg:第一次入住鏡花灣體驗很好，酒店環境設計很漂亮，房間很新而且露台能看見周邊樹木。寄存東西也很方便，下次再來上高還會考慮你們家。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Solo travelers
+rating:5
+posted:Posted May 7, 2024
+msg:哈哈哈説一個細節，衞生間很乾凈，味道特別好，這個細節真的很戳我！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With River View
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:4.5
+posted:Posted May 11, 2024
+msg:房間較大，設施很新，服務態度較好。
+酒店配套設施有待進一步齊全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With River View
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:前台服務很好，很熱情，房間乾淨整潔，交通便利，停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With River View
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:2.2
+posted:Posted April 8, 2024
+msg:這是怎麼遇到最差體驗的酒店，酒店管理混亂。不建議大家入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With River View
+info:Stayed in May 2024
+info:Family
+info:12 Reviews
+rating:2.1
+posted:Posted May 7, 2024
+msg:早餐設定一份，帶個小孩還不讓進，太差評了，人情味無。
+----------------------------------------
+name:Y‍o‍u‍h‍u‍a‍j‍i‍d‍i‍a‍n‍-‍z‍h‍u‍a‍n‍y‍e‍z‍h‍o‍n‍g‍y‍a‍n‍g‍k‍o‍n‍g‍t‍i‍a‍o‍ ‍ ‍c‍e‍n‍g‍l‍i‍a‍n‍g
+info:Queen Room With Mountain View
+info:Stayed in March 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 7, 2024
+msg:設施：高端，
+衞生：乾淨整潔。
+環境：優雅。
+服務：滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Mountain View
+info:Stayed in March 2024
+info:Other
+info:3 Reviews
+rating:4
+posted:Posted March 19, 2024
+msg:房間各方面都可以 裏面服務跟不上 老套管理 員工業務不熟
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With River View
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 13, 2024
+msg:非常不錯，前台專業 漂亮，衞生壞境上高最好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+rating:3
+posted:Posted May 11, 2024
+msg:空調晚上關了還是會有運作的噪音，影響睡眠
+----------------------------------------
+name:T‍u‍z‍i‍D‍e‍m‍i
+info:2-bed Room With River View
+info:Stayed in March 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 22, 2024
+msg:服務態度很好，早餐很美味，衞生乾淨。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With River View
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 21, 2024
+msg:酒店環境好、標準高，五星級服務。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Mountain View
+info:Stayed in April 2024
+info:Couples
+info:15 Reviews
+rating:5
+posted:Posted April 19, 2024
+msg:房間很大，非常舒適，衞生很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Mountain View
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 3, 2024
+msg:房間乾淨整潔，服務人員態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Business travelers
+rating:5
+posted:Posted May 9, 2024
+msg:前台服務很好，酒店也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With Mountain View
+info:Stayed in May 2024
+info:Business travelers
+info:12 Reviews
+rating:1
+posted:Posted May 29, 2024
+msg:穿品臟了能洗乾淨還收費
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Couples
+rating:5
+posted:Posted May 20, 2024
+msg:環境很好，酒店前台很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Business travelers
+rating:5
+posted:Posted May 9, 2024
+msg:前台服務不錯，住幾次了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+rating:5
+posted:Posted May 19, 2024
+msg:滿意滿意壞境很好推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Mountain View
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 21, 2024
+msg:很不錯，很乾凈服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With River View
+info:Stayed in May 2024
+info:Solo travelers
+info:8 Reviews
+rating:4.5
+posted:Posted May 11, 2024
+msg:非常安靜，設施挺好
+----------------------------------------
+name:l‍k‍i‍n‍7‍7
+info:2-bed Room With Mountain View
+info:Stayed in March 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted May 25, 2024
+msg:剛開業不久 很nice
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Queen Room With River View
+info:Stayed in May 2024
+info:Booked for others
+info:9 Reviews
+rating:5
+posted:Posted May 17, 2024
+msg:前台服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With River View
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:環境：乾淨，房間大。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Business travelers
+rating:5
+posted:Posted May 9, 2024
+msg:可以住幾次了，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in April 2024
+info:Other
+rating:5
+posted:Posted April 20, 2024
+msg:挺安靜，不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in April 2024
+info:Other
+rating:5
+posted:Posted April 29, 2024
+msg:非常不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Mountain View
+info:Stayed in February 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted April 10, 2024
+msg:一切都很滿意
+----------------------------------------

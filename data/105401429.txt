@@ -1,0 +1,256 @@
+name:A‍r‍a‍n‍c‍i‍b‍i‍a
+info:Queen Room With View
+info:Stayed in January 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted January 10, 2024
+msg:Very nice resort. I didn’t use all the amenities but it looks very nice. The food is not very foreigner friendly, specially the breakfast. Not many people during the weekdays so buffet isn’t available but the people is very nice and welcoming.
+----------------------------------------
+name:Z‍h‍o‍n‍g‍c‍a‍o‍g‍u‍a‍n
+info:Queen Room With View
+info:Stayed in December 2023
+info:Other
+info:3 Reviews
+rating:4.5
+posted:Posted January 9, 2024
+msg:The hotel environment is very good and suitable for vacation. The only bad thing is the breakfast. I hope the hotel can improve the breakfast. It is really unsatisfactory and does not live up to the standards of a five-star hotel.
+----------------------------------------
+name:S‍h‍u‍s‍h‍u‍s‍h‍u‍i‍p‍i‍n‍g‍z‍u‍o‍�‍�
+info:Queen Room With View
+info:Stayed in November 2023
+info:Friends
+info:3 Reviews
+rating:4.7
+posted:Posted November 8, 2023
+msg:The newly opened hotel has relatively new facilities. The TV does not have a screen projection function. It is a 20-minute drive from the Nanbei Lake Scenic Area. There are very few people there on weekdays. It is not suitable for bringing children. There is only a golf course for entertainment. It is good and quiet for the elderly to vacation. There is only a set menu for breakfast, and the room price is relatively expensive on the spot. The room is large and has a balcony. I also like the architectural style.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in April 2024
+info:Couples
+info:9 Reviews
+rating:5
+posted:Posted April 27, 2024
+msg:High-quality resort hotel with great design colors and sense of space. The golf course and hotel environment are integrated. Both the hotel experience and the 36-hole swing are a pleasure. Thumbs up!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in October 2023
+info:Other
+rating:2
+posted:Posted October 10, 2023
+msg:For a hotel with a golf course, the supporting facilities and services are really average. First of all, even the most basic mineral water is limited. Each room only provides a maximum of 4 bottles. There is a charge for more. In fact, the water is not worth a few dollars. Money, but it makes people feel uncomfortable. In addition, the breakfast was very poor. While I was eating breakfast, I heard several customers loudly asking the waiter because they were dissatisfied with the breakfast. Before nine o'clock, the fruits were gone, the coffee beans were gone, and the pastries were all purchased. The packaging was unpacked and placed directly on the dining table without even removing the plastic box underneath. I didn't eat much for breakfast. I picked up a few random foods. The selection of raw materials was not very good. The corn was shriveled and the pumpkin was tasteless. It's probably the worst breakfast I've ever had in a hotel.
+----------------------------------------
+name:B‍u‍h‍u‍i‍s‍h‍u‍o‍h‍u‍a‍d‍e‍n‍v‍t‍o‍n‍g‍x‍u‍e
+info:Queen Room With View
+info:Stayed in September 2023
+info:Family
+info:7 Reviews
+rating:3.5
+posted:Posted September 30, 2023
+msg:The room is nice, but the breakfast for 128 people is too bad. There are only 10 items in total including fruits. It is really not worth the price. The price of a five-star hotel and the breakfast level of a fast hotel. to see
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in April 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:The room is very big and comes with a cocktail in the lobby, which is very comfortable!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With View
+info:Stayed in March 2024
+info:Family
+info:2 Reviews
+rating:4.5
+posted:Posted March 5, 2024
+msg:A pleasant surprise! A very comfortable resort with a large area and few people. The golf course is well maintained.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in December 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted December 14, 2023
+msg:The hotel is very good, tall outside
+Facilities: beautiful, beautiful
+Sanitation: clean, very new
+Environment: good
+Service: very good
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive View King Room
+info:Stayed in November 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 8, 2023
+msg:The ladies at the front desk are nice, the hotel environment is also very good, the room is very new, and you can see the green from the balcony haha
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With View
+info:Stayed in June 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted June 15, 2023
+msg:The environment is quite good and all facilities are quite OK.
+----------------------------------------
+name:L‍i‍b‍c‍a‍l
+info:Deluxe 2-bed Room
+info:Stayed in October 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted October 2, 2023
+msg:The hotel facilities are very new, the entrance is very grand, and the breakfast is rich. The front desk staff are also very friendly. It's a two-minute walk from the golf club, very convenient. .
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With View
+info:Stayed in September 2023
+info:Couples
+info:4 Reviews
+rating:4
+posted:Posted September 16, 2023
+msg:There has been the sound of mowing grass in the morning, which is really uncomfortable. The other hotel environment and breakfast are good. It is best to put some snacks in the room.
+----------------------------------------
+name:m‍i‍n‍i‍l‍i‍o‍n
+info:Queen Room With View
+info:Stayed in May 2023
+info:Friends
+info:52 Reviews
+rating:5
+posted:Posted May 12, 2023
+msg:The room is clean and tidy, facing the Jianshan Golf Course
+----------------------------------------
+name:m‍c‍z‍h‍o‍u
+info:Deluxe 2-bed Room
+info:Stayed in September 2023
+info:Business travelers
+info:4 Reviews
+rating:4
+posted:Posted September 11, 2023
+msg:It's ok. I don't understand why they charge for mineral water. This level of hotel shouldn't be charged. Just a few bottles of water.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive View King Room
+info:Stayed in May 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 14, 2023
+msg:The room was very clean and tidy
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in June 2023
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted June 22, 2023
+msg:Very good environment, hotel facilities are also very new
+The custom dishes in the western restaurant are very unique, the price is absolutely worth 260/person
+----------------------------------------
+name:G‍D‍o‍n‍e
+info:Queen Room With View
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:3.2
+posted:Posted May 19, 2023
+msg:The hotel is relatively new and the hardware is pretty good. But there is nothing to do inside, and the green areas all belong to the golf club, so guests are not allowed to enter.
+Simply put, this hotel is the dormitory of the golf club.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in April 2023
+info:Family
+info:11 Reviews
+rating:4.7
+posted:Posted May 3, 2023
+msg:The hotel is located inside the Jianshan Golf Course. The surrounding environment is very good and the staff are very friendly. However, it is currently undergoing the second phase of the expansion project, so some facilities in the hotel are not yet fully open. I believe that after the completion of the second phase of the project, the facilities will be more complete. The environment will also be better.
+----------------------------------------
+name:X‍i‍a‍n‍g‍z‍h‍a‍o‍y‍i‍g‍e‍j‍i‍a
+info:Deluxe 2-bed Room
+info:Stayed in April 2023
+info:Solo travelers
+info:44 Reviews
+rating:4
+posted:Posted April 14, 2023
+msg:The hotel is newly built near the stadium. The rooms are not small, but the actual layout is not reasonable. There is only a set menu for breakfast, no buffet. It may be because there are too few people staying. This is something I didn't expect before. It's too simple~
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in November 2023
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted November 15, 2023
+msg:Beautiful environment and good service
+----------------------------------------
+name:d‍o‍k‍i‍2‍4‍1‍7
+info:Deluxe 2-bed Room
+info:Stayed in June 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted July 2, 2023
+msg:Great. Clean, hygienic, comfortable and well equipped. Perfect😍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive View King Room
+info:Stayed in June 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 24, 2023
+msg:Booked for the teacher, the service is good
+----------------------------------------
+name:S‍u‍p‍e‍r‍z‍h‍a‍n‍g‍�‍�
+info:Deluxe 2-bed Room
+info:Stayed in June 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted June 25, 2023
+msg:Satisfactory, comfortable environment
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With View
+info:Stayed in March 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted March 23, 2023
+msg:First-class environment and first-class facilities.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With View
+info:Stayed in April 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted June 19, 2023
+msg:The hotel is very new and the service is good
+----------------------------------------
+name:s‍h‍a‍n‍g‍y‍u
+info:2-bed Room With View
+info:Stayed in July 2023
+info:Family
+info:27 Reviews
+rating:5
+posted:Posted July 12, 2023
+msg:The service was great
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in September 2023
+info:Business travelers
+info:59 Reviews
+rating:5
+posted:Posted October 13, 2023
+msg:Very nice hotel
+----------------------------------------

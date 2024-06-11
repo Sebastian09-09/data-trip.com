@@ -1,0 +1,72 @@
+name:G‍a‍n‍g‍c‍h‍e‍n‍g‍f‍e‍i‍y‍a‍n
+info:Deluxe Single Room
+info:Stayed in October 2023
+info:Couples
+info:26 Reviews
+rating:3.7
+posted:Posted October 4, 2023
+msg:衞生間設施太簡陋，沖涼房太小，臨時想洗個腳都不方便，衹有一個固定的花灑。與攜程網上宣傳的五星標準差得太遠了。
+----------------------------------------
+name:s‍t‍e‍p‍h‍y
+info:Family Standard Room
+info:Stayed in July 2022
+info:Family
+info:16 Reviews
+rating:1
+posted:Posted July 23, 2022
+msg:除了酒店停車場外面有個觀景平台.其他的真的是一言難盡.浴室小，陽台臟，洗澡水小，隔音差.最讓我崩潰的是，9點到5點沒空調，再且就是早餐.品種身高就算了，品質差.簡直是太對不起井岡山上最好的酒店之一的名字了.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 3, 2023
+msg:衞生非常乾淨，環境優雅，服務熱心周到，旅遊居住的首選地方。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in July 2022
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted July 19, 2022
+msg:不錯的一家酒店，坐落於井岡山景區內，出行非常方便，環境視野很美，房間大小適中，乾淨整潔，早餐豐盛，值得推薦一下。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in July 2022
+info:Friends
+info:9 Reviews
+rating:4.5
+posted:Posted August 15, 2022
+msg:熱情服務，環境優美。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Standard Room
+info:Stayed in July 2021
+info:Couples
+info:32 Reviews
+rating:5
+posted:Posted July 18, 2021
+msg:浴室設備有改善空間
+----------------------------------------
+name:R‍u‍n‍w‍u‍Ｗ‍s‍h‍e‍n‍g
+info:Deluxe Standard Room
+info:Stayed in June 2021
+info:Friends
+info:26 Reviews
+rating:5
+posted:Posted June 22, 2021
+msg:位置極佳，出遊方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in May 2021
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted July 17, 2021
+msg:安靜舒適之選
+----------------------------------------

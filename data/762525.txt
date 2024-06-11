@@ -1,0 +1,219 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Apartment
+info:Stayed in July 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted July 31, 2023
+msg:The room is very big and spacious. There is no peculiar smell. All supplies are available. The staff is very enthusiastic. They gave a fruit plate as soon as you checked in. The surrounding environment is also very good. Recommended
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Apartment
+info:Stayed in July 2023
+info:Solo travelers
+info:11 Reviews
+rating:5
+posted:Posted July 25, 2023
+msg:Very satisfied. The location is convenient and easy to find, the room is big enough and bright enough, the equipment and facilities are sufficient, there are restaurants nearby, and takeout is also very convenient.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Apartment
+info:Stayed in July 2023
+info:Other
+info:74 Reviews
+rating:4.7
+posted:Posted July 22, 2023
+msg:The hotel is located inside the Aili Fengshe Golf Club, so getting up early to play golf is the best choice. The welcome fruits provided by the hotel are also very good. Because it is a hotel apar**ent, the room is very large.
+----------------------------------------
+name:Y‍u‍d‍e‍m‍i‍a‍o
+info:One-bedroom Apartment
+info:Stayed in December 2023
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted December 23, 2023
+msg:Service: The service is very good and very enthusiastic
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in December 2023
+info:Other
+rating:5
+posted:Posted January 3, 2024
+msg:The hotel is very nice
+----------------------------------------
+name:J‍i‍e‍f‍u‍c‍h‍u‍n‍w‍e‍n
+info:One-bedroom Apartment
+info:Stayed in October 2023
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:Satisfied. Not bad.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Apartment
+info:Stayed in June 2021
+info:Business travelers
+info:4 Reviews
+rating:4.7
+posted:Posted June 19, 2021
+msg:The first choice hotel in Langfang, the reception is warm and the environment is very good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Apartment
+info:Stayed in May 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:康養主題的度假酒店，環境、設施都比較理想，服務有驚喜，服務人員顏值都在線，服務恰到好處温和自然，對客人入住期間的各種問題和要求都非常耐心、無微不至，livia小姐姐和中餐廳一位親切的管理人員都給人留下深刻印象🌹🌹酒店餐廳以養生菜為主，高爾夫的場地和環境不錯，還有直達衹有紅樓夢幻城的班車，非常愉快的入住體驗。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Apartment
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 5, 2024
+msg:環境：酒店園區環境清幽
+服務：客服熱情，服務到位
+高爾夫練習:客房服務引領安排妥當，教練接待熱情、能夠給予專業的指導服務
+設施：園區設施齊備，能夠滿足多種需求
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Apartment
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 5, 2024
+msg:房間出乎意料的大，環境也特別的棒，在球場裏面，也特別安靜。工作人員服務特別周到，看到我們有行李會主動幫忙送到房間，而且態度都特別的好！還贈送了歡迎水果。下次一定還會選擇這裏。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:One-bedroom Apartment
+info:Stayed in April 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:入住體驗非常好，尤其是管家悦悦很專業，服務到位
+設施：設施齊全
+衞生：衞生條件滿意
+高爾夫練習:體驗感不錯
+環境：環境優雅
+服務：服務態度完美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+rating:5
+posted:Posted May 2, 2024
+msg:房間超級大，很衞生，服務很周到，管家式服務，景色很好
+----------------------------------------
+name:A‍i‍l‍v‍x‍i‍n‍g‍d‍e‍Y‍Y
+info:One-bedroom Apartment
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 6, 2024
+msg:女兒來廊坊參加鋼琴比賽，廊坊不大，酒店離哪裡都很近，出行方便，每個工作人員都很熱情，極力推薦酒店的早餐，種類多又很好吃，以後來廊坊還會選擇這裏
+----------------------------------------
+name:G‍o‍n‍g‍l‍i‍x‍u‍e
+info:One-bedroom Apartment
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 14, 2024
+msg:服務好，環境好，早餐搭配的也很好，對各個年齡段孩子都很友好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in April 2024
+info:Other
+rating:5
+posted:Posted April 6, 2024
+msg:很好的酒店，下次還來光顧。服務很熱情，管家很貼心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Apartment
+info:Stayed in March 2024
+info:Business travelers
+info:16 Reviews
+rating:2
+posted:Posted March 28, 2024
+msg:整體感覺很差！設備硬件充其量就一快捷酒店水準，三星都達不到！因為隔音差，一大早保潔服務人員打掃衞生極其吵鬧聲音特別大，毫無管理。不應該叫高爾夫酒店誤導大家！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+rating:5
+posted:Posted May 4, 2024
+msg:五一假期去的，環境很好，特別適合帶娃入住，屋內很乾凈，服務非常好，拉下東西，服務人員還主動聯繫。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+rating:5
+posted:Posted May 4, 2024
+msg:坐落在高爾夫球場內，帶孩子來不錯的選擇，還有很好的游泳館。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+rating:5
+posted:Posted May 4, 2024
+msg:美麗的酒店，温馨的服務。有空可以常來的酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Apartment
+info:Stayed in December 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted February 1, 2024
+msg:孩子很喜歡，人少，下次還會去住，看了衹有紅樓夢很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Apartment
+info:Stayed in April 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted April 5, 2024
+msg:酒店管家悦悦服務特別好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:One-bedroom Apartment
+info:Stayed in April 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted April 20, 2024
+msg:酒店比較好
+----------------------------------------
+name:k‍i‍n‍g‍n‍a‍m‍n
+info:One-bedroom Apartment
+info:Stayed in April 2021
+info:Other
+info:11 Reviews
+rating:4
+posted:Posted June 16, 2021
+msg:球場邊的酒店，有點不好找
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2021
+info:Business travelers
+rating:5
+posted:Posted August 10, 2021
+msg:環境 服務都不錯
+----------------------------------------
+name:W‍o‍j‍i‍u‍s‍h‍i‍x‍i‍n‍g‍…
+info:One-bedroom Apartment
+info:Stayed in June 2021
+info:Other
+info:116 Reviews
+rating:5
+posted:Posted July 20, 2021
+msg:挺好挺好挺好
+----------------------------------------

@@ -1,0 +1,3768 @@
+name:A‍b‍b‍y‍_‍J‍u‍e
+info:Traditional Double Room
+info:Stayed in April 2023
+info:Solo travelers
+info:11 Reviews
+rating:3.7
+posted:Posted May 3, 2023
+msg:This is a pretty decent hotel. It is located in a nice area where you can access all you need. The room was clean enough and the food was ok.
+----------------------------------------
+name:k‍e‍p‍k‍e‍s
+info:Traditional Twin Room
+info:Stayed in December 2023
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted December 31, 2023
+msg:It is a good and clean place to stay. Workers are smiling and helpful.
+----------------------------------------
+name:B‍r‍u‍c‍e‍ ‍N‍g
+info:Traditional Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 14, 2024
+msg:Breakfast was good and gym room is big with good equipments
+----------------------------------------
+name:A‍B‍D‍O‍L‍H‍O‍S‍S‍E‍I‍N
+info:Traditional Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted December 16, 2023
+msg:nice Hotel ,very satisfied. will go the agAin
+----------------------------------------
+name:A‍M‍B‍L‍E‍R‍ ‍S‍M‍I‍T‍H
+info:Traditional Twin Room
+info:Stayed in June 2023
+info:Business travelers
+info:5 Reviews
+rating:1
+posted:Posted June 6, 2023
+msg:Terrible experience. They charge expensive rates and poor rooms. Old
+----------------------------------------
+name:F‍r‍a‍n‍k‍.‍M‍a‍o
+info:Deluxe Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 6, 2023
+msg:goddddddddd
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 4, 2023
+msg:it's good
+----------------------------------------
+name:T‍i‍m‍o‍ ‍C‍l‍a‍a‍s
+info:Traditional Twin Room
+info:Stayed in July 2021
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted July 11, 2021
+msg:Meine Erfahrung im Four Points by Sheraton war großartig. 
+Das Einchecken hat hervorragend funktioniert. Die Mitarbeiter an der Rezeption konnten perfektes Englisch und sind meinen Zimmerwünschen bestmöglich nachgekommen, sodass ich schlussenldich ein Upgrade mit Blick über die Stadt hatte. 
+
+Das Zimmer war mit allen nötigen Sachen ausgestattet und ließ keine Wünsche offen. 
+
+Sogar der Parkplatz unter dem Hotel war kostenlos.
+
+In meinen Augen blieben keine Wünsche offen. 
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted March 25, 2024
+msg:The hotel room is quite spacious, the bed is also very large, the bedding is very soft and comfortable, there are several pillows of different hardness materials to choose from, and the breakfast variety is also quite rich.
+----------------------------------------
+name:H‍U‍A‍N‍G‍W‍G
+info:Deluxe Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted March 16, 2024
+msg:The environment is good, but it is located next to the elevator, so the noise is disturbing when it is running, so be careful. The service is warm and gives a good impression. There is a green river around, which is suitable for strolling. Attached are photos of the night view
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in February 2024
+info:Family
+info:8 Reviews
+rating:1.2
+posted:Posted February 4, 2024
+msg:The poor hardware facilities and service attitude are really speechless. The bathtub didn't work. I called the front desk. After a long time, a waiter came and pointed at the shower and asked in a questioning tone: Isn't there a shower? Well, I used the shower. The shower door was severely deformed and couldn't be closed. When I turned on the faucet, the bathroom floor was full of water. The power outlet was broken and couldn't be plugged in. There were also yellow spots on the pillow... and the light switch, the instructions on the switch were wrong.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in February 2024
+info:Business travelers
+info:79 Reviews
+rating:5
+posted:Posted February 6, 2024
+msg:I have lived in Greenland Four Points for almost three years. This is my best choice for every business trip. The hotel reception is warm and the service is very thoughtful. Every time I feel like home. I highly recommend everyone to stay here.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:10 Reviews
+rating:1
+posted:Posted February 3, 2024
+msg:The room is old and the soundproofing is poor. There are hairs on the unused bath towels. There is dust on the used bath towels after hanging them on the rack and dragging them down. I am disappointed!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted January 27, 2024
+msg:Maybe we arrived too late, so we were upgraded to a suite with a sauna. It felt like 200 square meters. What else can I say? It was simply amazing. Can you upgrade me again next time?
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 10, 2024
+msg:The room is spacious, clean and tidy, the bed is soft, I will come again next time
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted January 14, 2024
+msg:Every time I come to Hefei, I always stay at this Sheraton. It has a convenient location, good environment and good service. I recommend it to everyone.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in December 2023
+info:Solo travelers
+info:1 Review
+rating:3
+posted:Posted December 24, 2023
+msg:The bathtub is not clean. The door lock does not look safe. The overall facilities are not up to the standard.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in December 2023
+info:Couples
+info:12 Reviews
+rating:5
+posted:Posted December 7, 2023
+msg:The hotel facilities are a bit old, but the service is very attentive! The management is very good👍The lady who works in the room is super good! The room is very clean! The front desk gave a late check-out, and meals can be delivered to the room at noon, and you can check out only after you are full! The mutton dumplings are delicious, and the chef also thoughtfully brought a bowl of dumpling soup!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in November 2023
+info:Solo travelers
+info:52 Reviews
+rating:5
+posted:Posted November 26, 2023
+msg:Although Sheraton is a relatively old hotel in Hefei, it is a great value for money considering all aspects.
+The room is comfortable, with standard features such as mouthwash and bath salts (it’s a pity that there is no coffee machine). It’s so comfortable to take a bath in a cold day. (The water drains very quickly)
+The executive lounge is also a suitable place for leisure, and the dumplings are delicious in the evening.
+The breakfast is completely up to the level of other hotels in the government district that are hundreds of dollars more expensive. It can only be said that it is worthy of Sheraton.
+From the perspective of business trips, if your company has a little more budget, it is better to come to Sheraton than those chain hotels.
+----------------------------------------
+name:M‍i‍s‍i‍y‍a‍n
+info:Traditional Double Room
+info:Stayed in November 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted November 2, 2023
+msg:Service: The front desk girl who checked in yesterday at noon was very lively and thoughtful
+
+Facilities: Unfortunately, I didn’t have time to go to the gym or swimming pool
+
+Environment: The transportation is very convenient, and it is also convenient to go to several places for dinner.
+Very close to Hefei South Station
+----------------------------------------
+name:f‍i‍a‍n‍g‍2‍0‍0‍6‍p‍e‍k
+info:Deluxe 2-bed Room
+info:Stayed in April 2024
+info:Business travelers
+info:9 Reviews
+rating:1
+posted:Posted April 5, 2024
+msg:Facilities: old, lack of modernization
+Service: I asked for a buckwheat pillow, but the waiter said there was none at first, with all kinds of excuses.
+Environment: The breakfast is very simple, not what a star hotel should have.
+Suggestion: Be careful when staying here!
+----------------------------------------
+name:M‍i‍n‍g‍k‍u‍a‍i‍d‍e‍t‍i‍a‍n‍y‍u‍a‍n‍x‍i‍n‍g‍z‍h‍e
+info:Traditional Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted March 22, 2024
+msg:In the past five years, I have basically stayed at Four Points every time I went to Hefei for business. This time, the front desk was more professional: my colleague originally booked a room for one night, but due to business needs, he extended it by one day. There was no renewal for the same king-size bed room online. The front desk staff took the initiative to help solve the renewal of the same room after noon, and handled it concisely...
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2023
+info:Solo travelers
+info:81 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:Came to Hefei to watch a concert. It was a great travel and stay experience. The bed was very soft and comfortable. The breakfast was also very rich. I will stay here again next time.
+Facilities: Complete
+Sanitation: Clean
+Environment: Clean and generous
+Service: Good attitude
+----------------------------------------
+name:P‍u‍p‍u‍t‍o‍n‍g‍t‍o‍n‍g‍d‍a‍g‍o‍n‍g‍z‍i
+info:Deluxe Queen Room
+info:Stayed in September 2023
+info:Other
+info:1 Review
+rating:4
+posted:Posted September 18, 2023
+msg:The overall feeling is OK, but it does not meet the 5-star standard. It is still different from the Marriott and Shangri-La where I stayed. There are dirty marks on the walls of the bathroom. The breakfast is also average. Overall, it is mediocre.
+----------------------------------------
+name:B‍E‍L‍I‍N‍D‍A‍2‍0‍1‍8
+info:Traditional Twin Room
+info:Stayed in September 2023
+info:Friends
+info:4 Reviews
+rating:4
+posted:Posted September 5, 2023
+msg:I went to Hefei with my friends and booked Sheraton Hotel. This hotel is not far from Hefei South Station and it takes about 20 minutes by taxi. After the taxi arrived at the hotel, there was no doorman to open the car door or the hotel door. After arriving at the lobby, there were no sofas in the waiting area. When checking in, there was no place for the people traveling with me to rest. The hotel room was average and ordinary. The hotel is relatively old and all the facilities look a bit old.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in August 2023
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted August 20, 2023
+msg:A petite receptionist at the front desk was very friendly and thoughtful. She told me that Lei Street Food Street was far away and the transportation was inconvenient. She suggested that I have dinner on the 20th floor and then go out to visit nearby Yintai, Swan Lake and the Grand Theater. It turned out to be true.
+Unfortunately, I didn't notice her ID card, which was a pity! The check-in time was 5:30 pm on August 18, 2013. Please check the hotel records to find out who the employee is and give praise.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in February 2024
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted March 2, 2024
+msg:I chose this hotel to visit relatives during the Spring Festival. It is close to home. The hotel is old, and the quality of the Four Points brand facilities is good and well maintained. The service attitude is very good, but the level is average. It feels like interns are on duty at the grassroots level. The senior management is on holiday during the Spring Festival, which is understandable. The catering manager is very responsible. I used the hotel's Chinese restaurant room for several consecutive days, and the food was not bad.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:55 Reviews
+rating:1
+posted:Posted January 22, 2024
+msg:It took 40 minutes to deliver a towel. The robot door could not be opened during the process, and the manual delivery was wrong. It took a total of 40 minutes to complete the guest's request for 1 towel. Under the slogan of considering the guests, they would rather the robot be idle, but they resolutely refused to help the guests deliver takeaways and medicines to the room. The guests had to run upstairs and downstairs in pajamas. There was no disposable equipment in the bathtub, and they said it could be disinfected. The aunt came and sprayed disinfectant water and it was done. What is 5 stars? It is recommended to re-evaluate. It failed to provide 5-star service. The services are terrible. I don’t recommend you to book. Be careful
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in August 2023
+info:Business travelers
+info:6 Reviews
+rating:2
+posted:Posted August 27, 2023
+msg:I had a particularly bad stay. The bed was too soft at first, so the waiter came to move Simmons to the other side, but they just added a door panel. It hurt my waist all night and I couldn't get up the next day. Neither is breakfast.
+Won't stay here a second time!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in August 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted August 29, 2022
+msg:Call ahead to ask what time check-in is. Is there any demand. Boil water in the room in advance. There is also fruit in it. The hotel breakfast is also very rich. excellent service. There is a large pool and a small pool. Babies can take a dip. overall satisfied
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in December 2022
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted December 12, 2022
+msg:It was the first time I stayed here, it felt as warm as home, the service attitude was very good, the room was clean and tidy, and I took the trouble to answer our questions patiently! I will stay here from now on
+----------------------------------------
+name:C‍u‍n‍t‍o‍u‍n‍a‍d‍u‍o‍x‍i‍a‍o‍h‍o‍n‍g‍h‍u‍a
+info:Executive Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:60 Reviews
+rating:3
+posted:Posted May 21, 2024
+msg:喜來登啊這可是，哎，定的行政大床、行李剛放下，發現左邊窗户有問題，就打電話給酒店了，説馬上派人來，等了又等沒來，又打了第二遍，説馬上到，結果依然沒來，在打第三遍，告知我那大姐不在吃飯去了，能做的就是打電話聯繫，其它的什麼也做不了，我靠這是五星級酒店啊我定的行政房啊，不是小旅館啊，最後向攜程投訴，大約從發現問題到最後換房（因為投訴酒店升級換房了）大約1小時左右、妥妥的差評、原計劃定了兩天，直接就退訂了一天換酒店了，再來合肥出差百分百不住這了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in September 2023
+info:Friends
+info:4 Reviews
+rating:4.2
+posted:Posted October 15, 2023
+msg:出行很方便，2分鐘就能到地鐵
+周圍吃的貌似不多
+衞生環境各方面卻都不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:1 Review
+rating:1
+posted:Posted December 23, 2023
+msg:房間一股黴味，設備老舊，床品睡完身上很癢……沒有一次性浴缸泡澡袋，打電話問前台，提供85度酒精噴一下，實在不敢恭維！酒店消費標識不明顯，除了礦泉水都是有償消費！很不能理解！再也不會再定。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in May 2023
+info:Solo travelers
+info:4 Reviews
+rating:1
+posted:Posted May 28, 2023
+msg:衞生狀態堪憂，給我的第一個房間地上一堆頭髮，桌子上有褐色液體污漬地板也是粘的。換了第二個房間，衞生也就半斤八兩。外賣也不送上樓，必須自己下樓取餐。重點是！！！酒店四樓的spa打電話到房間推薦按摩1198兩個小時。結果做到一半非要讓我加八百提供**服務？？？説如果不加錢她一分錢都賺不到？？？我衹是想老老實實按個摩放鬆一下。最後打電話給spa前台給了技師500塊讓她回去了。投訴到酒店酒店説spa是外包出去的？他們不負責？那請問如果spa是外包出去的為什麼spa的工作人員能不刷卡就進入到我的樓層？不需要登記身份證就去我房間按摩？關鍵是喜來登的按摩竟然還必須讓客人加價做**服務？這也太扯了…
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Deluxe Room
+info:Stayed in February 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:2/21入住，當時深夜11時，又冷，服務人員態度很好，親切的問候，床很舒服，我是一個睡眠品質不佳的人，但當晚睡的很好！推薦朋友們來住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in July 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted July 4, 2023
+msg:服務：凌晨因飛機備降 選擇留宿合肥一晚 入住酒店已是凌晨一點 服務員也是熱情接待 感謝🙏 
+
+衞生：房間乾淨整潔
+----------------------------------------
+name:M‍o‍m‍e‍n‍t‍e‍d
+info:Deluxe Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:6 Reviews
+rating:1
+posted:Posted October 23, 2023
+msg:最差的一次出差體驗，毫無服務可言，入住到第二天下午一點半還沒有人來打掃衞生，房間沒有按請勿打擾，出門的時候遇見保潔阿姨，讓阿姨打掃下。説説最噁心的退房，一共三個服務窗口。當天十一點半退房。有會議召開，三路全被佔滿。每一路有非酒店人員佔著，然後不停的拉人登記。你三個窗口就這麼服務的。本着排隊的素質，我等了近十五分鐘。沒完沒了。最後我説我趕高鐵。安排退房。我問了三次是否可以開電子發票。説可以的。然後讓另一個服務員拍公司抬頭。拍了以後繼續給別人登記。我忍無可忍説開票。她説好的。然後開始打印紙質的。慢慢輸入。我説電子的不是有嗎？她説沒有。那你同事剛才在夢遊嗎？最後沒開發票走了。毫無管理毫無用户體驗。管理混亂。全程夢遊。插隊不制止。窗口被佔滿也不考慮後續的客人。續住兩天，最差的喜來登。沒有之一
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in December 2023
+info:Family
+info:1 Review
+rating:3.5
+posted:Posted December 24, 2023
+msg:住在靠電梯口的房間，隔音非常差，如同住在鐵道旁，電梯的停靠運行聽的異常清晰，住宿從沒遇到過這種情況，蠻糟心的。早餐的種類不少，但卻不太好吃，尤其是中餐。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 23, 2024
+msg:地理位置好，離地鐵近走路5分鐘，到商業中心銀泰百貨10分鐘，服務人員服務熱情，入住前提前電話溝通有什麼訴求 房間整潔乾淨。
+----------------------------------------
+name:B‍a‍i‍h‍u‍a‍l‍i‍n
+info:Deluxe Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:2.7
+posted:Posted April 6, 2024
+msg:地段不錯，冷氣好，床軟，房間不大，但設施物件簡舊陋，價格還可以接受，不是為了休閑享受，勉強接受吧
+----------------------------------------
+name:T‍h‍o‍m‍a‍s‍8‍4‍2‍3
+info:Traditional Twin Room
+info:Stayed in June 2023
+info:Family
+info:19 Reviews
+rating:3
+posted:Posted July 3, 2023
+msg:房間空調短路了 等了很長時間才有人來處理 缺乏安全意識 屋子裡都是電線糊味
+----------------------------------------
+name:H‍a‍o‍h‍a‍o‍y‍i‍n‍d‍a‍o‍-‍q‍i‍a‍n‍t‍u‍w‍u‍x‍i‍a‍n‍m‍e‍i‍h‍a‍o‍1‍1‍2‍4
+info:Deluxe Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:74 Reviews
+rating:1
+posted:Posted January 2, 2024
+msg:所以説我們還是要相信點評的力量，他們家的確不怎麼樣，大家儘量不要去，我感覺都很一般般。選擇4.8分以上的吧，這種4.6分的真的太差勁了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 5, 2023
+msg:位置好，房間乾淨，服務温馨，前台Jessica很專業
+----------------------------------------
+name:F‍e‍n‍g‍y‍i‍y‍a‍n‍g‍z‍i‍y‍o‍u‍。
+info:Traditional Double Room
+info:Stayed in September 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 12, 2023
+msg:總體還是挺好的，就是衞生間浴缸那邊的簾子感覺是個擺設嗎？房間能看到衞生間裏的情況，衞生間裏也能看到房間的情況…雖然是一家人住，但還是覺得很不舒服讓人，希望酒店可以改善一下這種情況…
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in July 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted July 5, 2023
+msg:酒店前台sunny服務很好 房間環境 早餐都很不錯
+----------------------------------------
+name:a‍l‍I‍e‍n
+info:Traditional Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:97 Reviews
+rating:1
+posted:Posted September 3, 2023
+msg:打0分，真的很LOW，無法形容，砸了喜來登牌子。換了一次房還是很重的黴味，鼻炎發了。服務態度極差，叫服務員來開窗，叫了幾次，接電話的美女説還要簽什麼協議？真是離譜，我第一次聽説，怎麼還有這樣的酒店？
+----------------------------------------
+name:J‍C‍b‍o
+info:Traditional Double Room
+info:Stayed in April 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted May 18, 2023
+msg:酒店很好，位置也不錯，距離地鐵很近很方便，滿意，五一出行，合肥人不是很多，酒店環境沒得説，去哪裡也都很方便，非常不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 27, 2023
+msg:호텔 컨디션도 좋고 직원분들도 다들 친절하서 좋은 기억으로 남습니다. 방듀 깔끔하고 잠도 푹자서 다음날 좋은 컨디션 유지햇습니다
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in January 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted January 23, 2024
+msg:房間寬敞舒適，冬天住的很温暖，服務好！
+衞生：整潔
+設施齊全
+尤其態度熱情，幫忙免費升了房，感謝🙏下次再來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:酒店的房間非常棒，床鋪很軟，很舒適。前台貴賓接待的服務也很周到。健身房的器材也非常的好，對住店客人免費使用。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in December 2023
+info:Family
+info:5 Reviews
+rating:2.5
+posted:Posted January 20, 2024
+msg:早餐一般，整棟樓全密封，不透氣，房間窗户也是密封的。設施老化，床的舒適度差，枕頭特別高，床墊軟，睡了腰和頭都比較痛。
+----------------------------------------
+name:U‍S‍7‍9‍9
+info:Executive 2-bed Room
+info:Stayed in February 2024
+info:Friends
+info:15 Reviews
+rating:4
+posted:Posted February 23, 2024
+msg:老酒店，各方面保持的挺好，早餐豐盛，服務人員態度熱情，就是門口站的那個門僮看見來人了裝着沒看見。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in April 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted April 13, 2023
+msg:非常不錯的酒店，店面裝修自己服務都不錯，價格也比較親民，總體入住體驗還不錯，將來再次去合肥還會選擇這家酒店。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in December 2023
+info:Family
+info:6 Reviews
+rating:2.7
+posted:Posted December 26, 2023
+msg:奔着萬豪旗下酒店去的，本以為衞生等情況可以放心結果大失所望。酒店房間衞生間設施皆非人性化，一次非常糟糕的住房體驗。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:177 Reviews
+rating:5
+posted:Posted January 13, 2024
+msg:該酒店周圍的環境不錯，酒店的設施設備比較齊全，酒店的服務員服務態度熱情周到，房間衞生打掃的也乾乾淨淨。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 15, 2023
+msg:環境非常好，下次也訂這家酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in April 2024
+info:Solo travelers
+info:4 Reviews
+rating:4.5
+posted:Posted April 26, 2024
+msg:房間沒有小冰箱，空調沒冷風，設備太陳舊，餐室太小氣，桌面放一張餐巾！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in June 2023
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted June 13, 2023
+msg:可以
+酒店非常舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in April 2024
+info:Family
+info:28 Reviews
+rating:4.7
+posted:Posted April 15, 2024
+msg:房間乾淨整潔，就是晚上附近沒啥逛的，還有靠近路口有點吵，性價比還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in January 2024
+info:Business travelers
+info:3 Reviews
+rating:2.5
+posted:Posted January 12, 2024
+msg:前台沒受過專業接待交流培訓，容易與客人硬上開懟，服務意識很差。不能上樓給客人送外賣，硬傷！差評！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in April 2024
+info:Family
+info:28 Reviews
+rating:3.5
+posted:Posted April 17, 2024
+msg:作為萬豪酒店的會員，在喜來登酒店裡比較，個人覺得是較差的一個酒店。
+----------------------------------------
+name:y‍u‍e‍r‍j‍i‍e‍6‍8‍9‍6
+info:Traditional Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:第二次入住，感覺不錯！能滿足客人基本需求，以後會常去！位置好，服務好，衞生好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in January 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 16, 2023
+msg:酒店地理位置佳，周邊設施設備齊全，酒店大堂和客房環境好，服務態度非常到位，前台辦理入住的服務員非常有禮貌，整體體驗非常好，以後來合肥還會選擇入住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in January 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted February 1, 2023
+msg:窗外風景不錯，過年期間泳池也開放，就是水温略低，優點是有桑拿間，游完泳可以蒸一下暖暖身子，陽康後咳嗽近一個月，蒸了一下感覺好多了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in November 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted December 2, 2023
+msg:一切都是一如既往的好！位置方便，位於天鵝湖政務中心，設施和早餐滿意，商務接待很適合，服務也到位，讚了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted April 1, 2024
+msg:酒店位置還不錯，房間休息舒適，前台小王服務周到，早餐也挺豐富，入住體驗感不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in November 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted November 7, 2023
+msg:房間挺好的，前台服務態度很好，離店時到了機場發現手錶忘在房間了，酒店貼心的幫忙給郵寄到家，下次有機會繼續住這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 31, 2023
+msg:房間很大，服務很周到。體驗感很棒。每次來合肥都會入住這家喜來登。已經住習慣了，每次都會預訂這家。交通也很便利。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted March 1, 2024
+msg:房間環境很好，到店滿房升級了套房，服務很貼心，很滿意的一次入住體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:10 Reviews
+rating:2.5
+posted:Posted November 6, 2022
+msg:添加圖片是為了引起注意，本來酒店住宿條件都還可以，但是絕對不會再來了。
+早上起來剛洗完澡在屋裡休息，我沒有退房也沒有叫客房服務，保潔員在沒有確認屋裡有沒有人的情況下直接開門進來了！！我不知道這家酒店的培訓和管理是怎麼做的，也不知道是不是個例，服務員在敲了一下門後沒等迴應直接刷卡進房間，顯然不是第一次這麼做了！但是發生情況跟酒店人員反應後，衹有不停的不好意思，還説送一份早餐，發生這種事誰還有心情吃早餐，誰吃的下去？
+如果想在洗澡或者其他私密時間被酒店人員突然闖進來打擾的話，儘可放心入住，各位自行體會吧。
+----------------------------------------
+name:I‍v‍y‍d‍u‍w‍u
+info:Traditional Double Room
+info:Stayed in April 2024
+info:Other
+info:10 Reviews
+rating:5
+posted:Posted May 23, 2024
+msg:已經住了很多次了，交通便利，方便出行，房間服務都滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 18, 2023
+msg:酒店入住體驗感滿分💯，酒店的工作人員也很熱情！特別是前台一位叫王芳的工作人員，非常耐心貼心，一開始預訂錯了，也非常快速的幫忙溝通解決，效率很高。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:30 Reviews
+rating:5
+posted:Posted November 2, 2023
+msg:酒店的地理位置很便利，有免費的停車場，環境很好，房間很乾凈整潔，早餐是我的心頭愛，品種多，味道好
+----------------------------------------
+name:T‍i‍a‍n‍x‍i‍a‍n‍s‍h‍e‍n‍g‍S‍n‍o‍w
+info:Deluxe Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted October 13, 2023
+msg:不錯，預訂的房間給升級了套房，朋友很滿意，早點也很豐富，是住過喜來登系列裏麪不錯的酒店之一。五星好評。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in September 2023
+info:Friends
+info:2 Reviews
+rating:3.7
+posted:Posted September 17, 2023
+msg:有很多面鏡子但是沒有正確的光源 對化粧有影響
+浴室雖然有簾 但是透光性很強，在房間裏的人還是能看到浴室的所有活動
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted November 18, 2023
+msg:酒店房間挺大的，服務也不錯。酒店有房間送餐服務，價格還可以，沒有貴的離譜，速度也還可以。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in March 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 11, 2023
+msg:乾淨衞生 服務好 早餐不錯
+----------------------------------------
+name:F‍e‍i‍x‍i‍a‍n‍g‍d‍e‍p‍a‍n‍g‍x‍i‍e
+info:Traditional Twin Room
+info:Stayed in February 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:地理位置很方便 地鐵站旁邊 酒店環境特別好，服務人員態度熱情！
+----------------------------------------
+name:F‍e‍n‍g‍z‍h‍i‍w‍u‍0‍4‍2‍9
+info:Traditional Double Room
+info:Stayed in April 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted May 21, 2024
+msg:房間很好，離地鐵口也近，旁邊有銀泰和萬達，很方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 22, 2024
+msg:酒店服務非常好，也非常認真仔細核對客人訊息，非常好👍
+----------------------------------------
+name:F‍e‍n‍g‍h‍u‍a‍n‍g‍0
+info:Traditional Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 8, 2024
+msg:酒店乾淨舒適，服務員服務周到熱情，酒店設施較好，環境肅靜，推薦入住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in February 2024
+info:Family
+info:37 Reviews
+rating:5
+posted:Posted May 1, 2024
+msg:交通便利 每次自駕自北向南的行程都會住該酒店 停車餐飲方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in February 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted February 15, 2024
+msg:服務：很不錯的一次體驗 尤其是房間送了很多的飲用水 貼心
+----------------------------------------
+name:W‍a‍j‍i‍a‍z‍h‍u‍a‍n‍g
+info:Traditional Double Room
+info:Stayed in July 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted September 25, 2023
+msg:不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯不錯
+----------------------------------------
+name:D‍o‍n‍g‍s‍a‍n‍d‍u‍o
+info:Selected Deluxe Room
+info:Stayed in January 2024
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted January 18, 2024
+msg:出差住的，性價比很高，酒店比較新，各項服務都很超級。住着挺好的。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:9 Reviews
+rating:4.2
+posted:Posted May 14, 2024
+msg:價格高了，與實際提供的服務相比不相稱。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:1
+posted:Posted February 1, 2024
+msg:酒店桌子上有付費食物，但未貼付費標簽。服務差，體驗不佳。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 29, 2022
+msg:酒店位於政務區，地理位置優越，毗鄰天鵝湖、銀泰城、萬達廣場，距離3號線地鐵口也很近，進入大堂有獨特的香氛味，很好聞。酒店整體服務在線，工作人員熱情友好，房間設施配備齊全，早餐品種豐富。中餐廳的服務和菜品也屬於高品質，一樓茶舍裝飾特別漂亮，一樓茶舍小姐姐特別漂亮，四樓服務衞生特別好，下次來合肥還會選擇！
+----------------------------------------
+name:F‍e‍i‍d‍i‍a‍n‍d‍e‍b‍i‍n‍g‍6‍6‍6
+info:Traditional Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:32 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:酒店位置很好，各種設施齊全，服務態度熱情，早餐品種豐富，房間比較寬敞，交通方便，性價比很高，期待下次入住！
+----------------------------------------
+name:H‍u‍a‍t‍i‍e‍l‍u‍q‍u‍l‍u‍x‍u‍n
+info:Traditional Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:12 Reviews
+rating:4
+posted:Posted September 28, 2023
+msg:房間不錯！乾淨！服務態度好！但是早餐感覺一般！因為出差！離工作地方近幾！交通也是算放便！下次有機會可再入住！不錯酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted February 18, 2023
+msg:酒店很不錯 來合肥出差大家基本都會選擇這裏 服務很好 到得早也很早就為我準備好房間 到了就直接辦手續入住 窗外景色也很好 住完之後還有電話回訪👍雖然沒有送歡迎水果 但是整體體驗都特別好 下次還是會選擇這裏
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in January 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 2, 2024
+msg:每年開車回家中途必住酒店，住了十幾年的酒店一直很優秀
+----------------------------------------
+name:h‍r‍z‍3
+info:Traditional Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 21, 2022
+msg:酒店服務非常到位，尤其是福朋還有酒廊是高配了！然後特別要表揚預訂部的Jun小姐姐，給了很到位的幫助，點名表揚！房間高區景觀也不錯，再來合肥還來這家
+----------------------------------------
+name:A‍n‍n‍a‍_‍n‍i
+info:Traditional Twin Room
+info:Stayed in April 2023
+info:Business travelers
+info:36 Reviews
+rating:3
+posted:Posted April 8, 2023
+msg:改善空調開放時間和設施...房間沒有空調 不能接受...冷的嗖嗖的...衹能送來暖風機 ...樓下二樓餐廳用餐是有暖空調的 房間住店就沒有 着實神奇不能理解
+----------------------------------------
+name:H‍e‍q‍i‍s‍h‍e‍n‍g‍c‍a‍i‍0‍0‍1
+info:Deluxe 2-bed Room
+info:Stayed in June 2023
+info:Business travelers
+info:15 Reviews
+rating:4.7
+posted:Posted June 8, 2023
+msg:房間毛巾可以換新的了，其他的中規中矩
+位置在政務區，適合商務出差。離高鐵站比較近，附近有地鐵站。周邊居民區，無購物消費中心。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 10, 2023
+msg:設施齊全、衞生整潔、環境好，服務好。因為好，所以到合肥出差，已經多次入住該酒店。確實軟硬件設施很重要。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Deluxe Room
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 26, 2023
+msg:服務人員的態度很友善，免費升級了套房，房間和景觀都很好，下次還會再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 23, 2022
+msg:酒店服務從前台到客房衞生服務都非常好，除了隔音效果不夠理想，早餐品類少了點，其他都比較滿意，住店客人訂購酒店自助晚餐衹要118元，優惠力度也比團購大。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted April 30, 2023
+msg:一直是性價比很高的五星級的酒店，在合肥。細節比較到位，入住前，水果，拖鞋，開水都給你準備好了。比較貼心。
+早餐也很豐富。
+衞生也不用説。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 12, 2024
+msg:硬件軟件都很不錯，如果早餐品種多一點就更好了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted January 15, 2024
+msg:交通方便，挨着市政府，房間比較新，自助餐種類豐富
+----------------------------------------
+name:J‍e‍s‍s‍i‍c‍a‍d‍a‍i‍w‍a‍n‍g‍w‍a‍n‍g
+info:Deluxe Queen Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 24, 2023
+msg:服務熱情特別貼心，對待小朋友很親切，友好，大堂服務熱人員特別真誠，環境高雅，舒適整潔
+----------------------------------------
+name:F‍e‍i‍z‍a‍i‍t‍i‍a‍n‍y‍a‍h‍a‍i‍j‍i‍a‍o
+info:Traditional Twin Room
+info:Stayed in March 2024
+info:Business travelers
+info:50 Reviews
+rating:5
+posted:Posted March 13, 2024
+msg:不錯的酒店，離天鵝湖很近，跑步很方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 27, 2024
+msg:沒施方便時尚，幹潔舒適，服務到位
+----------------------------------------
+name:S‍h‍a‍y‍t‍2‍0‍1‍2
+info:Traditional Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted May 17, 2024
+msg:房間很大，交通便利，服務周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted November 26, 2023
+msg:睡的很舒服，總體來説是一個很靠譜的酒店，晚上也不吵，推薦
+----------------------------------------
+name:C‍u‍i‍x‍i‍a‍o‍x‍i‍a‍o‍x‍i‍a‍o‍l‍o‍n‍g
+info:Traditional Double Room
+info:Stayed in November 2022
+info:Couples
+info:20 Reviews
+rating:5
+posted:Posted November 20, 2022
+msg:送了歡迎水果，很滿意，
+----------------------------------------
+name:G‍e‍n‍t‍l‍e‍M‍o‍n‍s‍t‍e‍r
+info:Traditional Twin Room
+info:Stayed in June 2023
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:家裡親戚來走親訪友代訂的，整體環境優美，交通便利，停車也方便，性價比也高，適合出差、旅遊、探親居住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted August 28, 2022
+msg:前台崔小姐姐超級好，給我免費升級房間，還給我免費早餐。客房還贈送了迎賓果盤。酒店房間超級棒，設施很新。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in August 2022
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted August 29, 2022
+msg:位置方便離天鵝湖，地鐵站，銀泰百貨銀泰MALL都方便。走路5分鐘可達。
+房間安靜，老酒店服務都還不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in April 2023
+info:Friends
+info:3 Reviews
+rating:4
+posted:Posted April 10, 2023
+msg:地理位置算方便，旁邊就是地鐵站。而且鄰近商場，吃飯很方便。可以停車，而且免費。衹是出來的時候，監控又要收錢，要找保安老伯來開閘。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted June 14, 2023
+msg:前台服務非常熱情，挺晚到的很用心給做了升級，房間很大住着舒服安靜，對出差的人來講是性價比非常好的選擇
+----------------------------------------
+name:F‍a‍n‍x‍i‍a‍n‍s‍h‍e‍n‍g‍1‍9‍8‍2
+info:Executive Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted March 24, 2024
+msg:天鵝湖邊上，交通購物餐飲都很方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in June 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted June 25, 2023
+msg:十分滿意，因為時間有限，就到健身房鍛鍊了一小會兒，環境整潔，服務周到。下次來體驗游泳池和spa
+----------------------------------------
+name:a‍l‍i‍e‍n‍_‍c‍w‍h
+info:Traditional Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:21 Reviews
+rating:2.5
+posted:Posted October 7, 2023
+msg:酒店服務不好，簽字的地方太多,沒有機器人送餐,早餐的麪也不好吃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2024
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:服務態度很好
+環境：高級
+設施：不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in November 2023
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted November 3, 2023
+msg:房間整潔乾淨，環境比較好，交通方便，性價比高，適合商旅
+----------------------------------------
+name:M‍u‍c‍u‍n‍d‍e‍c‍h‍a‍o‍c‍h‍a‍o
+info:Deluxe 2-bed Room
+info:Stayed in January 2024
+info:Business travelers
+info:3 Reviews
+rating:3.5
+posted:Posted January 7, 2024
+msg:早餐好吃
+房間衞生可以
+燈的開關有時不好用
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in February 2024
+info:Family
+info:5 Reviews
+rating:4.5
+posted:Posted February 7, 2024
+msg:位置便利，停車場保安非常熱情指揮停車
+----------------------------------------
+name:U‍T‍A‍ ‍k‍e‍q‍i‍j‍u
+info:Traditional Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted December 23, 2022
+msg:总覺得那裡有問題，但是說不出來。各項服務都很好。以下建議是我住過所有全世界五星酒店的建議：酒店接待不適合在最里面，又沒有人多可以暫時坐的地方。不夠大氣及不符合喜來登的形象
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in June 2024
+info:Business travelers
+info:243 Reviews
+rating:5
+posted:Posted June 3, 2024
+msg:房間寬敞明亮，乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in January 2023
+info:Business travelers
+info:8 Reviews
+rating:1.7
+posted:Posted January 14, 2023
+msg:全國各地出差，相同級別的酒店，這邊的服務和管理真心差，讓客人浪費時間。服務沒有熱情，做事不從客人考慮。停車，早餐，退房，床等，你們試試就知道了，懶得説
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted June 5, 2024
+msg:早餐很好，服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 1, 2024
+msg:房間很舒適，很貼心，衞生間乾淨整潔
+----------------------------------------
+name:H‍a‍r‍r‍y‍？‍&‍h‍u‍r‍r‍y‍?
+info:Traditional Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted March 27, 2023
+msg:點名表揚他家的床，超級軟超級舒服！床墊是斯林百蘭的，躺上去一秒入睡。前台服務態度不錯，給我進行了房型升級，早餐也還不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted April 29, 2024
+msg:很喜歡，我個人覺得很很。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 31, 2024
+msg:非常棒的酒店，下次還選這家
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 22, 2022
+msg:前台aimme服務挺好的，入住滿意推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:3 Reviews
+rating:3.2
+posted:Posted December 18, 2023
+msg:床很大很軟  很舒適！別的沒啥值得説的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in October 2023
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted October 15, 2023
+msg:環境還不錯，酒店服務良好，樓層視野不錯，衞生良好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in October 2022
+info:Other
+info:31 Reviews
+rating:1.2
+posted:Posted October 5, 2022
+msg:這次過來非常失望，已經放棄了前面三家酒店免費升級的套房➕加行政酒廊，過來時發現有很多以前認識的人都不在了，而且房間裏連歡迎水果現在都沒有了，對於一個每年常住酒店3-4個月的人來説，找不到下次再來連住的理由......
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in December 2023
+info:Solo travelers
+info:74 Reviews
+rating:5
+posted:Posted December 31, 2023
+msg:酒店在合肥算是性價比很高的了，很安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:93 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:第一次入住該酒店，位置很方便，房間乾淨。周邊商業配套成熟，出門吃飯購物很方便。交通也很方便，下次還會選擇，值得推薦。
+----------------------------------------
+name:Y‍i‍l‍i
+info:Traditional Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:2 Reviews
+rating:3
+posted:Posted January 16, 2024
+msg:酒店較偏，房間暖氣無法調節，自助早餐一般
+----------------------------------------
+name:Y‍e‍c‍h‍u‍n‍y‍u‍-‍R‍A‍I‍N
+info:Deluxe Queen Room
+info:Stayed in July 2023
+info:Business travelers
+info:11 Reviews
+rating:4
+posted:Posted August 4, 2023
+msg:酒店房間比較大，設施比較齊全，乾淨衞生，早餐不錯，值得五星級的配置
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in September 2022
+info:Friends
+info:5 Reviews
+rating:1.2
+posted:Posted September 24, 2022
+msg:應該是我在合肥住的最差勁的一個酒店了 下午兩點去住的前台説話趾高氣昂 一副高高在上的樣子 搞的她像是消費者一樣 問她也不搭理 無視我們的問題 住進去一看 我是覺得酒店設施挺老套的 跟別的地方的喜來登沒法比 晚上還有噪音給我們安排在8樓 樓下車子喇叭聲嗡嗡的 洗澡吧那個淋浴間還漏水 我是沒搞懂合肥的喜來登怎麼可以垃圾到這種地步 還有這種前台怎麼也能招進來（晚上的前台挺好的）總積一句話 同等價位不如旁邊的曙光薇 高一點建議去前面的君悦 洲際 本來想着換些酒店換點體驗 最後一天入住這種酒店 挺倒黴的 避下坑家人們 反正我不知道這個酒店的優點在哪兒
+----------------------------------------
+name:S‍h‍e‍n‍g‍w‍e‍i‍t‍a‍l‍e‍l‍i‍k‍a‍i‍f‍a‍n‍g
+info:Traditional Double Room
+info:Stayed in March 2022
+info:Couples
+info:76 Reviews
+rating:5
+posted:Posted March 28, 2022
+msg:超級好的酒店 屬於市中心 市政區域 酒店後面很多小吃 休閑娛樂場所 非常感謝前台的歐小姐 小姐姐很有耐心 毫無嫌棄客户問題多 添麻煩 我能感覺到她是一個工作很積極 很善良陽光的一個人 
+
+額外要感謝 禮賓部的 黃先生 為我們兩次拿行李 還為我郵寄了快遞 此外還送了我一碗紅豆湯 最後搞得我都很不好意思了 也添了不少麻煩 人家還是樂此不疲 走了之後還有聯繫 幫我尋找遺留物品和解答問題 我真的衷心感謝
+
+總之我覺得這個喜來登的領導層是不錯的 培訓出來的員工 風格我也很欣賞 為這個酒店點贊 
+
+備註： 疫情當前 我個人猜測這個酒店是比較難被封閉的 因為這個區就是市政府附近 市政府是不太可能被封的 除非全市封閉
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in January 2024
+info:Solo travelers
+info:9 Reviews
+rating:5
+posted:Posted March 17, 2024
+msg:房間
+衞生：很乾凈，早飯也很好吃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in July 2022
+info:Friends
+info:7 Reviews
+rating:3
+posted:Posted July 15, 2022
+msg:泳池管理太差了，家長穿着個人外面的鞋子，在泳池邊到處轉。
+----------------------------------------
+name:M‍i‍c‍h‍a‍e‍l‍ ‍Z‍h‍u‍ ‍.
+info:Traditional Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted January 26, 2024
+msg:很滿意  服務環境不錯  交通很方便
+----------------------------------------
+name:j‍e‍f‍f‍y‍a‍n‍g
+info:Traditional Double Room
+info:Stayed in March 2022
+info:Business travelers
+info:125 Reviews
+rating:1
+posted:Posted March 16, 2022
+msg:作為攜程的20多年的老會員同時也是萬豪的高端會員，住遍了國內外的五星酒店，第一次在五星級酒店遇到了這樣的囧事，入住當晚驅車抵達合肥綠地福朋喜來登酒店，保安不讓停入地下車庫（入住後下地庫看了下，空了起碼一半的車位），理由是地下車庫今晚沒有保安（這是你酒店的責任），讓我把車停到了正對酒店門口的花壇邊上，看到我是滬牌（最近上海疫情非常厲害）於是態度極其不友好的讓我出示行程碼和健康碼，當時發生了爭執，入住時向當天值班經理進行了投訴！第二天下午三點，出去辦事，突然發現車被撞得一塌糊塗，於是馬上和保安投訴，要求查監控，抓肇事車輛，酒店方面已普通人無權看監控為由不讓我查看，於是我報警處理，警察來了以後，我發現和保安隊長有説有笑的，説你自己下去保安室看監控就行了，他們沒時間，當即就離開了，呵呵！從前一天晚上23.26分入住，到第二天下午15點，有近13個小時的監控，常人都不可能看完，保安截了入住時車輛進入，早高峯8點，和12點三個時間段給我看，沒有任何車輛和我的車碰撞，我要求把進場時車輛放大看是否進停車場時是有傷痕還是沒有傷痕，放大後模糊的一塌糊塗，根本看不清楚，保安堅稱就是入場前有傷，呵呵！我一個上海人來安徽出差，住你們喜來登酒店，我會跑幾百公里來訛你們麼？呵呵！笑話！於是當地警方和酒店相互推脱，此事沒有了下文！我會通過法律途徑來起訴你們的，維護消費者的權益的，你們等着！在此，特別感謝攜程對我的鼎力全程的支持和幫助，讓我感受到了家鄉企業的温暖！再次感謝攜程！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in November 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 19, 2022
+msg:設施不錯，雖然不是今年新開的，但維護保養很好，衞生也很給力。就是娛樂方面，能有個通用的音樂播放器就好了，現在衹有一個蘋果的，不是所有人都有蘋果手機的。。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 28, 2024
+msg:一分價錢一分服務。可以的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted November 5, 2023
+msg:總體硬件不錯，前台服務人員的培訓有待提高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 12, 2024
+msg:各方面都挺好，性價比可以
+----------------------------------------
+name:S‍h‍i‍q‍u‍d‍e‍q‍i‍u‍t‍i‍a‍n
+info:Traditional Twin Room
+info:Stayed in November 2022
+info:Solo travelers
+info:8 Reviews
+rating:5
+posted:Posted November 6, 2022
+msg:房間，服務，以及內部設施都非常的好，隔音也是很好，居住時非常的安靜，不受幹擾，但是美中不足的是，目前這個季節居住時，室內的温度最低就是27度，實在有點熱
+----------------------------------------
+name:S‍o‍u‍n‍d‍y‍f‍e‍n‍g‍q‍i‍n‍g‍y‍a‍n‍g
+info:Traditional Twin Room
+info:Stayed in January 2024
+info:Business travelers
+info:81 Reviews
+rating:5
+posted:Posted January 26, 2024
+msg:離合肥南站很近，十五分鐘可到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in February 2024
+info:Family
+info:65 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:非常滿意，連鎖品牌的優勢。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in December 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted December 4, 2023
+msg:房間衞生挺好的，就是外賣送不到樓上
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in November 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 2, 2023
+msg:很滿意，早餐肉類魚類多一些就更好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in August 2022
+info:Friends
+info:3 Reviews
+rating:3
+posted:Posted August 22, 2022
+msg:説實話體驗感很一般，作為一個合肥挺老牌的酒店。首先入住前和我確認入住時間和訊息不同的人確認兩次，顯然沒有溝通好。其次因為陪朋友來所以訂的含早，早餐真是90年代酒店啥樣，這裏啥樣，種類少，質量非常一般。並且服務人員對菜品分類不清楚，並且告訴我：這不是我放的，你憑運氣吧。我真是滿腦子問號❓最讓我覺得不能理解的是，都2022年了，房間裏的mini bar小冰箱裏飲料要收費？？國內國外走過那麼多地方住過那麼多酒店，我真是第一次遇到4，5星的行政間mini bar小冰箱飲料收費。再説，我定的行政間，我個人覺得就是個大床房，窗户朝向不好，view也不好，房間設施和大床房也沒有什麼區別。房間地上總感覺有一層油一樣的東西，有點滑，不知道是不是消毒水。我衹能説我不理解。然後房間裏連個抽紙都沒有？？總之就是感覺是個套了個高檔外殼的經濟型酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:88 Reviews
+rating:5
+posted:Posted May 24, 2024
+msg:交通方便，房間很大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:13 Reviews
+rating:4
+posted:Posted May 15, 2024
+msg:還是不錯的，我覺得可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in January 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted January 27, 2023
+msg:離高速近，總體感覺不錯，附近也比較繁華。就是停車位有點緊張，當天到後下大雨，找等車位很久，且車輛進出有點擁擠。
+----------------------------------------
+name:D‍i‍c‍a‍n‍g‍x‍i‍n‍g‍z‍h‍e
+info:Executive Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted January 2, 2024
+msg:服務挺好的，就是房間有點陳舊了
+----------------------------------------
+name:d‍o‍n‍a‍l‍d‍-‍w
+info:Traditional Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:28 Reviews
+rating:5
+posted:Posted July 8, 2023
+msg:位於合肥政務區，環境優美，交通便利，購物方便，性價比高。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in April 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted April 20, 2022
+msg:開了有些年頭了，設施稍微有點陳舊，但是衞生狀況還是很好，前台服務很熱情，下次來合肥還會選擇這家。
+----------------------------------------
+name:W‍a‍e‍r‍z‍a‍z‍a‍t‍e‍z‍h‍u‍j‍i‍s‍h‍i
+info:Traditional Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted April 30, 2024
+msg:服務很好，早餐豐盛
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in June 2023
+info:Business travelers
+info:3 Reviews
+rating:4.7
+posted:Posted June 7, 2023
+msg:酒店健身房和泳池設施非常好，差旅期間保持身材必須。被子柔軟。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in January 2022
+info:Business travelers
+info:5 Reviews
+rating:1
+posted:Posted January 21, 2022
+msg:退房的時候正準備開車走 前面一個車忽然往後倒 我老公踩了一下剎車 門衞説壓到地毯了 。打電話經理下來説讓賠300塊。本來就是兩大塊拼接的 掀開之後下面很多膠帶粘着 一看就是之前損壞過的拿膠帶粘的 我説你們找人我給維修費 他們還説目前找不到人 我説那你報警 經理又不願意報警 非要賠300塊 等着回家沒辦法  認栽
+----------------------------------------
+name:T‍a‍o‍t‍a‍o‍h‍e‍a‍l‍a
+info:Executive Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted May 22, 2024
+msg:性價比很高的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in April 2023
+info:Family
+info:7 Reviews
+rating:4.5
+posted:Posted May 2, 2023
+msg:酒店位置不錯，地鐵站很近，交通方便，停車也很方便，總的來説性價比較高
+----------------------------------------
+name:Z‍h‍u‍y‍e
+info:Traditional Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 31, 2023
+msg:整潔乾淨，服務周全，菜品可口。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:房間非常舒適,離百貨近
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:42 Reviews
+rating:5
+posted:Posted May 13, 2024
+msg:房間乾淨 服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 30, 2023
+msg:居住環境感覺很舒服，工作人員服務態度很好，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in January 2024
+info:Business travelers
+info:41 Reviews
+rating:5
+posted:Posted January 18, 2024
+msg:房間乾淨整潔，服務很好！
+----------------------------------------
+name:S‍h‍a‍n‍n‍o‍n‍。
+info:Traditional Twin Room
+info:Stayed in October 2023
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted October 30, 2023
+msg:房間很大很乾凈，客房服務也很敬業
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted January 10, 2024
+msg:酒店服務超好，熱情周到！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 31, 2024
+msg:環境很好，早餐特棒。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in February 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 6, 2023
+msg:幫升級了房間，挺好的 價格也不貴 房間很乾凈 床品也舒服 標間床也蠻大的 主要價格合適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted March 9, 2024
+msg:很棒，🌹🌹🌹🌹🌹🌹🌹
+----------------------------------------
+name:T‍h‍e‍o‍p‍h‍i‍l‍u‍s
+info:Executive Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 6, 2024
+msg:交通好，房間乾淨
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:38 Reviews
+rating:5
+posted:Posted September 20, 2023
+msg:環境不錯，每次出差到這次，這個酒店必選。
+----------------------------------------
+name:D‍o‍n‍g‍r‍i‍y‍a‍x‍u‍e
+info:Traditional Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 27, 2024
+msg:舒適衞生 方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted February 24, 2023
+msg:調研工作本來就很辛苦，卻被酒店的服務得到了一個小驚喜，很好的酒店，床品很舒服。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in August 2023
+info:Family
+info:20 Reviews
+rating:4.5
+posted:Posted August 6, 2023
+msg:哎呀，體驗一般般吧，反正也不是想象的那麼好
+----------------------------------------
+name:Y‍u‍z‍h‍e‍z‍h‍e‍z‍h‍e
+info:Traditional Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted February 11, 2024
+msg:設施：比較新
+衞生：比較乾淨
+----------------------------------------
+name:�‍�‍、‍C‍e‍l‍e‍s‍t‍e
+info:Traditional Twin Room
+info:Stayed in December 2023
+info:Booked for others
+info:12 Reviews
+rating:5
+posted:Posted December 6, 2023
+msg:環境
+服務
+衞生
+都還可以
+----------------------------------------
+name:Z‍h‍a‍n‍g‍z‍h‍a‍n‍g‍z‍h‍a‍n‍g‍z‍h‍a‍n‍g‍z‍h‍a‍n‍g‍z‍h‍a‍n‍g‍、‍z‍h‍a‍n‍g
+info:Traditional Twin Room
+info:Stayed in December 2023
+info:Friends
+info:17 Reviews
+rating:5
+posted:Posted January 5, 2024
+msg:喜來登就是喜來登 沒得説
+----------------------------------------
+name:A‍i‍w‍a‍n‍d‍e‍l‍v‍x‍i‍n‍g‍x‍i‍a‍o‍c‍h‍o‍u
+info:Traditional Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:235 Reviews
+rating:5
+posted:Posted September 13, 2022
+msg:距離辦事地點很近，房間乾淨衞生，設施齊全，安靜温馨。早餐比較豐富，人不多但風景獨好。連鎖型酒店，大堂富麗堂皇，應該還是值得入住的。。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in February 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted February 25, 2024
+msg:親切有礼，非常满意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Deluxe Room
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 6, 2023
+msg:位置很好，周邊有銀泰，有萬象城。入住總體滿意
+----------------------------------------
+name:Y‍i‍n‍g‍d‍a‍s‍h‍i
+info:Traditional Twin Room
+info:Stayed in September 2022
+info:Business travelers
+info:18 Reviews
+rating:3
+posted:Posted October 1, 2022
+msg:床很軟，雷同10年前的酒店，年久失修；
+衞生間沒有排風扇，使用時很悶熱。
+早餐的點心很一般，服務也沒有萬豪酒店的應有的水平。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 5, 2023
+msg:房間很乾凈，早餐很豐富，隔音好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 17, 2024
+msg:酒店還是很不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in October 2023
+info:Couples
+info:4 Reviews
+rating:4.2
+posted:Posted October 26, 2023
+msg:整體沒有問題，就是房間潮味過重
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 25, 2024
+msg:酒店環境很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in September 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted September 11, 2023
+msg:床很舒服 隔音效果很好 推薦入住
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:56 Reviews
+rating:4.2
+posted:Posted July 23, 2022
+msg:酒店硬件不錯，功能配置齊全，裝修風格簡約時尚；早餐品種豐富、口味佳，並一直保持較高的品質；工作人員態度很好，熱情、專業。總體而言，是一家性價比挺高的酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in October 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted October 13, 2022
+msg:總體還是符合我對喜來登的期望，各種設施保持的還是不錯。遺落了一件衣物，也幫我快遞回去了。下次來合肥還會選擇福朋。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in March 2024
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted March 13, 2024
+msg:交通方便環境不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:6 Reviews
+rating:4.5
+posted:Posted November 10, 2021
+msg:風格簡潔，服務周到，地理位置便捷，風景佳，視野開闊。會員歡迎水果水分足、也很甜。衞生間看上去還挺乾淨的。健身房設施夠用，維護佳。早餐種類多，品質優。
+
+行政酒廊未開放；
+房間裏空調聲音比較大；
+被褥有股潮濕的味道，味道還挺大的，可能是乾淨被套存放不當的問題。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted February 7, 2024
+msg:房間乾淨，服務周到
+----------------------------------------
+name:S‍I‍D‍E‍W‍A‍Y‍S
+info:Deluxe Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted May 23, 2024
+msg:整體感受不錯
+----------------------------------------
+name:S‍h‍i‍l‍u‍o‍l‍u‍o‍l‍u‍o‍l‍u‍o‍a
+info:Traditional Double Room
+info:Stayed in January 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 25, 2022
+msg:環境很不錯 每次來合肥都住這裏 性價比高 離萬象城 銀泰城 萬達都跟近 上高速也方便 還送了燉梨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 27, 2023
+msg:酒店服務很好，適合商務出行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted September 5, 2022
+msg:有喜來登的品質，容易安睡，衞生達標，早餐也還過得去，離地鐵口很近，非常方便！地下室立體車庫，考驗車技！
+總體來説試一次滿意的行程！
+----------------------------------------
+name:K‍e‍f‍e‍i
+info:Traditional Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:51 Reviews
+rating:5
+posted:Posted July 15, 2023
+msg:還不錯，下次繼續可以入住，服務員態度好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in February 2024
+info:Solo travelers
+info:27 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:非常棒，服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2024
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted April 22, 2024
+msg:一如既往的好酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in February 2024
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:很安靜，服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in November 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted November 27, 2023
+msg:早餐很好，能看到天鵝湖
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:91 Reviews
+rating:4.7
+posted:Posted August 24, 2022
+msg:幫朋友定的，説是還可以。合肥那幾天大概酒店入住率高，房價還漲了～房間還行，就是大堂能坐的區域基本沒有，就前台那邊2個單人沙發。。
+----------------------------------------
+name:L‍a‍n‍b‍o‍l‍a‍o‍s‍h‍i
+info:Deluxe Queen Room
+info:Stayed in September 2023
+info:Business travelers
+info:3 Reviews
+rating:4.7
+posted:Posted September 24, 2023
+msg:餐廳如果可以選擇更多會更好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 19, 2024
+msg:挺好的哈哈ha
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in April 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:服務非常的好
+----------------------------------------
+name:m‍i‍l‍k‍n‍n
+info:Deluxe Queen Room
+info:Stayed in April 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted April 27, 2024
+msg:房間非常乾淨
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted February 7, 2024
+msg:乾淨，衞生，舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted August 18, 2022
+msg:酒店特別好 位置優 服務也非常好 早餐很好吃 床特別舒服 我是很認床的 喜來登是我睡的最好的一次 下次去合肥還會選擇喜來登
+----------------------------------------
+name:s‍o‍p‍h‍i‍a
+info:Deluxe Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 13, 2023
+msg:早餐豐富，設施舒適，喜來登就是不一樣。晚上泡個熱水澡舒服極了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Deluxe Room
+info:Stayed in October 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted October 20, 2023
+msg:房間乾淨，衞生，環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:37 Reviews
+rating:3.7
+posted:Posted September 17, 2022
+msg:酒店還是有些陳舊，其他早餐和服務還是可以的，另外對面就是個購物中心很方便。總體而言性價比可以，值得考慮入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in November 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 5, 2023
+msg:服務態度好，非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 4, 2024
+msg:服務態度非常好
+----------------------------------------
+name:h‍a‍h‍a‍r‍o‍b‍i‍n
+info:Traditional Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:139 Reviews
+rating:5
+posted:Posted July 8, 2023
+msg:設施：比較清爽；
+衞生：衞生條件很好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted January 21, 2024
+msg:方方面面都挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted January 25, 2024
+msg:星級酒店，服務很好。
+----------------------------------------
+name:S‍u‍p‍e‍r‍ ‍M‍i‍c‍h‍a‍e‍l
+info:Traditional Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:22 Reviews
+rating:4.2
+posted:Posted August 3, 2023
+msg:總體滿意，酒店念頭太久，有點舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:27 Reviews
+rating:4.7
+posted:Posted August 6, 2022
+msg:合肥喜來登很意外，整體還是高端大氣上檔次。位置佔據路口金角，在當地也算是地標了。第二天趕高鐵，特意安排早餐打包，貼心！
+----------------------------------------
+name:L‍i‍n‍m‍u‍x‍i‍a‍o
+info:Traditional Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted January 12, 2024
+msg:環境還不錯，適合差旅
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:86 Reviews
+rating:5
+posted:Posted November 13, 2023
+msg:房間乾淨整潔，環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in September 2022
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted September 26, 2022
+msg:工作人員職業素養和服務態度都很不錯，酒店位置較好，停車也很方便，床品和布草也很舒服，性價比較高。
+----------------------------------------
+name:G‍a‍n‍g‍q‍i‍n‍h‍o‍u‍d‍e‍r‍e‍n
+info:Executive Queen Room
+info:Stayed in September 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted September 10, 2021
+msg:合肥的酒店裡麪，檔次、服務、配置都非常合適。晚上11點入住，升級了房間，發票也提前開好給我節省了時間。房間、走道、大廳裝修都很不錯，晚上睡眠也很安靜，沒有什麼噪音幹擾。早餐在一樓，品種很齊全，足以滿足各種口味。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 20, 2024
+msg:很好很好很好
+----------------------------------------
+name:x‍u‍n‍y‍u‍n‍_‍l‍y‍n‍n
+info:Deluxe Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted November 7, 2023
+msg:服務好，房間住的舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in December 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 6, 2024
+msg:性價比不錯，很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in September 2022
+info:Other
+info:8 Reviews
+rating:5
+posted:Posted November 23, 2022
+msg:近天鵝湖，周邊商業圈，服務周到，房間温馨舒適，對個人來説，床墊偏軟，早餐豐富，入住幾次，都有電話回訪
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in March 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted March 17, 2024
+msg:各方面都ok
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted February 3, 2024
+msg:非常不錯的酒店
+----------------------------------------
+name:l‍i‍n‍n‍a‍n‍5‍3‍0
+info:Traditional Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:45 Reviews
+rating:4
+posted:Posted March 12, 2022
+msg:地理位置很好，步行到達銀泰，周圍都是吃的，很方便。房間很舒服，打開窗簾，陽光剛好灑在床上，這種感覺好極了。唯一有一點就是大部分酒店的通病，週末的泳池對住客來説就是災難，想週末來住又想游泳的，勸退，美人魚有幾條，小孩有一堆，學游泳的學員兩三，正兒八經游泳的被擠到角落艱辛地在掙扎，唉！一言難盡
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted March 21, 2024
+msg:滿意，下次再去
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted July 29, 2023
+msg:感謝幫我升級。
+性價比高了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Deluxe Room
+info:Stayed in November 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 22, 2023
+msg:非常不錯，適合出差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted April 3, 2024
+msg:滿意非常喜歡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in December 2023
+info:Friends
+info:26 Reviews
+rating:5
+posted:Posted December 19, 2023
+msg:可以 幫朋友訂的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:酒店環境佳，服务态度很好👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in January 2023
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted January 21, 2023
+msg:喜來登託管 硬件沒問題 早餐一般性 不過對得起這個價格了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted February 29, 2024
+msg:都還可以吧吧
+----------------------------------------
+name:w‍o‍r‍l‍d‍o‍m
+info:Traditional Twin Room
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:4
+posted:Posted October 17, 2023
+msg:有點舊，整體還行吧。
+----------------------------------------
+name:i‍p‍a‍n‍g‍w‍a
+info:Traditional Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 17, 2023
+msg:整體不錯，大氣，房間乾淨，設施也比較新。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted October 23, 2023
+msg:第二次入住 比較喜歡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 14, 2023
+msg:體驗不錯，下次還會住
+----------------------------------------
+name:w‍g‍h‍e‍s‍t
+info:Traditional Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted October 17, 2021
+msg:整體來説，還是可以的。沒有什麼特別明顯的地方。位置也還好，距離銀泰很近，吃飯也方便。靠近二環路，交通也還是可以的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in April 2024
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted April 7, 2024
+msg:體驗感很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in May 2023
+info:Family
+info:24 Reviews
+rating:3
+posted:Posted May 6, 2023
+msg:換了4次房間，房間老舊，配套設施不全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in December 2023
+info:Business travelers
+info:29 Reviews
+rating:4
+posted:Posted December 4, 2023
+msg:還不錯，性價比高
+----------------------------------------
+name:Z‍h‍u‍k‍a‍i‍x‍u‍a‍n
+info:Traditional Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:113 Reviews
+rating:5
+posted:Posted November 13, 2023
+msg:挺好的，性價比很高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in May 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 1, 2023
+msg:酒店位置較好，交通方便，設施完善
+----------------------------------------
+name:Y‍a‍n‍g‍m‍i‍n‍g‍h‍e
+info:Deluxe 2-bed Room
+info:Stayed in April 2023
+info:Business travelers
+info:29 Reviews
+rating:5
+posted:Posted April 26, 2023
+msg:十分滿意，服務非常周到，下回還會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted April 26, 2023
+msg:前台服務很好，還能免費停車不限制次數
+----------------------------------------
+name:y‍a‍n‍g‍1‍8‍5‍8
+info:Deluxe 2-bed Room
+info:Stayed in October 2022
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted October 7, 2022
+msg:必須打個滿分💯服務真的超級好，又熱情又細心，還特意幫忙安排了嬰兒小床，很貼心
+----------------------------------------
+name:9‍4‍3‍4‍1‍3
+info:Traditional Double Room
+info:Stayed in December 2023
+info:Booked for others
+info:6 Reviews
+rating:5
+posted:Posted March 7, 2024
+msg:挺好。早餐不好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in January 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted January 28, 2024
+msg:房間比較乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Deluxe Room
+info:Stayed in November 2022
+info:Business travelers
+info:22 Reviews
+rating:4.5
+posted:Posted January 21, 2023
+msg:手機在酒店裡丟失了，找工作人員幫忙根本不積極。還好後來找到了。
+----------------------------------------
+name:H‍e‍l‍e‍n‍m‍e‍i
+info:Deluxe 2-bed Room
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 2, 2023
+msg:體驗不錯，還給延長退房時間
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in October 2023
+info:Solo travelers
+info:17 Reviews
+rating:5
+posted:Posted October 8, 2023
+msg:衞生乾淨，設施齊全
+----------------------------------------
+name:L‍i‍f‍u‍h‍e‍i‍m‍i‍a‍n‍x‍i‍a
+info:Traditional Double Room
+info:Stayed in August 2023
+info:Family
+info:55 Reviews
+rating:5
+posted:Posted August 19, 2023
+msg:位置很方便 設施也很全
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:8 Reviews
+rating:3
+posted:Posted December 17, 2022
+msg:12.17中午前台非常不滿意，交房時不提醒掃碼付車費。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:28 Reviews
+rating:4
+posted:Posted April 23, 2024
+msg:服務不錯哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Deluxe Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 1, 2023
+msg:不錯環境還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted July 8, 2023
+msg:再一次入住福朋 值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Deluxe Room
+info:Stayed in September 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted September 28, 2022
+msg:酒店環境 服務都很不錯，尤其是前台的小姐姐熱情，服務到位，還給升了房間
+----------------------------------------
+name:X‍i‍a‍o‍J‍e‍n‍n‍y‍ ‍s‍o‍ ‍B‍B
+info:Traditional Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:99 Reviews
+rating:5
+posted:Posted September 6, 2022
+msg:非常好的👌體驗，酒店位置一樓設備完善，職員非常有禮貌，房間設備整潔衛生舒適，服務完善，地理環境四通八達。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:14 Reviews
+rating:3
+posted:Posted May 8, 2024
+msg:黴味比較大
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in August 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted August 20, 2023
+msg:地理位置好，出行方便
+----------------------------------------
+name:H‍u‍a‍n‍a‍n‍h‍u‍t‍i‍g‍e‍r
+info:Deluxe Queen Room
+info:Stayed in August 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted August 21, 2023
+msg:還可以，希望繼續保持
+----------------------------------------
+name:L‍i‍u‍r‍o‍n‍g‍�‍�‍x‍i‍a‍o‍b‍a‍o‍b‍e‍i
+info:Traditional Twin Room
+info:Stayed in February 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted February 17, 2023
+msg:入住兩天，體驗感哈哈不錯，以後還會考慮的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 14, 2024
+msg:總體不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:33 Reviews
+rating:3
+posted:Posted November 5, 2023
+msg:一般一般，湊合住
+----------------------------------------
+name:O‍u‍n‍a‍n‍f‍a‍n‍g‍z‍h‍i‍f‍u‍s‍h‍i
+info:Traditional Double Room
+info:Stayed in June 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted June 4, 2023
+msg:房間環境可以，服務熱情周到
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:56 Reviews
+rating:5
+posted:Posted November 25, 2023
+msg:不錯不錯不錯不錯
+----------------------------------------
+name:s‍t‍a‍r‍l‍i‍g‍h‍t‍2‍0‍2‍2
+info:Traditional Twin Room
+info:Stayed in July 2023
+info:Family
+info:8 Reviews
+rating:4
+posted:Posted October 11, 2023
+msg:早餐不錯。房間一般吧。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted December 12, 2023
+msg:房間安排的不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in February 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted March 20, 2023
+msg:衞生：好
+服務：周到
+衞生：好
+環境：好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in February 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 17, 2024
+msg:整齊衞生。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 7, 2023
+msg:非常不錯的體驗
+----------------------------------------
+name:K‍e‍a‍i‍d‍e‍w‍o‍ ‍ ‍m‍i‍r‍e‍n‍d‍e‍w‍o
+info:Traditional Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:46 Reviews
+rating:5
+posted:Posted June 21, 2023
+msg:酒店不錯，價格一天天瞎變
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted October 3, 2021
+msg:衝著地理位置去的，環境設施符合預期，服務也沒問題。
+----------------------------------------
+name:C‍h‍a‍r‍l‍e‍s‍O
+info:Traditional Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:35 Reviews
+rating:4
+posted:Posted February 27, 2024
+msg:喜來登還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted September 5, 2022
+msg:酒店環境不錯，服務很貼心，特意為我愛人挑選了一個面對小區的房間，很安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:88 Reviews
+rating:5
+posted:Posted February 22, 2023
+msg:酒店位置很好，前台服務人員態度非常好。
+----------------------------------------
+name:J‍i‍l‍i‍p‍a‍i‍l‍a‍l‍o‍n‍g‍d‍i‍d‍o‍n‍g
+info:Traditional Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 17, 2022
+msg:臨時有影印文件需求，服務周到，熱情，❤️Jessica 給你點贊👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 2, 2022
+msg:昨晚有點音樂聲音持續了一段時間，早餐菜品類少了點，其餘都OK！
+----------------------------------------
+name:X‍i‍a‍o‍y‍i
+info:Traditional Double Room
+info:Stayed in July 2023
+info:Couples
+info:9 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:跟男朋友的旅行。合肥！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in July 2023
+info:Family
+info:15 Reviews
+rating:2.7
+posted:Posted July 2, 2023
+msg:設施陳舊，床邊鋼絲槓人
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in July 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted October 19, 2023
+msg:服務熱情！房間很大！
+----------------------------------------
+name:Y‍u‍q‍i‍n
+info:Traditional Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:25 Reviews
+rating:4.7
+posted:Posted December 19, 2022
+msg:衞生和設施，價格都可以，就是床太軟了，睡的腰疼
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in November 2021
+info:Business travelers
+info:18 Reviews
+rating:3.7
+posted:Posted November 18, 2021
+msg:出差臨時訂的這家酒店，交通比較方便。辦理入住已經是晚上七點多了，好像是有會議，辦理入住的人還是挺多的不過還是很順利的。房間面積不小，設施中規中矩，酒店的時間比較長了，很多設施都出了問題，USB接口沒電，電吹風熱風按鈕失靈，淋浴間沒有擱板很不方便，護髮素太稠了，半天也按壓不出來，衞生間的筒燈也有壞的。居然在房間和衞生間放置了兩個煙灰缸，不明所以。隔聲還不錯，晚上比較安靜。床品也還不錯很舒服。健身房力量訓練的器械比較簡單。酒廊關門時間比較早，也不開早餐，所以沒有去。一樓的早餐還算豐盛，開了兩個明檔。整個酒店的服務還是令人滿意的。酒店可以舊，但設施和設備一定要保證可用。
+----------------------------------------
+name:Ｄ‍x‍i‍o‍n‍g
+info:Traditional Twin Room
+info:Stayed in November 2021
+info:Business travelers
+info:45 Reviews
+rating:5
+posted:Posted November 28, 2021
+msg:前台服務效率很高，安全性足夠，房間衞生整潔，浴室衞生乾淨無異味，客房設施設備齊全，床品舒適，傢俱設計風格非常精緻，大堂環境非常不錯，餐廳菜品齊全，味道也很好，酒店整體環境非常棒，酒店整體裝飾和風格是我喜歡的類型，出差必選
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted November 28, 2022
+msg:自助餐豐富，衞生好，位置好，服務好，出差商務首選
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in February 2022
+info:Friends
+info:2 Reviews
+rating:3
+posted:Posted February 14, 2022
+msg:房間有包餅乾還有迷你的方便麪跟送的水放在一起
+以為是免費的，退房的時候跟我説收費18
+收費提示都沒有
+這個價格的酒店需要這麼賺錢嗎？格局小了
+----------------------------------------
+name:L‍e‍j‍i‍a
+info:Traditional Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted December 22, 2023
+msg:離公司特別近
+----------------------------------------
+name:m‍5‍2‍6‍0‍7‍9‍8
+info:Traditional Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted December 4, 2023
+msg:總體感覺不錯
+----------------------------------------
+name:D‍a‍n‍e‍c‍y‍1
+info:Traditional Twin Room
+info:Stayed in November 2022
+info:Business travelers
+info:3 Reviews
+rating:4.7
+posted:Posted November 22, 2022
+msg:環境服務都很不錯，有些設施需要更新，比如智能馬桶
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:55 Reviews
+rating:5
+posted:Posted December 1, 2022
+msg:房間乾淨衞生，周邊吃飯地方多。再去合肥會續住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in January 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted March 21, 2024
+msg:服務態度好
+----------------------------------------
+name:G‍u‍a‍n‍n‍i‍n‍g‍t‍i‍e‍q‍i
+info:Selected Deluxe Room
+info:Stayed in November 2023
+info:Business travelers
+info:55 Reviews
+rating:4
+posted:Posted February 5, 2024
+msg:酒店周邊方便
+----------------------------------------
+name:T‍a‍i‍y‍a‍n‍g‍h‍u‍a‍g‍e‍n‍i‍h‍e‍m‍u‍m‍i‍n‍g
+info:Traditional Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:3 Reviews
+rating:4
+posted:Posted November 14, 2022
+msg:床太軟，被子太厚熱，空調聲音很響。周邊環境不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:63 Reviews
+rating:5
+posted:Posted August 25, 2023
+msg:還不錯，下次也考慮這家
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 12, 2023
+msg:服務態度很好
+----------------------------------------
+name:9‍9‍9‍6‍6‍6
+info:Deluxe Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 29, 2023
+msg:衞生：乾淨
+服務：周到
+環境：安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:5 Reviews
+rating:1
+posted:Posted August 19, 2023
+msg:服務很差，條件更差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in June 2023
+info:Couples
+info:23 Reviews
+rating:5
+posted:Posted June 27, 2023
+msg:房間乾淨，整潔，衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in June 2023
+info:Family
+info:2 Reviews
+rating:4.7
+posted:Posted June 26, 2023
+msg:基本滿意！
+還可以！
+----------------------------------------
+name:x‍s‍-‍l‍i‍u
+info:Deluxe 2-bed Room
+info:Stayed in June 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted June 24, 2023
+msg:前台服務態度非常好！
+----------------------------------------
+name:S‍h‍i‍a‍y‍u‍y‍a
+info:Traditional Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted September 2, 2021
+msg:環境很好，適合出差，地理位置就在地鐵站邊上
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in May 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 5, 2023
+msg:設施：還不錯
+服務：可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 10, 2023
+msg:位置不錯，附近餐飲選擇比較多。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2022
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted September 9, 2022
+msg:早餐很豐盛 服務也很好 管家還幫我們疊衣服 實在是不好意思
+----------------------------------------
+name:W‍u‍s‍h‍u‍d‍e‍y‍u‍a‍n‍f‍a‍n‍g‍h‍e‍r‍e‍n
+info:Deluxe Queen Room
+info:Stayed in September 2023
+info:Friends
+info:44 Reviews
+rating:5
+posted:Posted December 12, 2023
+msg:不錯 舒適乾淨
+----------------------------------------
+name:W‍a‍i‍x‍i‍a‍n‍g‍d‍e‍q‍i‍a‍n‍g‍p‍o‍z‍h‍e‍n‍g‍h‍u‍a‍n‍z‍h‍e‍z‍i‍w‍o‍l‍a‍c‍h‍e
+info:Traditional Double Room
+info:Stayed in April 2023
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted April 7, 2023
+msg:離地鐵站近，周圍商業豐富。
+----------------------------------------
+name:j‍a‍c‍k‍e‍y‍_‍8‍1‍0‍7‍2‍4
+info:Executive 2-bed Room
+info:Stayed in January 2023
+info:Family
+info:35 Reviews
+rating:3.5
+posted:Posted February 9, 2023
+msg:過年，休息下！這個酒店，真的一般！
+----------------------------------------
+name:Y‍a‍n‍g‍s‍h‍u‍c‍a‍i
+info:Deluxe Queen Room
+info:Stayed in September 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted November 4, 2023
+msg:體驗感非常好！
+----------------------------------------
+name:S‍h‍a‍n‍d‍a‍s‍h‍u‍6‍6‍6‍6
+info:Traditional Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted June 20, 2023
+msg:很有品味的一家酒店🏨
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:4
+posted:Posted September 6, 2022
+msg:還挺不錯的。前台小崔長得非常漂亮。服務態度也很好，非常棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted April 17, 2023
+msg:很舒適的酒店，位置便利。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted August 6, 2023
+msg:很不錯哦，停車也方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in March 2023
+info:Solo travelers
+info:74 Reviews
+rating:4
+posted:Posted March 7, 2023
+msg:酒店地理位置不錯，鬧中取靜。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted October 8, 2023
+msg:房間環境不錯
+----------------------------------------
+name:D‍a‍x‍i‍a‍n‍7‍8‍1‍2‍2‍0
+info:Traditional Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted January 3, 2023
+msg:房間喜來登標準！中規中矩！價格不貴
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in June 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted July 1, 2023
+msg:服務熱情，設施齊全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 20, 2022
+msg:環境很好，服務人員比較熱心。很高興昨晚做了升級服務
+----------------------------------------
+name:H‍o‍u‍m‍a‍n‍n‍i‍e‍y‍a‍n‍g‍d‍a‍y‍a‍n
+info:Deluxe Queen Room
+info:Stayed in August 2023
+info:Booked for others
+info:15 Reviews
+rating:4.7
+posted:Posted August 27, 2023
+msg:停車場小了點。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 6, 2023
+msg:出差可以去看看
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2023
+info:Friends
+info:52 Reviews
+rating:5
+posted:Posted September 26, 2023
+msg:不錯 挺乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 24, 2022
+msg:行政酒廊的幾位服務人員專業，貼心，非常Nice!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 11, 2023
+msg:。。。不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted April 18, 2023
+msg:房間很乾凈，早餐很好吃
+----------------------------------------
+name:H‍o‍u‍z‍i‍m‍o‍m‍o
+info:Deluxe Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 26, 2023
+msg:早餐很好，還升級了房間
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 6, 2023
+msg:每次來合肥必住酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in March 2023
+info:Other
+info:51 Reviews
+rating:5
+posted:Posted May 15, 2023
+msg:服務態度好早餐也挺好的哦
+----------------------------------------
+name:H‍u‍a‍n‍g‍x‍i‍a‍o‍l‍v
+info:Traditional Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:52 Reviews
+rating:5
+posted:Posted June 9, 2023
+msg:還行吧，周邊比較方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 5, 2023
+msg:服務非常棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in December 2022
+info:Business travelers
+info:5 Reviews
+rating:4
+posted:Posted March 20, 2023
+msg:酒店近政務區，方便
+設施：較好。
+----------------------------------------
+name:S‍u‍q‍i‍a‍w‍a‍l‍i‍g‍u‍i
+info:Traditional Suite
+info:Stayed in December 2022
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted December 13, 2022
+msg:房間很乾凈，設施完整，前台態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in August 2022
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted August 8, 2022
+msg:出差一直住這裏。感覺服務，早餐，都很好。一如既往的支持
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in June 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted June 19, 2023
+msg:各個方面都不錯😊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 21, 2022
+msg:感覺非常好👍！給升級了大床房，很乾凈舒適
+----------------------------------------
+name:M‍o‍b‍e‍i
+info:Deluxe Queen Room
+info:Stayed in May 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 13, 2023
+msg:滿意，
+衞生：很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in September 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 19, 2022
+msg:崔小姐姐服務特別好，酒店環境也很好，下次還來
+----------------------------------------
+name:P‍a‍n‍g‍z‍i
+info:Traditional Twin Room
+info:Stayed in June 2022
+info:Business travelers
+info:43 Reviews
+rating:4
+posted:Posted June 11, 2022
+msg:攜程上預訂好的房型到酒店後説沒有。後來又聯繫攜程退了房重新定的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in June 2023
+info:Business travelers
+info:57 Reviews
+rating:5
+posted:Posted June 19, 2023
+msg:交通方便，服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 12, 2023
+msg:非常不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 9, 2022
+msg:相當好的 體驗 前台小姐姐 aimee 態度友好l
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in October 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 6, 2022
+msg:環境很不錯，前台服務態度也很好，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in March 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted May 31, 2023
+msg:滿意 早餐不錯 服務好
+----------------------------------------
+name:P‍o‍b‍i‍n‍g‍z‍h‍e
+info:Traditional Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 16, 2022
+msg:去政務區經常住的酒店，滿意，推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:4.5
+posted:Posted January 24, 2023
+msg:還行吧，房間還是有些侷促。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:77 Reviews
+rating:5
+posted:Posted August 22, 2023
+msg:房屋乾淨整潔
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in September 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 3, 2023
+msg:蠻不錯的噢
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted May 24, 2023
+msg:感覺房間很乾凈 很喜歡
+----------------------------------------
+name:J‍i‍u‍d‍i‍a‍n‍c‍e‍p‍i‍n‍g‍y‍u‍a‍n‍L‍K‍A
+info:Deluxe Queen Room
+info:Stayed in July 2023
+info:Couples
+info:19 Reviews
+rating:5
+posted:Posted August 21, 2023
+msg:樓下自助餐不錯
+----------------------------------------
+name:V‍i‍v‍i‍e‍n‍❤‍️‍�‍�
+info:Traditional Double Room
+info:Stayed in January 2023
+info:Solo travelers
+info:7 Reviews
+rating:5
+posted:Posted January 19, 2023
+msg:馬路邊略吵 入住體驗很棒。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected Deluxe Room
+info:Stayed in May 2023
+info:Business travelers
+info:35 Reviews
+rating:5
+posted:Posted May 26, 2023
+msg:Ok ok ok
+----------------------------------------
+name:Q‍i‍n‍g‍w‍a‍-‍g‍u‍a‍n‍g‍t‍o‍u
+info:Traditional Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted September 9, 2023
+msg:環境很好的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:6 Reviews
+rating:4
+posted:Posted June 7, 2023
+msg:總的來説，挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted April 19, 2023
+msg:服務很棒 硬件一流
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:4 Reviews
+rating:4.7
+posted:Posted April 20, 2023
+msg:房間衞生，服務周到
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in July 2022
+info:Family
+info:5 Reviews
+rating:3
+posted:Posted July 21, 2022
+msg:衞生一般（浴缸頭髮較多）；
+保安服務人員素質太低；
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in November 2022
+info:Business travelers
+info:4 Reviews
+rating:4.7
+posted:Posted November 14, 2022
+msg:環境好地段好服務好，下次還住這裏
+----------------------------------------
+name:W‍i‍l‍s‍o‍n‍s‍u‍n‍g
+info:Deluxe Queen Room
+info:Stayed in May 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted May 16, 2023
+msg:房間舒適、寬敞。
+----------------------------------------
+name:J‍a‍m‍i‍e
+info:Traditional Double Room
+info:Stayed in March 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted April 17, 2023
+msg:酒店不錯，房間也挺大
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in August 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 15, 2022
+msg:挺好的，朋友來合肥一起住的。挺滿意也好停車～
+----------------------------------------
+name:w‍.‍3‍3
+info:Deluxe Queen Room
+info:Stayed in July 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted October 9, 2023
+msg:乾淨，服務好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in August 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 25, 2022
+msg:希望行政酒廊晚餐供應時間延長，酒水豐富一些
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 9, 2023
+msg:挺好的，床很軟
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted April 10, 2023
+msg:酒店升級的套房太讚了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in April 2023
+info:Solo travelers
+info:26 Reviews
+rating:5
+posted:Posted June 1, 2023
+msg:服務一如既往不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2022
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted September 15, 2022
+msg:配套設施很不錯，環境也很好，服務非常棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in August 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted August 30, 2022
+msg:前台服務很棒，感冒了，前台送了兩次熱薑茶
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted September 8, 2022
+msg:每次出差都住，raymond服務特別好
+----------------------------------------
+name:H‍e‍i‍h‍e‍i
+info:Traditional Double Room
+info:Stayed in January 2023
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted February 9, 2023
+msg:一如既往的好，服務沒的説
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted February 24, 2023
+msg:服務很熱情，設施很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in August 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted August 25, 2022
+msg:前台Jessica服務很棒，我想認識她。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in November 2022
+info:Other
+info:11 Reviews
+rating:5
+posted:Posted November 21, 2022
+msg:每次出差至合肥，非常不錯的選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in November 2021
+info:Couples
+info:11 Reviews
+rating:5
+posted:Posted November 14, 2021
+msg:沒什麼大毛病，我的浴巾忘記在酒店了，已經隔了好幾天了才打電話過去詢問沒想到還幫我留着，前台直接快遞給我，這服務令人滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in October 2022
+info:Other
+info:1 Review
+rating:4.7
+posted:Posted October 17, 2022
+msg:空調設定的温度不舒服，希望改進。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 1, 2022
+msg:服務態度較好，提出天氣熱被子厚，服務員及時拿來了薄被子
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted July 11, 2023
+msg:房間很好，服務好
+----------------------------------------
+name:G‍u‍a‍i‍n‍v‍s‍h‍e‍n
+info:Traditional Double Room
+info:Stayed in June 2021
+info:Other
+info:1 Review
+rating:2.5
+posted:Posted June 20, 2021
+msg:現在的前台都這麼吊嗎？服務態度太差了！一樣的房型，我兩晚是出差的，一晚是自己定的，出差那個有早餐，最後這一晚沒早餐？這是個什麼意思，沒懂，現在服務行業都不服務了還是懶得服務了？？這還是星級酒店嗎？
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in July 2022
+info:Solo travelers
+info:8 Reviews
+rating:5
+posted:Posted August 24, 2022
+msg:酒店超級棒，景觀好，房間舒適。感謝酒店的服務。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in November 2021
+info:Business travelers
+info:2 Reviews
+rating:1
+posted:Posted November 21, 2021
+msg:住了兩晚，收拾房間竟然毛巾都沒有換，衹是重新疊好，服務態度極差，四個枕頭都很高，睡醒感覺頭暈。舒適度不怎麼樣！
+----------------------------------------
+name:H‍u‍a‍n‍g‍f‍e‍i‍y‍i
+info:Deluxe Queen Room
+info:Stayed in May 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 24, 2023
+msg:挺安靜的，推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in November 2022
+info:Business travelers
+info:14 Reviews
+rating:3.7
+posted:Posted November 11, 2022
+msg:衞浴龍頭快壞了。水壓也不夠。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in April 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted April 4, 2023
+msg:服務周到，環境好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in May 2023
+info:Business travelers
+info:88 Reviews
+rating:5
+posted:Posted May 7, 2023
+msg:安安靜靜的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in May 2022
+info:Other
+info:15 Reviews
+rating:5
+posted:Posted August 16, 2022
+msg:交通：方便
+衞生：乾淨
+環境：優雅、安靜
+服務：熱情
+----------------------------------------
+name:D‍r‍x‍i‍a
+info:Traditional Double Room
+info:Stayed in March 2023
+info:Friends
+info:19 Reviews
+rating:5
+posted:Posted March 28, 2023
+msg:環境不錯，很安靜
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected Deluxe Room
+info:Stayed in September 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted September 8, 2022
+msg:酒店非常棒，服務特別周到，值得體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 26, 2023
+msg:好地段，有地鐵，方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted March 19, 2023
+msg:入住非常舒服，乾淨整潔
+----------------------------------------
+name:J‍a‍s‍o‍n‍ ‍H‍s‍u
+info:Selected Deluxe Room
+info:Stayed in November 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted November 11, 2022
+msg:酒店環境舒適，前台服務熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in March 2023
+info:Friends
+info:16 Reviews
+rating:5
+posted:Posted May 15, 2023
+msg:房間乾淨整潔舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 22, 2022
+msg:服務特別好 很貼心 叫醒服務特別温柔耐心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in November 2022
+info:Business travelers
+info:5 Reviews
+rating:4
+posted:Posted January 30, 2023
+msg:中規中矩 歡迎水果忘記送了
+----------------------------------------
+name:_‍y‍t‍2‍2‍6‍2‍4‍9‍1‍8‍1
+info:Deluxe Queen Room
+info:Stayed in November 2021
+info:Business travelers
+info:11 Reviews
+rating:4
+posted:Posted November 18, 2021
+msg:前台説沒房了！我立馬用攜程網，訂單妙到前台。感謝🙏攜程的快速反應，妙訂房的服務！值得信賴，攜程相伴！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted August 31, 2022
+msg:環境整潔乾淨，服務熱情，價格也實惠
+----------------------------------------
+name:m‍a‍c‍a‍f‍f‍e‍e
+info:Traditional Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:35 Reviews
+rating:4.7
+posted:Posted December 18, 2022
+msg:大牌酒店，一如既往，值得入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 13, 2023
+msg:好，很好，非常好👍
+----------------------------------------
+name:W‍o‍l‍u‍n‍c‍h‍e‍n‍g‍t‍a‍i‍l‍a‍n‍g
+info:Traditional Double Room
+info:Stayed in January 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted January 25, 2023
+msg:房間比融僑皇冠感覺好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 4, 2021
+msg:每次來合肥都會來住這家酒店！離玩的地方近，環境也很安靜，服務人員的態度都很好。早餐也很豐富。以後來了還會選擇住這家！
+----------------------------------------
+name:O‍h‍Y‍e‍o‍n‍S‍e‍o‍_
+info:Traditional Double Room
+info:Stayed in February 2022
+info:Couples
+info:3 Reviews
+rating:3.7
+posted:Posted February 21, 2022
+msg:位置可以。但是不符合這個價格，進來沒有拖鞋和紙。其他的設施比較一般。
+----------------------------------------
+name:w‍i‍n‍d‍t‍a‍l‍k‍e‍r‍s‍7‍1‍2‍3
+info:Deluxe Queen Room
+info:Stayed in September 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted September 26, 2022
+msg:酒店服務貼心，周邊交通飲食便利
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 31, 2022
+msg:服務人員態度很好，設施齊全
+----------------------------------------
+name:a‍-‍j‍i
+info:Traditional Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted October 21, 2021
+msg:交通便利，周邊景點多，房間乾淨整潔舒適，工作人員態度及服務質量非常到位，還多送幾瓶水送到房間來，下次還住。
+----------------------------------------
+name:Z‍h‍e‍n‍g‍y‍u‍j‍i‍a‍n‍s‍h‍e‍j‍i‍t‍u‍a‍n‍ ‍ ‍x‍u‍z‍h‍e‍n‍g‍l‍i‍n
+info:Deluxe Queen Room
+info:Stayed in February 2023
+info:Solo travelers
+info:24 Reviews
+rating:5
+posted:Posted February 28, 2023
+msg:交通便利。服務好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Traditional Twin Room
+info:Stayed in July 2023
+info:Family
+info:25 Reviews
+rating:5
+posted:Posted July 2, 2023
+msg:比較滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Traditional Double Room
+info:Stayed in May 2022
+info:Business travelers
+info:35 Reviews
+rating:5
+posted:Posted May 3, 2022
+msg:感謝aimee 送的水果   差旅商務非常好的選擇
+----------------------------------------

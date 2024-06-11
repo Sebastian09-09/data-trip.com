@@ -1,0 +1,111 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With Mountain View
+info:Stayed in May 2024
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:酒店位於大山之中，周邊自然風景優美，空氣清新，讓人感覺非常舒適和放鬆，的確是富硒康養的好地方，户外平台的喊泉挺有意思的，同行的小姐妹玩了好久[偷笑]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With Mountain View
+info:Stayed in May 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted May 27, 2024
+msg:酒店新開的，環境，衞生，設施，服務都不錯。住的很舒服，早餐還可以。
+----------------------------------------
+name:X‍i‍h‍u‍a‍n‍x‍i‍a‍o‍x‍u‍e‍t‍i‍a‍n‍q‍i
+info:2-bed Room With Mountain View
+info:Stayed in May 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 20, 2024
+msg:前台小妹妹很熱情，服務很周到，整個酒店也乾淨整潔，到這裏心情都好了不少
+----------------------------------------
+name:W‍e‍i‍x‍i‍a‍o‍d‍e‍c‍h‍a‍n‍g‍c‍h‍u‍n‍t‍e‍n‍g
+info:2-bed Room With Courtyard View
+info:Stayed in May 2024
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted May 29, 2024
+msg:房間很乾凈，如果要是有個除濕機就更好了，畢竟山裡濕氣重。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in April 2024
+info:Family
+rating:5
+posted:Posted May 3, 2024
+msg:服務人員的熱情，印象深刻，酒店乾淨智能，寬敞視野好，是仙寓山最好的酒店沒有之一！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+rating:5
+posted:Posted May 5, 2024
+msg:酒店新開業不久！在景區裏！一開始不知道房費包含了仙寓山景區門票，管家貼心幫忙指導預訂的門票！酒店旁邊就是人字瀑和將軍巖！恰逢雨季瀑布的風景非常好！吃完飯直接就能在景點散步哈哈！房間內熱水很足！山景也很漂亮，早晨從陽台就能看到仙氣繚繞的羣山。因為剛開業很多公共設施還不完善，但是工作人員都很和善努力！早餐非常豐富！很期待之後再來！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Mountain View
+info:Stayed in April 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted April 24, 2024
+msg:剛開業，很榮幸作為首位家庭親子顧客入住，三人兩狗，酒店特意升級成了家庭房，還給拿了狗窩。房間很大，餐食很好，家人和小朋友都吃的很開心方方，面面都給照顧到了。美中不足就是還有很多設施沒有徹底完工開放，小童中心的衞生做的不夠乾淨，玩具上有一層浮灰。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Queen Room With Mountain View
+info:Stayed in May 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 22, 2024
+msg:酒店很新，細節都很到位,體驗很好。晚飯也是在酒店吃的，超預期，好吃！！可惜衹在池州，以後其他地方有連鎖也會去的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With Mountain View
+info:Stayed in May 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:酒店環境很好，位置不錯，服務也很好！到周邊的景點很方便！
+----------------------------------------
+name:S‍u‍n‍y‍i
+info:Queen Room With Mountain View
+info:Stayed in May 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted June 3, 2024
+msg:風景宜人，潤肺之旅，房間很大很好，適合摜蛋！哈哈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Couples
+rating:5
+posted:Posted May 28, 2024
+msg:環境很好，內部設施不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:2-bed Room With Mountain View
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 5, 2024
+msg:環境優美，下次再去
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family-friendly Suite
+info:Stayed in May 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:服務非常好！
+----------------------------------------

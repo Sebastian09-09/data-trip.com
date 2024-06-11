@@ -1,0 +1,577 @@
+name:M‍e‍l‍ ‍L‍a‍p‍o‍r‍t‍e
+info:Studio Suite
+info:Stayed in September 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 27, 2023
+msg:Sheraton Pudong is my favorite hotel since the first time I set foot in Shanghai (2018), I just love the place and comfort here. Amazing place next to a Mall and Metro station, lovely and corteous staffs! Will always stay here everytime I come to Shanghai!
+----------------------------------------
+name:M‍a‍e‍ ‍A‍n‍n‍ ‍Y‍a‍n
+info:Studio Suite
+info:Stayed in October 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 11, 2023
+msg:Kudos to Front Desk Staff especially Rachel Liu and Deanna for being accommodating and highly effective.
+----------------------------------------
+name:K‍e‍l‍e‍6‍6‍7
+info:Family Suite
+info:Stayed in February 2024
+info:Family
+info:8 Reviews
+rating:4.7
+posted:Posted February 20, 2024
+msg:Facilities: Relatively old, the air conditioner switch is very nostalgic. But it works, but heating is a bit slow.
+
+Hygiene: good, still relatively clean
+The view outside the window is nice.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in February 2024
+info:Couples
+info:4 Reviews
+rating:1
+posted:Posted February 13, 2024
+msg:The room smelled of cigarette smoke, the environment was not very good, the front desk service was poor, and no one answered the room phone calls.
+----------------------------------------
+name:l‍i‍n‍l‍i‍n‍_‍k‍e‍k‍e
+info:Studio Suite
+info:Stayed in January 2024
+info:Solo travelers
+info:22 Reviews
+rating:5
+posted:Posted February 28, 2024
+msg:The location is good, there is a subway nearby. The hygiene is okay, but the facilities are a bit old. Others are fine.
+----------------------------------------
+name:C‍h‍e‍n‍r‍i‍s‍h‍e‍n‍g
+info:Studio Suite
+info:Stayed in March 2024
+info:Business travelers
+info:83 Reviews
+rating:4.7
+posted:Posted May 1, 2024
+msg:The location is excellent, the rooms are large and the hotel service is thoughtful.
+----------------------------------------
+name:S‍h‍u‍n‍f‍e‍n‍g‍b‍a‍i‍y‍u‍n
+info:Family Suite
+info:Stayed in November 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted November 14, 2023
+msg:The apar**ent is very clean, has a living room and kitchen, is spacious and bright, and has a free swimming pool and gym. The free breakfast is also very rich. It is very convenient to transfer to Metro Line 4. The guests are very satisfied with their stay.
+fully equipped
+Hygiene: clean
+Environment: good, facilities a bit old
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in November 2023
+info:Family
+info:29 Reviews
+rating:5
+posted:Posted November 5, 2023
+msg:The hotel was great for three days. Although it is a little old, the Sheraton brand is still guaranteed. It is also convenient to bring children and has a kitchen.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in August 2023
+info:Family
+info:14 Reviews
+rating:4.7
+posted:Posted September 1, 2023
+msg:Every time I come to Shanghai, I live in Youyou Hotel, and this time the family chose an apar**ent. The room is not too big, but it is compact and well-equipped. There are simple kitchen equipment to make coffee, hot breakfast and so on. The service was very good. It was too hot in Shanghai. We hid in the room and didn't go out. The staff who cleaned the room warmly called and asked when it was convenient to clean. Because there is a sink in the open kitchen, there is a smell of the floor drain, so I told her and helped us deal with it. The disadvantage is that the apar**ent is a bit old, the facilities are outdated, there are few power plugs, and the floor drain smells bad.
+----------------------------------------
+name:Q‍i‍n‍g‍y‍a‍n‍g‍q‍i‍u‍r‍u‍i
+info:Family Suite
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:2.2
+posted:Posted August 27, 2023
+msg:The room is old and should have been renovated many years ago. The only good thing is that there are three beds, so families can stay when the children grow up. But the whole is too old, there is no hair dryer, and some cabinets are already cracked, sorry for the Sheraton brand.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in July 2023
+info:Family
+info:23 Reviews
+rating:5
+posted:Posted September 30, 2023
+msg:I was quite satisfied with my stay at the hotel. The hygiene and environment were very good, and the service attitude of the hotel front desk was very good
+----------------------------------------
+name:J‍e‍a‍n‍i‍n‍e‍C
+info:Family Suite
+info:Stayed in December 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted December 30, 2023
+msg:Attentive service, convenient location,
+
+Facilities: good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted September 30, 2023
+msg:It is very suitable for a family to live. We stayed here for a week while our child was recovering from surgery. It was very good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:2
+posted:Posted July 9, 2023
+msg:Overall evaluation: The room smells bad, and the hotel's service awareness and management are worrying. To be more specific: I stayed for two days, and when I first arrived in the room, there was a faint musty smell and an unstable smell in the bathroom. , did not have a good rest; the service awareness of the doorman is very weak, and he will not take the initiative to help guests with luggage; the attitude of the front desk is acceptable, and I refunded my one-day fee, but the front desk also feels very powerless.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in September 2023
+info:Family
+info:90 Reviews
+rating:5
+posted:Posted November 11, 2023
+msg:The hotel is in an excellent location, very close to Renji Hospital!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in June 2023
+info:Family
+info:1 Review
+rating:1
+posted:Posted June 10, 2023
+msg:This is the worst five-star apar**ent building I have ever lived in. The facilities are old and dilapidated
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in May 2023
+info:Family
+info:4 Reviews
+rating:1.2
+posted:Posted May 25, 2023
+msg:It takes more than ten minutes for the waiter to arrive once. The quality of the toilet paper is very poor, and the pots are very dirty... The quality of the sliding door lock is too poor. I was locked in the bathroom for more than 20 minutes before I was rescued. It is the worst hotel with the same price I have ever seen
+----------------------------------------
+name:X‍i‍a‍n‍g‍d‍a‍i‍f‍u
+info:Family Suite
+info:Stayed in July 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted August 15, 2023
+msg:I've been staying at his house, the price/performance ratio is superb👍🏻
+----------------------------------------
+name:H‍u‍a‍h‍u‍a‍n‍g‍h‍u‍a‍n‍g‍l‍i‍a‍o‍r‍a‍n
+info:Family Suite
+info:Stayed in April 2023
+info:Family
+info:7 Reviews
+rating:3.7
+posted:Posted April 13, 2023
+msg:Old, small, and average facilities, except for the name, it may not be comparable to the Express Hotel
+----------------------------------------
+name:B‍O‍B‍O‍-‍9‍9‍9
+info:Family Suite
+info:Stayed in November 2023
+info:Business travelers
+info:35 Reviews
+rating:4.7
+posted:Posted November 25, 2023
+msg:Fourth time staying here, as always good.
+----------------------------------------
+name:H‍a‍o‍h‍a‍o‍m‍e‍i‍q‍i‍1‍1‍7
+info:Family Suite
+info:Stayed in February 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 24, 2023
+msg:The space is large and the service is good, especially Xiaomao customer service at the front desk. Recommended
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in April 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted April 20, 2023
+msg:High-quality service, clean and hygienic, complete facilities, frequent stay.
+----------------------------------------
+name:A‍i‍c‍h‍e‍n‍g‍z‍h‍o‍n‍g‍d‍e‍j‍i‍a‍j‍i‍a
+info:Family Suite
+info:Stayed in January 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted January 29, 2023
+msg:The location is excellent. Metro Line 4 is just outside the door. The facilities in the apar**ent building are a bit old but clean and tidy.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in April 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted June 23, 2023
+msg:Environment: yes
+Sanitation: Yes
+Facilities: average
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in April 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted April 28, 2023
+msg:The guy at the front desk gave us a free breakfast
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in May 2023
+info:Solo travelers
+info:12 Reviews
+rating:5
+posted:Posted May 24, 2023
+msg:Good service and convenient transportation.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in April 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted April 30, 2023
+msg:The room is very good and will choose next time
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in May 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted May 30, 2023
+msg:Great location, clean and tidy rooms.
+----------------------------------------
+name:Y‍a‍n‍y‍a‍n
+info:Family Suite
+info:Stayed in January 2023
+info:Booked for others
+info:4 Reviews
+rating:5
+posted:Posted April 20, 2023
+msg:Booked for friends, not bad, friends have been staying
+----------------------------------------
+name:a‍h‍l‍i‍a‍n‍g
+info:Studio Suite
+info:Stayed in May 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 4, 2023
+msg:Washing machine with induction cooker
+----------------------------------------
+name:W‍L‍0‍8‍1‍6
+info:Family Suite
+info:Stayed in May 2023
+info:Business travelers
+info:34 Reviews
+rating:5
+posted:Posted May 26, 2023
+msg:good good good good good
+----------------------------------------
+name:D‍a‍f‍a‍n‍s‍h‍u‍i‍b‍e‍i‍d‍a‍r‍e‍n
+info:Studio Suite
+info:Stayed in October 2021
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted October 22, 2021
+msg:It’s more convenient to live with a baby, there is a kitchen for supplementary food, and sanitation is also cleaned every day
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in March 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 9, 2022
+msg:The service attitude is very good, the room is very warm and comfortable, King and Xiao Mao at the front desk are very enthusiastic, solve problems quickly, and exceed expectations
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in February 2022
+info:Business travelers
+info:3 Reviews
+rating:4.2
+posted:Posted February 24, 2022
+msg:The service is great, Fiona at the front desk is enthusiastic, the registration is skilled and fast, great👍 The apar**ent is well equipped, with kitchen utensils, coffee and snacks downstairs, and even vegetables for sale
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in February 2022
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted February 20, 2022
+msg:The service of evan at the front desk is very good, and I arranged the facing room that I like
+----------------------------------------
+name:k‍e‍n‍k‍e‍n‍k‍u‍a‍n‍g‍k‍u‍a‍n‍g
+info:Studio Suite
+info:Stayed in July 2021
+info:Business travelers
+info:71 Reviews
+rating:1
+posted:Posted July 16, 2021
+msg:After I found it, the lobby manager said that it was impossible for the waiter to do it. I said you meant I was hiding here and asked you to tease you? He said that I think it was. Before leaving, he whispered sb. I can only complain to him by Ctrip. His name is Hubert. I don't know how this kind of person can be a lobby manager. In addition, when queuing, I saw that the uncle in front was rejected by the waiter for his slow movements, and the language was very ironic. In short, this kind of hotel really pulls down the appearance of the entire Shanghai waiter, I don’t know how much, it’s very embarrassing
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in July 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted September 8, 2021
+msg:The rooms in Sheraton You You Apar**ents are very good, cost-effective, large enough, and well equipped with kitchens and bathrooms. The front desk service was warm and thoughtful. Barbara at the front desk knew that I was living in an apar**ent for the first time and there was a lot of luggage. I was afraid I didn't know how to get there, so I called the bellman to help me lead the way. The service was really great. The location of the hotel is also super convenient, the subway is just outside the door, the best choice for traveling with your baby. I took my family to travel to Shanghai this time. I saw this hotel-style apar**ent owned by Marriott online and booked it decisively. I was not disappointed by the results of my stay. The rooms in Sheraton You You Apar**ents are very good, cost-effective, large enough, and equipped with kitchen and bathroom facilities. The front desk service was warm and thoughtful. Barbara at the front desk knew that I was living in an apar**ent for the first time and there was a lot of luggage. I was afraid I didn't know how to get there, so I called the bellman to help me lead the way. The service was really great. The location of the hotel is also super convenient, the subway is just outside the door, the best choice for traveling with your baby. The hotel catering industry does a good job. We tried Chinese food and afternoon tea. The taste and price are very beautiful. We will choose this hotel again next time we come to Shanghai.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in January 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 10, 2022
+msg:I came to Shanghai last year and stayed in the apar**ent for a while, it was very convenient, I still chose this hotel this year, Ella.Jenny.Michelle's service is very enthusiastic, answering any questions, for the sake of customers, I will still choose it next time👍🏻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in December 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted January 4, 2022
+msg:The location of the hotel is very good, and the rooms are well maintained and convenient to travel. Especially the lady KING at the front desk, the service is warm and thoughtful, answering our questions one by one, solving one by one, very patient.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in January 2023
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted January 17, 2023
+msg:Barbara great service 👍
+----------------------------------------
+name:c‍c‍2‍4‍2‍1
+info:Studio Suite
+info:Stayed in December 2021
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted December 2, 2021
+msg:The apar**ent rooms are very nice and warm. The front desk manager Fiona’s service is very warm. The daisy and yilia’s services are also in place. I helped us solve any problems in time. I like it. I will come next time I stay. Kate’s Deputy Director of Housekeeping. The sense of service is in place and I like it very much.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in November 2021
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted December 4, 2021
+msg:This hotel is the first time to stay here. I lived in an apar**ent with my children. The kitchen is better. There is no problem cooking something for the children. The staff at the front desk lucky Fiona Ella susan is also very enthusiastic and would recommend it to friends around me. 😊
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in February 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 25, 2022
+msg:Front desk manager jenny has attentive service and five-star praise
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 29, 2021
+msg:Sheraton You You Apar**ent has a good location and convenient transportation. The subway entrance is right in front of the hotel, making it easy to go anywhere. The surrounding facilities are complete, including the Paris Printemps Depar**ent Store, Snack Plaza and so on. I stayed in a two-bedroom and one-living room. The room was large enough and cost-effective. It is a good choice for a family of three or four. The front desk staff is warm and attentive.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in October 2021
+info:Business travelers
+info:9 Reviews
+rating:1
+posted:Posted October 20, 2021
+msg:In the morning peak check-out, there is only one person on duty, lined up, and all rushing to the airport. Invoicing can only be made now, not even a scan code is issued. The service staff made a mistake and blamed the machine for bad, and re-issued the ticket. The machine is broken, and the delayed time directly leads to the rental parking supermarket called, and you have to pay for the parking fee. The security at the door is arrogant like a grumpy hound
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in February 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 17, 2022
+msg:Hotel manager EVAN service is very good, very thoughtful.
+----------------------------------------
+name:Y‍u‍w‍e‍n‍g‍™
+info:Family Suite
+info:Stayed in August 2021
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 10, 2021
+msg:The transportation is convenient, and it is a good place for family and family activities. Our family loves Yuyou Apar**ent. Thank you for the support and warm service of the apar**ent.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in October 2021
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 7, 2021
+msg:The location of the hotel is good, the subway entrance is at the door
+----------------------------------------
+name:K‍e‍e‍r‍n‍u‍o‍c‍i‍a‍n
+info:Studio Suite
+info:Stayed in June 2021
+info:Business travelers
+info:14 Reviews
+rating:4.5
+posted:Posted June 29, 2021
+msg:Business travelers can really choose this, it is very reliable. The apar**ent I booked has a lot of space. But the bed is very hard and the pillows are also recommended to be changed. It's better to be able to upgrade the sense of intelligence
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in December 2021
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted January 23, 2022
+msg:Nice environment, good service attitude.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in May 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted June 10, 2024
+msg:房屋設施衞生齊全，服務周到熱情，非常滿意！
+----------------------------------------
+name:L‍i‍p‍ ‍W‍a‍i
+info:Family Suite
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 13, 2024
+msg:沒有其他了
+----------------------------------------
+name:K‍e‍l‍l‍y
+info:Studio Suite
+info:Stayed in August 2021
+info:Business travelers
+info:90 Reviews
+rating:4
+posted:Posted August 27, 2021
+msg:酒店前枱服務佳, 房間裡的基本設施也是齊備.  配套佳. 食物質素也有保證. 將來的商務出差也會考慮入住這間.酒店前枱服務佳, 房間裡的基本設施也是齊備.  配套佳. 食物質素也有保證. 將來的商務出差也會考慮入住這間.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:兩大兩小，非常方便
+----------------------------------------
+name:J‍i‍n‍l‍o‍n‍g‍H‍G‍L
+info:Family Suite
+info:Stayed in May 2023
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted May 9, 2023
+msg:服務人員接待熱忱
+----------------------------------------
+name:Z‍J‍B‍J‍S‍H‍N‍J
+info:Family Suite
+info:Stayed in July 2023
+info:Other
+info:26 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:體驗很不錯
+----------------------------------------
+name:s‍u‍s‍a‍n‍w‍o‍r‍l‍d‍w‍i‍n
+info:Studio Suite
+info:Stayed in August 2021
+info:Business travelers
+info:28 Reviews
+rating:5
+posted:Posted December 7, 2021
+msg:入住公寓體驗非常好，有廚房和客廳，洗衣機，出差非常方便！
+----------------------------------------
+name:W‍e‍i‍l‍a‍q‍i‍a‍o‍-‍m‍e‍n‍g‍t‍e‍e‍r‍t‍u‍o‍s‍h‍i‍l‍e
+info:Studio Suite
+info:Stayed in July 2021
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted July 13, 2021
+msg:乾淨，方便。樓下就是地鐵，價格適中。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in November 2021
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted November 29, 2021
+msg:服務滿意，環境舒服
+----------------------------------------
+name:J‍i‍a‍n‍g‍e‍z‍a‍i‍z‍a‍o‍j‍i‍q‍i‍r‍e‍n
+info:Studio Suite
+info:Stayed in June 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 26, 2021
+msg:物超所值，值得推薦，下次再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in May 2021
+info:Other
+info:26 Reviews
+rating:5
+posted:Posted July 8, 2021
+msg:還不錯，交通方便，地處鬧市
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in July 2021
+info:Family
+info:28 Reviews
+rating:5
+posted:Posted July 18, 2021
+msg:位置便利，停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Studio Suite
+info:Stayed in June 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 16, 2021
+msg:一切都挺好的
+----------------------------------------

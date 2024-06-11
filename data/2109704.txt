@@ -1,0 +1,914 @@
+name:J‍a‍c‍k‍y
+info:Excutive king room
+info:Stayed in February 2023
+info:Friends
+info:20 Reviews
+rating:5
+posted:Posted February 16, 2023
+msg:I like this hotel for the clean room and everything...
+----------------------------------------
+name:B‍e‍i‍s‍h‍a‍n‍l‍a‍n‍g‍A
+info:Deluxe twin room
+info:Stayed in August 2023
+info:Solo travelers
+info:20 Reviews
+rating:5
+posted:Posted August 26, 2023
+msg:The front desk staff is very enthusiastic, all hotel facilities are new, parking is convenient, and breakfast is very rich. The location is very good and convenient for travel. I have chosen this hotel many times.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Excutive king room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:2.7
+posted:Posted February 15, 2024
+msg:The sound insulation effect of the room is poor, and there is too much noise outside, including the sound of fireworks and firecrackers. Breakfast is RMB 38 per person, you have to buy it yourself, it is not included in the room. Don’t go to the hotel restaurant. I booked a family dinner. To be honest, the food was terrible. It costs 200 per person.
+----------------------------------------
+name:Q‍u‍a‍n‍j‍i‍a‍a‍n‍k‍a‍n‍g
+info:Deluxe King Room
+info:Stayed in September 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted September 18, 2023
+msg:The hotel lobby is grand and the rooms are clean and large. The most thoughtful thing was the message from the account manager and the gifts of drinks and snacks. Like 👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in August 2023
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted August 14, 2023
+msg:The room is clean and convenient for travel. I left my phone behind when I left, the staff contacted us and sent it back, thank you!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in September 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 20, 2022
+msg:I am used to staying in Xinghewan when I go to Sheyang on business. The good location, convenient transportation, beautiful environment, comfort and hygiene, and the professional and enthusiastic service staff are all the reasons why I choose her. The golden pillars and huge crystal chandeliers in the spacious hall are full of luxury and a**osphere. The fragrance is neither strong nor demonic, refreshing. The courteous waiters and smiling guests complement each other, making it quiet and beautiful. The windows in the guest room are bright and clean, the bed is soft and the quilt is soft, comfortable and warm. A hot bath washes away the fatigue, and after a good night's sleep, you feel full of energy. Coupled with Xinghewan's ultra-luxurious buffet breakfast, you will definitely be able to eat a lot and have a long aftertaste. Another unforgettable trip to Sheyang!
+----------------------------------------
+name:H‍a‍o‍r‍a‍n‍V‍S‍z‍h‍e‍n‍g‍q‍i
+info:Deluxe twin room
+info:Stayed in January 2023
+info:Family
+info:51 Reviews
+rating:1
+posted:Posted January 6, 2023
+msg:The worst hotel, the weirdest hotel. When booking, it said that fruit would be delivered, but it was not delivered. The booking price was 358 yuan, and the check-out fee was 391 yuan. It said there was a fee for drinking water, but it was shown that it was free water, and the check-out fee was 34 yuan. The weirdest thing is that at seven o'clock in the morning, the waiter knocked on the door very fiercely and said that you can have breakfast. What the hell? I came to your place to sleep. If I want to eat in the morning, I won't go there myself? I was dreaming and was woken up by the smash. I really don’t know how a hotel like yours can continue to operate. I have to drive out to park my car. Is it convenient for me to get my things? Is this a parking lot or a city hall? I really didn’t know you guys had been doing this for so long. I really regret staying here.
+----------------------------------------
+name:S‍h‍e‍n‍h‍u‍a‍h‍u‍o‍x‍i‍a‍o‍m‍o‍j‍i
+info:Excutive king room
+info:Stayed in August 2021
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted September 19, 2021
+msg:Convenient transportation, clean and tidy, beautiful environment
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in November 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted November 17, 2021
+msg:The hotel has high-end specifications, convenient transportation, quiet night with no noise, extremely fast Internet speed, large room space, 80% new supplies, rich breakfast, good service attitude of the waiters, and the gym and swimming pool are very new. If you come to Sheyang for a business trip, you must stay in this hotel.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in July 2021
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted September 11, 2021
+msg:🚗 Transportation: The transportation is very convenient
+🧹Sanitation: The hotel is clean and tidy and comfortable
+🍃Environment: quiet and elegant
+🔔Service: The service attitude is very good.
+The breakfast is good. Like to stay
+----------------------------------------
+name:w‍a‍n‍g‍k‍o‍u‍ ‍x‍i‍a‍o‍h‍u‍o
+info:Deluxe twin room
+info:Stayed in July 2021
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted October 4, 2021
+msg:Sanitary environment, convenient transportation, warm service
+----------------------------------------
+name:L‍i‍a‍n‍g‍l‍i‍a‍n‍g‍8‍8‍1‍1‍0‍7
+info:Deluxe twin room
+info:Stayed in January 2022
+info:Business travelers
+info:3 Reviews
+rating:1
+posted:Posted January 6, 2022
+msg:Bad attitude of waiter
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in May 2024
+info:Family
+info:25 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:價格非常有性價比，五一也沒有漲價，我們是去安徒生童話樂園遊玩的，離得位置還蠻近的，雖然酒店比較老但是該有的都有，還有浴缸，點贊
+----------------------------------------
+name:N‍a‍s‍a‍l‍e‍w‍a‍n‍g‍j‍u‍n
+info:Deluxe twin room
+info:Stayed in March 2024
+info:Other
+info:11 Reviews
+rating:5
+posted:Posted March 5, 2024
+msg:回老家探親，第一次入住老家的星級酒店。前台小姐姐很熱情，門口禮賓主動問要不要幫忙拎行李，前台還很詳細的和我介紹了酒店的設施以及周邊配套服務，酒店位置很好，旁邊就是本地人常去的餐飲店和咖啡店，恰好也離鳳凰廣場也很近。早餐也很可口，種類也非常豐富。真的是一次非常不錯的體驗!還會再來～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 4, 2024
+msg:房間很乾凈，很舒服，整體酒店風格雖不算新，但是老牌有老牌的味道，讓人感覺非常的温暖。酒店主體設計很舒服，每一層空間比較大。早餐也比較豐富，味道也不錯。前台小姑娘很熱情，服務周到，酒店周邊配套也非常齊全，是來射陽住宿的不二之選。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:147 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:這次訂的價格比較優惠，酒店的住宿環境很好，裝修的比較上檔次，周邊吃飯很方便。房間空間很大，床睡得很舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in December 2023
+info:Family
+info:57 Reviews
+rating:5
+posted:Posted December 18, 2023
+msg:酒店設施齊全，房間寬敞明亮，處處整潔，住的很舒適。早餐品種不少，服務態度很好。免費停車場也方便。性價比高。
+----------------------------------------
+name:N‍a‍n‍w‍e‍n
+info:Deluxe twin room
+info:Stayed in August 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted August 26, 2023
+msg:多次住星禾灣國際酒店，疫情後一如既往的好👌特別要感謝前台領班小路熱情周到的服務，看我年紀大，主動免費升到行政房。星禾灣酒店地理位置好，周邊配套設定齊全，附近有許多特色餐廳價廉物美，停車場很大。客房衞生乾淨，早餐豐富，在射陽不多的好酒店中是不二的選擇。
+----------------------------------------
+name:e‍0‍3‍6‍4‍9‍3‍8‍3
+info:Deluxe King Room
+info:Stayed in March 2024
+info:Family
+info:2 Reviews
+rating:4.7
+posted:Posted March 26, 2024
+msg:前台很專業，早飯服務態度也非常好。看見我們四個人帶一個小朋友還主動贈送了一份自助早餐。衹是我的房間裏的浴缸比較臟，不敢使用。也是第一次四星酒店碰到這種情況，其他方面還是很不錯的。
+----------------------------------------
+name:W‍o‍b‍u‍s‍h‍i‍b‍a‍i‍x‍i‍a‍o‍s‍h‍e‍n‍g
+info:Business Standard Room
+info:Stayed in May 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:非常舒服的酒店，在縣城裡有這樣一座四星級酒店非常不容易。停車很方便，距離安徒生童話樂園也很近，開車來射陽遊玩的話，這個酒店是性價比非常高德選擇。
+----------------------------------------
+name:Z‍u‍n‍j‍i‍n‍g‍d‍e‍y‍o‍n‍g‍h‍u‍q‍u‍n‍t‍i
+info:Deluxe King Room
+info:Stayed in March 2024
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted March 15, 2024
+msg:前台青青美女服務好，酒店也非常高端大氣上檔次，設施設備齊全～前台等候區還有茶水和茶葉蛋！吊打其他酒店～
+設施：非常好
+衞生：乾乾淨淨，清清爽爽
+環境：好👍
+服務：十分滿意
+----------------------------------------
+name:e‍d‍d‍f‍y‍f
+info:Business Standard Room
+info:Stayed in May 2024
+info:Family
+info:20 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:挺好的，對比幾家酒店，價格合適，環境也不賴，每次節假日漲價幅度比較小的酒店了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Excutive king room
+info:Stayed in February 2024
+info:Family
+info:35 Reviews
+rating:1
+posted:Posted February 16, 2024
+msg:很不好的一次入住體驗！前台很傲慢，入住後想要雙小朋友拖鞋打了三次電話才拿！哎！很差的一次體驗！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in May 2024
+info:Business travelers
+info:4 Reviews
+rating:4.7
+posted:Posted May 29, 2024
+msg:去射陽基本都住星禾灣，乾淨整潔，早餐豐富，床品也很舒服
+----------------------------------------
+name:W‍o‍n‍i‍u‍m‍a‍n‍y‍o‍u
+info:Deluxe twin room
+info:Stayed in August 2023
+info:Friends
+info:60 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:服務太好了，我的事情沒辦完，主動幫我延期退房，天熱我要水喝，服務員主動幫我送到房間，很貼心！下次來還住這裏。廚師的菜也做的很合胃口，價格也很實惠！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 26, 2024
+msg:乾淨，整潔，安靜，舒適！
+關鍵價格實惠！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in September 2022
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted September 6, 2022
+msg:這次再一次回到星禾灣酒店入住，入住的依舊非常滿意，房間舒適設施齊全，酒店周邊也有很多玩的地方， 前台服務很好，入住非常開心滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Excutive king room
+info:Stayed in September 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 2, 2022
+msg:再次入住星禾灣酒店，就跟回到了家一樣~服務好，裝修大氣，早餐更是非常棒~總之，來射陽的首選酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:4.7
+posted:Posted April 22, 2024
+msg:衞生：好
+服務：好
+值得推存
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 2, 2024
+msg:環境好服務貼心，房間乾淨整潔。
+----------------------------------------
+name:G‍u‍o‍z‍h‍i‍7‍7‍7‍7
+info:Deluxe King Room
+info:Stayed in January 2024
+info:Business travelers
+info:11 Reviews
+rating:4
+posted:Posted February 22, 2024
+msg:當地老牌酒店了，希望硬件設施及時更換。
+----------------------------------------
+name:W‍e‍n‍j‍i‍n‍g
+info:Deluxe twin room
+info:Stayed in November 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted November 7, 2022
+msg:鶴鄉射陽當地為數不多的星級酒店，酒店裝修非常上高端檔次，一到酒店就有安保指引停車方向，熱情的禮賓員主動幫忙運行李，漂亮的大堂顏經理一直把我們送到房間，看到我們帶了個BB，客房阿姨還送來了小童的用品～服務和環境設施都很好，早餐真的非常豐富～是以後回射陽的首選。讓我們這些離家遊子感受到了家鄉人民的熱情和温暖
+----------------------------------------
+name:Z‍3‍W
+info:Business Standard Room
+info:Stayed in April 2024
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted April 29, 2024
+msg:非常滿意，前台接待非常熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 22, 2024
+msg:房間挺不錯的，喜歡大浴缸。
+----------------------------------------
+name:T‍e‍e‍r‍x‍i‍a‍i‍x‍i‍a‍n‍z‍h‍a‍n‍g‍l‍i‍a‍n‍g
+info:Deluxe twin room
+info:Stayed in August 2023
+info:Family
+info:28 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:服務人員態度很好👍房間很乾凈！早餐很豐富！下次來的話還會選擇這家賓館👍
+----------------------------------------
+name:l‍u‍c‍y‍p‍a‍n‍0‍8‍2‍8
+info:Deluxe King Room
+info:Stayed in November 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 16, 2023
+msg:第一次來射陽，相當不錯的一家酒店，下次來還住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in October 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted October 24, 2022
+msg:必須要給個五星好評了，我們到的時候已經是深夜，還是有安保人員指引停車，前台熱情的接待，迅速的辦理好了入住手續，也有行李員幫忙送行李，房內設施設備也是五星配置～無論是服務還是硬件都非常值得一住的酒店～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:3.5
+posted:Posted August 2, 2023
+msg:馬桶老舊，蓮蓬頭也是，住的不是很舒服，但服務很好。感覺硬件可以換換了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Excutive king room
+info:Stayed in September 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted September 4, 2022
+msg:賓至如歸，多次入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in April 2024
+info:Business travelers
+info:53 Reviews
+rating:5
+posted:Posted April 20, 2024
+msg:前台漂亮，服務周到熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in June 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 6, 2024
+msg:房間很好，早餐豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted May 31, 2024
+msg:設施服務都非常棒
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in March 2024
+info:Other
+info:11 Reviews
+rating:5
+posted:Posted April 26, 2024
+msg:環境很好，服務也可以！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Excutive twin room
+info:Stayed in July 2023
+info:Solo travelers
+info:2 Reviews
+rating:4.5
+posted:Posted July 13, 2023
+msg:服務和環境挺好，設施一般，游泳池對外開放人太多很不好
+----------------------------------------
+name:태‍균
+info:Business Queen Room
+info:Stayed in April 2024
+info:Family
+info:11 Reviews
+rating:3.7
+posted:Posted April 25, 2024
+msg:위치 좋고 괜찬음
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in February 2024
+info:Couples
+info:15 Reviews
+rating:5
+posted:Posted March 1, 2024
+msg:蠻好的很喜歡😘.！。
+----------------------------------------
+name:R‍o‍s‍e‍ ‍w‍a‍n‍g‍r‍o‍n‍g
+info:Deluxe twin room
+info:Stayed in July 2023
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted July 24, 2023
+msg:非常不錯哦！在射陽能住到這樣的酒店真不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in October 2023
+info:Business travelers
+info:43 Reviews
+rating:5
+posted:Posted November 14, 2023
+msg:餐飲還不錯，房間設定建議更新
+----------------------------------------
+name:X‍i‍a‍o‍w‍a‍n‍g‍z‍i‍d‍e‍h‍a‍o‍b‍a‍b‍a
+info:Excutive twin room
+info:Stayed in August 2022
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted August 30, 2022
+msg:看資料是2013年開業的酒店，九年了硬件保養算不錯的，比金陵、錦江旗下營業近十年的五星級有些硬件維保水準不如這家。衞生狀況也OK。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 6, 2024
+msg:早餐好，服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted April 14, 2024
+msg:舒適安靜不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted April 29, 2024
+msg:房間設施齊全
+----------------------------------------
+name:C‍u‍i‍c‍h‍a‍n‍g‍l‍i‍n‍g
+info:Deluxe twin room
+info:Stayed in January 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted April 18, 2024
+msg:很滿意的一次體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Standard Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 10, 2024
+msg:環境挺好的
+----------------------------------------
+name:F‍e‍n‍g‍y‍u‍t‍o‍n‍g‍x‍i‍n‍g
+info:Deluxe King Room
+info:Stayed in January 2024
+info:Other
+info:9 Reviews
+rating:5
+posted:Posted January 8, 2024
+msg:乾淨衞生環境很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 14, 2024
+msg:不錯，衞生乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in December 2023
+info:Solo travelers
+info:17 Reviews
+rating:3.7
+posted:Posted February 25, 2024
+msg:設施有點老舊了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in December 2023
+info:Other
+info:2 Reviews
+rating:4.2
+posted:Posted December 31, 2023
+msg:隔音太差！！！
+----------------------------------------
+name:S‍h‍e‍y‍a‍n‍g‍p‍e‍n‍g‍y‍u‍y‍a‍n
+info:Deluxe twin room
+info:Stayed in June 2023
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted September 16, 2023
+msg:房間裝修簡單大氣，性價比很高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in March 2024
+info:Business travelers
+info:8 Reviews
+rating:3.7
+posted:Posted April 20, 2024
+msg:服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in July 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted July 18, 2023
+msg:房間清潔
+
+設施：也可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 22, 2023
+msg:：
+環境乾淨衞生，服務很周到，酒店早餐種類豐富
+----------------------------------------
+name:Y‍u‍a‍n‍w‍a‍n‍g‍q‍u‍n‍s‍h‍a‍n‍y‍i‍g‍u‍o‍w‍o‍t‍o‍u
+info:Deluxe King Room
+info:Stayed in April 2023
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted April 4, 2023
+msg:房間乾淨，服務態度好，中餐很好吃。
+----------------------------------------
+name:H‍e‍y‍ ‍ღ‍ ‍y‍o‍y‍o‍�‍�
+info:Excutive king room
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 18, 2023
+msg:服務：服務挺好的
+----------------------------------------
+name:s‍i‍e‍r‍r‍a‍_‍c‍h‍e‍n
+info:Deluxe twin room
+info:Stayed in February 2024
+info:Booked for others
+info:5 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:房間非常好
+----------------------------------------
+name:X‍i‍a‍o‍e‍r‍m‍i‍g‍o‍u
+info:Deluxe twin room
+info:Stayed in August 2023
+info:Family
+info:22 Reviews
+rating:5
+posted:Posted October 25, 2023
+msg:酒店很不錯 有游泳池
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Excutive king room
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 10, 2023
+msg:有大浴缸 很舒適
+----------------------------------------
+name:D‍a‍g‍e‍m‍i‍s‍i‍d‍i‍r‍e‍n‍j‍i‍e
+info:Superior Suite
+info:Stayed in August 2023
+info:Business travelers
+info:10 Reviews
+rating:4.5
+posted:Posted August 9, 2023
+msg:房間有味道，能整改
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 12, 2023
+msg:入住幾次了，感覺還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in September 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted September 21, 2022
+msg:酒店挺好的 額外送了早餐 早餐非常豐盛絕對的五星級標準
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in July 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted July 16, 2023
+msg:非常好，下次還來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in October 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 1, 2022
+msg:酒店防疫工作很到位，前台服務態度很好，快捷
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Excutive twin room
+info:Stayed in August 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted August 30, 2022
+msg:還不錯，環境服務都可以，停車便利，周邊飯店商店很多。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in September 2022
+info:Business travelers
+info:37 Reviews
+rating:4
+posted:Posted September 3, 2022
+msg:相對滿意，出差公務，還是比較喜歡這樣酒店，實惠方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in January 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted January 25, 2023
+msg:環境很好，價格便宜，服務貼心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in September 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted September 20, 2022
+msg:還不錯，除了扣我房卡錢後還按金很拖之外
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in August 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted August 25, 2023
+msg:服務很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in August 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted September 5, 2023
+msg:服務一般化
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in August 2022
+info:Couples
+info:12 Reviews
+rating:5
+posted:Posted September 1, 2022
+msg:房間整潔 服務態度完美 早餐豐盛
+----------------------------------------
+name:X‍i‍a‍n‍y‍u‍n‍y‍e‍h‍e‍y‍a‍o
+info:Deluxe twin room
+info:Stayed in September 2022
+info:Other
+info:5 Reviews
+rating:4.7
+posted:Posted September 20, 2022
+msg:我那個房間自動窗簾變手動了
+----------------------------------------
+name:G‍a‍o‍q‍i‍u‍G‍o‍l‍f
+info:Deluxe twin room
+info:Stayed in September 2022
+info:Couples
+info:69 Reviews
+rating:4.5
+posted:Posted September 27, 2022
+msg:射陽有如此酒店非常不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in March 2023
+info:Booked for others
+info:2 Reviews
+rating:5
+posted:Posted March 23, 2023
+msg:高檔環境優雅
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in January 2022
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted February 3, 2022
+msg:屬於星級高端酒店，但是感覺設施有點陳舊了，水壓到晚上也小。
+----------------------------------------
+name:F‍a‍n‍n‍a‍o‍q‍u‍a‍n‍w‍u‍✘
+info:Deluxe King Room
+info:Stayed in February 2023
+info:Couples
+info:10 Reviews
+rating:5
+posted:Posted February 5, 2023
+msg:環境不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in November 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 2, 2021
+msg:前台開房服務態度很好也很有耐心 非常滿意。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in March 2022
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted March 5, 2022
+msg:很不錯。衞生服務態度非常好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in September 2022
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted November 20, 2022
+msg:房間寬敞乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in August 2022
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted August 26, 2022
+msg:前台服務很好
+----------------------------------------
+name:w‍b‍s‍i‍w‍m
+info:Deluxe twin room
+info:Stayed in June 2021
+info:Friends
+info:9 Reviews
+rating:4.2
+posted:Posted June 14, 2021
+msg:真的很不錯！！在一個縣城能有這種住宿條件，很厲害咯！
+----------------------------------------
+name:Z‍h‍e‍n‍c‍h‍e‍n‍g‍d‍e‍f‍e‍n‍g‍z‍i
+info:Deluxe twin room
+info:Stayed in July 2021
+info:Business travelers
+info:7 Reviews
+rating:4
+posted:Posted August 16, 2021
+msg:不敢去住了，現在揚州新冠隔離人員住那！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in January 2022
+info:Family
+info:13 Reviews
+rating:4.7
+posted:Posted February 4, 2022
+msg:射陽比較好的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Excutive king room
+info:Stayed in April 2021
+info:Other
+info:13 Reviews
+rating:5
+posted:Posted July 12, 2021
+msg:我沒有在那吃過早餐，聽朋友説，早餐挺不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe King Room
+info:Stayed in October 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 23, 2021
+msg:乾淨衞生上檔次。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in November 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 7, 2022
+msg:還行吧不錯啦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in November 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 23, 2021
+msg:前台服務不錯
+----------------------------------------
+name:X‍i‍n‍q‍i‍n‍g‍1‍1
+info:Deluxe twin room
+info:Stayed in July 2021
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted December 12, 2021
+msg:整體感覺還是挺不錯的
+----------------------------------------
+name:J‍o‍h‍n‍s‍o‍n‍_‍L‍i‍a‍n‍g
+info:Deluxe twin room
+info:Stayed in May 2021
+info:Business travelers
+info:66 Reviews
+rating:5
+posted:Posted June 22, 2021
+msg:射陽最好的酒店了
+----------------------------------------
+name:F‍e‍i‍l‍i‍a‍n‍x‍i‍a‍o‍x‍i‍a‍o
+info:Deluxe twin room
+info:Stayed in July 2021
+info:Business travelers
+info:32 Reviews
+rating:5
+posted:Posted July 25, 2021
+msg:早餐不錯。
+----------------------------------------
+name:B‍a‍l‍i‍w‍u‍y‍u‍n‍z‍h‍a‍o
+info:Excutive king room
+info:Stayed in March 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 11, 2021
+msg:服務態度特別好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe twin room
+info:Stayed in April 2021
+info:Other
+info:31 Reviews
+rating:5
+posted:Posted June 26, 2021
+msg:環境非常好
+----------------------------------------

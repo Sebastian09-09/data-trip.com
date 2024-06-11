@@ -1,0 +1,268 @@
+name:D‍x‍i‍a‍o‍f‍a‍n
+info:Business King Room
+info:Stayed in June 2024
+info:Family
+info:16 Reviews
+rating:2.3
+posted:Posted June 9, 2024
+msg:房間裝修味道大，早餐説是九點半閉餐，但是基本八點半就沒有了，餐廳基本沒有服務員，閉餐時候出來收拾的人倒是一堆。無人管理。打掃衞生不停的問你續住不，不續住就不提供水，泳池不乾淨。設施不錯，但是不配五星，也不配五百➕的價格。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+rating:3
+posted:Posted May 23, 2024
+msg:大堂很大氣，房間佈置大方，總體感覺不錯。由於開業僅半年多，有些方面有待改進和提高:1、沒洗衣房，房間裏晾衣服不方便。2、​熱水很慢且不熱，放了好長時間才出來温水，冬天洗澡尤其要注意（我們住11樓）3、前台​服務員業務不太熟練，很長時間才辦理完入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:酒店乾淨衞生。新的裝修。很有格調。房間很舒服。房間很大，床墊睡起來很舒服。床上用品也很好。推薦入住吧。300多住一個普通的酒店，真的不如來這兒住這個五星級酒店。
+----------------------------------------
+name:C‍h‍a‍o‍r‍e‍n‍t‍o‍n‍g
+info:Business King Room
+info:Stayed in June 2024
+info:Family
+info:3 Reviews
+rating:4.8
+posted:Posted June 10, 2024
+msg:房間很好，到的比較晚了前台看我帶孩子幫我升級了房型，特別貼心。房間軟硬件設施都不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in May 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:來山陽旅遊，酒店環境衞生好，設施齊全，附近出行便利，服務人員態度好，房間床品衞生乾淨，比較有設計感，下次出遊還會選
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in May 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:房間乾淨，整潔，隔音效果好，服務很好，設施齊全，有游泳池和健身房，早餐也不錯，餐廳很寬敞。停車位多，方便停取。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Family
+rating:1.5
+posted:Posted May 11, 2024
+msg:酒店門面確實挺大，裏面設施跟標註的星級還是不太匹配，普通舒適性酒店差不多，服務也很一般，礦泉水還收費，收這個價格和服務根本不匹配，最生氣的地下停車場也沒有任何提示，酒店電梯口那條路線特別高的一個門檻，車輛底盤嚴重受損，車底盤護甲都變形了，跟酒店説，衹是説反饋一下然後給我回復，這麼久了也沒回復，大家下地下室一定注意，轎車根本過不去，肯定卡底盤
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in May 2024
+info:Couples
+info:6 Reviews
+rating:4.2
+posted:Posted May 5, 2024
+msg:衞生較差，床上有頭髮，換了一間房子竟然還是有頭髮，沙發上還有小食品的殘渣，衞生間地面上明顯的水澤，還好服務員態度特別好，趕快重新清理了，房間布草很舒服，房間安靜，寬敞，早餐豐富，總體來説性價比高，希望以後衞生方便得以改善。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive King Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:4.1
+posted:Posted May 6, 2024
+msg:設施很新，酒店位置裝修也很好，但是房間內新裝修的味道比較大，而且水壓很小，熱水也是時斷時續基本無法洗澡。最要命的是第二天晚上空調製冷模式吹出的是熱風，房間直接升到30多度，折騰了大半夜也沒修好，實在無語。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive 2-bed Room
+info:Stayed in May 2024
+info:Couples
+info:2 Reviews
+rating:0.5
+posted:Posted May 6, 2024
+msg:體驗感極差，前台登記房間磨磨唧唧，等了半天，給交代的送小童洗漱用品直到退房都沒見到，半夜十一點多竟然有陌生人用其他房卡刷開房間進來，給酒店反饋打了三次電話才有人過來處理，衹是不停的説工作人員搞錯了，然後就再沒有然後了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in June 2024
+info:Other
+rating:5
+posted:Posted June 8, 2024
+msg:來掛壁公路和水庫玩，晚上來山陽住，入住了這個家酒店。酒店是新開的，環境很好，在西安應該至少要1000左右的價位。前台小姐姐服務很好，很愉快的入住體驗。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Family
+rating:5
+posted:Posted May 26, 2024
+msg:很棒的5星級酒店，價格適中，早餐自助很豐富，酒店乾淨，入住送了迎賓水果，臨走送了小禮物，整體入住感覺很不錯，希望服務再做細一點，天熱礦泉水可以多送一點。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in May 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:房間的設施，衞生，服務都非常棒。
+歡迎水果:也不錯。有一點美中不足，就是房間裏的無線信號不好到了走廊裏就好了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:4
+posted:Posted June 2, 2024
+msg:環境挺好，但送的水果是亂的，顯示有送伴手禮，問服務員，服務員説不知道，説是給問，到最後一直沒有回覆
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+rating:5
+posted:Posted May 29, 2024
+msg:酒店大廳高端大氣，房間乾淨衞生，價格合理。停車很方便，下了電梯就是車庫。#停車免費停車，很方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in June 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted June 11, 2024
+msg:房間不錯，前台小姐姐人也很好，個人認為是山陽最舒服的酒店了。
+----------------------------------------
+name:L‍i‍u‍a‍l‍i‍u‍m‍i‍n‍y‍i
+info:Business King Room
+info:Stayed in May 2024
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted May 13, 2024
+msg:酒店服務很好，設施設備齊全很新，工作人員很熱情，下次還選擇住他家店
+----------------------------------------
+name:Z‍S‍Y‍&
+info:Business King Room
+info:Stayed in May 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:房間很大很乾凈，服務員態度很好，基礎設施很棒哦，還有歡迎水果
+----------------------------------------
+name:x‍y‍y‍y‍y‍y‍7‍7
+info:Business 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 12, 2024
+msg:體驗不錯 酒店裝修很大氣，衞生服務也很好，強烈推薦！！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in June 2024
+info:Other
+rating:5
+posted:Posted June 9, 2024
+msg:前台小姐姐服務很好，入住體驗很滿意，酒店高大上
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in May 2024
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted May 29, 2024
+msg:很棒，縣城能有這樣的酒店很驚喜，性價比超高
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in May 2024
+info:Solo travelers
+info:4 Reviews
+rating:3.5
+posted:Posted May 20, 2024
+msg:服務就那樣吧，一點都不像五星級的酒店！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in April 2024
+info:Other
+rating:5
+posted:Posted May 10, 2024
+msg:總的來説還不錯，各方面都還是令人滿意的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in June 2024
+info:Family
+info:1 Review
+rating:3.7
+posted:Posted June 9, 2024
+msg:新酒店房間有味，服務態度不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted May 7, 2024
+msg:陝南地區最好的酒店沒有之一。
+----------------------------------------
+name:T‍o‍u‍r‍d‍a‍p‍e‍n‍g
+info:Business 2-bed Room
+info:Stayed in May 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:設施：特別乾淨
+環境：優美
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business King Room
+info:Stayed in May 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted May 18, 2024
+msg:房間舒適，入住體驗很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in May 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted June 9, 2024
+msg:都挺好的，
+環境：好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in May 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 11, 2024
+msg:環境好，服務周到.
+----------------------------------------
+name:T‍a‍o‍t‍i‍e
+info:Business 2-bed Room
+info:Stayed in May 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 12, 2024
+msg:很不錯的酒店
+----------------------------------------
+name:L‍u‍s‍u‍o‍f‍u‍c‍e‍z‍h‍a‍n‍g‍j‍u‍z‍h‍e‍n‍g
+info:Business King Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 29, 2024
+msg:體驗還不錯
+----------------------------------------

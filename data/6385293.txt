@@ -1,0 +1,664 @@
+name:E‍r‍s‍h‍i‍b‍a‍z‍h‍e
+info:Business Queen Room
+info:Stayed in April 2024
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:I didn't expect that there is such a good hotel in Liangshan, which is comparable to the five-star hotels in Beijing, Shanghai and Guangzhou. The breakfast is also very rich. The key is that the price is low.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 13, 2024
+msg:Liangshan Fuyuan International Hotel has a beautiful, comfortable, sanitary environment, and thoughtful and considerate service. It is a very good travel choice.
+----------------------------------------
+name:M‍a‍c‍h‍e‍0‍3‍7‍1
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:4.7
+posted:Posted February 12, 2024
+msg:Parking is very convenient, the hotel is luxurious and comfortable, the surrounding environment is good, the breakfast is also rich, and the room is equipped with drinks and fruits. However, the bathroom door is not easy to use and is stiff.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 31, 2024
+msg:It's OK. The environment is OK.
+----------------------------------------
+name:S‍u‍i‍y‍u‍e‍f‍e‍n‍g‍c‍h‍e
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:74 Reviews
+rating:4
+posted:Posted October 18, 2023
+msg:The front desk service is quite polite and makes people feel particularly good. The room is clean. Unfortunately, I can't check out late. After communicating with Ctrip customer service, I added half a day's room rate to extend my stay within 6 hours. The breakfast is relatively simple and average. The overall hotel is good.
+----------------------------------------
+name:Z‍h‍a‍o‍q‍i‍p‍o
+info:Business 2-bed Room
+info:Stayed in January 2024
+info:Family
+info:19 Reviews
+rating:5
+posted:Posted February 8, 2024
+msg:In Liangshan, the environment and service are very good, and the price-performance ratio is reasonable. But after so many years, a deposit is still required~
+----------------------------------------
+name:A‍l‍i‍c‍e‍s‍o‍n‍g
+info:Business 2-bed Room
+info:Stayed in June 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted June 30, 2023
+msg:The room is very clean and not far from Shuihu Village. There are many varieties for breakfast. I will choose to stay here next time I come. When checking in, you are asked to pay a deposit of 300 for each room.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted March 17, 2024
+msg:Facilities: Complete facilities
+Service: Warm and thoughtful service
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:32 Reviews
+rating:2.7
+posted:Posted February 25, 2024
+msg:The hot water in the room is not hot, only warm water in winter
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in August 2023
+info:Business travelers
+info:23 Reviews
+rating:3.7
+posted:Posted August 27, 2023
+msg:1. Five-star hotels only give 2 bottles of water, but Jinmailang still does. Some Hanting hotels even offer a farmer’s drink. It’s very hot in summer and it’s not enough. If I say it’s too hot, I’ll give 2 more bottles. I said five-star water is too low. Oranges are available all season. 3 stars are also farmers. When I said there was Yibao, I said my room was Jinmailang. After talking for a long time, I gave three bottles of Yibao 330ml. Is the cost 5 yuan?
+2. Mainly because I wasn’t hungry. I had lunch at 3:30 in the afternoon and was too lazy to take out. When I saw there was a meal available, when ordering, it was told that we would charge a 15% handling fee for five-star meals. That was fine, but at the beginning, I had to round up the 1.5 yuan into 2. Yuan, it made me laugh. I said this, you can wipe out the change for me. Do you have legal support to overcharge me? Later I saw the hot pot noodles on my table for 8 yuan. It was super small but it was ok even if I wasn’t hungry. It turned out that the payment was based on 10 yuan for hot pot noodles. I called and was told that the price list in the house was old and had not been updated. How funny are you so good at supporting five-star level? It doesn’t cost much, but isn’t this considered fraud?
+3. However, the breakfast is still okay. If it is good, then it is not good. I hope the hotel will strengthen its management and at least have unified prices for food orders. There are also five-stars that must have five-star standards.
+----------------------------------------
+name:L‍i‍h‍u‍z‍i
+info:Business Queen Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 30, 2023
+msg:The hotel is relatively comfortable and quiet. The breakfast is also very rich. There are free fruits delivered in the evening. I will choose Fuyuan next time
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in July 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:It was quite unexpected to encounter such a hotel in a county-level city. It is very smart, with a special food delivery robot, safe, and the attitude of the waiters is also very good. It is worthy of being a gathering place for Liangshan heroes.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 26, 2023
+msg:The room was very clean and the supplies were very complete. The hotel's soundproofing was also good and I slept very well.
+----------------------------------------
+name:M‍i‍a‍o‍m‍i‍a‍o‍j‍i‍n
+info:Business 2-bed Room
+info:Stayed in October 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted October 21, 2022
+msg:The meal I ordered was a little off. I checked in late. I ordered two dishes and a seafood soup with dumplings. It was a small bowl of egg soup. The price was 28 for a small bowl.. Other things were good. Breakfast was also good👍
+----------------------------------------
+name:P‍e‍n‍n‍y‍L‍e‍e
+info:Business Queen Room
+info:Stayed in April 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted April 24, 2023
+msg:High cost performance, good service!
+It is within walking distance from the subway station and the Bird's Nest!
+The room is clean and newly decorated!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in October 2022
+info:Business travelers
+info:2 Reviews
+rating:2
+posted:Posted October 14, 2022
+msg:Because of the epidemic control in Huajin, I had to choose Fuyuan. The price was 386, and the experience was 86. Especially the facilities, they were too old. This was my first and last stay.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:7 Reviews
+rating:1
+posted:Posted March 9, 2023
+msg:The service attitude is extremely bad. The security guard yelled and yelled when people were registering, like a ***. I complained to the front desk about the security guard, but the front desk said they were new and didn't know anything. There was no duty manager either. They were obviously perfunctory to the guests. It's a rubbish hotel with no place to complain.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in February 2023
+info:Business travelers
+info:12 Reviews
+rating:1.5
+posted:Posted April 11, 2023
+msg:This is an old hotel. The sewer smells bad.
+The air conditioning pipes in the room are noisy.
+The facilities are old and the front desk service is very poor!
+The gym is not allowed to be used and the lights are not turned on!
+The breakfast is very poor
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in June 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 11, 2022
+msg:In the current epidemic situation, the hotel's epidemic prevention is relatively strict, which makes us feel very safe. The hotel service is very enthusiastic, the room is clean and sanitary, the breakfast is very rich with many varieties, and they also gave us swimming tickets. After swimming, we didn't even climb Liangshan, haha
+----------------------------------------
+name:B‍u‍d‍i‍n‍g‍d‍i‍n‍g‍m‍a
+info:Business 2-bed Room
+info:Stayed in July 2022
+info:Family
+info:31 Reviews
+rating:4.5
+posted:Posted August 1, 2022
+msg:When checking in, my brother left his balloon in the lobby. We didn't notice it. He told us about it when he passed by the next day. He found it. My brother was very happy. The hotel has a swimming pool. The children had a lot of fun. Check-out can be delayed until 2 o'clock. It's very good. The facilities in the house are old. The shower water temperature is unstable. The shower is not easy to adjust. I don't like the smell of the carpet. The breakfast is OK. The hotel's own takeaways ordered at noon and dinner taste OK. The service charge is acceptable, but the experience is not good without informing in advance. Overall good review
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in August 2021
+info:Solo travelers
+info:10 Reviews
+rating:3
+posted:Posted August 15, 2021
+msg:First time staying, overall evaluation: very disappointed, the facilities are five-star, but the sanitary conditions are not as good as chain hotels...
+·The towel is black;
+· The toilet lid is dirty;
+·The shower nozzle is covered with scale stains;
+· The surface of the bed is stains, not works of art!
+·The desktop should be cleanable;
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2021
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted July 19, 2021
+msg:The common room is gone, the luxurious floor recommended by the front desk, the room is still quite good, the service is in place, clean and sanitary, and the view is wide. The main thing is to send free swimming tickets. There are not many people in the swimming pool. It is very good. Liangshan is absolutely the only one. Swimming card, I gave another goggles, wow. In addition, I found that there is a lake behind the hotel, which is great for taking a walk at night.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in July 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 6, 2021
+msg:The best hotel in Shuibo Liangshan, the lobby is tall, the room has a wide view, the front desk service is enthusiastic, the room sanitation is very good, the hot water is very hot, and the air conditioning is very cool.
+Personal recommendation-the executive small bar is good, and the drinks that are not available in other hotels in the county are all available, exquisite!
+The staff was very enthusiastic and gave me a ticket to the Folklore Garden (the next time I have a chance, this time I’m too in a hurry to give it to my friend), and the bath and swimming pool are all free tickets, which is a bit a**ospheric.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in June 2024
+info:Business travelers
+info:1 Review
+rating:3
+posted:Posted June 6, 2024
+msg:商務出差,服務設施不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business suite
+info:Stayed in September 2023
+info:Business travelers
+info:46 Reviews
+rating:5
+posted:Posted November 25, 2023
+msg:位置好，服務好，房間設施略顯陳舊，早餐豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:4 Reviews
+rating:1
+posted:Posted December 15, 2023
+msg:前台服務很不好，説話特別生硬。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in November 2021
+info:Family
+info:35 Reviews
+rating:3.7
+posted:Posted November 23, 2021
+msg:這個酒店有些不太滿意的細節，一是水龍頭花灑不行，水小，水温也不夠，洗澡很不舒服，二是房間總會發出這樣那樣的聲音，開始是蓄電池充電的聲音，大概2，3分鐘來一次，來檢修的師傅確認後稱沒有辦法解決除非換房，到半夜又有種新的聲音發出，像是空調發出的聲音，總之感覺差了點。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in September 2023
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted October 12, 2023
+msg:感覺和精品一樣，但是費用高了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in September 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted September 28, 2023
+msg:老牌酒店，服務挺好，也挺乾淨
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in July 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted July 30, 2023
+msg:一個小縣城有這樣的酒店服務非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:14 Reviews
+rating:4
+posted:Posted March 7, 2023
+msg:酒店在當地算是比較好的，但是下面有洗浴，有吃飯，有點亂
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in April 2024
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted June 4, 2024
+msg:常住環境不錯
+----------------------------------------
+name:2‍0‍5‍0‍2‍1‍2‍2‍8‍8
+info:Business suite
+info:Stayed in May 2024
+info:Business travelers
+info:60 Reviews
+rating:3.7
+posted:Posted May 13, 2024
+msg:周邊美食街
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in August 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:豪華，堪比五星級。特別棒
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted October 21, 2023
+msg:床墊枕頭軟硬適中
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in June 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted July 8, 2023
+msg:還可以吧！！！！！！！？
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted November 13, 2023
+msg:交通方便，乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted January 23, 2023
+msg:位置不錯，近水泊梁山景點，乾淨衞生，服務態度也不錯。推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in June 2021
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted June 25, 2021
+msg:酒店大廳氣派，房間空間大，很舒服，衞生乾淨，工作人員態度很熱情，早餐豐盛，性價比高。交通方便。
+----------------------------------------
+name:J‍u‍n‍c‍h‍e‍n‍g‍z‍h‍u‍a‍n‍y‍u‍a‍n‍y‍i‍8‍0‍2
+info:Business Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 30, 2023
+msg:很不錯滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 26, 2023
+msg:衞生條件很好，客服服務到位。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in August 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted September 8, 2023
+msg:不錯，還行。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in May 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted June 7, 2023
+msg:總體來説還不錯～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted February 26, 2023
+msg:環境衞生和服務都不錯
+----------------------------------------
+name:D‍a‍x‍u‍e‍p‍i‍a‍o‍p‍i‍a‍o‍9‍9‍9‍8
+info:Business 2-bed Room
+info:Stayed in May 2023
+info:Business travelers
+info:30 Reviews
+rating:5
+posted:Posted May 30, 2023
+msg:環境位置都很好
+----------------------------------------
+name:N‍a‍t‍h‍a‍n‍W‍i‍l‍s‍o‍n
+info:Business 2-bed Room
+info:Stayed in October 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 16, 2021
+msg:停車方便，衞生乾淨，服務員態度很好，早餐好吃，豐富，在房間裏眺望縣城，一覽無餘，晚上華燈打開很是漂亮。下次回來還是住這個酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in August 2022
+info:Business travelers
+info:2 Reviews
+rating:3
+posted:Posted August 17, 2022
+msg:服務不錯，房間設施一般，不推薦。
+----------------------------------------
+name:Y‍o‍u‍h‍a‍n‍b‍i‍n‍g
+info:Business 2-bed Room
+info:Stayed in September 2021
+info:Other
+info:32 Reviews
+rating:5
+posted:Posted September 16, 2021
+msg:整體，不錯 軟硬件服務都不錯。早餐中規中矩。在梁山應該是數一數二的，配套也比較全。入住建議國際，值得推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in August 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted August 13, 2021
+msg:房間設施齊全，床品舒服，房間採光不錯，衞生也搞的挺好的，前台服務人員素質高，早餐品種豐富，總體物超所值，富源值得選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in September 2021
+info:Business travelers
+info:16 Reviews
+rating:2.7
+posted:Posted September 3, 2021
+msg:房間一股子怪味。馬桶蓋看上去有污漬。這種級別的酒店，早餐9.30就沒有了。唯一還湊合的就是價格不算貴。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in April 2023
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted July 14, 2023
+msg:不錯不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in August 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 15, 2021
+msg:早餐豐盛，地理位置非常好，不遠處就是車站，出行非常方便，服務人員非常熱情，房間很大，設施齊全，強烈推薦
+----------------------------------------
+name:s‍c‍h‍1‍1‍0‍1‍0‍6‍2‍7
+info:Business 2-bed Room
+info:Stayed in August 2022
+info:Friends
+info:12 Reviews
+rating:5
+posted:Posted August 8, 2022
+msg:非常好的酒店，服務態度好！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in August 2021
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted October 26, 2021
+msg:酒店交通便利，前台小哥哥小姐姐服務熱情，認真，房間乾淨整潔，早餐挺豐富的，總體下來還是很滿意滴
+----------------------------------------
+name:G‍u‍d‍e‍n‍g‍m‍o‍l‍u
+info:Business 2-bed Room
+info:Stayed in October 2021
+info:Business travelers
+info:67 Reviews
+rating:4
+posted:Posted December 21, 2021
+msg:酒店還算可以，周邊吃飯的也挺多，而且進酒店就會送口罩，服務也不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in August 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 16, 2021
+msg:位置就在汽車站附近  交通便利  環境舒適 早餐也很不錯 強烈推薦
+----------------------------------------
+name:s‍u‍m‍m‍e‍r
+info:Business Queen Room
+info:Stayed in September 2021
+info:Other
+info:19 Reviews
+rating:5
+posted:Posted September 29, 2021
+msg:賓館裝修新，設施不錯，晚餐飲料提升一下水兑的也得差不多
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in November 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 1, 2021
+msg:設施齊全，衞生條件很好！服務也很貼心！
+----------------------------------------
+name:M‍a‍t‍t‍e‍o‍C
+info:Deluxe Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted December 18, 2021
+msg:非常不錯，性價比高，服務熱情！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in August 2021
+info:Business travelers
+info:50 Reviews
+rating:5
+posted:Posted August 28, 2021
+msg:非常乾淨。服務員態度非常好。下次還會預訂
+----------------------------------------
+name:H‍e‍e‍r‍x‍i‍n‍b‍a‍o‍l‍i‍x‍i‍a‍n‍g‍j‍u‍n
+info:Business 2-bed Room
+info:Stayed in August 2021
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted August 18, 2021
+msg:在梁山，性價比很高的地方了，早餐也不錯
+----------------------------------------
+name:t‍i‍a‍n‍l‍a‍n‍g‍z‍i
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:9 Reviews
+rating:3.7
+posted:Posted August 28, 2021
+msg:酒店有些老了，設施陳舊明顯，其他方面還好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:14 Reviews
+rating:3.7
+posted:Posted August 11, 2021
+msg:在梁山這裏還是很不錯的酒店了 設備比較新
+----------------------------------------
+name:W‍y‍i‍n‍u‍o‍q‍i‍a‍n‍j‍i‍n
+info:Deluxe 2-bed Room
+info:Stayed in October 2021
+info:Business travelers
+info:76 Reviews
+rating:3
+posted:Posted October 11, 2021
+msg:早餐不行，前面服務一般。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in September 2021
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted January 7, 2022
+msg:還行在梁山應該算高檔的了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in December 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 18, 2021
+msg:適合出差旅遊住宿
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Queen Room
+info:Stayed in August 2021
+info:Other
+info:7 Reviews
+rating:5
+posted:Posted September 23, 2021
+msg:性價比不錯，安靜清潔。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted October 16, 2021
+msg:超出預期，很不錯
+----------------------------------------
+name:L‍o‍n‍g‍j‍u‍n‍h‍o‍n‍g
+info:Business Queen Room
+info:Stayed in August 2021
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted August 20, 2021
+msg:環境很好，衞生乾淨
+----------------------------------------
+name:A‍n‍d‍y
+info:Business Queen Room
+info:Stayed in January 2022
+info:Business travelers
+info:2 Reviews
+rating:4
+posted:Posted January 12, 2022
+msg:酒店位置好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business 2-bed Room
+info:Stayed in August 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 11, 2021
+msg:服務周到，住的舒服
+----------------------------------------
+name:D‍i‍s‍h‍i‍b‍a‍t‍i‍a‍n
+info:Business 2-bed Room
+info:Stayed in August 2021
+info:Booked for others
+info:23 Reviews
+rating:5
+posted:Posted August 21, 2021
+msg:句句扶持創業
+----------------------------------------

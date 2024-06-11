@@ -1,0 +1,3139 @@
+name:M‍i‍s‍s‍T‍a‍y
+info:Deluxe Suite - 2-Room
+info:Stayed in April 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:Hotel is clean! Staffs are friendly! Location is convenient!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:4.5
+posted:Posted May 9, 2024
+msg:Location: very good
+Cleanliness: very good
+Room size: more than enough for 2 persons.
+
+Special shout out to Ms Hayley from reception. She went the extra effort to help me make an online delivery. With my limited knowledge of chinese, she was quick to offer help.
+Unlike her colleague, a man by the name Cong, who was relectant to help even when I asked.
+----------------------------------------
+name:A‍n‍d‍r‍e‍y‍ ‍G‍a‍v‍r‍i‍l‍o‍v
+info:Superior Room
+info:Stayed in October 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 23, 2023
+msg:Nice Hotel with very friendly reception staff. Clean and good size room. A lovely view of the city from the windows. Very good breakfast. Two good size bottles of water provided.  Close to the shopping mall, restaurants and steps away from subway station. A really good choice for a Canton Fair visitor, would certainly stay again.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in March 2024
+info:Family
+rating:5
+posted:Posted March 23, 2024
+msg:5 minute walk to GrandView mall, facilities showing sign of old, but still in great condition.
+----------------------------------------
+name:G‍a‍r‍r‍y
+info:Superior Room
+info:Stayed in May 2024
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted June 4, 2024
+msg:Good and friendly staff. Reasonable pricing. Will visit again.
+----------------------------------------
+name:H‍o‍n‍g
+info:Superior Room
+info:Stayed in December 2023
+info:Couples
+info:2 Reviews
+rating:3.7
+posted:Posted January 1, 2024
+msg:House keeping was excellent. Dryer did not work and door lock is broken replace and fix it immediately. Reception has 1 not helpful the rest was excellent.
+----------------------------------------
+name:F‍r‍a‍n‍k‍i‍e‍0‍9‍0‍2
+info:Superior Suite - 2-Room
+info:Stayed in February 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:Very good and pleasant experience. It’s good to refer friends and couples
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:4.5
+posted:Posted July 1, 2023
+msg:Good location.  Close to all the major shopping area
+----------------------------------------
+name:W‍A‍-‍F‍r‍a‍n‍k
+info:Deluxe Boutique Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:23 Reviews
+rating:4.7
+posted:Posted October 5, 2023
+msg:The place is good and comfortable.
+Convenience store is just opposite to the hotel. You can buy anything that you want.
+The room have kitchen and can cook what you want to eat.
+Unfortunately, no pan or wok provided.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in September 2023
+info:Family
+info:4 Reviews
+rating:4
+posted:Posted September 18, 2023
+msg:Very convenient location, lots of eateries close by, staffs were very friendly especially those greeting at the main door were very attentive and pleasant.
+----------------------------------------
+name:I‍m‍e
+info:Deluxe Boutique Double Room
+info:Stayed in October 2023
+info:Couples
+info:28 Reviews
+rating:5
+posted:Posted October 28, 2023
+msg:Home away from home. Studio with washing machine is very handy while traveling.
+----------------------------------------
+name:W‍i‍l‍l‍i‍a‍m‍ ‍A‍n‍d‍r‍e‍w
+info:Superior Room
+info:Stayed in March 2023
+info:Solo travelers
+info:21 Reviews
+rating:5
+posted:Posted March 8, 2023
+msg:A great experience and so many kind, helpful people.
+----------------------------------------
+name:K‍i‍n‍g‍ ‍J‍u‍l‍i‍a‍n
+info:Deluxe Boutique Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:6 Reviews
+rating:3.5
+posted:Posted August 27, 2023
+msg:Location is superb but there was some noise from the building which i didn’t appreciate.
+----------------------------------------
+name:K‍a‍t‍r‍i‍n
+info:Superior Room
+info:Stayed in January 2023
+info:Couples
+info:12 Reviews
+rating:5
+posted:Posted January 3, 2023
+msg:Was a Great stay in the hotel. Location perfect, great Western breakfast!
+----------------------------------------
+name:V‍i‍a‍c‍h‍e‍s‍l‍a‍v
+info:Superior Room
+info:Stayed in May 2023
+info:Business travelers
+info:7 Reviews
+rating:4.7
+posted:Posted June 6, 2023
+msg:Hotel has a perfect location in GZ city center just walking distance to malls, computer market and nice restaurants. Highly recommended for a long and short stays.
+----------------------------------------
+name:T‍o‍m
+info:Deluxe Boutique Double Room
+info:Stayed in August 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:Great location
+Good service 
+Hotel room was spacious and clean!
+----------------------------------------
+name:B‍e‍r‍n‍a‍r‍d‍ ‍S‍t‍e‍p‍h‍e‍n‍ ‍W‍i‍l‍l‍i‍a‍m‍s
+info:Superior Room
+info:Stayed in July 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 1, 2022
+msg:As a British national, I have stayed at the Oakwood Premier Guangzhou more than once. Both the staff, and facilities are professional, world class and consistently maintained to a high standard. Much appreciated for your fabulous hospitality. Thank you
+
+作为英国国民，我不止一次住在广州奥克伍德总理。工作人员和设施都是专业的、世界一流的，并始终保持在高标准。非常感谢您的盛情款待。谢谢
+----------------------------------------
+name:B‍e‍i‍j‍i‍n‍g‍B‍e‍n
+info:Superior Room
+info:Stayed in January 2023
+info:Couples
+info:17 Reviews
+rating:4.5
+posted:Posted January 26, 2023
+msg:Again beautiful… the only disturbing thing this time… the pool was closed. 
+
+All the rest is highly recommended!
+----------------------------------------
+name:T‍h‍a‍m‍p‍h‍a‍t‍a‍n‍a‍p‍o‍r‍n
+info:Superior Suite - 2-Room
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:4.7
+posted:Posted April 13, 2023
+msg:Good, large room, quiet and simple. Next door have a good coffee shop
+----------------------------------------
+name:N‍o‍v‍N‍o‍v
+info:Superior Room
+info:Stayed in October 2022
+info:Business travelers
+info:129 Reviews
+rating:4.7
+posted:Posted December 11, 2022
+msg:Good place for city center or airport transfer break, not difficult to access the new downtown
+----------------------------------------
+name:J‍o‍c‍e‍l‍y‍n‍ ‍L‍u‍i‍n‍g‍o
+info:Deluxe Suite - 2-Room
+info:Stayed in December 2021
+info:Friends
+info:7 Reviews
+rating:4.7
+posted:Posted December 27, 2021
+msg:My friends and I had a lovely time at Oakwood. We were upgraded to a suite overlooking a nice view of the city. Instead of having two rooms, we had 3 lovely rooms excluding the dining area, kitchen and living room. There was a steam bath feature in one of the bathrooms. Lovely! The only downside was the internet connection on the 32nd floor. It was not really great. Other than that, I had a lovely time and so did my friends. The service was great. The staff were all friendly and accommodating. The area is also in the city center. The malls are within walking distance. There is a Thai restaurant nearby if you fancy one.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in January 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted January 9, 2022
+msg:Great place in a very central location!
+----------------------------------------
+name:주‍정‍은
+info:Deluxe Boutique Double Room
+info:Stayed in September 2022
+info:Couples
+info:2 Reviews
+rating:4
+posted:Posted September 28, 2022
+msg:good～～^_^
+----------------------------------------
+name:R‍o‍u‍r‍o‍u‍M‍i‍r‍a‍n‍d‍a
+info:Superior Room
+info:Stayed in June 2022
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted July 9, 2022
+msg:pretty good
+----------------------------------------
+name:K‍a‍i‍x‍i‍n‍j‍i‍u‍h‍a‍o‍g‍r‍p
+info:Superior Room
+info:Stayed in May 2024
+info:Family
+info:22 Reviews
+rating:5
+posted:Posted May 17, 2024
+msg:The hotel is an apar**ent-style hotel with complete room facilities, including refrigerator, washing machine, microwave, and battery stove. You can cook. The location is also good. It is close to Grandview Place, Taikoo Hui, Grandview Plaza, and Parc Central. If you stay for a long time, this room type is useful. If you stay for one or two days, it will be a waste. The breakfast is average, and there are not many varieties.
+
+The reception service on the first floor is good, and they will come up to help with the luggage.
+----------------------------------------
+name:S‍h‍e‍n‍y‍o‍n‍g‍t‍i‍e‍g‍u‍a‍n‍y‍i‍n
+info:Superior Suite
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:3
+posted:Posted April 5, 2024
+msg:I stayed here once before and had a good impression of it.
+However, I found the hygiene to be worrying this time.
+Cockroaches were wandering around in the toilet late at night, and the shower room smelled like sewer after taking a shower.
+I was quite disappointed with this stay.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in March 2024
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted March 5, 2024
+msg:The location is very good. If you want to go shopping, the food is right next to it. It is also very close to the Pearl River on foot. It is a good choice for pop-up tours during holidays. It is very convenient to have a kitchen for a long stay on business trips.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in February 2024
+info:Family
+info:28 Reviews
+rating:5
+posted:Posted February 18, 2024
+msg:Great experience, second time staying here.
+
+Breakfast was great, omelette, coffee and beef brisket
+
+In Tianhe District, Zhengjia Plaza is just around the corner and very lively.
+
+The service staff are very nice
+----------------------------------------
+name:D‍o‍r‍i‍s‍l‍0
+info:Superior Suite - 2-Room
+info:Stayed in February 2024
+info:Family
+info:31 Reviews
+rating:5
+posted:Posted February 13, 2024
+msg:The location is convenient. It is convenient for traveling, shopping and eating. It is quiet, very comfortable and feels like home. The service is beyond that of a five-star hotel. The response is very fast, meticulous and thoughtful. I will choose it again!
+----------------------------------------
+name:狗‍哥‍阿‍莫
+info:Superior Room
+info:Stayed in February 2024
+info:Solo travelers
+info:2 Reviews
+rating:4.5
+posted:Posted February 25, 2024
+msg:The bath water will be hot and cold at times, but otherwise everything is fine
+----------------------------------------
+name:G‍o‍r‍d‍o‍n‍ ‍餅
+info:Superior Suite - 2-Room
+info:Stayed in December 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted December 27, 2023
+msg:My daughter returned to Hong Kong for a vacation from the UK, so she moved in with her. There are two independent rooms, which are just right for us. The view is very open. The cleaning lady is very responsible and cleans the room very neatly every day. My daughter likes Oakwood very much. She said that in the future I will also stay here when I go to Guangzhou because there are many different restaurants around the hotel, as well as health centers and supermarkets, which is very convenient.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in January 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 26, 2024
+msg:I stay here every time I come to Guangzhou, it feels like home
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:2.5
+posted:Posted May 5, 2024
+msg:First of all, this 3-star service is for the brother in the lobby on the first floor. Thank you for helping with the pick-up in the rain. If it weren't for him, I would have given it 1 star. The last time I stayed was in early April, a month apart. The first feeling I had when I opened the door was a strong musty smell, which lasted until I left. There were still obvious hairs in the bathtub in the room, the edges of the bathroom were not cleaned and yellowed, the bedding was washed yellow and wet, the kitchen countertops were not cleaned and were broken into pieces, and I didn't dare to use the refrigerator and washing machine when I opened the door. The front desk who checked in had a dark face throughout the whole process. All my requests were verbally agreed, but they were not done! But the reception of foreign guests afterwards was a smile throughout the whole process. Didn't I spend money?
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in January 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted February 18, 2024
+msg:Complete facilities, hygienic and clean
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in September 2023
+info:Family
+info:35 Reviews
+rating:5
+posted:Posted October 1, 2023
+msg:The hotel is great. Just two steps away is Zhengjia Plaza. Luyun Tea House is also next to it. It is very convenient to have morning tea. Thank you very much for the front desk upgrading us to a room with a larger area. The most important thing is that there is no price increase during the National Day.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in March 2024
+info:Business travelers
+info:12 Reviews
+rating:3
+posted:Posted March 27, 2024
+msg:I chose a hotel with a swimming pool, but it turned out that it didn’t work, at the reception they casually gave me a key and a toothbrush, no one showed me to my room, and didn’t take my suitcase. When I wrote to Trip support, they ignored me. I wanted to cancel the reservation, but since the payment had gone through, I was waiting for my five-day stay to end. Leaving the hotel, I asked to take my suitcase to the taxi, since it was hard to carry up the steps, they tried to ignore me, but on the third attempt I forced the staff to do it! I do not recommend this hotel, choose the Best and Positive! I just threw my money away and was disappointed in Trip customer service!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in August 2023
+info:Couples
+info:8 Reviews
+rating:5
+posted:Posted August 19, 2023
+msg:The location is convenient, the room is spacious, and my husband received a free meal as a birthday gift on his birthday 🎁 Very attentive. I will go there again next time
+----------------------------------------
+name:W‍u‍s‍h‍u‍a‍n‍g‍.‍h‍u‍a‍n‍g‍g‍o‍n‍g‍z‍i
+info:Superior Room
+info:Stayed in February 2024
+info:Business travelers
+info:64 Reviews
+rating:5
+posted:Posted March 3, 2024
+msg:A classic brand apar**ent hotel with good quality rooms and complete facilities; the hotel is in a good location
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in February 2024
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted February 15, 2024
+msg:Except for the price, everything else is good. The boy in charge of reception on the first floor is attentive, considerate, warm-hearted, and always smiling.
+----------------------------------------
+name:女‍未
+info:Superior Room
+info:Stayed in August 2023
+info:Friends
+info:18 Reviews
+rating:5
+posted:Posted August 17, 2023
+msg:The location of the hotel is excellent, it is very convenient to go everywhere, nearby convenience stores/restaurants/shopping malls are very close, and there is a parking lot for parking. The room can be said to be very large, with everything you need in the bathroom, washing machine and kitchen. This time the experience is very good.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in February 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted February 24, 2024
+msg:The hotel is in a good location. It's quiet in the middle of the hustle and bustle. The big bed is very comfortable. It's cost-effective and the service is very good. Although it's my first time, I'm very impressed and will come back in the future.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in September 2023
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted December 4, 2023
+msg:The room size is very good, very suitable for two people traveling on business
+----------------------------------------
+name:A‍S‍D‍F‍-‍A‍s‍d
+info:Deluxe Boutique Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 7, 2024
+msg:The five-star apar**ent-style hotel near the company, Gaoda Shang, has a very good privacy letter and convenient transportation. It is convenient to travel. I don’t know that the electronic ID card cannot be used recently. It is recommended that the hotel apply for an electronic check-in system to make it more perfect. The electronic version has been popularized in all hotels.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2023
+info:Friends
+info:3 Reviews
+rating:4
+posted:Posted September 3, 2023
+msg:The service attitude of the hotel staff is good, and the location is very convenient. Downstairs is Grandview Plaza. The rooms are clean and spacious, making it very suitable for families with children^.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in January 2024
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted January 28, 2024
+msg:This is an apar**ent-style hotel with many room types to choose from. It has an open kitchen and is very convenient. It has various facilities. Although it has been open for a while, it is well maintained and the transportation is very convenient.
+----------------------------------------
+name:F‍u‍r‍u‍o‍y‍i‍-‍d‍e
+info:Superior Suite
+info:Stayed in January 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted January 28, 2024
+msg:This is a comfortable hotel with excellent facilities, services and location. The gym is also quite satisfactory and deserves to be recommended to more family and friends who are on business or leisure trips.
+----------------------------------------
+name:M‍o‍l‍i‍m‍e
+info:Superior Suite - 2-Room
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted April 13, 2024
+msg:I didn't have time to clean the room when I came back from going out at noon for two consecutive days. Everything else is good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in January 2024
+info:Solo travelers
+info:3 Reviews
+rating:2.7
+posted:Posted January 22, 2024
+msg:I booked this hotel because I wanted to swim, but the swimming pool was closed.
+There was a relatively strong odor in the corridor, but it improved after staying for two days.
+I wanted to check out later but was flatly refused and had to leave before 12 o'clock.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in July 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted July 23, 2023
+msg:Hygiene: very clean
+Environment: The location is very good, the core of the business district, convenient to travel
+Service: Very good service, super enthusiastic
+----------------------------------------
+name:S‍h‍i‍q‍u‍a‍n‍h‍e
+info:Superior Room
+info:Stayed in January 2024
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted January 14, 2024
+msg:Good location, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 2-Room
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 26, 2024
+msg:The hotel is very good, very satisfied. The room is large and has a very comfortable kitchen and laundry room. It is especially suitable for coming back to rest after a day with the baby. I will stay here again next time.
+----------------------------------------
+name:s‍a‍d‍e‍t‍t‍a
+info:Superior Room
+info:Stayed in July 2023
+info:Couples
+info:14 Reviews
+rating:5
+posted:Posted July 9, 2023
+msg:The most surprising thing about the hotel is the gym and swimming pool. The gym has a free bench press rack that other star hotels do not have. At the same time, the maximum dumbbell is 40kg, which can satisfy most fitness enthusiasts. The swimming pool is quickly spacious, and the semi-indoor design is more comfortable to swim in summer.
+The area that needs improvement may be that the curtains in the room are not black enough, which is not very friendly for people who need to sleep late. I was woken up several times by the light in the morning, and I hope it can be improved.
+----------------------------------------
+name:T‍s‍a‍i‍w‍e‍i
+info:Superior Room
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 9, 2024
+msg:There are a lot of delicious food nearby and the bed is very good. I would like to stay here next time.
+----------------------------------------
+name:T‍r‍i‍p‍ ‍g‍u‍e‍s‍t
+info:Deluxe Suite - 3-Room
+info:Stayed in December 2023
+info:Family
+info:2 Reviews
+rating:3.2
+posted:Posted December 26, 2023
+msg:The hotel is in a good location and has been open for more than ten years. The facilities are well maintained and the hygiene is acceptable.
+The parking spaces are thin and few in number.
+The professionalism and service attitude of the hotel front desk need to be improved.
+The overall service of the hotel is not up to standard and unsatisfactory.
+----------------------------------------
+name:b‍e‍e‍r‍7‍8‍x
+info:Superior Suite - 2-Room
+info:Stayed in June 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted June 17, 2023
+msg:The hotel room is very beautiful, the hotel service is in place, the facilities are complete, the surrounding environment is very good, it is convenient to travel, Line 1 and Line 3 are very convenient, and there are many special snacks around.
+----------------------------------------
+name:J‍C‍C‍O‍O‍K‍I‍E
+info:Superior Suite - 2-Room
+info:Stayed in December 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted December 11, 2023
+msg:Upgraded to a three-bedroom apar**ent. Large, clean, extensive facilities, beautiful scenery, and spacious room. Especially friendly for family travel. Highly recommended.
+----------------------------------------
+name:B‍o‍e‍n‍l‍i‍l‍i‍m‍i
+info:Superior Suite - 2-Room
+info:Stayed in May 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 14, 2023
+msg:It was the first time I stayed in this hotel, and the concierge was very kind. Because of our work, there were many couriers that needed to be collected or delivered on behalf of us. The staff were very enthusiastic to help with it. Because there are quite a lot of restrictions for foreigners, and there is no impatience when swiping the card. I will choose this hotel next time on a business trip😄😄
+----------------------------------------
+name:J‍h‍o‍n‍n‍y‍ ‍U‍c‍h‍i‍h‍a
+info:Superior Room
+info:Stayed in February 2024
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:Excellent location for people who like shopping and eating good food
+----------------------------------------
+name:张‍庭‍源
+info:Deluxe Boutique Double Room
+info:Stayed in May 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted May 6, 2023
+msg:The location is in the city center, and there are various levels of business circles nearby. The environment in the Fangyuan Building is quiet, and the service is very warm, and the hotel rooms are also very comfortable. Finally, I attach a night view of Guangzhou. I hope you all have a pleasant journey!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:4.2
+posted:Posted May 4, 2023
+msg:The location of the room is very good. You can walk to the core business districts such as Grandview Plaza, Taikoo Hui, and Tee Mall. You can drive to Chimelong Zoo, Circus, Shangxiajiu Pedestrian Street, Shamian, etc. within 30 minutes. If you want to talk about facilities, the room There is a kitchen, kitchen appliances, and a washing machine, which is convenient. The breakfast is average, and the bedding, toiletries, and decoration are average. It is still very expensive at around 1,500 a night in time for May Day and the Canton Fair. I am particularly satisfied with Eric, the doorman on the first floor. He is very handsome, looks very gentle, and the service is very good. He was the one who greeted and sent off on the first day when he came here and when he left. He took the initiative to help carry luggage. The only one staying in this hotel The five-star service is dedicated to him.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 3-Room
+info:Stayed in October 2023
+info:Friends
+info:50 Reviews
+rating:2
+posted:Posted October 28, 2023
+msg:The service attitude is really not good. The price has increased a lot due to the Canton Fair, and the temper at the front desk has become even worse. The waiter also asked her to come over and clean up. She looked reluctant and told her that she had worked hard, but she didn't even bother to give up. It made me angry that I had to pay for a high-end apar**ent while living in an ordinary rental house.
+----------------------------------------
+name:T‍o‍m‍ ‍B‍r‍a‍d‍y
+info:Superior Room
+info:Stayed in April 2023
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted April 22, 2023
+msg:I chose to stay in Oakwood Hotel Apar**ents for a business trip in Guangzhou. First of all, the location is absolutely convenient, located in the center of Tianhe, very close to Taikoo Hui. The hotel room is clean and hygienic. I really like the home appliances in the room, especially the laundry and drying equipment, which is good news for business travelers. The hotel staff are very friendly and the check-in process is very fast and easy. In particular, I would like to thank the reception staff at the door for being very active and enthusiastic every time to help open the door or carry luggage, and even ask if they need help calling a car. Especially recommended to friends who come to Guangzhou for business or pleasure!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 2-Room
+info:Stayed in April 2023
+info:Family
+info:4 Reviews
+rating:4.2
+posted:Posted April 9, 2023
+msg:Free upgrade to three bedrooms and one living room when you check in. The location is very good. It takes a few minutes to reach big shopping malls such as Zhengjia Tianhuan. The room is very clean and the furniture is so new. It's a pity that the TV in the bathroom of the master room is broken. I can't experience watching TV while showering 😂😂 The water power of the shower is a bit insufficient. Only the master room has a TV. It would be better if the other two rooms have TVs. When you are training, the air-conditioning vent in the room blows on the top of your head. I feel uncomfortable and want to get sick. If you can improve this problem, it will be a very good hotel. In addition, the breakfast environment is very good and the seats are very comfortable. Although there are not many food choices, the taste is not bad.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in September 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted December 20, 2023
+msg:I booked it for my colleagues, and most of them stayed here. The rooms are spacious and fully equipped, including a washing machine. Transportation and meals downstairs are also very convenient.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 3-Room
+info:Stayed in August 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted September 3, 2023
+msg:A family of six people visited Guangzhou. They originally stayed in a hotel, but it was more lively for a family to share a room, so they chose a three-bedroom suite here.
+The front desk is polite and efficient, and the check-in process is completed quickly. The unit is spacious and clean, comparable to a five-star hotel. It is quiet and comfortable. Everyone enjoys this high-quality rest environment. There are all kinds of restaurants and shopping nearby, which is convenient! I asked for more toilet paper in the middle of the night and the front desk staff responded politely and quickly.
+My family is very satisfied with these accommodations. Everyone said that they will definitely choose accommodation next time they come to Guangzhou.
+The only thing is that the dining room only serves four people
+Overall, it is a high-quality tourist facility
+----------------------------------------
+name:K‍a‍n‍ ‍哥
+info:Superior Suite - 2-Room
+info:Stayed in August 2023
+info:Family
+info:21 Reviews
+rating:5
+posted:Posted September 13, 2023
+msg:The hotel room is large and well-equipped, with convenient transportation nearby. The hotel has rich breakfast. Because we live in a high-rise building, the room is spacious. Next time I come to Guangzhou, I will definitely stay here again.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 3-Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 18, 2023
+msg:The service attitude is very good, the room is very clean, and the transportation is convenient. You can see the super beautiful night view of Guangzhou from the hotel. There are also many restaurants around, and there are many shopping malls to visit.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in August 2023
+info:Family
+info:56 Reviews
+rating:3.5
+posted:Posted September 17, 2023
+msg:The location is very good. It is surrounded by Guangzhou and is very convenient. The hotel is old and crowded, the interior design of the room is not reasonable, and the lighting is dim, making it uncomfortable to stay. Stayed for one night and moved.
+----------------------------------------
+name:F‍a‍n‍n‍i‍e‍l‍i
+info:Superior Suite - 2-Room
+info:Stayed in February 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted February 13, 2023
+msg:The room is great, clean and hygienic, good sound insulation, very quiet. The second bedroom is a setup of two bedrooms, two living rooms and two bathrooms. Both bedrooms are suites, which are very comfortable and meet the needs of families with teenagers going out.
+The transportation and restaurants around the hotel are very convenient. There are pedestrian streets and food streets nearby, and the lights are still brightly lit in the middle of the night.
+The front desk of the hotel is on the 15th floor of Fangyuan Building. It takes less than 5 minutes to check in and check out. The service is very good.
+----------------------------------------
+name:J‍o‍a‍n‍7‍8‍9‍9
+info:Deluxe Boutique Double Room
+info:Stayed in August 2023
+info:Family
+info:9 Reviews
+rating:4
+posted:Posted August 13, 2023
+msg:More suitable for business people, there is a relatively spacious kitchen in the room, equipped with washing machine, refrigerator, etc. General other facilities
+----------------------------------------
+name:S‍a‍m‍m‍y
+info:Deluxe Boutique Double Room
+info:Stayed in February 2023
+info:Solo travelers
+info:54 Reviews
+rating:4.5
+posted:Posted February 14, 2023
+msg:The location is superior, just across from Grandview Plaza, and there are various restaurants and delicacies in the nearby streets, very convenient! The room is quite satisfactory and spacious, and the gym is pretty good in an apar**ent hotel.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in January 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted February 8, 2023
+msg:The 2 bedroom suite was great, big enough and well designed. The view from the room is also very open~
+The service is also very good, including parking for a few cars and multiple breakfasts~
+And it's a truly pet-friendly hotel, any big dog is welcome!
+This is really great, I will bring my dog to stay next time~
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in February 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 7, 2023
+msg:Great hotel, very suitable for a family trip. You can cook and do laundry. The room is big and has a good view. Everything is very satisfactory. I can stay here again next time. The view of the breakfast restaurant is superb, I heard that it is specially used for birthday parties and marriage proposals:)
+----------------------------------------
+name:S‍a‍n‍g‍ ‍C‍h‍o‍i
+info:Superior Suite - 2-Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted August 9, 2023
+msg:The wifi doesn't work, none of the phones can see the room number's hotspot. I only see the hotspot with the name of the hotel, but I can't connect. Everything else is very good. Seeing that we are bringing young and old together, we arranged a room for us as quickly as possible. The staff is very enthusiastic and the service is very attentive.
+----------------------------------------
+name:B‍M‍’‍s‍ ‍m‍o‍m
+info:Superior Suite - 2-Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:The hotel upgraded our ￼two-bedroom to three-bedroom. We have prepared a crib in the room. The overall￼accommodation is very comfortable￼and the location is very convenient. There are￼several￼large shopping malls nearby
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in January 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted February 2, 2023
+msg:It's very good. The hotel has a good view and all the internal facilities. It feels like coming home. It's very suitable for accommodation. There are many places to eat and shop nearby. It's also very convenient for office work. The sofa and table don't have the scenery outside the window. I enjoy it very much.
+----------------------------------------
+name:L‍u‍a‍n‍s‍h‍e‍n‍g‍x‍i‍a‍n‍s‍h‍i
+info:Superior Suite - 2-Room
+info:Stayed in January 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted February 2, 2023
+msg:Very nice hotel, good location, many business districts around, and convenient transportation. The service attitude of the front desk and the lobby is good, and they take the initiative to help with luggage. Give me a late checkout so I don't have to rush to pack my luggage. Will choose again next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in January 2023
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted February 1, 2023
+msg:Accompanied my son to prepare for the IELTS test here and stayed in the hotel. I lived on the 18th floor, and the test was on the 11th floor. It was very convenient. After checking in, it feels very suitable for a long-term business trip.
+Facilities: Aparthotel, the highlight is that there is a kitchen and a washing and drying machine in the room.
+Hygiene: good.
+Environment: The hotel lobby, rooms, the supporting Aoshanfang Western Restaurant, and the commercial streets around Fangyuan Building are all very satisfactory
+Service: The application was 1 hour late, and I checked out at 13:00 to prepare for the exam. I agreed and was very satisfied.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 27, 2023
+msg:A very good hotel with unexpected quality and price. It is quiet in the middle of the bustle and hidden in the bustling center of the city. Because I mentioned it inadvertently, I was taken care of and upgraded the room when I checked in on the third day of the ***** New Year. The lobby manager can really consider issues from the perspective of customers. Seeing that there are children staying, I also specially prepared a set of children's toiletries and children's slippers, which is really hard work. The hotel is an apartment hotel, and the room has kitchen utensils and refrigerators, but there is no clam smell. The hotel is about 100 meters away from Grand View Plaza. Turn left a little to Central and Tee Mall, and turn left a little to Shipaiqiao Subway Station. The waiter is very polite. When they see it from afar, they will rush to get the luggage. When delivering the car, the two welcoming brothers also trot over. One is responsible for opening the door and the other is responsible for putting the luggage into the trunk. What does it mean to feel at home? That's it. I will come to this hotel again next time I come to Guangzhou, it's so worth it.
+----------------------------------------
+name:W‍o‍r‍l‍d‍_‍T‍r‍a‍v‍e‍l‍_‍M‍o‍m‍o
+info:Superior Room
+info:Stayed in July 2023
+info:Business travelers
+info:33 Reviews
+rating:4.7
+posted:Posted September 6, 2023
+msg:There are no other problems except that the facilities are slightly old. There may be other people who like this kind of old-school hotel.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in September 2023
+info:Couples
+info:1 Review
+rating:3.2
+posted:Posted October 3, 2023
+msg:The internet facilities are not good and the bathroom floor is very slippery
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 2-Room
+info:Stayed in July 2023
+info:Family
+info:7 Reviews
+rating:4.7
+posted:Posted July 20, 2023
+msg:The room is great, big and new, with a good view from the floor. I could have given it all five stars, but I have to complain about this underground parking lot. The parking space is so cramped that I, a twenty-year-old driver, was really nervous and it was a waste of effort.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:3.5
+posted:Posted July 16, 2023
+msg:The location of the hotel is great👍🏻very convenient. The hotel is a bit dilapidated, the cleaning is not very tidy, the air conditioner cannot be turned down, the room is not air-conditioned enough, and I feel sweaty 😔 It is still not recommended in summer!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2023
+info:Friends
+info:2 Reviews
+rating:3.2
+posted:Posted July 17, 2023
+msg:When I checked into the hotel, the front desk did not remind me that the parking lot was free and the license plate was registered, and the information was not entered after check-out. It's really outrageous that free parking has turned into normal parking.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in September 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 11, 2023
+msg:The hotel is in a good location and the apar**ent hotel is suitable for families
+----------------------------------------
+name:窮‍人‍食‍家
+info:Deluxe Boutique Double Room
+info:Stayed in July 2023
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted July 11, 2023
+msg:This is the second time I have stayed here. It was the first time that my family lived in a two-bedroom apar**ent. This time I stayed in a double room with my husband. I was very satisfied both times. The most important location is super convenient. It takes 5-7 minutes to walk to a big shopping mall. It is very convenient. Convenient for my shopping!
+I didn't take any photos this time, it matches the pictures on the Internet, don't worry, it would be better if the price is cheaper.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 3-Room
+info:Stayed in July 2023
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted July 11, 2023
+msg:Three bedrooms can have independent spaces without affecting each other.
+It’s great to be able to chat again in the evening!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 3-Room
+info:Stayed in August 2023
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted October 31, 2023
+msg:The rooms are luxurious and comfortable, and the service is excellent. The view is great
+----------------------------------------
+name:w‍a‍i‍ ‍s‍h‍a‍n‍ ‍e‍u‍g‍e‍n‍i‍a
+info:Superior Suite
+info:Stayed in July 2023
+info:Couples
+info:2 Reviews
+rating:4.7
+posted:Posted August 20, 2023
+msg:The hotel is located near Zhengjia Plaza. There are restaurants on the street open until 5 o'clock. There are also supper bars.
+The swimming pool is outdoor but covered. It's big enough. The indoor massage pool and sauna are also good.
+Only the hotel front desk service is poor. Not enthusiastic. Very cold.
+I stayed in a large suite but didn't have a fruit plate or special treats like normal hotels.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 10, 2023
+msg:The staff is very polite and the room is clean.
+It takes less than 10 minutes to walk to the subway station. Zhengjia Plaza is diagonally opposite￼. There are many 24-hour snack bars opposite￼👍🏻
+Special praise to the aunt who cleans the room￼￼👍🏻
+I will definitely stay here again next time I come to Guangzhou￼
+----------------------------------------
+name:c‍h‍e‍n‍g‍u‍m‍p
+info:Superior Room
+info:Stayed in October 2023
+info:Friends
+info:20 Reviews
+rating:5
+posted:Posted October 29, 2023
+msg:The location is very convenient and the decoration is very good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in December 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 28, 2022
+msg:It's very good, the service is good, check-in and check-out are very neat. Health is also good. It's right in the city center, it's very convenient for eating and shopping, I will choose his place next time.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in June 2023
+info:Couples
+info:6 Reviews
+rating:4.2
+posted:Posted September 12, 2023
+msg:The location is very good, the facilities are quite old, the decoration is very complicated, and the combination of bright red and pure black is very good.
+----------------------------------------
+name:l‍i‍n‍s‍o‍n‍e
+info:Superior Room
+info:Stayed in October 2022
+info:Solo travelers
+info:8 Reviews
+rating:5
+posted:Posted October 16, 2022
+msg:#staycation
+If you don’t go out on weekends, how can you spend two days and one night in the city center on weekends?
+
+Oakwood Hotel is located at the junction of Tiyu East Road and Tiyu Dongheng Road in Tianhe District. Fangyuan Building, where the hotel is located, is a western-style building that can be easily identified.
+
+The building has a total of 39 floors, and the 31st floor was occupied that day. The overall view is not bad, and you can overlook the Zhujiang New Town buildings: East Tower Chow Tai Fook Center, Evergrande Center, Pearl River City, Kingstown International, etc.
+
+1. The hotel is an apar**ent type, and it provides induction cookers, exhaust fans, ovens, microwave ovens, home refrigerators, dishwashers, and a complete set of dishes and even bread machines and coffee machines that are required in the kitchen, but I don’t need a lot of cooking. not on.
+
+2. The bathroom is actually equipped with a steam engine. Although there is no bathtub, it is a new experience to be able to take a shower and steam at the same time. The spare parts use a full set of Italian comfort zone brands, and the shampoo smells better. There is an all-in-one washer and dryer behind the bathroom door. Clothes after exercising can be washed that night, and closing the bathroom door has a great sound insulation effect, which does not affect watching TV and sleeping in bed after taking a shower.
+
+3. The restaurant in the sky is also an Internet celebrity restaurant. From the scene layout suitable for marriage proposals, to the pink bear doll composed of petals to accompany the single diners, to the dinner plates, teapots and other tableware, all reflect the exquisite hotel. and restaurant management concept.
+
+Overall, I am satisfied with this stay. The only small regret is that the swimming pool will not be open to the public during the maintenance period from October 1st to April next year. Don't run empty.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in June 2023
+info:Family
+info:5 Reviews
+rating:3.7
+posted:Posted June 4, 2023
+msg:I have stayed at this hotel before and I have always had a good impression. I chose a suite this time. The environment is still ok, the facilities are good and you can cook. However, the attitude of the front desk is really bad. I can't get through the phone call. I want a quilt. I was told that there was no extra quilt in such a big hotel. It was really strange. I wanted two bottles of mineral water when I went out the next day, but the front desk seemed unwilling to give them to me. Why did you send it to the room? You are so stingy. I probably won’t stay here again next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted December 3, 2023
+msg:Convenient location and complete facilities
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in January 2023
+info:Family
+info:21 Reviews
+rating:5
+posted:Posted February 1, 2023
+msg:Good service, good location, nice room
+----------------------------------------
+name:c‍n‍b‍l‍e‍e‍d
+info:Deluxe Suite - 2-Room
+info:Stayed in January 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted February 2, 2024
+msg:Good location. Clean and tidy room
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 3-Room
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:3
+posted:Posted April 11, 2023
+msg:The hotels are considered to be near the subway (Sports Center Station). The older hotels are just three hotels, and the transportation and weekly eating places are fine. It would be better if the hotel was newer
+----------------------------------------
+name:K‍e‍n‍t‍ ‍H‍o
+info:Superior Room
+info:Stayed in July 2023
+info:Business travelers
+info:16 Reviews
+rating:4.7
+posted:Posted July 23, 2023
+msg:Clean. There is a small kitchen, but the pot for cooking is missing.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in June 2023
+info:Friends
+info:18 Reviews
+rating:4.2
+posted:Posted June 10, 2023
+msg:The location is very good, the service is good, the room is big and a bit old
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 3-Room
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:2.7
+posted:Posted July 25, 2023
+msg:Everything else is fine, but it feels strange to have to pay twice
+----------------------------------------
+name:F‍l‍o‍r‍a‍ ‍h‍o
+info:Superior Room
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 13, 2024
+msg:Stylish and comfortable to live in
+----------------------------------------
+name:X‍i‍n‍ ‍。
+info:Superior Suite - 2-Room
+info:Stayed in March 2023
+info:Family
+info:26 Reviews
+rating:5
+posted:Posted March 23, 2023
+msg:The hotel is quite unexpected. The price/performance ratio is very high and the service in the city center is good.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in December 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted January 1, 2024
+msg:Good environment and good location
+----------------------------------------
+name:_‍S‍O‍O‍M‍I‍I‍I
+info:Superior Room
+info:Stayed in September 2022
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted September 18, 2022
+msg:A friend recommended this serviced apar**ent, and this time I came out to play with my husband to check in. When checking in, the front desk staff was very polite, and they were very patient and attentive when consulting some travel strategies. awesome! 💟
+Originally thought that the hotel would be old after so many years, but I didn't expect it to be so well maintained. It's the same as a hotel that has been opened for a year or two.
+From the appearance of the hotel, it has a European style and is very good. It satisfies my love of taking pictures! It looks good no matter how you take it. Especially the room at dusk time. 🌆...It's so beautiful!
+The hotel also has a semi-outdoor swimming pool and a gym. Taking pictures in the sunbathing area is very good. The hotel has many details and corners. The room has a city view from the opposite side. The feeling of being scattered high and low is a bit like Manhattan's immediate visual sense 🏙️
+
+The overall stay is very satisfactory. The room is also very clean. The Wi-Fi speed is also very fast. I can play video games and play games without getting stuck 🤣🤣.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in August 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 14, 2023
+msg:Great location, great service, views from the window.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in August 2022
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted August 24, 2022
+msg:A family of four lives in a two-bedroom, which is very spacious and suitable for bringing children while working. Hotel parking, the surrounding is very convenient. There is a washing machine, suitable for multi-day travel
+----------------------------------------
+name:S‍u‍m‍ ‍P‍o
+info:Deluxe Suite - 3-Room
+info:Stayed in January 2024
+info:Friends
+info:1 Review
+rating:4.5
+posted:Posted January 12, 2024
+msg:Not bad, worth recommending￼
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:20 Reviews
+rating:2.2
+posted:Posted February 7, 2023
+msg:The attitude is not very good, although my request was resolved later, but the attitude is not good,
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in August 2022
+info:Couples
+info:197 Reviews
+rating:4.2
+posted:Posted August 18, 2022
+msg:Transportation: very convenient and very close to Zhengjia~
+
+Hygiene: Auntie is also very serious about cleaning, and the room hygiene is also very good
+
+Environment: nice room
+
+Service: Attitude is ok
+----------------------------------------
+name:L‍i‍s‍a‍_‍A
+info:Superior Room
+info:Stayed in August 2022
+info:Family
+info:30 Reviews
+rating:5
+posted:Posted August 8, 2022
+msg:We stayed in a two-room apar**ent - a full-fledged Apar**ent with a beautiful panoramic view of the city in one of the rooms. The room has a large comfortable kitchen and everything for cooking in the room. Two shower rooms, one of which has a bathtub.
+
+Again, the breakfasts are rather poor, but we did not leave hungry. The variety of desserts was a bit lacking. They didn’t exist at all, it was just one kind of puffs.
+
+The restaurant is beautiful and the decor is very nice.
+
+Liked the pool. Pretty clean and convenient that it's connected to the street but closed from the sun. In the heat of the moment, this is a real lifesaver. I would like the water a little warmer - 26 degrees at 38 outside - cold 🙈
+
+The locker rooms have a hot jacuzzi and a sauna - a nice bonus.
+
+The hotel is clean, the staff is very friendly and always ready to help. The location is very convenient, there is even a PCR test tent within a minute's walk. It is very comfortable. You don't have to travel far.
+
+In a previous review, I already wrote about the proximity of attractions. It was convenient and we had great fun exploring the area on foot and visiting museums.
+
+The room has excellent soundproofing, from the bedroom you can not hear what is happening in the living room.
+
+The icing on the cake is a beautiful panoramic view to the west. Every evening we watched the sunset with the whole family.
+
+We will definitely come back here again.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in August 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted August 8, 2022
+msg:The environment is very good, clean and new, and the location is very convenient. It takes about ten minutes to walk to Grandview Plaza. I booked a suite with a large kitchen, free parking, and breakfast included.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in January 2023
+info:Family
+info:10 Reviews
+rating:4.7
+posted:Posted February 4, 2023
+msg:The room is spacious, the surrounding business district is very prosperous, there are delicious food everywhere, and it is convenient!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in January 2023
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted February 1, 2023
+msg:The hotel staff are enthusiastic, professional, and polite. The room facilities are clean and complete. The breakfast variety is not too many, but the quality is high. It meets our needs for a Western-style buffet breakfast. Overall, it is worth recommending
+----------------------------------------
+name:H‍Y‍O‍G‍O‍O
+info:Superior Room
+info:Stayed in April 2024
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted April 27, 2024
+msg:Clean and luxurious
+----------------------------------------
+name:V‍e‍r‍a‍y‍u‍m‍i‍n
+info:Superior Room
+info:Stayed in January 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted January 31, 2023
+msg:Located in the city center, the kitchen in the room is equipped with tableware, stove, coffee machine, microwave oven, and the bathroom has a washing machine with integrated washing and drying. It is very convenient to stay in this kind of hotel when traveling with children. There is also an internet celebrity afternoon tea on the 16th floor. The view outside the window is great. Eric in the front hall took the initiative to help carry the luggage into the car, and he was enthusiastic and active, marking a perfect end to this trip.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:1 Review
+rating:2.2
+posted:Posted December 29, 2023
+msg:The toilets are all blocked.
+----------------------------------------
+name:Y‍o‍u‍y‍i‍s‍i‍d‍e‍b‍a‍o‍m‍a‍d‍a‍i‍z‍h‍u‍o‍y‍o‍u‍y‍i‍s‍i‍d‍e‍b‍a‍o‍b‍e‍i‍j‍i‍n‍x‍i‍n‍g‍y‍o‍u‍y‍i‍s‍i‍d‍e‍l‍v‍x‍i‍n‍g‍～
+info:Deluxe Boutique Double Room
+info:Stayed in January 2023
+info:Family
+info:7 Reviews
+rating:2.5
+posted:Posted January 25, 2023
+msg:The price of the hotel is very high, but the internal environment is average, with a damp and musty smell
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 2-Room
+info:Stayed in July 2022
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted July 9, 2022
+msg:For home travel, the room is big enough, the floor is high enough, and I am very satisfied. The only small disadvantage is that there are mosquitoes
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in June 2023
+info:Family
+info:4 Reviews
+rating:4.5
+posted:Posted September 18, 2023
+msg:Excellent location, a good choice for family travel
+----------------------------------------
+name:W‍i‍l‍i‍o‍n
+info:Superior Room
+info:Stayed in June 2022
+info:Business travelers
+info:13 Reviews
+rating:4.2
+posted:Posted June 23, 2022
+msg:The location of the hotel is relatively good. It is very close to several big shopping malls. The night view is good and it faces the cbd of Zhujiang New Town. The parking is free.
+----------------------------------------
+name:F‍a‍n‍g‍k‍u‍a‍i‍e‍r‍s‍h‍u
+info:Deluxe Boutique Double Room
+info:Stayed in July 2023
+info:Other
+info:19 Reviews
+rating:5
+posted:Posted October 9, 2023
+msg:Service: good
+Environment: good
+Health: good
+----------------------------------------
+name:K‍e‍k‍a‍n‍g‍1‍0‍1‍8
+info:Deluxe Suite - 3-Room
+info:Stayed in July 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted July 29, 2023
+msg:Hotel facilities and services are very good
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in December 2022
+info:Business travelers
+rating:4.5
+posted:Posted December 10, 2022
+msg:The air conditioner in the room was not cold after being turned on for more than an hour at first, and it felt very stuffy. Later, it was said that the computer room did not turn on the air conditioner. The service staff are very polite, the kitchen facilities are relatively complete, and the equipment in the gym is also very professional and smooth.
+----------------------------------------
+name:R‍e‍n‍s‍h‍e‍n‍g‍w‍e‍i‍y‍u‍a‍n‍c‍h‍u‍j‍i‍a‍n
+info:Deluxe Suite - 3-Room
+info:Stayed in January 2024
+info:Business travelers
+info:45 Reviews
+rating:4.5
+posted:Posted February 3, 2024
+msg:The room is quite big
+----------------------------------------
+name:Z‍i‍y‍u‍e‍h‍a‍n
+info:Deluxe Suite - 3-Room
+info:Stayed in September 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted December 5, 2023
+msg:Very good, very convenient nearby
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 3-Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 10, 2024
+msg:Service is very good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 2-Room
+info:Stayed in September 2023
+info:Business travelers
+info:37 Reviews
+rating:5
+posted:Posted September 25, 2023
+msg:Hotel service is still very good
+----------------------------------------
+name:J‍i‍u‍s‍h‍i‍h‍e‍n‍f‍a‍n‍g
+info:Superior Suite - 2-Room
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 3, 2023
+msg:very good! The facilities are complete and the staff are very responsible.
+----------------------------------------
+name:T‍a‍i‍w‍a‍n‍d‍a‍m‍i‍g‍e‍h‍u‍a‍n‍q‍i‍u‍l‍v‍x‍i‍n‍g
+info:Superior Room
+info:Stayed in April 2022
+info:Solo travelers
+info:33 Reviews
+rating:5
+posted:Posted May 1, 2022
+msg:Oakwood Premier Guangzhou Fangyuan Hotel🏨 is located in the central CBD of Guangzhou. It is within walking distance of the elite business circles such as Grandview Plaza, Tiannan Pedestrian Street, Wanlinghui, Huacheng Plaza, and the overall hotel decoration adopts a low-key and luxurious single-tree style. , more especially, there is a kitchen in the room that can cook and prepare food🍜, and is equipped with an exclusive washing machine👔 for the use of the guests. From the window, you can see the most elite high-altitude cityscape in Guangzhou, which is provided by the Aoshanfang restaurant on the 16th floor. Delicious food 🥩 is also rave reviews! Such a cost-effective hotel (the room rate only starts with 6), it must be one of the best choices for the next time you come back to the center of Guangzhou.
+
+💡The swimming pool in the hotel🏊 is only open in summer
+💡Try to choose a high floor to enjoy the view of the city center
+----------------------------------------
+name:A‍M‍E‍N‍A
+info:Superior Suite - 2-Room
+info:Stayed in February 2023
+info:Business travelers
+info:7 Reviews
+rating:4.7
+posted:Posted March 18, 2023
+msg:The location is great. Favorite Ajisen ramen across the street
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 2-Room
+info:Stayed in July 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted July 19, 2023
+msg:Very nice, spacious and comfortable!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in June 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:The location is convenient for traveling
+----------------------------------------
+name:X‍i‍a‍o‍s‍h‍e‍n‍g‍y‍o‍u‍l‍i
+info:Superior Room
+info:Stayed in April 2022
+info:Friends
+info:41 Reviews
+rating:4.2
+posted:Posted April 4, 2022
+msg:I stayed once a few years ago, and the impression of the room is already very vague and I can't remember what it was like. I only remember a good impression, and I have been paying attention to the price changes in his house. Seeing that you can win a night for as little as 600 yuan recently, I gave up other five-star chain hotels with similar price ranges, and booked another night to try.
+The room spacing and layout are not as good as I imagined, but as an apar**ent, all the utensils should be complete, including all kinds of kitchen utensils. The most special point is that the shower has a steam sauna mode, which is still available. The facility has been well maintained over the years.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 3-Room
+info:Stayed in October 2022
+info:Friends
+info:1 Review
+rating:2.5
+posted:Posted October 15, 2022
+msg:We live in a suite on the 36th floor with an area of more than 200 square meters. Our group of four chatted normally around 12 o'clock, but we were complained that it was too noisy. The laughter wouldn't be so disturbing, would it? Simply outrageous. And the service attitude is really average.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in March 2022
+info:Solo travelers
+info:6 Reviews
+rating:5
+posted:Posted April 4, 2022
+msg:The front desk customer service helped me arrange the high-rise for free, and the night view was beautiful. The facilities in the room are new and complete. The bedding is also very comfortable. Full score recommendation! (Unexpectedly, the bathroom is also equipped with a TV)
+----------------------------------------
+name:H‍a‍v‍e‍n‍C‍h‍o‍i
+info:Deluxe Suite - 3-Room
+info:Stayed in February 2024
+info:Family
+info:10 Reviews
+rating:3.5
+posted:Posted March 6, 2024
+msg:Average, okay.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in September 2022
+info:Business travelers
+info:27 Reviews
+rating:2.5
+posted:Posted October 3, 2022
+msg:The ex-tai beauty routine is very deep, and she doesn't talk about honest management. The security guy has a bad attitude and is not polite
+----------------------------------------
+name:K‍i‍m‍ ‍C‍h‍e‍o‍n‍g‍ ‍C‍h‍e
+info:Superior Suite - 2-Room
+info:Stayed in August 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 26, 2022
+msg:The location is in the center of Tianhe District, but travel can avoid the busy traffic around.
+There is a dedicated washer and dryer for long stays.
+Only breakfast options are basic.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 2-Room
+info:Stayed in February 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 16, 2022
+msg:Apar**ent hotel, two rooms, the room area is quite large, there is also a kitchen (no seasoning), and a washing machine and dryer are also available. The traffic is also very convenient, there are some shopping malls around, you can have morning tea; there is a coffee shop downstairs. The hotel staff is also very warm and gentle; overall it is very good, if the next family trip to Guangzhou, I will choose this hotel again.
+----------------------------------------
+name:L‍u‍z‍e‍n‍g
+info:Superior Suite - 2-Room
+info:Stayed in August 2022
+info:Family
+info:40 Reviews
+rating:3
+posted:Posted August 15, 2022
+msg:The design of the hotel house is inherently problematic, with narrow aisles and dim lighting. It's old but poorly maintained and looks old.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in February 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted February 11, 2022
+msg:One-bedroom suite, the living room and bedroom are separated, and you can meet friends in the living room. The view from the window is better and the location is convenient. If you are staying, scan the code at the front desk to park for free, save your worry ❤️ The cleaning aunt is very enthusiastic. When a light in the room broke, she immediately notified someone to come and help me deal with it. I am very satisfied. This speed [strong][strong][strong] will stay again next time!
+----------------------------------------
+name:H
+info:Deluxe Suite - 3-Room
+info:Stayed in February 2022
+info:Family
+info:23 Reviews
+rating:4.5
+posted:Posted February 4, 2022
+msg:Hotel management service is very good, very satisfied. The location of the hotel is convenient and the transportation is convenient, and the parking is convenient and free. The hotel is well equipped, but a bit old and needs to be improved.
+----------------------------------------
+name:Z‍o‍u‍b‍i‍a‍n‍w‍u‍d‍a‍z‍h‍o‍u
+info:Deluxe Suite - 3-Room
+info:Stayed in January 2022
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted January 28, 2022
+msg:Good location in the heart of Tianhe. A variety of restaurants are available around. The family of six lives in the room without disturbing each other. Each has its own space. From Tina at the front desk to the little brother in the parking lot. Eight words to describe home away from home and amiable.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in January 2022
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted January 5, 2022
+msg:Bring your family to Guangzhou for fun. This apar**ent in the city center is very suitable for family outings. There is a lot of food nearby, especially the Grand View Plaza, and the children are not willing to go. The gym is quite big and there are not many people. It’s not too cool to soak in a jacuzzi and steam in the sauna after running~
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2022
+info:Business travelers
+info:8 Reviews
+rating:2.2
+posted:Posted August 13, 2022
+msg:The hotel is relatively old and generally only an ordinary business hotel, the price is too expensive
+----------------------------------------
+name:M‍i‍n‍i‍ ‍Z
+info:Superior Suite - 2-Room
+info:Stayed in December 2021
+info:Friends
+info:5 Reviews
+rating:4.7
+posted:Posted February 6, 2022
+msg:I can say that I am quite satisfied with this hotel. The configuration of the hotel room is quite excellent, including a series of supporting appliances, as well as a washing machine and dryer in the room, and even a bread machine. It can be said to be a high-level hotel. The softness of the two beds is also in line with my standards, the hygiene is also OK, and the service attitude is not to be said. There is no problem in this regard. , I don't know how others are, but I haven't encountered a five-star hotel that charges a deposit for a long time, and it doesn't seem to be marked in the reservation. Although the deposit is reasonable, it does make me a little unhappy. , let's take a look at the following pictures. Anyway, the room is the same as the official picture, and overall it is excellent!
+----------------------------------------
+name:S‍u‍h‍y‍u‍n
+info:Deluxe Suite - 3-Room
+info:Stayed in June 2022
+info:Business travelers
+info:2 Reviews
+rating:4.2
+posted:Posted June 25, 2022
+msg:I had a lot of friends
+It was nice to rest comfortably together.
+The cafe on the first floor also has a very nice design.
+There are many convenience stores, convenience facilities, and places to eat nearby.
+----------------------------------------
+name:M‍r‍.‍K‍e‍v‍i‍n
+info:Superior Suite
+info:Stayed in December 2021
+info:Friends
+info:89 Reviews
+rating:5
+posted:Posted December 16, 2021
+msg:I booked a one-bedroom, one-living room, but the beautiful woman at the front desk was very enthusiastic and helped me upgrade to a two-bedroom, two-living room on the 39th floor for free, which made me feel the joyful a**osphere of Chris**as in advance. The room type I stayed in this time was very new and well-equipped. , recommended to everyone!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in February 2023
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted March 15, 2023
+msg:The free upgrade has a good experience
+----------------------------------------
+name:H‍o‍n‍g‍m‍o‍1‍1‍1
+info:Superior Suite
+info:Stayed in December 2021
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted December 20, 2021
+msg:It’s okay to take a baby to stay on weekends. The surrounding transportation is convenient. The rooms are good, and there are kitchen washing machines. If you stay for a few more days, it is very suitable, but I only stayed for one day and nothing was wasted.[ Cover your face] When you checked in, the lady at the front desk gave a bag of small gifts to the children. In addition to eating and playing, the most important thing is to have children’s toiletries. This is very intimate and great 👍🏻. At noon, I had a meal in the restaurant on the 16th floor. The environment of the restaurant is great, the products are very good, and the food is full. The hotel is very close to Grandview Plaza, a 5-minute walk to the hotel, there is an aquarium with children for a half-day stroll. The stay was very good this time. The kids had fun and lived comfortably by themselves. It’s great.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 3-Room
+info:Stayed in December 2021
+info:Friends
+info:19 Reviews
+rating:5
+posted:Posted January 26, 2022
+msg:excellent! ! The suite is very suitable for a few friends to live together~ The room is clean, the scenery, and the decoration is very good
+It's the cleaning aunt, who was in a hurry to clean, and urged several times, maybe in a hurry to get off work
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in November 2021
+info:Couples
+info:9 Reviews
+rating:3.5
+posted:Posted December 2, 2021
+msg:Except for the bad attitude of the front desk staff, they are not honest at all. Everything else is good. The engineering depar**ent will repair the steam bath, although it has not been repaired. Four bottles of water a day, the aunt is super nice. Please be more sincere to those at the front desk and use less water. After all, the hotel relies on service, so what if you can help the guests? Unless you just want to ruin the reputation of this store.
+----------------------------------------
+name:l‍i‍y‍h‍8‍9
+info:Deluxe Suite - 2-Room
+info:Stayed in November 2021
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted November 29, 2021
+msg:The location is very good, just near Tianhe City, Zhengjia and Tianhuan, and it is not too far to walk to Huacheng Square. The room is comfortable as a whole, and the staff is also very attentive. Looking forward to the next residence.
+----------------------------------------
+name:K‍e‍v‍i‍n‍J
+info:Superior Room
+info:Stayed in November 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted November 23, 2021
+msg:The hotel has a good environment. It is located on Tiyu East Road. The swimming pool will not open after November. The gym can be used. The room is spacious and clean, the mattress is comfortable, and the toilet has a steaming thing, which is very good.
+----------------------------------------
+name:S‍k‍y‍_‍t‍i‍a‍n‍y‍e
+info:Deluxe Boutique Double Room
+info:Stayed in August 2022
+info:Couples
+info:7 Reviews
+rating:3
+posted:Posted August 22, 2022
+msg:Not as high as expected, mainly because the location is expensive
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in October 2021
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted October 24, 2021
+msg:The front desk was upgraded to an executive room, the room is really big and comfortable, equipped with all appliances, breakfast is also exquisite 🥳Unfortunately there is no bathtub to take a bath, otherwise I will give 6 stars😉
+----------------------------------------
+name:Y‍u‍x‍i‍a‍o‍y‍u‍e‍ ‍m‍a‍g‍g‍i‍e‍�‍�
+info:Deluxe Boutique Double Room
+info:Stayed in September 2021
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted October 5, 2021
+msg:Come to Guangzhou to travel and stay in Oakwood Premier Guangzhou, which is a luxurious hotel-style apar**ent with high cost performance. great! Nice!
+1) We stayed in a studio apar**ent, the room was clean and the service staff were courteous.
+2) The room is equipped with washing machine, microwave oven, refrigerator, all facilities and equipment, super convenient and comfortable.
+3) The hotel is located in the Tianhe CBD business circle, with many large shopping malls nearby, and the transportation is convenient.
+4) Although I didn't have breakfast this time, the restaurant on the 16th floor has a very good environment. I heard that it is still an online celebrity check-in restaurant. I will definitely try it next time.
+Next time I go to Guangzhou, I will choose Oakwood Premier Guangzhou! Thank you for the help provided by the hotel staff during your stay.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in September 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted December 6, 2021
+msg:I went to the Zhengjia Aquarium and took my daughter to watch for a long time. I picked a hotel that is a five-minute walk from Zhengjia, which is super convenient.
+What was pleasantly surprised about staying at the hotel was that the front desk upgraded my room [Peace], and my daughter and husband were super happy.
+The young lady at the front desk spoke softly and interacted with the children. She also prepared a small gift for her daughter. . . So sweet[Gift]
+The room has a room service, and there are many special snacks near the hotel, making life convenient.
+The overall environment of the hotel is pretty good, well maintained, cost-effective, suitable for parent-child travel.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in March 2022
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted April 6, 2022
+msg:It's very convenient to go and eat takeaway nearby, and the environment for breakfast is very good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 2-Room
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 1, 2023
+msg:It's fine with kids. big room
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in March 2022
+info:Business travelers
+info:7 Reviews
+rating:1
+posted:Posted March 11, 2022
+msg:The so-called five-star hotel. He took away the clothes left by the guests and said that he disposed of them by himself. Then refuse to pay. Then tell the guests that I am like this, do what you like
+----------------------------------------
+name:F‍a‍n‍g‍e‍f‍a‍n‍g‍e‍f‍a‍n‍g‍e
+info:Deluxe Boutique Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:33 Reviews
+rating:2
+posted:Posted March 4, 2022
+msg:I applied to the front desk for an additional breakfast, but was bluntly rejected, the experience was very poor, and I will not book this hotel again in the future
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in October 2021
+info:Family
+info:33 Reviews
+rating:4
+posted:Posted October 8, 2021
+msg:Convenient to travel, close to the bustling area
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in January 2022
+info:Other
+info:4 Reviews
+rating:1.5
+posted:Posted January 18, 2022
+msg:The first room was facing the elevator. As soon as I entered the door, there was a strong smell of toilets. I called the front desk to change to a bigger room, and a row of cheap wooden cabinets didn't even dissipate the smell of formaldehyde. Bathing is even more exciting. After the big man put a lot of effort into unscrewing it, he washed the shower and adjusted the vibration of the shower. We don't know if it is a feng shui problem, so we quickly checked out and changed to another one. Haha, the conclusion is rotten and stinky
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 12, 2021
+msg:The hotel has a good location and convenient shopping. It is within walking distance to Grand View and TaiKoo Hui. The service details are well done, the rooms are clean and clean, and even the aunts are more polite.
+The restaurant is on the 16th floor. The difference from the previous stay is that the restaurant seems to have changed to a fashionable and romantic style. The crystal lighting inside is very unique, and the service level seems to have improved a lot.
+This time on business trip is a bit rushed, next time you can make an appoin**ent with a good friend to check in.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in March 2023
+info:Business travelers
+info:5 Reviews
+rating:4.5
+posted:Posted April 14, 2023
+msg:Convenient and clean
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 8, 2021
+msg:I came to Guangzhou for a business trip and booked this hotel.
+I checked in for the second time, the security at the door was very polite, and walked over right after I got off the car, kindly asked if I wanted to check in, and then helped to press the 15th floor elevator. There is an automatic thermometer on the first floor, and a health code is required to complete the check-in procedure. Although it is a bit cumbersome, I feel quite relieved at the moment of the epidemic.
+
+The room is larger than the average hotel, and it also comes with a kitchen, equipped with a washing and drying machine, and the conscience store is actually equipped with washing powder. Stayed for one night and didn't use those facilities, so I won't comment much.
+The crystal glasses in the kitchen and the coffee machine look relatively high-end and high-end, haha, it's a waste of staying alone. Next time you take your family out for a trip, give priority to booking this hotel.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2021
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted July 5, 2021
+msg:I used to book a five-star hotel. I was hesitant to book a serviced apar**ent for the first time, but my doubts were dispelled when I arrived at the door of the hotel. The security guard downstairs was very enthusiastic, took the initiative to open the door, and helped press the elevator to the 15th floor. There was not much carry-on luggage, and the front desk quickly checked in. Although there are layers of masks, they can also feel their enthusiasm. The room facilities are also good, floor-to-ceiling windows, large area, very comfortable to live. Next time I come to Guangzhou, this hotel will be my first choice.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in December 2021
+info:Business travelers
+info:8 Reviews
+rating:3
+posted:Posted December 30, 2021
+msg:The room facilities are very old and there is an unspeakable smell in the room. It feels like it is not worth the price anyway.
+----------------------------------------
+name:K‍e‍v‍i‍n
+info:Superior Room
+info:Stayed in December 2021
+info:Business travelers
+info:30 Reviews
+rating:4
+posted:Posted December 10, 2021
+msg:It's just so-so. It's not worth the price. You can get a better stay for the same money. The hotel is relatively clean, but the room is not big and the breakfast is relatively simple.
+----------------------------------------
+name:D‍e‍q‍u‍a‍n‍ ‍L‍i
+info:Deluxe Boutique Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:65 Reviews
+rating:5
+posted:Posted December 2, 2021
+msg:The environment is good, very close to the garden square, you can walk to see the night view at night. The kitchen is fully equipped and can make some simple meals. Moreover, there is a fully automatic washing machine, which provides very good convenience for the permanent staff.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in August 2022
+info:Family
+info:13 Reviews
+rating:3.7
+posted:Posted August 20, 2022
+msg:Service has room for improvement
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in April 2021
+info:Friends
+info:33 Reviews
+rating:5
+posted:Posted August 17, 2021
+msg:Oakwood's consistent level.
+The room is very clean. If it is laid out, it doesn't feel too good. It may also be because my room type is not reasonable.
+The location has nothing to say, very good
+----------------------------------------
+name:M‍a‍r‍k‍�‍�‍k‍e‍c‍h‍e‍n
+info:Deluxe Boutique Double Room
+info:Stayed in September 2021
+info:Business travelers
+info:80 Reviews
+rating:5
+posted:Posted September 27, 2021
+msg:Very good, maintaining the comfort and luxury that Oakwood is used to
+🚗 Transportation: The transportation is very convenient, in the center of Tianhe
+🧹Hygienic: Hygiene and clean, and steam sauna with moisture
+🍃Environment: The environment is very good, the swimming pool is great
+🔔Service: The service is not bad
+----------------------------------------
+name:L‍L‍L‍u‍k‍i
+info:Superior Room
+info:Stayed in August 2021
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted August 17, 2021
+msg:🧹Sanitation: good,
+🍃Environment: clean and tidy
+🚗 Traffic: Very good behind Zhengjia
+🔔Service: I cleaned up the room before checking out for breakfast. . A little confused haha
+----------------------------------------
+name:D‍i‍x‍i‍a‍s‍a‍n‍l‍i‍m‍i
+info:Deluxe Boutique Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:3 Reviews
+rating:4.5
+posted:Posted July 29, 2021
+msg:The room is not big, but it has a steam bath, which is quite distinctive. The coffee only has instant and low-caffeine brewing bags. It is recommended to add coffee hanging ear bags. The room price is more expensive than five stars. The room does not have a bathtub. The breakfast is also very average. Nothing like rice rolls
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2022
+info:Family
+info:6 Reviews
+rating:3.5
+posted:Posted October 6, 2022
+msg:Environmental hygiene can
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in May 2021
+info:Business travelers
+info:16 Reviews
+rating:4.7
+posted:Posted June 24, 2021
+msg:The location is not bad, just behind Tianhe City, behind Grandview Plaza, it is very convenient for dining and shopping around. Apar**ent-style hotels, facilities and equipment are still very comprehensive, can basically meet the needs of business trips and tourism.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in May 2021
+info:Business travelers
+info:34 Reviews
+rating:5
+posted:Posted June 27, 2021
+msg:The location of the hotel is very good, everything near the building is located in the core area of Tianhe, the room is large, there is a kitchen washer dryer, and there is free parking. Generally speaking, it is cost-effective, and I will continue to stay in Guangzhou in the future.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in April 2022
+info:Couples
+info:6 Reviews
+rating:3
+posted:Posted May 4, 2022
+msg:Very big and looks a bit old
+----------------------------------------
+name:K‍a‍l‍a‍n‍g‍a‍s‍e‍n‍l‍u‍y‍o‍u
+info:Superior Room
+info:Stayed in July 2021
+info:Business travelers
+info:38 Reviews
+rating:3
+posted:Posted September 27, 2021
+msg:High price and old facilities
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in April 2023
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted June 7, 2023
+msg:非常不錯的入住體驗，房間很大，很舒服，前台服務人員態度很讚，交通也很方便，走5分鐘就能到正佳廣場，吃飯購物都很方便，一次極好的入住體驗。
+----------------------------------------
+name:m‍i‍n‍n‍i
+info:Superior Suite
+info:Stayed in May 2024
+info:Friends
+info:43 Reviews
+rating:5
+posted:Posted May 13, 2024
+msg:設施：👍
+衞生：👍
+環境：👍
+服務：👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in February 2023
+info:Family
+info:12 Reviews
+rating:4
+posted:Posted February 25, 2023
+msg:地理位置好，步行幾分鐘就到正佳廣場了，花城廣場也不遠，可以步行去，停車也免費，出行方便。酒店是有一定年份了，老式裝修，但維護保養還算不錯，前台服務態度不錯，16樓的自助早餐外景視野開闊，環境舒適，就是帶着小朋友在房間設施使用方面會稍為不便（例如洗漱、坐便等）
+----------------------------------------
+name:c‍d‍l‍j‍k
+info:Deluxe Suite - 3-Room
+info:Stayed in February 2023
+info:Business travelers
+info:6 Reviews
+rating:4.7
+posted:Posted February 21, 2023
+msg:住的一套三房四天，優點，房間很大190多平方米，窗户看到廣州市的標誌性建築不錯，價格合理。一晚上2000多。可以住六個人。有廚房可以煮飯，裝修不錯，還比較新。不足的地方，衞生打掃一般，除了主卧室有電視，其他房間沒有電視，這個不方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 3-Room
+info:Stayed in July 2023
+info:Family
+info:12 Reviews
+rating:4
+posted:Posted July 2, 2023
+msg:三房公寓空間感一流，非常適合多人家庭
+小朋友周圍跑
+大人坐梳化邊傾計、睇電視，邊吃喝
+而且地點近正佳商場
+值得推介！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in May 2023
+info:Family
+info:4 Reviews
+rating:4.5
+posted:Posted May 28, 2023
+msg:地區非常好，位於天河區，酒店附近很多餐廳。對面有便利店，很方便。
+職員態度有善，非常樂意幫忙解決問題。
+下次再去廣州都會選擇方圓
+----------------------------------------
+name:L‍i‍y‍u‍a‍n‍c‍h‍a‍n‍g‍c‍h‍a‍o‍h‍u‍i‍z‍h‍u‍j‍i‍u‍d‍i‍a‍n
+info:Superior Room
+info:Stayed in December 2022
+info:Business travelers
+info:6 Reviews
+rating:4.5
+posted:Posted December 23, 2022
+msg:這原來是一個公寓酒店…………
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 2-Room
+info:Stayed in May 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 28, 2023
+msg:非常好，所有員工都很有禮貌，check in 時只要房間準備好，會盡快讓旅客到房間就算未到指定check in 時間。
+----------------------------------------
+name:N‍i‍n‍i‍x‍y‍z
+info:Superior Room
+info:Stayed in October 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted October 18, 2022
+msg:地段好 入住體驗佳 無缺點 適合出差和常住 房間設施齊全 家一般的感覺
+----------------------------------------
+name:Z‍h‍u‍a‍n‍g‍l‍e‍i
+info:Superior Room
+info:Stayed in July 2023
+info:Business travelers
+info:4 Reviews
+rating:4.2
+posted:Posted July 6, 2023
+msg:整體來說還可以，地點方便，但房間和照片我覺得有一點落差，早餐還不錯，游泳池和健身房也都很好！
+----------------------------------------
+name:Y‍i‍n‍ ‍w‍a‍h
+info:Superior Room
+info:Stayed in May 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted May 21, 2023
+msg:很好，交通便利，又大又有廚房洗衣機等設備，非常適合本人要求，同埋去邊度食嘢都好方便，下次一定再入住，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 3-Room
+info:Stayed in June 2023
+info:Friends
+info:38 Reviews
+rating:5
+posted:Posted June 7, 2023
+msg:前台免費升了房👍，環境設施服務整體都ok。再多注意點細節的就好了，6人入住衹提供了4套毛巾😁
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in April 2023
+info:Friends
+info:14 Reviews
+rating:5
+posted:Posted May 20, 2023
+msg:酒店位置很好，工作人員服務態度好，酒店對面都是吃飯的地方，離商區都很近，酒店內很安靜，有洗衣機，很方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:房間很安靜，設施齊全，打掃衞生及時
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in February 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted March 2, 2023
+msg:非常滿意，位置絕佳，步行到正佳廣場衹有幾百米，出行方便。套房乾淨整潔，餐廳環境不錯。有衣物遺失酒店，前台及時幫忙寄回。五星好評！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 3-Room
+info:Stayed in August 2022
+info:Other
+info:8 Reviews
+rating:5
+posted:Posted August 27, 2022
+msg:我們非常滿意
+----------------------------------------
+name:J‍i‍u‍j‍i‍u‍g‍u‍a
+info:Superior Room
+info:Stayed in February 2023
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted February 16, 2023
+msg:衞生：很乾凈整潔！
+
+服務：入住很方便 我們需要的hdmi線也很快就送上來了
+很適合情侶出遊！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2022
+info:Business travelers
+info:5 Reviews
+rating:4.7
+posted:Posted September 16, 2022
+msg:就很難説，以後會不會再住這間酒店。一方面，酒店設施實在很舊了，decor等等各方面都看着很老，是十幾年前的港風樣子，但是，也都看得出努力維護在正常使用的狀況中。
+
+另一方面，服務、問答各方面又都很嫻熟專業，無論是大堂還是保安、保潔，都是稱職靠譜的，這點，很多新酒店其實都不太行。我挑不出毛病。
+
+旁邊的居民區小巷裡有很有趣的咖啡館和酒吧，離正佳廣場走路距離，太古裏還有其他天河區商圈也不遠，可以説各種方便。但是測核酸要走六七分鐘，按照北京標準來説就太遠了，可能在廣州是還好的，畢竟荔灣區的核酸點下午4點才上班也真的是太慵懶。。。
+
+房間基本夠大，還有簡易西廚，適合長住幾天或者拖家帶口。
+----------------------------------------
+name:x‍i‍e‍x‍i‍n‍g
+info:Superior Suite
+info:Stayed in October 2022
+info:Business travelers
+info:28 Reviews
+rating:5
+posted:Posted December 13, 2022
+msg:位置一流，周圍吃飯方便，去天河辦事方便，酒店設施齊全，
+衞生：很好
+環境：一流
+服務：非常好
+設施：有健身房泳池，早餐很棒，還會再來
+----------------------------------------
+name:g‍i‍a‍g‍i‍x
+info:Deluxe Suite - 2-Room
+info:Stayed in March 2023
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted April 4, 2023
+msg:低調奢華，喜歡，地點也方便，下次還住。設施有稍嫌老舊，沒有USB插座。
+----------------------------------------
+name:A‍G‍Y‍Q
+info:Deluxe Suite - 2-Room
+info:Stayed in January 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 10, 2023
+msg:前台給我們升級了三室一廳房間，像個小家一樣，就是時間比較久了，有黴味比較重
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in July 2023
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted August 1, 2023
+msg:ดีมาก มีอุปกรณ์ครบ
+----------------------------------------
+name:S‍h‍i‍x‍i‍a‍o‍x‍i‍a‍o‍y‍a‍！
+info:Superior Suite - 2-Room
+info:Stayed in January 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted January 25, 2023
+msg:一開始沒有抱有希望，沒想到乾淨，衞生，而且還能洗衣服…酒店很棒！性價比高
+----------------------------------------
+name:7‍7‍_‍d‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in March 2023
+info:Family
+info:34 Reviews
+rating:4
+posted:Posted March 22, 2023
+msg:親子酒店  距離什麼地很近
+衞生好
+環境也不錯
+設施齊全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 23, 2023
+msg:這次住宿非常滿意，性價比很高，非常適合一家出行。正佳廣場5分鐘路程。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in November 2021
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted November 23, 2021
+msg:地理位置好，週邊多食肆，便利商店、交通方便，酒店很好，房間大，很舒適，職員服務很好，很細心體貼。下次一定再入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in September 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted September 19, 2022
+msg:酒店位置交通便利出行超級方便，房間設施齊全，房間裏竟然還桑拿，適合一家人出行下次還會選擇這家酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in January 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 30, 2022
+msg:前台Betty服務特別好 很滿意
+----------------------------------------
+name:N‍i‍u‍n‍i‍u‍a‍i‍t‍a‍o‍z‍i
+info:Superior Room
+info:Stayed in January 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 2, 2023
+msg:環境衞生都不錯，最主要是交通便利，出行周邊吃的喝的都很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in August 2022
+info:Family
+info:27 Reviews
+rating:5
+posted:Posted August 24, 2022
+msg:酒店位置特別好，步行至正佳五分鐘，周邊很方便，房間不錯，客廳也挺大的，好用，唯一的不足就是床和廁所有點小
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in August 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted August 30, 2022
+msg:特別衞生，房間設施齊全，適合家庭出行。房間有窗，可以看到廣州夜景，特別舒服。前台服務熱情，細心周到。
+----------------------------------------
+name:M‍e‍n‍g‍x‍i‍a‍n‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in May 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted May 31, 2023
+msg:酒店服務很好，還給我們免費升級房型
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in November 2021
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted November 9, 2021
+msg:非常棒，乾淨衞生，設備齊全，品質上乘，服務人員都非常友善，服務素質高，很滿意
+----------------------------------------
+name:O‍l‍i‍v‍i‍e‍r‍z‍h‍o‍u
+info:Deluxe Boutique Double Room
+info:Stayed in January 2023
+info:Business travelers
+info:84 Reviews
+rating:5
+posted:Posted February 16, 2023
+msg:這個酒店適合家庭出行 可做飯 可洗衣服 真的很乾凈
+----------------------------------------
+name:P‍u‍k‍u‍h‍e‍l‍i‍n
+info:Deluxe Boutique Double Room
+info:Stayed in January 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 21, 2023
+msg:酒店位置好，出行方便，房間內還有洗衣機，便利很多。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in August 2022
+info:Business travelers
+info:38 Reviews
+rating:5
+posted:Posted August 28, 2022
+msg:第一間房進去有點火大，隔壁在維修，巨大聲，之後火速換房，奧克伍德還是維持着不錯的水準
+----------------------------------------
+name:S‍h‍e‍n‍z‍h‍e‍n‍x‍i‍a‍n‍g‍n‍a‍n
+info:Superior Room
+info:Stayed in December 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted December 17, 2022
+msg:非常喜歡酒店的構造，周圍環境。酒店也非常貼心幫忙升級。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in January 2023
+info:Family
+info:17 Reviews
+rating:4
+posted:Posted February 3, 2023
+msg:衞生一般，櫃子上還有一層浮灰。其他設施都不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in September 2022
+info:Other
+info:40 Reviews
+rating:5
+posted:Posted September 22, 2022
+msg:交通方便，周邊吃的很多，後邊廣場就能做核酸。要是早餐選擇性再多一些就更好啦
+----------------------------------------
+name:H‍e‍n‍r‍y‍x‍i‍a‍n‍g‍r‍o‍n‍g
+info:Superior Room
+info:Stayed in May 2022
+info:Solo travelers
+info:26 Reviews
+rating:5
+posted:Posted May 24, 2022
+msg:非常棒的公寓，廣州來説算是很不錯的選擇，乾淨安靜，地理位置得天獨厚，夜景一流，周邊商業配套齊全，生活方便，我非常喜歡😘
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in March 2023
+info:Booked for others
+info:36 Reviews
+rating:5
+posted:Posted March 5, 2023
+msg:很好很好，電器非常齊全，沖涼房還有蒸汽
+----------------------------------------
+name:W‍i‍n‍s‍o‍n‍ ‍L
+info:Superior Suite - 2-Room
+info:Stayed in November 2021
+info:Friends
+info:23 Reviews
+rating:4
+posted:Posted November 23, 2021
+msg:酒店位置好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in July 2022
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted July 11, 2022
+msg:服務好評，和酒店溝通了需求後直接安排了高樓層的行政套房，感謝酒店的工作人員，很體貼。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in February 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted February 13, 2023
+msg:地理位置方便，設施齊全，入住很舒服。
+----------------------------------------
+name:p‍_‍_‍_‍q
+info:Superior Room
+info:Stayed in March 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted May 18, 2023
+msg:很好很好，服務一流，
+衞生：乾淨
+----------------------------------------
+name:M‍_‍x‍i‍a
+info:Stayed in July 2022
+info:Family
+info:4 Reviews
+rating:3.2
+posted:Posted July 31, 2022
+msg:位置很便利，走過一個路口就是正佳。但是房間環境和衞生實在一般，希望可以提升
+----------------------------------------
+name:S‍a‍y‍a‍p‍l‍a‍y‍e‍r‍～
+info:Superior Suite - 2-Room
+info:Stayed in June 2023
+info:Couples
+info:22 Reviews
+rating:5
+posted:Posted July 3, 2023
+msg:環境很不錯，非常乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 3-Room
+info:Stayed in February 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted February 15, 2023
+msg:酒店非常理想 三大三小住得很舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in February 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted February 27, 2022
+msg:2013年入住過，一直印象很好！這次出差第二天換到這裏！服務衞生保養得都非常不錯！快10年的酒店能這樣堅持真的非常棒！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2022
+info:Business travelers
+info:63 Reviews
+rating:4.5
+posted:Posted August 3, 2022
+msg:非常適合家庭出行短期小住，廚房設施一應俱全，洗衣機烘乾機使用方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in September 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 4, 2021
+msg:酒店位於天河區中心，交通便利，位置很好找。有地下停車場，停車很方便哦。我們訂了兩居室的房間，一到房間真的驚艷到我了，房間裝飾是豪華型的，空間開闊，廚房衞生間設備齊全，還可以蒸桑拿，太舒服了。到了晚上的夜景非常漂亮，藍色的天河夜景在落地窗前很是動人。我和家人在那裡度過了舒適的兩晚，這價錢也值了。哦對了，16樓的餐廳我們也很喜歡，雅緻的風格，精緻的菜品，值得一試哦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in August 2022
+info:Booked for others
+info:9 Reviews
+rating:5
+posted:Posted October 20, 2022
+msg:幫朋友預訂，對酒店的服務和設施設備非常滿意，下次還會入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 2-Room
+info:Stayed in June 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted June 24, 2023
+msg:豪華、沒施齊全方便
+----------------------------------------
+name:K‍a‍z‍1‍0
+info:Superior Room
+info:Stayed in June 2022
+info:Couples
+info:7 Reviews
+rating:4.7
+posted:Posted June 5, 2022
+msg:酒店服務員很有禮貌，訓練有素。酒店附近有很多咖啡店、餐廳和便利商店，很便利！
+----------------------------------------
+name:J‍i‍a‍y‍i‍g‍e‍g‍e
+info:Deluxe Suite - 2-Room
+info:Stayed in January 2023
+info:Family
+info:19 Reviews
+rating:4.2
+posted:Posted January 25, 2023
+msg:地段不錯，房間太舊，服務還行。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in January 2023
+info:Business travelers
+info:65 Reviews
+rating:5
+posted:Posted January 20, 2023
+msg:房間挺乾淨，位置很方便，服務也行
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2022
+info:Couples
+info:10 Reviews
+rating:5
+posted:Posted July 23, 2022
+msg:非常棒的服務態度 給升級了房間 非常感謝前台短髮小哥 多謝
+----------------------------------------
+name:➗‍j‍i‍u‍－‍1‍w‍e‍n
+info:Superior Suite
+info:Stayed in February 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 11, 2022
+msg:服務很不錯，酒店也很乾凈，提個小建議，就是希望早餐可以把適齡小童免去，總覺得對帶孩子的家庭入住，挺不合理的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in August 2022
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted August 25, 2022
+msg:房間設施很滿意，方便家庭入住，衹是衣櫃味道很大。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted March 7, 2022
+msg:哈環境非常好的酒店式公寓 周圍一公里內美食很多 可以去走一走 酒店的健身設施也很不錯 健身房很大 設備很新  以後還會選擇
+----------------------------------------
+name:G‍a‍r‍y
+info:Superior Suite
+info:Stayed in September 2022
+info:Business travelers
+info:34 Reviews
+rating:4
+posted:Posted September 8, 2022
+msg:交通便利，附近商場林立，酒店乾淨，設施也齊全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted July 22, 2022
+msg:什麼都好，特別適合我的要求。能對熟客優惠一點就更好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2022
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted July 17, 2022
+msg:環境舒適，地理位置方便，可以免費停車，服務也很好。
+----------------------------------------
+name:D‍i‍a‍n‍d‍i‍a‍n‍d‍e‍d‍i‍e
+info:Superior Suite - 2-Room
+info:Stayed in August 2022
+info:Family
+info:52 Reviews
+rating:5
+posted:Posted August 31, 2022
+msg:房間設施齊全，位置也不錯，適合帶家人一起住。
+----------------------------------------
+name:Y‍o‍n‍g‍c‍h‍e‍n‍g‍d‍a‍n‍b‍a
+info:Superior Suite - 2-Room
+info:Stayed in October 2021
+info:Family
+info:39 Reviews
+rating:5
+posted:Posted October 7, 2021
+msg:同樣地段，裝修服務以及房間面積，衹能説非常滿意，國慶的價格也挺友好的，對於暴走一天自駕旅行來説，點一桌外賣圍着吃飯太舒服了，下次旅行還願意來住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in August 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 24, 2022
+msg:適合家庭出遊，設施齊全，裝修豪華，床品舒適！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 3-Room
+info:Stayed in April 2023
+info:Friends
+info:16 Reviews
+rating:5
+posted:Posted May 22, 2023
+msg:不錯的 複合預期
+----------------------------------------
+name:D‍e‍g‍e‍l‍a‍l‍a‍n‍g‍z‍h‍o‍u‍y‍u
+info:Superior Room
+info:Stayed in March 2023
+info:Other
+info:70 Reviews
+rating:4.5
+posted:Posted April 17, 2023
+msg:還不錯，住的挺舒服
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in December 2022
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted December 28, 2022
+msg:房間很大位置很好性價比不錯
+----------------------------------------
+name:D‍a‍n‍i‍e‍l‍l‍o‍0‍2‍1‍4
+info:Deluxe Suite - 2-Room
+info:Stayed in November 2021
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted November 9, 2021
+msg:房間很大 適合多人長期入住 周邊很繁榮 吃飯很方便 交通很方便 購物地點也很多 房間裏有廚房 洗衣機 基本生活設施齊全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in October 2022
+info:Booked for others
+info:53 Reviews
+rating:5
+posted:Posted October 15, 2022
+msg:挺好的，很不錯，並且升級為套房。
+----------------------------------------
+name:M‍o‍u‍M‍o‍u‍-
+info:Superior Room
+info:Stayed in March 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted June 2, 2023
+msg:很好 下次還會再來
+----------------------------------------
+name:r‍o‍b‍y‍c‍n
+info:Stayed in February 2022
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted February 21, 2022
+msg:🚗 交通：方便
+🧹衞生：不錯
+🍃環境：OK
+🔔服務：一般。設施齊全但比較舊。
+----------------------------------------
+name:T‍u‍d‍o‍u‍a‍i‍l‍v‍y‍o‍u‍a‍o
+info:Superior Room
+info:Stayed in January 2022
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted January 23, 2022
+msg:前台小姐姐還幫忙升級了客房太棒啦 住的很舒服.
+ 而且附近都是吃喝玩樂的地方 走着就能去
+----------------------------------------
+name:D‍o‍r‍a‍D‍o‍r‍a‍j‍u‍n‍y‍a‍n
+info:Superior Suite - 2-Room
+info:Stayed in July 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted July 21, 2022
+msg:非常適合家庭入住，2居室很方便。性價比高。
+----------------------------------------
+name:M‍r‍ ‍M‍o‍s‍s
+info:Superior Room
+info:Stayed in March 2023
+info:Business travelers
+info:84 Reviews
+rating:5
+posted:Posted March 9, 2023
+msg:下次還會繼續預訂
+----------------------------------------
+name:S‍h‍u‍a‍i‍g‍e‍w‍a‍n‍g‍e‍r‍f‍a
+info:Superior Room
+info:Stayed in February 2022
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted February 24, 2022
+msg:半夜入住的，前台小哥哥很耐心幫忙升級了房型，非常好的酒店，下次還來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in September 2022
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted September 17, 2022
+msg:Excelente hotel
+----------------------------------------
+name:C‍a‍e‍s‍a‍r‍ ‍(‍´‍･‍ω‍･‍`‍)
+info:Superior Suite - 2-Room
+info:Stayed in February 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 1, 2023
+msg:還不錯 交通方便
+----------------------------------------
+name:A‍l‍l‍e‍n‍Z‍Z‍Z‍Z‍Z‍Z
+info:Superior Room
+info:Stayed in April 2022
+info:Couples
+info:35 Reviews
+rating:4
+posted:Posted May 6, 2022
+msg:公寓型，橫向佈局有點窄。
+各方面都跟酒店比差一點。
+----------------------------------------
+name:p‍a‍o‍p‍a‍o‍b‍a‍o
+info:Deluxe Suite - 2-Room
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 16, 2022
+msg:非常舒適的酒店，衞生打掃很及時。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in December 2021
+info:Business travelers
+info:5 Reviews
+rating:4
+posted:Posted December 14, 2021
+msg:🚗 交通：方便，附近吃的很多，逛的也很多！！所以出差選住這邊就省了很多“想”這件事
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in October 2022
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted October 31, 2022
+msg:位置好，出行和做核酸都方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in August 2021
+info:Business travelers
+info:94 Reviews
+rating:5
+posted:Posted August 17, 2021
+msg:好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in December 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted January 6, 2023
+msg:很好，乾淨，設施全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in January 2023
+info:Family
+info:22 Reviews
+rating:5
+posted:Posted April 5, 2023
+msg:地理位置非常好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in February 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 13, 2023
+msg:環境好，服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 3-Room
+info:Stayed in January 2023
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted March 11, 2023
+msg:環境好，位置佳
+----------------------------------------
+name:T‍i‍a‍o‍y‍e‍t‍a‍i‍l‍a‍n‍g
+info:Superior Room
+info:Stayed in August 2021
+info:Couples
+info:18 Reviews
+rating:5
+posted:Posted August 11, 2021
+msg:朋友求婚訂的房間 酒店也是挑過的所以一切都是自己想要的 各方面都很滿意 工作人員也很nice 😊祝99 
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in December 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 21, 2022
+msg:衞生，服務很貼心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in January 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted April 12, 2023
+msg:好好，不錯不錯
+----------------------------------------
+name:Y‍i‍x‍i‍a‍o‍d‍a‍d‍a
+info:Stayed in July 2021
+info:Business travelers
+info:46 Reviews
+rating:5
+posted:Posted January 1, 2022
+msg:酒店位置在市裡很方便，適合出差入住。這家是奧克伍德豪景酒店公寓，房間裏挺安靜的，也算是鬧中取靜的住處。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in January 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted February 6, 2022
+msg:雖然比較貴，但二房套房的房型和裝修都不錯！滿意。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 2-Room
+info:Stayed in July 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted July 29, 2022
+msg:乾淨 舒服 賓至如歸👍🏻
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in October 2022
+info:Business travelers
+info:5 Reviews
+rating:4
+posted:Posted December 4, 2022
+msg:房間空調一言難盡
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:10 Reviews
+rating:4
+posted:Posted October 29, 2022
+msg:地點環境還不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in September 2021
+info:Business travelers
+info:63 Reviews
+rating:4
+posted:Posted November 13, 2021
+msg:m l
+🚗 交通：方便
+🧹衞生：乾淨整潔
+🍃環境：一般
+🔔服務：中規中矩
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in September 2022
+info:Solo travelers
+info:24 Reviews
+rating:5
+posted:Posted November 28, 2022
+msg:環境不錯，位置好。
+----------------------------------------
+name:L‍z‍i‍x‍u‍a‍n
+info:Superior Room
+info:Stayed in February 2022
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted March 8, 2022
+msg:位置，早餐，房間都很不錯。喜歡裝飾畫
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Themed Room (Double bed)
+info:Stayed in June 2022
+info:Business travelers
+info:25 Reviews
+rating:5
+posted:Posted June 12, 2022
+msg:一般般吧，不是酒店是公寓
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted August 10, 2022
+msg:一如既往的乾淨 安全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 2-Room
+info:Stayed in January 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted January 28, 2023
+msg:服務不錯👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in August 2021
+info:Business travelers
+info:15 Reviews
+rating:4
+posted:Posted September 10, 2021
+msg:出差住宿！市區交通非常便利，但公寓可以煮東西，還是有油煙味，不喜歡。
+----------------------------------------
+name:K‍e‍a‍i‍d‍e‍d‍a‍m‍i‍f‍a‍n‍z‍i
+info:Superior Room
+info:Stayed in August 2022
+info:Business travelers
+info:31 Reviews
+rating:4
+posted:Posted September 2, 2022
+msg:地點中心交通方便
+----------------------------------------
+name:Z‍h‍e‍g‍e‍n‍a‍n‍r‍e‍n‍l‍a‍i‍z‍i‍y‍u‍d‍i‍q‍i‍u
+info:Superior Room
+info:Stayed in March 2022
+info:Business travelers
+info:71 Reviews
+rating:5
+posted:Posted March 13, 2022
+msg:非常的舒適，服務人員非常的專業
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in December 2021
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 13, 2021
+msg:酒店不錯 就是冬天有點冷 空調熱風不行
+----------------------------------------
+name:H‍u‍o‍l‍a‍n‍z‍h‍u‍y‍u‍a‍n
+info:Deluxe Boutique Double Room
+info:Stayed in October 2022
+info:Couples
+info:21 Reviews
+rating:5
+posted:Posted October 6, 2022
+msg:冰箱特別大哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in July 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted July 22, 2022
+msg:交通設施都很不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Suite - 3-Room
+info:Stayed in June 2022
+info:Family
+info:61 Reviews
+rating:5
+posted:Posted July 23, 2022
+msg:乾淨衞生，位置方便
+----------------------------------------
+name:s‍p‍e‍c‍c‍h‍i‍o‍c‍h‍e‍n‍g
+info:Superior Suite - 2-Room
+info:Stayed in May 2021
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted October 7, 2021
+msg:每次去廣州都住的地方，房間內有廚房設施，周圍有正佳和太古滙，帶孩子逛吃很方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in March 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted March 8, 2022
+msg:地理位置便利，服務好評。
+----------------------------------------
+name:J‍u‍n‍m‍a‍B‍~‍T‍b‍e‍n‍t‍e‍n‍g
+info:Superior Suite - 2-Room
+info:Stayed in July 2022
+info:Friends
+info:21 Reviews
+rating:5
+posted:Posted July 20, 2022
+msg:不錯，值得一住
+----------------------------------------
+name:W‍u‍y‍a‍n‍b‍a‍i‍x‍u‍e‍z‍h‍a‍o‍Z‍.
+info:Superior Room
+info:Stayed in February 2022
+info:Booked for others
+info:44 Reviews
+rating:4
+posted:Posted February 28, 2022
+msg:幫忙預訂，環境還算可以！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in October 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted October 15, 2022
+msg:非常的不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in February 2022
+info:Business travelers
+info:6 Reviews
+rating:4
+posted:Posted March 13, 2022
+msg:在酒店公寓裏算是不錯的了
+----------------------------------------
+name:L‍i‍n‍y‍u‍y‍a‍n‍g
+info:Superior Room
+info:Stayed in July 2022
+info:Business travelers
+info:35 Reviews
+rating:4
+posted:Posted August 26, 2022
+msg:老了，舊，不行
+----------------------------------------
+name:o‍l‍d‍h‍a‍w‍k
+info:Superior Room
+info:Stayed in June 2022
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted June 12, 2022
+msg:性價比不錯！👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 4, 2022
+msg:很方便，可以自己做飯
+----------------------------------------
+name:D‍e‍l‍a‍n‍c‍y‍y‍y‍y‍y‍y
+info:Superior Room
+info:Stayed in July 2022
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted September 15, 2022
+msg:出行超級方便
+----------------------------------------
+name:P‍a‍i‍y‍i‍p‍a‍i‍1‍2‍3
+info:Superior Suite
+info:Stayed in February 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 24, 2022
+msg:一分錢一分貨，很棒哦
+----------------------------------------
+name:L‍v‍j‍i‍a‍n‍w‍e‍n
+info:Superior Suite
+info:Stayed in December 2021
+info:Business travelers
+info:125 Reviews
+rating:5
+posted:Posted December 26, 2021
+msg:比較舒服，考慮再次入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in December 2021
+info:Business travelers
+info:12 Reviews
+rating:3
+posted:Posted January 3, 2022
+msg:體驗一般般，像個小公寓
+----------------------------------------
+name:c‍a‍s‍h‍a‍t‍m
+info:Superior Room
+info:Stayed in January 2022
+info:Business travelers
+info:37 Reviews
+rating:5
+posted:Posted March 22, 2022
+msg:常住酒店，服務一流
+----------------------------------------
+name:n‍u‍m‍b‍9‍9
+info:Superior Suite - 2-Room
+info:Stayed in June 2022
+info:Friends
+info:34 Reviews
+rating:4
+posted:Posted June 30, 2022
+msg:挺不錯的，
+----------------------------------------
+name:a‍k‍u‍n‍w‍a‍n
+info:Deluxe Boutique Double Room
+info:Stayed in May 2022
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted June 2, 2022
+msg:服務態度好
+----------------------------------------
+name:X‍i‍b‍e‍i‍d‍e‍y‍e
+info:Stayed in May 2021
+info:Family
+info:43 Reviews
+rating:5
+posted:Posted June 12, 2021
+msg:房間非常大，整體服務也不錯，地理位置好
+----------------------------------------
+name:Y‍o‍y‍o‍t‍u‍o‍a‍i‍r‍u‍i‍r‍u‍i
+info:Superior Suite - 2-Room
+info:Stayed in July 2021
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted October 30, 2021
+msg:特別適合家庭出遊，帶寶寶方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in November 2021
+info:Business travelers
+info:29 Reviews
+rating:5
+posted:Posted December 24, 2021
+msg:房間實用，價格適中
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in February 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted March 6, 2022
+msg:整體都可以。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in December 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted December 17, 2021
+msg:乾淨、舒適、安靜
+----------------------------------------
+name:f‍e‍n‍g‍0‍9‍2‍8
+info:Deluxe Boutique Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:10 Reviews
+rating:4.5
+posted:Posted November 7, 2021
+msg:整體感覺不錯………
+----------------------------------------
+name:V‍e‍o‍n‍a
+info:Superior Suite
+info:Stayed in February 2022
+info:Couples
+info:89 Reviews
+rating:5
+posted:Posted February 15, 2022
+msg:一直都挺好的
+----------------------------------------
+name:S‍a‍i‍l‍i‍n‍i‍z‍h‍a‍n‍g‍h‍e
+info:Deluxe Boutique Double Room
+info:Stayed in March 2022
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted March 24, 2022
+msg:環境很舒適
+----------------------------------------
+name:L‍i‍e‍r‍y‍e‍®
+info:Superior Suite - 2-Room
+info:Stayed in February 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted March 9, 2022
+msg:住的真娘不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in October 2021
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted November 26, 2021
+msg:家人團聚不錯的選擇
+----------------------------------------
+name:H‍u‍o‍e‍r‍w‍o‍g‍a‍i‍t‍e‍x‍u‍n‍y‍u
+info:Stayed in May 2021
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted August 23, 2021
+msg:中規中矩的酒店，價格比較親民
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Suite
+info:Stayed in December 2021
+info:Business travelers
+info:9 Reviews
+rating:3
+posted:Posted January 25, 2022
+msg:設備需要提升
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Suite - 2-Room
+info:Stayed in January 2022
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted February 6, 2022
+msg:非常滿意！
+----------------------------------------
+name:y‍a‍n‍2‍2‍2
+info:Deluxe Boutique Double Room
+info:Stayed in July 2021
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted October 16, 2021
+msg:地段方便，入住愉快
+----------------------------------------
+name:X‍i‍o‍n‍g‍b‍a‍l‍v‍e‍r‍d‍u‍o
+info:Superior Suite
+info:Stayed in December 2021
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted December 26, 2021
+msg:很温馨細緻
+----------------------------------------
+name:L‍u‍o‍b‍i‍n‍g
+info:Deluxe Boutique Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:34 Reviews
+rating:4
+posted:Posted September 4, 2021
+msg:位置不錯，服務還行
+----------------------------------------
+name:Z‍i‍-‍G‍e‍n‍g
+info:Superior Room
+info:Stayed in May 2021
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted November 6, 2021
+msg:位置優越，環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Boutique Double Room
+info:Stayed in May 2021
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted August 3, 2021
+msg:非常不錯的酒店
+----------------------------------------
+name:X‍i‍e‍h‍a‍i‍h‍e‍n‍g
+info:Superior Suite - 2-Room
+info:Stayed in May 2021
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted October 3, 2021
+msg:非常好！不錯！
+----------------------------------------
+name:C‍h‍a‍o‍j‍i‍d‍a‍n‍i‍a‍o‍x‍i‍a
+info:Superior Room
+info:Stayed in July 2021
+info:Other
+info:1 Review
+rating:5
+posted:Posted August 3, 2021
+msg:很大的房間
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room
+info:Stayed in April 2021
+info:Business travelers
+info:6 Reviews
+rating:4
+posted:Posted September 6, 2021
+msg:服務好，衞生好
+----------------------------------------
+name:g‍1‍2‍2‍2‍8‍0‍8
+info:Deluxe Suite - 3-Room
+info:Stayed in April 2023
+info:Family
+info:81 Reviews
+rating:4.5
+posted:Posted July 3, 2023
+msg:一大家子來旅遊，房間大，還有客廳和廚房
+----------------------------------------
+name:g‍1‍2‍2‍2‍8‍0‍8
+info:Deluxe Suite - 3-Room
+info:Stayed in April 2023
+info:Family
+info:81 Reviews
+rating:4.5
+posted:Posted July 3, 2023
+msg:很不錯，市中心，很大房間
+----------------------------------------

@@ -1,0 +1,792 @@
+name:H‍a‍o‍c‍h‍i‍p‍o
+info:Guestroom (2 Beds)
+info:Stayed in October 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted October 15, 2023
+msg:Mango Terrace’s inn in Zhurongfeng must be given a super five-star rating! There are no flaws, I won’t say anything else. Anyway, I will stay at Chenxi every time I come to Nanyue from now on.
+----------------------------------------
+name:f‍e‍n‍g‍l‍a‍n‍g‍l‍i‍u‍m‍a‍n‍g
+info:Guestroom (Double Bed)
+info:Stayed in May 2024
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:服務：管家會提前聯繫，在接待站點會有車送我們去客棧，服務人員小劉簡直是萬能的，各個地方都有他的身影。接送服務簡直太好了。
+環境：離祝融峯很近，很可惜下雨天，沒能看到日出
+衞生：乾淨，整潔
+設施：有科勒智能馬桶，戴森電吹風，不過沒有浴缸。
+早餐種類有點少，建議增加煎蛋。晚餐出品水準可以，可以用優惠券抵扣。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in April 2024
+info:Couples
+info:23 Reviews
+rating:5
+posted:Posted April 10, 2024
+msg:一直以來希望在南嶽之巔有一個舒適高端的酒店，晨曦客棧填補了這一期望，軟硬件設施均屬上上之選，時尚且高端，泰國品牌的備品和戴森的吹風機、A牌的沙棘潤膚霜、都是國際豪華五星酒店的常備！還有隨處可見的芒果台元素，從酒店的高鐵接站到各種服務，餐飲，最後離店還安排了服務之外的送站，服務人員服務親切、友好，細緻入微！而且可以躺在床上看日出也是一大亮點，估計這家店在旺季會是一房難求的！
+----------------------------------------
+name:B‍i‍n‍g‍l‍e‍g‍e‍x‍i‍n
+info:Family Friendly Room
+info:Stayed in May 2024
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:房間大小合適，衞生很好，餐廳環境不錯，早餐新鮮，客房服務很好很專業。
+五一去的時候天氣不太好，山頂景色基本上啥也沒看見，不過淋雨爬山後可以洗一個熱水澡，一切又都完美了。
+以後天氣好的時候再去一次，看看山頂的日出吧😆
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in March 2024
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted March 18, 2024
+msg:各個環節的人員服務態度很好，接送站的司機開車很穩，平時繞山路暈車的我，這一次上下山都沒事，房間裏的飲料食品都是免費的，這一點特別贊，很適合家庭出行，省去了爬山的勞累，下次衡山之旅還會選擇晨曦
+----------------------------------------
+name:A‍w‍e‍i‍ ‍S‍H‍I‍N‍G‍O
+info:Guestroom (2 Beds)
+info:Stayed in March 2024
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted April 1, 2024
+msg:專車接送酒店服務，帶娃真的不用怕。服務員親切友善，細心解說房間語音控制。
+云端下午茶2人套餐: 茶真的不錯。
+万事顺意祈福香套餐: 第一次祈福，服務員耐心解說。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in March 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted March 16, 2024
+msg:酒店位置很好，很適合我這種爬山愛好者，從山腳下差不多4小時爬到酒店。住起來也舒服，空調地暖新風都有。山頂的風景好，房間可以看日出，前台管家都很熱情，早餐挺豐富，這次行程很愉快！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in February 2024
+info:Couples
+info:24 Reviews
+rating:5
+posted:Posted March 10, 2024
+msg:想不到在衡山頂居然有這麼好的一家民宿，不但可以看到日出日落，步行到祝融峯衹需幾分鐘的路程。民宿服務也特周到，為住客提供好祈福香，和隨叫隨到的出入專車，還暖心的提醒我到時間看日落了。超讚的一家民宿，值得推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in April 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted April 21, 2024
+msg:房間早上起來就可以看日出和雲海，感覺太美好了！管家服務讓我感覺賓至如歸，下次還會再來，紅酒拌手裡樣樣精緻！贊👍
+----------------------------------------
+name:E‍A‍G‍L‍E‍K‍I‍D
+info:Guestroom (Double Bed)
+info:Stayed in March 2024
+info:Solo travelers
+info:7 Reviews
+rating:5
+posted:Posted March 2, 2024
+msg:房間乾淨，設施齊全且很新。房間的小露台能看到山景、日出。離祝融峯特別近，早起能看到很多美景。酒店安排了車輛接送，十分貼心，4樓的觀景平台也很棒，看到很美的景色。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in January 2024
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted January 30, 2024
+msg:客房管家熱情體貼，響應及時，幫我們免費升級了房型。酒店接送的司機在崎嶇的山路上穿梭接送，車技專業，服務周到。可惜天氣不給力，沒有看到夕陽也沒看到日出。下次再遊衡山的話，還是會選擇晨曦客棧。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in January 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted January 24, 2024
+msg:位置就在上封寺旁邊…霧凇時期，車子不可以直達山頂…需步行上山…帶着小朋友走走停停，一路看冰，還好…
+客棧後邊有一個院子，景色也非常棒…
+客棧小哥哥和小姐姐非常熱情❤️，有問必答
+PS 不要在這裏訂什麼，這個平台這個價格不含門票不含餐券，但其他是送雙人門票+200餐券
+虧到爆
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in January 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 20, 2024
+msg:酒店環境很好，工作人員服務也很周到，19號早上師傅搭我們上山，到了山上還可以看到雲海，過一會就下雨了，整個下午都斷斷續續在下雨，到了晚上吃飯的時候就開始結霧凇了，路面也很滑。房間很智能，洗澡熱水也很充足，在山上實屬不易，晚餐也不錯，就是價格有些貴，早餐管飽。總之一句話除了貴，沒有缺點，但是意外遇到霧凇我們還是覺得很值得，這是一個幸運之
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in December 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 1, 2024
+msg:非常滿意！
+1-房間位置絕佳，親子房佈置温馨，並且冬天有地暖、智能服務。
+2-餐廳的飯菜味道非常好，並且乾淨衞生，孩子吃的很開心
+3-有上下山接送服務，非常節省體力！
+4-整體酒店位置非常好！老闆和服務員服務熱情、專業！再來衡山還會住這裏！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in March 2024
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted May 21, 2024
+msg:酒店很新，老闆很熱情，幾乎在山頂，上封寺隔壁，有車到山下接送，體驗感很好，從酒店大概步行10分鐘就到山頂，值得再來。
+----------------------------------------
+name:D‍e‍x‍i‍a‍n‍y‍u‍e‍f‍a‍n
+info:Guestroom (2 Beds)
+info:Stayed in December 2023
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted December 29, 2023
+msg:在計劃去衡山 訂了高鐵票和酒店客棧後，就看到小紅書很多人説到衡山遊玩的體驗感非常不好，一開始還有點擔心的；在臨近出發前，客棧的管家有跟我聯繫，幫忙預訂門票和確定高鐵到達時間安排接站，司機大哥人也非常好，到達的第一時間接我去其它酒店，待我跟朋友匯合整理好行李又接我們上山，因為是霧凇的季節，車子衹能要半山，邊走邊玩，走了四個多小時到客棧，客棧的環境和配置真的很不錯，房間可以直接看到日出，上到四樓的露台視野更開闊，客棧區域內的 外圍風景也超級無敵美，一開始衹是以為山上的建築成本高，所以價格貴，但是整體服務做得還是很不錯的，下山的時候司機大哥也有來送我們；有一丟丟美中不足的就是房間地暖熱得太慢了，可能是廣東人太怕冷，另外還有就是管家的微信回覆得太慢太慢了
+----------------------------------------
+name:T‍T‍T‍C‍C
+info:Guestroom (2 Beds)
+info:Stayed in December 2023
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted December 30, 2023
+msg:客棧在上封寺旁邊，包門票和接送。在城區上車，只要下車過一下閘機再上車，就能直達客棧。客棧離祝融峰20分鐘左右。
+包200元吃飯，是足夠的。
+房間衛生👌🏻，是滿意的。
+早上向窗外看就能看見日出👍🏻
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in December 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted December 17, 2023
+msg:酒店管家非常nice ！整個酒店的所有工作人員都非常好，服務真的很好，我一個人帶倆小朋友入住，酒店門口就是超美的雪景，酒店左手邊後花園裡還有一個南嶽之巔的打卡地，非常值得推薦的酒店，視頻就是在房間窗户上拍的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in December 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted December 17, 2023
+msg:看霧凇必須住這家酒店，山頂上，周圍全是美景，孩子累冷了就回酒店休息休息，酒店的服務超好，什麼都不用操心，衹管享受美景，還有酒店地暖空調很暖和，室內二十幾度，室外負9度，環境很好，孩子們好喜歡小芒機器人，住得很舒服，玩得很盡興，推薦了給很多朋友，感謝酒店的工作人員，很熱心很熱情很周到！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in January 2024
+info:Friends
+info:40 Reviews
+rating:5
+posted:Posted January 16, 2024
+msg:房間很雅緻，屋外景色很美，酒店餐廳的菜品口味出乎意料的好！下午趕上了晚霞的尾巴，清晨起床空氣清新，雖然有霧也看到了太陽升起，唯一遺憾就是上下的車有點不方便！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in January 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 23, 2024
+msg:好……………………………………………………………………………………………………………………………………………………………………………………………
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in December 2023
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted December 2, 2023
+msg:非常正，可以到高鐵站來回接送，司機大哥非常熱情和我們講景區的相關情況，和我們聊衡陽文化。客棧工作人員態度非常友好，而且客棧設施很智能，有晚餐（攜程訂的有餐券），有早餐，還幫買了景區門票，簡直就是，一下高鐵，什麼都不用管直達房間……特別説一下，廚師廚藝槓槓，做的菜很好吃，早餐也是非常豐富又美味，太棒啦
+----------------------------------------
+name:M‍i‍c‍h‍e‍l‍l‍e‍_‍Y‍e‍1‍1‍2
+info:Guestroom (Double Bed)
+info:Stayed in November 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted November 19, 2023
+msg:住在南嶽之巔，七座車來回高鐵接送。因為是週五入住，所以體驗到了工作日與休息日，酒店上下同心協力。閑時各司其職，忙時有條不紊、互相幫忙的温暖。除了特別看重的智能衞浴以及語音控制室內設施外，酒店的地暖也要點讚的👍 大愛全部朝東的窗户，語音喚醒打開窗簾後，直接躺床上就能看到“山上日出”！空下來，除了陽台喝茶看書外，4樓的休閑區可發呆，可閑聊，可抄經。大平台可觀日出🌄 ，可拍日落🌅 。感謝非常用心的陳經理，發現了無聊弄墨的我説毛筆不稱手，專門下山給買的細毛筆。還會再來的，感謝所有温暖的晨曦人🍭 🍭 🍭
+----------------------------------------
+name:S‍h‍u‍0‍0‍7
+info:Guestroom (Double Bed)
+info:Stayed in December 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted February 3, 2024
+msg:山頂重新裝修的酒店，房問有地暖，TOTO的衞浴，有車接送，餐廳的飯菜也很好吃，山頂的風景自是不必説，很少寫住後評論，這家在衡山來説真的是天花板，很贊
+----------------------------------------
+name:T‍a‍o‍t‍a‍o‍1‍9‍2
+info:Guestroom (Double Bed)
+info:Stayed in January 2024
+info:Friends
+info:12 Reviews
+rating:5
+posted:Posted January 15, 2024
+msg:在房間能看到日出，酒店近上封寺，酒店有商務車負責接送，雖然在山頂，但衞生條件和環境都不錯，畢竟價格擺在這了。🤭
+----------------------------------------
+name:D‍a‍o‍f‍e‍n‍g‍0‍0‍6
+info:Guestroom (Double Bed)
+info:Stayed in November 2023
+info:Couples
+info:87 Reviews
+rating:5
+posted:Posted November 5, 2023
+msg:衡山山頂值得推薦的民宿，離祝融峯十幾分鍾路程，上山下山商務車接送，早餐簡潔營養豐富，中晚餐廳師傅手藝不用懷疑，房間檔次裝修花了心思，樓上喝茶的好地方，邊喝茶邊欣賞風景很愜意，工作人員服務熱心，主動，就是有瑕疵也會舂風化雨，潤物無聲。對環境檔次有要求的，最佳選擇。
+----------------------------------------
+name:J‍u‍e‍b‍a‍n‍s‍h‍a‍n‍l‍i‍r‍e‍n
+info:Guestroom (2 Beds)
+info:Stayed in December 2023
+info:Family
+info:53 Reviews
+rating:4.7
+posted:Posted December 24, 2023
+msg:客棧設施不錯、有地暖有空調熱水廁所全自動，風景一流，服務一流，就是貴，要多吸塵，地毯和廁所有些毛髮。如果有機會還來衡山頂我還會住這
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in December 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted December 18, 2023
+msg:房間設施很好，環境優美，晚餐點餐很好吃。遇到霧凇旅遊高峯天氣不好，問題溝通能及時解決，服務到位。難忘的一次經歷。希望天氣轉好能再來旅行。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 17, 2024
+msg:第一次去，行程順利，沒有坑，一切都好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in April 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted April 21, 2024
+msg:房間很乾凈且設備智能，最主要是服務沒話説，有行李但想徒步登山的可以幫忙接行李上山，不想徒步的提前聯繫還有車接上山，下山因為趕時間跟工作人員聯繫就幫忙送到了車站，非常貼心，爬衡山在山上的理想住宿。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in December 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted December 9, 2023
+msg:房間乾淨衞生，可以躺着看日出，酒店的服務態度很好，全程接送，餐廳的東西出品新鮮，味道好，五星好評，以後有機會還會再來。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in March 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted March 3, 2024
+msg:很棒的住宿體驗！下次還會繼續來
+----------------------------------------
+name:b‍i‍n‍a‍r‍y‍n‍i
+info:Guestroom (Double Bed)
+info:Stayed in March 2024
+info:Solo travelers
+info:1 Review
+rating:4.5
+posted:Posted March 31, 2024
+msg:房間乾淨整潔，裝修和設施都比較上檔次。
+我從山底一路上爬上來，可以舒服洗個澡，睡個好覺太重要了。要是有推拿捏腳項目就完美了。
+餐廳菜品也不錯，就是早餐準備的分量不太夠。8點去有些食物就沒有了。
+早上看日出絕對完美。
+----------------------------------------
+name:b‍a‍o‍b‍a‍o‍1‍2‍0‍6
+info:Guestroom (Double Bed)
+info:Stayed in November 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted November 19, 2023
+msg:服務一流，環境一流，景色一流，待遇一流，除了貴一點，沒有任何毛病。以後我去南嶽就住這裏了😊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in October 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 15, 2023
+msg:太美啦，沒想到山上還有這麼好的酒店，接站送站，温暖舒適，每個人都很友善，景觀更是美死了。日出日落都在天台看的。
+----------------------------------------
+name:B‍e‍n‍ ‍n‍i‍u‍o‍x‍i‍o‍n‍g
+info:Guestroom (2 Beds)
+info:Stayed in October 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:房間挺乾淨，設施很齊全，吹風筒還是戴森的令人意外。還能看日出日落。位置離祝融峯非常近，走過去十分鐘，超級方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 28, 2023
+msg:除了貴，也沒有其他缺點了。這一晚的價格等於前面5晚的總價格。新裝修的中式風格，進門就聞到淡淡的清香，房間乾淨雅緻，大陽台有躺椅和沙發，遠眺山景風光盡收眼底。一家4口有點擠，店家免費加了床，加了2套洗漱用品。還免費提供了兩個小童早餐。中式早餐也很不錯，晚上送了果盤和零食盤，冰箱送了4支不同的飲料。服務很好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 10, 2023
+msg:房間硬件設施很好，乾淨衞生。我定的是雙床房，和大哥換的這個親子房很適合帶小孩來玩，離祝融峯很近。日出最佳觀賞點。前台小姐姐小哥哥也很熱情😃建議住店前先打電話給酒店加微信這樣會方便很多。
+----------------------------------------
+name:H‍a‍n‍n‍a‍h‍1‍9‍7‍4
+info:Guestroom (Double Bed)
+info:Stayed in January 2024
+info:Solo travelers
+info:29 Reviews
+rating:5
+posted:Posted February 4, 2024
+msg:1月22日拜山，遇上了狂風暴雪，單程9公里衹有徒步一種方式 登頂1300米處。這對於一個“資深”十餘年的關節炎患者是多麼的不可能完成！結果卻是我突破了自身體能的極限，完成了本不可能完成甚至連想都不會去想的艱苦“任務”！！除了自己壓箱底兒的意志力，除了一路上應接不暇既震撼人心又讓人心驚肉跳的“美景”，最終能讓我堅持一步一步走完全程的決定力量來自於晨曦客棧及時的應援和救助！！！在夜色越來越濃的茫茫風雪中，當我從電話中確認了前方會有人在等我，當我從模糊不清的能見度中看到了一個高大的身影，當我在小哥哥小姐姐輪番上陣的攙扶和鼓勵下，我越來越確幸和感受到：衡山有緣，晨曦有情，自心有佛。
+再次感謝那晚因為我的“遲來”而趕到南天門接應我的那位帥哥和幾位小仙女！雖然風雪夜色中沒看到每個人清晰的面容，雖然事後幾天哪個是哪個也一直沒能對上號，但酒店服務帶給我賓至如歸的體驗是真實鮮活的，晨曦客棧團隊帶給我的温暖是清晰銘記的。
+晨曦暖陽，靜謐暗香，祝團隊和酒店一切順遂，萬事如意！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in November 2023
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted November 20, 2023
+msg:距祝融峯最近的酒店，環境優美在房間可觀日出，接送周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in July 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted July 23, 2023
+msg:也是朋友推薦來的,水果/軟飲充滿品質感, 佛系早餐很有意思,橙色燈光氛圍,感覺客房的設計非常用心,很温暖也温馨，一家出遊挺安逸,滿滿的芒果橙色調，望着無盡的遠方發呆,讓人感到久違的放鬆和療愈。手機拍了幾張圖 實在表達不出現場那種空靈/空曠感覺.接車的小夥很贊.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 22, 2023
+msg:入住前景區門票和進到景區內的接送都做了非常細緻安排，沿途景區擺渡車風景也非常好，就是山上有點冷，穿一件還冷，進到房間橙色調的我很喜歡，風格融入了宋式文化等元素，展現出高貴、典雅的文化氣息，給人一種生活活力和迴歸自然的感覺。祝融殿不到一里地，又發現一個觀日月星辰寶藏之地。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in July 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted July 22, 2023
+msg:遠離城市喧囂，沉浸在山林自然，空氣中充滿了南嶽衡山特有的舒緩，祝融峯景美如畫，爬爬山散散心，五嶽獨秀打卡一下，被當地濃厚的祈福氛圍所感染，入山隨俗許了願，若心願達成，明年再來還願，晨曦的石頭上為啥有個湖南衞視的台標，讓人感到非常熟悉，感謝前台小妹的接洽門票安排車輛南天門接我們到店裡，省心又省事。
+----------------------------------------
+name:W‍u‍s‍h‍i‍s‍h‍i
+info:Guestroom (Double Bed)
+info:Stayed in November 2023
+info:Friends
+info:17 Reviews
+rating:5
+posted:Posted December 3, 2023
+msg:地理位置非常好，景觀非常好，價格非常“好”
+----------------------------------------
+name:c‍o‍n‍n‍i‍e
+info:Guestroom (Double Bed)
+info:Stayed in December 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted December 14, 2023
+msg:五星服務，房間舒適。窗外景色很美。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in September 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted October 2, 2023
+msg:客棧地理位置優越，能夠在衡山西站接站直達南嶽衡山上封寺山頂，觀看衡山日出的絕佳選擇。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in December 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted December 28, 2023
+msg:一次非常好的體驗！服務態度超級好，而且不會叫你去app好評，因為體驗很好，所以決定主動好評。美中不足的地方就是在山上沒有外賣叫，然後食堂的款式也比較少，要我們遊客遷就款式還有吃飯時間，不過就當作是山頂的體驗，要求不能太多這樣已經很不錯了。還有不要帶大件行李上山，有機會路面結冰打滑，司機無法送到酒店門口，需要步行上酒店，上次幸好行李不多。還有房間再大點就好了，冬天外套多，顯得有點擠
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:重新裝修後第一次入住，酒店服務員態度非常好👍環境條件也比以前好很多，在房間就可以直接看日出，唯一遺憾，此行因天氣原因，未能看到日出的美景，下次再來補上。
+----------------------------------------
+name:h‍a‍i‍s‍c
+info:Guestroom (Double Bed)
+info:Stayed in February 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:酒店位置很好，走十分鐘就能到祝融峯，房間陽台都朝東，早上不用出門就可以看到日出，服務也挺好的，入住遇到一點問題也積極解決了，滿意，下次來還會訂這家
+----------------------------------------
+name:M‍a‍y‍i‍z‍o‍u‍t‍i‍a‍n‍x‍i‍a
+info:Guestroom (Double Bed)
+info:Stayed in June 2023
+info:Couples
+info:22 Reviews
+rating:5
+posted:Posted June 30, 2023
+msg:全新裝修後第一次入住，感受到了全體工作人員熱情和專業的服務，而且還從南天門接送實在是方便，餐廳也全新升級了，早餐豐富，非常愉悦的一次入住體驗！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in November 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 4, 2023
+msg:酒店真的很棒，就是價格有點小貴哈。負責接送的司機師傅熱情，駕駛技術嫻熟；前台小哥哥彬彬有禮；餐廳的服務人員更是服務周到。而且還參加了他們的登山活動，更體現出他們的服務至上的意識，全程都有工作人員拿着救急箱跟隨，更貼心的半途還給準備了水。總體來説，這家酒店值得點贊👍
+----------------------------------------
+name:a‍n‍t‍o‍n‍y‍8‍0‍4
+info:Guestroom (Double Bed)
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted March 12, 2024
+msg:酒店位置非常適合遊衡山，在山頂近上封寺、祝融峯，最佳的是方便拍攝日出&日落。酒店服務好，周到有禮，價格雖貴點，但值得推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in October 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 9, 2023
+msg:本次入住體驗感還是不錯的，位置優越，距離祝融峯最近，大廳簡潔大氣，前台管家小汪服務周到主動，房間採光也不錯，床墊舒服，設施設備也完善，還送了免費的小吃零食水果和礦泉水，是一次值得的體驗！下次再來～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in January 2024
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted January 17, 2024
+msg:酒店在景區內，首先值得一提的就是風景好，到處都是風景，拍照便捷，出片好。酒店房間設施齊全舒適整潔，價格與房間比稍微有點小貴。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in January 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted January 30, 2024
+msg:前台很熱情，提供的冰爪質量很好，餐廳做的飯很好吃。酒店很乾凈可以看到日出和月亮，門口還可以玩雪有很漂亮的雪人。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 9, 2023
+msg:這次旅遊超級滿意，住宿有一種家的感覺，太好了。服務周到，熱情好客，衞生狀況也好，設施齊全，休息，餐飲，一應俱全
+服務人員形象好，氣質佳，素質高，貼心服務，微笑服務。很暖心，都是普通話
+接送的司傅很熱情，上山很陡的路，車技嫻熟
+----------------------------------------
+name:C‍e‍n‍g‍y‍a‍n‍c‍h‍u‍-‍S‍L‍C
+info:Guestroom (2 Beds)
+info:Stayed in January 2024
+info:Family
+info:166 Reviews
+rating:5
+posted:Posted January 27, 2024
+msg:去的時候正好衡山下雪，景色很美，就是上山有點費勁，不過服務特別周到熱情。房間設施設備齊全，很温暖温馨。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in October 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted November 10, 2023
+msg:祝融峯上唯一的酒店。環境、風景非常棒！缺點是衹能在酒店就餐，建議酒店能與周邊農家樂等有能力餐館合作提供接送服務，為客氣提供更多就餐選擇。
+----------------------------------------
+name:K‍u‍a‍n‍l‍e‍r‍e‍n
+info:Guestroom (Double Bed)
+info:Stayed in December 2023
+info:Solo travelers
+info:47 Reviews
+rating:5
+posted:Posted December 3, 2023
+msg:房間及服務都很好，酒店就在山頂，離祝融峯就10分鐘路程，接送服務使得上山不是難事。很好，下次還會去。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in July 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 14, 2023
+msg:這家店好像新開不久，就在上封寺旁邊，服務很好，熱情細緻周到，房間乾淨衞生，在陽台上就能看日出，非常方便。雖然我們住的那天沒有日出，但是把手機放陽台上錄到了天亮的過程。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in December 2023
+info:Couples
+info:9 Reviews
+rating:5
+posted:Posted January 25, 2024
+msg:南嶽衡山風景名勝區（城區-南天門上封寺）接送:服務號，
+衞生：乾淨，風景優美，看日出日落特別美！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 15, 2024
+msg:很滿意，爬山固然很累，但是終點有美妙客棧停留，樂哉～P.S 餐廳菜也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Friendly Room
+info:Stayed in December 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted January 3, 2024
+msg:這次旅行真的太棒了，酒店的地理位置絕佳，服務超棒，管家貼心，服務周到，太讚了！推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in August 2023
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted August 28, 2023
+msg:房間設施上檔次，衞生乾淨，服務很好，很熱情，特別前台服務的漂亮美美和小帥哥熱情周到，車隊師傅接送辛苦了，餐廳飯菜也不錯，住着很温馨！
+----------------------------------------
+name:N‍o‍u‍v‍e‍l‍s‍i‍n‍g
+info:Guestroom (2 Beds)
+info:Stayed in January 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted March 31, 2024
+msg:位置很好，離峯頂就幾步路的距離，適合一早起來看日出，酒店工作人員都很友善
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in January 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 21, 2024
+msg:房間很好，服務周到，提出的問題都能及時解決，推薦上山的姐妹，真的很可以。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in January 2024
+info:Solo travelers
+info:2 Reviews
+rating:4.5
+posted:Posted January 29, 2024
+msg:酒店環境非常不錯，唯一的缺點就是房間熱水不夠熱，冬天沖涼就不是太好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in November 2023
+info:Couples
+info:40 Reviews
+rating:5
+posted:Posted November 25, 2023
+msg:房間設施齊全、乾淨衞生、服務到位、酒店位置優越，早餐美味，簡約不簡單
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in December 2023
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted December 20, 2023
+msg:很不錯 地理位置很方便 服務也很好 下次來還住這裏
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in December 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted December 9, 2023
+msg:設施很好，有地暖，全屋智能化，酒店服務很好，貼心。
+----------------------------------------
+name:K‍e‍l‍i‍z‍h‍e‍n‍t‍u‍t‍i‍e‍m‍u‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in October 2023
+info:Other
+info:30 Reviews
+rating:5
+posted:Posted October 29, 2023
+msg:環境一流，風景無敵，服務更是無敵，很不錯的一次體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in November 2023
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted November 19, 2023
+msg:酒店位置很好，服務很好，相當滿意，下次繼續。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in December 2023
+info:Couples
+info:23 Reviews
+rating:4
+posted:Posted January 26, 2024
+msg:服務好，菜味道尚可，但菜式選擇性太少了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 8, 2024
+msg:山頂客棧非常棒，第二天看景一流
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in December 2023
+info:Family
+info:33 Reviews
+rating:4
+posted:Posted March 7, 2024
+msg:帶長者不爬山的絕佳選擇，價格稍高
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in November 2023
+info:Other
+info:11 Reviews
+rating:5
+posted:Posted November 10, 2023
+msg:衡山上最好的也是唯一的酒店 服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in August 2023
+info:Family
+info:36 Reviews
+rating:4.2
+posted:Posted August 10, 2023
+msg:位置很好，服務人員態度非常好。看日出日落的最佳位置
+----------------------------------------
+name:S‍U‍N‍L‍E‍E‍K‍I‍N
+info:Family Friendly Room
+info:Stayed in March 2024
+info:Friends
+info:29 Reviews
+rating:5
+posted:Posted March 26, 2024
+msg:方便舒適，不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in April 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted April 30, 2024
+msg:服務非常不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 4, 2024
+msg:各方面都非常出色
+----------------------------------------
+name:s‍u‍p‍i‍c‍e
+info:Family Friendly Room
+info:Stayed in November 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted December 1, 2023
+msg:5星好評，值得再來、
+----------------------------------------
+name:s‍h‍e‍y‍i‍n‍e
+info:Guestroom (Double Bed)
+info:Stayed in March 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 10, 2024
+msg:服務比較滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in November 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted January 24, 2024
+msg:很好，風景不錯
+----------------------------------------
+name:J‍e‍e‍p‍e‍r‍7‍1‍7
+info:Guestroom (Double Bed)
+info:Stayed in October 2023
+info:Solo travelers
+info:35 Reviews
+rating:5
+posted:Posted December 19, 2023
+msg:總體還是不錯的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:4
+posted:Posted August 27, 2023
+msg:除了貴！都還不錯！！
+----------------------------------------

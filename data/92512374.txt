@@ -1,0 +1,1505 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted June 7, 2024
+msg:設施：酒店設施很齊全，還配備了電子體重秤，特別滿意
+衞生：房間衞生很不錯，床單毛巾都會及時更換，很放心
+環境：周邊夜景特別美，有很多五顏六色的燈光
+服務：前廳的賓客服務經理張晶晶還主動幫忙拿行李併為我送到了房間，非常感謝！還有酒店的早餐也是非常的豐盛，酒店的每一位員工感覺都很熱情，讓人印象深刻！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted June 9, 2024
+msg:酒店設施很齊全，有健身房，棋牌室，燒烤也營業啦，晚上坐在外面吹着風，吃着燒烤，還可以唱歌，特別的愜意。酒店服務特別的好，前台張苗苗服務特別熱情，給我介紹了周邊的旅遊景點，特別貼心
+----------------------------------------
+name:F‍a‍n‍f‍a‍n‍y‍a
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted June 2, 2024
+msg:酒店環境很好，衞生打掃的乾淨，入住體驗感相當哇塞，早餐也搭配的非常合理，水果很新鮮，前台小姐姐張娜很熱情的給我們辦理了入住，講解了附近的遊玩地方，非常的哇塞，很贊。
+----------------------------------------
+name:m‍a‍g‍g‍i‍e‍6‍9
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 27, 2024
+msg:房間乾淨整齊、衞生潔凈，免費給我們送了兩個人的早餐，還給我們送了水和水果路上吃，服務太好了！下次來榆林出差還要住這個酒店😊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted May 12, 2024
+msg:進入酒店便給人一種優雅高貴的感覺，前台的服務也很貼心，小姐姐給我們介紹了附近的旅遊景區，由於氣候乾燥還為我們準備了水果，非常貼心，很nice👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted June 3, 2024
+msg:很滿意，入住的時候行李比較多，前台張娜小姐姐幫我搬的，還送到了房間，酒店的環境確實不錯，設施也很完善，期待下次再來!
+----------------------------------------
+name:Z‍u‍o‍y‍i‍d‍a‍s‍h‍a‍n‍g‍h‍a‍i
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:46 Reviews
+rating:5
+posted:Posted June 8, 2024
+msg:酒店各種設施設備配件服務都很好，就是地理位置不咋樣，前不着村後不着店。交通非常不便利。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 7, 2024
+msg:大堂環境舒適，有股淡淡的香薰味道很好聞，辦理入住時前台工作人員張苗苗服務特別周到，讓一路奔波的人倍感温馨，非常喜歡這個酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 11, 2024
+msg:酒店環境好，前台服務也很不錯，小姐姐們都很熱情，離開的時候小張還幫我們把東西送到了車上，非常感謝
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 2, 2024
+msg:房間舒適衞生，服務人員很熱情，樂於提供各種幫助，前台曹歆瑤非常熱情，還給房間送了水果。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 14, 2024
+msg:房間乾淨，空間寬暢，出差喝了酒留住了一天，前台服務很細，心王靜服務很好，值得推薦😃😃😃
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted June 1, 2024
+msg:酒店很不錯，服務也很好。那麼荒涼的地方就這個酒店還能帶給人一絲安慰。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 4, 2024
+msg:酒店裝修很獨特，早餐特別豐富，前台張晶晶服務很細緻，給大家點贊👍
+----------------------------------------
+name:S‍h‍e‍n‍h‍a‍i‍w‍e‍i‍y‍u
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 3, 2024
+msg:大廈環境很好，房間乾淨整潔，前台小艾服務態度好，早餐好吃
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:非常滿意！乾淨衞生，特別前台服務員小艾等服務周到，熱情大方！為前台點贊！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 21, 2024
+msg:房間乾淨舒適，一樓的小火鍋和三樓的中餐味道也都很好
+特別特別要謝謝前台的小姐姐，聽到我們要連夜開車回西安還特意準備了咖啡，超級暖心。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 14, 2024
+msg:酒店夜景很美 前台小張和小艾服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 1, 2024
+msg:衞生：非常乾淨整潔
+設施：很齊全，晚上住宿環境蠻安靜的
+服務：小韓特別貼心，服務態度很不錯，對於常年出差的我來説真心推薦，整體來説非常滿意哦￼
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted April 27, 2024
+msg:房間大，乾淨。前台小張和小艾服務很好
+----------------------------------------
+name:B‍i‍n‍g‍j‍i‍l‍i‍n‍g‍s‍h‍u
+info:Superior Double Room
+info:Stayed in March 2024
+info:Booked for others
+info:5 Reviews
+rating:5
+posted:Posted April 22, 2024
+msg:停車方便，早餐豐富，
+房間乾淨整潔，前台小艾服務態度好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Other
+info:101 Reviews
+rating:5
+posted:Posted May 27, 2024
+msg:酒店座落在榆神工業園，工業園區和綠茵綠化交相輝映，遠離市區，顯得格外安靜。環境幽美，視野開闊。根據自己的人生經歷和體驗，這裏的管理是最好的。這是親眼所見和親身經歷，不是書本編造和宣傳報道。前台、客房、早餐、中餐服務皆佳，令人歡喜。衹是下午五、六點欲換房時，前台有點推辭，可能是新員工業務不熟。但晚上又欲換房時，服務超佳。看了20.21層好幾個房間，細緻耐心。雖然沒有換，但心裏感到滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:5 Reviews
+rating:4.7
+posted:Posted March 30, 2024
+msg:早餐豐富，房間乾淨整潔，設施齊全
+----------------------------------------
+name:F‍e‍i‍z‍i
+info:Superior Double Room
+info:Stayed in September 2023
+info:Couples
+info:32 Reviews
+rating:5
+posted:Posted October 1, 2023
+msg:從山西去西安選擇的中途落腳點，出乎意料的好。房間大，設施新、衞生好，布草舒適、洗澡水大，停車方便。本想睡一覺就走，前台的小妹推薦我們去高家堡（電視劇平凡的世界的拍攝地）遊玩，確實很近。於是在房間觀賞了沙漠日出，在高家堡看了腰鼓秧歌，令旅途生輝。因為是雙節假期，這個酒店不在市區住客較少，早餐是配給的，豐盛的超乎想象。入住有好大一盤歡迎水果，還提供下午茶和夜宵，房間水配了4+2瓶，實在太貼心了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted October 5, 2023
+msg:這個酒店讓我感受到了賓至如歸，超級棒，以及超級推薦，從硬件到服務都是一級棒，真的很棒
+
+沙漠明珠
+
+從高家堡玩回來已經很晚了，之前預訂看見大家都在推薦，然後就預訂了
+
+在黑漆漆的神木突然看見了一個很高的閃光✨的大樓，讓我眼前一亮
+
+停車場很大，整個酒店超級的氣派，業主也很有實力是當地的榆能集團，進入大堂很温暖，不像很多酒店為了節能大堂都很冷，他們超級暖和，長者也很開心，然後前台小哥很帥，長得像明星一樣，叫車偉凱，耐心的給我介紹酒店，還給安排了高樓層的房間，讓人暖暖的，服務很貼心，然後有出來了一個小姑娘，也是笑笑的，感覺他們的微笑是發自內心的喜歡，喜歡每一位客人，為我辦理入住，後付照片
+
+入住之後房間真的很哇塞，很大，衞浴科勒，並且房間配了8瓶水，也是比較貴的沙漠甘泉，喝起來甜甜的，房間的客品也很新，室外已經很冷了，基本上幾度，可是房間24度，很暖和，並且拖鞋也很軟，洗漱的用品很香，古龍水的味道，木質的很高級，水也很大，床也很舒服，床品也很乾凈，一看就是才烘乾的，蓬鬆的，睡了一個好覺
+
+第二天去吃早餐，每一個服務員以及經理都會對你很熱情的招待，他們發自內心的微笑以及問候讓我覺得他們真的很美，花開富貴的那種美麗，會主動給你介紹，還有現場製作的煎餅果子，會親自給你送過來，我起來晚，已經結束了，可是他們並沒有收餐，等着每一位客人用完
+
+離店的時候前台的妹子也是讓我感動哭了，問我水夠不夠，又給我拿了3瓶，然後還是很暖心的把我送到了門口
+
+我是一個從來不寫點評的人，但是你們的微笑以及你們的服務感動了我，我今天入住了延安的一家比較豪華的酒店，可是和你們的服務相比真的差遠了
+
+長者一路上都在表揚你們，我希望更多人看見都可以選擇入住你們酒店，可以讓更多人感受到你們美好的服務
+
+硬件5⭐
+服務7⭐
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted October 7, 2023
+msg:此次國慶節最大的驚喜就是榆神大廈酒店。
+      這個酒店本來衹是作為我一個過渡酒店來安排的，沒想到給了我非常多的驚喜。榆神大廈坐立於榆林榆神工業區，高高地佇立在工業羣中。
+       一進大堂，富麗堂皇，不亞於五星級酒店，也是榆林地區的豪華酒店。看到我們帶兩小朋友，主動為我們升級了套房。高速電梯很安靜，沒有一點眩暈的感覺，很快到了24樓。
+        打開房間太開心了，一間會客廳，一間卧室，衣帽間，衞生間也非常豪華，一切都是完美，完全不亞於三亞的度假酒店啊。尤其是在高處可以看到風力發電大風車和光伏太陽能發電，在夕陽下景觀絕絕子。
+茶具，膠囊咖啡，各種備品也非常齊全，坐車勞累了一天，喝喝茶 看看國慶晚會非常舒適。雖然周圍沒有吃飯的地方，但是餐廳就在三樓，小孩子想吃細細的麪條，於是點了酸湯麪，是榆林這邊的空心掛麪，味道好極了。還有榆林當地的豆腐也非常好吃，還給送了月餅，真的特別滿意。
+     浴室漱口水都是純凈水，還叮囑我們可以隨意要礦泉水，給前台打電話即可，因為帶着小孩，也細心送上了一床單人被。第二天的早餐是送餐，給小孩子都送了一份，吃的很好。臨走時，美女經理還給我送了可打包的現磨咖啡，這個國慶節的旅途從這裏愉快開始。
+      榆林人真的好熱情，真的太滿意了
+----------------------------------------
+name:L‍a‍n‍s‍e‍l‍i‍u‍x‍i‍n‍g‍h‍u‍a‍y‍u‍a‍n‍x‍i‍a‍o‍q‍u
+info:Superior Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:3 Reviews
+rating:3.5
+posted:Posted October 1, 2023
+msg:設施：比較新的酒店，衞浴都是科勒的，房間面積也不小，硬件設施還是可以的。
+服務：前台服務可能是新手，業務不熟練。
+最不好的就是早餐自助因為人少居然取消了，改成送盒飯到房間，孩子也沒有單獨準備餐食，有種上當受騙的感覺！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in December 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 26, 2024
+msg:設施：五星標準
+
+衞生：很乾凈
+環境：很好，裝修大氣
+服務：前台服務很細緻周到
+早餐雖簡，但出品質量不錯
+----------------------------------------
+name:�‍�‍l‍a‍n‍x‍i‍a‍n‍s‍h‍e‍n‍g‍�‍�
+info:Superior Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:71 Reviews
+rating:5
+posted:Posted November 1, 2023
+msg:入住體驗非常滿意，每次出差來榆林都會選擇這裏。前台服務態度好，還送了美味的果盤，作為一個吃貨很開心。房間裏面設施比較齊全，乾淨整潔。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 1, 2023
+msg:服務：服務好，尤其是前台的小姐姐，長得漂亮，説話有禮貌！
+
+衞生：乾淨整潔
+
+設施：非常齊全，房間加濕器，前台的熱茶天冷了正好驅寒。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted January 24, 2024
+msg:服務周到，五星好評，房間衞生乾淨舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted June 6, 2024
+msg:酒店設備齊全，衞生乾淨整潔，房間有免費的茶包和咖啡，還有免費停車場，早餐也比較豐盛。酒店服務態度好，張苗苗服務特別熱情，讓人很温馨，下次還來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:43 Reviews
+rating:5
+posted:Posted November 8, 2023
+msg:住宿環境還是非常棒，房間乾淨整潔，設施齊全，像家一樣舒適温馨。表揚前廳瑤瑤熱情周到，讓人感覺賓至如歸。
+----------------------------------------
+name:H‍u‍a‍n‍g‍h‍e‍x‍i‍a‍o‍s‍h‍i‍t‍o‍u
+info:Superior Room (2 beds)
+info:Stayed in January 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted January 12, 2024
+msg:挺不錯的  看煤化工風景景觀房 ！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 14, 2023
+msg:酒店非常好，環境衞生乾淨整潔，設施設備齊全，服務態度好，尤其前台小姐姐韓艷，長得漂亮，又待人親和，提的問題和要求都很耐心的幫我解決。客房的服務人員也很熱情，需要的東西第一時間就送了過來，非常好的入住體驗。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted September 19, 2023
+msg:這酒店讓在外的人，感受到歸家的感覺，這裡有住家的可口飯菜，這裡有温馨如家的環境，還有那周到齊全的全天候服務，住宿的環境、衞生等比同價的酒店好多了，房間乾淨、早餐豐盛、服務熱情、床舒服、通風良好、前台服務貼心、服務態度好、免費停車、房間物品齊全，態度規範，值得推薦，如果有機會，我還會來這裏。
+在這裏特別感謝韓艷小姐姐的接待，服務周到且專業，耐心細緻，讓我十分感動。
+----------------------------------------
+name:J‍i‍n‍x‍i‍a‍o‍s‍h‍i‍j‍m
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted August 14, 2023
+msg:這次因為出差選擇了這家酒店，不得不説服務很好，
+服務：前台服務特別好每次打電話問詢都很有耐心解答，行李生很有禮貌，隨時見面都問好。
+
+衞生：我是一個對衞生要求比較高的，一進門就檢查，沒想到沒讓人失望，衞生死角都很好。
+最後想説：藍天白雲太美了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:途經工業園，入住榆神大廈酒店，之前沒想到這裏還有這樣一個高級別的酒店，有些意外。酒店裝潢高端大氣具有現代感，硬件很好。抵達酒店就有前廳部帥哥美女的熱情接待，幫忙提行李，辦理入住，一種賓至如歸的感覺。房間整潔明亮乾淨，我這個比較注重房間衞生細節的人都無可挑剔，每個角落都擦拭的十分到位，酒店還準備了歡迎水果。晚飯後在酒店廣場散步，有幸看見美麗的夕陽和落日，一道難忘的美麗風景，喜歡。以後有機會一定再選擇入住這裏，酒店的服務一流，每個細節都可見管理者的用心。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted August 12, 2023
+msg:酒店位置在工業區內，在周邊出差很方便，而且很好找，一眼就能看到，去的時候接待的韓艷小姐姐很熱情，專門介紹了周邊可以旅遊的地方，而且酒店一樓還有燒烤，入住的時候還贈送了啤酒券，可以免費兑換兩杯啤酒，正好下午天氣不熱了可以小酌兩口。
+   酒店四樓還有免費的健身房，有我喜歡桌球室，這個是真的很意外，如果喜歡跑步建議去酒店外圍的跑道，空氣清新，而且傍晚的時候温度剛好下來了，床品是我比較喜歡的那種。以後出差我就會一直入住這個酒店了。
+----------------------------------------
+name:H‍a‍s‍h‍1
+info:Superior Double Room
+info:Stayed in September 2023
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted September 30, 2023
+msg:非常感謝前台接待的熱情服務，住過最温暖的酒店，下次還會入住，前台特意準備的咖啡和早餐送到房間，非常感謝熱情款待
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 30, 2023
+msg:出差到工業園區，真沒想到園區會配套這麼高規格的酒店，裝修洋氣時尚還很內斂有質感。但是，但是，非常值得誇獎的是這家酒店的服務，真是讓我意外呀，工作人員都非常專業，訓練有素，温文爾雅，房間的佈置也很好，寬敞乾淨。第二天退房較早，前台小姐姐居然給我送了一杯咖啡，還是現磨的，一句：您幸苦了！整個人都被這小美好感動了，潤物細無聲就是這種感覺吧，真心的覺得你們太棒了👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted July 20, 2023
+msg:酒店的服務還是一如既往的優秀，前台的姑娘們熱情真誠也很專業，讓人非常舒服還保有邊界感，值得誇獎。酒店贈送的歡迎水果很新鮮，房間衞生也很好，早餐也很不錯，還有當地的地方小吃，蠻温馨的，總之住的很開心，希望繼續保持！
+值得一提的是這兒的天真的藍的有點假，要不是有工作，必須坐下來安靜的欣賞一下藍天白雲！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted July 19, 2023
+msg:房間設施非常好 乾淨衞生 一進酒店門就有人幫忙拿行李 辦理入住也很快都是美女帥哥 早餐也很棒 種類非常多 還有服務員耐心介紹菜品 有種賓至如歸的感覺 重點是這個價格也很划算 性價比真的是超級高 不錯 很棒 希望繼續保持 下次出差依舊首選
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Family
+info:24 Reviews
+rating:5
+posted:Posted October 7, 2023
+msg:整體滿意，晚上發現旁邊的管道間聲音特別大，聯繫前台及時換了房間。三樓餐廳的本地菜不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 6, 2023
+msg:酒店不錯👍
+房間很舒適整潔，服務人員很熱情
+早餐簡單 但比較有特色，煎餅果子做的非常好吃
+前台工作人員很親切，送了一份水果，很不錯的一家酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 19, 2023
+msg:每次出差過來都會選擇這個酒店，房間乾淨整潔，東西都很嶄新，住着很舒服。
+早餐種類也挺多的，口味也比較豐富，可以有很多種選擇，中西結合的，挺不錯。
+周圍環境也不錯，下午沒事還可以去跑步，有室外跑步的地方，也有健身房。
+前台接待的韓艷和呂俞俞服務很好。
+----------------------------------------
+name:Y‍M‍I‍A‍O‍�‍�
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 18, 2023
+msg:酒店位於工業園區 是每次出行的必選之地 周邊環境很不錯 房間內乾淨整潔 很舒適 給人一種家的感覺 房內設備齊全 早餐豐盛 品類很多 很符合我的口味  前台接待的韓艷和楊秒服務態度好 很有耐心 還會再來的！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2023
+info:Other
+info:10 Reviews
+rating:5
+posted:Posted November 13, 2023
+msg:前台服務好，火鍋挺好的。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted August 13, 2023
+msg:房型很好，非常滿意。裝修都很新比較舒適。唯一的缺點是周邊交通不太方便。早餐也不錯，一樓還有燒烤。可以在户外吃燒烤。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:2 Reviews
+rating:2.5
+posted:Posted June 6, 2023
+msg:1，早餐一般吧 種類不是很多。2，第一天到店比較晚，十一點了，進屋比較熱沒有自動空調。晚上睡覺太熱了，打算開個空調，聲音巨大，根本睡不了覺，衹能關空調熱着睡，基本沒睡好。3，晚上問到衞生間反味，很臭。4，第二天打算換個房間，結果前提竟然猶豫半天，然客房服務先給我去看看情況，而且據説所有空調都那麼吵，我也是醉了。5，高潮了，第二天在健身房跑了步，很餓。趕上一樓花園燒烤節，我就本着湊熱鬧去點點烤串喝啤酒。沒想到啊，那麼曲折。點完菜，樓下做了半小時，除了頭五分鐘的一瓶啤酒，燒烤和主食連影子都沒。實在等不了，太餓了。我去找餐廳前台，提出我回房間了，剩下的餐要是快的話就送到我房間我付錢，要不就退了，我出個酒錢。餐廳經理信誓旦旦説很快，馬上送房間，我同意了。結果，又等了四十分鐘，我才得到剩下的，活久見啊。我的啤酒燒烤中間差了一小時！！！賴賬不可能滴，付錢必須的，但是我要了餐飲負責人投訴電話。打了電話，開吃，希望好歹能改善下服務吧。結果五分鐘後，餐飲經理來上門道歉了，送了果盤，退了飯費表示歉意。這個曲折過程，我簡單敍述下，自己判斷吧，總之是很少見的遭遇。
+----------------------------------------
+name:l‍o‍k‍i‍p‍e‍n‍g
+info:Superior Double Room
+info:Stayed in August 2023
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:從麻黃梁出來，考慮要去神木，同時對酒店要求較高，就選了這裏. 深處沙漠中的豪華酒店，酒店很新，硬件水平不錯!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in May 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted May 18, 2024
+msg:很滿意的一次入住，環境、價位、服務都很不錯，五一期間反向旅遊很好的選擇，唯一美中不足的是地理位置較偏。
+----------------------------------------
+name:Y‍o‍u‍l‍i‍k‍a
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted October 11, 2023
+msg:房間寬敞，硬件優質,服務周到，下次還住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted November 15, 2023
+msg:前台服務的接待人員態度很好，第一次過來，貼心的問了喜好，説冬季乾燥，特地送了加濕器，特別姓韓的姑娘幫忙拿了行李到房間，還介紹了房間，幫忙開了空調。房間設施也很新，很乾凈，下次來一定還會來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 6, 2023
+msg:去工業園區衹有這家酒店，環境真不錯，很氣派，前台服務員很熱情，根據喜好安排的房間也很滿意👍 推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 10, 2023
+msg:酒店整體還是很不錯的 前廳瑤瑤服務棒棒的 值得推薦哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Family
+info:55 Reviews
+rating:5
+posted:Posted February 8, 2024
+msg:酒店在回家路上高速邊上，酒店設施很新，很暖和，服務也挺好，由於住店客人不多，早餐直接給送到了房間，還給孩子送了早餐。👍謝
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 28, 2023
+msg:房間很乾凈，周圍環境不錯，很安靜，酒店餐飲也很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted April 17, 2024
+msg:酒店的衞生環境很好，設備也是比較齊全的，前台服務態度好，還給我們贈送了早餐，表揚前台人員張苗苗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 10, 2024
+msg:非常滿意的住宿體驗，酒店環境優越，配置齊全，服務態度一流，尤其是前台曹歆瑤態度超好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 2, 2023
+msg:衞生：很乾凈很整潔
+設施：設施很齊全
+環境：很好，很安靜
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 8, 2023
+msg:房間很大很乾凈，前台小姐姐服務態度也特別好，房間周圍風景也很不錯，值得好評～
+----------------------------------------
+name:K‍e‍v‍i‍n‍-‍1‍0‍0‍3
+info:Superior Double Room
+info:Stayed in August 2023
+info:Couples
+info:205 Reviews
+rating:5
+posted:Posted August 29, 2023
+msg:在網上看到評價好的酒店就預訂了，後來才知道不在榆林市區，而是在榆林和神木之間，不過歪打正着，離要去的石峁遺址更近些。經開區裏環境不錯，酒店也很新，應該是開發區配套的，所以服務很不錯。經開區裏沒有什麼餐廳，也沒有外賣，就在酒店裡用晚餐，味道不錯，價格不算便宜也不算太貴，正常高檔餐廳價位。房間設施等都不錯，停車方便。
+----------------------------------------
+name:J‍o‍d‍i‍e‍m‍e‍i‍z‍i
+info:Superior Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:38 Reviews
+rating:5
+posted:Posted April 24, 2023
+msg:這個酒店印象很不錯 設施都還挺新的 健身房的器材也算齊全的 主要是餐廳很好吃 幾乎隨便點不猜累很合口味 價格也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 30, 2023
+msg:第一次入住本酒店 感受真的挺好 前台叫小謝的女孩服務很好 入住後還打電話詢問對房間是否滿意 得表揚👍一下 房間衞生也乾淨 還是會再次入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:47 Reviews
+rating:5
+posted:Posted February 4, 2024
+msg:這裡是榆林最好的酒店了，來這裏出差應該是最推薦的。這次來榆林還趕上下月，到酒店卻非常暖和。周邊都是煤礦，煤老闆的聚集地。
+----------------------------------------
+name:S‍u‍p‍e‍r‍_‍B‍e‍n‍B‍e‍n
+info:Superior Room (2 beds)
+info:Stayed in November 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted November 14, 2023
+msg:自從去年6月份開業以來，來榆林幾乎每次都住這裏，服務熱情，團隊擁有豐富的酒店管理經驗。三星級的價格享受五星級的設施和服務。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 2, 2023
+msg:非常滿意，酒店設施好，服務態度更好，給我們送數據線、感冒葯，還有咖啡，生薑水，有賓至如歸的感覺，祝願生意興隆。前台戴眼鏡的小姐姐人真的很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in December 2022
+info:Business travelers
+info:118 Reviews
+rating:4.7
+posted:Posted December 24, 2022
+msg:房間視野特別好，採光也不錯，雖然在工業園區，但是晚上的燈光看着挺有意境。設施都挺新的，建議被子不要那麼厚，晚上會有點熱。酒店離大保當和錦界都不遠，兩個鎮上都有吃的。美中不足的就是疫情期間超級簡配，洗衣房健身房全都不開，早餐也是打包送到房間
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 16, 2023
+msg:酒店環境整潔，房間佈局堪稱完美，優雅又不失情調，服務周到，讓人無比舒心。給我營造了一種家的感覺，早點的種類也挺多的，無論大處到小處都是那麼無懈可擊，熱情周到。前台主管和接待的楊秒也是幫助你解決了很多問題[強][強][強][強]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 20, 2024
+msg:酒店看起還是比較新，房間舒適整潔，行政事務部李沅圓服務態度很好
+----------------------------------------
+name:B‍u‍n‍n‍y
+info:Superior Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 22, 2024
+msg:房間舒適乾淨，前台小姐姐服務特別温柔貼心，很愉快的一次入住體驗。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in October 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 30, 2022
+msg:前台辦理入住的服務員很熱情 酒店房間特別的舒適 光線好 設施配備齊全 最近天氣變冷 室內温度也適宜 可以隨時開空調 大廳還有咖啡吧 提供飲品 是休息和恰談的好地方  周圍交通便利 可以隨時去附近逛逛 餐廳還有老婆最愛的川菜和甜品 以後有時間和機會還會再來的
+----------------------------------------
+name:R‍I‍N‍Y‍7‍4‍6‍9
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:2 Reviews
+rating:4
+posted:Posted July 21, 2023
+msg:현장과 가까워서 선택하였습니다.
+지은지 얼마 되지 않아서 시설 깨끗하고 넓어요.
+조식은 아주 맛있는건 아니었지만 나쁘지는 않았습니다.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 12, 2023
+msg:酒店非常不錯，房間舒適乾淨，前台服務特別好，下次還來哦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:19 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:這是一座位於沙漠中的酒店，硬件絕對五星，尤其要稱讚的是該酒店的服務，特別表揚小艾經理，全家非常滿意！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in August 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:酒店五星標準，入住體驗感超棒！前台接待美女熱情大方，態度很好！重要説明，酒店在距榆林50公裡外的工業園區，不在市區哦
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 30, 2023
+msg:整體裝修風格很新，前台服務態度很好，尤其是謝瑤瑤女士，早餐的煎餅果子很nice 👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 5, 2023
+msg:工作人員熱情大方，服務態度非常好，房間設施齊全，各種體驗感非常好👍，值得，下次還住這裏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 24, 2023
+msg:沙漠中的豪華商務酒店，房間乾淨衞生，服務細心體貼，值得入住。
+----------------------------------------
+name:2‍0‍1‍3‍6‍6‍0‍7‍9‍2
+info:Superior Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 11, 2022
+msg:沙漠中的度假休閑好去處，視野開曠，酒店裝飾精美，房間大，早餐好，晚上有啤酒燒烤。我們一家住了2天，非常滿意。往北去紅鹼淖，往南去麻黃梁，這次陝北之行很愉快。
+----------------------------------------
+name:J‍o‍r‍g‍e‍ ‍Z‍h‍o‍u
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:102 Reviews
+rating:5
+posted:Posted September 16, 2023
+msg:酒店衞生乾淨，早餐豐盛，前台服務員態度超級好，酒店晚上燒烤味道很好，啤酒也不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 22, 2024
+msg:前廳苗苗，曹歆瑤服務態度很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in June 2022
+info:Solo travelers
+info:4 Reviews
+rating:5
+posted:Posted June 10, 2022
+msg:🔔服務： 酒店 前台，餐廳，還有房間服務人員都很熱心，服務是很周到細緻，值得贊👍
+
+🍃環境：酒店周邊雖然配套沒起來，但環境還是不錯的，樓下有橡膠跑道  球場 整體綠化非常不錯。酒店裝修的也非常高端，跟榆林市星級酒店有一比吧。
+🧹衞生：整體衞生還可以。
+
+🚗 交通：自己開車來比較方便。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 27, 2024
+msg:前廳曹歆瑤服務態度太好了！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted April 19, 2024
+msg:小韓的服務很好  
+酒店很貼心
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 8, 2022
+msg:位置就在出差的附近，酒店給約了專線也很方便。
+辦手續的時候給準備了熱毛巾和咖啡，服務必須給滿分💯
+説一下這裏的房間，房間面積跟平時出差住的大小差不多，床墊軟硬度正好喜歡，一進房間感覺特別温馨乾淨。 入住後前台兩位美女給送了份水果，感覺服務真的很周到貼心。 還有早餐也不錯 ，整體感覺高大上，推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 2, 2024
+msg:前台張苗苗服務態度非常好，必須點個贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 6, 2023
+msg:超值，服務人員超級熱情，設備很新，房間夠寬敞。性價比很高。大讚
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 2, 2022
+msg:早餐很棒，餐具和服務可以媲美星級酒店的標準。因為是新開的，設施比較新，房間很舒適，定的大床房，舒適度足矣解乏。下次出差還會選擇。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:28 Reviews
+rating:5
+posted:Posted May 28, 2024
+msg:前廳曹歆瑤服務態度好[愉快]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 17, 2023
+msg:特別滿意的酒店，環境乾淨，寬敞舒服，服務又是一級棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted November 14, 2023
+msg:衞生：一如既往的好乾凈又衞生
+
+服務：非常貼心
+----------------------------------------
+name:X‍i‍a‍o‍d‍u‍y‍e‍4‍2‍3
+info:Superior Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 9, 2022
+msg:品質非常高的酒店，酒店在園區內，空氣是相當清新，服務貼心周到。前廳的接待員和禮賓員很是熱情。餐廳看上去非常的不錯 入住體驗非常的不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 31, 2023
+msg:酒店環境不錯，服務周到，前台服務很熱情，非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2022
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted August 1, 2022
+msg:朋友推薦過來住的 前廳的服務態度不錯 房間內設備不錯不錯的  酒店裡的機器人相當給力 總之整體很好 非常不錯👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted July 18, 2022
+msg:酒店設施很全面，前台接待也很熱情的，特地去了户外燒烤，在炎熱的夏天非常涼爽，風景也很好，還有專門可以鍛鍊的跑道
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted May 13, 2024
+msg:房間很不錯，服務也很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted June 30, 2022
+msg:周圍環節不錯，店內設施不錯，房間很舒適，飯菜味道可口，整體衞生乾淨，工作人員熱情禮貌，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 21, 2024
+msg:服務和酒店環境都非常好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted September 14, 2023
+msg:酒店很好，位置也很好找，乾淨衞生，前台接待員張娜服務很好👍點贊👍👍👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Suite
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 29, 2023
+msg:酒店軟硬件設施都不錯，服務人員也很貼心，有機會到榆林還會再去！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 28, 2023
+msg:房間乾淨 衞生細節很到位，前台人員服務很專業，態度很好，推
+薦[玫瑰]
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 8, 2023
+msg:超級贊，前台小姐姐很熱情，客房衞生也不錯，樓下還有不錯的燒烤
+----------------------------------------
+name:G‍u‍a‍n‍g‍h‍u‍a‍p‍i‍n‍g‍x‍i‍o‍n‍g
+info:Superior Double Room
+info:Stayed in January 2024
+info:Solo travelers
+info:1 Review
+rating:4
+posted:Posted February 1, 2024
+msg:硬件不錯，五星水平，餐飲一般
+----------------------------------------
+name:D‍a‍n‍n‍u‍o‍n‍u‍d‍a‍o‍r‍u‍a‍n‍j‍i
+info:Superior Double Room
+info:Stayed in May 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted May 16, 2022
+msg:第一次入住，體驗很好，前台人員服務熱情，房間很滿意，下次還會選擇這裏。早餐豐盛 比較滿意。
+----------------------------------------
+name:C‍l‍o‍u‍d‍S‍a‍i‍l‍o‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 14, 2023
+msg:這家酒店去年新開業，房間乾淨整潔，早餐也很豐盛。前台小姐姐非常熱情，服務一級棒！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 2, 2023
+msg:服務很貼心，天幹前台還主動給送了加濕器
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 16, 2022
+msg:硬件設施好，服務標準高，熱情周到，乾淨舒適度強。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2022
+info:Family
+info:8 Reviews
+rating:4.5
+posted:Posted August 12, 2022
+msg:這家酒店離榆林市區有50多公里，客人基本都是在附近工業園區出差的，周圍比較荒涼，適合自駕，停車很方便。做核酸也很方便。早餐不錯。因是新開的酒店，酒店設施全新，房間可以開窗通風，但有裝修味道，需要常通風。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 18, 2022
+msg:酒店很棒，房間舒適，飯菜可口，景觀無敵。
+----------------------------------------
+name:H‍u‍a‍y‍u‍y‍i
+info:Superior Double Room
+info:Stayed in November 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted November 13, 2023
+msg:周邊環境好，房間設施也非常完善舒適
+----------------------------------------
+name:M‍r‍.‍ ‍Z‍o‍u‍L‍e‍i
+info:Superior Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted March 23, 2023
+msg:酒店非常不錯 前台服務人員熱情 周到 幫忙延遲了退房 謝俊英很熱情 專業 比較滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in September 2023
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted September 4, 2023
+msg:設施：新
+衞生：乾淨
+環境：優美
+服務：熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 2, 2022
+msg:環境好，服務人員好，大力推薦，贊👍
+----------------------------------------
+name:X‍i‍u‍x‍i‍1‍9‍8‍3
+info:Superior Room (2 beds)
+info:Stayed in May 2023
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted May 9, 2023
+msg:絕對值！性價比超高！服務態度非常好👍衞生也特別好，再去首選！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted August 15, 2022
+msg:環境不錯，房間有點裝修的木頭味兒，旁邊飯店和超市很少，住了4天，一直在酒店裡的餐廳吃，餐廳上菜很慢，燒鵝基本一小時才能上。過幾年開發區發展好了估計酒店就會漲價了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 20, 2024
+msg:曹歆瑤服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted July 2, 2022
+msg:這家酒店讓我十分意外，一個人出差，離門口還有很遠的距離員工就跑出來幫我拉行李。到前台幾乎零等待就拿到了房卡，一個小夥子拿着酒店贈送的歡迎水果把我送到房間。整個過程十分順暢，各個細節都體現着酒店員工高超的專業素養，讓我無比驚喜在這樣的地方竟然有這麼專業的酒店。房間的格局和衞生都無可挑剔，值得推薦給到這差旅的朋友們。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:6 Reviews
+rating:2.5
+posted:Posted June 5, 2022
+msg:非常不愉快的一次商旅住宿。首先從進大堂開始就聞到一股濃濃的油漆味，到房間依然沒有改善，衹好頂着風沙開着窗睡，吃了一晚上沙子。其次周邊配套不能説差，衹能説完全沒有，前不着村後不着店，別説外賣了，連便利店都沒有。最讓我不能接受的是這家酒店貪小便宜，心術不正：本來預訂住兩天，費用預付給了攜程；第二天上午事情辦完提前退房離開時，前台衹説發票由攜程提供，其他未做任何提示；等到開發票時，酒店告知因為我沒有與攜程協商提前退房，所以要扣全款；攜程出面協調也未果。我衹在這毒氣室裏住了一晚，非要扣兩晚的款；你要是房間爆滿也就算了，那破位置鳥都沒幾衹，誰給你的勇氣多扣一天款？典型貪小便宜沒夠的典型。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 8, 2024
+msg:環境不錯，服務不錯
+----------------------------------------
+name:X‍u‍a‍n‍y‍u‍a‍n‍d‍o‍n‍g‍f‍a‍n‍g‍m‍i‍n‍g
+info:Superior Room (2 beds)
+info:Stayed in March 2024
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted April 13, 2024
+msg:服務周到設施齊全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:65 Reviews
+rating:5
+posted:Posted August 29, 2023
+msg:性價比很高，窗外景色也很有特色。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2022
+info:Couples
+info:99 Reviews
+rating:5
+posted:Posted August 12, 2022
+msg:性價比超高！前台接待熱情周到！因為我下午3點半多到了，房間還沒收拾好，就給我房間升級了套盒！總之我很滿意！如果下次經過還要住宿在這裏！
+----------------------------------------
+name:Y‍a‍n‍j‍i‍n
+info:Superior Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted March 15, 2023
+msg:非常棒，總枱服務人員非常負責！服務態度令人感動！值得擁有！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 10, 2023
+msg:設施：好
+衞生：乾淨
+服務：態度很好
+環境：更好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:4 Reviews
+rating:1
+posted:Posted September 18, 2023
+msg:充電器忘了拿打電話不接不回覆
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:30 Reviews
+rating:5
+posted:Posted April 20, 2024
+msg:前台服務不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted May 6, 2023
+msg:酒店大堂氣派，房間寬敞，衞生乾淨。前台熱情周到，感謝！
+----------------------------------------
+name:M‍a‍y‍i‍n‍a‍n‍p‍i‍a‍o
+info:Superior Double Room
+info:Stayed in October 2022
+info:Solo travelers
+info:27 Reviews
+rating:5
+posted:Posted October 16, 2022
+msg:非常好的酒店。工作人員都非常的熱心幫助解決每一個問題。尤其是前台的姑娘服務意識非常的好。
+----------------------------------------
+name:X‍i‍a‍o‍q‍i‍o‍n‍g‍q‍i‍o‍n‍g‍9‍2‍3
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted August 31, 2023
+msg:滿意滿意非常滿意非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in April 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 7, 2023
+msg:前台呂俞俞服務很好，非常棒！為酒店點贊！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 29, 2024
+msg:前台很熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted November 3, 2022
+msg:預訂，續訂非常方便。希望下次能在預訂處標明是否可開增值税專用發票。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in January 2023
+info:Business travelers
+info:6 Reviews
+rating:4
+posted:Posted January 10, 2023
+msg:總體挺好，可能服務人員還沒招聘到位，服務稍顯遲緩。
+----------------------------------------
+name:x‍c‍_‍l‍i‍u‍x‍i‍a‍o‍m‍i‍n‍g
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted July 23, 2023
+msg:感覺很好，下次還會入住。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 30, 2023
+msg:酒店環境舒適，前台服務態度特別好，強烈推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in February 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted March 2, 2023
+msg:酒店設施齊全，酒店前台接待人員服務熱情。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2023
+info:Other
+info:3 Reviews
+rating:4
+posted:Posted August 25, 2023
+msg:價格優惠
+環境：不錯
+----------------------------------------
+name:S‍h‍i‍k‍o‍n‍g‍l‍v‍x‍i‍n‍g‍z‍h‍e
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted August 28, 2023
+msg:不錯不錯，沙漠綠洲
+----------------------------------------
+name:Q‍i‍n‍w‍a‍n‍g‍h‍a‍o‍z‍e
+info:Superior Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 8, 2022
+msg:酒店非常贊，房間乾淨衞生，床品也很高級，服務超讚，特別是前廳的謝瑤瑤親切大方，服務很用心，感謝了
+----------------------------------------
+name:P‍i‍a‍o‍a‍p‍i‍a‍o‍z‍h‍u‍o‍d‍e‍y‍u‍n
+info:Superior Double Room
+info:Stayed in April 2023
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted April 18, 2023
+msg:好評！環境很好，設施非常新！
+----------------------------------------
+name:L‍a‍n‍g‍l‍i‍g‍e‍l‍a‍n‍g‍9‍6‍6‍8‍5
+info:Superior Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted October 11, 2023
+msg:環境好早餐豐富
+----------------------------------------
+name:T‍i‍a‍n‍l‍i‍2‍0‍6
+info:Superior Room (2 beds)
+info:Stayed in May 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 23, 2023
+msg:停車方便，出行便利。
+----------------------------------------
+name:A‍i‍s‍i‍p‍i‍n‍a‍e‍r‍a‍o‍z‍e‍p‍i‍l‍i‍s‍i‍m‍a‍y‍i‍n‍g
+info:Superior Double Room
+info:Stayed in July 2022
+info:Couples
+info:21 Reviews
+rating:5
+posted:Posted July 9, 2022
+msg:酒店總體不錯，不過軟件還有待提高，比如説服務人員的業務能力。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted June 17, 2022
+msg:這價錢沒見過這麼好的酒店
+
+早餐也很好，豐富豐盛
+服務員素質很高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted June 24, 2023
+msg:曹歆瑤服務非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted August 24, 2023
+msg:非常非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in July 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 6, 2022
+msg:非常棒，服務態度非常棒，房間非常乾淨，非常舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 8, 2023
+msg:客服非常滿意
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in May 2022
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted June 9, 2022
+msg:環境不錯，服務態度很好，到園區出差辦事相對方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Double Room
+info:Stayed in March 2023
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted March 13, 2023
+msg:酒店非常舒心！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 9, 2022
+msg:超級好，物超所值！乾淨衞生！
+----------------------------------------
+name:A‍°‍y‍a‍n‍a‍n‍c‍h‍e‍d‍u‍i‍~‍h‍a‍o‍x‍i‍a‍n‍s‍h‍e‍n‍g‍_‍_
+info:Superior Room (2 beds)
+info:Stayed in August 2022
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted August 7, 2022
+msg:環境還行，就是附近沒好吃的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in March 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted May 8, 2023
+msg:房間很不錯
+----------------------------------------
+name:d‍a‍b‍o‍b‍o
+info:Superior Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted September 24, 2022
+msg:非常乾淨，性價比高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in June 2022
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 25, 2022
+msg:舒適，乾淨，服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (2 beds)
+info:Stayed in July 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 30, 2022
+msg:酒店整體挺好。
+----------------------------------------
+name:Z‍z‍y‍x‍i‍n‍g‍z‍o‍u‍j‍i‍a‍n‍g‍h‍u
+info:Superior Double Room
+info:Stayed in September 2022
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted September 25, 2022
+msg:性價比很高
+----------------------------------------

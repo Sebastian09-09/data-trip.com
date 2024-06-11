@@ -1,0 +1,828 @@
+name:A‍s‍n‍a‍f‍i‍ ‍N‍a‍d‍e‍r
+info:Executive Business Room
+info:Stayed in May 2024
+info:Business travelers
+info:15 Reviews
+rating:4.7
+posted:Posted May 23, 2024
+msg:Nice hotell. The room was big, clean, quite and pleasant. The staff was great and promptly fixed my requests. There are some restaurants and stores around this hotel but I could not explore the location further due to work. The breakfast was OK. However, the coffee was weak and tasted like a substitute. This is a minor issue and does not change my high rating for this hotel.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in March 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted March 21, 2024
+msg:Non-smoking hotel, clean and sanitary, the lobby is very grand, and there is a spiral staircase for checking in, which is great for taking photos!
+----------------------------------------
+name:M‍M‍1‍2‍3‍5‍6‍8‍7‍6
+info:Deluxe Single Room
+info:Stayed in December 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted December 20, 2023
+msg:The hotel is located in the city center, and it is very convenient to travel. It is very close to the shopping mall and the snack street, and it can be reached in a few minutes on foot. Special thanks to the ladies at the front desk. From check-in to check-out, they are very enthusiastic and patiently answer any questions for me, making me feel at home! #种草#种草
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in May 2024
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted May 4, 2024
+msg:Not very good, the air in the room corridor is dusty and smelly, the standard room of more than 500 is really not worth it
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in March 2024
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted April 2, 2024
+msg:The room is very good, very nice, very clean and tidy, convenient transportation, good location close to CBD and Gezhouba, very convenient for business trips and business. . .
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in March 2024
+info:Business travelers
+info:55 Reviews
+rating:3
+posted:Posted March 11, 2024
+msg:The room facilities are OK, but a little old.
+The weird thing is that takeaways cannot be delivered upstairs, and there is no robot in the guest room, so they can't deliver, so you have to go downstairs to get it yourself.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 10, 2024
+msg:The front desk service is good, the hotel lobby is very grand, and there are many elevators so you don't have to wait for the elevator to get in and out.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2023
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted August 6, 2023
+msg:The hotel in front of my house happened to have relatives and friends coming over, so I booked it here. Xindao is an old hotel, and the service has always been good, which is worthy of recognition; the room I stayed in was also very clean, hygienic, and quiet; the facilities were relatively complete, and there was also a gym.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 5, 2023
+msg:The hotel is pretty good. To sum it up: convenient transportation, clean and bright environment, quiet and sanitary rooms, and there are large shopping malls, supermarkets, and specialty food streets within a 5-10 minute walk.
+----------------------------------------
+name:D‍i‍n‍g‍d‍a‍n‍g‍_‍d‍i‍n‍g‍d‍a‍n‍g
+info:Deluxe Single Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 5, 2023
+msg:The room is clean and bright, the service attitude is also good, I will choose this hotel next time!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 5, 2023
+msg:The room is well-equipped, spacious, bright and generous. It is comfortable and safe to live in. It is a warm home!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 5, 2023
+msg:The room is quite big. The service attitude is good. The transportation is convenient. There is a BRT station right outside. Maybe it’s because of the weekend, there are more people...
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 9, 2023
+msg:It's very convenient to go anywhere. The front desk service is also good. They also recommended delicious restaurants. I will come again next time
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:The room is clean and tidy, the facilities are complete, the service is good, it is worth experiencing
+----------------------------------------
+name:K‍a‍n‍g‍k‍a‍n‍g‍j‍i‍a‍n‍k‍a‍n‍g
+info:Deluxe Single Room
+info:Stayed in January 2024
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted January 29, 2024
+msg:The location of the hotel is impeccable, very close to the city center, and it takes no more than 10 minutes to walk to the popular night market CBD. The ladies at the front desk are very enthusiastic and patiently tell us the way even if we don’t know the way. This is a perfect end to this trip to Yichang! ! 😁
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 5, 2023
+msg:The room is spacious and bright, the service is very good, and the travel is convenient!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:7 Reviews
+rating:1.5
+posted:Posted May 10, 2023
+msg:The door lock was broken, and pressing the do not disturb button didn't work. The room cleaning attendant kept ringing the doorbell and knocked on the door, and swiped the card to enter without permission. The experience was extremely bad.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in May 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 7, 2023
+msg:Convenient transportation. It is very convenient to take the bus or taxi. The front desk service is very enthusiastic and the room is well soundproofed! If you want to eat anything, you can walk to the CBD snack street in five minutes. The famous Yichang radish dumplings taste good. Remember to buy the one at the intersection. They are crispy on the outside and tender on the inside! I drink Peng Guihua's cold shrimp. It's very refreshing! Every time I come to Yichang on business, I live very comfortably!
+----------------------------------------
+name:W‍o‍d‍e‍x‍i‍a‍o‍p‍a‍c‍a‍i
+info:Executive Business Room
+info:Stayed in April 2023
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted June 15, 2023
+msg:The hotel facilities are a bit old, the TV uses analog signals, the breakfast is average, which does not match the overall positioning of the hotel. The guest rooms are in good condition, large in space and elegantly decorated.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted August 7, 2023
+msg:The room is comfortable, clean and hygienic. The transportation is very convenient. There is a BRT at the door. It takes only a few minutes to walk to the local snack street. There is also the Dayang Depar**ent Store nearby. It is a good place to find peace in a busy city! Highly recommended!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted August 9, 2023
+msg:The hotel environment is nice. The lady at the front desk was very friendly when I checked in, and she enthusiastically upgraded me to an executive room, which felt like a great deal. The lobster restaurant nearby is delicious. The people of Yichang are very friendly, the city is beautiful, and the hotel is also great. Great!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in December 2023
+info:Other
+info:3 Reviews
+rating:1.7
+posted:Posted December 28, 2023
+msg:房間裏全是衞生間的味道，到處都是被子上的細小白毛毛，到處銹跡斑斑，不推薦
+----------------------------------------
+name:A‍n‍n‍y‍ ‍D‍u‍a‍n
+info:Deluxe Twin Room
+info:Stayed in May 2023
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted May 13, 2023
+msg:五一和家人一起去旅遊預訂到這家酒店，￼￼總的來説停車還是挺方便的，周邊環境較好，在市中心周圍餐館很多。￼唯一覺得不足的就是這個價格不含早餐，在宜昌這種三線城市價格確實很貴。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in April 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted April 22, 2023
+msg:酒店交通便利，裝修氣派，房間衞生乾淨整潔，服務員態度很好，特別是客房的做房阿姨熱情周到細緻入微，幫我把扔在床上的睡衣疊好，讓我非常感動，非常好的一次入住體驗，值得推薦。
+----------------------------------------
+name:r‍a‍i‍n‍1‍2‍0‍2
+info:Executive Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:86 Reviews
+rating:4.2
+posted:Posted May 30, 2023
+msg:不知道是不是五一的原因，服務態度令人不太滿意。有個別前台説話硬邦邦，生硬。早餐估計是因為五一的原因，有點對付的樣子，跟酒店的星級對應不上。房間還是不錯。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in August 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted August 12, 2022
+msg:朋友來宜昌，幫忙定的房，酒店是我們當地最大的酒店，檔次也高，大氣，最主要是交通方便，靠近CBD商務中心和華祥商業中心，周邊吃飯購物宵夜都很方便，幾分鐘就能到，酒店門口還有BRT，去哪兒都便利。房間定的行政大床，衞生乾淨，朋友説床具也非常舒服，空調效果也不錯，住的很滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 12, 2022
+msg:非常棒的一次體驗～酒店環境鬧中取靜，步行10分鐘就是宜昌繁華的CBD～這麼熱的天氣房間空調足夠給力～Check in時前台小哥哥態度很不錯～順便説一句酒店自助早餐yyds✌️
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:5 Reviews
+rating:1
+posted:Posted July 21, 2022
+msg:第一：600元一晚的酒店、水是1元的那種水。
+第二：衞生間浴缸簡直是搞笑的，很小，男性基本躺不下去。
+第三：用的浴巾什麼的一股很難聞的味道。
+第四：房間隔音效果非常差！
+第五：外賣不給送上樓，能夠理解、保證安全，但是你起碼搞一個那種機器人可以上樓吧，現在快捷酒店都有的。
+第六：那個電腦桌用的椅子簡直不敢座，感覺用力會斷掉。
+第七：600元人民幣的酒店，不含早餐！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in March 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 18, 2024
+msg:服務好環境好出行方便 每次到宜昌都住這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:酒店住宿衞生乾淨，床很舒服，房間面積也很大，服務員都很熱情有禮貌，下次還會選擇馨島酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 14, 2022
+msg:酒店會議室很贊，各種類型的會議室很多，會議室內基本無柱。服務專業，看的出來會議服務很多，很多會議在
+此舉行。房間很舒適。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2022
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted August 13, 2022
+msg:酒店很高檔，大堂也很乾凈，離CBD購物中心很近，走路15分鐘就到了，前台的服務員態度很好，下次還會選擇這家酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 12, 2022
+msg:酒店位置好，房間多，最適合做大會，距離市中心CBD購物中心近，前台小姐姐工作熱情，非常滿意，下次回住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in December 2023
+info:Friends
+info:5 Reviews
+rating:1
+posted:Posted December 9, 2023
+msg:體驗差，相對來講性價比不高，不推薦
+設施：陳舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in February 2024
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted February 8, 2024
+msg:挺好的，交通方便，服務很好，衞生乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in March 2024
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:房間陽光挺好的  早餐也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in March 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted April 2, 2024
+msg:前台服務很好，房間衞生很好！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in March 2024
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted March 20, 2024
+msg:房間硬件非常好，服務非常到位
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted August 30, 2023
+msg:房間很大，也很乾凈，隔音也很好，停車方便，特別適合商務出行
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 4, 2023
+msg:特別特別好的居住體驗！前台小姐姐服務熱情周到，房間內乾淨整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2022
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted August 13, 2022
+msg:暑期宜昌旅遊訂了馨島酒店，酒店位置特別方便，宜昌東站有公交直達，酒店在市中心，周邊吃喝玩樂都很方便。酒店很大氣，房間也很大，早餐也很可口，現做的小麪非常好吃。前台小姐姐很熱心，隨口問了句周邊美食，小姐姐給我羅列了一張紙出來，地址，電話，特色都一一標註了。體驗感非常好，值得推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 14, 2022
+msg:非常滿意，酒店地理位置不錯，搭飛機或者坐高鐵都很便利，周邊出行也很方便。房間很乾凈，枕頭是我住過的酒店裡最合我心意的，對頸腰椎不舒服的人羣很友好。辦理入住時小等了一會兒，排隊的人有點多。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in March 2024
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted April 2, 2024
+msg:大堂很氣派，住的很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 12, 2022
+msg:坐落宜昌市中心，交通非常便利！距離國貿 CBD購物中心出行都比較近，酒店環境也超級好，房間寬敞明亮設施比較齊全，衞生非常乾淨整潔，前台服務非常周到，很適合一家三口入住！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in July 2023
+info:Family
+info:10 Reviews
+rating:4
+posted:Posted July 21, 2023
+msg:酒店很大，開會，研學的很多，路過宜昌住一晩還行
+----------------------------------------
+name:L‍e‍w‍a‍n‍g‍z‍h‍e‍t‍i‍a‍n‍x‍i‍a
+info:Deluxe Single Room
+info:Stayed in August 2023
+info:Friends
+info:50 Reviews
+rating:5
+posted:Posted October 11, 2023
+msg:酒店停車方便，周圍美食很多。房間乾淨衞生。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 14, 2022
+msg:第一次入住這個酒店，一進去就是感覺大廳很大氣勢十足，整個衞生，服務都很不錯，帶孩子出來玩，細節服務很好，給了我們很多出行遊玩的遊玩攻略，關鍵門口坐車非常方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in February 2023
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted March 16, 2023
+msg:設施：齊全
+衞生：整潔乾淨
+環境：舒適
+服務：熱情，暖心，及時，周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in February 2023
+info:Other
+info:28 Reviews
+rating:5
+posted:Posted February 2, 2023
+msg:位置好，房間設施好，乾淨整潔，大氣，就是部分一次性用品和消耗品有點低廉了！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 23, 2024
+msg:性價比很高的酒店
+----------------------------------------
+name:b‍e‍i‍l‍e‍8‍8
+info:Deluxe Single Room
+info:Stayed in May 2024
+info:Other
+info:7 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:環境衞生不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in April 2023
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 30, 2023
+msg:房間不算大，但商旅出行比較合適。可惜沒有家庭房。
+----------------------------------------
+name:S‍h‍a‍n‍j‍u‍n‍a‍n‍s‍h‍i
+info:Deluxe Single Room
+info:Stayed in November 2023
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted November 9, 2023
+msg:非常滿意的一次住宿體驗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:4
+posted:Posted May 2, 2023
+msg:酒店服務很好，酒店停車方便，出熱水速度也快
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in August 2022
+info:Booked for others
+info:2 Reviews
+rating:5
+posted:Posted August 12, 2022
+msg:1、前台工作人員細心、耐心，且對客人詳細介紹疫情防控要求，及周邊旅遊景點。
+2、早餐品種豐富，甜品做的很好吃👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in August 2022
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 12, 2022
+msg:很值得推薦的酒店，適合出差的最佳選擇，服務員也很熱情。房間衞生很乾凈，讓人感覺非常舒服。下次還會選擇這家酒店。
+----------------------------------------
+name:Z‍h‍u‍o‍e‍r‍0‍0‍1
+info:Deluxe Single Room
+info:Stayed in April 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 19, 2023
+msg:氣派!服務一流！下次任然住馨島酒店!
+設施
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in May 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 6, 2023
+msg:很滿意，前台還給免費升級了，總體不錯
+----------------------------------------
+name:M‍u‍m‍a‍o‍r‍i‍y‍u‍e‍y‍u
+info:Deluxe Twin Room
+info:Stayed in April 2023
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted May 2, 2023
+msg:房間乾淨，舒適，適合居家旅遊，商務等
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2023
+info:Friends
+info:3 Reviews
+rating:2
+posted:Posted August 15, 2023
+msg:床上不乾淨 睡起來渾身癢
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in August 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 13, 2022
+msg:這次入住很不錯👍房間很乾凈，交通便利，停車也很方便，服務也很到位。下次繼續選擇馨島酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Room
+info:Stayed in April 2023
+info:Business travelers
+info:3 Reviews
+rating:1
+posted:Posted April 12, 2023
+msg:房間臟，杯子很硬，早餐就像路邊攤！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:3
+posted:Posted July 30, 2023
+msg:一般般，與預期存在差距
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Executive Business Room
+info:Stayed in December 2021
+info:Business travelers
+info:3 Reviews
+rating:2.2
+posted:Posted January 18, 2022
+msg:1.訂的房間已經屬於很好很高級了，但是入住覺得和這個價格有所差距，性價比很低！
+
+2.房間設施設備非常不好，竟然大冬天連暖氣空調都沒有！冷得要死！還好後面客房部送了個暖氣！但是這種屬於酒店硬件設施竟然是中央控制？！
+
+3.早餐非常難吃！！原本定了三晚全部退掉提前走了！作為宜昌好酒店應該對得起這個5鑽名稱吧！下次不會選擇！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in April 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 18, 2023
+msg:交通便捷，餐飲好，住房環境可以。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in August 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted August 12, 2022
+msg:整體裝修歐式風格，明亮，大氣。房間設施很齊全，燈光色調温馨，是我喜歡的氛圍！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 13, 2022
+msg:家裡親戚從外地過來，帶着孩子，前台很貼心的給房間升了級，總體感覺不錯👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:2 Reviews
+rating:2.5
+posted:Posted October 23, 2021
+msg:酒店有700多間客房，看似是個大酒店，但是服務完全跟不上。入住之前，想讓酒店給安排付費的果盤，前台告訴我到店再説吧，我也衹能無語的到店再説了。到了店以後，前台告訴我酒店太忙了接了大的會議，沒時間安排水果，付費的也不行，我無奈的説自己買，給送行麼，前台説行。但等我晚上買了以後，前台竟然説沒時間送。我理解酒店為了掙錢接的MICE團隊，但論單獨房價的話，這個渠道要比會議的價格高很多啊，為什麼不重視呢？房間的隔音效果不是一般的差，為了附和會議團隊，散客打車竟然不讓到前門，直接讓在道邊拎行李下車。總之整體服務，甚至不如快捷酒店！一個酒店在市場中沒有準確的定位的話，再多的房間都是徒勞，這麼多的房間量，會議室的大小也不匹配，看看會議當天座位安排的，人滿為患簡直是。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in February 2023
+info:Business travelers
+info:4 Reviews
+rating:1
+posted:Posted February 27, 2023
+msg:前台服務很差，毛巾跟賓館的一樣
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in August 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:不錯👍推薦入住
+----------------------------------------
+name:j‍e‍f‍f‍z‍h‍u‍2‍0‍1‍6
+info:Executive Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted November 26, 2023
+msg:房間乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Room
+info:Stayed in April 2023
+info:Other
+info:30 Reviews
+rating:5
+posted:Posted April 16, 2023
+msg:環境及衞生條件都不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Double Room
+info:Stayed in May 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 7, 2023
+msg:朋友推薦的，很好！
+----------------------------------------
+name:L‍i‍u‍n‍i‍a‍n
+info:Deluxe Single Room
+info:Stayed in July 2023
+info:Solo travelers
+info:2 Reviews
+rating:4
+posted:Posted July 14, 2023
+msg:房間舊了一點
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Standard Room
+info:Stayed in August 2022
+info:Friends
+info:1 Review
+rating:5
+posted:Posted August 12, 2022
+msg:酒店地理位置好特別方便 房間乾淨服務態度好
+----------------------------------------
+name:W‍u‍x‍i‍a‍n‍m‍i‍n‍g‍y‍u‍n
+info:Deluxe Twin Room
+info:Stayed in July 2022
+info:Family
+info:11 Reviews
+rating:3
+posted:Posted July 2, 2022
+msg:幾年前住過很滿意，現在感覺設備使用年限太長了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in April 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 23, 2023
+msg:不錯 值得推薦
+----------------------------------------
+name:K‍a‍t‍e
+info:Deluxe Single Room
+info:Stayed in July 2021
+info:Friends
+info:25 Reviews
+rating:4
+posted:Posted July 26, 2021
+msg:整個酒店以商務為主，全是大型會議，人員混雜。全部房間都是煙味，住了兩天久久不散，晚上根本睡不着覺。換了兩個房間全是煙味，很失望！！！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in April 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 1, 2023
+msg:好好好好好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in August 2022
+info:Family
+info:5 Reviews
+rating:2.2
+posted:Posted August 7, 2022
+msg:環境有點差勁，設施陳舊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in August 2022
+info:Business travelers
+info:7 Reviews
+rating:3
+posted:Posted October 24, 2022
+msg:和快捷酒店差不多
+----------------------------------------
+name:C‍h‍u‍c‍h‍a‍n‍a‍n‍s‍h‍i
+info:Deluxe Single Room
+info:Stayed in March 2022
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted March 15, 2022
+msg:非常好的酒店，以後還會選擇
+----------------------------------------
+name:X‍i‍a‍o‍c‍h‍o‍u‍y‍u
+info:Deluxe Twin Room
+info:Stayed in August 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 7, 2022
+msg:酒店體驗非常好
+----------------------------------------
+name:Z‍h‍a‍n‍g‍T‍y‍o‍u
+info:Deluxe Twin Room
+info:Stayed in August 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 31, 2022
+msg:很好下次再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in July 2022
+info:Friends
+info:23 Reviews
+rating:5
+posted:Posted October 9, 2022
+msg:總體來説還可以
+----------------------------------------
+name:B‍a‍n‍d‍u‍s‍h‍i‍d‍a‍o‍j‍i‍a‍s‍i‍d‍a‍o
+info:Deluxe Single Room
+info:Stayed in June 2022
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted September 2, 2022
+msg:不錯，挺滿意的
+----------------------------------------
+name:Z‍h‍u‍z‍h‍u‍9‍0‍7
+info:Superior Standard Room
+info:Stayed in May 2021
+info:Other
+info:8 Reviews
+rating:5
+posted:Posted July 11, 2021
+msg:應該是宜昌最好的酒店了，對宜昌映像很好，酒店也完美
+----------------------------------------
+name:Y‍u‍a‍n‍y‍i‍c‍h‍e‍n‍g
+info:Deluxe Single Room
+info:Stayed in July 2022
+info:Business travelers
+info:16 Reviews
+rating:4
+posted:Posted July 24, 2022
+msg:還可以吧！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in June 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted September 21, 2021
+msg:不錯，下次還住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Single Room
+info:Stayed in April 2021
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted September 26, 2021
+msg:不錯 下次還會入住
+----------------------------------------

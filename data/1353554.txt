@@ -1,0 +1,43 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Double Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:3.5
+posted:Posted April 14, 2024
+msg:There are few people staying here, no air conditioning or headlights, and the corridor lights are not on.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in January 2024
+info:Business travelers
+info:32 Reviews
+rating:3
+posted:Posted February 2, 2024
+msg:The price is not cheap, the indoor temperature is a bit low, the equipment is a bit old, the TV signal is poor and can't be watched at all. The breakfast variety is OK. Moreover, there are few rooms and the lighting in the room is not ideal.
+----------------------------------------
+name:W‍a‍n‍r‍e‍n‍j‍i‍n‍g‍y‍a‍n‍g‍0‍1
+info:Standard Double Room
+info:Stayed in January 2024
+info:Couples
+info:2 Reviews
+rating:2
+posted:Posted January 18, 2024
+msg:The temperature in the house is not high during the day
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in November 2023
+info:Business travelers
+info:93 Reviews
+rating:5
+posted:Posted December 3, 2023
+msg:Hygienic, clean, tidy and orderly
+----------------------------------------
+name:s‍t‍o‍c‍k‍t‍o‍n‍j‍1‍2‍2‍0‍1‍1
+info:Standard Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:33 Reviews
+rating:4.5
+posted:Posted June 2, 2024
+msg:非常氣派的酒店，第一次入住，性價比還可，除了早餐簡單過了，希望🈶️些水果或者果汁。周邊環境很好的。
+----------------------------------------

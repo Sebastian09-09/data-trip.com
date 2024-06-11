@@ -1,0 +1,393 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 11, 2024
+msg:Stayed at Yanhu Hantian Garden Hotel, the overall feeling is good, the hotel is relatively new, very modern, ink painting space, feel quiet and elegant, the front desk staff is enthusiastic, the service is thoughtful, the breakfast delivery guy is handsome and cute, I will come again if I have the chance.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in April 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted April 21, 2024
+msg:The hotel has a good environment and is convenient for travel. Xiao Zhu at the front desk is warm and polite. I had a pleasant meal here and will stay here next time.
+
+Facilities: complete and new
+Hygiene: clean and tidy
+Service: good attitude
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Superior Room (Double Bed)
+info:Stayed in April 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted April 21, 2024
+msg:The room was very satisfactory. We originally booked a 50-square-meter room, but we were upgraded to a suite for free.
+It was fun.
+The occupancy rate is high now, and the buffet breakfast is open.
+I hope it will get better and better in the future!
+
+Gift (mug): I received the small gift, thank you!
+----------------------------------------
+name:Y‍a‍n‍n‍-‍a‍z‍h‍e‍n
+info:Guestroom (2 Beds)
+info:Stayed in April 2024
+info:Family
+info:22 Reviews
+rating:5
+posted:Posted April 14, 2024
+msg:Service: It's a newly opened store, the service attitude is very friendly. When you enter the store, the front desk Xiao Shi will take the initiative to greet you, and all questions will be answered and solved quickly. When you check out the next day, it's the front desk Xiao Jie, whose friendly smile makes you have to praise it! 
+Hygiene: Because it's a new store, the hygiene is quite clean
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (Double Bed)
+info:Stayed in April 2024
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted April 11, 2024
+msg:The service provided by Xiao Zhu and Xiao Jie at the front desk is warm and thoughtful. The environment, facilities, hygiene and service are all very good, and the quality of the employees is very good.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in April 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:First of all, the service is very warm and thoughtful. In special times, they can even think of preparing brown sugar water for guests, which is very considerate. There were not many people on the first day, and the breakfast was a customized version, very delicate and tasted good.
+Secondly, the location is excellent, 10 minutes walk from the museum and Yanhu Park, and also close to Wanda Plaza, which is very convenient for eating and shopping.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in March 2024
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted March 30, 2024
+msg:It's our anniversary. Hantian has a special meaning to me. The location also makes me wonder if it is not open to the public. I accidentally saw that it can be booked. I can walk to pick up the kids from school. Because it is so new, I am afraid that we will be the only guests at night. The breakfast system has not been established yet. I can feel that the staff are very cautious when it just opened. Everyone wants to do a good job.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Business travelers
+info:4 Reviews
+rating:3.7
+posted:Posted May 14, 2024
+msg:The location is good, Wanda, parks, and museums are all very close. The birds are singing happily at 3 or 4 in the morning, and the ecology is good. The restaurant is selected on arrival and the food is served according to the order the next day, which is average.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in May 2024
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:The hotel is relatively new and there aren't too many people. The waiters are very polite and welcoming, especially for breakfast. Although there are fewer options, they do provide room service.
+----------------------------------------
+name:R‍u‍i‍m‍a‍o‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in April 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted May 1, 2024
+msg:The service was very good. Because there was a vacancy, the front desk helped us upgrade the room type for free. Thank you very much.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in April 2024
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted April 26, 2024
+msg:The check-in environment is clean and sanitary, the service quality is also very good, the check-in experience is very good, and I will book here next time.
+----------------------------------------
+name:K‍a‍i‍w‍a‍n‍h‍u‍a
+info:Guestroom (2 Beds)
+info:Stayed in April 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted April 7, 2024
+msg:I'll review the same room again, haha... Because I booked two rooms, this time I'd like to praise the front desk. I forgot the name of the front desk on the first day, it seemed to be Xing or something (sorry, I'm old and can't remember), she was very attentive and provided us with two children's breakfasts for free. The front desk on the second day was called Xiao Shi.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in April 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted April 7, 2024
+msg:The hotel is beautifully designed, the front desk clerk is very helpful, asking in advance if there are any children staying and preparing children's supplies in advance. The quality of all the staff including the room manager is very high.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in April 2024
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:The hotel is in a great location, with commercial and food gathering areas within two kilometers, and backed by Yan Lake, with excellent scenery. A newly built hotel, Hantian brand, with luxurious facilities, excellent service, and warm hospitality from the hotel staff, with heartfelt greetings and service. The only drawback is that there are a few breakfast dishes, but the dining environment is satisfactory and worth recommending.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in April 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:The newly opened hotel is smart and clean, and the whole house looks very comfortable. The breakfast is also very exquisite, and the overall service is very comprehensive
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in April 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:I booked a room for my daughter and her classmates during the holiday. The hotel has a beautiful environment and good service. I communicated with the hotel's Hu Shiping about some travel issues in the early stage, and he always answered them attentively. The service was very meticulous and thoughtful.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (Double Bed)
+info:Stayed in April 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:The room environment is great, clean and sanitary, the front desk and housekeeper services are very considerate, and they took the initiative to upgrade the room. The hotel is very close to Liyang Station, about a 10-minute drive away, and is very close to Liyang Museum and Wanda, and can be reached on foot.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in May 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:就在溧陽博物館旁，很新的酒店，房間都是智能化設施，乾淨舒適，出行也很方便。早餐比較一般，品種不多。缺點是浴室排水設計不合理，每次洗澡水都會漫到幹區！前台小史很熱情，有問題能及時解決，下次住溧陽市區還會選擇。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (Double Bed)
+info:Stayed in June 2024
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted June 2, 2024
+msg:一家新開的酒店，地理位置好，停車場方便，配有充電樁。酒店服務人員素質高，特別是前台接待小朱，態度和藹，解決問題能力強。
+----------------------------------------
+name:C‍h‍e‍n‍m‍m‍m‍m
+info:Superior Room (Double Bed)
+info:Stayed in March 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted March 31, 2024
+msg:燕湖涵田酒店，我是第一次過來入住，這邊酒店環境很好，服務態度非常好，特別是前台小姑娘小朱，人特別熱情，給我映像很不錯，還有前台經理陳家其，這邊餐飲用餐也很愉快，總之下次來入住，首選燕湖涵田酒店這家了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (Double Bed)
+info:Stayed in May 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:房間住的挺滿意，因為從外地趕過來住入住時間比較晚，酒店方面還給房型進行了升級，負一樓有健身房、游泳池和瑜伽室可以使用，超級棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in May 2024
+info:Couples
+info:8 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:酒店還是很不錯的，房間乾淨衞生，茶具很有意境，床墊也舒服，早餐也不錯，重在服務態度都很好，接待我的小史和小朱都不錯，有機會來溧陽繼續住這家～
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in June 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted June 7, 2024
+msg:酒店環境優雅，房間舒適温馨，衞生條件好，設施先進齊全，房間自帶的小露台更是讓客人享受室外清新的空氣！前台服務態度非常好，帥哥小史的服務讓我們感到特別温暖，從入住到退房三天的時間服務體貼周到細緻，這裏要給他一個大大的贊！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in June 2024
+info:Family
+info:1 Review
+rating:1
+posted:Posted June 4, 2024
+msg:一，原則性問題：
+遺漏了手錶在房間電視櫃下，退房後溝通讓酒店幫忙找，始終堅持沒有，結果我們自己在房間的牀頭櫃找到，物品被放在電話正下方，且已經調成了靜音。
+事後主管來溝通，説是打掃的人扯床單的時候帶到電話，把手錶給蓋住了。
+請問什麼本領，在扯床單的時候，可以把電話掀起蓋住手錶？
+二，整個過程家裡長輩很着急，整個大堂就一人當班可以與我們對接，房間樓層處根本無人配合解決，全過程靠自己，提出要找經理投訴，被告知今天就一人當班。
+服務與天目湖涵田根本沒法比。帶着家裡長輩出遊，一整個對涵田失去信任了。
+----------------------------------------
+name:D‍i‍t‍i‍a‍o
+info:Guestroom (Double Bed)
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 14, 2024
+msg:今年新開的酒店，設施都很不錯，前台小潔和小朱很熱情，餐廳裏的小哥哥服務也很周到。重點是他家有兩米四的大床，適合一家三口睡一起。強烈推薦！！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 28, 2024
+msg:第一次過來入住，酒店位於溧陽市中心，出行很方便，旁邊就是溧陽博物館。酒店環境非常好，房間乾淨舒適，前台小史服務周到！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (Double Bed)
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 18, 2024
+msg:酒店環境不錯，地理位置方便，房間乾淨寬敞，酒店前台服務人員小朱，小潔禮貌熱情，早餐用餐還可以安排送房間，推薦大家來這裏住宿
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in April 2024
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted April 7, 2024
+msg:清明出遊，很新的酒店在新區，環境沒得説，酒店也很大，服務是相當熱情，尤其前台小史，讓你有賓至如歸的感覺。很好。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in April 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted April 7, 2024
+msg:房間都很好，新酒店住起來很舒心，人員服務非常到位，很貼心，前台朱小姐也很有耐心，下次來溧陽還會選擇這家酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in April 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted April 20, 2024
+msg:爸媽很滿意，房間乾淨整潔，服務態度讓人賓至如歸，早餐部周立華和小傑非常值得點贊！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in April 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:酒店很新 設備齊全 地理位置優越就在博物館邊上 前台小朱服務很好熱情有禮貌
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (Double Bed)
+info:Stayed in May 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted May 15, 2024
+msg:環境房間都很不錯，前面的解經理服務也很到位，有機會還要來打卡。
+----------------------------------------
+name:h‍a‍i‍x‍u‍e‍y‍u
+info:Superior Room (Double Bed)
+info:Stayed in April 2024
+info:Booked for others
+info:7 Reviews
+rating:5
+posted:Posted April 24, 2024
+msg:房間很新很不錯，服務也不錯，工作人員小朱提供了許多幫助。感謝
+----------------------------------------
+name:D‍e‍l‍u‍o‍l‍a‍n‍k‍e‍l‍e‍i‍e‍r
+info:Superior Room (Double Bed)
+info:Stayed in April 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted April 10, 2024
+msg:酒店今年新開的，房間寬敞明亮，設施都很好，服務人員特別熱情，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted May 2, 2024
+msg:整體環境滿意，有陽台，但是陽台和隔壁接壤，私隱性不好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 16, 2024
+msg:新裝修的有點味道。但是味道真的非常好，環境也不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Superior Room (Double Bed)
+info:Stayed in April 2024
+info:Friends
+info:23 Reviews
+rating:5
+posted:Posted April 17, 2024
+msg:溧陽的品牌酒店，地段環境都非常不錯，服務態度極佳
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 10, 2024
+msg:前台小朱很熱情 環境也很棒。很好的體驗
+----------------------------------------
+name:J‍i‍a‍n‍g‍n‍a‍n
+info:Guestroom (Double Bed)
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 5, 2024
+msg:性價比蠻好，服務真心很不錯，希望繼續保持👍
+----------------------------------------
+name:M‍e‍n‍n‍e‍i‍d‍u‍o‍f‍u‍z‍h‍u‍a‍n‍z‍h‍u
+info:Guestroom (Double Bed)
+info:Stayed in May 2024
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted May 16, 2024
+msg:環境十分優美和舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (Double Bed)
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 9, 2024
+msg:乾淨衞生，環境優雅
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 Beds)
+info:Stayed in April 2024
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted April 28, 2024
+msg:房間乾淨衞生
+----------------------------------------

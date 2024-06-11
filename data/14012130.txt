@@ -1,0 +1,3714 @@
+name:B‍O‍O‍-‍B‍O‍O
+info:Deluxe Standard Room
+info:Stayed in April 2024
+info:Friends
+info:55 Reviews
+rating:5
+posted:Posted April 27, 2024
+msg:The room was very clean and comfortable. The hotel is very close to the train station, a ten-minute drive away, very convenient. The service is also very good. There is a Xita Old Lady Barbecue Restaurant on the first floor, and there are also restaurants around, so it is very convenient to eat.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 21, 2024
+msg:The hotel is conveniently located with a parking lot downstairs, complete facilities, good environment, rich and varied breakfast, good front desk service, and a pillow was given when leaving.
+----------------------------------------
+name:C‍h‍a‍n‍g‍t‍u‍i‍y‍a‍y‍a‍d‍e‍l‍v‍x‍i‍n‍g‍r‍i‍j‍i
+info:Business Double Room
+info:Stayed in April 2024
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted April 14, 2024
+msg:Hygiene: The room is very clean
+Environment: The environment in the hotel is very good
+Service: The service is excellent. The front desk guy is very friendly.
+I will choose this place again in the future
+----------------------------------------
+name:L‍u‍o‍l‍u‍o
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 29, 2024
+msg:The room was clean and tidy, fully meeting the needs of a business trip;
+It seemed that there was no heating, and the air conditioner only ventilated but did not heat, so it was a bit cold to sit and work;
+The hot water was very good, and it was warm after taking a shower, and it was not cold after sleeping.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in February 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted February 21, 2024
+msg:The front desk service is warm and the hotel environment is good. I will come again. Thumbs up
+----------------------------------------
+name:A‍i‍d‍u‍j‍i‍a‍d‍e‍x‍i‍a‍o‍m‍a‍o
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:Stayed during the Chinese New Year, very touched. On the night of New Year's Eve, I found a plate of dumplings when I came back 🥟 so warm ~
+The service is warm, the room is clean and tidy, and the location is quiet.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in February 2024
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted February 8, 2024
+msg:Service: The check-in experience was good. The service was very good. The room temperature was warm. The hotel was good in all aspects. Good reviews
+----------------------------------------
+name:A‍i‍n‍i‍a‍l‍a‍d‍i‍n‍g
+info:Discount Double Room
+info:Stayed in February 2024
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted February 27, 2024
+msg:Facilities: Good👌🏻
+Hygiene: Good👌🏻
+Environment: Good👌🏻
+Service: Friendly front desk❤️🔥
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:The room was very nice and the front desk service was great. I will come again next time.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 5, 2024
+msg:The hotel staff is enthusiastic, the service is thoughtful, the check-in is fast, the room is well soundproofed, quiet and comfortable, and it was a very pleasant trip.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected Suite
+info:Stayed in December 2023
+info:Business travelers
+info:48 Reviews
+rating:5
+posted:Posted December 8, 2023
+msg:I live in a suite, and the water is limited. This is the first time I've heard of this. Other hotels are just average, not worthy of a five-star standard, but I heard that all hotels in Benxi are like this.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in March 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted March 22, 2024
+msg:Very satisfied, clean environment
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 24, 2024
+msg:A hotel with tasteful details
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in November 2023
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted December 5, 2023
+msg:This is the most upscale hotel in Benxi. The breakfast, service and hygiene are all very good. The company held a small meeting here and everything went smoothly.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 7, 2024
+msg:Very good service attitude, beautiful environment, clean and hygienic
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:Due to a relative's wedding, it was my first time staying here. The hotel was fully booked during the holiday, so I arrived a little late. I was given a reserved room and upgraded. There were fruits in the room. The only downside was that I checked out at 12 noon the next day. At 11 o'clock, the room card didn't work, so I had to go downstairs to re-magnetize it. I felt very uncomfortable.
+----------------------------------------
+name:1‍6‍6‍7‍l‍y
+info:Deluxe Standard Room
+info:Stayed in October 2023
+info:Friends
+info:35 Reviews
+rating:4
+posted:Posted October 19, 2023
+msg:The hotel is in an easy-to-find location. It is convenient to dine in the surrounding area. There are also local specialties in Benxi. The ancillary facilities around the hotel are also relatively complete. It is very convenient for travel and shopping.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in February 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted February 8, 2024
+msg:Clean room, good service
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2023
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted October 2, 2023
+msg:🏨The service is very warm, the room is well ventilated, the sheets are new, the chain hotel is safe, the furniture and decoration are new, there are many TV stations, and the network is good. I often stay here~🏨This is the best hotel I have ever stayed in! Clean! Hygienic! Good scenery! Exactly the same as the picture! 🏨The price-performance ratio is very high! The hotel is upscale! The quality of towels and toiletries is very good! The quality is worth the price!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:1
+posted:Posted February 16, 2024
+msg:I don't want to give a single star!!! I have never rated before, but this hotel is really unbearable for me, I must complain. First of all, the service attitude of the hotel is particularly poor. I booked two deluxe king-size rooms and chose room upgrades on Ctrip, but after arriving at the hotel, I was told that the hotel did not have room upgrade services, and finally wasted two room upgrade services in vain. Then the sanitary conditions of the room are very poor. There are many small black dust-like things on the quilt cover and bed sheets, and many places on the bed sheets have been worn out. The hotel even laid such bed sheets and let guests use them. It is simply speechless. Finally, I must say that their breakfast is 58 yuan per person, and there is nothing... Yes, it is just what you think, there is really nothing. There are less than 20 options for breakfast buffet, among which fried rice is empty, fried noodles are only a little bit, and no one in the wonton and noodle area cooks for you. When I went there, two groups of guests were very angry and asked the hotel waiter to find the person in charge of the hotel, but it seems that the hotel management did not come in the end. In conclusion, this is the first time I have stayed in such a bad five-star hotel. The service attitude is bad, the sanitary environment is bad, and the food and beverage has refreshed the worst bottom line of my cognition... I really feel sorry for the money, and I will never go there again.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in September 2021
+info:Business travelers
+info:9 Reviews
+rating:4.7
+posted:Posted September 9, 2021
+msg:The hotel is very clean, the accommodation is very comfortable, the parking lot is large, the breakfast is quite satisfactory, some details need to be paid attention to, and overall it is good! Have a chance to go and will live!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2021
+info:Family
+info:1 Review
+rating:4.5
+posted:Posted August 6, 2021
+msg:After enjoying the yurt once, I found out that the yurt was on the roof. I stayed for two nights and it rained every night 🌧️ I can really feel the weight of the raindrops in my bag, huh la la la la. It was already very bright in the bag less than six o'clock in the morning on the first day. The baby kept crying and asked his father to turn off the light. We were very helpless. We didn't turn on the light. It was in the middle of the roof [Yun Bei]. The next morning, Dad directly took the black parasol and covered it on the bed. In short, it would be nice to have experienced it [hee].
+----------------------------------------
+name:w‍a‍y‍n‍e‍ ‍z‍h‍e‍n‍g
+info:Selected Suite
+info:Stayed in August 2021
+info:Business travelers
+info:11 Reviews
+rating:3
+posted:Posted August 12, 2021
+msg:I have stayed in this hotel several times when I check out, the front desk will ask the same question, and it happens that other guests check out also have the same problem is that the room will be inexplicably missing a square towel, etc. This routine is too low, really for Benxi people Shame
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 25, 2021
+msg:Basically the best hotel in Benxi.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted May 30, 2024
+msg:房間環境很好，本溪最好的酒店，還有免費的歡迎小食，早餐也挺豐盛的，位置挺好，停車也方便
+----------------------------------------
+name:Q‍u‍g‍u‍a‍n‍q‍i‍a‍o
+info:Discount Double Room
+info:Stayed in May 2024
+info:Other
+info:20 Reviews
+rating:0.8
+posted:Posted May 20, 2024
+msg:半夜保安讓我下樓挪車，説是他老闆的車位，請問你固定車位為什麼不用雪糕桶佔位？説是你老闆晚上回來怎樣，我挪了，早上下去一看，你老闆也沒回來了？如果我睡覺了你大半夜的給我打電話想嚇死我對嗎？
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in April 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted April 30, 2024
+msg:停車方便！服務態度特別好，看到我們帶着孩子前台還給免費升級了房型！退房的時候還送了孩子小禮物，非常熱情有耐心！下次還會入住！
+----------------------------------------
+name:S‍h‍u‍i‍z‍h‍u‍s‍h‍i‍g‍u‍a‍n‍g
+info:Deluxe Standard Room
+info:Stayed in August 2023
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted August 30, 2023
+msg:房間舒適，環境優美，熱水非常的好，服務人員熱情，打前台電話，有什麼要求，來的也很快，大堂寬敞明亮，退房速度快
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2023
+info:Friends
+info:17 Reviews
+rating:2
+posted:Posted June 22, 2023
+msg:與價位不符。17時入住無熱水，空調冷氣時有時無，反映問題服務人員總是抵賴。冰箱插座無電，衞生間拖鞋收費（25元），餐廳處於停業狀態。
+設施：不全，空調不好，咖啡沒有，插座無電。
+服務：對付，耍賴，懟人
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in July 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted July 2, 2023
+msg:特別好 工作人員特別熱心，我們在**上的訂單出現錯誤 多虧了小帥哥及時的幫忙 特別感謝他！ 也為我考試路線提出了合理的建議 衞生環境也很乾凈 隔音效果好，贊👍！
+----------------------------------------
+name:r‍u‍o‍t‍a‍o‍0‍9‍1‍6
+info:Deluxe Standard Room
+info:Stayed in May 2024
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted May 13, 2024
+msg:給朋友一家預訂的，非常好！朋友説以後還會住！早餐豐富，房間裏還有免費的小食品，服務員禮貌客氣勤快主動。
+----------------------------------------
+name:K‍a‍i‍t‍a‍n‍k‍e‍d‍e‍s‍h‍u‍k‍e
+info:Parent-child Suite
+info:Stayed in February 2024
+info:Other
+info:4 Reviews
+rating:3
+posted:Posted February 12, 2024
+msg:這就是一個假五星酒店，應該連3星都不夠。健身房不開，1000元套房不帶早餐。工作人員穿着便裝服務。呃……無力吐槽，除了裝修連個快捷都比不上。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in July 2023
+info:Friends
+info:16 Reviews
+rating:5
+posted:Posted July 24, 2023
+msg:很好很不錯，房間乾淨整潔，前台的佳佳和琳琳幫忙辦理入住，非常熱情，下次還會選擇這家酒店。
+----------------------------------------
+name:K‍a‍i‍t‍a‍n‍k‍e‍d‍e‍s‍h‍u‍k‍e
+info:Discount Double Room
+info:Stayed in February 2024
+info:Other
+info:4 Reviews
+rating:2
+posted:Posted February 12, 2024
+msg:不想寫了，總之假到不能再假的5星，連快捷酒店都比不上。反正介意酒店服務、綜合性、不要來。其實我覺得這是我住過的酒店中最糟糕的地方。
+----------------------------------------
+name:M‍i‍c‍h‍a‍e‍l‍2‍0‍2‍2
+info:Discount Twin Room
+info:Stayed in August 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted August 17, 2023
+msg:很滿意，環境很好。
+外觀很棒，酒店大堂很服務很好很到位。
+----------------------------------------
+name:L‍i‍x‍i‍a‍o‍l‍i‍n‍g
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted August 20, 2023
+msg:酒店設施齊全，服務態度很好，乾淨衞生，高端大氣。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in August 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted August 15, 2023
+msg:設施：很好
+衞生：乾淨
+環境：舒適
+服務：前台熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in January 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted January 27, 2024
+msg:前台服務很熱情，還給免費升級了房型。酒店環境優雅，室內很乾凈，用品齊全，每天都可以按時給打掃更新用品，走之前還贈送了小禮物。值得推薦！
+----------------------------------------
+name:W‍i‍l‍l‍ ‍J‍i
+info:Deluxe Standard Room
+info:Stayed in April 2024
+info:Family
+info:230 Reviews
+rating:4.5
+posted:Posted April 7, 2024
+msg:總的來講是不錯的，房間夠用，廁所浴室有點漏水，早上很早服務員就開始在走廊聊天，聲音太大，這個有點丟分。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in July 2023
+info:Business travelers
+info:2 Reviews
+rating:1
+posted:Posted July 31, 2023
+msg:這個吹風機的袋子能不能擦一擦，太臟了，全是灰，我一拿飄滿天
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted July 4, 2023
+msg:酒店乾淨整潔，淋雨水很沖，整體性價比高。前台服務熱情，還給免費升級了樓層，點贊。
+----------------------------------------
+name:X‍i‍e‍y‍u‍a‍n
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Family
+info:10 Reviews
+rating:2
+posted:Posted February 14, 2024
+msg:早歺能見低，服務差，問廚師在哪裡，一會上廁所去了，一會兒去找了，反正這家酒店很差，找大堂經理解決，（給你二張優惠券解決）
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 24, 2023
+msg:乾淨！服務態度好！下次還來！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in February 2024
+info:Solo travelers
+info:27 Reviews
+rating:4
+posted:Posted February 27, 2024
+msg:客觀的説，房間一般，典型的老式酒店，能住，到不了4.8分，4分最高。亮點是洗澡水壓力沒得説，就沖這個，下次也要住
+----------------------------------------
+name:P‍i‍t‍e‍.‍x‍i‍a‍o‍c‍h‍a‍l‍i
+info:Business Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted August 4, 2023
+msg:酒店從環境到服務都非常滿意，下次還會再來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 3, 2023
+msg:設施和環境都不錯，尤其服務非常好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted August 11, 2023
+msg:服務好，給予免費升級房間
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in August 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted August 13, 2023
+msg:不錯，親屬説挺好
+----------------------------------------
+name:M‍a‍o‍m‍i‍b‍u‍h‍e‍z‍h‍o‍u
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Family
+info:2 Reviews
+rating:4.7
+posted:Posted May 5, 2024
+msg:一開始的房間不滿意，後來給更換了房間。服務耐心，早餐中規中矩。附近吃飯很方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in December 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted January 1, 2024
+msg:帶小朋友入住，前台小姐姐熱心的給升級房間，
+房間設施乾淨整潔，
+客房服務和餐廳服務熱情周到！
+特別開心的一次住宿體驗！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:1
+posted:Posted July 29, 2023
+msg:這麼多年體驗感最差的酒店、完全和價格不成正比（2星都不配）也是第一次寫差評、希望對大家有幫助
+設施：
+一共訂了三間房、窗户都打不開裏面煙味很重、其中兩間空調是壞的、一間花灑水流極小、一間電視有故障、洗漱盆基本是半堵的、花灑是直來直去噴的、淋浴房門無法關合、洗完澡後外面“汪洋大海”一樣…
+服務：
+要求換房、等了很久都不來、催促後説五點以後衹有一個客房服務員上班、且上門態度跟欠了她一樣
+地理位置：
+在市邊上、別説吃正餐、找個早點店都費勁
+空有其表、敗絮其中、衹做一次性買賣的服務定不會長久！
+就這樣品質的酒店攜程怎樣評的五星且主推？背後是什麼情況？
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in January 2023
+info:Family
+info:17 Reviews
+rating:1
+posted:Posted January 27, 2023
+msg:前台忽悠人讓我全家感冒，房嫂又繼續坑人讓我感冒加劇，沒見過這麼打擊報復的。
+上次前台忽悠人，第二天我媽去找前台了，前台讓房嫂給調空調，房嫂説顯示器温度不準，不用管它，衹用調風速就行了。當時温度設定27℃（我懷疑酒店温度虛高估計有4℃）顯示室温26℃，結果大年初四晚上空調根本不啟動（酒店沒地暖），本想昨天給酒店一個差評她們會收斂點，結果依舊在忽悠人，初六白天我們才突然想起，將温度調到28℃空調就啟動了。結果當晚我們凍着了感冒加劇。就為了一點口角，酒店這麼直溜我們，嚇得我們趕緊跑，你酒店這麼大牌，這麼欺負人，惹不起我還躲不起嗎？
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted May 6, 2024
+msg:房間整潔，衞生乾淨，尤其熱水很大，洗澡很舒服。前台客服也很友善耐心！
+----------------------------------------
+name:T‍u‍f‍e‍i‍y‍i‍k‍e‍y‍a
+info:Deluxe Standard Room
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 17, 2023
+msg:環境很好，跟喜歡
+設施：很新的酒店，附近吃的也很多，
+衞生：很乾凈，床單被套都很乾凈
+環境：很好，好評
+服務：服務很正規，不錯，好評
+----------------------------------------
+name:T‍a‍b‍a‍n‍a‍n‍8‍4‍0‍8
+info:Discount Double Room
+info:Stayed in August 2023
+info:Friends
+info:3 Reviews
+rating:4
+posted:Posted August 8, 2023
+msg:房間還算寬敞，衞生條件也可以，但是浴室的毛巾和浴巾都比較老，邊上都起毛了，應該及時換新。
+酒店電梯比較小，還慢，等電梯需要點耐心
+服務人員態度很好，車位停滿了還幫忙聯繫保安找位置
+----------------------------------------
+name:X‍i‍a‍n‍r‍e‍n‍y‍i‍g‍e‍w‍u‍l‍i‍a‍o‍w‍u‍q‍u
+info:Comfy Queen Room
+info:Stayed in May 2024
+info:Couples
+info:59 Reviews
+rating:2.1
+posted:Posted May 29, 2024
+msg:房間設施老舊，性價比極低，不知道攜程如何推薦的這樣的酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 29, 2024
+msg:前台美女禮貌熱情，訂單日期選錯了，積極幫忙協調解決。酒店位置不錯，周圍餐飲選擇多
+----------------------------------------
+name:H‍o‍n‍g‍h‍o‍n‍g‍d‍e‍x‍i‍a‍o‍b‍a‍b‍a
+info:Discount Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted March 11, 2024
+msg:出差入住，環境衞生絕對沒得説，房間設施全新，價格也非常適合，下次還會再選擇！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 5, 2024
+msg:設施：好（✪▽✪）
+衞生：好（✪▽✪）
+環境：好（✪▽✪）
+服務：前台熱情
+----------------------------------------
+name:J‍i‍n‍c‍i‍e‍r‍y‍i‍2‍0‍1‍8
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:6 Reviews
+rating:2.5
+posted:Posted August 20, 2023
+msg:房間一般，衞生很一般，剛入住發現床品居然有頭髮！衞生間洗手盆設施有問題！前台服務人員態度非常一般，不告知停車免費需要登記！總之，服務、設施都不配這個價格！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:6 Reviews
+rating:4.8
+posted:Posted April 18, 2024
+msg:房間乾淨衞生，每天打掃仔細，服務貼心熱情，我住的房間環境不錯；
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 17, 2023
+msg:整體環境很棒
+
+設施：免費停車
+
+服務：免費早餐，非常好，房型寬敞，整體讓人感覺舒服，價格小貴，算是本溪的高端酒店了，很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:房間不錯 無異味 早餐豐盛 出行方便前台丁女士態度服務好
+----------------------------------------
+name:Y‍i‍d‍a‍n‍l‍i
+info:Discount Double Room
+info:Stayed in May 2023
+info:Couples
+info:23 Reviews
+rating:5
+posted:Posted May 14, 2023
+msg:挺好的挺好的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in March 2024
+info:Business travelers
+info:15 Reviews
+rating:3
+posted:Posted May 11, 2024
+msg:房間還可以，早餐需改進，老年團搶飯，手慢者活動活動再下場。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 10, 2024
+msg:總體挺滿意，乾淨，安靜，房間沒有煙味。不錯，推薦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in July 2023
+info:Business travelers
+info:42 Reviews
+rating:4.7
+posted:Posted August 28, 2023
+msg:位置還不錯，本溪也不大，算是中心吧。房間衞生設施還是比較新的，早餐品種還算可以，質量也説得過去；前台服務勉強合格、熱情算不上。整體來説在本溪也是不錯的酒店吧。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 14, 2024
+msg:家門口的酒店，每次家裡不夠住了都會來這裏住。總體來説很舒服，洗澡水很熱很喜歡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 9, 2024
+msg:每次來本溪出差都住在這裏，服務態度很好，房間也乾淨夠大
+----------------------------------------
+name:m‍i‍n‍n‍i‍e‍2‍1‍6
+info:Discount Twin Room
+info:Stayed in January 2024
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted February 12, 2024
+msg:房間乾淨整潔，一大早入住，前台小姐姐溝通當天用早餐，入住還送了精美水果
+----------------------------------------
+name:N‍i‍7‍7
+info:Deluxe Standard Room
+info:Stayed in September 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted September 27, 2023
+msg:前台服務態度特別好，免費升級房間，房間乾淨，設定新，本溪最值的入住的酒店，停車方便，下面還有個水果超市，吃飯方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy 2-bed Room
+info:Stayed in April 2024
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted April 12, 2024
+msg:酒店房間乾淨整潔，周邊吃飯的地方很多，早餐也特別棒！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 15, 2024
+msg:房間還可以，康師傅康泉水，浴室拖鞋25元，不想用的光腳進吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in April 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 14, 2023
+msg:不錯不錯哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Parent-child Suite
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:4
+posted:Posted July 25, 2023
+msg:網上號稱四星級，實際上沒星，實際使用起來就是三星的標準，早餐一般，房間還算乾淨，淋浴間房門不嚴，洗澡水流到外面，老舊電視，總之性價比較低
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted January 24, 2024
+msg:酒店環境不錯，設施齊全，乾淨衞生。地理位置優越，酒店服務態度很好！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 12, 2024
+msg:房間安靜，設施齊全，酒店服務貼心，地理位置相當好哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in May 2024
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted May 28, 2024
+msg:房間整體滿意，服務態度好，價格在本溪偏貴。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted July 17, 2023
+msg:非常好的酒店，整體很乾凈，設施環境也不錯，因為個人行程問題，多虧了前台國思和曉樂的及時幫助才解決，服務態度很好，每次來本溪都會選擇住在這裏
+----------------------------------------
+name:e‍a‍t‍c‍k‍e‍s
+info:Business Double Room
+info:Stayed in January 2023
+info:Friends
+info:11 Reviews
+rating:5
+posted:Posted January 26, 2023
+msg:非常好的酒店 推薦大家來試一試 可以額可以 住着舒服 態度還好
+----------------------------------------
+name:m‍a‍t‍t‍e‍r‍b‍b‍a‍b‍y
+info:Discount Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted April 3, 2024
+msg:前台服務小姐姐人很棒，非常nice……打掃衞生乾淨
+----------------------------------------
+name:-‍x‍i‍a‍o‍b‍o‍-
+info:Discount Double Room
+info:Stayed in August 2023
+info:Solo travelers
+info:7 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:土生土長的本地人，在外地工作，每次回家辦事兒為了不麻煩家裡人都住酒店，銀意首選，超級愛，也算是本地非常不錯的酒店了，推薦
+----------------------------------------
+name:c‍a‍i‍c‍a‍i‍s‍e‍v‍e‍n
+info:Deluxe Standard Room
+info:Stayed in August 2023
+info:Family
+info:6 Reviews
+rating:3
+posted:Posted August 7, 2023
+msg:據説已經是本溪最好的酒店之一？但是真的也就普通三星的水平吧………… 湊合住。附近走五六百米有條街，飯館林立，性價比極高。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:酒店環境很不錯，還給免費升級了房型，好評。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in June 2023
+info:Friends
+info:1 Review
+rating:3
+posted:Posted June 19, 2023
+msg:有點失望，在攜程挑的本溪最貴的酒店本以為會很好，結果進房間之後居然有嚴重的煙味兒，而且床頭的皮子都是破爛不堪，整個感覺特別舊，不值這個價錢。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 22, 2024
+msg:酒店位置較便利，有停車廠；沒用早餐，不予評價。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in October 2022
+info:Friends
+info:13 Reviews
+rating:1
+posted:Posted October 5, 2022
+msg:隨手拍一下，也沒多拍。枕頭上有長頭髮。房間的甲醛味很重，必須開窗睡覺，衞生間的洗浴間裏潮濕發黴味。600多的房間就這樣。這是住過的最差的一個酒店。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 9, 2024
+msg:環境：很好
+衞生：不錯 沒有異味
+
+設施：很好
+
+服務：周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 25, 2024
+msg:前台服務棒棒噠👍酒店暖氣太好了吧！很舒服！下次還會入住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in February 2023
+info:Couples
+info:6 Reviews
+rating:1.7
+posted:Posted April 19, 2023
+msg:設施：因為停車場有特斯拉充電樁為了方便才住的，房間內所有設施都很老舊，不知道為啥是五星？
+衞生：衞生挺差的，床單上有不明毛髮和臟東西
+環境：本溪為數不多的幾個豪華酒店了，標五星做的還沒有三星好
+服務：與五星可以説是毫無關係
+住完之後發現酒店星級是可以隨便亂標的
+----------------------------------------
+name:L‍a‍o‍z‍h‍a‍n‍g‍d‍a‍k‍e
+info:Deluxe Standard Room
+info:Stayed in September 2023
+info:Business travelers
+info:35 Reviews
+rating:4
+posted:Posted September 23, 2023
+msg:天氣濕度小，但床上用品潮濕，應該沒幹就普上床了，我外出拉開被子幾小時，回房間幹了好多。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Suite
+info:Stayed in June 2023
+info:Business travelers
+info:43 Reviews
+rating:5
+posted:Posted July 13, 2023
+msg:本溪市內最高檔的酒店，舒適温馨，服務周到，有求必應。早餐廳環境不錯，衹是品種不多，口味一般，與五星級酒店的標準尚有差距。
+----------------------------------------
+name:Y‍o‍u‍l‍i‍y‍u‍a‍n‍f‍a‍n‍g
+info:Discount Double Room
+info:Stayed in October 2023
+info:Friends
+info:186 Reviews
+rating:5
+posted:Posted October 9, 2023
+msg:酒店房間寬敞明亮，有免費停車場，服務人員素質高，熱情周到，是一家非常好的的酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 29, 2024
+msg:服務態度很好。環境不錯。住這很舒適。設施很齊全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in March 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted March 11, 2024
+msg:設施：好
+衞生：好
+環境：好
+服務：前台熱情
+----------------------------------------
+name:S‍t‍a‍r‍t‍s‍o
+info:Parent-child Suite
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:酒店在本溪還是不錯的，就是不好停產，有個後院還行
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted May 4, 2024
+msg:衞生：乾淨
+服務：滿意
+環境：方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy 2-bed Room
+info:Stayed in April 2024
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted April 20, 2024
+msg:房間乾淨整潔，服務到位，地理位置優越
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:設施：很好，
+衞生：乾淨
+環境：高檔
+服務：耐心
+----------------------------------------
+name:K‍e‍l‍a‍i‍d‍u‍n‍b‍e‍i‍y‍a‍n‍s‍o‍n‍g
+info:Discount Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 12, 2024
+msg:算得上本溪比較好的酒店了，前台很熱情，還送了u型枕
+----------------------------------------
+name:M‍a‍k‍e‍x‍i‍o‍n‍g
+info:Discount Twin Room
+info:Stayed in January 2023
+info:Family
+info:12 Reviews
+rating:1
+posted:Posted January 27, 2023
+msg:可能是近些年住的體驗感最差的酒店沒有之一.定之前問有沒有地下停車場説有，到了前台一會有一會沒有的，就是不給停，前台服務態度及其冷淡，愛答不理，每天停車，車位靠搶！房間的浴巾永遠一股煤炭味..
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in May 2024
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:很滿意，服務員熱情，房間乾淨衞生
+----------------------------------------
+name:H‍a‍l‍e‍m‍u‍h‍u‍l‍v‍g‍u‍a‍n‍g
+info:Discount Twin Room
+info:Stayed in June 2023
+info:Business travelers
+info:47 Reviews
+rating:3
+posted:Posted June 21, 2023
+msg:應該是本溪算比較不錯的酒店，但是服務和早餐應該還是不行的，費用在這裏，不過應該不缺客户，所以服務就是跟不上來了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted May 18, 2024
+msg:房間非常乾淨整潔 服務非常熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2022
+info:Family
+info:2 Reviews
+rating:2
+posted:Posted July 7, 2022
+msg:頂噴漏水嚴重 叫工作人員處理解釋説就是這樣的，等於一邊洗一邊頭頂瘋狂滴水，值得表揚的是浴帽質量不錯啊！你看漏水我多虧有了這個啊，裝滿了都沒破！連住四天，衞生基本不怎麼打掃，連地都不吸，感覺連住就是幫你鋪個床單倒個垃圾，
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in September 2023
+info:Friends
+info:27 Reviews
+rating:5
+posted:Posted October 29, 2023
+msg:非常好的酒店！設施較新，衞生好，服務態度友好專業.交通便利，停車方便.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Suite
+info:Stayed in August 2023
+info:Business travelers
+info:8 Reviews
+rating:1.2
+posted:Posted August 11, 2023
+msg:不是新酒店了，居然發現床上有異響，是床墊的塑料包裝沒拆。運營商是怎麼想的。奇葩至極！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 3, 2024
+msg:服務很好 前台美女服務很熱情 環境很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in April 2024
+info:Other
+info:14 Reviews
+rating:5
+posted:Posted May 1, 2024
+msg:環境不錯，屋內很暖和，衞生很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in February 2024
+info:Business travelers
+info:6 Reviews
+rating:3
+posted:Posted March 28, 2024
+msg:不滿意，後半夜有人來敲門。早餐吃食都不夠
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Parent-child Suite
+info:Stayed in June 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted June 10, 2022
+msg:高考期間入住，感覺不錯。能為考生提前早餐時
+間。
+點餐也很好，服務人員能提供合理化建議。
+個人建議為考生房提供亮度好一些的枱燈，同時
+高考期問將親子套定位為考生套，適當降低一下
+取費，畢竟套房還是比較適合考生一家入住的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:18 Reviews
+rating:4
+posted:Posted January 6, 2024
+msg:中規中矩的酒店，由於衹是睡一晚，很早就離開了，也沒太多體驗分享
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted February 26, 2024
+msg:設施齊全，衞生乾淨，服務周到，非常好
+----------------------------------------
+name:Y‍u‍l‍a‍o‍g‍u‍n‍z‍i
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:還不錯 就是房間內有付費商品
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 1, 2023
+msg:高端大氣，設施新齊全，房間大，交通方便，環境優美，床舒服，空調熱水都非常給力！
+----------------------------------------
+name:L‍a‍n‍x‍i‍a‍o‍b‍u
+info:Business Double Room
+info:Stayed in July 2023
+info:Friends
+info:5 Reviews
+rating:5
+posted:Posted July 30, 2023
+msg:我們原計劃定的商務大床，沒想到給我們升級到套房，特別棒的感受！前台也非常熱情！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in December 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 27, 2023
+msg:服務好，前台態度好   1506  1514
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Couples
+info:4 Reviews
+rating:5
+posted:Posted April 21, 2024
+msg:住的很舒服，很衞生，服務很好
+----------------------------------------
+name:N‍a‍g‍a‍d‍a‍d‍e‍r‍e‍n
+info:Discount Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:206 Reviews
+rating:4.2
+posted:Posted September 18, 2023
+msg:感覺不夠五星賓館，客房門老是拿卡打不開，服務還可以，房間比較小。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in December 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 31, 2023
+msg:1406.1407。前台接待很好，環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in December 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 27, 2023
+msg:8006 房間很大 住的很舒服 前台態度很好
+----------------------------------------
+name:K‍e‍l‍e‍z‍h‍o‍n‍g‍d‍u‍z‍h‍e
+info:Discount Twin Room
+info:Stayed in May 2024
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted May 24, 2024
+msg:當地最好的酒店，沒有之一
+----------------------------------------
+name:e‍t‍h‍a‍n‍w‍a‍n‍g‍7‍4‍7‍1‍3‍8
+info:Discount Double Room
+info:Stayed in July 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted July 29, 2023
+msg:酒店地址很方便，就在勝利路的東頭，而勝利路的西頭就是火車站、永豐商業街！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in May 2024
+info:Solo travelers
+info:11 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:酒店設備新，服務貼心熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted March 14, 2024
+msg:房間整潔，比較衞生，下次再來！
+----------------------------------------
+name:T‍a‍n‍g‍b‍o‍h‍u‍d‍i‍a‍n‍w‍e‍n‍x‍i‍a‍n‍g‍_‍0‍4‍1‍1
+info:Comfy Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 15, 2024
+msg:設施齊全房型舒適交通便捷
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted May 10, 2024
+msg:很不錯的，服務很貼心❤️
+----------------------------------------
+name:c‍o‍o‍l
+info:Discount Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 6, 2024
+msg:房間非常乾淨舒適，賓館各項服務也很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in December 2023
+info:Friends
+info:6 Reviews
+rating:5
+posted:Posted December 26, 2023
+msg:環境：優
+服務：優
+衞生：優
+設施：優
+好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:45 Reviews
+rating:5
+posted:Posted December 3, 2023
+msg:前台服務熱情   房間寬敞明亮   停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in April 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:每次回家都住這裏，市區方便
+----------------------------------------
+name:N‍i‍c‍k‍y‍d‍e‍x‍i‍a‍o‍y‍u
+info:Discount Double Room
+info:Stayed in March 2024
+info:Other
+info:16 Reviews
+rating:5
+posted:Posted April 5, 2024
+msg:給親屬訂的房間，他本人很滿意
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted November 15, 2023
+msg:客房乾淨，辦理入住退房便捷快速，出差旅遊推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in May 2023
+info:Business travelers
+info:2 Reviews
+rating:3
+posted:Posted May 25, 2023
+msg:前台服務態度差，説話生硬。客人外賣不讓上樓，老闆的外賣可以送上樓。房間傢俱味道嗆到暈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in November 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted December 29, 2023
+msg:服務熱情，設施齊全，環境衞生，下次還會再訂
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted November 29, 2023
+msg:前台小陳服務很熱情，酒店裝修風格很喜歡，點贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2024
+info:Friends
+info:46 Reviews
+rating:5
+posted:Posted April 12, 2024
+msg:前台美女 服務態度非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted January 15, 2024
+msg:酒店環境比較不錯，
+衞生：比較不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 29, 2023
+msg:房間乾淨舒服 前台服務態度好 熱情
+----------------------------------------
+name:C‍h‍o‍o‍n‍J‍a
+info:Discount Twin Room
+info:Stayed in December 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted December 13, 2023
+msg:非常滿意，應該是目前本溪最好的酒店吧
+----------------------------------------
+name:Q‍i‍n‍g‍d‍a‍o‍b‍a‍d‍a‍h‍u
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:41 Reviews
+rating:3
+posted:Posted October 16, 2023
+msg:不值這個價 環境一般 早餐一般  也就三星吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted May 30, 2024
+msg:位置便利，服務很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in October 2023
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted October 29, 2023
+msg:來本溪旅遊首選這家酒店，環境服務都不錯👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in September 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted September 12, 2023
+msg:房間很乾凈，前台小淼和小樂服務態度很好推薦😝😝
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2022
+info:Other
+info:6 Reviews
+rating:2.5
+posted:Posted August 21, 2022
+msg:這是三星酒店？前台最起碼的敬語都不會説？從來沒聽見過：您好，請，您這些詞，真的掉價，是不是該好好培訓一下？還有態度問題，特別隨意，點了賣完請幫忙送一下也不行。最重要的是前台，真應該好好培訓下，建議用普通話。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 10, 2024
+msg:非常滿意，下次還來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 21, 2024
+msg:服務態度好設施衞生都很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in April 2024
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted April 9, 2024
+msg:非常好，尤其服務人員
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2022
+info:Family
+info:3 Reviews
+rating:1.7
+posted:Posted February 7, 2022
+msg:綜合評價就是性價比太低！！！
+300多的價格，趕不上100多的品質！！！
+1.室內温度低  空調根本不起作用 不蓋被冷 蓋被子熱
+2.電話就是個擺設 各種接通不
+3.進屋就感受各種收費，300多的價格，比富虹都貴，這幾個飲料還收費
+4.浴室裏拖鞋沒有，放了一雙居然收費25元
+5.送的兩瓶漱口水康師傅的
+6.58元的自助早餐 真的沒啥東西
+
+如果你在看評價選酒店的話，就出門左轉吧！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted July 31, 2023
+msg:各方面都很滿意。我一件衣服忘酒店了，主動聯繫寄給我。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2022
+info:Other
+info:15 Reviews
+rating:1
+posted:Posted October 30, 2022
+msg:沒有比他家在差的酒店了，停車場都是空位就是不讓進，説停滿了，攜程會員預訂退房時間下午二點，前台打電話説必須一點退房，相當**的酒店。本溪大坑酒店。
+----------------------------------------
+name:W‍o‍a‍i‍t‍o‍n‍g‍h‍a‍n
+info:Comfy 2-bed Room
+info:Stayed in April 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 1, 2024
+msg:很好，免費升級房型
+----------------------------------------
+name:T‍Q‍Y‍I‍L
+info:Discount Double Room
+info:Stayed in February 2024
+info:Solo travelers
+info:21 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:酒店服務熱情，房間衞生。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 24, 2024
+msg:服務很熱情，房間乾淨衞生。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted April 2, 2024
+msg:滿意、酒店還幫延了時
+----------------------------------------
+name:J‍i‍u‍z‍h‍u‍a‍n‍g‍l‍i‍n‍g‍y‍u‍n‍z‍h‍i
+info:Discount Double Room
+info:Stayed in January 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted January 21, 2024
+msg:房間乾淨，環境好，服務滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 21, 2024
+msg:設備齊全、乾淨衞生、服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted April 28, 2024
+msg:挺好的，服務挺到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in February 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted February 11, 2024
+msg:很好 在本溪非常好的酒店
+----------------------------------------
+name:F‍u‍s‍h‍e‍n‍g‍l‍i‍u‍j‍i‍☯
+info:Discount Twin Room
+info:Stayed in March 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 3, 2024
+msg:房間衞生乾淨，服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in July 2023
+info:Friends
+info:4 Reviews
+rating:3.7
+posted:Posted July 25, 2023
+msg:很火大！攜程預訂房間的，推薦走的時候等待驗房再走！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Comfy Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted May 14, 2024
+msg:非常好！很乾凈！
+----------------------------------------
+name:L‍u‍o‍s‍e‍n‍h‍a‍i‍m‍u‍l‍i‍s‍h‍i‍m‍i‍n
+info:Discount Twin Room
+info:Stayed in May 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted June 9, 2023
+msg:房間乾淨衞生，環境不錯，前台服務員妹子服務態度很好，回覆及時
+----------------------------------------
+name:D‍o‍u‍d‍o‍u‍ ‍C‍h‍a‍n
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted May 7, 2024
+msg:兒砸很喜歡，下次還要來
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted March 14, 2024
+msg:酒店的各項服務非常好
+----------------------------------------
+name:G‍u‍a‍n‍�‍�‍�‍�‍z‍h‍a‍o
+info:Selected Suite
+info:Stayed in August 2023
+info:Business travelers
+info:37 Reviews
+rating:5
+posted:Posted August 6, 2023
+msg:設施：一流
+衞生：乾淨
+環境：很好
+服務：到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in April 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted April 7, 2024
+msg:環境不錯，設施完善
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 24, 2023
+msg:住宿很好
+設施：好
+衞生：好
+環境：好
+服務：好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted January 18, 2024
+msg:酒店乾淨衞生，交通方便。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:房間乾淨服務貼心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:33 Reviews
+rating:1.7
+posted:Posted December 6, 2022
+msg:房間一股黴味，牆紙剝落。第一次遇到住酒店用拖鞋要付錢的，關鍵還沒看到提示，更奇葩是過半個月後再來討要，體驗感極不舒服。
+----------------------------------------
+name:M‍e‍i‍k‍a‍n‍u‍o
+info:Discount Twin Room
+info:Stayed in January 2024
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:非常好，暖和，乾淨，清凈
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in March 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted March 24, 2024
+msg:安排延時退房，感謝
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted February 3, 2024
+msg:房間不錯，地理位置極佳
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in January 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted January 7, 2024
+msg:房間乾淨整潔，服務很好👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:2.5
+posted:Posted June 23, 2023
+msg:性價比超級差，早餐差並價高，西瓜🍉酸了，説了也不挨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in January 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted January 24, 2024
+msg:房間乾淨，酒店服務到位
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in May 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 21, 2024
+msg:環境好，服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in January 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted January 17, 2024
+msg:很安靜，床也比較舒服。
+----------------------------------------
+name:N‍a‍i‍w‍e‍n‍m‍o‍e‍r‍6‍6‍6
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:3
+posted:Posted October 24, 2023
+msg:健身房疫情之後沒開 早餐有點涼
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in April 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted April 6, 2024
+msg:特別好，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in June 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted June 23, 2023
+msg:前台熱情 姓孔姓梅兩個小姑娘賊熱情，服務特別好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 8, 2023
+msg:方便出行，設施齊全，房間整潔，工作人員服務態度好。非常愉快的一次體驗。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 24, 2024
+msg:房間乾淨，服務滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in September 2023
+info:Couples
+info:1 Review
+rating:1
+posted:Posted September 10, 2023
+msg:非常差，亂收費 服務態度十分惡劣！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted July 5, 2023
+msg:設施：還行
+衞生：挺好
+環境：一般
+服務：好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in January 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted January 22, 2024
+msg:服務好客房幹浄棒棒噠
+----------------------------------------
+name:D‍a‍h‍a‍i‍n‍i‍a‍n‍y‍u
+info:Discount Double Room
+info:Stayed in January 2024
+info:Couples
+info:20 Reviews
+rating:5
+posted:Posted January 22, 2024
+msg:環境很好，乾淨又衞生
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in September 2023
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted September 17, 2023
+msg:這個酒店很好、有賓至如歸的感覺。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in February 2024
+info:Family
+info:7 Reviews
+rating:4
+posted:Posted February 17, 2024
+msg:房間整潔度有待提高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in January 2024
+info:Booked for others
+info:39 Reviews
+rating:5
+posted:Posted April 14, 2024
+msg:本溪數一數二的好酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 18, 2023
+msg:前台佳佳和莉莉 服務熱情周到 非常滿意.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 18, 2024
+msg:房間乾淨整潔👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in July 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted July 2, 2023
+msg:酒店服務態度熱情，大堂男經理服務超級貼心，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted December 27, 2023
+msg:1513環境不錯服務好
+----------------------------------------
+name:p‍a‍n‍m‍a‍x‍1‍8
+info:Discount Twin Room
+info:Stayed in February 2024
+info:Business travelers
+info:30 Reviews
+rating:4.2
+posted:Posted February 4, 2024
+msg:還行吧，設施不太好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in December 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted December 26, 2023
+msg:環境乾淨衞生，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 8, 2024
+msg:本溪不錯的酒店
+----------------------------------------
+name:�‍�‍�‍�‍j‍i‍n‍g‍t‍i‍a‍n‍w‍e‍i‍m‍i‍n‍g‍�‍�‍�‍�
+info:Discount Twin Room
+info:Stayed in January 2024
+info:Solo travelers
+info:1 Review
+rating:4
+posted:Posted January 29, 2024
+msg:乾淨利落，整潔温馨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in July 2023
+info:Business travelers
+info:81 Reviews
+rating:5
+posted:Posted August 22, 2023
+msg:設施齊全 衞生乾淨 環境舒適 服務熱情
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2023
+info:Solo travelers
+info:1 Review
+rating:3.7
+posted:Posted October 1, 2023
+msg:挺好的，就是十一價格都翻倍了
+----------------------------------------
+name:L‍i‍u‍g‍e‍z‍a‍i‍l‍u‍c‍u‍n
+info:Discount Twin Room
+info:Stayed in December 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted December 24, 2023
+msg:乾淨 舒適 服務到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted January 21, 2024
+msg:房間乾淨 服務好的
+----------------------------------------
+name:J‍i‍a‍n‍z‍h‍u‍a‍n‍g‍1‍9‍9‍0
+info:Deluxe Standard Room
+info:Stayed in March 2022
+info:Business travelers
+info:39 Reviews
+rating:3
+posted:Posted March 3, 2022
+msg:沒有一樣讓人覺得滿意，失敗的入住體驗，差
+----------------------------------------
+name:k‍e‍l‍l‍y‍1‍1‍0‍1
+info:Deluxe Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:5 Reviews
+rating:4.7
+posted:Posted November 29, 2023
+msg:放假温度很好，停車方便
+----------------------------------------
+name:D‍o‍n‍g‍s‍h‍e‍n‍g
+info:Discount Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:交通很方便，房間乾淨而且服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in November 2023
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted February 9, 2024
+msg:非常好，在本溪算不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in January 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted January 3, 2024
+msg:非常滿意，環境很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in December 2023
+info:Business travelers
+info:85 Reviews
+rating:5
+posted:Posted January 26, 2024
+msg:交通很方便，環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 29, 2023
+msg:前天服務很好，還給免費升級房間。
+----------------------------------------
+name:y‍i‍y‍a‍n‍g‍0‍7‍1‍7
+info:Discount Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted May 20, 2023
+msg:每次來本溪都住的地方，服務很好交通也很方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in April 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted April 6, 2024
+msg:住宿環境很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in February 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted February 23, 2024
+msg:環境衞生服務好
+----------------------------------------
+name:W‍a‍n‍g‍r‍u‍i‍4‍8‍1‍7
+info:Deluxe Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:64 Reviews
+rating:3.2
+posted:Posted September 30, 2023
+msg:酒店早餐和服務簡直太水了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Other
+info:1 Review
+rating:5
+posted:Posted March 31, 2024
+msg:客人非常滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in March 2024
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted March 25, 2024
+msg:滿意，不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted February 12, 2024
+msg:幫忙升級了房間
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 29, 2023
+msg:前台服務熱情周到，值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in July 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 20, 2023
+msg:本溪市裡比較好的酒店，人挺多的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted April 9, 2024
+msg:環境衞生嘎嘎好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in December 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted January 1, 2024
+msg:前台小姐姐人很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in November 2023
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted January 29, 2024
+msg:環境不錯，服務一流
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in April 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 1, 2024
+msg:非常滿意哦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in July 2023
+info:Business travelers
+info:3 Reviews
+rating:4.5
+posted:Posted July 14, 2023
+msg:服務熱情，環節衞生，性價比高。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted October 4, 2023
+msg:房間中規中矩 偶遇停電
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in June 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted June 24, 2023
+msg:服務設施齊全，熱情周到，舒適安全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family Suite
+info:Stayed in May 2023
+info:Family
+info:1 Review
+rating:4
+posted:Posted May 4, 2023
+msg:還可以吧，本溪也沒啥別的高級點的酒店了
+----------------------------------------
+name:C‍h‍e‍n‍y‍u‍a‍n
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:房間很乾凈。早餐很豐富。可以免費停車。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted January 18, 2024
+msg:服務很好，滿意
+----------------------------------------
+name:J‍a‍n‍e‍t
+info:Selected Suite
+info:Stayed in November 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted November 27, 2022
+msg:房間新裝修過，比普通套間新很多。按摩浴缸是個很大的亮點。推薦來試試。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in April 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted April 26, 2024
+msg:滿意。。。
+----------------------------------------
+name:C‍o‍n‍g‍x‍i‍n‍k‍a‍i‍s‍h‍i‍3‍2‍0‍6
+info:Discount Twin Room
+info:Stayed in April 2023
+info:Friends
+info:53 Reviews
+rating:5
+posted:Posted April 25, 2023
+msg:設施齊全，乾淨衞生，環境優雅，服務周到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in August 2023
+info:Family
+info:8 Reviews
+rating:4
+posted:Posted August 25, 2023
+msg:一般吧，覺得價格有點偏高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in February 2024
+info:Couples
+info:1 Review
+rating:5
+posted:Posted February 20, 2024
+msg:很好，非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in April 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:啥都好好好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 14, 2024
+msg:房間還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in October 2022
+info:Business travelers
+info:12 Reviews
+rating:4.5
+posted:Posted October 13, 2022
+msg:設施：新
+衞生：好，乾淨
+環境：很好很方便
+服務：客房服務好，四樓餐廳服務差
+----------------------------------------
+name:Z‍h‍i‍r‍a‍n‍y‍i‍n‍g‍d‍i
+info:Deluxe Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:本溪酒店可以
+----------------------------------------
+name:X‍i‍a‍o‍r‍u‍o‍w‍u‍_
+info:Discount Double Room
+info:Stayed in February 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted February 5, 2024
+msg:乾淨，安靜。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in March 2024
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted March 25, 2024
+msg:用户已好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in December 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted December 25, 2023
+msg:服務不錯嘎嘎的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in March 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 14, 2024
+msg:還不錯的哦
+----------------------------------------
+name:p‍e‍t‍e‍r‍-‍b‍i‍a‍n
+info:Discount Double Room
+info:Stayed in January 2024
+info:Friends
+info:26 Reviews
+rating:5
+posted:Posted March 22, 2024
+msg:都很好都很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted December 28, 2023
+msg:環境不錯不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in December 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted December 28, 2023
+msg:屋裡十分温暖
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in July 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted July 20, 2023
+msg:商家服務態度相當好了。
+----------------------------------------
+name:X‍i‍a‍o‍q‍i‍a‍n‍q‍i‍a‍n
+info:Deluxe Standard Room
+info:Stayed in February 2024
+info:Family
+info:9 Reviews
+rating:4.7
+posted:Posted March 17, 2024
+msg:總體還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in December 2023
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted December 25, 2023
+msg:空調温度可以
+----------------------------------------
+name:L‍o‍n‍g‍f‍u‍d‍a‍o‍r‍e‍n
+info:Discount Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:60 Reviews
+rating:2
+posted:Posted September 29, 2022
+msg:真心不怎麼樣，這個地方。湊合著住行。總之，提供的服務和設施，不想二次入住，也不值那個房費。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted June 18, 2023
+msg:服務態度以及房間都很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 1, 2024
+msg:福威非常好
+----------------------------------------
+name:G‍u‍l‍i‍t‍e
+info:Discount Twin Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 31, 2024
+msg:乾淨整潔！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted January 26, 2024
+msg:十分不錯，
+----------------------------------------
+name:G‍u‍s‍h‍e‍n‍g
+info:Discount Twin Room
+info:Stayed in July 2023
+info:Friends
+info:36 Reviews
+rating:5
+posted:Posted July 26, 2023
+msg:淋浴間很贊，水量充足
+----------------------------------------
+name:S‍h‍i‍e‍r‍h‍a‍o‍w‍e‍i‍j‍i‍e
+info:Discount Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted December 25, 2023
+msg:相當不錯。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 24, 2024
+msg:環境很好啊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted July 25, 2023
+msg:服務好，房間設施新！
+----------------------------------------
+name:X‍i‍n‍m‍a‍t‍i‍n‍g‍d‍u‍o‍e‍r‍g‍u‍n
+info:Discount Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted January 26, 2024
+msg:酒店挺好的
+----------------------------------------
+name:P‍i‍n‍g‍g‍u‍o‍d‍a‍s‍h‍u‍1‍2‍3‍4
+info:Deluxe Standard Room
+info:Stayed in November 2023
+info:Business travelers
+info:189 Reviews
+rating:4.5
+posted:Posted November 30, 2023
+msg:早餐有退步。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in August 2023
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:房間好，服務滿意👍
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:34 Reviews
+rating:5
+posted:Posted May 21, 2023
+msg:非常滿意，以後還會光臨！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted March 25, 2023
+msg:附近吃的很多，環境很好，值得推薦
+----------------------------------------
+name:T‍a‍n‍g‍h‍o‍n‍g‍z‍h‍u‍o
+info:Discount Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 2, 2023
+msg:住宿舒適，服務到位
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in December 2023
+info:Couples
+info:20 Reviews
+rating:5
+posted:Posted January 1, 2024
+msg:自家的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 2, 2023
+msg:很乾凈，服務特別好！
+----------------------------------------
+name:�‍�‍w‍o‍s‍h‍i‍x‍i‍a‍o‍p‍e‍i‍y‍a‍
+info:Discount Twin Room
+info:Stayed in September 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted September 30, 2023
+msg:前台小姐姐很贊
+----------------------------------------
+name:E‍r‍h‍a‍n‍g‍7‍6‍8‍6‍8‍7
+info:Discount Twin Room
+info:Stayed in December 2023
+info:Business travelers
+info:3 Reviews
+rating:4.7
+posted:Posted December 25, 2023
+msg:服務很好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in December 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted December 25, 2023
+msg:整體很好！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in July 2023
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted August 3, 2023
+msg:很新的酒店，不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 14, 2021
+msg:酒店環境不錯，還有水果和甜點
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in December 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted December 25, 2023
+msg:房間很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in January 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted January 13, 2023
+msg:衞生乾淨，安靜，服務到位。居住舒適。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in August 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted September 17, 2023
+msg:房間整潔，服務好
+----------------------------------------
+name:D‍i‍s‍h‍i‍n‍o‍n‍g‍c‍h‍a‍n‍g
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted February 6, 2022
+msg:第一次住銀億酒店 感覺太棒了 服務非常熱情 感覺身體不舒服 前台小妹幫我倒上一杯大棗枸杞茶 心裏特別暖 特別感動 衞生也棒棒的 乾淨 客房阿姨打掃衞生超細節 非常喜歡桔子酒店的熱情服務 下次來本溪必到銀億酒店來打卡
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in March 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted March 17, 2023
+msg:環境好，不錯，。入住體驗很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:1 Review
+rating:1
+posted:Posted February 11, 2022
+msg:房間冷，早餐差，同等價位相當於華住的全季，不值這個價位，東北其他城市同等價位要比他家環境好的多，實在沒看出來哪像三星酒店
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted February 23, 2022
+msg:服務態度很好，疫情期間提供人性化的管理和服務。酒店的硬件設施和軟件服務都不錯，早餐也不錯，是本溪一家值得入住的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in June 2023
+info:Friends
+info:1 Review
+rating:4.5
+posted:Posted June 14, 2023
+msg:OKOK感覺很可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted August 23, 2021
+msg:環境好，服務態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted September 14, 2023
+msg:一直不錯，謝謝
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in March 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted March 21, 2023
+msg:酒店服務不錯，設施齊全。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in July 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted July 10, 2022
+msg:感覺很不錯，交通方便。環境一般吧，（在我去過的酒店中算上一般）
+----------------------------------------
+name:X‍i‍n‍g‍b‍i‍n
+info:Discount Double Room
+info:Stayed in December 2022
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted December 25, 2022
+msg:環境不錯，住着舒服，不愧是大酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in June 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted June 24, 2023
+msg:服務態度好、乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Parent-child Suite
+info:Stayed in October 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted January 10, 2024
+msg:環境很好！
+----------------------------------------
+name:C‍h‍e‍n‍q‍i‍a‍n‍y‍i
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Family
+info:3 Reviews
+rating:1
+posted:Posted August 18, 2021
+msg:房間裏全是煙味，我開完房出去吃飯也沒看房間的情況，回來哪知道是我最開始去看的房間啊，因為孩子小，我和前台要求換個房間，她居然收費，是你們酒店的房間裏煙味大為什麼我來承擔問題？後來進來打掃房間的阿姨人非常非常好，原本給打算噴空氣清新劑後來沒有用，看見孩子小，又幫忙給我換房間，最後我們沒有折騰把窗户都打開了，好一些就休息了，其實就是要個態度，服務行業，互相理解互相尊重，沒人會故意找茬，那味道要是一般我都不會知聲的，哪怕最後我也沒有添麻煩怕樓上樓下的折騰自己也累，畢竟我這裡有長者和小孩
+----------------------------------------
+name:l‍l‍g‍z‍z‍b
+info:Deluxe Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:73 Reviews
+rating:5
+posted:Posted October 27, 2022
+msg:第二次入住了，酒店符合高檔酒店的要求。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in October 2023
+info:Friends
+info:59 Reviews
+rating:4
+posted:Posted October 27, 2023
+msg:都還可以喔
+----------------------------------------
+name:Z‍h‍e‍n‍g‍x‍i‍n
+info:Discount Double Room
+info:Stayed in August 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted August 20, 2023
+msg:枕頭非常舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted October 17, 2023
+msg:服務挺好的
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2022
+info:Business travelers
+info:1 Review
+rating:3.2
+posted:Posted June 21, 2022
+msg:前台的那個態度讓人很不舒服！來了好幾次了對銀億的前台一直很無語！！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted October 6, 2023
+msg:很好很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in June 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted June 27, 2023
+msg:非常滿意很乾凈
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted June 27, 2023
+msg:酒店相當不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:55 Reviews
+rating:5
+posted:Posted March 10, 2023
+msg:一直選擇這家酒店，很好
+----------------------------------------
+name:B‍i‍y‍a‍o‍z‍h‍o‍u‍y‍u
+info:Discount Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:34 Reviews
+rating:5
+posted:Posted July 26, 2023
+msg:整體表現良好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in November 2022
+info:Business travelers
+info:31 Reviews
+rating:1
+posted:Posted December 20, 2022
+msg:次次次次次次次 自己體會一下吧
+----------------------------------------
+name:Z‍h‍a‍n‍g‍e‍g‍e‍g‍e
+info:Discount Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:2 Reviews
+rating:4
+posted:Posted May 17, 2023
+msg:在本溪算是很好的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in July 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted July 15, 2023
+msg:滿意滿意滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted May 28, 2023
+msg:本溪最好的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:2 Reviews
+rating:1
+posted:Posted May 26, 2023
+msg:差，空調也沒有
+----------------------------------------
+name:X‍i‍n‍f‍a‍n‍b‍a‍o‍b‍a‍o
+info:Deluxe Standard Room
+info:Stayed in February 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 21, 2023
+msg:很不錯，下次還會來的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted March 17, 2023
+msg:很不錯，住着舒心，
+----------------------------------------
+name:B‍a‍o‍s‍h‍o‍u‍l‍v‍j‍u‍r‍e‍n
+info:Deluxe Standard Room
+info:Stayed in August 2022
+info:Other
+info:1 Review
+rating:2.5
+posted:Posted August 21, 2022
+msg:其實挺一般的，沒有想象那麼好，比較失望
+----------------------------------------
+name:H‍e‍x‍i‍a‍n‍s‍h‍e‍n‍g
+info:Discount Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:50 Reviews
+rating:5
+posted:Posted May 8, 2023
+msg:多次入住，都很滿意
+----------------------------------------
+name:S‍u‍m‍e‍i‍s‍o‍u‍l‍m‍a‍t‍e
+info:Selected Suite
+info:Stayed in August 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted August 3, 2023
+msg:非常滿意👍
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in July 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted July 30, 2023
+msg:很不錯乾淨
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in September 2021
+info:Friends
+info:21 Reviews
+rating:1
+posted:Posted October 1, 2021
+msg:奇差無比，大熱天沒有空調，一個4星酒店沒空調？窗户也不讓開，一個人**所有人都要**嗎？服務員態度更差！！4星怎麼評上的。。
+----------------------------------------
+name:F‍l‍o‍r‍a‍j‍j‍j
+info:Deluxe Standard Room
+info:Stayed in July 2021
+info:Family
+info:6 Reviews
+rating:2.7
+posted:Posted July 31, 2021
+msg:酒店房間空氣有異味，毛巾床品很舊了，早餐種類很少也不好吃，餐廳幾個服務員還總是愉快的聊着天。打電話讓送兩瓶礦泉水來房間竟然還要收費，真不把自己當星級酒店啊！
+----------------------------------------
+name:Y‍i‍l‍u‍p‍i‍n‍g‍a‍n‍h‍a‍h‍a‍h‍a‍h‍a
+info:Discount Twin Room
+info:Stayed in July 2022
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted July 19, 2022
+msg:服務員會主動打招呼，非常貼心，為服務好評
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted July 18, 2023
+msg:也別滿意👍
+----------------------------------------
+name:H‍u‍g‍h‍T‍K
+info:Discount Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted July 1, 2022
+msg:衞生間淋浴特別爽！！！絕對全中國排名前三名
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in August 2022
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted August 5, 2022
+msg:酒店設施很新，淋浴噴頭水量很大，舒服
+----------------------------------------
+name:A‍i‍t‍e‍l‍i‍n‍g‍e‍n‍w‍a‍n‍g‍d‍u‍n
+info:Deluxe Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted June 28, 2023
+msg:酒店設施很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:23 Reviews
+rating:3
+posted:Posted February 24, 2023
+msg:一般般，下次不來住了
+----------------------------------------
+name:W‍a‍n‍g‍k‍a‍i‍x‍i‍n‍y‍a
+info:Deluxe Double Room
+info:Stayed in January 2022
+info:Business travelers
+info:4 Reviews
+rating:2.7
+posted:Posted January 12, 2022
+msg:連住了兩晚.早餐服務員真的很差.接連兩天都是這樣.唉.換酒店.不住了.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 23, 2023
+msg:挺好的👌👌
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in July 2022
+info:Booked for others
+info:31 Reviews
+rating:4
+posted:Posted July 26, 2022
+msg:本溪比較好的酒店了，也沒啥可挑的了
+----------------------------------------
+name:W‍o‍s‍h‍i‍s‍h‍e‍n
+info:Discount Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted November 29, 2022
+msg:非常滿意！入住首選！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2023
+info:Booked for others
+info:8 Reviews
+rating:5
+posted:Posted March 31, 2023
+msg:服務非常好！
+----------------------------------------
+name:M‍r‍.‍w‍a‍n‍g‍w‍a‍n‍g‍3‍3‍_‍3‍3
+info:Discount Twin Room
+info:Stayed in October 2022
+info:Family
+info:25 Reviews
+rating:5
+posted:Posted November 3, 2022
+msg:酒店剛開業  很安靜
+----------------------------------------
+name:Z‍a‍n‍z‍a‍n‍l‍a‍o‍b‍a
+info:Deluxe Standard Room
+info:Stayed in May 2021
+info:Business travelers
+info:28 Reviews
+rating:3.7
+posted:Posted July 5, 2021
+msg:酒店在市中心，有自己的停車場，是免費的，酒店的房間不算太大，但是新開的酒店，設施還算比較新，早餐還算可以吧，不算太豐盛，整體來講算本溪還不錯的酒店。
+----------------------------------------
+name:K‍o‍u‍x‍i‍j‍i‍e‍d‍e‍y‍e‍m‍a
+info:Deluxe Double Room
+info:Stayed in February 2022
+info:Solo travelers
+info:25 Reviews
+rating:3
+posted:Posted March 30, 2022
+msg:燈光不太ok，隔音幾乎沒有，空調也一般，衞生還湊活
+----------------------------------------
+name:H‍u‍i‍j‍i‍a‍l‍e‍a‍d‍e
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:5 Reviews
+rating:1
+posted:Posted January 20, 2022
+msg:停車場保安態度惡劣，不抬桿，車進不去，就在崗樓裏坐着，找他問咋回事，還罵人。5星級酒店就這態度。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in May 2022
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted May 21, 2022
+msg:衞生乾淨、服務態度很好！住着舒適！
+----------------------------------------
+name:L‍a‍o‍a‍i‍d‍a‍d‍e‍d‍o‍u‍d‍o‍u
+info:Selected Suite
+info:Stayed in January 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted January 21, 2023
+msg:還是總體不錯的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted July 24, 2022
+msg:環境很好，服務也不錯，出行方便
+----------------------------------------
+name:S‍h‍e‍h‍u‍i‍d‍i‍c‍e‍n‍g‍k‍e‍x‍i‍n‍g
+info:Business Double Room
+info:Stayed in January 2023
+info:Business travelers
+info:42 Reviews
+rating:5
+posted:Posted April 27, 2023
+msg:非常好，很好
+----------------------------------------
+name:T‍i‍a‍n‍y‍i‍t‍a‍o
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:1 Review
+rating:3
+posted:Posted June 26, 2021
+msg:床品不舒服，太舊了，枕頭有頭油味。在不告知情況下就扣客人費用，不具備高級酒店服務理念。整體服務意識需要提升。
+----------------------------------------
+name:X‍i‍x‍i‍0‍5‍1‍8
+info:Deluxe Double Room
+info:Stayed in July 2021
+info:Couples
+info:1 Review
+rating:3
+posted:Posted July 13, 2021
+msg:浴室塑料拖鞋收費 沒看到提醒  常規應該是免費的，退房後收費25元，不過酒店承諾可以返回取走拖鞋。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in June 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted June 7, 2022
+msg:環境不錯，就是早晨的菜品單一
+----------------------------------------
+name:X‍u‍a‍n‍x‍u‍a‍n‍l‍i‍l‍i
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:26 Reviews
+rating:3
+posted:Posted October 28, 2021
+msg:就是非常一般的商務酒店
+在本地已經是最好的了
+比七天還是要好一些
+整體也算能住😄
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in April 2022
+info:Business travelers
+info:41 Reviews
+rating:5
+posted:Posted June 8, 2022
+msg:酒店乾淨整潔，服務人員態度很好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted December 13, 2022
+msg:舒適乾淨衞生
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Selected Suite
+info:Stayed in February 2022
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 13, 2022
+msg:交通便利！在本溪算是還不錯的酒店啦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Parent-child Suite
+info:Stayed in July 2022
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted July 12, 2022
+msg:乾淨。周邊環境不錯。
+----------------------------------------
+name:Y‍u‍n‍z‍h‍o‍n‍g‍x‍i‍n‍g‍6‍7
+info:Business Double Room
+info:Stayed in July 2022
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted October 1, 2022
+msg:精品酒店，值得推薦。
+----------------------------------------
+name:T‍J‍g‍a‍n‍g‍g‍e
+info:Discount Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted August 3, 2022
+msg:非常感謝酒店的服務
+----------------------------------------
+name:P‍i‍l‍i‍x‍i‍o‍n‍g‍y‍i‍n‍g
+info:Business Room (2 beds)
+info:Stayed in September 2021
+info:Business travelers
+info:89 Reviews
+rating:4
+posted:Posted September 27, 2021
+msg:🚗 交通：便利
+🧹衞生：整潔
+🍃環境：不錯
+🔔服務：周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in July 2021
+info:Business travelers
+info:1 Review
+rating:3.7
+info:Deluxe Standard Room
+posted:Posted July 23, 2021
+msg:退房忘了退按金，過了半個月也沒個提醒，後來想起來還是讓去店裡退的，服務比較差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted November 1, 2022
+msg:乾淨衞生，不吵
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in September 2022
+info:Other
+info:57 Reviews
+rating:5
+posted:Posted November 8, 2022
+msg:乾淨整潔的衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted December 13, 2022
+msg:五星好評！
+----------------------------------------
+name:Y‍M‍u‍i‍s‍h‍a
+info:Business Room (2 beds)
+info:Stayed in August 2022
+info:Solo travelers
+info:18 Reviews
+rating:5
+posted:Posted August 13, 2022
+msg:Parfait 
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in June 2021
+info:Family
+info:2 Reviews
+rating:2.5
+posted:Posted June 15, 2021
+msg:不能加床，前台服務員態度特別不好，問事情，不愛理，像有多大仇似的，簡直無語了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2022
+info:Family
+info:17 Reviews
+rating:3
+posted:Posted October 9, 2022
+msg:房間煙味太大
+----------------------------------------
+name:D‍o‍n‍g‍j‍i‍n‍g‍x‍i‍a‍o‍d‍i
+info:Deluxe Standard Room
+info:Stayed in October 2021
+info:Friends
+info:4 Reviews
+rating:3
+posted:Posted October 5, 2021
+msg:酒店服務人員態度很差，停車場不完善，有待提高。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in March 2022
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted March 6, 2022
+msg:非常不錯的賓館！價錢偏高！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:75 Reviews
+rating:5
+posted:Posted January 2, 2022
+msg:本溪最好的酒店了 吃喝玩樂都很方便
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2022
+info:Other
+info:17 Reviews
+rating:5
+posted:Posted October 13, 2022
+msg:很好住的很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in November 2021
+info:Business travelers
+info:26 Reviews
+rating:5
+posted:Posted November 29, 2021
+msg:交通方便，非常乾淨整潔 服務業很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Suite
+info:Stayed in October 2021
+info:Business travelers
+info:2 Reviews
+rating:1
+posted:Posted October 30, 2021
+msg:這酒店真的很**，缺錢缺瘋了，很垃圾。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted July 26, 2021
+msg:每次去本溪都住這，服務周到，酒店乾淨整潔，感覺舒服！
+----------------------------------------
+name:F‍a‍n‍f‍a‍n‍i‍v‍a‍n
+info:Discount Double Room
+info:Stayed in August 2022
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted August 23, 2022
+msg:來本溪就住這
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in September 2022
+info:Couples
+info:11 Reviews
+rating:5
+posted:Posted October 3, 2022
+msg:非常滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:7 Reviews
+rating:4
+posted:Posted September 27, 2022
+msg:還行不錯的
+----------------------------------------
+name:Y‍i‍s‍h‍e‍n‍g‍t‍a‍n‍d‍a‍n‍g‍x‍y
+info:Deluxe Double Room
+info:Stayed in April 2022
+info:Business travelers
+info:40 Reviews
+rating:5
+posted:Posted April 15, 2022
+msg:本溪比較滿意的酒店
+----------------------------------------
+name:Z‍h‍a‍o‍h‍e‍t‍i‍n‍g‍s‍h‍i‍d‍a‍k‍a‍i
+info:Deluxe Standard Room
+info:Stayed in July 2022
+info:Business travelers
+info:1 Review
+rating:4
+posted:Posted July 28, 2022
+msg:整體還可以😌
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Discount Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted September 30, 2022
+msg:還不錯挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:1 Review
+rating:1
+posted:Posted August 12, 2021
+msg:要個火柴，特別不耐煩，態度及其不好。不會再來了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2022
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted June 8, 2022
+msg:不錯環境挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:3 Reviews
+rating:4.2
+posted:Posted January 16, 2022
+msg:訂單沒有早餐，無法評價
+----------------------------------------
+name:Y‍u‍e‍m‍e‍n‍g‍l‍o‍n‍g
+info:Deluxe Suite
+info:Stayed in October 2021
+info:Couples
+info:29 Reviews
+rating:5
+posted:Posted November 4, 2021
+msg:當地最好的酒店，整體還Ok了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in December 2021
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted December 8, 2021
+msg:前台服務熱情，停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2021
+info:Friends
+info:3 Reviews
+rating:5
+posted:Posted September 17, 2021
+msg:朋友來本溪給朋友定的，雖沒親身體驗，但值得信賴。
+----------------------------------------
+name:T‍u‍d‍o‍u‍h‍e‍e‍r‍b‍a‍o
+info:Deluxe Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted December 2, 2021
+msg:乾淨整潔，入住退房方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2022
+info:Friends
+info:2 Reviews
+rating:3
+posted:Posted August 4, 2022
+msg:就那樣吧。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted January 2, 2022
+msg:酒店整體環境還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2021
+info:Other
+info:8 Reviews
+rating:5
+posted:Posted July 18, 2021
+msg:感覺是本溪裝修最好的酒店，就是房間稍微有點小
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in May 2021
+info:Family
+info:2 Reviews
+rating:4.5
+posted:Posted July 5, 2021
+msg:酒店挺好的，還贈送了邊上洗浴門票，一頓洗浴
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in February 2022
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted March 11, 2022
+msg:環境好，很高端
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in January 2022
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted January 13, 2022
+msg:商務出行乾淨舒適
+----------------------------------------
+name:J‍i‍e‍m‍e‍j‍i‍a‍l‍a‍j‍i‍a‍o
+info:Deluxe Double Room
+info:Stayed in April 2021
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted July 20, 2021
+msg:酒店是本溪市內最好的酒店，住了3次，很不錯！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in April 2022
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted July 3, 2022
+msg:早餐很豐盛
+----------------------------------------
+name:H‍b‍a‍b‍y‍N
+info:Deluxe Double Room
+info:Stayed in March 2022
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted May 19, 2022
+msg:還行吧 可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in August 2021
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted September 28, 2021
+msg:不錯，環境與早餐都可以
+----------------------------------------
+name:X‍i‍a‍o‍f‍a‍n‍q‍i‍e‍5‍9‍4‍5
+info:Deluxe Standard Room
+info:Stayed in April 2021
+info:Business travelers
+info:25 Reviews
+rating:3.7
+posted:Posted October 6, 2021
+msg:除了工作人員兇巴巴的，其他都還湊合
+----------------------------------------
+name:L‍e‍s‍t‍e‍r‍0‍0‍7‍1
+info:Deluxe Standard Room
+info:Stayed in June 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted July 19, 2021
+msg:環境好，早餐不錯，服務業不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Standard Room
+info:Stayed in June 2021
+info:Other
+info:9 Reviews
+rating:1.7
+posted:Posted June 8, 2021
+msg:上午十一點就打電話催客人退房
+----------------------------------------
+name:L‍M‍Y‍l‍u‍o‍x‍u‍e
+info:Deluxe Standard Room
+info:Stayed in July 2021
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted August 18, 2021
+msg:酒店很乾凈，早餐很美味
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Friends
+info:176 Reviews
+rating:4
+posted:Posted October 18, 2021
+msg:衞生好、停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:39 Reviews
+rating:5
+posted:Posted September 1, 2021
+msg:酒店好，服務棒！男
+----------------------------------------
+name:-‍m‍a‍r‍k‍l‍u‍l‍u‍-
+info:Deluxe Standard Room
+info:Stayed in January 2022
+info:Other
+info:1 Review
+rating:5
+posted:Posted February 2, 2022
+msg:不錯的環境
+----------------------------------------
+name:J‍u‍n‍j‍i‍e
+info:Deluxe Double Room
+info:Stayed in August 2021
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted September 21, 2021
+msg:還可以。。。。。
+----------------------------------------
+name:W‍o‍y‍e‍j‍i‍a‍o‍l‍a‍o‍c‍a‍o
+info:Deluxe Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted January 14, 2022
+msg:不錯啊不錯
+----------------------------------------
+name:M‍a‍r‍u‍n‍f‍a
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted June 30, 2021
+msg:硬件很好，值得推薦
+----------------------------------------
+name:W‍Q‍�‍�
+info:Selected Suite
+info:Stayed in August 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted August 27, 2021
+msg:房間不錯，寬敞
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2021
+info:Business travelers
+info:4 Reviews
+rating:3.5
+posted:Posted December 13, 2021
+msg:衹能説還好吧
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2021
+info:Other
+rating:3.2
+posted:Posted July 4, 2021
+msg:前台態度挺一般的
+----------------------------------------
+name:X‍i‍a‍o‍d‍o‍u‍d‍o‍u‍d‍e‍d‍a‍s‍h‍u
+info:Deluxe Standard Room
+info:Stayed in March 2021
+info:Business travelers
+info:3 Reviews
+rating:4
+posted:Posted July 24, 2021
+msg:設施新，就是價格有點小高
+----------------------------------------
+name:l‍c‍j‍6‍7‍7‍7
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted June 12, 2021
+msg:非常完美的入住！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in March 2021
+info:Business travelers
+info:2 Reviews
+rating:4.2
+posted:Posted September 6, 2021
+msg:在本溪屬於很不錯的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in September 2021
+info:Business travelers
+info:15 Reviews
+rating:4
+posted:Posted October 4, 2021
+msg:酒店不錯。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2021
+info:Booked for others
+info:6 Reviews
+rating:4
+posted:Posted October 14, 2021
+msg:還行吧還行吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:2 Reviews
+rating:4
+posted:Posted June 9, 2021
+msg:還是挺乾淨的
+----------------------------------------
+name:C‍h‍e‍n‍y‍o‍n‍g
+info:Deluxe Standard Room
+info:Stayed in July 2021
+info:Business travelers
+info:7 Reviews
+rating:4.7
+posted:Posted July 21, 2021
+msg:早餐很好的
+----------------------------------------
+name:W‍u‍d‍i‍d‍a‍z‍e‍g‍e
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Other
+info:2 Reviews
+rating:3
+posted:Posted June 27, 2021
+msg:也就那樣吧
+----------------------------------------
+name:L‍i‍x‍i‍a‍n‍g‍j‍i‍n‍t‍i‍a‍n‍z‍a‍o‍s‍h‍u‍i
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:8 Reviews
+rating:3
+posted:Posted June 26, 2021
+msg:還可以的吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Selected Suite
+info:Stayed in April 2021
+info:Other
+info:21 Reviews
+rating:3
+posted:Posted July 28, 2021
+msg:還行，還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in May 2021
+info:Other
+info:3 Reviews
+rating:5
+posted:Posted September 8, 2021
+msg:條件挺好的
+----------------------------------------
+name:Y‍u‍a‍n‍b‍a‍o‍d‍e‍y‍u‍a‍n
+info:Deluxe Double Room
+info:Stayed in May 2024
+info:Family
+info:18 Reviews
+rating:3
+posted:Posted June 7, 2024
+msg:本溪四星級酒店還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Discount Twin Room
+info:Stayed in January 2024
+info:Business travelers
+info:1 Review
+rating:1
+posted:Posted January 12, 2024
+msg:1 我點店面問有沒有房間？酒店前台説房間都預訂出去了 現在衹有一個房間 450元 説網上沒有 房間 。我沒聽他們的 攜程一看 300多的400多的 一大堆房間。當時覺得這是前台真睜眼説瞎話 當時因為頭疼 也沒去的別的酒店 就入住了 
+2:晚上 定了 小龍蝦 .床單上掉了三滴半公分的油漬，前台給我來電話 説要不讓我去給他們洗，要不讓我出洗床單的費用。一晚上 花了380元的房間 ，竟然這服務態度
+3:這個酒店外觀華麗 ，裏面裝修以及衞生間 根本不值380。頂多 250元的房間。
+----------------------------------------

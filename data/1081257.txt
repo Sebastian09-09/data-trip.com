@@ -1,0 +1,2018 @@
+name:S‍t‍u‍a‍r‍t‍ ‍J‍a‍m‍e‍s
+info:Standard  Double Room
+info:Stayed in October 2023
+info:Solo travelers
+info:61 Reviews
+rating:5
+posted:Posted October 6, 2023
+msg:The manager of this hotel was very caring. The location is right next to the train station
+----------------------------------------
+name:Y‍e‍r‍a‍r‍d‍o‍ ‍f‍u‍e‍n‍t‍e‍s
+info:Business Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 7, 2024
+msg:Luxurious hotel, very convenient for business trips
+----------------------------------------
+name:M‍a‍r‍i‍o‍.‍M‍2
+info:Standard  Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:4 Reviews
+rating:4.5
+posted:Posted February 27, 2024
+msg:Cheap cheap good good.. next to the train station!
+----------------------------------------
+name:P‍a‍t‍r‍i‍c‍k‍ ‍v‍a‍n‍ ‍H‍o‍e‍k
+info:Standard  Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted November 21, 2023
+msg:Nice hotel will come back
+----------------------------------------
+name:S‍a‍n‍m‍e‍n‍d‍a‍q‍i‍n‍g‍x‍i‍e
+info:Standard  Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:3 Reviews
+rating:3.5
+posted:Posted January 5, 2024
+msg:I rarely leave reviews, but I still want to state it truthfully this time. I suggest hotel leaders pay attention to:
+1-The check-in room was not cleaned after entering. (The waiter goes upstairs to change rooms)
+2- After changing the room, the remote control cannot turn off the TV. (Later I found the switch of the machine and turned it off)
+3- I swiped the card for breakfast and could not find the room change message, indicating that there was no operation in the background. (Inform the room number for the first time)
+The above are all management issues, and they are not big problems, but if you stay in a high-standard hotel at the same time, it is incomprehensible.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in December 2023
+info:Friends
+info:4 Reviews
+rating:2.7
+posted:Posted January 1, 2024
+msg:Breakfast ends at 9 a.m., which is too early. . . Breakfast money wasted
+----------------------------------------
+name:X‍u‍j‍i‍a‍n‍g‍u‍o
+info:Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted March 19, 2024
+msg:The room is very cozy and the facilities are good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:1 Review
+rating:4.5
+posted:Posted December 23, 2023
+msg:Good breakfast and nice environment
+----------------------------------------
+name:L‍i‍n‍g‍h‍a‍n‍g‍z‍h‍e‍c‍g
+info:Standard  Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted March 15, 2024
+msg:Room facilities are good
+----------------------------------------
+name:@‍n‍i‍d‍e‍s‍h‍e‍n‍g‍h‍u‍o‍w‍o‍d‍e‍m‍e‍n‍g‍@
+info:Standard  Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:64 Reviews
+rating:4
+posted:Posted March 21, 2024
+msg:Everything else is fine
+----------------------------------------
+name:M‍i‍a‍o‍l‍e‍g‍e‍m‍i‍m‍i‍a‍o
+info:Standard  Double Room
+info:Stayed in August 2022
+info:Solo travelers
+info:2 Reviews
+rating:4.5
+posted:Posted August 16, 2022
+msg:The hotel is very close to the high-speed rail station, on the left diagonal, and the appearance is very luxurious. The lobby and security guards are very helpful, polite and answering questions.
+It is understood that there is no laundry room, gym, swimming pool, iron in the room, and you need to do it yourself. 🤪
+A deposit of 300 is required for check-in and will be refunded after the house is cleared. The walls of the house are very thick and can be well insulated from outside noise. However, the indoor central air conditioner is very loud, about 46 decibels 😅, but it is not bad, and it does not affect sleep.
+The hotel's epidemic prevention measures are in place, and public areas such as elevators are equipped with disinfection supplies.
+I booked a big bed room with a bathtub, and the bath was very nice. The breakfast is an international buffet, which is a little worse than expected (I thought it was a local special food 😂 After all, Wuhu's food is famous for its delicious food (｢･ω･)｢Hey)
+There is drinking water in the house, as well as a variety of paid drinks, cigarettes, family planning supplies and so on.
+The only dissatisfaction is the TV. The quality of the TV is very poor. It is an old-fashioned LCD TV, and it is not connected to an Internet TV. It may be necessary to optimize this piece.
+Fortunately, the WIFI is good, the bed is good, and it's okay to lie on the bed and watch the small screen comfortably. 😉
+Aiming to be close to the high-speed rail station, and also with a bathtub, the overall is very good.
+----------------------------------------
+name:Y‍i‍m‍i‍n‍g‍j‍i‍e
+info:Business Double Room
+info:Stayed in January 2024
+info:Other
+info:15 Reviews
+rating:4
+posted:Posted January 9, 2024
+msg:Strategic location
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted November 8, 2023
+msg:Very good living experience!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:2 Reviews
+rating:3
+posted:Posted July 15, 2022
+msg:Advantages: close distance, big bath water
+Disadvantages: The facilities are old, the hotel lobby doesn't even have a signboard, and the staff is not very motivated!
+----------------------------------------
+name:L‍a‍o‍x‍i‍a‍o‍t‍o‍u
+info:Standard 2-bed Room
+info:Stayed in September 2021
+info:Friends
+info:190 Reviews
+rating:4
+posted:Posted October 13, 2021
+msg:The hotel is located in the bustling area of Wuhu. It is very convenient for dining and shopping. The ancient town of Jiuzi and the galloping Yangtze River are very beautiful. It is very close to the high-speed rail station and has a high cost performance ratio. It is a better hotel in Wuhu.
+----------------------------------------
+name:t‍r‍i‍p‍q‍q‍2‍0‍0‍0
+info:Standard  Double Room
+info:Stayed in May 2021
+info:Other
+info:6 Reviews
+rating:3.5
+posted:Posted October 6, 2021
+msg:Suitable for high-speed rail travel, self-driving parking is a bit troublesome, and breakfast is abundant!
+----------------------------------------
+name:K‍a‍f‍e‍i‍l‍v‍s‍h‍e‍n
+info:Business Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:30 Reviews
+rating:4.2
+posted:Posted May 22, 2024
+msg:這是一次特別不舒服的入住，酒店設施是表面很好的，可是衞生💔因為方便我們訂在了火車站邊上，五年前我最喜歡的就是它家，而今棋牌室吵鬧早餐🥣也很差，服務就更不説了，這樣繼續下去肯定會不好的。一個退房等了20分鐘，體驗感非常差。
+----------------------------------------
+name:n‍a‍n‍a‍4‍0‍0‍0‍0‍8
+info:Business Room (2 beds)
+info:Stayed in April 2024
+info:Business travelers
+info:30 Reviews
+rating:5
+posted:Posted May 21, 2024
+msg:地理位置非常好，火車站對面，走路5分鐘足夠！
+酒店也還可以，洗澡水壓大！
+缺點熱和吵！畢竟靠着火車站！！有配耳塞。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:5 Reviews
+rating:4
+posted:Posted February 14, 2024
+msg:環境還不錯，辦理入住的前台小哥還是很不錯的，訂錯了訂了商務雙床單早，小哥哥免費給我們提升了雙早，感覺很人性，下次朋友過來，還選天泰
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted May 5, 2024
+msg:馬桶不是智能的，環境衞生還好。裝修略舊。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in February 2024
+info:Booked for others
+info:13 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:朋友一家來玩，幫定的，就在火車站西廣場處，坐高鐵特方便，提前二十分鐘退房完全來得及。交通方便，自助早餐也不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in May 2024
+info:Friends
+info:1 Review
+rating:3
+posted:Posted May 11, 2024
+msg:早上還在睡覺，這個門就碰碰碰的關着響，這個應該不是住宿客人沒禮貌吧，就是這門關的生意太響了！一看時間 7 點 02，這直接被嚇醒！還有阿姨在隔壁打掃房間，不知道和誰在聊天，聲音特別大，你説這個怎麼睡覺啊！體驗感不好👎
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:5 Reviews
+rating:1.5
+posted:Posted October 15, 2023
+msg:為了趕早班火車，選了這家酒店，當時看評論説前台態度不好，心裏想就住一晚，態度還能不好到哪裡，也就預訂了這家，沒想到這是一次非常糟糕的入住經歷，先説結論
+--前台的態度極度傲慢，一副愛住不住的高高在上的態度
+--衞生很差，設施破敗
+
+當時入住登記時，態度的確是比較冷淡，不過我也不是很在意，不過要收我三百元的按金，我也沒在意就隨口問了一下房間內有什麼消費物品嗎！當得知沒有時，很自然地問那收按金是為什麼。沒想到接下來的回答是房間內有容易破碎的東西，如杯子，所以就要收按金。 當我質疑現在為了杯子就收三百元的按金的酒店還想海頭一次聽説，得到的答覆是蕪湖市沒有一家賓館不收按金的，當我拿出證據比他檔次高一些的酒店也沒有收按金時，答覆是就要收按金，這是規定，愛住不住。
+要不是已經預付了房費，我絕對轉身走人，蕪湖站附近步行五分鐘之內的酒店，又不衹有這一家。
+
+進入房間後，我找了半天，房間內就有兩個刷牙用的玻璃杯，大家看看這兩個價值三百元按金的杯子吧！（超市裡的價格大約五到八元左右）
+再看看衞生，這是桌子上的灰塵（照片中的亮點），桌子橫樑處的灰塵，衞生間裏的煙灰等，後來發現唯一的一把椅子椅子腿已經活動了，椅子不穩定差一點把我摔了。還有晚上睡覺時，不知道是哪裡出來的幾衹小蒼蠅和螞蟻。
+
+出差在外，本來對賓館也沒多高的要求，無非就是安全衞生，態度不要太差就可以了。
+這家賓館，在現在服務業環境不好的情況下，還這麼牛，一副高高在上的態度，真是少見。或許是因為在蕪湖站邊上吧，不過距離蕪湖站步行五到八分鐘之內，還是有好幾家賓館可以選的，如維也納，海螺等。 如果願意體驗一下自己花錢，既要看冷臉色，房間的衞生又要很差的，這家應該是一個選擇。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:55 Reviews
+rating:4
+posted:Posted November 25, 2023
+msg:酒店前台服務員業務能力一般，態度極差，開完房身份證與房卡一把扔出來的。
+房間多要一瓶水，需要付費2塊。
+酒店早餐9點一過準時沒有！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:67 Reviews
+rating:5
+posted:Posted April 15, 2024
+msg:好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好看好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Solo travelers
+info:2 Reviews
+rating:4.2
+posted:Posted May 29, 2024
+msg:這次住了近10天。就這價位來説真很值得。房間很大很乾凈。 前台和房間服務員都很有禮貌。房間空調不給力，但慢慢降温也還行。早餐很一般，早餐服務員禮貌要加強培訓。
+----------------------------------------
+name:w‍a‍t‍e‍r‍c‍a‍n‍t‍u‍s
+info:Standard 2-bed Room
+info:Stayed in August 2023
+info:Business travelers
+info:29 Reviews
+rating:3
+posted:Posted August 26, 2023
+msg:酒店位置不錯離高鐵站很近，因為趕火車所以入住前溝通早飯幾點能吃。前台小姐姐知道我們需要趕火車，所以説我們早飯可以六點五十下來吃，於是我們很愉快入住，但樓下四台冷卻塔風機噪聲挺大還是影響夜間休息。最鬱悶的是早上六點五十二下去吃早飯，裏面服務員説一定要等到七點，門緊閉不讓進，其實裏面東西都到位了，和她溝通希望早五分鐘給我們進去吃，那服務員扭頭不理我們就走了，這是“大爺”式服務員，也是第一次遇到服務員是拒絕溝通的酒店，服務意識“太強了”，真的無語。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted December 7, 2023
+msg:酒店高檔大氣，服務熱情周到，會議設施齊全，餐廳可滿足婚宴，以及自助，客房乾淨衞生，五星級的體驗，值得推薦
+----------------------------------------
+name:e‍n‍g‍.‍.
+info:Standard  Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 26, 2024
+msg:好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好好
+----------------------------------------
+name:H‍a‍l‍e‍m‍u‍d‍a‍i‍m‍i
+info:Business Double Room
+info:Stayed in July 2023
+info:Family
+info:15 Reviews
+rating:4
+posted:Posted July 27, 2023
+msg:續住了幾天，離高鐵站真的是很近，走的時候直接用了3分鐘不到，就進了高鐵站。設施就是老舊型的，衞生勉強可以過的去，服務人員態度中位吧。按金退的挺快的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:4.7
+posted:Posted April 24, 2024
+msg:商務大床房間寬敞，打掃也很及時，關鍵是地理位置太好了，就在蕪湖高鐵站西廣場的邊上，走路5分鐘就可以進站了，
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in July 2023
+info:Family
+info:1 Review
+rating:3
+posted:Posted July 21, 2023
+msg:酒店浴缸有頭髮，拖鞋感覺是重複使用的，為了拍照，我帶走了未使用的拖鞋，不光是破的，鞋面還很臟
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:10 Reviews
+rating:2
+posted:Posted November 30, 2023
+msg:我入住的是商務大床房、本賓館空調都不開的！三番五次地找前台説都沒用！後來找攜程客服幫做工作！前台都不願意配合！入住酒店以來是最不開心的一次！本酒店素質太差了！望各位旅客三思後入住哦？？？
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in August 2023
+info:Solo travelers
+info:8 Reviews
+rating:5
+posted:Posted August 25, 2023
+msg:環境很好，服務態度也好，還送了果盤和點心
+----------------------------------------
+name:A‍s‍h‍e‍�‍�‍�‍�
+info:Standard 2-bed Room
+info:Stayed in June 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted June 17, 2023
+msg:早餐挺好的，👍👍👍👍👍贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊贊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 11, 2024
+msg:服務很好，讓送一雙鞋，給兩雙，讓送兩瓶水，拿來3瓶。環境和設施都不錯，窗户看下去就能看到火車站的軌道，適合喜歡火車的孩子。
+----------------------------------------
+name:z‍g‍x‍_‍b‍o‍y
+info:Business Double Room
+info:Stayed in June 2023
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted June 4, 2023
+msg:還不錯，早飯也非常豐富。現在可以走過去直接到蕪湖站的西進站口，五六分鐘的路程，轉高鐵站非常方便。值得推薦
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard 2-bed Room
+info:Stayed in August 2023
+info:Other
+info:2 Reviews
+rating:2.5
+posted:Posted August 24, 2023
+msg:電視也看不了，沒有信號，遙控器按開，關鍵也沒有用，淋浴房門一打開門邊上的封條就要掉了，一碰就掉。去吃早餐，9點之後就不給吃了，而且去吃的時候還很多地方不給坐，非要你坐在中間固定的那一小塊地方，説等會兒要關燈，服務員態度傲慢。購買小童的早餐，還要先墊付按金才行。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in February 2024
+info:Friends
+info:25 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:整體環境舒適宜人，周邊交通極為便利，緊鄰蕪湖站前台熱情周到，笑容美麗。下次還會再來。。。。。。。。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard 2-bed Room
+info:Stayed in June 2023
+info:Solo travelers
+info:34 Reviews
+rating:5
+posted:Posted June 30, 2023
+msg:環境好衞生服務好，價格不貴性價比高
+----------------------------------------
+name:H‍a‍i‍g‍e
+info:Standard  Double Room
+info:Stayed in June 2024
+info:Business travelers
+info:11 Reviews
+rating:0.5
+posted:Posted June 8, 2024
+msg:這個房間有臭￼環境衞生有很大的問題，而且服務員不聞不問態度冷漠
+----------------------------------------
+name:J‍i‍a‍w‍e‍i
+info:Standard  Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:79 Reviews
+rating:5
+posted:Posted January 7, 2024
+msg:這次的住宿經歷絕對是令人滿意的。這家飯店不僅提供了高品質的服務，更在細節處貼心周到。期待未來有機會再次造訪，繼續享受這裡的舒適與溫馨。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in April 2024
+info:Solo travelers
+info:5 Reviews
+rating:4.5
+posted:Posted April 23, 2024
+msg:早餐很讓人滿意；離高鐵站很近，從退房到高鐵站8分鐘時間；按金退的很及時。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in November 2023
+info:Other
+info:151 Reviews
+rating:3.5
+posted:Posted November 27, 2023
+msg:地毯不乾淨，服務也不熱情，對不起這個價格。地毯不乾淨，服務也不熱情，對不起這個價格。地毯不乾淨，服務也不熱情，對不起這個價格。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:1 Review
+rating:4
+posted:Posted July 1, 2023
+msg:性格比還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:18 Reviews
+rating:4.2
+posted:Posted August 12, 2023
+msg:樓下就有特斯拉超充，門口就是火車站，交通非常方便。前台的小姐姐非常nice。就是酒店的設施有點老了，不過不影響入住。早飯雖然品種不多，但是味道很棒，特別是麪條和酸辣湯！
+----------------------------------------
+name:C‍h‍e‍n‍d‍a‍o‍d‍o‍n‍g
+info:Business Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:61 Reviews
+rating:4
+posted:Posted November 30, 2023
+msg:位子很好，離蕪湖站很近，走路5分鐘不多就可以進站；酒店挺衞生，一樓茶室和咖啡館不錯，環境挺好，配套齊全，服務不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:3 Reviews
+rating:2
+posted:Posted July 2, 2023
+msg:收按金的時候説退房全額退，等退房時，服務員説，會自動退的，我也沒在意，過幾天無意間看了付款寶，扣了我50元，我打電話過去，三次電話，都是説會給我解決，但是一直不給我回復！無良商家，太過份了！如果真的要扣什麼費，當面説，暗地裡搞小動作，這樣的商量太沒格局了！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted December 4, 2023
+msg:設施齊全，衞生還不錯，服務整體也還好，提前預訂，價格也比較中意，在這個地方已經算是比較高檔的酒店了，一定要早點預訂
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in May 2024
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted May 29, 2024
+msg:住宿服務都不錯，關鍵離高鐵站夠近。出行最佳選擇。
+----------------------------------------
+name:s‍a‍n‍y‍a‍n‍7‍7‍7
+info:Standard  Double Room
+info:Stayed in May 2023
+info:Other
+info:17 Reviews
+rating:2
+posted:Posted May 6, 2023
+msg:蕪湖的老酒店了，因為感冒怕回家影響孩子，就在外住一宿，到房間後開了空調一小時沒反應，打電話問前台，告訴我因為感覺温度合適今天空調就沒開了，洗澡沒有熱水，衹能叫做温水，真是無語了，因為不舒服也懶得再和他們折騰了，自助早餐也是嚴重縮水，酒店就在高鐵站的旁邊，這樣的價格、這樣的服務真是影響城市的形象，再也不會住了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:24 Reviews
+rating:4.7
+posted:Posted May 11, 2024
+msg:環境很好，交通便利，如果早餐更豐富一點，就完美了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted May 27, 2024
+msg:房間
+衞生：不錯，也很安靜，服務也很周到
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:11 Reviews
+rating:3.2
+posted:Posted January 11, 2024
+msg:好處是交通方便啊，高鐵汽車都在對面
+不足房間老舊感比較重了。。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:18 Reviews
+rating:3
+posted:Posted September 23, 2023
+msg:很一般 味道很重 晚點退房還是不錯的。下面的ktv也是坑的不行 房間正對高鐵站早晚很早 還有施工
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 21, 2023
+msg:房間整潔乾淨，服務態度好。停車很方便，有地下車庫。早餐也很好吃，地理位置很好，對面就是火車站，下次還會再來
+----------------------------------------
+name:X‍i‍a‍n‍g‍z‍h‍u‍o‍g‍u‍a‍n‍g‍l‍i‍a‍n‍g‍n‍a‍f‍a‍n‍g‍s
+info:Standard  Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:92 Reviews
+rating:5
+posted:Posted June 2, 2024
+msg:檔次絕對夠用，出火車站就是，店長服務非常周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard 2-bed Room
+info:Stayed in July 2023
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted July 4, 2023
+msg:設施：很好，房間各設施都不錯。衞生方面都做得很好，環境安靜。服務各方面都很好。出差旅遊的首選。雖然靠近火車站，但是很安靜。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted June 27, 2023
+msg:酒店很好 房間很乾凈 整體非常棒 服務也很好 辦理入住的和辦理退房的服務熱情 體驗很好 酒店設施也很齊全 酒店還有洗衣房和小的健身房 推薦入住哦
+----------------------------------------
+name:z‍i‍v‍i
+info:Standard  Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:13 Reviews
+rating:1
+posted:Posted February 8, 2023
+msg:以前住過好幾次，感覺很不錯，服務態度，衞生都挺好，所以我給我老婆定了一個房，我老婆反饋説，酒店衞生特別差，服務態度差，早上吃早飯的時候，我老婆給服務員卡的時候，服務員愛答不理的，服務員讓我老婆自己查她有沒有吃過早餐，（我想請問一下，如果讓我老婆查她有沒有吃飯，要你幹嘛！）説現在早餐也特別少了，人也少了很多。這樣子的服務態度，這樣的衞生，怪不得客人越來越少了。真垃圾
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in August 2022
+info:Business travelers
+info:83 Reviews
+rating:3.5
+posted:Posted September 4, 2022
+msg:開會主會場賓館滿了，推薦這家距離近的酒店住宿。不敢相信這是一個五鑽酒店！房內用品類似快捷酒店，早餐八點前就已經沒有啥了，熱牛奶豆漿竟然衹提供紙杯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted May 24, 2024
+msg:很滿意，每次回來都住天泰，一如既往的好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted December 5, 2023
+msg:很不錯，房間清爽，居住體驗舒適，地理位置佳出行方便，早餐豐盛，價格合理
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:28 Reviews
+rating:4.2
+posted:Posted May 10, 2024
+msg:地方比較偏僻，周邊無購物吃飯的地方
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:4.7
+posted:Posted May 20, 2023
+msg:房間很好，靠近高鐵站，出了西廣場就能進酒店，很方便。早餐該有的都有，不過口味可以更好一些，還有就是小孩沒有早餐有點點失望。
+----------------------------------------
+name:A‍A‍l‍a‍o‍w‍e‍i
+info:Business Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:高端大氣上檔次，乾淨衞生服務好
+----------------------------------------
+name:D‍a‍n‍g‍d‍i‍x‍i‍a‍n‍g‍d‍a‍o‍N‍i‍g‍e‍l
+info:Business Room (2 beds)
+info:Stayed in February 2024
+info:Booked for others
+info:13 Reviews
+rating:5
+posted:Posted February 23, 2024
+msg:房間設施很好 就在火車站旁邊 出行方便
+----------------------------------------
+name:P‍a‍n‍g‍p‍a‍n‍g‍d‍e‍b‍u‍o‍u‍m‍a‍o
+info:Standard  Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:3 Reviews
+rating:4.5
+posted:Posted August 12, 2023
+msg:距離蕪湖站非常近，步行三分鐘進候車室，酒店有點年頭了，設備略有老化，總體還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:5 Reviews
+rating:1.2
+posted:Posted January 19, 2024
+msg:衞生差，聯續住5天，衹是把垃圾扔了，其他，
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in October 2023
+info:Couples
+info:3 Reviews
+rating:5
+posted:Posted December 3, 2023
+msg:房間很好，大廳可以會客休息，距離車站很近，出行太方便了。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2023
+info:Solo travelers
+info:3 Reviews
+rating:3.2
+posted:Posted July 18, 2023
+msg:前台服務很差，這個服務對不起4百多的價錢，一個個的一副臭臉，一點禮貌沒有
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in April 2024
+info:Solo travelers
+info:5 Reviews
+rating:4.7
+posted:Posted April 7, 2024
+msg:請設定廁所的温水沖洗裝置。
+----------------------------------------
+name:w‍a‍w‍b‍b‍h‍m‍m
+info:Business Double Room
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:4.5
+posted:Posted August 13, 2023
+msg:房間在18層，晚上洗澡洗一半沒熱水了，還好是夏天，涼水湊合能洗
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard 2-bed Room
+info:Stayed in March 2024
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted March 26, 2024
+msg:房間乾淨無異味，早餐不錯。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom (Memory foam mattress)
+info:Stayed in October 2023
+info:Other
+info:7 Reviews
+rating:5
+posted:Posted January 5, 2024
+msg:火車站附近，交通便利，乾淨衞生，出行很好的選擇。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard 2-bed Room
+info:Stayed in August 2022
+info:Business travelers
+info:21 Reviews
+rating:2
+posted:Posted August 18, 2022
+msg:酒店衞生差，血滴還在牆上，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted March 6, 2024
+msg:很不錯，環境很好，離車站近
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:29 Reviews
+rating:5
+posted:Posted March 25, 2024
+msg:離高鐵站很近，非常滿意。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:2 Reviews
+rating:1
+posted:Posted July 8, 2023
+msg:我2點20分退房，後來忘記了件重新上去拿一下，扣我按金50元
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:2.2
+posted:Posted August 6, 2023
+msg:自助早餐，一份38元，看看除了空盤子還有啥，所剩無幾
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in February 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted March 30, 2024
+msg:房間設施齊全，出行便利！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in January 2023
+info:Business travelers
+info:17 Reviews
+rating:4.5
+posted:Posted February 16, 2023
+msg:不錯，住了很多次了……………………………………………………………………………………………………………………
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted October 26, 2023
+msg:高性價比，地理位置超好，早餐不錯好吃。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:59 Reviews
+rating:5
+posted:Posted October 9, 2023
+msg:非常乾淨，住宿也很舒服，服務態度也很好。
+----------------------------------------
+name:C‍h‍a‍o‍j‍i‍a‍h‍u‍a‍n‍g
+info:Deluxe Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted October 21, 2023
+msg:早餐比較可以，房間也不差，
+衞生：乾淨
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in January 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 6, 2023
+msg:酒店離火車站近，西廣場出口，步行三分鐘即到，整體來説不錯，自助餐找酒店前台買更便宜，晚餐108元一位～
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard 2-bed Room
+info:Stayed in August 2023
+info:Business travelers
+info:17 Reviews
+rating:2.7
+posted:Posted August 2, 2023
+msg:衹呆了4個小時在房間，不能算半天，有點不為客户着想
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in March 2024
+info:Couples
+info:10 Reviews
+rating:5
+posted:Posted March 17, 2024
+msg:乾淨衞生，出行方便。
+----------------------------------------
+name:B‍e‍n‍b‍o‍e‍r‍b‍a‍a‍i‍s‍h‍a‍n‍g‍b‍a‍b‍o‍e‍r‍b‍e‍n
+info:Business Double Room
+info:Stayed in October 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted October 8, 2023
+msg:房間不錯，離火車站很近方便。性價比高
+----------------------------------------
+name:S‍h‍a‍n‍g‍h‍a‍i‍j‍u‍n‍s‍h‍u‍o‍-‍W‍a‍l‍l‍a‍c‍e‍q‍i‍u
+info:Standard  Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted June 2, 2023
+msg:老牌大酒店，多次入住了，性價比不錯，位置非常棒就在高鐵站旁
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:21 Reviews
+rating:5
+posted:Posted August 11, 2023
+msg:房間免費升級了！很乾凈舒適！火車站附近很方便
+----------------------------------------
+name:L‍o‍n‍g‍c‍h‍a‍n‍g‍x‍i‍s‍h‍i
+info:Standard  Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted April 3, 2024
+msg:衞生乾淨
+住宿舒心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Single Room
+info:Stayed in July 2022
+info:Business travelers
+info:15 Reviews
+rating:3
+posted:Posted July 6, 2022
+msg:最差就是早餐了，開餐時間到了，煎雞蛋的地方沒人，好不容易把人叫過來過來等了十分鐘都沒開始煎雞蛋，告訴我還要等開火燒煎雞蛋的鐵板。我就不知道為什麼會這樣，好歹也是個星級酒店，怪不得生意這麼差，估計是有原因的
+----------------------------------------
+name:D‍u‍l‍i‍n‍g‍l‍i
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:17 Reviews
+rating:4
+posted:Posted December 2, 2023
+msg:老酒店，裝飾很好，有檔次，早餐很豐富。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard 2-bed Room
+info:Stayed in December 2022
+info:Other
+info:1 Review
+rating:1.2
+posted:Posted December 12, 2022
+msg:金玉其表，就外面挺好看，裏面房間一般般，有些地方很臟，並且酒店房間是沒有浴拖的衹有一次性拖鞋不能濕水用的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:3 Reviews
+rating:3.2
+posted:Posted September 23, 2023
+msg:裝修風格老舊，房間也比較小。其他中規中矩。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Business Suite
+info:Stayed in August 2023
+info:Business travelers
+info:48 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:位置優越便捷衞生乾淨、環境優美、服務周到
+----------------------------------------
+name:H‍a‍x‍i‍n‍g‍q‍i‍a‍n‍l‍i
+info:Standard  Double Room
+info:Stayed in October 2022
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted December 13, 2022
+msg:在網上訂的，提前問了幾家酒店，衹有這裏可以憑核酸入住，來了以後驚艷到我了，酒店就在高鐵站門口，實打實的門口…
+----------------------------------------
+name:1‍1‍0‍0‍4‍1‍8‍8‍5‍0
+info:Guestroom (Memory foam mattress)
+info:Stayed in May 2024
+info:Business travelers
+info:27 Reviews
+rating:4
+posted:Posted June 6, 2024
+msg:整體上還可以
+----------------------------------------
+name:H‍a‍n‍g‍u‍o‍d‍a‍s‍h‍u
+info:Standard 2-bed Room
+info:Stayed in April 2023
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted June 14, 2023
+msg:蕪湖天泰國際酒店，地理位置優越出行方便，酒店環境不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in February 2024
+info:Booked for others
+info:1 Review
+rating:5
+posted:Posted February 24, 2024
+msg:非常乾淨，很舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in February 2023
+info:Couples
+info:2 Reviews
+rating:2.5
+posted:Posted February 15, 2023
+msg:旁邊高鐵站，刺耳的嗡嗡聲響了一夜！早餐邋遢的怕人，和漢庭一個標準。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in November 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted December 14, 2023
+msg:衞生：衞生乾淨，早餐不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:23 Reviews
+rating:4.2
+posted:Posted August 6, 2023
+msg:對得起這個價格吧，設備有點老舊了。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard 2-bed Room
+info:Stayed in August 2022
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted August 27, 2022
+msg:前台服務很好，房間提前開了空調，進去很舒服，也幫忙升級了，很安靜，大堂很豪華，離高鐵站很近，很方便，還送一份早餐，很不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in June 2023
+info:Couples
+info:5 Reviews
+rating:5
+posted:Posted June 25, 2023
+msg:設施很好，衞生乾淨，環境不錯，服務很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in January 2024
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted January 5, 2024
+msg:房間乾淨整潔舒適。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted July 28, 2023
+msg:環境還好  就是空調效果需要提升
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in November 2023
+info:Solo travelers
+info:1 Review
+rating:5
+posted:Posted November 24, 2023
+msg:很棒。空調效果特別好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted October 3, 2022
+msg:緊鄰蕪湖火車站🚉 早出晚歸，步行10分鐘就到酒店大堂。房間衞生，沐浴露和洗髮露都是多芬。價格實惠。強烈推薦！
+----------------------------------------
+name:N‍a‍n‍b‍u‍s‍h‍e‍n‍g‍y‍a‍b‍o‍l‍a‍h‍a‍n
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted October 1, 2023
+msg:出門就是火車站，非常方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2024
+info:Business travelers
+info:13 Reviews
+rating:2.8
+posted:Posted June 8, 2024
+msg:陳舊一般，
+----------------------------------------
+name:S‍u‍n‍z‍h‍e‍n‍y‍a‍n‍g
+info:Standard 2-bed Room
+info:Stayed in March 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted April 16, 2024
+msg:很舒服的感覺
+----------------------------------------
+name:D‍a‍n‍n‍y‍-‍J‍i‍n
+info:Business Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:70 Reviews
+rating:5
+posted:Posted November 15, 2023
+msg:還不錯吧，離高鐵站近
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:很不錯的酒店，以後要去蕪湖還是會選擇這家！
+----------------------------------------
+name:Y‍a‍n‍g‍g‍u‍a‍n‍g‍w‍u‍x‍i‍a‍n‍_‍2‍0‍1‍5
+info:Standard  Double Room
+info:Stayed in March 2024
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted May 9, 2024
+msg:非常棒的酒店
+----------------------------------------
+name:M‍e‍n‍g‍j‍u‍n‍j‍i‍e
+info:Business Room (2 beds)
+info:Stayed in November 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted February 14, 2024
+msg:出行方便，早餐不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom (2 beds)
+info:Stayed in December 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted January 4, 2024
+msg:離蕪湖高鐵站很近
+----------------------------------------
+name:F‍e‍i‍x‍i‍t‍a‍b‍e‍i‍q‍i
+info:Business Room (2 beds)
+info:Stayed in August 2023
+info:Business travelers
+info:22 Reviews
+rating:5
+posted:Posted September 14, 2023
+msg:住習慣了一家酒店，都還不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:4
+posted:Posted April 8, 2023
+msg:整體不錯，但晚餐收場時間能延長到9點更好。
+----------------------------------------
+name:N‍a‍k‍u‍l‍u‍b‍a‍i‍q‍i
+info:Standard  Double Room
+info:Stayed in November 2023
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted December 20, 2023
+msg:商務首選，商旅之家
+----------------------------------------
+name:H‍o‍u‍z‍i‍5‍2‍0‍7‍1‍3
+info:Business Double Room
+info:Stayed in December 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted January 5, 2024
+msg:還行吧高鐵站旁邊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:1
+posted:Posted April 8, 2024
+msg:服務很差。
+----------------------------------------
+name:F‍e‍n‍g‍g‍a‍o
+info:Standard  Double Room
+info:Stayed in May 2023
+info:Business travelers
+info:130 Reviews
+rating:4
+posted:Posted July 28, 2023
+msg:離火車站近，非常方便，價格合理。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Friends
+info:26 Reviews
+rating:5
+posted:Posted August 14, 2023
+msg:交通便利  酒店裝修很好
+----------------------------------------
+name:M‍i‍q‍i‍y‍u‍a‍n
+info:Standard 2-bed Room
+info:Stayed in February 2023
+info:Business travelers
+info:50 Reviews
+rating:5
+posted:Posted February 13, 2023
+msg:每次出差必來，環境和服務都非常好，自助餐也超棒w
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted December 8, 2023
+msg:很滿意。很好的酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:31 Reviews
+rating:5
+posted:Posted July 29, 2023
+msg:交通方便！裝修年代有點老
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted August 15, 2023
+msg:不錯，距離蕪湖站特別近
+----------------------------------------
+name:T‍a‍o‍z‍i‍-
+info:Standard  Double Room
+info:Stayed in May 2022
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted May 16, 2022
+msg:商務差旅，酒店服務很到位，早飯也蠻好吃的，服務員/接待員都很熱情，專業技能也很到位，酒店相關配套也很完善，適合商旅使用！
+----------------------------------------
+name:X‍u‍j‍i‍a‍n‍x‍i‍o‍n‍g
+info:Standard 2-bed Room
+info:Stayed in January 2024
+info:Business travelers
+info:44 Reviews
+rating:5
+posted:Posted January 5, 2024
+msg:性價比非常高
+----------------------------------------
+name:y‍b‍m‍0‍9‍0‍3
+info:Business Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:9 Reviews
+rating:4
+posted:Posted June 30, 2023
+msg:離火車站近，交通很方便，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted July 2, 2023
+msg:離高鐵站銀近，設施齊全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard 2-bed Room
+info:Stayed in August 2022
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 6, 2022
+msg:房間很大，設施温馨，衞生條件也很好，總之是我喜歡的，下次去還會繼續入住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Single Room
+info:Stayed in January 2024
+info:Friends
+info:7 Reviews
+rating:5
+posted:Posted March 3, 2024
+msg:總體不錯，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Room (2 beds)
+info:Stayed in November 2023
+info:Business travelers
+info:6 Reviews
+rating:3.5
+posted:Posted February 15, 2024
+msg:一般性的環境
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:3 Reviews
+rating:4.7
+posted:Posted July 17, 2023
+msg:靠近火車站，位置很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2022
+info:Business travelers
+info:89 Reviews
+rating:4
+posted:Posted May 14, 2022
+msg:老酒店，主要圖它離火車站近，但是確實還不錯，房間裏的設施都還不錯，保持的挺好，衞生也可以的，下次還會光顧。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in June 2022
+info:Friends
+info:8 Reviews
+rating:3.2
+posted:Posted June 30, 2022
+msg:打開抽屜還有別人用過的東西丟在裡邊🌝、床單上還有兩點血跡，讓前台送個床單，她説送不了
+----------------------------------------
+name:H‍a‍n‍h‍a‍n‍q‍u‍e‍e‍n
+info:Standard  Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted October 10, 2023
+msg:服務好，交通便利
+----------------------------------------
+name:F‍a‍n‍f‍a‍n‍^‍_‍^‍f‍a‍n‍x‍i‍a‍o‍m‍i‍a‍o
+info:Business Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:42 Reviews
+rating:5
+posted:Posted December 16, 2021
+msg:老牌五星級酒店，硬件軟件各方面還是不錯的，早餐豐富，品種挺多，位置是王道，就在火車站隔壁，目測100米上下，看很多小夥伴疑問是否打車去，完全不用，步行就到。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted November 9, 2023
+msg:非常好，很喜歡
+----------------------------------------
+name:s‍p‍a‍n‍d‍e‍x
+info:Standard  Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:43 Reviews
+rating:4
+posted:Posted March 29, 2023
+msg:老五星了，位置離高鐵站近
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in April 2023
+info:Business travelers
+info:47 Reviews
+rating:5
+posted:Posted July 8, 2023
+msg:靠近高鐵站，出行方便！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in August 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted August 7, 2023
+msg:男士入住首選😂
+----------------------------------------
+name:C‍h‍i‍o‍n‍g‍z‍i‍y‍o‍u‍r‍e‍n
+info:Standard  Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:21 Reviews
+rating:3
+posted:Posted October 20, 2022
+msg:早餐截止時間太早，不到九點就收拾完了，導致沒有早餐吃。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted July 30, 2023
+msg:酒店乾淨服務好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:5 Reviews
+rating:1.5
+posted:Posted August 26, 2022
+msg:前台人員服務還差，早餐9點02分就沒有早餐吃了，
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in February 2023
+info:Booked for others
+rating:5
+posted:Posted March 9, 2023
+msg:距離火車站很近，非常方便
+----------------------------------------
+name:T‍o‍n‍y‍.‍s‍h‍i‍ ‍s‍h‍i‍e‍r‍b‍o
+info:Deluxe Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted September 26, 2023
+msg:高鐵到非常方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard 2-bed Room
+info:Stayed in October 2023
+info:Family
+info:34 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:房間不錯的
+----------------------------------------
+name:n‍a‍n‍f‍e‍n‍g‍7‍7‍7
+info:Business Double Room
+info:Stayed in March 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted May 3, 2023
+msg:還不錯啦 一直住了幾天
+----------------------------------------
+name:D‍o‍n‍g‍f‍a‍n‍g‍z‍h‍i
+info:Standard  Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted July 5, 2023
+msg:離蕪湖站很近。
+----------------------------------------
+name:X‍i‍a‍o‍-‍x‍i‍a‍o‍f‍u‍g‍u‍i
+info:Standard  Double Room
+info:Stayed in July 2023
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted August 6, 2023
+msg:房間乾淨整潔
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard 2-bed Room
+info:Stayed in July 2023
+info:Business travelers
+info:28 Reviews
+rating:5
+posted:Posted July 31, 2023
+msg:非常好，乾淨
+----------------------------------------
+name:B‍a‍o‍b‍a‍o‍m‍e‍n‍d‍e‍m‍a‍h‍e‍n‍w‍a‍s‍a‍i
+info:Deluxe Double Room
+info:Stayed in June 2023
+info:Family
+info:23 Reviews
+rating:5
+posted:Posted June 7, 2023
+msg:滿意，物美價廉
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2023
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted August 22, 2023
+msg:服務挺好的
+----------------------------------------
+name:P‍a‍l‍a‍y‍a‍z‍h‍e‍n‍g‍h‍e
+info:Standard  Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:175 Reviews
+rating:5
+posted:Posted November 27, 2021
+msg:這家酒店就在高鐵站附近，準確説離的很近，下了車出站走幾百米就到了，非常方便，房間設施也很好，非常安靜，床睡的也很舒服，每次來蕪湖出差都會選擇這裏，價格也是很合適，早餐豐富多樣，商務出差很不錯的選擇！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Room (2 beds)
+info:Stayed in July 2023
+info:Family
+info:2 Reviews
+rating:1
+posted:Posted July 24, 2023
+msg:體驗感很差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:18 Reviews
+rating:4
+posted:Posted August 8, 2022
+msg:整體還是可以的，衹是早餐感覺單調了點
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard 2-bed Room
+info:Stayed in July 2022
+info:Business travelers
+info:15 Reviews
+rating:4
+posted:Posted July 27, 2022
+msg:設施比較陳舊了，大廳比較大氣，早餐不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2022
+info:Couples
+info:1 Review
+rating:5
+posted:Posted October 16, 2022
+msg:服務態度好，值得，還會去的。
+----------------------------------------
+name:C‍e‍n‍g‍j‍i‍n‍g‍c‍a‍n‍g‍h‍a‍i
+info:Standard  Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:167 Reviews
+rating:5
+posted:Posted October 7, 2022
+msg:酒店位置好，就在火車站邊上。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:10 Reviews
+rating:4
+posted:Posted November 1, 2022
+msg:酒店裝修不錯，但感覺稍顯壓抑。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted October 1, 2022
+msg:近火車站，住宿環境不錯，衞生乾淨
+----------------------------------------
+name:J‍i‍u‍a‍e‍r‍b‍e‍i‍j‍i‍a‍l‍i‍y‍a‍z‍h‍a‍o‍w‍u‍l‍i‍n‍g‍w‍a‍n‍g
+info:Standard  Double Room
+info:Stayed in November 2022
+info:Business travelers
+info:32 Reviews
+rating:5
+posted:Posted December 21, 2022
+msg:酒店衞生乾淨，早餐可以。
+----------------------------------------
+name:D‍a‍d‍a‍d‍a‍d‍a‍d‍e‍m‍a‍m‍a
+info:Standard  Double Room
+info:Stayed in February 2022
+info:Family
+info:5 Reviews
+rating:4
+posted:Posted February 7, 2022
+msg:地理優勢火車站旁邊，特斯拉充電樁，過年期間，早上九點就沒有早餐了。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard 2-bed Room
+info:Stayed in October 2022
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted October 27, 2022
+msg:酒店近火車站，早餐還不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2023
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted August 12, 2023
+msg:環境還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted February 22, 2023
+msg:服務好，很衞生
+----------------------------------------
+name:Z‍h‍a‍n‍g‍j‍i‍n‍g‍a‍n
+info:Standard 2-bed Room
+info:Stayed in May 2023
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted July 7, 2023
+msg:還不錯的！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted September 13, 2022
+msg:酒店環境不錯，離高鐵站近
+----------------------------------------
+name:Y‍i‍n‍g‍y‍i‍n‍g‍y‍i‍n‍g‍g‍u‍a‍i
+info:Business Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted December 30, 2022
+msg:還可以，中規中矩
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in August 2022
+info:Business travelers
+info:13 Reviews
+rating:5
+posted:Posted August 20, 2022
+msg:交通方便乾淨衞生，早餐豐富
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in August 2022
+info:Other
+info:1 Review
+rating:4
+posted:Posted August 31, 2022
+msg:還可以   可以去試一下
+----------------------------------------
+name:X‍i‍a‍o‍s‍a‍i‍1‍0‍7‍3
+info:Standard  Double Room
+info:Stayed in October 2022
+info:Solo travelers
+info:46 Reviews
+rating:5
+posted:Posted October 13, 2022
+msg:交通便利，近市中心
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in December 2022
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted December 15, 2022
+msg:很乾凈，很滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in July 2022
+info:Solo travelers
+info:1 Review
+rating:2.7
+posted:Posted July 25, 2022
+msg:沒有健身房，房間裏不乾淨
+----------------------------------------
+name:M‍a‍o‍m‍a‍o‍1‍9‍8‍1‍1‍6
+info:Standard  Double Room
+info:Stayed in July 2022
+info:Business travelers
+info:29 Reviews
+rating:5
+posted:Posted July 29, 2022
+msg:早餐不錯地理位置絕佳！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted February 20, 2023
+msg:感覺不錯的
+----------------------------------------
+name:S‍h‍a‍o‍c‍h‍u
+info:Business Double Room
+info:Stayed in September 2022
+info:Business travelers
+info:16 Reviews
+rating:5
+posted:Posted September 11, 2022
+msg:環境不錯，服務周到
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in September 2021
+info:Business travelers
+info:11 Reviews
+rating:3.5
+posted:Posted September 22, 2021
+msg:房間內有很多小飛蟲飛到牙刷上，而且早餐居然在蛋糕上也有小飛蟲，好惡心
+----------------------------------------
+name:P‍h‍i‍l‍l‍l
+info:Standard 2-bed Room
+info:Stayed in February 2023
+info:Couples
+info:6 Reviews
+rating:5
+posted:Posted February 8, 2023
+msg:環境不錯的
+----------------------------------------
+name:Y‍i‍k‍e‍w‍a‍n‍t‍o‍n‍g
+info:Standard  Double Room
+info:Stayed in February 2023
+info:Business travelers
+info:37 Reviews
+rating:5
+posted:Posted February 8, 2023
+msg:服務不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Executive Single Room
+info:Stayed in June 2022
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted September 6, 2022
+msg:環境、衞生各方面都挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in December 2021
+info:Business travelers
+info:35 Reviews
+rating:5
+posted:Posted December 4, 2021
+msg:房間挺衞生的，離火車站很近，早餐品種也挺多的，推薦
+----------------------------------------
+name:W‍i‍l‍l‍i‍e‍ ‍K‍i‍m
+info:Standard  Double Room
+info:Stayed in December 2022
+info:Friends
+info:46 Reviews
+rating:4
+posted:Posted December 12, 2022
+msg:房間水平可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard 2-bed Room
+info:Stayed in September 2022
+info:Business travelers
+info:76 Reviews
+rating:5
+posted:Posted September 21, 2022
+msg:非常適合出差住宿
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard 2-bed Room
+info:Stayed in September 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 13, 2021
+msg:🚗 交通：方便
+🧹衞生：很好
+🍃環境：很好
+🔔服務：很好
+----------------------------------------
+name:W‍u‍y‍u‍e‍f‍a‍n‍r‍e‍n
+info:Standard  Double Room
+info:Stayed in May 2021
+info:Friends
+info:40 Reviews
+rating:4.7
+posted:Posted August 13, 2021
+msg:緊鄰蕪湖高鐵站，地理位置優越，早餐豐盛
+🚗 交通：方便
+🧹衞生：乾淨
+🍃環境：較好
+🔔服務：熱心
+----------------------------------------
+name:L‍a‍o‍n‍a‍y‍i‍t‍o‍u‍x‍i‍u‍f‍a
+info:Standard  Double Room
+info:Stayed in July 2022
+info:Booked for others
+info:5 Reviews
+rating:5
+posted:Posted October 18, 2022
+msg:還不錯，鬧中取靜
+----------------------------------------
+name:y‍u‍n‍c‍h‍a‍o‍.‍z‍h‍a‍o
+info:Standard 2-bed Room
+info:Stayed in November 2022
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted November 16, 2022
+msg:可以可以的
+----------------------------------------
+name:L‍a‍n‍g‍s‍h‍e‍n
+info:Business Double Room
+info:Stayed in February 2022
+info:Business travelers
+info:114 Reviews
+rating:4
+posted:Posted March 1, 2022
+msg:還不錯吧！住了兩天早餐還行
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in September 2021
+info:Business travelers
+info:4 Reviews
+rating:3
+posted:Posted September 27, 2021
+msg:房間一般般，早餐很垃圾，這種價位完全不值得
+----------------------------------------
+name:W‍e‍i‍e‍n‍c‍h‍o‍n‍g‍z‍h‍e‍n‍h‍u‍a‍n‍g‍d‍i
+info:Business Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:18 Reviews
+rating:4
+posted:Posted August 29, 2021
+msg:位置緊挨着火車站，趕車方便，其它沒有過人之處，中規中矩
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:13 Reviews
+rating:3
+posted:Posted August 3, 2022
+msg:普通地不能再普通
+----------------------------------------
+name:K‍a‍o‍j‍i‍a‍o‍d‍e‍t‍u‍s‍i
+info:Standard  Double Room
+info:Stayed in April 2021
+info:Business travelers
+info:21 Reviews
+rating:4
+posted:Posted September 14, 2021
+msg:性價比稍微低了點，環境 設備 都不錯 就是價格偏高了
+----------------------------------------
+name:H‍u‍i‍h‍u‍o‍j‍i‍m‍o
+info:Deluxe Double Room
+info:Stayed in February 2022
+info:Solo travelers
+info:9 Reviews
+rating:4
+posted:Posted May 21, 2022
+msg:非常期待再次入住
+----------------------------------------
+name:A‍i‍x‍i‍n‍j‍u‍e‍l‍u‍o‍j‍i‍n‍g‍j‍i‍n‍g‍z‍i
+info:Standard 2-bed Room
+info:Stayed in May 2021
+info:Family
+info:14 Reviews
+rating:3.5
+posted:Posted July 25, 2021
+msg:酒店大堂給人一種高端的感覺 但是房間就非常普通
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in June 2022
+info:Business travelers
+info:19 Reviews
+rating:3.5
+posted:Posted June 15, 2022
+msg:房間太小了
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in September 2021
+info:Booked for others
+info:35 Reviews
+rating:5
+posted:Posted October 9, 2021
+msg:性價比很高，路火車站還近
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:41 Reviews
+rating:4.5
+posted:Posted November 29, 2021
+msg:環境很好，衞生乾淨。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:11 Reviews
+rating:5
+posted:Posted September 1, 2021
+msg:房間乾淨，早餐豐富，交通便捷。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in June 2021
+info:Solo travelers
+info:22 Reviews
+rating:2
+posted:Posted June 27, 2021
+msg:酒店房間設施落後充電不方便
+----------------------------------------
+name:S‍a‍o‍z‍i‍q‍i‍n‍g‍b‍u‍y‍a‍o‍z‍h‍e‍y‍a‍n‍g
+info:Standard  Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:14 Reviews
+rating:3.2
+posted:Posted June 30, 2021
+msg:房間有異味，被子也有味道
+----------------------------------------
+name:X‍i‍a‍o‍x‍i‍n‍g‍y‍u‍n‍2‍5‍5‍2
+info:Standard 2-bed Room
+info:Stayed in July 2021
+info:Friends
+info:75 Reviews
+rating:3
+posted:Posted July 18, 2021
+msg:還可以，離火車站很近！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in June 2021
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted June 11, 2021
+msg:環境衞生很好，設施齊全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:76 Reviews
+rating:4.2
+posted:Posted October 3, 2021
+msg:交通方便，早餐還不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Double Room
+info:Stayed in June 2021
+info:Solo travelers
+info:40 Reviews
+rating:1
+posted:Posted June 14, 2021
+msg:還不如連鎖酒店呢 差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in May 2021
+info:Other
+info:8 Reviews
+rating:4
+posted:Posted July 1, 2021
+msg:一直住的，備品差了點兒
+----------------------------------------
+name:p‍e‍g‍g‍y
+info:Standard  Double Room
+info:Stayed in March 2021
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted June 21, 2021
+msg:酒店衞生還可以，就是早餐一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Double Room
+info:Stayed in November 2021
+info:Business travelers
+info:9 Reviews
+rating:5
+posted:Posted November 20, 2021
+msg:交通方便。
+----------------------------------------
+name:X‍i‍a‍l‍i‍n‍g‍y‍i‍n‍g‍k‍a‍i‍s‍h‍i
+info:Business Double Room
+info:Stayed in July 2021
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted July 8, 2021
+msg:位置好，出行方便
+----------------------------------------
+name:m‍d‍x‍m‍d‍x
+info:Deluxe Double Room
+info:Stayed in October 2021
+info:Business travelers
+info:18 Reviews
+rating:5
+posted:Posted November 4, 2021
+msg:設施好不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in September 2021
+info:Couples
+info:14 Reviews
+rating:5
+posted:Posted September 30, 2021
+msg:不知道説啥
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in March 2021
+info:Business travelers
+info:71 Reviews
+rating:5
+posted:Posted September 24, 2021
+msg:商旅出行非常方便！
+----------------------------------------
+name:d‍w‍z‍h‍e‍n
+info:Deluxe Room (2 beds)
+info:Stayed in June 2021
+info:Business travelers
+info:28 Reviews
+rating:4
+posted:Posted July 2, 2021
+msg:一般希望改進
+----------------------------------------
+name:Z‍h‍a‍n‍g‍t‍i‍a‍n‍b‍i‍a‍o
+info:Standard 2-bed Room
+info:Stayed in May 2021
+info:Other
+info:29 Reviews
+rating:5
+posted:Posted July 8, 2021
+msg:各方面都很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in April 2021
+info:Other
+info:12 Reviews
+rating:5
+posted:Posted June 18, 2021
+msg:服務態度很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard  Double Room
+info:Stayed in March 2021
+info:Other
+info:43 Reviews
+rating:5
+posted:Posted June 24, 2021
+msg:房間整潔乾淨
+----------------------------------------

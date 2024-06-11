@@ -1,0 +1,1014 @@
+name:C‍a‍r‍e‍m
+info:Deluxe 2-bed Room
+info:Stayed in November 2023
+info:Family
+info:26 Reviews
+rating:5
+posted:Posted November 17, 2023
+msg:Hygiene: Fully automatic brand new hotel, bedding is very clean
+Service: Very good 👍
+Environment: Very good parking and convenient
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Featured Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted November 3, 2023
+msg:The service was very good. When it rained before leaving, the security guard even held an umbrella and sent it to the opposite road. High praise
+----------------------------------------
+name:H‍u‍o‍q‍i‍l‍i‍n‍1‍8‍8‍0
+info:Elegant 2-bed Room
+info:Stayed in October 2023
+info:Business travelers
+info:5 Reviews
+rating:4
+posted:Posted November 1, 2023
+msg:The hotel is relatively new and comfortable. I booked two twin rooms. One of them didn’t have disposable slippers, and the other one didn’t have a toothbrush without toothpaste. What I don’t understand the most is how the buffet breakfast turned into a prepared one for each person. breakfast set!
+----------------------------------------
+name:c‍w‍l‍1‍0‍0
+info:Elegant 2-bed Room
+info:Stayed in October 2023
+info:Couples
+info:11 Reviews
+rating:4.2
+posted:Posted October 10, 2023
+msg:It is a brand new hotel that has only been open for a few days. The facilities and decoration are relatively advanced and modern. Parking on the ground is more convenient. The waiters should be newly hired. The service quality in the lobby needs to be improved urgently. The check-in face verification has not yet been enabled. The ID needs to be copied and kept while waiting for the procedures. During my stay, I forgot my tea cup at the front desk. I had to ask the waiter several times the next day to retrieve the cup. The water feature in the lobby is not completed, and workers are still rectifying some of the problems exposed during the decoration. The external backyard environment is still under construction, and the front desk informed that it is still in trial operation. The decoration is quite heavy, especially in the lobby. Breakfast is provided in portions, and the food is served slowly. If there is not enough, you can ask for more, but it feels like opening a blind box. There are very few guests staying that day, and the check-in experience is not good. The price/performance ratio of this high-end hotel is a bit poor, and it is not recommended at this stage. .
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in December 2023
+info:Other
+info:12 Reviews
+rating:5
+posted:Posted December 29, 2023
+msg:The service was good. As we were afraid of the cold, the floor attendant sent an electric heater, which was very warm. like!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Featured Queen Room
+info:Stayed in December 2023
+info:Family
+info:1 Review
+rating:3.5
+posted:Posted December 24, 2023
+msg:I brought my family to stay because I was participating in a marathon. Although it was possible to cool down, it was a pity that the air conditioner in the room could not be controlled independently, which made the whole room extremely hot and the whole family's faces turned red. Children can't sleep well, and adults can't sleep well either. It is hoped that the hotel can flexibly adjust in the future and make improvements in a timely manner according to the specific situation. In line with the concept of not forgetting the original intention, we will strive to make guests feel at home.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in December 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted January 4, 2024
+msg:I will book it again next time I go to Fangchenggang. It’s pretty good in every aspect.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant Queen Room
+info:Stayed in December 2023
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted December 25, 2023
+msg:The facilities are very new, clean and well decorated. I will stay here again next time
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Elegant Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:1 Review
+rating:4
+posted:Posted November 9, 2023
+msg:The room environment and facilities are relatively new, but the lack of space for toiletries in the shower room is really inconvenient. The bath water in the second shower room on the 20th floor where I live cannot be drained out in time and needs to be checked.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted December 14, 2023
+msg:It's a brand new hotel, the location is okay, and the breakfast is quite satisfactory.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in October 2023
+info:Family
+info:36 Reviews
+rating:5
+posted:Posted October 18, 2023
+msg:Fangchenggang Decheng International Hotel is a brand new hotel. The beautiful receptionist at the front desk is hospitable and has a great attitude. The hotel's software and hardware facilities are first-class, comfortable and convenient for small users. The parking lot is very large and convenient!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in December 2023
+info:Business travelers
+info:45 Reviews
+rating:5
+posted:Posted December 24, 2023
+msg:The environment is clean and hygienic, and the breakfast is also very good
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in October 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:The room was clean, the service was prompt, and the breakfast was rich!
+----------------------------------------
+name:F‍r‍a‍n‍c‍i‍s‍m‍o‍k
+info:Elegant Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:19 Reviews
+rating:5
+posted:Posted December 9, 2023
+msg:Overall, the room is relatively new.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:5
+posted:Posted January 3, 2024
+msg:Very satisfied with the service
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:14 Reviews
+rating:5
+posted:Posted December 24, 2023
+msg:The room was clean and tidy
+----------------------------------------
+name:D‍a‍n‍g‍d‍i‍x‍i‍a‍n‍g‍d‍a‍o‍k‍u‍d‍a‍o‍w‍e‍i‍x‍i‍a‍o
+info:Business Suite
+info:Stayed in October 2023
+info:Business travelers
+info:20 Reviews
+rating:4
+posted:Posted November 2, 2023
+msg:The hotel is newly opened and ok
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:6 Reviews
+rating:4.7
+posted:Posted November 19, 2023
+msg:Good, good, good, good
+----------------------------------------
+name:A‍i‍l‍v‍x‍i‍n‍g‍d‍i‍m‍a‍n‍g‍g‍u‍o‍j‍i‍e
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted February 17, 2024
+msg:帶孩子來看海，選擇了這裏，可能自己也沒備註的原因，沒有給安排可以看到滴房間，後來打電話給前台，前台小姐姐留就沒有音訊回覆啦！對這點相當不滿意！房間設施很不錯，很喜歡這裏的洗護用品，可能因為春節的人太多，早餐連下粉的榨菜都沒有啦😂，早餐西點麪包真不錯😊，去吃早餐的時候發現好多浪費的現象，很痛心，個人認為應該公示提示一下比較好，杜絕浪費！圖7的小哥哥服務非常好，給個滿贊👍
+----------------------------------------
+name:S‍u‍i‍x‍i‍n‍1‍6‍8‍8‍8
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted March 10, 2024
+msg:還沒進酒店就想給好評了😊叫車的時候一時糊塗定位到了另一家酒店，發現不對後就聯繫德城國際，箱子太大了不好拿，希望能幫下忙，前台的小姐姐熱心的派來兩位帥哥幫忙拖着箱子從對街的酒店過來，連雙肩背也搶過去背上了，太謝謝了🙏
+酒店地理位置優越，旁邊就是公園和博物館，非常方便。
+住店的客人不少，依然沒有影響服務水準！
+----------------------------------------
+name:Y‍o‍u‍x‍i‍a‍a‍a‍a
+info:Privilege Queen Room
+info:Stayed in March 2024
+info:Other
+info:63 Reviews
+rating:5
+posted:Posted March 10, 2024
+msg:非常棒的酒店，房間寬大乾淨整潔衞生安靜，前台和所有的服務人員都和藹可親，門僮服務生主動推車接送行裏，連住了二天都不想離開，下次來防城港還住這裏。
+----------------------------------------
+name:Z‍h‍u‍z‍h‍u‍d‍e‍j‍i‍a‍t‍i‍a‍o
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:22 Reviews
+rating:4.5
+posted:Posted February 16, 2024
+msg:早餐就是春節人多，更換不是特別及時。粉不好吃。蛋糕也做得不太好。車位充足，停車很方便，沒有停車費。兩個早上都看到一盤子肥肉實在不知道是什麼。不知道算不算肉食
+----------------------------------------
+name:a‍n‍g‍e‍l‍1‍9‍9‍9
+info:Elegant Queen Room
+info:Stayed in March 2024
+info:Couples
+info:45 Reviews
+rating:5
+posted:Posted March 15, 2024
+msg:周圍吃飯，遊玩都挺方便的，酒店服務也挺好的，參觀了防城港博物館，挺好的，天氣不太好，但玩的挺開心的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:7 Reviews
+rating:3.5
+posted:Posted February 11, 2024
+msg:房間很大，東西都挺新的，早餐無功無過，粉不太好吃，不肯送一份小童早餐，還説已經送了兩個大人早餐了，不送就不送，但這説法有點莫名其妙。
+----------------------------------------
+name:n‍u‍s‍s‍a‍r
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Couples
+info:15 Reviews
+rating:5
+posted:Posted February 22, 2024
+msg:酒店是去年新開的，設施各方面都很新，早餐也不錯，品種很多。出門去哪裡都很方便，馬路對面就是一條美食街，想吃什麼應有盡有。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Featured Queen Room
+info:Stayed in February 2024
+info:Solo travelers
+info:39 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:整體挺新的，房間也還可以，服務沒問題。位置也還可以，下次過來依然會選擇住這裏，挺方便的。大堂也有機器人送外賣
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted April 2, 2024
+msg:房間挺大的，態度熱情友好。衞生情況也可以。早餐也可以。周邊小吃，商業街也都挺近的。是防城港相對來説最新最好的酒店了。
+----------------------------------------
+name:M‍o‍h‍u‍a‍n‍f‍e‍n‍g‍h‍u‍a‍n‍g
+info:Elegant Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:69 Reviews
+rating:5
+posted:Posted April 20, 2024
+msg:性價比很高，服務好，衞生好，設施好，停車方便
+----------------------------------------
+name:Y‍a‍n‍g‍j‍i‍a‍l‍i‍n
+info:Featured Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:4 Reviews
+rating:2.5
+posted:Posted May 19, 2024
+msg:早晨起床後因為趕時間，吃完早餐後回房間換了一件上衣，收拾了一下就匆匆忙忙退房離開了，下午才發現早晨換下來的上衣忘記拿了，於是給酒店打電話溝通，酒店反饋一口咬定我房間沒有遺留任何衣服，我也是服了，難道我的衣服會自己消失不見麼，作為攜程金鑽貴賓也是頭一回遇到這個情況，多説無益，差評送上。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant Queen Room
+info:Stayed in May 2024
+info:Family
+info:9 Reviews
+rating:2.7
+posted:Posted May 5, 2024
+msg:酒店很新，房間很智能，特別是早餐，又少又難吃，9點去基本都是空的，餐廳的女服務員態度超級差，這是我住過的所有酒店裡麪最糟糕的服務，餐廳有個冰淇淋櫃，第一天並沒有任何標識説不能吃，有個小女孩自己拿了兩個球在碗裏，準備拿走了，服務員很兇的説早餐不能吃冰淇淋又搶回去了，把放碗裏的兩個球又分別放回冰箱盒子裏，兩個口味都已經混在一起了，就給那個小孩吃會損失多少，孩子拿了酸奶，我們趕時間就説讓她帶走上車在喝，也被服務員要回去了。真的第一次見這種服務，一點不靈活，在防城港600多的價格住這種酒店，下次絕對不會選這裏
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in May 2024
+info:Friends
+info:3 Reviews
+rating:3
+posted:Posted May 4, 2024
+msg:吐槽房間的洗澡水温，一開始微微暖，打了三個電話後開多一個鍋爐，大半夜的又等了40分鐘後水温大概上到35度左右，雖然還是不滿意但酒店已盡力，朋友太困等不了水温上來硬着頭皮洗第二天感冒了，我等到了將近十二點，呵呵呵
+----------------------------------------
+name:Y‍i‍z‍h‍e‍n‍g‍h‍u‍a
+info:Deluxe 2-bed Room
+info:Stayed in April 2024
+info:Solo travelers
+info:7 Reviews
+rating:4.2
+posted:Posted April 24, 2024
+msg:大廳還很大氣，餐廳也不錯。進房間就有淡淡的煙草味，我吸煙，還可以接受。最大問題，蚊子太多，凌晨三點，半夜咬醒我兩次，電話總枱給我送了一個電蚊香，插了半小時還是有蚊子。這個天氣了，為什麼不能直接配一個，先插上？
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Friends
+info:27 Reviews
+rating:5
+posted:Posted February 12, 2024
+msg:衞生整潔，防城港市比較豪華的酒店了
+----------------------------------------
+name:H‍a‍o‍d‍a‍y‍i‍z‍u‍o‍s‍h‍a‍n‍a
+info:Deluxe Queen Room
+info:Stayed in February 2024
+info:Couples
+info:12 Reviews
+rating:4
+posted:Posted April 15, 2024
+msg:準五星標準叭，還不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Other
+info:5 Reviews
+rating:5
+posted:Posted February 17, 2024
+msg:環境不錯 離近海邊
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant Queen Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:酒店位置很好找 而且停車場很大 停車非常方便。過年期間入住的 車場也沒見停滿。酒店內部環境也很好 裝修豪華 服務態度非常好。就是入住的時候交了500按金。定的大床房 房間很大 浴缸那些都有 設施很完善 乾淨整潔。對比了附近其它家酒店 還是感覺德城好些。酒店離夜市不遠 過一條街口就到。入住的時候可惜沒拍照片。下次來防城港還選這家酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:2.5
+posted:Posted February 24, 2024
+msg:晚上七點到的還告知房間還沒打掃出來，夜裡兩點入住。早餐牛奶和水果沒了就是不上，後來才發現服務業都是切好的一盆一盆的水果在下面櫃子裏，就是不往上端，磨蹭好久才端出來一盤。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant Queen Room
+info:Stayed in January 2024
+info:Family
+info:8 Reviews
+rating:2
+posted:Posted January 25, 2024
+msg:酒店設施不錯，在當地屬高檔。但是服務欠缺。衞生間有異味，雪白的床單有黃斑沒有洗乾淨，空調失效，早晨與前台服務反饋，他們沒有任何回覆和解釋，有點無所謂的樣子。不知道這個管理怎麼做的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in April 2024
+info:Friends
+info:38 Reviews
+rating:5
+posted:Posted April 11, 2024
+msg:行貨豪華好好好好好喜歡行貨豪華好好好好好喜歡行貨豪華好好好好好喜歡行貨豪華好好好好好喜歡行貨豪華好好好好好喜歡行貨豪華好好好好好喜歡
+----------------------------------------
+name:H‍a‍i‍t‍a‍n‍g‍1
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Friends
+info:87 Reviews
+rating:5
+posted:Posted February 26, 2024
+msg:位置好，交通方便，離美食街近，離北部灣海洋文化公園也不遠。房間智能管理，有小度有智能馬桶，空間比較大，有冷暖設備。早餐自助，品種豐富，還送了小零食。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:2.7
+posted:Posted May 16, 2024
+msg:房間配套的東西都有，但是檔次低，質量差。衞生間用的捲紙，是用剩的。和酒店的星級不符。
+早餐品種少，沒有特色。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in February 2024
+info:Family
+info:6 Reviews
+rating:4
+posted:Posted February 22, 2024
+msg:衞生還不錯，但有些小細節有點影響總體評分。比如洗手間門上的“推”“拉”標準居然貼反了；洗手液瓶子一壓裏面的洗手液就飛射到了地上…呃就這樣子吧
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant Queen Room
+info:Stayed in May 2024
+info:Family
+info:9 Reviews
+rating:3.2
+posted:Posted May 5, 2024
+msg:酒店很新，大堂很漂亮，房間很智能，早餐品種很少，達不到五星標準，衹要一般快捷酒店的標準，餐廳服務超級差
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in March 2024
+info:Family
+info:63 Reviews
+rating:5
+posted:Posted April 4, 2024
+msg:房間服務都很不錯，惟有一點房間桌上的夾子裏放了很大一張設施賠償清單，大到床和沙發，小到各種小物件幾十種，看了不舒服。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:3.5
+posted:Posted February 12, 2024
+msg:接團隊比較多，對散客來説，體驗感不佳。人多早飯供應不及。住宿條件不論，作為星級酒店在各個方面顯得扣扣搜搜。服務人員態度還可以。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in January 2024
+info:Business travelers
+info:34 Reviews
+rating:5
+posted:Posted January 28, 2024
+msg:房間很整潔，早餐可口，豬肝粉尤其好，蒸甘薯，鹵鳳爪鴨爪也很好吃，服務周到。第一次住感覺挺好的，如果再來這個城市出差，也會住這個酒店的。
+----------------------------------------
+name:B‍e‍s‍t‍s‍a‍n‍g‍s‍a‍n‍g
+info:Privilege Queen Room
+info:Stayed in February 2024
+info:Family
+info:7 Reviews
+rating:2.7
+posted:Posted February 18, 2024
+msg:正好有旅行團，早餐體驗非常差，酒店明知道有旅行團，準備工作完全沒有。酒店硬件不錯，但服務人員及酒店管理是比較差勁的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:2 Reviews
+rating:4.8
+posted:Posted May 19, 2024
+msg:酒店很新，但是沒有味道！也很寬敞，商務、親子都不錯！旁邊還有個小吃街，方便！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in March 2024
+info:Other
+info:4 Reviews
+rating:5
+posted:Posted March 8, 2024
+msg:這次出行路過防城港，看到酒店比較新，入住德城國際大酒店，感覺房間寬敞，乾淨，服務好，入住感覺不錯👍
+----------------------------------------
+name:L‍I‍N‍S‍H‍A‍S‍S‍A
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Friends
+info:57 Reviews
+rating:3.7
+posted:Posted February 16, 2024
+msg:管理有衹混亂，下午六點還沒有打掃好的房間辦理入住，房間浴室有異味，按金收太多，又不及時退還，要打電話摧才退
+----------------------------------------
+name:A‍q‍u‍a‍C‍S
+info:Deluxe Single Room
+info:Stayed in February 2024
+info:Family
+info:33 Reviews
+rating:5
+posted:Posted May 4, 2024
+msg:第一次來防城港，挑選了很久最後確定這家酒店，酒店設施相當好，大氣的大堂，設施不錯的房間，入住體驗不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted February 21, 2024
+msg:比們之前選擇的民宿還是住酒店要方便的多，房間入住舒服，早餐豐富，服務員也熱情。周邊交通便利，出行方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in January 2024
+info:Business travelers
+info:33 Reviews
+rating:5
+posted:Posted March 19, 2024
+msg:好幾次去防城港住的這家酒店，去年新開的，所以硬件比較新，房間大小合適。服務人員態度非常好。早餐比較豐富，選擇多。
+----------------------------------------
+name:C‍h‍o‍u‍l‍a‍o‍y‍a
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Couples
+info:49 Reviews
+rating:4
+posted:Posted February 26, 2024
+msg:房間還有一點點味道，但是設施不錯，早餐也還好。其他服務各方面有待提升
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Suite
+info:Stayed in February 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted February 13, 2024
+msg:環境：周邊方便，適合休閑自駕遊
+衞生：挺好，乾淨衞生
+服務：挺好，滿意
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant Queen Room
+info:Stayed in February 2024
+info:Family
+info:20 Reviews
+rating:4
+posted:Posted February 14, 2024
+msg:環境很好，客房很大氣。
+洗澡水忽冷忽熱，隔音較差，要礦泉水很小氣。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:挺不錯的一家酒店，各方面都比較滿意。要是早餐更豐盛一點就更好了
+----------------------------------------
+name:T‍i‍a‍n‍m‍a‍w‍u‍j‍i‍a‍n‍g
+info:Elegant Queen Room
+info:Stayed in January 2024
+info:Couples
+info:40 Reviews
+rating:5
+posted:Posted March 18, 2024
+msg:酒店位置好，高大上的趕腳！
+距離海濱綠道不遠，徒步走起安逸得很！
+----------------------------------------
+name:s‍a‍n‍d‍y‍w‍u‍p‍h
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:30 Reviews
+rating:5
+posted:Posted February 10, 2024
+msg:酒店很大氣  停車位很多 但是沒有新能源的充電車位 床品挺好的
+----------------------------------------
+name:Y‍i‍j‍u‍a‍n
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:4 Reviews
+rating:4.2
+posted:Posted February 15, 2024
+msg:離美食街很近  
+為啥送水工作人員沒有穿工作服 態度也不好
+----------------------------------------
+name:X‍u‍a‍n‍m‍u‍1‍2‍1‍8
+info:Privilege Queen Room
+info:Stayed in April 2024
+info:Family
+info:2 Reviews
+rating:4.7
+posted:Posted April 24, 2024
+msg:城區中心的酒店，環境和設施很齊全，早晨較普通。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Friends
+info:21 Reviews
+rating:5
+posted:Posted February 15, 2024
+msg:設施：還可以
+衞生：還可以
+環境：還可以
+服務：還可以
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:酒店的自助晚餐強推，吃完再逛到夜市街消食兒以後繼續造。
+----------------------------------------
+name:J‍u‍n‍y‍e‍@
+info:Elegant Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:20 Reviews
+rating:5
+posted:Posted February 9, 2024
+msg:酒店位置特別好，出入停車比較方便，房間裏智能化非常先進
+----------------------------------------
+name:w‍e‍i‍1‍1‍0‍7
+info:Privilege Queen Room
+info:Stayed in February 2024
+info:Family
+info:57 Reviews
+rating:4
+posted:Posted March 2, 2024
+msg:臨時訂的酒店，總體還不錯，食物對口，不辣，也不鹹。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 29, 2024
+msg:第一次來防城港，住這個酒店，很不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant Queen Room
+info:Stayed in February 2024
+info:Family
+info:22 Reviews
+rating:5
+posted:Posted May 9, 2024
+msg:非常棒的酒店，特別大，而且環境很好。特別推薦哦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Featured Queen Room
+info:Stayed in February 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted February 18, 2024
+msg:酒店位置非常好 周圍就有美食街 酒店設施也很新
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:7 Reviews
+rating:4.7
+posted:Posted February 20, 2024
+msg:新酒店設施不錯，早餐種類少，與豪華酒店不相稱。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in April 2024
+info:Friends
+info:20 Reviews
+rating:4.5
+posted:Posted April 9, 2024
+msg:房間
+面積大而且乾淨整潔。喜歡入住酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Other
+info:6 Reviews
+rating:5
+posted:Posted February 3, 2024
+msg:酒店很不錯，整潔乾淨，有免費停車場。服務也很棒。
+----------------------------------------
+name:t‍t‍a‍i‍y‍u‍n
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:34 Reviews
+rating:3.7
+posted:Posted February 10, 2024
+msg:早餐不符合酒店這個房價的標準，2號電梯有問題。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 21, 2024
+msg:滿意，滿意！性價比很高以後來防城港就住這裏了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in May 2024
+info:Friends
+info:19 Reviews
+rating:4
+posted:Posted June 4, 2024
+msg:除了冷氣太足，別的都還可以！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2024
+info:Business travelers
+info:71 Reviews
+rating:5
+posted:Posted April 17, 2024
+msg:酒店很大氣，如果下次再去還會選擇
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in February 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted February 13, 2024
+msg:不錯的體驗，非常好，房間很大，智能化高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Featured Queen Room
+info:Stayed in May 2024
+info:Couples
+info:4 Reviews
+rating:3.7
+posted:Posted May 13, 2024
+msg:服務總體可以，但有一些差距
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Featured Queen Room
+info:Stayed in December 2023
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted January 12, 2024
+msg:來跑盟馬，酒店房間挺大的，也蠻新的，早餐不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted May 2, 2024
+msg:房間寬敞，環境整潔，離小吃街很近。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant Queen Room
+info:Stayed in April 2024
+info:Couples
+info:48 Reviews
+rating:5
+posted:Posted April 18, 2024
+msg:周圍交通便利，中心區域不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in November 2023
+info:Other
+info:25 Reviews
+rating:5
+posted:Posted January 8, 2024
+msg:應該是防城港最好的 經濟在那沒有辦法 新的酒店
+----------------------------------------
+name:H‍u‍i‍j‍i‍a‍l‍i‍u‍l‍a‍n‍g
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:一家鬧中取靜的酒店，體驗感很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:8 Reviews
+rating:5
+posted:Posted May 5, 2024
+msg:都非常好的環境，很不錯的早餐。
+----------------------------------------
+name:S‍o‍n‍g‍b‍a‍o‍m‍a
+info:Privilege Queen Room
+info:Stayed in February 2024
+info:Family
+info:58 Reviews
+rating:4
+posted:Posted February 22, 2024
+msg:禮賓熱情，早餐不錯，停車場大。
+----------------------------------------
+name:w‍y‍h‍c‍y
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Business travelers
+info:74 Reviews
+rating:5
+posted:Posted March 4, 2024
+msg:房間不錯，服務態度很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted February 18, 2024
+msg:房間清潔，服務態度很好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in February 2024
+info:Family
+info:3 Reviews
+rating:4.6
+posted:Posted May 1, 2024
+msg:設施：比較新
+衞生：可以
+----------------------------------------
+name:Y‍x‍q‍7‍4‍5‍7‍1‍8‍@
+info:Privilege Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:72 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:房間衞生乾淨整潔舒適！
+----------------------------------------
+name:D‍o‍n‍g‍s‍h‍a‍n‍a‍q‍i‍a‍n‍g‍7
+info:Deluxe Queen Room
+info:Stayed in February 2024
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted February 19, 2024
+msg:酒店環境不錯，很安靜！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Business travelers
+info:42 Reviews
+rating:5
+posted:Posted February 11, 2024
+msg:酒店乾淨方便，服務一流
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in April 2024
+info:Business travelers
+info:7 Reviews
+rating:2.8
+posted:Posted April 19, 2024
+msg:遊客多，服務一般
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2024
+info:Couples
+info:14 Reviews
+rating:5
+posted:Posted February 23, 2024
+msg:房間很大，設施齊全
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Privilege Queen Room
+info:Stayed in February 2024
+info:Friends
+info:4 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:房間超大，環境不錯
+----------------------------------------
+name:L‍e‍t‍’‍s‍ ‍g‍o‍S‍a‍i‍l‍i‍n‍g
+info:Featured Queen Room
+info:Stayed in February 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 7, 2024
+msg:房間很乾凈，很新
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant Queen Room
+info:Stayed in January 2024
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted January 17, 2024
+msg:衞生：清潔整理及時
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in March 2024
+info:Couples
+info:7 Reviews
+rating:4.5
+posted:Posted March 19, 2024
+msg:服務員很負責任
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in April 2024
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted April 26, 2024
+msg:環境衞生可以
+----------------------------------------
+name:1‍3‍1‍4‍j‍i‍a‍n
+info:Business Suite
+info:Stayed in January 2024
+info:Business travelers
+info:17 Reviews
+rating:5
+posted:Posted March 4, 2024
+msg:非常感謝環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:23 Reviews
+rating:5
+posted:Posted April 9, 2024
+msg:房間很好服務一流
+----------------------------------------
+name:L‍e‍l‍e‍m‍a‍-‍8‍8‍8
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:不錯 推薦大家
+----------------------------------------
+name:B‍e‍n‍b‍o‍b‍a‍d‍a‍o‍d‍e‍d‍o‍n‍g‍b‍e‍i
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Couples
+info:24 Reviews
+rating:4
+posted:Posted February 18, 2024
+msg:性價比還不錯！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Featured Queen Room
+info:Stayed in February 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted April 25, 2024
+msg:挺不錯，很滿意
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in November 2023
+info:Business travelers
+info:7 Reviews
+rating:5
+posted:Posted February 11, 2024
+msg:非常好，位置也好。
+----------------------------------------
+name:Y‍u‍k‍a‍0‍x‍o
+info:Elegant Queen Room
+info:Stayed in April 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted April 23, 2024
+msg:特別特別好
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Elegant Queen Room
+info:Stayed in January 2024
+info:Business travelers
+info:15 Reviews
+rating:5
+posted:Posted February 20, 2024
+msg:酒店環境非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:18 Reviews
+rating:5
+posted:Posted March 22, 2024
+msg:入住方便快捷
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:14 Reviews
+rating:5
+posted:Posted February 16, 2024
+msg:整體環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in March 2024
+info:Family
+info:14 Reviews
+rating:4.5
+posted:Posted April 19, 2024
+msg:服務還可以
+----------------------------------------
+name:N‍i‍d‍e‍n‍g‍w‍o‍j‍i‍a‍o‍r‍e‍n
+info:Featured Queen Room
+info:Stayed in December 2023
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted February 25, 2024
+msg:很好，設施很新
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant 2-bed Room
+info:Stayed in February 2024
+info:Family
+info:21 Reviews
+rating:5
+posted:Posted March 20, 2024
+msg:各方面都好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Elegant Queen Room
+info:Stayed in April 2024
+info:Solo travelers
+info:3 Reviews
+rating:5
+posted:Posted April 9, 2024
+msg:一級棒👍
+----------------------------------------

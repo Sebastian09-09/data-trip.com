@@ -1,0 +1,835 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in October 2023
+info:Business travelers
+info:2 Reviews
+rating:3.5
+posted:Posted October 10, 2023
+msg:Swimming pool does not work
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in June 2024
+info:Business travelers
+info:14 Reviews
+rating:3.7
+posted:Posted June 8, 2024
+msg:Ok for the price service not that great
+----------------------------------------
+name:f‍r‍a‍n‍c‍i‍s‍c‍o‍ ‍j‍a‍v‍i‍e‍r
+info:Queen Room With Lake View
+info:Stayed in January 2024
+info:Business travelers
+info:2 Reviews
+rating:3.2
+posted:Posted January 10, 2024
+msg:There is no sauna.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in February 2024
+info:Business travelers
+info:8 Reviews
+rating:5
+posted:Posted February 3, 2024
+msg:The hotel seems to be old.
+The condition of the rooms and facilities was very good.
+Since it was a hot spring hotel, the hot spring water was great!
+And the breakfast buffet is so delicious!
+----------------------------------------
+name:Y‍i‍g‍e‍d‍a‍i‍z‍i‍…‍…
+info:Deluxe Twin Room
+info:Stayed in March 2024
+info:Business travelers
+info:30 Reviews
+rating:1
+posted:Posted March 7, 2024
+msg:I felt OK when I came here a few years ago, but this time it feels very bad. It's completely desolate, things are old, the lights are broken, and the physical experience is extremely bad.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2024
+info:Family
+info:1 Review
+rating:2
+posted:Posted April 6, 2024
+msg:The lights in the room were very dim at night, and the front desk phone was not working!
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2024
+info:Solo travelers
+info:4 Reviews
+rating:1
+posted:Posted March 16, 2024
+msg:It's too old and too run-down. The guy who opened the door was very nice, but I don't know if he was from the family. The front desk acted like he owed him money. He was charged 5 yuan for not bringing his ID card to scan the code. How can it be 400 yuan for a room that costs more than 100 yuan? The sanitation service is not even good.
+----------------------------------------
+name:B‍a‍i‍b‍a‍i‍b‍a‍i‍f‍w‍2‍6‍2
+info:Deluxe Twin Room
+info:Stayed in February 2024
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:The hotel service is very good, clean and hygienic. Breakfast is delivered to the room, which is very convenient. We stopped by during the Spring Festival and watched the light show in the park next to it.
+----------------------------------------
+name:N‍u‍o‍m‍i‍t‍u‍a‍n‍z‍i‍s‍h‍i‍w‍o
+info:Deluxe Queen Room
+info:Stayed in July 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted July 12, 2023
+msg:The hotel room is spacious. The only drawback is that it is too humid, but the large enough room and air conditioning can make up for it.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in December 2023
+info:Other
+info:5 Reviews
+rating:3.7
+posted:Posted December 10, 2023
+msg:The air conditioning is not very effective. I woke up twice in one night. I went downstairs for breakfast at around 8 o'clock in the morning. There was not much food left, and it was not hot at all! This hotel only has one bottle of mineral water in the room. If you want one more bottle, you will be charged extra!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in June 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted June 10, 2023
+msg:The hotel service is very good. My child just finished the college entrance examination. The hotel thoughtfully arranged a room for the students who passed the exam. I was very touched. The room is large and well-equipped. It is worth recommending
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in May 2023
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted May 21, 2023
+msg:Beautiful environment, clean and sanitary, complete facilities, and thoughtful service! I left something behind and the front desk also kept it for me. It was a great accommodation experience!
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Suite
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:1
+posted:Posted May 9, 2023
+msg:Avoid this place! Never go there again!
+The hotel facilities are very old, very old, and the rooms are even older. Broken and old.
+There is no normal washing machine and dryer. I was shocked when I entered the so-called laundry room. It was an old double-drum washing machine that I couldn't even use.
+Is it too much for a hotel of this price to have a normal laundry room?
+The waiters' service is very poor. They are indifferent and don't care about the hotel. Do they really not need to train their employees?
+For a hotel of more than 600 yuan, there is only one set of shampoo and shower gel in a family room for 3 people. I asked for it to be delivered to the room, but it didn't arrive after a long wait. The waiter who delivered it had a very poor service attitude and said that it was very difficult for them to have two sets. What? Is a disposable item worth 1 yuan? ? ? ?
+Also, I have never had such a bad buffet breakfast.
+----------------------------------------
+name:K‍a‍l‍e‍w‍a‍n‍a‍x‍i‍a‍o‍h‍e
+info:Deluxe Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:1 Review
+rating:5
+posted:Posted April 16, 2023
+msg:The hotel room is large and spacious, the bedding is very clean, and the room is also very clean. Xiaojing at the front desk is very enthusiastic to help introduce the surrounding situation. What touched me was that the room lady still greeted me warmly in the busy work every day, gave me a small gift, and wrote a small card. Hope to do better in the future.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:2.5
+posted:Posted October 6, 2023
+msg:Few people, it feels very gloomy, the breakfast is very poor, there is nothing to eat, and the key is that children have to pay the full price for breakfast. Not recommended
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2023
+info:Business travelers
+info:27 Reviews
+rating:5
+posted:Posted September 8, 2023
+msg:The room service attitude is very good. When checking in, I reported that the air conditioning was not cooling enough, and it was quickly dealt with on the same day. The hotel front desk was very enthusiastic, and the doorman took the initiative to carry the luggage.
+----------------------------------------
+name:Z‍H‍0‍3‍1‍8
+info:Deluxe Queen Room
+info:Stayed in August 2023
+info:Booked for others
+info:5 Reviews
+rating:5
+posted:Posted September 11, 2023
+msg:Comfortable and clean, warm and beautiful, attentive service, rich meals. The surrounding is quiet, elegant and beautiful. The unique waterscape makes people linger and come back
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in June 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted June 9, 2023
+msg:Because my child goes to school, I often come to Hengshui. I stay in this hotel every time. The hotel facilities are relatively new. I booked a deluxe standard room. The room is large and the hygiene is very good. The most important thing is that every staff here is smiling and can reasonably solve the requirements of customers. It's great. Next time I will bring my family to stay because the hotel is opposite Hengshui Lake. I am ready to have fun.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family-friendly Family Room
+info:Stayed in June 2023
+info:Family
+info:8 Reviews
+rating:3
+posted:Posted June 5, 2023
+msg:The parent-child room is large, but the facilities are old and the lights are not bright. The front desk service needs to be improved. They did not understand the breakfast, hot springs and tourist attractions.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Suite
+info:Stayed in April 2023
+info:Family
+info:9 Reviews
+rating:4.5
+posted:Posted July 20, 2023
+msg:An old hot spring hotel with large rooms and good soundproofing. It is just opposite Hengshui Lake and has a large auditorium, which is suitable for weddings.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Suite
+info:Stayed in April 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:The room is quite satisfactory, large and comfortable. I hope the meals are not limited to buffet, but can be more diverse. The dining environment is a bit crowded when there are many guests. It would be better if it can be improved.
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in August 2021
+info:Family
+info:20 Reviews
+rating:5
+posted:Posted September 7, 2021
+msg:Five-star international hotel around 300 yuan:)
+
+PLUS, the endless beauty of Hengshui Lake!
+
+The food in the restaurant is not enough to eat every day:)
+
+Hometown, homeland, old people return, old dreams: D
+
+Gospel of Matthew
+2:6 Bethlehem in the land of Judah, you are not the smallest among the cities of Judah;...
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in August 2021
+info:Family
+info:11 Reviews
+rating:5
+posted:Posted September 10, 2021
+msg:The environment is good! Breakfast is OK. Come on. Come on. Come on. Come on.
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Suite
+info:Stayed in July 2021
+info:Friends
+info:1 Review
+rating:3
+posted:Posted July 27, 2021
+msg:There is no problem with parking, the room facilities are relatively old, the hot spring environment is a bit poor, the service is not mentioned, the room has no other advantages except for the big room, the carpet is bulging and it is easy to trip people
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in June 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted June 7, 2024
+msg:服務很好，酒店設施齊全，比較新，應該平時維護的很好。
+服務很好，酒店設施齊全，比較新，應該平時維護的很好。
+----------------------------------------
+name:Z‍a‍i‍l‍u‍s‍h‍a‍n‍g
+info:Deluxe Twin Room
+info:Stayed in June 2024
+info:Business travelers
+info:22 Reviews
+rating:2.2
+posted:Posted June 6, 2024
+msg:設施老舊，最主要是給我的房間窗外被門頭擋得嚴嚴實實讓人非常壓抑。不會再去了
+----------------------------------------
+name:C‍i‍z‍h‍o‍u‍l‍a‍o‍z‍h‍a‍o
+info:Deluxe Family Suite
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:1.7
+posted:Posted May 27, 2024
+msg:價格太高，服務死板。
+----------------------------------------
+name:Z‍h‍o‍n‍g‍s‍h‍e‍n‍g
+info:Deluxe Queen Room
+info:Stayed in August 2022
+info:Business travelers
+info:2 Reviews
+rating:1
+posted:Posted September 1, 2022
+msg:這是我住過的最垃圾的酒店！沒有之一！環境噁心，服務噁心！攜程竟然還把它拍在前面！餐廳晚餐衹有三五個老婦女服務員，點了一碗餃子等了四十分鐘一催再催之下終於端上來了，結果吃了幾個以後發現不對勁！是沒有煮熟的！害我一晚上肚子不舒服！好害怕傳染什麼疾病！攜程你拿什麼補償我的精神損失？
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in July 2023
+info:Business travelers
+info:46 Reviews
+rating:3
+posted:Posted July 28, 2023
+msg:設施：一般
+衞生：還可以
+環境：還可以
+服務：還可以
+----------------------------------------
+name:D‍a‍i‍n‍i‍n‍g‍e‍r
+info:Deluxe Family Suite
+info:Stayed in February 2024
+info:Family
+info:31 Reviews
+rating:4.2
+posted:Posted February 19, 2024
+msg:服務很一般了，硬件還一般
+----------------------------------------
+name:2‍0‍0‍8‍0‍1‍5‍1‍3‍2
+info:Deluxe Family Suite
+info:Stayed in March 2023
+info:Friends
+info:18 Reviews
+rating:5
+posted:Posted March 30, 2023
+msg:設施齊全很不錯，乾淨，周邊環境好，一眼能看到衡水湖，服務很熱情，自助早餐品種豐富
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in December 2023
+info:Family
+info:15 Reviews
+rating:5
+posted:Posted February 25, 2024
+msg:有浴盆挺好，房間也夠大。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in May 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted May 20, 2024
+msg:住了好幾次了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in May 2024
+info:Family
+info:12 Reviews
+rating:5
+posted:Posted May 19, 2024
+msg:乾淨舒適隔音
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2022
+info:Couples
+info:2 Reviews
+rating:3
+posted:Posted September 19, 2022
+msg:地理位置有偏僻，和老婆出來遛彎，走了兩公里愣是沒見到人羣。設備裝修有點陳舊，度假型酒店休閑娛樂設施有點匱乏。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in December 2023
+info:Business travelers
+info:24 Reviews
+rating:5
+posted:Posted December 7, 2023
+msg:安靜，衞生，停車方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2021
+info:Couples
+info:2 Reviews
+rating:1
+posted:Posted September 25, 2021
+msg:很老很老的酒店，進屋味道很大，馬桶有尿漬，給我e心壞了！絕了！房間裏燈光灰暗，好像小黑屋，特別費眼！早餐也太次了沒什麼吃的，酒店附近也什麼都沒有！衞生間的磚特別特別滑，還摔了跤！！不建議去，真的別去……
+🧹衞生：
+🍃環境：
+🔔服務：
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2023
+info:Business travelers
+info:21 Reviews
+rating:3
+posted:Posted November 18, 2023
+msg:設施太老舊了  沒有啥
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2024
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:滿意，挺好的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Standard Room With Lake View
+info:Stayed in October 2023
+info:Friends
+info:2 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:衡水湖環境優美酒店很專業
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in August 2023
+info:Family
+info:16 Reviews
+rating:5
+posted:Posted October 1, 2023
+msg:在當地應該算是很不錯的酒店了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Suite
+info:Stayed in September 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted October 5, 2023
+msg:好酒店地理位置好房間大
+----------------------------------------
+name:S‍h‍a‍n‍s‍h‍u‍i‍w‍e‍i‍f‍e‍n‍g
+info:Deluxe Twin Room
+info:Stayed in January 2022
+info:Family
+info:7 Reviews
+rating:4.7
+posted:Posted January 2, 2022
+msg:地理位置很不錯，設施全，豪華，服務也不錯。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Business Classic Suite
+info:Stayed in September 2023
+info:Friends
+info:5 Reviews
+rating:4
+posted:Posted September 25, 2023
+msg:酒店環境很好，交通方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:10 Reviews
+rating:5
+posted:Posted May 1, 2023
+msg:停車方便，設施齊全，早餐有點太清淡了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Suite
+info:Stayed in October 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted October 2, 2023
+msg:房間乾淨，性價比高
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Suite
+info:Stayed in January 2022
+info:Family
+info:12 Reviews
+rating:3
+posted:Posted January 2, 2022
+msg:元旦提前一個月預訂還598，除了停車方便沒啥亮點。早餐品種單一，沒有龍源酒店的早餐好。中午68元一位的自助更垃圾，菜品極少。連點水果都捨不得上，就兩種，聖女果和切的幾小塊的哈密瓜，半天不添。另外，要吐槽一下攜程。不知道咋回事兒，每次從攜程預訂的房間，到店都是偏僻的畸角旮旯，要不就是噪音極大的空調外機附近。如果不是看孩子不好訂房，肯定不會再來了。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in July 2022
+info:Business travelers
+info:5 Reviews
+rating:2.5
+posted:Posted July 10, 2022
+msg:下次不會再住 早餐太差 沒吃過這麼差的 品類就是15元標準 環境一言難盡 就是大點兒的2星酒店標準
+----------------------------------------
+name:Y‍a‍n‍g‍m‍e‍i‍l‍i
+info:Deluxe Queen Room
+info:Stayed in May 2023
+info:Business travelers
+info:81 Reviews
+rating:5
+posted:Posted May 8, 2023
+msg:酒店周邊環境好，房間乾淨衞生。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in May 2023
+info:Family
+info:1 Review
+rating:2.5
+posted:Posted May 2, 2023
+msg:前台服務差客房部説話態度不好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in May 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 22, 2023
+msg:很滿意。酒店服務很到位
+----------------------------------------
+name:Y‍u‍e‍s‍h‍a‍n‍g‍x‍i‍l‍o‍u
+info:Deluxe Queen Room
+info:Stayed in May 2023
+info:Business travelers
+info:4 Reviews
+rating:5
+posted:Posted May 18, 2023
+msg:房間設施齊全，衞生較好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2023
+info:Other
+info:14 Reviews
+rating:5
+posted:Posted September 14, 2023
+msg:餐飲服務不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Family-friendly Family Room
+info:Stayed in June 2023
+info:Family
+info:9 Reviews
+rating:5
+posted:Posted June 10, 2023
+msg:條件好，服務周到
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Family Suite
+info:Stayed in February 2022
+info:Other
+info:1 Review
+rating:4.2
+posted:Posted February 27, 2022
+msg:第一次入住，條件還是可以的，自助早晚餐品種太少，據前台服務人員介紹還可泡温泉，服務態度非常好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in September 2022
+info:Friends
+info:19 Reviews
+rating:2.5
+posted:Posted September 15, 2022
+msg:房間不小，前台態度不咋地，説話語氣硬硬的
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2021
+info:Couples
+info:5 Reviews
+rating:4
+posted:Posted October 7, 2021
+msg:老式酒店，離衡水湖很近，整體服務還不錯，早餐品種豐富，房間很大！有自己的停車場，停車方便。可能疫情原因，住客不多，有點冷清。晚餐上菜有點慢。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2023
+info:Business travelers
+info:8 Reviews
+rating:4.7
+posted:Posted April 3, 2023
+msg:隔音還是有點問題
+----------------------------------------
+name:H‍e‍i‍n‍o‍n‍g‍s‍h‍a‍l‍e‍i
+info:Queen Room With Lake View
+info:Stayed in July 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted July 24, 2023
+msg:環境不錯，
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in April 2023
+info:Other
+info:1 Review
+rating:5
+posted:Posted May 7, 2023
+msg:房間服務期不錯
+----------------------------------------
+name:B‍i‍n‍g‍z‍h‍o‍n‍g‍l‍i‍e‍y‍a‍n
+info:Deluxe Queen Room
+info:Stayed in March 2023
+info:Business travelers
+info:54 Reviews
+rating:5
+posted:Posted May 12, 2023
+msg:衡水最好的酒店
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in January 2022
+info:Business travelers
+info:108 Reviews
+rating:4.7
+posted:Posted January 16, 2022
+msg:總體性價比還是非常的不錯，畢竟是老牌子的大酒店，就是設施有些老舊了
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in September 2021
+info:Friends
+info:9 Reviews
+rating:5
+posted:Posted October 4, 2021
+msg:環境很好，絕對可以再來一次！一定得泡温泉，沒有嘗試過，所以試一下，得試一次，所以還會再來入住這家酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in February 2023
+info:Business travelers
+info:8 Reviews
+rating:3.7
+posted:Posted April 21, 2023
+msg:不錯，房間很大
+----------------------------------------
+name:Z‍h‍u‍q‍u‍e‍r‍e‍n‍j‍i‍a‍n‍y‍o‍u‍—‍s‍h‍u‍o‍z‍o‍u‍j‍i‍u‍z‍o‍u
+info:Deluxe Twin Room
+info:Stayed in June 2022
+info:Family
+info:52 Reviews
+rating:4.7
+posted:Posted June 27, 2022
+msg:服務好，住的舒適，回定了好幾次
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in February 2022
+info:Couples
+info:10 Reviews
+rating:5
+posted:Posted March 1, 2022
+msg:環境很好，服務到位，前台小姐責任心強！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in January 2023
+info:Business travelers
+info:3 Reviews
+rating:5
+posted:Posted March 18, 2023
+msg:環境很好👍
+----------------------------------------
+name:Y‍u‍z‍h‍o‍n‍g‍m‍a‍n‍b‍u‍0‍0‍9
+info:Deluxe Family Suite
+info:Stayed in May 2021
+info:Other
+info:14 Reviews
+rating:4
+posted:Posted August 10, 2021
+msg:還可以吧。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in October 2021
+info:Solo travelers
+info:1 Review
+rating:3
+posted:Posted October 21, 2021
+msg:設施一般，馬拉松日早餐提前到4:30還算貼心！
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in December 2021
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted December 27, 2021
+msg:很不錯，環境好，服務好，乾淨，舒適
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in July 2021
+info:Other
+info:11 Reviews
+rating:5
+posted:Posted August 1, 2021
+msg:房間大、設施不錯，服務温馨，温泉也很給力。早餐一般。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in May 2021
+info:Family
+info:3 Reviews
+rating:4.5
+posted:Posted July 8, 2021
+msg:温泉長青苔 樓下充電樁完全被佔 完全充不了電 不過前台的小姐姐很nice
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in September 2021
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted September 5, 2021
+msg:不錯，早餐豐富，中午晚上，餐廳菜好吃
+----------------------------------------
+name:D‍a‍c‍h‍a‍n‍m‍a‍o
+info:Deluxe Queen Room
+info:Stayed in December 2021
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted March 2, 2022
+msg:非常不錯 環境很好 ……
+----------------------------------------
+name:X‍i‍a‍j‍i‍a‍n‍f‍e‍n‍g
+info:Deluxe Twin Room
+info:Stayed in October 2021
+info:Friends
+info:1 Review
+rating:5
+posted:Posted October 18, 2021
+msg:酒店很乾凈，服務周到，很滿意。
+----------------------------------------
+name:B‍a‍l‍a‍n‍g‍y‍a‍l‍i‍u‍y‍i‍l‍o‍n‍g
+info:Deluxe Queen Room
+info:Stayed in September 2021
+info:Booked for others
+info:9 Reviews
+rating:5
+posted:Posted January 29, 2022
+msg:老爹還在裏面泡温泉，爹媽很滿意
+----------------------------------------
+name:a‍l‍i‍8‍7‍6‍2‍m
+info:Deluxe Twin Room
+info:Stayed in May 2021
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 24, 2021
+msg:很滿意 帶孩子來野生動物園時入住的 乾淨衞生
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in October 2021
+info:Family
+info:16 Reviews
+rating:4
+posted:Posted January 2, 2022
+msg:温泉不錯，周圍吃飯方便
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in January 2022
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted January 2, 2022
+msg:環境很好，不錯
+----------------------------------------
+name:C‍h‍e‍n‍g‍s‍h‍i‍t‍e‍z‍h‍a‍n‍d‍u‍i
+info:Deluxe Family Suite
+info:Stayed in July 2021
+info:Other
+info:15 Reviews
+rating:4
+posted:Posted July 13, 2021
+msg:怎麼説了，衹能説是還行
+----------------------------------------
+name:P‍i‍n‍g‍a‍n
+info:Deluxe Queen Room
+info:Stayed in March 2021
+info:Other
+info:8 Reviews
+rating:3
+posted:Posted August 27, 2021
+msg:酒店設施比較陳舊，前台服務還可以
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in May 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted July 27, 2021
+msg:服務好，環境好，價格合理
+----------------------------------------
+name:G‍u‍⭐‍️
+info:Deluxe Family Suite
+info:Stayed in July 2021
+info:Family
+info:7 Reviews
+rating:2.7
+posted:Posted July 15, 2021
+msg:一般化。。。。。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in May 2021
+info:Family
+info:1 Review
+rating:5
+posted:Posted September 29, 2021
+msg:住了幾次，挺好的。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Queen Room
+info:Stayed in September 2021
+info:Friends
+info:11 Reviews
+rating:4
+posted:Posted January 30, 2022
+msg:還可以一住
+----------------------------------------
+name:H‍e‍c‍h‍u‍n‍f‍e‍n‍g
+info:Deluxe Queen Room
+info:Stayed in September 2021
+info:Family
+info:15 Reviews
+rating:3.2
+posted:Posted November 26, 2021
+msg:總體還可以
+----------------------------------------
+name:X‍i‍a‍o‍x‍i‍a‍o‍n‍i‍u‍5‍1‍0
+info:Deluxe Twin Room
+info:Stayed in May 2021
+info:Other
+info:2 Reviews
+rating:5
+posted:Posted June 30, 2021
+msg:非常好，很棒
+----------------------------------------
+name:M‍o‍j‍i‍w‍e‍n
+info:Deluxe Twin Room
+info:Stayed in April 2021
+info:Business travelers
+info:5 Reviews
+rating:5
+posted:Posted July 12, 2021
+msg:周邊環境不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Deluxe Twin Room
+info:Stayed in May 2021
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted June 9, 2021
+msg:温泉不錯的
+----------------------------------------
+name:W‍e‍n‍g‍y‍u‍x‍u‍e
+info:Deluxe Queen Room
+info:Stayed in April 2021
+info:Business travelers
+info:6 Reviews
+rating:5
+posted:Posted June 17, 2021
+msg:環境優雅！
+----------------------------------------

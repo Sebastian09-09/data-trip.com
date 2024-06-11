@@ -1,0 +1,442 @@
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:4.7
+posted:Posted April 23, 2024
+msg:整體環境很不錯 民宿的環境更是讓人驚艷，綠樹環繞，空氣清新。院子裏的花草打理得井井有條，讓人彷彿置身於一個小花園。工作人員的服務也非常周到，熱情友好。早餐也不錯
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (Double bed)
+info:Stayed in March 2024
+info:Couples
+info:6 Reviews
+rating:4.7
+posted:Posted March 30, 2024
+msg:體驗感拉滿，風景絕佳，住在懸崖邊的，風景無迪。吃的也好吃，在山裡這樣的地方，能吃西餐和中餐，很不容易了。雲丘山景區也沒什麼人，景區內的服務人員非常有禮貌和周到。體驗感很好
+但是要提一個建議，半夜三點，有一家子沒素質的客人在庭院裏大聲説話喝酒，吵的人不能睡覺，商家也沒有人出來阻止。
+----------------------------------------
+name:J‍i‍e‍f‍u‍r‍u‍i‍1
+info:Guestroom - Double Occupancy (Double bed)
+info:Stayed in April 2024
+info:Friends
+info:20 Reviews
+rating:4.7
+posted:Posted May 10, 2024
+msg:房子很特別 比想象中的小 很新奇的體驗 沒有住過這種房子 可惜樓下燒烤沒有開 要是開的話就更爽了 山上真的沒啥吃的 也點不到外賣 餓餓餓
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in March 2024
+info:Family
+info:5 Reviews
+rating:5
+posted:Posted March 25, 2024
+msg:服務很好，早餐是定食類型~景色非常好，離纜車很近節省了很多體力，衹是這次天空不作美 沒看到銀河，期待下次來能看到銀河~
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in March 2024
+info:Couples
+info:2 Reviews
+rating:5
+posted:Posted April 1, 2024
+msg:感覺所有的服務人員態度非常周到熱情，唯一不滿意的是這個季節的山還沒綠，夏天來應該會更美（⁎⁍̴̛ᴗ⁍̴̛⁎）
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Other
+info:7 Reviews
+rating:5
+posted:Posted May 23, 2024
+msg:特別好，還送了小禮物，環境棒
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in April 2024
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted May 26, 2024
+msg:非常棒，端午節繼續來
+----------------------------------------
+name:Q‍i‍u‍r‍i‍c‍h‍u‍a‍n‍q‍i‍（‍K‍a‍t‍h‍y‍.‍l‍i‍u‍j‍i‍n‍g‍）
+info:Stayed in September 2023
+info:Couples
+info:18 Reviews
+rating:5
+posted:Posted September 24, 2023
+msg:很喜歡很滿意雖然房間略小了一點，但可以説麻雀雖小五臟俱全，而且擁有一條獨有的上山道。原計劃呆一晚後來因下雨延了一晚，看星變成了聽雨。周圍很安靜很享受除了偶爾隔壁房間的鄰居嗓門很大在陽台上大聲説話。
+----------------------------------------
+name:B‍u‍g‍a‍o‍x‍i‍n‍g
+info:Stayed in September 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted September 19, 2023
+msg:這個價錢絕對值得！首先景色絕美，所有房間都能看到日出，但這次很遺憾半夜下雨沒看到，有機會下次一定再來！！房間裏的熱水器、空調、潔具和床墊等都是品牌的。其次吃的雖然貴，但是量很大，味道不錯，中西餐應有盡有，以及免費的早餐味道也很好。最後，特別強調，民宿工作人員十分盡責，我們下午在景區玩的比較晚，坐不上回酒店的纜車了，結果酒店負責人見我們遲遲沒回，跟我們聯繫，得知我們的情況後，給我們聯繫了擺渡車，聯繫纜車，積極跟進我們的回程進度，最後安全到酒店。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in October 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted October 28, 2023
+msg:非常棒的一次住宿體驗，房間乾淨有格調，感受崇山之巔的靜謐與美景，躺在床上看日出日落明月星辰，別有一番情調。餐食也特別的好吃。強力推薦。
+----------------------------------------
+name:z‍z‍y‍y‍j‍j‍8‍6
+info:Stayed in October 2023
+info:Family
+info:6 Reviews
+rating:5
+posted:Posted October 4, 2023
+msg:房間很好，設施完備，窗外景色美，建議乘坐纜車來，服務熱情周到。雖然夜晚因為天氣沒有看到星星，但是早上沒有錯過日出。下次時間來得及，會多住幾天。
+----------------------------------------
+name:S‍h‍a‍n‍s‍h‍i‍1‍2‍9
+info:Stayed in August 2023
+info:Family
+info:6 Reviews
+rating:4.5
+posted:Posted August 20, 2023
+msg:房間很乾凈，山頂的晚風十分涼爽，比空調舒服。酒店在景區內，開車進來要看訂單，孩子也要看門前。其實安排兩個半天的旅程更合理。下午開車到酒店住宿，休息一下取了送的門票，從門前的路爬山去土地廟300米，然後下山去冰洞，下午五點前後人少，自己單獨購票。再前行不久可以坐5元的電瓶車，到塔爾坡古村，步行穿村再坐景區中巴回大門換乘去聖母谷，乘坐贈送的索道上山走回酒店休息。第二天上午再去玉皇頂，估計也就不到1公里。這樣兩天運動量比較平均。唯一的不足是早餐，80元就一根烤腸一片培根半根小油條，一小牙餅，一段酸黃瓜一口沙拉一杯牛奶一塊小蛋糕，不如自己泡麪加腸吃的舒坦。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (Double bed)
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 17, 2023
+msg:服務超級棒，因為行程安排不合適，晚上上山前已經快九點了，酒店還是很貼心地安排師傅開車送我們上山，真心服務一級棒，感謝景區服務人員的熱情款待和貼心服務，感謝🙏當然，酒店環境那是沒得説，看圖就行啦
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted August 2, 2023
+msg:酒店在山頂處，從後山可以直接開車上去，包含兩張景區門票，就不用再單獨買票了。
+
+設施：全新
+衞生：乾淨、整潔
+環境：山頂景色很好
+服務：服務熱情，會主動介紹遊玩路線
+
+住在山頂可以直接坐纜車下山，走一段路就到了聖母谷乘車點，可以換成大巴車到達神仙峪。
+酒店準備的早餐量挺大的，兩個人足夠可以吃飽吃好。
+唯一遺憾的是入住期間趕上陰天+大霧，星星和日出都沒有看到，大家入住前一定要看好天氣預報。
+另外餐飲價格有些貴，如果能優惠些就更好了。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:4
+posted:Posted July 20, 2023
+msg:環境不錯，是我喜歡的那種住宿感覺。位置離索道也近。車子直接可以開到酒店門口。前台服務人員也會給細心我們提供遊覽路線。比較省時省力。還基本都玩完了。然後回來住房休息。晚上可以看星空銀河系（・ω＜ ）★。早上躺床上就可以看日出🌄。早餐酒店含的還不錯吧。總體來説非常不錯的體驗。但是提個建議，餐品太貴，而且選擇性太少。
+----------------------------------------
+name:D‍a‍n‍d‍a‍n‍n‍i‍n‍g
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 19, 2023
+msg:追風、追雲、追日出非常棒
+一定要提前預約 就是吃的品類有點少，晚上活動比較少，下一次還要去， 美宿 · 浩瀚星河與絕美日出 輕野HOME是一個地理位置絕佳，個性十足的太空艙民宿。在這裏，可以眺望羣山、欣賞雲海、觀明月、看星空，將雲丘山自然山野的奢華美景盡收眼底。#自然風光# #山西
+----------------------------------------
+name:c‍h‍e‍r‍u‍b‍m‍e
+info:Stayed in September 2023
+info:Family
+info:17 Reviews
+rating:5
+posted:Posted November 29, 2023
+msg:峭壁上的民宿，體驗感極佳！環境優美風景宜人！房間設施齊全舒適便捷！下次還要來！照片沒有拍出效果，下次要出大片！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in July 2023
+info:Family
+info:4 Reviews
+rating:4.7
+posted:Posted July 7, 2023
+msg:雲丘山的整體服務我給95分，這5分扣分就是在輕野Home. 整體體驗真的特好，景區管理太棒啦。輕野的問題包括床太軟啦，睡一晚不舒服。全封閉的房間不能開窗房間太悶，我們是開門睡的。由於酒店地理位置比高，飲食的選擇比較少，而且我們當天入住估計有領導，所以早餐雖然先到的餐廳，但是領導來了，就給領導們先上的菜。服務員真的都挺棒的，提出問題解決很快，還會再來。雲丘山真是山西寶藏旅遊聖地。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (Double bed)
+info:Stayed in August 2023
+info:Couples
+info:4 Reviews
+rating:4.7
+posted:Posted August 23, 2023
+msg:環境真的是一級棒，酒店的服務人員態度也都很好，晚餐點了中餐味道不錯，酒店的早餐也很豐盛。躺在床上就可以看星空🌌
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in June 2024
+info:Couples
+info:24 Reviews
+rating:5
+posted:Posted June 2, 2024
+msg:雖然標價看着很高，但包含一頓豐盛早餐和兩張門票擺渡車票纜車票，還是合適的。風景和服務都沒得説，很棒！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (Double bed)
+info:Stayed in October 2023
+info:Solo travelers
+info:5 Reviews
+rating:5
+posted:Posted December 21, 2023
+msg:體驗感非常好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in August 2023
+info:Family
+info:2 Reviews
+rating:5
+posted:Posted August 6, 2023
+msg:非常滿意，各方面都很完美，適合體驗，建議大家去住
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in September 2023
+info:Family
+info:5 Reviews
+rating:3.7
+posted:Posted September 21, 2023
+msg:酒店創意很好，前台小夥子服務太差。訂了三間房，山上冷，房間被子薄，第一次打電話要加個被子，態度就不友好；第二次給爸媽要被子，竟然直接説加被子要加錢。從來沒在任何酒店遇到這種情況，想問問酒店這是你們的規定嗎？
+第二天退房，説是要檢查房間讓我等着。首先，現在退房哪裡還需要客人等着的？其次，我説我先去車上放行李，等檢查完打我電話通知一下，我好離店，但答應好的電話通知最終也沒等到。
+服務員大媽很好，幫我們最終都加了被子；第二天的前台女孩很好，幫我仔細介紹規劃了景區遊覽行程；廚房小哥也很好，幫我們切西瓜，全程微笑服務。
+但從沒見過如此差勁的男前台，尤其是這個價位的酒店！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in July 2023
+info:Family
+info:13 Reviews
+rating:5
+posted:Posted August 9, 2023
+msg:很有特色，風景優美，適合帶孩子體驗，早餐搭配的不錯
+----------------------------------------
+name:H‍a‍i‍b‍a‍o‍t‍a‍b‍a
+info:Guestroom - Double Occupancy (Double bed)
+info:Stayed in August 2023
+info:Couples
+info:14 Reviews
+rating:5
+posted:Posted August 17, 2023
+msg:風景獨秀，看日出絕佳。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (Double bed)
+info:Stayed in August 2023
+info:Couples
+info:7 Reviews
+rating:5
+posted:Posted August 2, 2023
+msg:設施新、衞生佳、環境好，服務負責
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in August 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted September 2, 2023
+msg:入住體驗絕佳！到達的時候酒店服務人員已經在門外等候了，服務特別周到貼心！酒店所到之處都很美。太空艙裏面很乾凈，洗漱用品等都很高級，還為我們準備了足夠的水和水果。第二天早起看了日出，絕美！早餐味道很好，搭配豐富，還可以續餐。從酒店出發遊雲丘山很省力，先下山路線遊玩再坐小交通纜車回到酒店。來雲丘山遊玩的朋友們選擇輕野一定會有愉快的收穫！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in June 2023
+info:Friends
+info:8 Reviews
+rating:5
+posted:Posted June 19, 2023
+msg:性價比超高的酒店在山頂可觀日出和銀河早餐非常美味可口
+----------------------------------------
+name:L‍i‍a‍n‍g‍m‍i‍n‍1‍1‍1
+info:Stayed in August 2023
+info:Couples
+info:1 Review
+rating:5
+posted:Posted August 2, 2023
+msg:體驗感十足，休閑好地方，餐廳雖然菜品略少，但是品質很好。總之，有空還想去！
+
+設施：好
+衞生：乾淨
+環境：優美
+服務：周到
+早餐:豐盛
+雲丘山景區門票&單人擺渡車票:包含在房費內
+----------------------------------------
+name:H‍e‍n‍g‍j‍i‍j‍i‍w‍a‍i‍w‍a‍i
+info:Guestroom - Double Occupancy (Double bed)
+info:Stayed in June 2023
+info:Friends
+info:1 Review
+rating:5
+posted:Posted June 7, 2023
+msg:很棒～絕絕子的那種
+----------------------------------------
+name:D‍o‍n‍g‍y‍u‍n‍d‍e‍l‍a‍o‍g‍o‍n‍g
+info:Guestroom - Double Occupancy (Double bed)
+info:Stayed in May 2024
+info:Couples
+info:10 Reviews
+rating:4.8
+posted:Posted May 10, 2024
+msg:無可挑剔，景色太美。這次還看到了日出和漫天羣星，太值了。
+----------------------------------------
+name:X‍m‍s‍a‍n‍d‍m‍a‍n
+info:Guestroom - Double Occupancy (Double bed)
+info:Stayed in April 2024
+info:Family
+info:10 Reviews
+rating:5
+posted:Posted April 6, 2024
+msg:這個雖然貴一點但是多一個玻璃客廳和懸崖陽台，性價比更高，推薦！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (Double bed)
+info:Stayed in April 2024
+info:Friends
+info:1 Review
+rating:5
+posted:Posted April 24, 2024
+msg:設施：很好
+衞生：乾淨
+環境：絕美
+服務：很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in August 2023
+info:Solo travelers
+info:10 Reviews
+rating:4.7
+posted:Posted September 2, 2023
+msg:扣的一分就是去程車接近沒電狀態，酒店配車跟不上。。其它都非常棒啊。
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Stayed in August 2023
+info:Couples
+info:82 Reviews
+rating:5
+posted:Posted November 12, 2023
+msg:從後山上車，就在山頂上。可以看日出。體驗很不錯。就是價格高點。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in June 2023
+info:Couples
+info:7 Reviews
+rating:4.5
+posted:Posted June 9, 2023
+msg:沒有再見到前一天的男前台 所以一切都還不錯
+
+套餐裏的索道一直是維修狀態
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in May 2024
+info:Family
+info:1 Review
+rating:5
+posted:Posted May 5, 2024
+msg:棒極了！極好極好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in July 2023
+info:Solo travelers
+info:2 Reviews
+rating:5
+posted:Posted July 26, 2023
+msg:衞生服務好，大山深處房倉住宿，環境優美，旅行打卡處
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in November 2023
+info:Other
+info:4 Reviews
+rating:4.5
+posted:Posted November 12, 2023
+msg:酒店所處位置很棒，服務也不錯！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in July 2023
+info:Friends
+info:16 Reviews
+rating:5
+posted:Posted July 28, 2023
+msg:在山頂一家特色的酒店！服務熱情。景美空氣好。
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in July 2023
+info:Family
+info:3 Reviews
+rating:5
+posted:Posted July 23, 2023
+msg:衞生：好
+環境：好
+服務：好
+設施：好！
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in April 2024
+info:Friends
+info:30 Reviews
+rating:5
+posted:Posted May 3, 2024
+msg:非常好 不錯
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Stayed in October 2023
+info:Family
+info:7 Reviews
+rating:5
+posted:Posted October 25, 2023
+msg:超出預期 推薦登山者一住
+----------------------------------------
+name:B‍a‍i‍b‍a‍i‍#‍#
+info:Stayed in November 2023
+info:Business travelers
+info:12 Reviews
+rating:5
+posted:Posted December 12, 2023
+msg:日出很美，感覺很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in August 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted September 27, 2023
+msg:風景優美，環境很好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Guestroom - Double Occupancy (Double bed)
+info:Stayed in April 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted April 9, 2023
+msg:服務很棒，觀日出很有優勢
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in August 2023
+info:Family
+info:1 Review
+rating:5
+posted:Posted August 16, 2023
+msg:服務好，態度好
+----------------------------------------
+name:G‍u‍e‍s‍t‍ ‍U‍s‍e‍r
+info:Stayed in June 2023
+info:Friends
+info:10 Reviews
+rating:5
+posted:Posted June 27, 2023
+msg:很棒，會繼續支持
+----------------------------------------
+name:A‍n‍o‍n‍y‍m‍o‍u‍s‍ ‍U‍s‍e‍r
+info:Stayed in June 2023
+info:Family
+info:4 Reviews
+rating:5
+posted:Posted June 23, 2023
+msg:特別好繼續努力
+----------------------------------------
+name:L‍i‍h‍u‍o‍h‍u‍o‍a
+info:Stayed in May 2023
+info:Family
+info:18 Reviews
+rating:1
+posted:Posted May 20, 2023
+msg:強制消費，捆綁消費，體感特別差，提前一天訂的房子，去的當天，就跟酒店各種糾紛，一肚子氣去的，一肚子氣回來的，不是旅遊，是被坑的，1千多的房價，各種規定服務都配不上，
+----------------------------------------
